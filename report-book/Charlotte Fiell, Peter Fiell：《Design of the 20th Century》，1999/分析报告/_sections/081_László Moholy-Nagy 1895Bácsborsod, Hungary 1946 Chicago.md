@@ -1,0 +1,1 @@
+## László Moholy-Nagy 1895Bácsborsod, Hungary 1946 Chicago ![](images/b3b6a8ab7556bda05d0bb2f645c465c09460e24cb2b9c713a6c746b01afaf230.jpg) ▼ Herbert Bayer, placard for "Experiment in Totality: Moholy-Nagy", 1950 ## where his studentsincluded

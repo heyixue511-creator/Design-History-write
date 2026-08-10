@@ -1,0 +1,2 @@
+﻿# 24_A Significance for A&P Parking Lots.md## 一、章节定位与功能
+Robert Venturi, Denise Scott Brown & Steven Izenour (1972)。选自后现代建筑理论的奠基文本《向拉斯维加斯学习》(Learning from Las Vegas)。该文以A&P超市停车场和拉斯维加斯Strip上的广告牌为案例，提出经典的类型学区分：'duck'(鸭子：建筑自身即为符号/雕塑) vs. 'decorated shed'(装饰的棚屋：中性的空间容器+表面的符号/装饰)。核心论点为后现代设计理论奠定了'符号/意义优先于结构/功能'的原则。实体：Venturi, Scott Brown, Izenour L85; Las Vegas Strip; duck vs. decorated shed; Learning from Las Vegas (1972) L85。关联：为Section 5奠定理论基础，启发了Ch25-29的所有后续文本。

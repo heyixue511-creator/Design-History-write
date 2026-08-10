@@ -1,0 +1,1 @@
+﻿John A. Walker (1989)。选自同名教材的开篇章。Walker在此提出了设计史学科最具影响力的概念区分：'Design History'(设计史——研究设计的学术学科) vs. 'the history of design'(设计的历史——过去发生的设计事件/实践，即学科的对象)。这一区分也被本书编者在全书中采纳为结构原则。Walker明确论证设计史已是一门discipline。实体：Walker L125; discipline vs. field of study; design historians vs. historians of design; production-consumption model L125。关联：直接回应Dilnot(Ch38)；被编者在总导言(L5)中引用为全书的结构逻辑。

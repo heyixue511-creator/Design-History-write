@@ -1,0 +1,1 @@
+﻿Ruth Schwartz Cowan (1989)。美国技术史家。通过追溯电冰箱从'危险的早期气体冷却器'到'安全安静的家电'的技术-社会史，展示了'技术争议'(controversy)如何被'消费选择'和市场力量解决（而非'更好的技术'）。冰箱的'hun'(嗡嗡声)是电动压缩机战胜气体吸收技术的'声音遗产'。核心论点：'消费'作为技术演化的重要驱动力。实体：Cowan L144; gas vs. electric refrigerator; consumer choice as technology driver; 'the hum' as technological legacy L144。关联：与Ch43共同展示了家庭技术史研究的不同方法——Cowan的技术史视角vs. Csikszentmihalyi的心理学视角。

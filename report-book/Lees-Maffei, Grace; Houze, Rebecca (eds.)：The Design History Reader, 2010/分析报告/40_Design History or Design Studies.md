@@ -1,0 +1,1 @@
+﻿Victor Margolin (1992)。美国设计研究的重要理论家。Margolin在此文中争论：设计史应该被纳入更广泛的'设计研究'(design studies)框架内，而不应固执于独立的学科身份。设计研究是一个跨学科领域，涵盖设计史、设计批评、设计理论、设计教育等，设计史应当在此更大的生态系统中寻找位置。实体：Margolin L129; design studies as interdisciplinary field; subject matter and methods L129。关联：与Woodham(Ch41)立场对立——Margolin主张'融入'，Woodham主张'抵抗'。

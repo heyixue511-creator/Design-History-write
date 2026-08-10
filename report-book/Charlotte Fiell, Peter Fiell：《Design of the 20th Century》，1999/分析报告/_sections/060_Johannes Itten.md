@@ -1,0 +1,1 @@
+## Johannes Itten ![](images/983aa363f72d6e44f6a3ededdbb81ca7f60bceb03356218ddc7204c2c2440085.jpg) ▼ Johannes Itten & Friedl Dicker, Text page from “Utopia, Dokument der Wirklichkeit", 1921 ![](images/0a71772d6d102019074ab46de31fd8309888a31887df8cfb57c28b3bfef58bd6.jpg)

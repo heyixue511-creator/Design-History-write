@@ -1,0 +1,1 @@
+﻿Dick Hebdige (1981)。伯明翰学派文化研究的经典文本。Hebdige通过分析意大利Vespa/Lambretta滑板车在英国Mods亚文化中的'三个时刻'(commodity/product/object)，展示了物品的意义如何在使用中被重新'协商'和'创造'——滑板车作为'image'承载了意大利性、女性气质、阶级身份的复杂符码互动。实体：Hebdige L137; Vespa/Lambretta; Mods subculture; three moments (commodity/product/object); bricolage L137。关联：与Ch25(Baudrillard)和Ch54(Barthes)共享符号学分析传统。

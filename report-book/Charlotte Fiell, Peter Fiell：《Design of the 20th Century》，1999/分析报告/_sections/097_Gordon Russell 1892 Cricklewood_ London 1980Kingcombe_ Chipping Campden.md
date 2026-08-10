@@ -1,0 +1,1 @@
+## Gordon Russell 1892 Cricklewood/ London 1980Kingcombe/ Chipping Campden ![](images/99ca1ae6c200e4b3ed0f77680e6579891004e8c4194d1032ca992c602b4590bc.jpg) ▲ Bedroom furniture for Russell & Sons, early 1920s

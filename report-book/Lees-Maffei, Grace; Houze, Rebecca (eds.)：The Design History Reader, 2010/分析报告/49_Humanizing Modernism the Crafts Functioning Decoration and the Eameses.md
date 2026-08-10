@@ -1,0 +1,1 @@
+﻿Pat Kirkham (1998)。修正史学重估Charles & Ray Eames的合作关系——Ray Eames的艺术贡献长期被'Charles Eames=伟大的现代设计师'的叙事遮蔽。Kirkham使用'functioning decoration'(功能性装饰)这一概念重新评价Eames工作室中手工艺与装饰的角色：Eameses的成功正是因为他们没有遵守现代主义'形式追随功能'的教条。实体：Kirkham L158; Charles & Ray Eames; functioning decoration; gendered collaboration; Herman Miller L158。关联：与Ch18(Maffei)中对Eames家具作为'美国现代主义黄金时代'的叙述形成对话。

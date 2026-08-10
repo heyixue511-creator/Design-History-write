@@ -1,0 +1,1 @@
+﻿Mihaly Csikszentmihalyi & Eugene Rochberg-Halton (1981)。基于实证心理学/社会学方法对芝加哥地区82个家庭'最珍爱的家庭物品'进行访谈研究。关键发现：家具是最常被提到的珍爱物品类别(36%)；'意义'远重于'物质价值'；老人倾向于珍爱'回忆性物品'(照片等)，年轻人倾向于珍爱'行动性物品'(乐器/运动器材等)——物品的'意义'随人生阶段变化。实体：Csikszentmihalyi, Rochberg-Halton L139; empirical study of object meaning; furniture 36%; person-related vs. non-person-related reasons L139。关联：为Section 8提供了一种不同于符号学的实证方法论路径。

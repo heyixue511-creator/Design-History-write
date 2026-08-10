@@ -1,0 +1,1 @@
+﻿Paul Greenhalgh (1987)。Greenhalgh追溯了'美术'(fine arts)与'装饰艺术'(decorative arts)在欧洲文化史中分离的历史过程——这种分离导致了'art'被抬高、'craft'被贬低的等级制度。该文为理解Section 1-3中Morris/Ruskin/艺术与手工艺运动的立场提供了宏大的历史语境。实体：Greenhalgh L146; separation of fine and decorative arts; craft history; hierarchy of arts; academic art system L146。关联：为Ch46(Burks: Shaker Furniture)提供了'手工艺'概念史的理论框架。

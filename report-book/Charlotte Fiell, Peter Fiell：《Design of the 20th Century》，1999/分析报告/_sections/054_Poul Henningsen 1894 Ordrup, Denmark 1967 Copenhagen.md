@@ -1,0 +1,1 @@
+## Poul Henningsen 1894 Ordrup, Denmark 1967 Copenhagen ![](images/d2fffff734d22cf6781a6aa4930ca3d279d18b4a5dd2cefcfe51a2cfa1cb2f72.jpg) PH Artichoke hanging lamp for Louis Poulsen, 1957 ▼PH4-3 table lamp for Louis Poulsen, 1966 ![](images/4f9a419d4ee852f4d55dd536074446cc1e213e920b51859ce99a168230b543b2.jpg)

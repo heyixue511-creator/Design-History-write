@@ -1,0 +1,1 @@
+﻿Jonathan M. Woodham (1995)。以'抵抗殖民化'(Resisting Colonization)的强烈隐喻为设计史的学科独立性辩护。Woodham反对将设计史被纳入艺术史、文化研究或设计研究的尝试——设计史'有自己的身份'(has its own identity)，不应成为其它学科的'殖民地'。实体：Woodham L131; Resisting Colonization; institutional autonomy; Design History Society; disciplinary identity L131。关联：与Margolin(Ch40)构成Section 7的最终辩论回合。

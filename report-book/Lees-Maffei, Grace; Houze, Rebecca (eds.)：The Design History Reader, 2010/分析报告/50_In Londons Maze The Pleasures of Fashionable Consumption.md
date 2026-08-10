@@ -1,0 +1,1 @@
+﻿Christopher Breward (1999)。选自The Hidden Consumer: Masculinities, Fashion and City Life 1860-1914。Breward分析了19世纪末伦敦男性如何参与时尚消费——挑战了'消费=女性领域'的刻板印象。西区(West End)的裁缝店、俱乐部、商业拱廊(arcades)是男性时尚消费的'游乐场'(playground)。实体：Breward L160; Victorian/Edwardian male consumption; West End London; hidden consumer; masculinities L160。关联：与Ch51(Bengry-Howell & Griffin)构成跨世纪的男性消费研究——19世纪末的裁缝店到21世纪的汽车改装。

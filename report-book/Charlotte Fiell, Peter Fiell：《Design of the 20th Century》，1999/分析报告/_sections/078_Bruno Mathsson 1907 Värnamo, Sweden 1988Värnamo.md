@@ -1,0 +1,1 @@
+## Bruno Mathsson 1907 Värnamo, Sweden 1988Värnamo ![](images/891cbed1b6b5b1d2c9bbb96272d437d6a7881eaed395a507b91e18c632ebbac5.jpg) ▲ Pernilla lounge chairs and chaise longue for Karl Mathsson, c. 1934

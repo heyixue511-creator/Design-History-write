@@ -1,0 +1,1 @@
+## Gunta Stölzl 1897 Munich 1983 Küssnacht, Switzerland ![](images/cb87ba96ed3002413408a9fa197df7e1b4500ca050462d382b1aa3a043d1908e.jpg) Watercolour design for a textile, C. 1925-1926

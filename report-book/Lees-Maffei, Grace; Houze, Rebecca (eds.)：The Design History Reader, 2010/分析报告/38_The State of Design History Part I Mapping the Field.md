@@ -1,0 +1,1 @@
+﻿Clive Dilnot (1984)。里程碑式的设计史学史论文。Dilnot绘制了'设计史领域地图'(Mapping the Field)，追溯设计史从'1939年之前几乎不存在'到1980年代的发展轨迹。核心判断：设计史尚未发展出自身的方法论，因此't00 early to claim disciplinary status'——这一判断成为了Walker(Ch39)和Woodham(Ch41)辩论的起点。实体：Dilnot L123; emergence of design history; pre-1939 absence L123。关联：直接触发Walker (Ch39)的回应——后者以教科书形式论证设计史的学科地位。

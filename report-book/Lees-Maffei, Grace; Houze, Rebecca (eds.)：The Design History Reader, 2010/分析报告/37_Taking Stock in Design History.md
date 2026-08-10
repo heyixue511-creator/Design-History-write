@@ -1,0 +1,1 @@
+﻿Fran Hannah & Tim Putnam (1980)。设计史学史第一篇系统的'盘点'文献。核心问题：'What is design? How, and for whom, has it existed? What is a history of design?'该文为当时刚刚形成的设计史学术社群提供了一份自我审视的清单，标志着设计史作为自觉学术实践的起点。实体：Hannah, Putnam L121; British design history formation; reflexive historiography L121。关联：开启了Section 7的学科身份辩论。

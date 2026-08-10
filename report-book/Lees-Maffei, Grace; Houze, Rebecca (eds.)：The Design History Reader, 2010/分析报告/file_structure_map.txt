@@ -1,0 +1,116 @@
+# Design History Reader - File Structure Map
+# Generated for parallel agent dispatch
+# Format: LINE_NUMBER: CONTENT_DESCRIPTION
+
+# FRONT MATTER
+3: ACKNOWLEDGEMENTS
+5: GENERAL INTRODUCTION (Grace Lees-Maffei)
+
+# PART I: HISTORIES
+7: PART I INTRODUCTION (Rebecca Houze)
+
+# SECTION 1: New Designers, 1676-1820
+9: SECTION 1 INTRODUCTION (Grace Lees-Maffei)
+11: CH01 - An Indian Basket, Providence, Rhode Island, 1676 (Laurel Thatcher Ulrich, 2001)
+13: CH02 - A Slipware Dish by Samuel Malkin: An Analysis of Vernacular Design (Darron Dean, 1994)
+15: CH03 - Of the Division of Labour (Adam Smith, 1776)
+17: CH04 - The Wedgwood Slave Medallion: Values in Eighteenth-Century Design (Mary Guyatt, 2000)
+25: CH05 - Manufacturing, Consumption and Design in Eighteenth-Century England (John Styles, 1993)
+
+# SECTION 2: Design Reform, 1820-1910
+29: SECTION 2 INTRODUCTION (Rebecca Houze)
+31: CH06 - Science, Industry, and Art (Gottfried Semper, 1852)
+35: CH07 - The Nature of Gothic (John Ruskin, 1853) [continues lines 37,39]
+41: CH08 - The Ideal Book (William Morris, 1893)
+43: CH09 - The 'American System' and Mass-Production (John Heskett, 1980)
+45: CH10 - The 1900 Paris Exposition (Debora Silverman, 1989)
+47: CH11 - The Art and Craft of the Machine (Frank Lloyd Wright, 1901)
+
+# SECTION 3: Modernisms, 1908-50
+51: SECTION 3 INTRODUCTION (Rebecca Houze)
+53: CH12 - Introduction to Modernism in Design (Paul Greenhalgh, 1990)
+55: CH13 - Ornament and Crime (Adolf Loos, 1908)
+57: CH14 - Werkbund Theses and Antitheses (Hermann Muthesius & Henry van de Velde, 1914)
+59: CH15 - The Modern Movement before Nineteen-Fourteen (Nikolaus Pevsner, 1936/1949)
+61: CH16 - The Coloristes and Charles-Edouard Jeanneret (Nancy Troy, 1991)
+63: CH17 - From Workshop to Laboratory (Gillian Naylor, 1985)
+65: CH18 - The Search for an American Design Aesthetic (Nicolas P. Maffei, 2003)
+
+# SECTION 4: War/Post-War/Cold War, 1943-70
+69: SECTION 4 INTRODUCTION (Grace Lees-Maffei)
+71: CH19 - Utility Furniture and the Myth of Utility 1943-1948 (Matthew Denney, 1999)
+73: CH20 - 'Here Is the Modern World Itself' (Becky Conekin, 1999)
+75: CH21 - Populuxe (Thomas Hine, 1987)
+77: CH22 - The Khrushchev Kitchen (Susan E. Reid, 2005)
+79: CH23 - All that Glitters is not Stainless (Reyner Banham, 1966)
+
+# SECTION 5: Postmodernisms, 1967-2006
+83: SECTION 5 INTRODUCTION (Rebecca Houze)
+85: CH24 - A Significance for A&P Parking Lots (Robert Venturi, Denise Scott Brown, Steven Izenour, 1972)
+87: CH25 - The Ecstasy of Communication (Jean Baudrillard, 1987)
+89: CH26 - There Is No Kitsch, There Is Only Design! (Gert Selle, 1984)
+91: CH27 - Deconstruction and Graphic Design: History Meets Theory (Ellen Lupton & J. Abbott Miller, 1994)
+93: CH28 - What Was Philippe Starck Thinking of? (Peter Lloyd & Dirk Snelders, 2003)
+95: CH29 - Fabricating Identities: Survival and the Imagination in Jamaican Dancehall Culture (Bibi Bakare-Yusuf, 2006)
+
+# SECTION 6: Sustainable Futures, 1960-2003
+99: SECTION 6 INTRODUCTION (Rebecca Houze)
+101: CH30 - Operating Manual for Spaceship Earth (R. Buckminster Fuller, 1969)
+103: CH31 - How to Outmode a $4,000 Vehicle in Two Years (Vance Packard, 1960)
+105: CH32 - Do-It-Yourself Murder (Victor Papanek, 1971)
+107: CH33 - Material Doubts and Plastic Fallout (Jeffrey L. Meikle, 1995)
+109: CH34 - Introduction to The Green Consumer Supermarket Guide (Joel Makower, John Elkington, Julia Hailes, 1991)
+111: CH35 - Redefining Rubbish: Commodity Disposal and Sourcing (Nicky Gregson & Louise Crewe, 2003)
+113: CH36 - The Hannover Principles: Design for Sustainability (William McDonough & Michael Braungart, 1992)
+
+# PART II: METHODS AND THEMES
+117: PART II INTRODUCTION (Grace Lees-Maffei)
+
+# SECTION 7: Foundations, Debates, Historiography, 1980-95
+119: SECTION 7 INTRODUCTION (Grace Lees-Maffei)
+121: CH37 - Taking Stock in Design History (Fran Hannah & Tim Putnam, 1980)
+123: CH38 - The State of Design History, Part I: Mapping the Field (Clive Dilnot, 1984)
+125: CH39 - Design History and the History of Design (John A. Walker, 1989) [continuation line 127]
+129: CH40 - Design History or Design Studies: Subject Matter and Methods (Victor Margolin, 1992)
+131: CH41 - Resisting Colonization: Design History Has Its Own Identity (Jonathan M. Woodham, 1995)
+
+# SECTION 8: Objects, Subjects and Negotiations
+135: SECTION 8 INTRODUCTION (Grace Lees-Maffei)
+137: CH42 - Object as Image: The Italian Scooter Cycle (Dick Hebdige, 1981)
+139: CH43 - The Most Cherished Objects in the Home (Mihaly Csikszentmihalyi & Eugene Rochberg-Halton, 1981)
+144: CH44 - How the Refrigerator got its Hum (Ruth Schwartz Cowan, 1989)
+146: CH45 - The History of Craft (Paul Greenhalgh, 1987)
+148: CH46 - Faith, Form and Finish: Shaker Furniture in Context (Jean M. Burks, 2008)
+
+# SECTION 9: Gender and Design
+152: SECTION 9 INTRODUCTION (Rebecca Houze)
+154: CH47 - FORM/female FOLLOWS FUNCTION/male: Feminist Critiques of Design (Judy Attfield, 1989)
+156: CH48 - The Architect's Wife (Penny Sparke, 1995)
+158: CH49 - Humanizing Modernism: the Crafts, 'Functioning Decoration' and the Eameses (Pat Kirkham, 1998)
+160: CH50 - 'In London's Maze': The Pleasures of Fashionable Consumption (Christopher Breward, 1999)
+164: CH51 - Self-Made Motormen (Andrew Bengry-Howell & Christine Griffin, 2007)
+
+# SECTION 10: Consumption
+168: SECTION 10 INTRODUCTION (Rebecca Houze)
+170: CH52 - The Fetishism of the Commodity and its Secret (Karl Marx, 1867)
+172: CH53 - Conspicuous Consumption (Thorstein Veblen, 1899)
+174: CH54 - Myth Today, The New Citroën, and Plastic (Roland Barthes, 1957)
+176: CH55 - Introduction and The Sense of Distinction (Pierre Bourdieu, 1979)
+178: CH56 - 'Parties Are the Answer': The Ascent of the Tupperware Party (Alison J. Clarke, 1999)
+180: CH57 - The Revolution Will Be Marketed (Robert E. Weems, Jr., 1994)
+
+# SECTION 11: Mediation
+184: SECTION 11 INTRODUCTION (Grace Lees-Maffei)
+186: CH58 - The Work of Art in the Age of Mechanical Reproduction (Walter Benjamin, 1936)
+188: CH59 - Advertising, Mother of Graphic Design (Steven Heller, 1995)
+190: CH60 - 'Decorators May Be Compared to Doctors' (Emma Ferry, 2005)
+192: CH61 - Integrative Practice: Oral History, Dress and Disability Studies (Liz Linthicum, 2006)
+194: CH62 - Introduction to Design and the Modern Magazine (Jeremy Aynsley & Kate Forde, 2007)
+
+# SECTION 12: Local/Regional/National/Global
+200: SECTION 12 INTRODUCTION (Grace Lees-Maffei)
+202: CH63 - Finding Poland in the Margins: The Case of the Zakopane Style (David Crowley, 2001)
+204: CH64 - Furniture Design and Colonialism (Tracey Avery, 2007)
+206: CH65 - 'From Baby's First Bath': Kaō Soap and Modern Japanese Commercial Design (Gennifer Weisenfeld, 2004)
+208: CH66 - Land Rover and Colonial-Style Adventure (Jeanne van Eeden, 2006)
+210: CH67 - Swoosh Identity: Recontextualizations in Haiti and Romania (Paul B. Bick & Sorina Chiper, 2007)

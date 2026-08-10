@@ -1,0 +1,2 @@
+﻿# 27_Deconstruction and Graphic Design.md## 一、章节定位与功能
+Ellen Lupton & J. Abbott Miller (1994)。选自美国平面设计理论的重要文本。该文将Jacques Derrida的'解构'(deconstruction)哲学引入平面设计理论——解构不是一种'风格'而是对视觉语言的批判性阅读/写作方式；它挑战了排版/版面设计中'透明性'的意识形态（即认为文字应当'透明地'传递意义而无自身的物质性）。实体：Lupton, Miller L91; Derrida; deconstruction; graphic design theory; typography as visible language; Cranbrook Academy L91。关联：与Ch25(Baudrillard)和Ch58(Benjamin)共享对'再现/符号'问题的理论关注。

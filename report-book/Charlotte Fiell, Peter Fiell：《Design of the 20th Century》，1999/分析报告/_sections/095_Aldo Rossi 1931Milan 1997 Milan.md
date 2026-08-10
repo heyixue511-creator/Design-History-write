@@ -1,0 +1,1 @@
+## Aldo Rossi 1931Milan 1997 Milan ![](images/3d5b0d359f31b35018a2cfae08bcd28550616d14a492ef401ae57f210b173f90.jpg) La Conica expresso coffee makers for Alessi, 1984 ▲ Designof La Cupola cafetièra for Alessi, 1989 ![](images/5bb1fa8139c1cb6fda2b90f4aeab4869aae53cc6d7e7d18dc78f089604b88309.jpg) ![](images/6dec319c103f88cfd05592e30eebcbe0a84460fd5e83b555231dc25a4c574dd5.jpg)
