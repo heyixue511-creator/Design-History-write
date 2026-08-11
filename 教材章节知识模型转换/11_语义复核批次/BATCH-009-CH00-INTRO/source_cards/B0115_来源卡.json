@@ -1,0 +1,74 @@
+{
+  "source_id": "B0115",
+  "corpus": "book",
+  "folder_name": "Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor",
+  "material_type": "设计史学术论文集（P1）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor.md",
+  "clean_source_sha256": "4B7205A9AFA9E0946A6E35E6B2019EF682AADC10FA63B377AFCCA10459597200",
+  "duplicate_group": "无精确哈希重复；导论确认Judy Attfield《Wild Things》（B0240）为设计史时间讨论的先行者，本书记载并推进该路径；与B0440（Walker）共享设计史学科史对象（1976年米德尔塞克斯会议以来的学科发展），同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 34,
+      "report_characters": 354763
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "digital_archives_and_narrative_production"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "social_construction_of_time"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "digital_traces_as_sources"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "queer_and_alternative_temporalities"
+    },
+    {
+      "section_id": "14.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "kindle_nonsynchronicity_digital_media"
+    },
+    {
+      "section_id": "15.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "long_now_and_speculative_time"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "论文集体裁：13篇独立署名论文，立场与文体差异大（编者明言“多声性”），引用须区分作者与篇目",
+    "2019年出版时点：数字媒介案例（eBay、Kindle第一代2007）部分已过时，平台机制须更新核实",
+    "理论建构性大于史料性：时间性框架（非共时性、时间运动、情感档案）为作者建构概念，教材引用须标注命题身份",
+    "案例集中于英美与欧洲，全球南方时间经验覆盖有限",
+    "部分章节（如Ch3文学报告式）文体实验性强，作史料使用时证据密度不均衡",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 分析报告.md：导论时间观念谱系（Thompson/Anderson/Hassan）；Attfield为先行者；“去历史化”危机",
+    "Ch7：eBay作为非官方数字档案馆（“原子风格”球棒家具关键词标签重塑叙事）；Ch8：情感档案（Muñoz“Who owns rigor?”）",
+    "Ch4：东德公共艺术“抛弃—怀旧—调适”三阶段；Ch5：巴塞罗斯公鸡与传统发明",
+    "Ch9：伦敦地铁时间机器（Beck 1933、Leslie Green彩釉瓷砖1905、Holden售票亭1930s、Dell程序机器1957—60）",
+    "Ch13：Kindle非共时性与六种时间运动；Ch12：万年钟（Long Now）、慢设计、思辨设计（Popper单程票2012）",
+    "Curtis前言：1976年米德尔塞克斯“休闲”会议以来的学科史；Banham 1960警告"
+  ]
+}

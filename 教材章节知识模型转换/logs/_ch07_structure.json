@@ -1,0 +1,883 @@
+{
+ "7.1": {
+  "grades": {
+   "B": 6,
+   "A": 3,
+   "C": 3,
+   "D": 1
+  },
+  "count": 13,
+  "items": [
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "A",
+    "verification": "V2",
+    "role": "radar_operator_as_technician",
+    "accepted_claim": "雷达操作者从战场士兵被重构为阅读与操纵表征的技师（XT-1封闭控制车、PPI虚拟地图、pip matching），构成战时数字化感知与人机界面的原型",
+    "evidence_boundary": "XT-1/PPI/操作者定义为档案史实；类似于今天与计算机交互为作者类比",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "A",
+    "verification": "V2",
+    "role": "system_integrator_institutional_role",
+    "accepted_claim": "系统集成者（Getting 八项职责与七项特权）证明系统思维同时是制度安排，是系统工程制度化与战后系统承包商（RAND、MITRE、TRW）的起源",
+    "evidence_boundary": "职责/特权清单出自1945.3档案；战后机构延续为作者推断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "A",
+    "verification": "V2",
+    "role": "wartime_radar_system_integration",
+    "accepted_claim": "雷达—火控系统集成是战时技术—制度共构的核心史实：SCR-584 雷达、M-9 电指挥仪与 VT 引信组合实现防空火控自动化，并催生系统集成者角色",
+    "evidence_boundary": "系统装备与战绩数据为档案史实；自动化最光辉时刻为作者框架命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "wartime_control_and_peacetime_conversion",
+    "accepted_claim": "战时国家对设计的管控（美国War Production Board限制民用品种、MoMA 1942年Useful Objects in Wartime展、英国1942年Utility计划）构成战后和平转用的制度基础",
+    "evidence_boundary": "Woodham未重点论述雷达等战时技术转民用；战时展与Utility教条均未俘获日常消费者",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "B",
+    "verification": "V2",
+    "role": "human_servomechanism_automation_justification",
+    "accepted_claim": "人的局限（判断失误、战斗狂热、反应迟缓、信息超载）被用作自动化合法性的论证资源，与人的伺服机构角色互为表里",
+    "evidence_boundary": "Getting 致 Furer 四论点（1945.4.26）为档案史实；自动化也是对人的控制为作者分析命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mark56_digital_interface",
+    "accepted_claim": "Mark 56 全集成火控系统（Svoboda四杆计算机、Librascope弹道计算机、舱内操作台）是战时数字化人机界面的档案史实",
+    "evidence_boundary": "1943设计/1947交付/从未实战为档案史实；其战后数字界面源头地位需谨慎表述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "B",
+    "verification": "V2",
+    "role": "noise_system_holism",
+    "accepted_claim": "噪声使系统不可分解，系统大于部件之和（Hazen 1945）作为系统思维认识论命题产生于战时火控经验",
+    "evidence_boundary": "T-10误差研究、Weaver信号/噪声类比为档案史实；信息一般量仅一句暗示",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "B",
+    "verification": "V2",
+    "role": "postwar_knowledge_institutionalization",
+    "accepted_claim": "Rad Lab Series 27 卷与 Theory of Servomechanisms（James-Nichols-Phillips）将战时雷达/伺服知识教材化，构成战时技术和平转用的文献通道",
+    "evidence_boundary": "1947-48出版物为档案史实；转用叙事须区分直接技术延续与知识扩散",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "B",
+    "verification": "V2",
+    "role": "tizard_mission_rad_lab",
+    "accepted_claim": "Tizard Mission（1940.9）腔磁控管转让与 MIT 辐射实验室建立是战时美英技术转移与雷达工业化的关键史实",
+    "evidence_boundary": "事件与机构为档案史实；路径选择器式因果判断为P4推演，仅作路由参考",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "C",
+    "verification": "V2",
+    "role": "automated_battlefield_seams",
+    "accepted_claim": "V-1对抗展示自动化战场的原型及其接缝：BTL报告揭示搜索/跟踪不可兼得、多源数据超载、手动跟踪不可替代",
+    "evidence_boundary": "BTL欧洲评估（1944.7-8）为档案史实；自动化战场雏形为作者框架命题",
+    "status": "ACCEPTED_AS_CONTEXT_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "C",
+    "verification": "V2",
+    "role": "naval_buord_institutional_inertia",
+    "accepted_claim": "BuOrd分解式采办与保密承包商网络无法整合雷达与火控，显示军事采办制度对技术整合的阻碍",
+    "evidence_boundary": "27种设计仅3种普及等为档案史实；保守评价部分依赖作者判断",
+    "status": "ACCEPTED_AS_CONTEXT_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ergonomics_wartime_origins",
+    "accepted_claim": "人体工程学的战时与技术起源：两次世界大战航空医学、泰勒科学管理、吉尔勃利斯、梅奥“霍桑效应”、查帕尼斯（1943）、穆里尔（1949）、IEA 1958年成立——7.1“战时技术与和平转用”的学科史线索",
+    "evidence_boundary": "二手概述；学科史细节以人体工程学专门文献为准",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "D",
+    "verification": "V2",
+    "role": "civilian_conversion_inference",
+    "accepted_claim": "战时系统集成与自动化经验向民用（信息论、计算机）扩散仅为作者推断，本书不提供民用影响证据",
+    "evidence_boundary": "民用影响在文本中仅以 information 一词暗示",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "7.2": {
+  "grades": {
+   "B": 4,
+   "A": 4
+  },
+  "count": 8,
+  "items": [
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "britain_can_make_it_1946",
+    "accepted_claim": "CoID组织的1946年Britain Can Make It展览是英国国家设计推广的标志性公共活动",
+    "evidence_boundary": "展览举办史实确定；Woodham暗示其对大众消费的实际影响有限",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "council_of_industrial_design_establishment",
+    "accepted_claim": "1944年英国政府设立工业设计委员会CoID（主席Thomas Barlow），初始拨款5.5万英镑，服务于战后出口与好设计推广",
+    "evidence_boundary": "制度史实确定；Woodham强调其历史感知被叙事夸大，机构设立不自动证明工业采用",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "festival_of_britain_1951",
+    "accepted_claim": "1951年英国节由CoID在主任Gordon Russell领导下遴选主要展场展品，是战后英国国家认同与设计推广的里程碑",
+    "evidence_boundary": "Woodham引Banham（载A Tonic to the Nation, 1976）破除英国节创造了新而有价值的英国风格并影响大众品味之说",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "good_design_label_britain",
+    "accepted_claim": "CoID 1957年启动Good Design Award Scheme（Design Centre Label），1956年开设Haymarket设计中心，构成英国版好设计标签体系",
+    "evidence_boundary": "Molony委员会认可其推广好设计，但批评Design Index与Design Centre Label缺乏价值、效率、耐久等严格标准，对消费者相关性有限",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0234",
+    "title": "Jonathan M. Woodham：《Dictionary of Modern Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "coid_dict_entry",
+    "accepted_claim": "CoID条目：1944年成立、教育消费者品味职能、1956年Haymarket设计中心、1972年更名Design Council",
+    "evidence_boundary": "条目为二手综合，年份/职能可快速参照；深度论证须回专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "council_for_art_and_industry_predecessor",
+    "accepted_claim": "CoID前身Council for Art and Industry（1933年成立）及其1937年报告《Design and the Designer in Industry》为英国国家设计推广的制度前史",
+    "evidence_boundary": "该报告一年后仅售出5,000册中的1,594册，显示国家推广影响力有限",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_educate_consumer_taste",
+    "accepted_claim": "CoID（1944年贸易部成立）以教育消费者品味推动战后英国good design；Design Council在Gordon Russell与Paul Reilly主导下推广软现代主义模式；1946 Britain Can Make It展与1951 Festival of Britain构成战后重建的展示性表达",
+    "evidence_boundary": "制度史实（成立年份、1946展、1951 Festival）可用；软现代主义、家长式角色为作者命题（引Huygen与自著）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "british_reconstruction_design_council",
+    "accepted_claim": "英国战后重建制度线：英国工业设计协会（1944年成立）、“英国能做到”展（1946）、设计中心（1956）、拉瑟尔等人物——7.2“英国重建与设计委员会”的中文教材叙述",
+    "evidence_boundary": "二手综合；与CoID档案侧（B0234/B0235）互校，机构沿革只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "7.3": {
+  "grades": {
+   "C": 3,
+   "D": 1,
+   "A": 3,
+   "B": 9
+  },
+  "count": 16,
+  "items": [
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "good_design_as_american_art_form",
+    "accepted_claim": "'优良设计、大规模生产的商品构成新美国艺术形式'——战后美国Good Design话语的行动者宣言；以Art on Wheels、博物馆参观数据论证公众品味提升",
+    "evidence_boundary": "属德雷福斯立场宣言与文化辩护；自引统计不能证明Good Design制度（MoMA、企业、中产消费）全貌",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "good_design_evaluation_framework",
+    "accepted_claim": "战后转向系统化：以人因工程与五点评分公式（效用与安全/维护/成本/销售吸引力/外观）定义'好设计'标准，'设计应当一目了然'、维护必须显而易见",
+    "evidence_boundary": "公式为事务所自述方法（'infallible'是自信断言）；公式在行业中的接受度无独立证据",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "moma_good_design_exhibitions",
+    "accepted_claim": "Edgar Kaufmann Jr.于1950—1955年在MoMA举办年度Good Design展，与芝加哥Merchandise Mart合作，将干净、几何、经典形式的特定现代主义版本绑定于全球设计文化",
+    "evidence_boundary": "优良设计话语为制度与精英建构须标注；Kaufmann的定义体现特定社会文化阶层趣味",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "classic_form_telephone_1950s",
+    "accepted_claim": "500型电话以'二十年后仍不过时'的经典形式为目标并'由内而外'与贝尔实验室协作，体现战后美国以功能正确与时间抗性界定优良设计",
+    "evidence_boundary": "电话项目成效与'经典'评价为德雷福斯自述；贝尔合作细节可对照AT&T史料",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0234",
+    "title": "Jonathan M. Woodham：《Dictionary of Modern Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "good_design_dict_entry",
+    "accepted_claim": "Good Design条目：1940s—50s话语、MoMA Good Design展（1950—55）、Kaufmann Jr.角色",
+    "evidence_boundary": "条目综合为编者判断；展览年份可快速参照",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "us_postwar_consumer_boom",
+    "accepted_claim": "战后美国消费繁荣（Levittown郊区住宅、家电、汽车造型与Fortune 1953—1954系列）构成Good Design体系的消费语境",
+    "evidence_boundary": "Woodham引Friedan批判美国梦的性别代价；MoMA战时展教条与Utility类似亦未俘获日常消费者",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "detroit_industrial_landscape_background",
+    "accepted_claim": "底特律汽车—钢铁工业景观及去工业化是战后美国消费转型的工业前提与对照",
+    "evidence_boundary": "案例聚焦1980s去工业化与工人买断，对1940s—50s战后初期为背景性参照",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "postwar_american_consumption_space_background",
+    "accepted_claim": "战后美国消费空间（郊区化、购物中心、公司总部郊区化）构成Good Design体系展开的市场制度背景",
+    "evidence_boundary": "城市社会学家证的制度史实，作背景与机制解释；非设计职业内部史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "shopping_center_as_public_consumption_arena",
+    "accepted_claim": "购物中心与滨水商业中心取代市政集会成为公共生活舞台，以视觉消费组织战后消费",
+    "evidence_boundary": "作者框架命题加制度史实混合；购物中心设计细节非本书主题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "suburbanization_federal_housing_policy",
+    "accepted_claim": "1933年起联邦住房政策倾斜郊区并排除非白人家庭，塑造战后郊区消费空间格局",
+    "evidence_boundary": "制度史实为城市社会学家证；种族维度在书中未系统展开",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_arbitrate_good_design",
+    "accepted_claim": "MoMA在Kaufmann Jr主持下成为战后good design品味仲裁者；1950年应芝加哥Merchandising Mart请求启动六届年度Good Design展（1950-55），好设计=现代设计、Streamlining is not good design；家具家居为主、受斯堪的纳维亚影响；好设计运动由文化产业而非联邦政府管理",
+    "evidence_boundary": "通论二手综合（引Pulos两卷本）；展览制度史实可用，两种美国设计文化为作者判断",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "us_midcentury_design_chinese_account",
+    "accepted_claim": "美国战后“世纪中叶”设计：波音707内舱（提格）、德雷夫斯《为人的设计》1955与《人体度量图表》1960、诺尔/赫尔曼·米勒产业转化、伊姆斯“廉价好设计”路线；国际主义风格作为“现代主义的国际传播与异化”的批判判断",
+    "evidence_boundary": "二手综合；企业产品史实可参照，国际主义批判判断为作者观点",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_in_scandinavia_us_tour",
+    "accepted_claim": "1954-57年Design in Scandinavia北美巡展首次广泛普及Scandinavian design概念，构成北欧设计在美传播的事件与制度背景",
+    "evidence_boundary": "巡展时间与巡回范围可核验；seminal与popularized为作者表述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "good_design_international_transfer_japan",
+    "accepted_claim": "日本G-Mark（1957）与MoMA／Kaufmann Good Design（7.3）共享“优良设计”概念，构成Good Design国际传播的日本线：胜见胜《Good Design》（1958）为理论宣言、Kaufmann《What Is Modern Design?》日译1953为思想来源",
+    "evidence_boundary": "Good Design概念在美日两线的传播时序与中介（JETRO、Kogei Nyusu）须另以档案证实，本书只提供日本侧接受证据",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postwar_us_system_contracting_background",
+    "accepted_claim": "系统集成者到战后系统承包商的制度脉络是美国战后科技转民用（Good Design 体系之外）的制度背景",
+    "evidence_boundary": "本书不涉及MoMA/Good Design/中产消费，仅提供战时制度起源",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "D",
+    "verification": "V2",
+    "role": "good_design_epitome_claim",
+    "accepted_claim": "本书将北欧设计建构为good design国际标准（came to epitomize the whole notion of good design）",
+    "evidence_boundary": "该命题恰是B0388批判的品牌神话化对象；本书可作7.3的对照样本而非标准证据",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "7.4": {
+  "grades": {
+   "B": 3,
+   "A": 2,
+   "C": 3
+  },
+  "count": 8,
+  "items": [
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "hfg_ulm_curriculum_closure",
+    "accepted_claim": "乌尔姆设计学院HfG Ulm 1953年开课、1968年关闭，其课程以科学化、系统化的设计方法论著称，被视为该方向最重要贡献者",
+    "evidence_boundary": "Woodham引Robin Kinross（JDH 1988）提示对HfG的最终评价为时尚早；1968年关闭系州政府令其合并后师生主动选择",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "ulm_braun_design_link",
+    "accepted_claim": "Braun于1950年代中期引入来自Ulm的Otl Aicher、Hans Gugelot与Dieter Rams，形成理性克制的产品美学，其声誉与Kaufmann在MoMA倡导的原则一致",
+    "evidence_boundary": "功能美话语为制度与精英建构须标注；Woodham将Braun美学与乌尔姆课程直接绑定",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0234",
+    "title": "Jonathan M. Woodham：《Dictionary of Modern Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hfg_ulm_dict_entry",
+    "accepted_claim": "HfG Ulm条目：1953年建校、Bill/Maldonado、1968年关闭、科学化设计方法",
+    "evidence_boundary": "条目史实可快速参照；‘影响’评价为编者判断",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "critique_of_scientific_design_limits",
+    "accepted_claim": "Cooley 等批评科学化理性化设计方法（CAD 去技能化、规则系统、手脑分离传统、功能主义）的局限，主张直觉、隐性知识与人性化技术",
+    "evidence_boundary": "各章为行动者/学者命题，直接批判科学化设计方法，但全书未点名乌尔姆，仅构成对乌尔姆科学化设计传统的间接批判资源",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "ulm_school_chinese_account",
+    "accepted_claim": "乌尔姆设计学院制度叙述：1953年建院（斯绍尔兄妹基金会）、比尔首任院长、马尔多纳多1954—1967年校长、1968年关闭；“乌尔姆模式”四大意义、设计教育从艺术转向科学与系统论、“包豪斯理性的制度化完成”及其“过度强调技术因素”的局限",
+    "evidence_boundary": "中文教材二手综合，年份与人事须以乌尔姆专门研究（档案侧）互校；作者判断（“制度化完成”）须标注",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_continue_bauhaus_legacy",
+    "accepted_claim": "HfG Ulm（1953建校、Max Bill首任校长、Maldonado继任、1968关闭）作为包豪斯复兴；Maldonado在Ulm发展符号学/设计语言学；Ulm与Braun复兴战前理性主义但1960s后失去修辞威力",
+    "evidence_boundary": "正文仅零散提及（L1143、L1219、L1234），校史梗概在Glossary词条（L2430），无专章论述；不承担7.4主干证据",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0411",
+    "title": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ulm_legacy_teaching_transmission",
+    "accepted_claim": "乌尔姆遗产的后续延伸：柳冠中序言称雷曼继承包豪斯与乌尔姆设计基础传统，本书的练习库与三分类教学法是该传统的教学文本样本——乌尔姆科学化方法经斯图加特向中国传播链的行动者自述",
+    "evidence_boundary": "本书不直接论述乌尔姆制度史，仅提供“传统继承”声明与教学实践样本；乌尔姆制度事实以档案与专门研究为准",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_methods_movement_legacy",
+    "accepted_claim": "Alexander 树/半格（设计方法运动结构论代表）与 Jones 对设计方法运动的自我反思（弃方法为死路）——设计方法论史材料",
+    "evidence_boundary": "Alexander 章为 1965 年论文重印；与乌尔姆科学化设计方法为平行传统而非直接论述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "7.5": {
+  "grades": {
+   "B": 5
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0234",
+    "title": "Jonathan M. Woodham：《Dictionary of Modern Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "braun_rams_dict_entries",
+    "accepted_claim": "Braun条目（1921年成立、1950s与Rams合作）与Dieter Rams条目（1955年入Braun、1961年任设计总监、less but better原则）",
+    "evidence_boundary": "条目为快速参照；Rams哲学分析须回B0253/B0401",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0234",
+    "title": "Jonathan M. Woodham：《Dictionary of Modern Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "rat_fuer_formgebung_dict_entry",
+    "accepted_claim": "Rat für Formgebung条目：1953年成立、Gute Form展览、德国设计委员会职能",
+    "evidence_boundary": "条目为快速参照；Gute Form话语分析须回B0253专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "rat_fuer_formgebung_braun",
+    "accepted_claim": "德国经1951年议会授权于1953年成立Rat für Formgebung（德国设计委员会），与CoID并列为Good Design的国家制度化案例；Braun为联邦德国理性企业设计代表",
+    "evidence_boundary": "机构设立不证明公众接受；Woodham在第8章指出德国好形式教条遭Berlinetta等团体激进反对",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_rebrand_via_corporate_design",
+    "accepted_claim": "联邦德国以设计重建战后身份：Rat für Formgebung主持Gute Form系列展（延续Bauhaus）；Braun AG与Bosch AG定义理性技术性格，Braun与Rams合作巩固工程良好、设计良好声誉；Wagenfeld桥接战前战后；1954米兰三年展呈现高效勤勉国家形象",
+    "evidence_boundary": "一段落综合命题（L1304）；制度史实可用，评价为作者命题；与L1234（Ulm-Braun理性主义受挫）互补",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "braun_corporate_design_chinese_account",
+    "accepted_claim": "布劳恩企业设计：1921年成立、1954年起与乌尔姆合作、古格洛特与拉姆斯、1957年米兰三年展XI大奖、拉姆斯好设计十原则——联邦德国企业设计与视觉统一的教材叙述",
+    "evidence_boundary": "二手综合；产品—年份—奖项信息可参照，机制解释（系统设计）以原始研究为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "7.6": {
+  "grades": {
+   "C": 9,
+   "A": 3,
+   "D": 2,
+   "B": 4
+  },
+  "count": 18,
+  "items": [
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "A",
+    "verification": "V2",
+    "role": "nordic_design_works_visual_archive",
+    "accepted_claim": "A-Z条目加704页图像构成北欧设计作品档案：设计师生卒年、作品型号与年份、制造商、奖项、博物馆收藏（Aalto花瓶1936、Series 7椅1955、Unikko 1965、PH灯1925-等），承担7.6的图像与作品快速参照角色",
+    "evidence_boundary": "作品-年份-制造商信息可核验；条目中iconic/best-selling等评价须剔除；图像本体即档案，文字评价非档案",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0388",
+    "title": "Scandinavian Design Alternative Histories (Kjetil Fallan (editor))",
+    "grade": "A",
+    "verification": "V2",
+    "role": "coffee_table_genre_critique",
+    "accepted_claim": "图录体裁（hagiographic and mythopoeic，L127）批判：颂歌式叙述强化统一北欧设计身份神话（L141），是B0076等图录的审计标尺",
+    "evidence_boundary": "体裁批判命题清晰；对具体图录的判断须对照该书文本",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0388",
+    "title": "Scandinavian Design Alternative Histories (Kjetil Fallan (editor))",
+    "grade": "A",
+    "verification": "V2",
+    "role": "scandinavian_design_as_invented_category",
+    "accepted_claim": "‘斯堪的纳维亚设计’是被发明、表演与制度化的范畴而非先在地域实体（编者导言L213），为7.6提供制度即建构的元叙事框架",
+    "evidence_boundary": "范畴建构为作者方法论命题；机构史实（协会、奖项、展会年份）仍需档案侧来源",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "nordic_design_institutional_base",
+    "accepted_claim": "瑞典Slöjdföreningen（1845年成立）经1917年Home Exhibition与1930年斯德哥尔摩展推动现代主义，Kåge/Gustavsberg、Orrefors（Gate与Hald）为设计—产业合作典范；丹麦Den Permanente 1931年成立",
+    "evidence_boundary": "Woodham指出设计史写作常聚焦Kåge、Nizzoli等成功合作而掩盖更广图景",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0388",
+    "title": "Scandinavian Design Alternative Histories (Kjetil Fallan (editor))",
+    "grade": "B",
+    "verification": "V2",
+    "role": "danish_modern_exceptionism_critique",
+    "accepted_claim": "Heller以局外人视角批判丹麦现代家具的例外主义叙事（‘Danish modern is a myth’）",
+    "evidence_boundary": "批判判断为作者命题；丹麦家具制度史实仍需档案侧",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0388",
+    "title": "Scandinavian Design Alternative Histories (Kjetil Fallan (editor))",
+    "grade": "B",
+    "verification": "V2",
+    "role": "museumification_and_branding_critique",
+    "accepted_claim": "Bøe以1990年代挪威设计博物馆化与品牌化为个案，批判设计史与机构展览的相互建构",
+    "evidence_boundary": "个案分析为作者命题；博物馆事件为史实",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0388",
+    "title": "Scandinavian Design Alternative Histories (Kjetil Fallan (editor))",
+    "grade": "B",
+    "verification": "V2",
+    "role": "swedish_daily_beauty_deconstruction",
+    "accepted_claim": "Rehnberg对‘vackrare vardagsvara’（美好日常生活）口号与瑞典消费史的考古式解构：口号是精英话语而非大众现实",
+    "evidence_boundary": "解构判断为作者命题；口号文本本身为史实",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "danish_furniture_institutional_base",
+    "accepted_claim": "丹麦家具制度基础：Kaare Klint人体测量学与传统类型研究、Den Permanente（1931）、哥本哈根橱柜匠公会展、Teak Style（1950s）与Jacobsen工业量产",
+    "evidence_boundary": "机构与作品事实可核；almost untouched by the Bauhaus与evolutionary而非revolutionary为作者概括，学界有不同解读",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "finnish_textile_design_institutions",
+    "accepted_claim": "芬兰织物：Marimekko（1951）、Maija Isola的Unikko（1965）、Vuokko Eskolin-Nurmesniemi；织物作品入选Design in Scandinavia巡展",
+    "evidence_boundary": "织物史以品牌与设计师条目为载体，制度性叙述（协会、学校）较弱；Unikko年份与巡展入选可核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "lunning_prize_reference",
+    "accepted_claim": "Lunning Prize（1951年设立）作为五国设计师成就参照：Wegner（1951首年）、Quistgaard（1954）、Nurmesniemi（1959）、Grete Korsmo等",
+    "evidence_boundary": "奖项设立年份与获奖者名单为快速参照；coveted/prestigious等形容词是评价性措辞",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "norwegian_brukskunst_institution",
+    "accepted_claim": "挪威LNB（Foreningen Brukskunst更名而来）与brukskunst概念：Ferdinand Aars完整定义、1970s瓦解、Norsk Designråd推广",
+    "evidence_boundary": "Aars定义是本书最具档案价值的制度文本；brukskunst瓦解导致设计衰退为作者诊断命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "swedish_design_association_institution",
+    "accepted_claim": "Svenska Slöjdföreningen（1845年成立，世界最早设计协会之一）、Vackrare Vardagsvara口号（1919 Paulsson宣言）、组织1930年斯德哥尔摩展",
+    "evidence_boundary": "成立年份、口号文本、展览组织身份可核验；world's oldest与作为社会变革催化剂为作者断言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "swedish_social_democratic_design_policy",
+    "accepted_claim": "Ellen Key的Skönhet åt alla（1899）与Folkhemmet（人民之家）社会民主愿景：设计嵌入国家社会政策，从Volvo安全创新到IKEA民主家居",
+    "evidence_boundary": "Key与Paulsson文献存在性与年份可核；设计作为社会政策的因果叙述是本书综合命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0168",
+    "title": "Gillian Naylor：《The arts and crafts movement a study of its sources, ideals and influence on design theory》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "scandinavian_arts_crafts_genealogy",
+    "accepted_claim": "北欧工艺—工业关系可获得19世纪末至20世纪初的谱系入口",
+    "evidence_boundary": "1971年概括过旧，不能承担战后北欧福利、工业或消费史",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0388",
+    "title": "Scandinavian Design Alternative Histories (Kjetil Fallan (editor))",
+    "grade": "C",
+    "verification": "V2",
+    "role": "oslo_design_city_brand_critique",
+    "accepted_claim": "Kristoffersen对奥斯陆‘设计城市’品牌战略的批判：品牌政治生产地域设计范畴",
+    "evidence_boundary": "品牌战略事件为史实；‘范畴生产’分析为作者命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "nordic_democratic_design_chinese_account",
+    "accepted_claim": "北欧设计线：艾琳·凯《为大众的美》1899、鲍尔逊1919《更加美丽的日用品》、1930斯德哥尔摩展、1939纽约世博“瑞典现代”、“斯堪的纳维亚设计”北美巡展1954—1957、宜家1943创办与平板包装、“民主设计第三途径”（佛兰克“家居不是妈妈的高效机器”）",
+    "evidence_boundary": "二手综合；与B0076/B0388北欧档案侧互校，同一对象（巡展、宜家）只计一份P0",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "D",
+    "verification": "V2",
+    "role": "iceland_design_institutional_notes",
+    "accepted_claim": "冰岛制度补充：1939年Icelandic School of Applied Art成立、1950s-60s家具进口禁令催生本土制造",
+    "evidence_boundary": "冰岛材料单薄，作7.6五国覆盖补充项；现代主义被采纳为民族主义符号是作者命题",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "D",
+    "verification": "V2",
+    "role": "nordic_ethos_lutheran_narrative",
+    "accepted_claim": "Lutheran伦理→民主设计→有机现代主义→hygge的叙事框架（导论核心命题）",
+    "evidence_boundary": "P4分析A2识别该链条为解释封套（因果/类比/同域/对比混装），宗教-设计因果属作者命题，仅可引为作者观点",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "7.7": {
+  "grades": {
+   "C": 2,
+   "B": 6,
+   "A": 4,
+   "X": 1
+  },
+  "count": 13,
+  "items": [
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "g_mark_miti_design_promotion",
+    "accepted_claim": "1957年通产省设计促进委员会设立G-Mark优良设计奖（东芝电饭煲为首批获奖者之一）；1959年MITI设立设计部门，1969年JIDPO仿照英国CoID成立",
+    "evidence_boundary": "制度史实确定；Woodham将日本战后设计置于神话与刻板印象批判框架中处理",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "japanese_inhouse_design_system",
+    "accepted_claim": "战后日本企业相继设立in-house设计部门：松下（1951年访美后）、佳能与东芝1953年、夏普1957年、索尼1954年起；GK设计事务所1957年成立",
+    "evidence_boundary": "Woodham明示松下设立所谓日本首个设计部门之说带传闻维度；各公司年份须回查企业史原注",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "japan_postwar_design_enterprise_products",
+    "accepted_claim": "企业设计档案：Sony（TR-610晶体管收音机1958、Walkman 1979）、Honda Super Cub、GK Design Group、天童木工成型合板、Nippon Design Center 1960设立；PAOS品牌策略（Bridgestone、Mazda CI、Matsuya银座重塑）构成7.7企业设计与品牌系统证据",
+    "evidence_boundary": "企业史为成就导向自述（P0行动者材料），品牌叙事与营销判断须与独立学术史互校；产品—年份—制造商信息可作快速参照",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "japan_postwar_design_government_policy",
+    "accepted_claim": "MITI设计政策工具箱：G-Mark选品制度（1957启动，专利局→1958转MITI→1974转JIDPO）、Design Year（1973）、JETRO海外研修、出口检验与意匠法，构成日本战后“设计国家主义”产业战略；1993年MITI中期报告三项行动计划",
+    "evidence_boundary": "制度沿革为内部人陈述（Arai，原MITI设计课长），关键年份与机构沿革须以官方档案复核；同一制度对象与B0235通史叙述只计一份P0",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0234",
+    "title": "Jonathan M. Woodham：《Dictionary of Modern Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "g_mark_dict_entry",
+    "accepted_claim": "G-Mark条目：1957年通产省设立、优良设计奖、日本设计振兴制度",
+    "evidence_boundary": "条目为快速参照；日本设计振兴成效须回专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "japan_design_myth_debunking",
+    "accepted_claim": "战后西方对日本设计存在廉价模仿与集体奉献的刻板印象，Woodham引Lawrence Franko（1983）系统反驳日本经济成功神话",
+    "evidence_boundary": "神话破除系Woodham论述立场，具体企业数据仍来自二手来源",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "us_occupation_design_influence",
+    "accepted_claim": "美国占领（1945—1952）与松下、日立、本田等高管访美学习及Loewy访日构成美国设计影响日本的渠道",
+    "evidence_boundary": "Woodham提示此类影响的叙述带神话维度；日本设计成功更多源于企业自身技术创新",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "japan_quality_control_institutional",
+    "accepted_claim": "质量控制制度化：Quality Circle、Deming／Juran品质管理体系经日本制造体系改造，支撑7.7“质量控制”维度",
+    "evidence_boundary": "本书仅概念层提及（整体报告L008-5），无专章展开；机制细节须补质量管理专门文献",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "japan_tradition_reinterpretation",
+    "accepted_claim": "传统再解释：Mingei“用即美”、和服现代化、包装折纸传统、Butterfly stool（1956）以传统美学进入现代主义，Fischer“学习—吸收—超越”模式构成7.7“传统再解释”命题支柱",
+    "evidence_boundary": "文化解释（传统美学的现代转化）为作者综合判断，须与具体器物档案分开引用；“超越”类评价词须剥离",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_technology_led_identity",
+    "accepted_claim": "日本战后以先进技术取向加分包系统（小企业与大企业结合）发展设计文化并抵抗福特模式（综合自作者《Japanese Design》1987）；1970s日本高科技消费品与高科技美学（Sony、Sharp、Canon、Toshiba、Hitachi）；Walkman（1982）行为转型",
+    "evidence_boundary": "命题边界窄：L1296一段综合加Ch7技术叙事；无日本制度史细节（G-Mark等未及）；依赖作者自著综合",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postwar_japan_design_policy_and_global_brands",
+    "accepted_claim": "GI V（第三版新增）：战后日本以设计立国——MITI政策、G-Mark（1957）、Sony TR-610与Walkman、蝴蝶凳、1964东京奥运海报、民艺运动与MUJI，构成「现代主义=西方」的挑战案例",
+    "evidence_boundary": "证据边界为clean第6611行起GI V正文与P4分章报告；插章为概述，制度细节须回日本设计史专书",
+    "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "japan_postwar_design_chinese_account",
+    "accepted_claim": "日本战后设计线：双轨制（国际主义设计＋传统设计并行）、民艺运动（柳宗悦、1936年日本民间工艺博物馆）、柳宗理、1964东京奥运、审美范畴（物哀、幽玄、侘寂、涩、序破急）贯通产品设计",
+    "evidence_boundary": "二手综合；与B0253（Hiesinger图录）档案侧互校，同一对象只计一份P0；审美解释为文化判断",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "X",
+    "verification": "V2",
+    "role": "japan_reconstruction_not_covered",
+    "accepted_claim": "本书无日本内容，不适用于日本战后设计重建（7.7）",
+    "evidence_boundary": "无任何日本史料；仅可作转用叙事的对照参照",
+    "status": "EXCLUDE_AS_NOT_COVERED"
+   }
+  ]
+ }
+}

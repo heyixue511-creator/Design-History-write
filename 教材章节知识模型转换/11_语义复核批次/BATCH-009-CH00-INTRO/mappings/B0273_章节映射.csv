@@ -1,0 +1,8 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0273,0.1,A,V2,design_history_discipline_debate,设计史学科身份辩论的完整呈现：Dilnot（1984，学科资格质疑）vs Walker（1989，学科资格论证）、编者“独特的兴趣、方法与来源的混合体值得学科地位”立场、生产/消费/中介三重关切、Walker“设计的历史／设计史”区分——0.1学科对象与性质的核心文献,文选导言为编者立场综述；Dilnot/Walker原文须回各自原著；2010年时点的学科判断,packet 00整体分析报告3.1、3.2、7.2 L5摘录,ACCEPTED_AS_CORE_SOURCE
+B0273,0.3,B,V2,contextualization_turn_statement,设计史核心转折的学科共识表述：“追求风格史的观念已被设计及其物品在社会文化史中的语境化理解所取代”——从风格谱系到语境化关系史的转折声明,编者综述性判断（2010）；转折过程的具体证据须回溯各阶段文献,packet 00整体分析报告4.2转折一,ACCEPTED_AS_SUPPORTING_SOURCE
+B0273,0.5,B,V2,primary_secondary_quasi_primary_sources,一次/二次文献的精细区分与“准一次文献”现象（Pevsner《现代设计先驱》获典藏地位）：不同文本有不同的历史与功能，须以不同的意识阅读——0.5史料类型意识的方法论范本,文献学区分框架；具体文本归类（准一次文献）为编者判断,packet 00整体分析报告3.5,ACCEPTED_AS_SUPPORTING_SOURCE
+B0273,0.6,B,V2,disciplinary_self_reflection,学科自我反思样本：“本书反映设计史曾经是什么，而非本应是什么”；对学科局限（西方中心、工业化偏向）的清醒承认并在结构上回应（Section 12）——0.6证据偏差的学科层面反思,编者自省姿态（2010）；“曾经是什么”的判断本身需以设计史学史文献校验,packet 00整体分析报告3.3、7.2 L5摘录,ACCEPTED_AS_SUPPORTING_SOURCE
+B0273,0.7,B,V2,globalization_call_section12,设计史全球化转向的学科纲领：“设计史今天最紧迫的问题是全球化”；Section 12“地方/区域/国家/全球”专门板块的开设——0.7三种全球模型的学科纲领文本,呼吁性文本（编者导言），全球设计史实践成果须另以专门文献支撑,packet 00整体分析报告3.3、结构分析Section 12,ACCEPTED_AS_SUPPORTING_SOURCE
+B0273,12.6,C,V2,gender_section_good_design_critique,性别与“好设计”标准的解构（跨章）：Section 9女性主义批判与Section 10消费理论共同解构现代主义“好设计”的单一标准——12.6女性主义设计批评的文选资源,文选节录集；具体批判文本（女性主义设计批评）须回原始出处,packet 00整体分析报告4.2转折三、9.跨章节关联2,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0273,12.3,C,V2,sustainability_section,可持续性与计划性过时批判（跨章）：Section 6“可持续未来1960—2003”的批判核心（浪费、计划性过时、消费主义）正是Part I所叙述工业化设计历史的产物与后果——12.3环境设计与生命周期的思想史文本,文选节录集；可持续设计史实（Vance Packard等）须回原文本,packet 00整体分析报告结构分析Section 6、9.跨章节关联5,ACCEPTED_AS_CONTEXTUAL_SOURCE

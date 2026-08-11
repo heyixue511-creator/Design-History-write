@@ -1,0 +1,73 @@
+{
+  "source_id": "B0108",
+  "corpus": "book",
+  "folder_name": "Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic",
+  "material_type": "设计研究论文集（P1，Design Issues早期文选）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic.md",
+  "clean_source_sha256": "3E95C34508E4FC3A49FA2667E719190A3A7881162163C28E0D53EBFB840BFA64",
+  "duplicate_group": "与B0059（Margolin/Buchanan《The Idea of Design》1995）为同编者同系列Design Issues文选，重合论文与命题只计一份P0（Buchanan修辞学、Moles等作者跨两书）；Dilnot设计史反思与B0273（Design History Reader）收录的Dilnot 1984辩论为同一学科史对象",
+  "files": [
+    {
+      "report_file_count": 30,
+      "report_characters": 332528
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_studies_discipline_argument"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "dilnot_design_history_methods"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "buckley_feminist_history_critique"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "information_neutrality_myth"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "postmodern_manifesto_texts"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "rams_braun_minimalism_statement"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "1980s时点与论坛性质：论文为1984—1986年《Design Issues》早期作品，编者明言保留期刊“论坛”特质（多元立场并存甚至对立），引用须区分作者与篇目",
+    "翻译中介：部分论文经德/意/法译英，论证语法的原味损失，引用须返回原文",
+    "宣言体文本（Branzi、Selle）修辞性强，其论断（“没有媚俗”“我们是原始人”）为立场声明而非史实",
+    "与B0059（1995读本）重合命题不重复计证；Dilnot/Buckley论文另见于其他文选",
+    "英语世界视角：以欧美理论为主，亚洲/拉美设计话语未覆盖",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 分析报告.md：二、内容摘要（三部分结构）；导论（Design Studies必要性、Simon定义）",
+    "Dilnot四种传统分类与“神话化”批判；Buckley父权制排斥机制（排斥手工艺、忽视使用价值、性别化设计技能）",
+    "Buchanan设计论证修辞学（logos/ethos/pathos）；Rams“省略不重要之物”；Kinross“中性信息”神话；Lupton Isotype解构",
+    "Branzi“我们是原始人”；Selle“没有媚俗只有设计”；Morgantini“第三技术世代——心灵假体”",
+    "结语：战后设计文献初步地图（国别与主题分类）"
+  ]
+}

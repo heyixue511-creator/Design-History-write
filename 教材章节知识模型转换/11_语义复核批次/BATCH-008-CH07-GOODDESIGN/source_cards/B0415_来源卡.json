@@ -1,0 +1,132 @@
+{
+  "source_id": "B0415",
+  "corpus": "book",
+  "folder_name": "Thackara, John (ed.), Design After Modernism, 1988",
+  "material_type": "论文集（后现代设计批评）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Thackara, John (ed.), Design After Modernism, 1988.md",
+  "clean_source_sha256": "52D3472C77B922E0978078BAE2FAC41351B95DAB00E6780BA1AFAFA0A4AFE7BF",
+  "duplicate_group": "无精确哈希重复（packet 核实）；与分析基准 00-book 源文本为同一书目对象的不同版本（分析行号与 clean 行号基本一致），共享对象组内无其他书目",
+  "files": [
+    {
+      "report_file_count": 25,
+      "report_characters": 168466
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "postmodern_condition_and_critique_of_modernism"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_turn_from_object_to_process"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "postmodernism_of_resistance_stance"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "critical_regionalism"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "decoration_and_natural_aesthetics_after_modernism"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumer_object_semiotics_model_series"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "british_postmodern_design_culture_observation"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "softecnica_and_process_thinking"
+    },
+    {
+      "section_id": "7.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "critique_of_scientific_design_limits"
+    },
+    {
+      "section_id": "7.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_methods_movement_legacy"
+    },
+    {
+      "section_id": "15.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "critical_and_participatory_design_prehistory"
+    },
+    {
+      "section_id": "12.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_as_political_and_social_responsibility"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_experience_and_stages"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "postmodern_condition_definition_via_citations"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "文集体裁使立场分裂：对现代主义，Berman 主张复兴、Fuller 主张超越、Bolton 主张批判，全书无统一论证框架，编者自认不提供统一世界观",
+    "主编导言与各章均为独立作者命题，不能把编者导言当作全书统一结论，也不能把单章观点当作集体共识",
+    "部分章节时效性强：1980 年代撒切尔英国语境、日本技术优势、具体品牌与商店案例已过时，其中数据不可沿用",
+    "性别议题仅 Dona 一章正面展开，非西方与全球南方视角基本缺席，覆盖不均衡",
+    "对软件与交互设计的讨论停留在概念层面，未预见 1990 年代后交互设计与用户研究的展开",
+    "引用体系不统一：半数章节（Ch04/05/08/10/11/12/13/14）无正式参考文献列表；OCR 存在个别误字（如 L1399 HERMAN 应为 Berman）",
+    "部分概念（微观美学、远程游牧者、叙事建筑）属宣言式随笔命题，论辩色彩强于论证严谨性，转引二手材料较多",
+    "知识涌现模型是 P4 推演：元命题、命题 A-E 与候选链接 C1-C7 基于文本语义链接的涌现计算，为分析工具产物而非作者本意或学术共识，仅作语义路由参考",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean 第209—211行：前言核心命题——『if this book has a point, this is it: traditional notions of design are, both practically and theoretically, defunct』（设计概念失效）",
+    "clean 第229行：Ch01 章题『Beyond the object in design』（编辑框架核心，设计超越物体）",
+    "clean 第257行：设计被推销为 neutral tool——『design is promoted not as a force for good, but as a neutral tool』",
+    "clean 第1419行：Berman 现代性定义——『To be modern is to live a life of paradox and contradiction』",
+    "clean 第3012—3014行与第3046—3048行：Alexander 半格公理与复杂度论证（20 元素半格可含超 100 万子集）",
+    "clean 第5060行：Fuller 反装饰命题——『the destruction of ornament within the Modernist movement was one of the cultural crimes of our age』",
+    "clean 第5607行：Fuller 功能主义批判——『form follows function, since function itself is a derivative of values and beliefs』",
+    "clean 第7566—7567行：Baudrillard 物体系——『The status of the modern object is dominated by the opposition of the unique object to the mass-produced object — of the model to the series』",
+    "clean 第8838行：Cooley 手脑分离——『a separation of hand and brain, of manual and intellectual work』",
+    "clean 第9267—9269行：ESPRIT 计划建造『the world first Human Centred Computer Integrated Manufacturing』（人本中心系统）",
+    "clean 第9673行：Mitchell 核心命题——『The Product as a solely physical entity is an illusion of the mechanistic era』",
+    "clean 第9722行：Jones Softecnica 定义——『Softecnica, the soft technologies, or some of them』",
+    "clean 第10117行：Jones 过程思维收束——『It is ourselves, not our words, that are the real purpose of designing』"
+  ]
+}

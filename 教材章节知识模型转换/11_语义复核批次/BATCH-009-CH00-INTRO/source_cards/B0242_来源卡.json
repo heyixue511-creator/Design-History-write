@@ -1,0 +1,80 @@
+{
+  "source_id": "B0242",
+  "corpus": "book",
+  "folder_name": "Julier：《The culture of design，2018》",
+  "material_type": "设计文化研究专著（P1）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Julier：《The culture of design，2018》.md",
+  "clean_source_sha256": "2710BB2BF712C9EE8FD7B46C548982A1FECAC4AE6BE38C80EEFF07160E0FC42C",
+  "duplicate_group": "与B0180（Julier《The Culture of Design》2000版）为版本族：重合命题不独立计证，本条目承担新版增量；无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 178184
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_culture_triangle_model"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "reflexive_modernity_and_design"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_history_writing_critique"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ethnographic_and_case_method"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "author_admitted_biases"
+    },
+    {
+      "section_id": "13.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "brand_ethos_and_branded_places"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "knowing_consumer_and_consumption"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "地理中心主义：分析集中于西欧（英、意、西、德、荷）与北美，全球南方、东欧、亚洲设计讨论缺失（作者自认）",
+    "性别盲区：作者在导论中承认未将性别作为独立议题处理，女性设计师与女性消费者视角基本缺失（作者自认）",
+    "阶级维度简化：虽频繁引用Bourdieu，但对工人阶级消费和日常设计关注不足",
+    "环境维度缺失：仅在引用Manzini时提及去物质化；技术决定论倾向（数字媒体章）",
+    "2000年出版时点：未能涵盖21世纪社交媒体、移动互联网与平台经济对设计的重塑",
+    "“设计文化”为作者建构概念，教材引用须标注；案例判断（如对Cool Britannia的讽刺）带英国语境立场",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 00整体分析报告：3.1总论点（问题解决→问题处理、三角模型）、3.2十大子论点",
+    "子论点2品牌伦理兴起；子论点4佩夫斯纳式设计史书写问题；子论点5知晓的消费者",
+    "5.方法论特征：跨学科方法、案例研究法（主流性/知名性/亲历性）、反身性姿态",
+    "7.1贡献（设计文化整合概念、过程—关系—系统中心）；7.2局限（地理中心主义、性别盲区等六项）",
+    "8.1案例表：Juicy Salif、Dyson DC-01、Barcelona、Center Parcs、NikeTown、Orange"
+  ]
+}

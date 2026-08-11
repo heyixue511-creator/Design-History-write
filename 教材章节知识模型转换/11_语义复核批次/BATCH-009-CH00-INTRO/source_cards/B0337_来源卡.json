@@ -1,0 +1,79 @@
+{
+  "source_id": "B0337",
+  "corpus": "book",
+  "folder_name": "Paul Greenhalgh (ed.)：《Modernism in Design》，1990",
+  "material_type": "学术论文集（P1）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Paul Greenhalgh (ed.)：《Modernism in Design》，1990_clean.md",
+  "clean_source_sha256": "096E7C60D913195722CFAD86A86387A98DFE1A47A32CC1FA8BA49FA2CFFD3606",
+  "duplicate_group": "无精确哈希重复；与B0339（Greenhalgh《Ephemeral Vistas》已复核）为同作者不同书；瑞典Vackrare Vardagsvara对象与B0168/B0076等共享，同一对象P0只计一份；意大利反设计与B0143等共享对象",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 135199
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "modernism_concept_historicization"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "myth_of_function_concept_genealogy"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "decentered_multi_national_design_history"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "reception_history_and_media_evidence"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "anti_essentialist_historiography"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "swedish_middle_path_vackrare_vardagsvara"
+    },
+    {
+      "section_id": "11.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "italy_idealism_to_consumerism_transition"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "论文集体裁：各章为独立署名案例研究，非统一结论；主编导言框架与各章立场并存，引用须区分",
+    "国别案例的选择性：聚焦欧美的十国案例，东亚、拉美、非洲现代主义未覆盖（0.7全球模型的缺口侧）",
+    "1990年出版时点的“后现代”视域：部分判断（如国际风格终结）带时代立场，须标注",
+    "修正史观本身是论辩性主张：加州“早于”欧洲等比较命题依赖断代与定义，教材引用须注明为作者论证",
+    "理论化程度高（本雅明、克拉考尔、商品拜物教等），作为史料使用时其分析范畴（Sachlichkeit、Phantasmagoria）须与档案史实分层",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 00整体分析报告 L003：核心论题与十项关键论点（道德谱系论、功能主义虚构论、风格即政治论、阶级符号论、地域修正论、媒介失败论等）",
+    "L004：两重因果转折（约1929—1933先驱→国际风格；约1968—1972意识形态危机）",
+    "L007原文摘录：Greenhalgh“Modern no longer means contemporary”、Pugin 1841两大规则、Paulsson 1919“workers should take joy in their work”",
+    "L008实体清单：Pevsner 1936、Hitchcock & Johnson 1932、Banham 1960等叙事谱系文献",
+    "L009方法论特征：去中心化、政治化解读、接受史转向、地域主义正名、媒介研究先驱"
+  ]
+}

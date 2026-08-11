@@ -1,0 +1,4407 @@
+{
+ "0.1": {
+  "grades": {
+   "C": 2,
+   "B": 4,
+   "A": 5
+  },
+  "count": 11,
+  "items": [
+   {
+    "source_id": "B0059",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_as_new_liberal_art",
+    "accepted_claim": "设计学科性质的核心框架：Buchanan“设计作为技术文化中的新自由艺术”、设计四领域（符号与视觉传播/物质对象/活动与有组织服务/复杂系统或环境）、“置位学说”、邪恶问题理论（Rittel 1974）、激进系统多元主义——0.1“设计”概念与学科对象讨论的经典文献",
+    "evidence_boundary": "作者建构框架（1995）；四领域划分广为引用但为启发式分类，教材引用须标注命题身份",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0183",
+    "title": "Hazel Conway：《Design history a students handbook》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_history_discipline_handbook",
+    "accepted_claim": "设计史学科界定奠基手册：设计史关注“特定设计在其生产时期语境中”的理解而非孤立审美鉴赏；Heskett“design as object／process／concept”三维框架；风格分析必要但不充分——0.1“设计”概念与学科对象讨论的方法论文献",
+    "evidence_boundary": "1987年学科共识总结（方法论手册）；概念界定为编者/作者框架，须与其他定义论并置",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0240",
+    "title": "Judy Attfield：《Wild Things The Material Culture of Everyday Life》，2000",
+    "grade": "A",
+    "verification": "V2",
+    "role": "things_with_attitude_lowercase_design",
+    "accepted_claim": "设计定义的系统扩展：“有态度的物”（things with attitude）、“小写设计”（design in the lower case，日常非专业设计实践）、“反设计”（undesign，未经专业设计过程的日常物品）——0.1“设计”概念讨论的核心当代文献",
+    "evidence_boundary": "作者建构概念（2000）；作为设计定义论与Heskett/Buchanan等并置，不替代制度定义",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0273",
+    "title": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_history_discipline_debate",
+    "accepted_claim": "设计史学科身份辩论的完整呈现：Dilnot（1984，学科资格质疑）vs Walker（1989，学科资格论证）、编者“独特的兴趣、方法与来源的混合体值得学科地位”立场、生产/消费/中介三重关切、Walker“设计的历史／设计史”区分——0.1学科对象与性质的核心文献",
+    "evidence_boundary": "文选导言为编者立场综述；Dilnot/Walker原文须回各自原著；2010年时点的学科判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0440",
+    "title": "Walker：《Design History and the History of Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_history_vs_history_of_design",
+    "accepted_claim": "学科与对象之辨：设计史（学科）与设计的历史（对象）的区分、“design”一词多义（过程/结果/产品/外观，家族相似）、研究对象扩展至设计过程/机构/生产—消费系统——0.1“设计”概念讨论的元理论框架",
+    "evidence_boundary": "作者建构的学科框架（1989年时点）；概念史细节（design词义演变）须与词典史文献互校",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0108",
+    "title": "Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_studies_discipline_argument",
+    "accepted_claim": "设计研究学科论证的原始文本：Margolin导论（Design Studies必要性、Simon“人工科学”广义设计定义、设计理论须与社会理论结合）、Buchanan设计论证修辞学（技术推理/对象品格/情感效果）——0.1“设计”概念与学科性质的奠基文献",
+    "evidence_boundary": "编者论证（1989）；Simon定义引用须回《人工科学》原著；与B0059（1995）重合命题不重复计证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0242",
+    "title": "Julier：《The culture of design，2018》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_culture_triangle_model",
+    "accepted_claim": "“设计文化”概念框架：生产—设计师—消费三角模型、设计从“问题解决”到“问题处理”、设计内在于社会关系网络——0.1“设计”概念讨论的当代理论资源",
+    "evidence_boundary": "作者建构概念（2000）；作为理论框架引用，不替代制度与档案证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0411",
+    "title": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_definition_problem_solving",
+    "accepted_claim": "设计定义论样本：设计是“发现、分析、判断和解决人类生存发展中的问题”（L116），是整合科学与艺术的“人类第三种智慧系统”（L118），产品是社会关系的“镜像”（L122）——0.1讨论“设计”是对象、活动还是制度时的当代教学定义资源",
+    "evidence_boundary": "作者个人定义（教学语境），非学界共识；与其他定义论（Heskett、Buchanan等）并置使用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "B",
+    "verification": "V2",
+    "role": "translation_terminology_reference",
+    "accepted_claim": "中译本前言对「设计」「设计师」「设计与制作的分离」等核心概念的中文表述可作为教材中文引用的术语参照",
+    "evidence_boundary": "译名经译者选择且clean版存在OCR噪声，行号为clean版定位",
+    "status": "ACCEPTED_AS_TRANSLATION_REFERENCE"
+   },
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "media_institution_construction",
+    "accepted_claim": "摄影这类人工物的身份与权威由制度性权力关系建构而非技术本质决定（Tagg式命题），可为“设计是制度”提供平行案例",
+    "evidence_boundary": "该命题在本书中以殖民监控语境论证，属作者援引Tagg的转述框架，不直接论及设计",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0209",
+    "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "consumer_spec_as_design_constraint",
+    "accepted_claim": "消费者的挑剔（布幅、黄铜丝线径、念珠尺寸颜色）构成对器物形态的隐性约束，显示非设计专业人士如何参与器物规格塑造",
+    "evidence_boundary": "规格证据来自商人信函与旅行记述而非设计档案，属间接证据",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "0.2": {
+  "grades": {
+   "A": 16,
+   "B": 31,
+   "C": 14,
+   "D": 1
+  },
+  "count": 62,
+  "items": [
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "modernity_definition",
+    "accepted_claim": "现代性的规范性定义：素朴无装饰、个性强大无需面具、“我们有了取代装饰的艺术”",
+    "evidence_boundary": "是行动者对现代性的规范主张，非对现代性事实的描述",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0027",
+    "title": "Apollonio：《Futurist manifestos》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "manifesto_modernity_self_definition",
+    "accepted_claim": "宣言以“过去主义”批判与速度/机器/电力的美学化定义20世纪初现代性的自我意识，是0.2节“现代性概念”的典范行动者表述",
+    "evidence_boundary": "宣言话语是文化先锋的自我主张，与大众社会史中的现代性体验（劳动、消费、殖民）需区分",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0080",
+    "title": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+    "grade": "A",
+    "verification": "V2",
+    "role": "fashion_historiography_and_anti_linear_periodization",
+    "accepted_claim": "时尚史从形式编年转向文化史，并批判涓滴、革命断裂与单线现代化",
+    "evidence_boundary": "作者仍使用‘现代时尚诞生’等阶段命题且范围以英格兰为主",
+    "status": "ACCEPTED_AS_HISTORIOGRAPHIC_CORE"
+   },
+   {
+    "source_id": "B0084",
+    "title": "Clive Dilnot：《A John Heskett Reader Design, History, Economics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "layered_nonlinear_periodisation",
+    "accepted_claim": "设计史分期应把生产方式看作累积层叠而非新方式完全替代旧方式",
+    "evidence_boundary": "六层模型是分析工具且可能过度整齐",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "ambiguity_double_face",
+    "accepted_claim": "时尚兼具艺术与商品、解放与压迫的双重面孔，是资本主义内在矛盾的象征性体现——曖昧性概念框架",
+    "evidence_boundary": "理论命题，跨章论证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "modernity_fashion_theory",
+    "accepted_claim": "时尚是现代性不可分割的文化表达形式：现代性=城市社会的碰撞动力、变化渴求与强化感觉，时尚以其歇斯底里与夸张表达现代性；其本质是“现代主义式的反讽”",
+    "evidence_boundary": "理论命题（作者核心框架）；个案为文学与历史例证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0259",
+    "title": "Kenneth Pomeranz：《The Great Divergence China, Europe, and the Making of the Modern World Economy》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "nonsynchronous_modernization_and_comparison",
+    "accepted_claim": "全球分期不能把工业化设为各地区同时追求的单一终点",
+    "evidence_boundary": "相似性和1750节点是争议性历史判断",
+    "status": "ACCEPTED_WITH_COUNTERARGUMENT"
+   },
+   {
+    "source_id": "B0269",
+    "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
+    "grade": "A",
+    "verification": "V2",
+    "role": "visual_education_program",
+    "accepted_claim": "以视觉教育培养“运动中的视觉”新感知：从被动消费到主动参与、感官互通与感知扩展",
+    "evidence_boundary": "行动者教学纲领：证明其教育主张与理念；不能证明成效或学生接受",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0305",
+    "title": "McKendrick：《The birth of a consumer society the commercialization of eighteenth-",
+    "grade": "A",
+    "verification": "V2",
+    "role": "consumer_revolution_historiographic_thesis",
+    "accepted_claim": "‘消费革命’是改变设计史生产中心叙事的经典史学命题，也必须连同后续批评教授",
+    "evidence_boundary": "不能把1982年的‘第一’和断裂论当作无争议定论",
+    "status": "ACCEPTED_AS_HISTORIOGRAPHIC_CORE"
+   },
+   {
+    "source_id": "B0334",
+    "title": "Parthasarathi, Prasannan：Why Europe Grew Rich and Asia Did Not：Global Economic Divergence, 1600-1850, 2011",
+    "grade": "A",
+    "verification": "V2",
+    "role": "anti_anachronism_and_plural_paths",
+    "accepted_claim": "不能从十九世纪工业化结果倒推早期各地区都以工业化为目标",
+    "evidence_boundary": "多元路径主张仍需说明比较节点和历史行动者目标",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0337",
+    "title": "Paul Greenhalgh (ed.)：《Modernism in Design》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "modernism_concept_historicization",
+    "accepted_claim": "现代主义概念的历史化框架：先驱现代主义（1920—1933）与国际风格（1933—1970s）两阶段分期、十二项信条、“Modern不再等于contemporary”——现代性/现代化/现代主义概念边界的核心资源",
+    "evidence_boundary": "主编导言框架（Greenhalgh命题），各章案例可证局部；分期断代有论辩性，教材须标注",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0338",
+    "title": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "art_nouveau_modernity_periodization_and_multiple_endings",
+    "accepted_claim": "新艺术的现代性、1893—1914分期与衰落可作为可争论的史学模型",
+    "evidence_boundary": "‘第一个’、三阶段和1910—11终结均为作者综合，不能自然化为全球时间",
+    "status": "ACCEPTED_AS_HISTORIOGRAPHIC_CORE"
+   },
+   {
+    "source_id": "B0450",
+    "title": "Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "arts_crafts_as_multiple_modernity_strategies_and_endings",
+    "accepted_claim": "工艺美术运动包含现代／反现代、手工／机器与多个终点，不能作单线时期标签",
+    "evidence_boundary": "作者纠正反工业神话仍不能消除英国章更强反工业性的区域差异",
+    "status": "ACCEPTED_AS_HISTORIOGRAPHIC_CORE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "A",
+    "verification": "V2",
+    "role": "modernity_enlightenment_rescue",
+    "accepted_claim": "“现代”之于中国便是“启蒙”与“救亡”，中国现代设计史的沉重性源于中西碰撞与民族自强双重语境；以器物入手（洋务运动）是中国现代性的突出表现",
+    "evidence_boundary": "命题为作者核心论点，与李泽厚“启蒙与救亡”双重变奏谱系相关，属思想史阐释而非档案事实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "A",
+    "verification": "V2",
+    "role": "modernity_and_post_modernity_discourse",
+    "accepted_claim": "现代性即“脱域”（disembedding）；“后”生活与“后设计”表征；后现代主义是“软弱的批判”；中国设计史按农耕→工业两阶段理解现代转型",
+    "evidence_boundary": "V章L119-L148、IV章L110-L118（理论命题+中国个案分层）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "A",
+    "verification": "V2",
+    "role": "modernity_of_chinese_design",
+    "accepted_claim": "中国设计现代性问题：中性人格、月份牌女性形象现代性、电影造梦、市民文化",
+    "evidence_boundary": "“中性人格”“现代性”为作者建构概念，个案为史料",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_gender_bias",
+    "accepted_claim": "女性时尚被解释为“向男性感官的诉求”，装饰与女性化关联——现代性话语的性别维度",
+    "evidence_boundary": "父权视角立场转述，作为现代性批判史料",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0035",
+    "title": "Aslin, Elizabeth：《The aesthetic movement prelude to Art Nouveau》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "aestheticism_as_contested_modern_design_prehistory",
+    "accepted_claim": "唯美主义可被视为维多利亚现代设计改革的一种自觉实践",
+    "evidence_boundary": "不得把作者的前史框架写成通向新艺术或功能主义的必然阶段",
+    "status": "ACCEPTED_AS_HISTORIOGRAPHIC_POSITION"
+   },
+   {
+    "source_id": "B0052",
+    "title": "Briggs, Asa：《Victorian things》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "multiple_victorian_periods_and_non_linear_style",
+    "accepted_claim": "早中晚维多利亚内部存在重叠、竞争和循环的多重物质文化",
+    "evidence_boundary": "三段分期仍是组织工具，不能抹去区域、阶级和帝国差异",
+    "status": "ACCEPTED_AS_PERIODIZATION_SUPPORT"
+   },
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "alternative_modernity",
+    "accepted_claim": "印度本土摄影是特定历史政治条件下高度“现代”的视觉身份尝试，既非前现代残余亦非本质“印度性”（对Gutman的批判）",
+    "evidence_boundary": "该判断是作者对Gutman《Through Indian Eyes》的论战命题，“现代”一词须按作者语境理解",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0101",
+    "title": "David Raizman：《History of Modern Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "survey_periodisation_and_revision_history",
+    "accepted_claim": "通史分期和第二版重组可作为教学结构参照",
+    "evidence_boundary": "分期是作者选择且2010后材料已经老化",
+    "status": "ACCEPTED_AS_CURRICULUM_REFERENCE"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "B",
+    "verification": "V2",
+    "role": "survey_periodisation_and_revision_history",
+    "accepted_claim": "第三版结构修订：六部16章后各新增一篇Global Inspiration插章，第六部时间跨度延伸至2020年，第16章重写为「创新、责任与平衡」，可作为教学结构参照",
+    "evidence_boundary": "证据边界为前言与目录（clean第165—186行）及P4整体分析报告的结构梳理",
+    "status": "ACCEPTED_AS_REVISED_CLAIM"
+   },
+   {
+    "source_id": "B0115",
+    "title": "Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor",
+    "grade": "B",
+    "verification": "V2",
+    "role": "social_construction_of_time",
+    "accepted_claim": "时间观念的社会建构史：Thompson时钟时间→Anderson同质空时间→Hassan网络时间谱系、数字化时代设计史“去历史化”危机、非规范性时间（酷儿/殖民/原住民多重时间性）——0.2现代性时间叙事的当代批判",
+    "evidence_boundary": "编者导论框架；时间理论谱系须回溯Thompson/Anderson原著",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0168",
+    "title": "Gillian Naylor：《The arts and crafts movement a study of its sources, ideals and influence on design theory》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernist_genealogy_and_periodization_case",
+    "accepted_claim": "‘从莫里斯到格罗皮乌斯’可作为需要批判的设计史分期范式",
+    "evidence_boundary": "该谱系是1971年史学建构，不是自然发生的历史进程",
+    "status": "ACCEPTED_AS_HISTORIOGRAPHY_CASE"
+   },
+   {
+    "source_id": "B0169",
+    "title": "Giorgio Riello：《Cotton The Fabric That Made the Modern World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "long_duration_cotton_systems",
+    "accepted_claim": "棉花体系的中心转移提示现代设计史分期应追踪材料贸易生产和消费关系而不只按机器发明断代",
+    "evidence_boundary": "离心向心及漫长分流是作者模型且1000至2000年的尺度会压平地区节奏",
+    "status": "ACCEPTED_WITH_COUNTERARGUMENT"
+   },
+   {
+    "source_id": "B0209",
+    "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "alternative_modernity_and_coevalness",
+    "accepted_claim": "现代性定义具排除性，桑给巴尔的物质变迁与欧洲同时代且同样激进，构成“另类现代性”（denial of coevalness）案例",
+    "evidence_boundary": "“另类现代性”是作者对物质证据的命题性重构，须标注为作者框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0222",
+    "title": "John E. Bowlt (ed.)：《Russian Art of the Avant-Garde Theory and Criticism 1902-1934》，1976",
+    "grade": "B",
+    "verification": "V2",
+    "role": "russian_modernity_claim",
+    "accepted_claim": "Shevchenko自然已不存在、已被转为地基与沥青与Goncharova离开西方走向东方是俄国现代性经验（技术文明替代自然、东西方轴心）的行动者表述",
+    "evidence_boundary": "行动者感知不等于社会事实，须与其他史料互证",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "japanese_modern_first_postmodern_claim",
+    "accepted_claim": "Hiesinger命题：日本现代设计（Japanese Modern）因传统美学与西方现代主义形式诉求重合，早于欧美后现代运动成为“第一个后现代风格”——现代性／现代主义／后现代边界讨论的日本案例",
+    "evidence_boundary": "作者理论命题（L007-2原文），非史实断言；教材引用须标注为Hiesinger观点并与其他现代性分期框架并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0291",
+    "title": "Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_regime_tension",
+    "accepted_claim": "现代性与体制张力：苏联社会主义、魏玛资本主义、美国商业体制三种语境下前卫理想的差异化命运",
+    "evidence_boundary": "体制对照为本书核心论证结构；个体能动性评估含作者判断，系统性暴力约束可能被低估",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0291",
+    "title": "Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997",
+    "grade": "B",
+    "verification": "V2",
+    "role": "utopia_as_design_engine",
+    "accepted_claim": "乌托邦作为设计动力：三位行动者以艺术实践追求乌托邦理想，并与政治-经济现实持续协商",
+    "evidence_boundary": "设计乌托邦主张是Margolin分析框架而非史实描述，引用须标注为命题；“协商”谱系（Bürger、Poggioli、Fitzpatrick）见专项报告",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_as_style_and_facade",
+    "accepted_claim": "（作者命题）十九世纪末民族主义与进步是“立面”问题：形式不是内容的容器而是现代时代中构成身份的“唯一可用本质”；边缘国家的现代性是不断试错（ensayo）而无法“赶上”的移动目标",
+    "evidence_boundary": "该命题是作者理论框架（facades本体论），须标注为作者命题而非史实；“墨西哥从未赶上现代性”不可作为历史断言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "progress_anxiety_and_display_of_modernity",
+    "accepted_claim": "Porfirio精英把“展示进步”当作改变国际形象的手段：以“应许之地”宣传吸引北欧移民与外资，铁路、统计、卫生成为“进步可视化”的展品",
+    "evidence_boundary": "宣传材料（García Cubas、Zayas Enríquez）可证展示目标；宣传是否实际吸引投资移民无直接证据，不得外推效果",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0313",
+    "title": "Mike Davis：《Late Victorian Holocausts El Nino Famines and the Making of the Third World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_global_critique",
+    "accepted_claim": "现代性的全球批判：维多利亚时代自由贸易帝国主义、金本位、殖民财政与自由放任意识形态（马尔萨斯主义、社会达尔文主义）将自然短缺转化为大规模死亡——“第三世界”作为现代性世界体系主动制造的贫困地带——现代性叙事的黑暗面对照",
+    "evidence_boundary": "论辩性史学（2001）；事实层（贸易数据、死亡统计）与评价层（“制造”“谋杀”类判断）须分层引用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0337",
+    "title": "Paul Greenhalgh (ed.)：《Modernism in Design》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "myth_of_function_concept_genealogy",
+    "accepted_claim": "功能主义概念考古：Benton证明“form follows function”为英国批评界的发明而非现代主义建筑师本意，勒-柯布西耶本意被英译本扭曲——“功能主义”概念生成史的修正论",
+    "evidence_boundary": "作者论证主张（Benton章），概念史结论须与建筑原始文献互校",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_concept_dualism",
+    "accepted_claim": "现代性=工业化城市化消费化的社会文化条件（1900-1939），以消费为首要体验途径；Sparke“现代主义vs商业现代性”二分框架须标注为分析性框架",
+    "evidence_boundary": "二分框架为语义复核层标注，原文无该术语；Part1/Part2时段划分是本书结构事实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0346",
+    "title": "Penny Sparke：《Italian Design 1870 to the Present》，1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_as_italian_bid",
+    "accepted_claim": "“意大利设计是意大利争取现代性斗争之镜像”：本书以现代性为全书解释框架，“被确认的设计”、传统—现代双重矛盾、法西斯同时拥抱传统与现代均为现代性叙事",
+    "evidence_boundary": "本书是意大利案例的现代性叙事而非现代性概念理论；其“传统/现代”二元处理含作者立场，须与理论文献配合使用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0363",
+    "title": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_concept_historicized",
+    "accepted_claim": "以“第一/第二机器时代”二分及“机器美学/象征性语言”分析，示范“现代性”如何在1960年被历史化表述，可作为现代性概念教学的经典案例",
+    "evidence_boundary": "分期与“跑赢技术”论属Banham 1960年史学建构，引用须标注框架而非当作中性定义",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0376",
+    "title": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "apostles_and_mediators_of_modernity",
+    "accepted_claim": "现代性体验命题：广告人既是“现代性使徒”（推销新）又是“现代性调解者”（安抚旧），广告同时推动与缓解美国人对现代生活的不适——现代性、现代化与广告媒介关系的美国案例",
+    "evidence_boundary": "作者命题（全书脊柱）；作为现代性体验的案例引用，不与欧洲现代性理论混同",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_bridge_production_consumption",
+    "accepted_claim": "设计是生产与消费之间的桥梁（Janus双重联盟，L274引1986旧文仍成立）；消费文化使设计必要、技术进步使之可能（L286）；全书以现代性（1900-1939）与后现代性（1940至今）两时段为纲、身份为核心概念（L294）",
+    "evidence_boundary": "Introduction方法论声明，均为作者命题；可支撑教材设计文化三维度叙事的框架对接",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_define_design_culture_framework",
+    "accepted_claim": "design与culture两概念的辨析（过程/结果、规范/人类学意义）构成方法论起点（L282）；设计被视为文化的构成性力量而非镜像（L284）；理论依赖Huyssen《After the Great Divide》与Bourdieu《Distinction》（L300-302）",
+    "evidence_boundary": "作者自述框架；注意本书以design与culture的关系为纲，而非严格的design-production-consumption三维模型",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_experience_and_stages",
+    "accepted_claim": "Berman 定义现代性为生命体验模式（空间时间、自我他人），现代化/现代主义三分与三阶段分期——现代性概念底盘",
+    "evidence_boundary": "Berman 章为其 1983 年著作的摘编；OCR 章首署名误作 HERMAN，Contributors 确认为 Marshall Berman",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0463",
+    "title": "Zeynep Çelik：《Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_self_proof",
+    "accepted_claim": "奥斯曼与埃及参与博览会及自办庆典是“成为现代文明可见成员”的自证演练，现代化是穆斯林改革话语中的核心价值",
+    "evidence_boundary": "“可见性”动机出自官方文件与知识分子话语；现代化叙事是作者重构而非当时统一共识",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_designer_centric_narrative",
+    "accepted_claim": "中国现代设计史应建立以人和作品为中心的经典叙事（设计师、团体、风格、流派、事件），主张史实求真优先、反对“以论代史”",
+    "evidence_boundary": "作者方法论立场，在与佩夫斯纳—伍德姆谱系对话中展开，非实证命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_global_network",
+    "accepted_claim": "中国现代设计应放在全球设计交互网络中研究，“照相蒙太奇”在欧亚大陆的传播是典型的跨越文化语境与意识形态的全球史议题",
+    "evidence_boundary": "跨文化传播比较方法，涉及日本、苏俄、欧美影响及外国设计师在华实践",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "life_enlightenment_mediation",
+    "accepted_claim": "设计为生活与现代性之“中介”；“生活启蒙”比思想启蒙更直接、更逼真、更可靠，衣食住行用之“美”必须存在于物质基础之上",
+    "evidence_boundary": "“生活启蒙”为作者建构的核心概念（以王家树—于光远通信为史实支撑），概念框架与史实需分层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_bauhaus_china",
+    "accepted_claim": "20世纪80年代中国现代设计思潮是“经由生活的一次人文启蒙”，香港担当连接“欧陆”的中介；包豪斯思想隔半世纪传入中国，但对包豪斯的理解不完整，功能主义成为宣扬设计至上的理由；现代设计仓促发生导致“泡沫教育”与“泡沫设计”并存",
+    "evidence_boundary": "现代性叙述为作者个人史观与反思",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_concept_authority",
+    "accepted_claim": "现代性定义与四体系框架（技术/功能/思想/制度），“经典现代建筑”概念区分；现代建筑经济性、工业化、简约美学符合中国国情的判断",
+    "evidence_boundary": "第1章L18–19、L25、L36–37",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0108",
+    "title": "Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postmodern_manifesto_texts",
+    "accepted_claim": "后现代状况的原始宣言：Branzi“我们是原始人”（宏大叙事终结、设计服务于身份建构而非功能进步）、Vitta物件符号化、Selle“没有媚俗只有设计”（大众日常美学辩护）——0.2现代性/后现代边界的原始文本",
+    "evidence_boundary": "宣言体文本：修辞立场非史实陈述，引用须标注文体性质",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0181",
+    "title": "Guy, John：Woven Cargoes：Indian Textiles in the East, 1998",
+    "grade": "C",
+    "verification": "V2",
+    "role": "premodern_customization_and_modernity",
+    "accepted_claim": "前现代市场定制体系（16世纪前即跨数千英里定制生产）为“现代性=全球化起点”的线性叙事提供反例与对照",
+    "evidence_boundary": "史实出自原著（Pires、Coppendale证据）；与现代性理论的对话为P4推演层，不能写成原著论点",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0214",
+    "title": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "anti_technological_determinism",
+    "accepted_claim": "反技术决定论：“技术不决定社会或形式的变化；它在变化的文化环境中运作”（电气化并不创造数字媒介的类比）——0.2现代化与技术关系讨论的资源",
+    "evidence_boundary": "作者论点；技术史细节（印刷革命等）须与专门技术史互校",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "eastern_resource_modernity",
+    "accepted_claim": "老子语录（L251-254）与“心手合一”（L948）等东方资源被引入西方设计教育纲领，构成现代性叙述中的跨文化维度",
+    "evidence_boundary": "引文属实；其作为“现代性资源”的定位为解释性推断（P4路由）",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernity_individual_formation",
+    "accepted_claim": "以“完整整合的创造人格”为目标、主客观辩证统一（客观法则增强而非抹杀个性）的教育观，体现现代性中个体解放与客观规律的张力",
+    "evidence_boundary": "为伊顿本人教育哲学表述；与现代性叙事框架的关联属解释性",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0240",
+    "title": "Judy Attfield：《Wild Things The Material Culture of Everyday Life》，2000",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernity_everyday_things",
+    "accepted_claim": "现代性条件下的日常物：郊区化与现代化进程中的物（spec builder's vernacular投机建造商本土风格）、日常物质实践作为现代性经验——0.2现代性的日常侧案例",
+    "evidence_boundary": "英国郊区化案例（战后）；现代性框架为作者综合",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0242",
+    "title": "Julier：《The culture of design，2018》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "reflexive_modernity_and_design",
+    "accepted_claim": "反身性现代化与设计：Beck/Giddens反身性现代化、风险社会理论在设计领域的应用（高端设计的风险美学、反身性消费）——现代性讨论的当代设计语境",
+    "evidence_boundary": "理论应用为作者综合，反身性现代化理论本身须回溯Beck/Giddens原著",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernity_market_place_tension",
+    "accepted_claim": "市场与地方的张力自现代市场社会开端（英国圈地之争）即存在，构成现代性体验的结构维度",
+    "evidence_boundary": "现代性论述多为二手理论转引（Polanyi/Berman/Kern），非系统现代性史",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_modernity_france",
+    "accepted_claim": "以家具—趣味—政治权力关系界定法国现代性：宫廷/资产阶级/大众风格体制分期",
+    "evidence_boundary": "分期为作者解释框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postmodern_condition_definition_via_citations",
+    "accepted_claim": "编者转引 Jameson（历史感丧失）与 Baudrillard（交流狂喜）界定后现代状况——教材『后现代主义设计』背景定义",
+    "evidence_boundary": "为综述性转引而非原创理论，引用须以 Ch01 引文标注为据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0452",
+    "title": "Wichmann：《Japonisme the Japanese influence on Western art since 1858》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernism_origin_narrative",
+    "accepted_claim": "作者命题：日本主义提供了二十世纪现代主义若干核心概念（新视角、对角线分离平面、截断前景）并最终通向战后抽象",
+    "evidence_boundary": "属作者因果叙事，证据强度不足（如Tachism溯源书法），只能作为“现代主义起源叙事”的一派观点引用",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chronology_chinese_version",
+    "accepted_claim": "中文大事年表（1654—2010）为中译本对原版年表的全译，可作教学时间轴与分期参照",
+    "evidence_boundary": "年表内容与英文版一致，无中译本独立增补条目",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "C",
+    "verification": "V2",
+    "role": "designers_personality_modernity",
+    "accepted_claim": "设计师人格现代性（中性人格）与设计现代化关系",
+    "evidence_boundary": "概念建构为主，个案（吕彦直、梁思成、杭穉英）支撑",
+    "status": "ACCEPTED_AS_SUPPLEMENT"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "linear_history_reflection_chinese_textbook",
+    "accepted_claim": "中文教材的现代性叙事样本：作者自述第二版保留“线性历史演进观”同时承认设计史“并非单纯的线性发展模式，多元化、挫折性总是存在的”——0.2现代性分期讨论的教科书话语样本",
+    "evidence_boundary": "作者方法论自述，非史学理论文献；引用须标注出处与立场",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "D",
+    "verification": "V2",
+    "role": "modernity_automation_dimension",
+    "accepted_claim": "自动化与系统思维可作为现代性技术维度的例证材料，但本书不讨论现代性概念本身",
+    "evidence_boundary": "文本无现代性理论框架，仅间接关联",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "0.3": {
+  "grades": {
+   "A": 29,
+   "B": 29,
+   "C": 3
+  },
+  "count": 61,
+  "items": [
+   {
+    "source_id": "B0005",
+    "title": "Adamson, Glenn; Riello, Giorgio; Teasley, Sarah (eds.), Global Design History, 2011",
+    "grade": "A",
+    "verification": "V2",
+    "role": "relational_global_design_history",
+    "accepted_claim": "全球设计史应从英雄与名物清单转向对象、连接、比较和多地点关系",
+    "evidence_boundary": "这是编者的方法论主张，不代表论文集各章已消除欧美中心偏差",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0035",
+    "title": "Aslin, Elizabeth：《The aesthetic movement prelude to Art Nouveau》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "cross_media_form_social_and_commercial_history",
+    "accepted_claim": "跨媒介对象须同制度、商业、传播与社会话语共同解释",
+    "evidence_boundary": "运动的情绪／氛围统一性是作者分析概念，不是对象自然具有的属性",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0049",
+    "title": "Bonython, Elizabeth; Burton, Anthony：The Great Exhibitor：The Life and Work of Henry Cole, 2003",
+    "grade": "A",
+    "verification": "V2",
+    "role": "institutional_biography_network_and_mediation",
+    "accepted_claim": "人物行动须经合作网络、传播、庇护和行政装置转化为制度结果",
+    "evidence_boundary": "传记的Cole中心性不能替代多主体制度史",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0052",
+    "title": "Briggs, Asa：《Victorian things》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "things_as_emissaries_multi_source_material_culture_method",
+    "accepted_claim": "对象须同制作、使用、展示、分类、文字与制度证据共同解释",
+    "evidence_boundary": "物不是透明文化密码，‘使节’隐喻仍需中介和反例",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0070",
+    "title": "Charles Harvey, Jon Press：《William Morris design and enterprise in Victorian England》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "enterprise_production_market_and_actor_method",
+    "accepted_claim": "设计史须把企业组织、生产选择、协作者、价格和市场纳入对象解释",
+    "evidence_boundary": "企业档案不能完整呈现工人、家庭和消费者经验",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "production_to_consumption_chain",
+    "accepted_claim": "铸字→排版→印刷→装订→编辑→发行→零售→消费完整产业链及其社会关系；“编-印-发”三合一模式（vs英美编印分离）",
+    "evidence_boundary": "比较制度分析（作者命题）+企业档案；生产-中介-消费链条与0.3关系史框架直接契合",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0080",
+    "title": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+    "grade": "A",
+    "verification": "V2",
+    "role": "form_production_consumption_identity_and_media_method",
+    "accepted_claim": "服装形式须与生产、消费、身体、身份、媒体和多重意义共同解释",
+    "evidence_boundary": "开放解释不能免除对象、行动者和因果证据要求",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0084",
+    "title": "Clive Dilnot：《A John Heskett Reader Design, History, Economics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "history_economics_policy_and_context",
+    "accepted_claim": "设计史可贯通生产、使用、经济价值与制度政策而不只描述形式",
+    "evidence_boundary": "文集跨时期跨文类并置不能自动组成统一因果理论",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0091",
+    "title": "Crawford, Alan：《C.R. Ashbee architect, designer romantic socialist》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "contextual_biography_institution_enterprise_and_object",
+    "accepted_claim": "个人思想、制度、企业、作品与接受史需相互校验而非写成单一名家生平",
+    "evidence_boundary": "传记结构仍以Ashbee为中心且作品部分与生平部分有所分离",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0101",
+    "title": "David Raizman：《History of Modern Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "production_consumption_stakeholder_design_history",
+    "accepted_claim": "设计史应同时分析设计者、工匠、制造商、赞助人、消费者与制度语境",
+    "evidence_boundary": "stakeholder框架仍可能压低工人、殖民主体和环境",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "A",
+    "verification": "V2",
+    "role": "decentering_global_perspective_design_history",
+    "accepted_claim": "第三版以de-centering为方法论纲领：承认经典叙事欧洲中心、男性中心、白人中心，通过非西方案例与跨文化互依展示「民族设计」概念之脆弱，并引Huppatz「全球思考不需全球覆盖」为限度",
+    "evidence_boundary": "证据边界为前言（clean第135—140行）与引言「A Wider Angle: De-centering Design」小节",
+    "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   },
+   {
+    "source_id": "B0121",
+    "title": "Dickerman：《Dada Zurich, Berlin, Hannover, Cologne, New York, Paris》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "relational_history_multicity_network",
+    "accepted_claim": "本书为“从英雄谱系到关系史”的直接范例：以人物穿越（Tzara/Arp/Picabia各跨5章）与期刊流通替代单线谱系；结构上反对“达达→超现实主义”线性叙事（对照Barr 1936、Rubin 1968、Ades 1978）",
+    "evidence_boundary": "编辑结构≠论证结论：各章叙述仍以个体艺术家为核心；关系史主张须限定于本书框架层面",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0130",
+    "title": "Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "decline_paradigm_and_bottom_up_manufacturing_history",
+    "accepted_claim": "制造业史须分别检查家庭作坊行会工厂国内市场和出口而不能用工厂或行会单一指标判断衰落",
+    "evidence_boundary": "作者的修正主义结论仍受领事档案和统计口径限制",
+    "status": "ACCEPTED_WITH_COUNTERARGUMENT"
+   },
+   {
+    "source_id": "B0133",
+    "title": "E. P. Thompson：《William Morris romantic to revolutionary》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "political_intellectual_biography_and_reconstruction",
+    "accepted_claim": "思想史可把文学、讲演、组织行动和历史条件相互校验，并公开说明重构过程",
+    "evidence_boundary": "重构的体系不能归为行动者亲自完成的单一理论",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0154",
+    "title": "Finlay Robert：《The pilgrim art cultures of porcelain in world history》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "object_lens_and_scale_control",
+    "accepted_claim": "以瓷器为透镜可从具体物质痕迹扩展到生产贸易与跨文化关系并检验尺度跃迁",
+    "evidence_boundary": "器物传播不能自动证明文明兴衰或世界体系因果",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0168",
+    "title": "Gillian Naylor：《The arts and crafts movement a study of its sources, ideals and influence on design theory》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "ideas_institutions_practice_and_transfer_method",
+    "accepted_claim": "思想、学校、组织、实践和跨国中介须共同解释运动形成与转译",
+    "evidence_boundary": "谱系框架可能把后见之明写成前定方向",
+    "status": "ACCEPTED_AS_METHOD_WITH_TELEOLOGY_AUDIT"
+   },
+   {
+    "source_id": "B0169",
+    "title": "Giorgio Riello：《Cotton The Fabric That Made the Modern World》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "commodity_chain_global_history_method",
+    "accepted_claim": "以单一材料为透镜可把对象工序公司市场生态和强制劳动连接成可检验问题链",
+    "evidence_boundary": "商品链不能取代地方制度史且不能由连接直接推出因果",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0175",
+    "title": "Grand Designs Labor, Empire, and the Museum in Victorian Culture",
+    "grade": "A",
+    "verification": "V2",
+    "role": "social_cultural_institutional_and_market_history",
+    "accepted_claim": "设计改革需把制度、劳动、市场、话语、空间和行动者能动性置于同一分析框架",
+    "evidence_boundary": "英国个案不能自动外推为全球设计制度规律",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0209",
+    "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "relational_history_from_margins",
+    "accepted_claim": "以非洲消费者与被奴役者的日常选择重构相互依存的关系史，示范“自边缘观全球”的谱系学方法，反对英雄谱系与离散文化空间预设",
+    "evidence_boundary": "行动者自述稀缺，能动性复原依赖对外国观察者记录的逆读",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0225",
+    "title": "John Heskett：《Industrial Design》，1980",
+    "grade": "A",
+    "verification": "V2",
+    "role": "integrated_design_history_method",
+    "accepted_claim": "设计史须把形式同生产组织、材料制度、市场和实际使用结合，而不能只排名名作",
+    "evidence_boundary": "作者仍在形式主义与个体创造力框架内工作且案例老化",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0259",
+    "title": "Kenneth Pomeranz：《The Great Divergence China, Europe, and the Making of the Modern World Economy》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "reciprocal_core_region_comparison",
+    "accepted_claim": "互惠比较要求同时解释欧洲与亚洲为何偏离彼此而不预设欧洲正常路径",
+    "evidence_boundary": "核心区选择本身仍可能制造代表性偏差",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0305",
+    "title": "McKendrick：《The birth of a consumer society the commercialization of eighteenth-",
+    "grade": "A",
+    "verification": "V2",
+    "role": "demand_supply_commercialization_and_material_culture_method",
+    "accepted_claim": "生产、需求、企业策略、政治制度、社会心态和物质证据可被置于共同解释框架",
+    "evidence_boundary": "三位作者对商业化的具体机制并未完全统一",
+    "status": "ACCEPTED_AS_METHOD_WITH_INTERNAL_DIFFERENCE"
+   },
+   {
+    "source_id": "B0328",
+    "title": "Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_political_economy_method",
+    "accepted_claim": "设计史须把形式同生产、利润、劳动和社会观念置于同一解释链",
+    "evidence_boundary": "Forty的结构主义和马克思主义解释不是唯一范式",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0334",
+    "title": "Parthasarathi, Prasannan：Why Europe Grew Rich and Asia Did Not：Global Economic Divergence, 1600-1850, 2011",
+    "grade": "A",
+    "verification": "V2",
+    "role": "contextual_pressure_response_comparison",
+    "accepted_claim": "历史解释应比较各地区面对的具体压力、需求与政策回应",
+    "evidence_boundary": "压力模型不是充分解释且损失厌恶外推有风险",
+    "status": "ACCEPTED_WITH_COUNTERARGUMENT"
+   },
+   {
+    "source_id": "B0338",
+    "title": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "meaning_material_city_and_institution_matrix",
+    "accepted_claim": "意义资源、材料工艺、城市地方化与传播制度须联合解释风格",
+    "evidence_boundary": "现代性统一概念不能消除各章差异或多作者立场",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0339",
+    "title": "Paul Greenhalgh：《Ephemeral Vistas The Expositions Universelles, Great Exhibition",
+    "grade": "A",
+    "verification": "V2",
+    "role": "institution_display_finance_and_ideology_framework",
+    "accepted_claim": "展览应同时分析组织、资金、空间、对象、受众条件与意识形态解释",
+    "evidence_boundary": "该框架仍以主办国和展览发出端为中心",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0348",
+    "title": "Peterson, William S.：The Kelmscott Press：A History of William Morris's Typographical Adventure, 1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "production_business_object_and_reception_method",
+    "accepted_claim": "书籍设计史可把理念、工序、企业、劳动、市场与接受连成可核机制链",
+    "evidence_boundary": "单一名人—机构个案不能代表全部工艺美术生产",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0363",
+    "title": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+    "grade": "A",
+    "verification": "V2",
+    "role": "hero_lineage_to_relational_history",
+    "accepted_claim": "本书是对Pevsner英雄谱系的直接修正——“链条在格罗皮乌斯处断掉”、机器时代美学由“别处别人”创制，并以跨国关系网络替代单一先驱链，是“从英雄谱系到关系史”的范例文本",
+    "evidence_boundary": "作者仍以“人物—著作—作品”组织叙事，关系史化程度有限；其对Giedion的批判同样是立场性建构",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0450",
+    "title": "Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "three_theme_by_local_translation_comparative_matrix",
+    "accepted_claim": "共同问题轴须同传播渠道、地方语境和制度结果交叉比较",
+    "evidence_boundary": "中心—边缘矩阵不能把地方写成被动接收者",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0006",
+    "title": "Adburgham, Alison：《Libertys a biography of a shop》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "retail_enterprise_media_production_and_style_method",
+    "accepted_claim": "商店史可把零售空间、媒体、生产、品牌、跨境流通和风格运动连接起来",
+    "evidence_boundary": "企业人格化可能把结构与多行动者压缩为创始人意志",
+    "status": "ACCEPTED_AS_ENTERPRISE_METHOD_CASE"
+   },
+   {
+    "source_id": "B0027",
+    "title": "Apollonio：《Futurist manifestos》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "manifesto_as_collective_actor_history",
+    "accepted_claim": "宣言的合著署名（画家五人组、电影六人组）与“我们宣布”的集体语态，是行动者以集体身份建构运动史的实证，契合0.3节“从英雄谱系到关系史”",
+    "evidence_boundary": "集体署名掩盖内部分歧（Boccioni—Bragaglia之争、与La Voce群体的冲突），关系史叙述需其他档案补充",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0031",
+    "title": "Arthur J. Pulos：《American design ethic a history of industrial design to 1940》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_design_history_as_historiographic_object",
+    "accepted_claim": "国家设计史应检查制度产品与叙事如何共同建构所谓国家伦理",
+    "evidence_boundary": "本书的美国例外论不能作为中性解释框架",
+    "status": "ACCEPTED_AS_HISTORIOGRAPHY"
+   },
+   {
+    "source_id": "B0048",
+    "title": "Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "network_spatial_sociology",
+    "accepted_claim": "De Stijl成员关系网络结构：地理分散（Laren、Leiden、Voorburg、Huis ter Heide等），以van Doesburg为唯一编辑的通信网络维系关系",
+    "evidence_boundary": "P0：导言空间社会学论证+各章书信档案（1981年入藏遗稿）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0059",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+    "grade": "B",
+    "verification": "V2",
+    "role": "geography_of_power_design_history",
+    "accepted_claim": "设计史书写的权力批判：Fry“权力地理学”——设计史为欧洲中心建构、第二三世界近乎沉默、边缘性不是缺陷而是批判性位置（Geelong福特装配厂的拟像文化案例）——从英雄谱系到关系史的后殖民批判资源",
+    "evidence_boundary": "后殖民理论立场（德里达/Foucault/Said资源）；作为史学批判引用，非史料",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "cross_org_relations",
+    "accepted_claim": "Werkbund与魏玛共和国“结构性平行”、文化—政治边界之不可能、primacy of politics",
+    "evidence_boundary": "“平行关系”为Campbell解释框架（命题），非史料直陈",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "object_centered_social_history",
+    "accepted_claim": "以“物的社会生命”（Appadurai）与“摄影生态”（ecology）替代分类学，示范以物为中心的关系史书写",
+    "evidence_boundary": "方法框架来自Appadurai/Thomas，本书是应用范例而非该命题的首创者",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0090",
+    "title": "Crane, Walter：The Bases of Design, 1898",
+    "grade": "B",
+    "verification": "V2",
+    "role": "multicausal_actor_framework_for_design",
+    "accepted_claim": "Crane试图以建筑、用途、材料、条件、个体与集体等多因素解释设计",
+    "evidence_boundary": "十项体系是1898年的参与者框架且若干因素含决定论",
+    "status": "ACCEPTED_AS_HISTORICAL_ACTOR_THEORY"
+   },
+   {
+    "source_id": "B0108",
+    "title": "Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic",
+    "grade": "B",
+    "verification": "V2",
+    "role": "dilnot_design_history_methods",
+    "accepted_claim": "设计史方法论反思的开端：Dilnot将设计史学实践分类为四种传统（装饰艺术史、现代主义研究、设计组织研究、设计的社会关系研究）、批评设计史“神话化”倾向、提出设计史作为社会文化历史的“透镜”（Benjamin/Baxandall资源）——关系史转向的早期方法论文本",
+    "evidence_boundary": "单篇长文（Dilnot）；四种传统分类为作者建构，学科史事实须与后续发展（Walker/Lees-Maffei）并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0149",
+    "title": "Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "revisionist_institutional_history",
+    "accepted_claim": "制度史须比较规章与实践并检验行会保守论的条件",
+    "evidence_boundary": "该文集自身具有修正主义议程且不能替代对称反例",
+    "status": "ACCEPTED_WITH_COUNTERARGUMENT"
+   },
+   {
+    "source_id": "B0181",
+    "title": "Guy, John：Woven Cargoes：Indian Textiles in the East, 1998",
+    "grade": "B",
+    "verification": "V2",
+    "role": "relational_history_anonymous_artisans",
+    "accepted_claim": "以贸易网络、中间商与无名工匠为中心的关系史书写：“需求端—中转端—生产端”设计定制信息链取代英雄谱系，设计主体是市场机制而非个人",
+    "evidence_boundary": "三节点信息链为P4专项报告NN.1归纳；原著直接证据是muster布样制度与Coppendale模糊指令获精准响应",
+    "status": "ACCEPTED_AS_KEY_SOURCE"
+   },
+   {
+    "source_id": "B0183",
+    "title": "Hazel Conway：《Design history a students handbook》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "heroic_approach_critique",
+    "accepted_claim": "英雄式研究路径批判的系统样本：以名家名作（Adam、Wedgwood、Aalto、Dior）为主线的叙述方式批判、日常设计/匿名设计倡导、Hepplewhite偶然性案例（小厂主因遗孀图册留存被奉为伟大名字）——从英雄谱系到关系史的方法论依据",
+    "evidence_boundary": "方法论文献；批判立场为1980s学科共识，具体案例（Hepplewhite）有据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0192",
+    "title": "Hounshell：《From the American system to mass production, 1800-1932 the developmen",
+    "grade": "B",
+    "verification": "V2",
+    "role": "revisionist_anti_hero_technology_history",
+    "accepted_claim": "制造技术史须用企业档案和实物检验修正发明家起源神话",
+    "evidence_boundary": "修正某位英雄不等于个人行动完全不重要",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0214",
+    "title": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "critical_guide_vs_master_narrative",
+    "accepted_claim": "关系史方法的教材化：从“风格与大师的谱系”（Meggs式）转向“文化实践与社会力量的分析”、风格史即文化史、设计师身份作为历史建构——0.3从英雄谱系到关系史的平面设计侧样本",
+    "evidence_boundary": "教材方法定位（2009）；与Meggs/Hollis教材并置使用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0222",
+    "title": "John E. Bowlt (ed.)：《Russian Art of the Avant-Garde Theory and Criticism 1902-1934》，1976",
+    "grade": "B",
+    "verification": "V2",
+    "role": "relational_history_debates",
+    "accepted_claim": "宣言-反宣言并置（Tatlin vs. Gabo；Bogdanov vs. KomFUT/Altman；AKhRR vs. OST/October）构成关系史叙事的史料基础",
+    "evidence_boundary": "并置是编者组织行为；争论双方文本可互证分歧存在，但各自均为单方主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0240",
+    "title": "Judy Attfield：《Wild Things The Material Culture of Everyday Life》，2000",
+    "grade": "B",
+    "verification": "V2",
+    "role": "material_culture_turn_manifesto",
+    "accepted_claim": "物质文化转向的方法论宣言：拒绝生产/消费二分法、物的“社会生命”（Appadurai/Miller资源）、后学科跨学科范式——从英雄谱系到关系史的物质文化侧",
+    "evidence_boundary": "作者方法论立场；物的社会生命概念须回溯Appadurai原著",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0242",
+    "title": "Julier：《The culture of design，2018》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_history_writing_critique",
+    "accepted_claim": "设计史书写批判：佩夫斯纳式设计史将设计窄化为现代主义、个人英雄和家具设计，遮蔽真实多样性；本书以“过程—关系—系统”中心替代“物质对象”中心——关系史转向的当代样本",
+    "evidence_boundary": "作者批判立场（2000年设计文化研究视角）；与Pevsner原始文本并置阅读",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "multi_voice_design_history_method",
+    "accepted_claim": "多声部方法论样本：20位作者（政府官员、企业管理者、设计师、教育家、策展人）并置，以策展人选证与跨作者互文替代单一作者英雄史——关系史而非“大师—名作—风格”谱系",
+    "evidence_boundary": "本书为图录策划的并置而非自觉史学方法论文献，用作方法样本时须说明体裁限定",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0273",
+    "title": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "contextualization_turn_statement",
+    "accepted_claim": "设计史核心转折的学科共识表述：“追求风格史的观念已被设计及其物品在社会文化史中的语境化理解所取代”——从风格谱系到语境化关系史的转折声明",
+    "evidence_boundary": "编者综述性判断（2010）；转折过程的具体证据须回溯各阶段文献",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "relational_history_of_elite_networks",
+    "accepted_claim": "国家形象建构被还原为“进步巫师”群体（官僚、科学家、艺术家）的组织实践：庇护关系、合同竞争与专业分工而非单一英雄意志；Díaz作为“最终仲裁者”介入建筑方案之争",
+    "evidence_boundary": "Contreras私人档案与政府合同支持组织史细节；“巫师”隐喻是作者命名",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0318",
+    "title": "Morris, William：Hopes and Fears for Art, 1882",
+    "grade": "B",
+    "verification": "V2",
+    "role": "actor_theory_linking_art_labour_and_use",
+    "accepted_claim": "莫里斯把艺术、劳动愉悦、制作与使用连成一个参与者理论框架",
+    "evidence_boundary": "这是规范性行动者理论而非已验证的普遍机制",
+    "status": "ACCEPTED_AS_HISTORICAL_ACTOR_THEORY"
+   },
+   {
+    "source_id": "B0337",
+    "title": "Paul Greenhalgh (ed.)：《Modernism in Design》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "decentered_multi_national_design_history",
+    "accepted_claim": "去中心化的现代主义史样本：十国案例并置（法/德/比/英/瑞/美/意/西）、加州现代主义早于欧洲的修正论、自觉挑战Pevsner—MoMA单一谱系——从英雄谱系到多中心关系史的方法论范例",
+    "evidence_boundary": "论文集体裁：各章独立署名；“早于”类比较命题依赖断代定义，须注明为作者论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_history_deheroization",
+    "accepted_claim": "关系史转向：设计史应“去英雄化”，从天才设计师转向消费与日常物质文化；设计是生产-消费-身份的中介环节",
+    "evidence_boundary": "学科史综述（Pevsner/Giedion/Banham谱系），属方法论声明",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0346",
+    "title": "Penny Sparke：《Italian Design 1870 to the Present》，1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "relational_history_political_economy",
+    "accepted_claim": "本书示范关系史方法：政治—经济—文化三层并进，“低工资政策→出口竞争力→设计美学”因果链，国际参照系（美、德、日、北欧）贯穿，把设计嵌入产业与政治史",
+    "evidence_boundary": "方法示范有效，但“低工资→设计美学”因果链是作者论证构造，具选择性；消费端缺席是关系史的重要盲区，引用时须保留这一批判视角",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0383",
+    "title": "Ruskin, John：《The Stones of Venice》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "material_observation_moral_criticism_actor_method",
+    "accepted_claim": "现场、构造、装饰和历史文献如何被19世纪批评者组织为文明判断，可作史学案例",
+    "evidence_boundary": "规范性道德推演不能升级为现代经验方法",
+    "status": "ACCEPTED_AS_ACTOR_METHOD_CASE"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_relation_history",
+    "accepted_claim": "家具为人工物史料，以生产—分配—消费相互依存系统重构设计史，反对风格编年与英雄谱系",
+    "evidence_boundary": "限于巴黎个案，非全球关系史",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0427",
+    "title": "Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "relational_history_object_networks",
+    "accepted_claim": "以物件为中心的传记揭示制造者、赞助人、策展人与来源社群之间的权力关系网络（Ram Singh-Kipling-维多利亚、Clarke-Keith-Scindia、Ngati Awa-南肯辛顿），替代英雄谱系叙事",
+    "evidence_boundary": "关系网络由分散档案重建，关键环节缺位（Clarke无日记）时只能推断",
+    "status": "ACCEPTED_AS_KEY_SOURCE"
+   },
+   {
+    "source_id": "B0440",
+    "title": "Walker：《Design History and the History of Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "anti_monographic_relational_history",
+    "accepted_claim": "关系史转向的理论依据：monograph/传记写作遮蔽设计的社会性与集体性（个人主义意识形态）、设计品是“关系束的纽结”而非终点、Giedion匿名史/类型史传统——从英雄谱系到关系史的方法论支柱",
+    "evidence_boundary": "作者立场（批判理论/唯物主义）；作为史学方法论文献引用，非史料",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0452",
+    "title": "Wichmann：《Japonisme the Japanese influence on Western art since 1858》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "device_and_network_organisation",
+    "accepted_claim": "本书按“题材—手段”而非个人风格组织全书，并呈现博览会—商人—期刊—拍卖的制度网络，为“从英雄谱系到关系史”提供案例素材",
+    "evidence_boundary": "艺术家各章仍是英雄谱系式逐一专节，制度网络论述服务于“影响”主线，不能直接等同于教材的关系史主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0115",
+    "title": "Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor",
+    "grade": "C",
+    "verification": "V2",
+    "role": "queer_and_alternative_temporalities",
+    "accepted_claim": "替代史学路径：酷儿设计史以“情感档案”对抗时间规范性（chrononormativity）、殖民时间与原住民梦幻时间在铁路空间中的多重共振——从英雄谱系到多元时间性的方法论拓展",
+    "evidence_boundary": "单篇立场（Ch8酷儿理论、Ch3文学报告式）；作为方法路径引用，非学科共识",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0277",
+    "title": "Lodder：《Russian constructivism》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "archival_relational_history",
+    "accepted_claim": "洛德以INkhUK会议记录、VKhUTEMAS档案（TsGALI fond 681）、IZO行政记录与集体辩论组织叙事，并以“非功利主义构成”术语重建概念史，可作从英雄谱系向档案—关系书写的早期范例",
+    "evidence_boundary": "本书仍是运动中心叙事（塔特林为枢纽），人物传记速写附录保留英雄谱系痕迹；“关系史”是后出范式，不得反推为本书自觉实践",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0291",
+    "title": "Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997",
+    "grade": "C",
+    "verification": "V2",
+    "role": "comparative_framework_actors",
+    "accepted_claim": "关系史：三位行动者的比较框架（人物比较是作者建构的Margolin命题，非史料本身呈现的关系）",
+    "evidence_boundary": "三人共享宣言、期刊与机构档案，与B0277、B0222、B0269重叠；同一行动者文本只计一份P0",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "0.4": {
+  "grades": {
+   "B": 23,
+   "A": 20,
+   "X": 1,
+   "C": 4
+  },
+  "count": 48,
+  "items": [
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "glass_negatives_artifact_evidence",
+    "accepted_claim": "约1000张AEG玻璃底片与印刷品使已绝迹产品得以“证明其确实存在过”，作品编目以精确物理描述实现无实物条件下的物质性分析（“物的传记”）",
+    "evidence_boundary": "档案幸存具偶然性（阁楼/地窖发现）；编目图像主要来自AEG-Zeitung与MdBEW，属图像证据而非实物证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artifact_evidence",
+    "accepted_claim": "以雷丁大学IC档案（T/N文件、Guideline notes、约2000个pictogram图典、草图与mock-ups）及原始图表实物为核心人工物史料；设计过程材料与成品同权重是本书方法立场",
+    "evidence_boundary": "档案编号与实物可回溯；定年结论（图表修改谱系）属分析推定",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0086",
+    "title": "Colleen E. Kriger：《Cloth in West African History》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "textile_object_as_multilayer_evidence",
+    "accepted_claim": "纤维捻向织纹幅宽接缝染层和磨损可提出生产贸易与使用问题",
+    "evidence_boundary": "纺织物不是自足文本且对象归属与年代须互证",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0121",
+    "title": "Dickerman：《Dada Zurich, Berlin, Hannover, Cologne, New York, Paris》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "dada_objects_as_historical_sources",
+    "accepted_claim": "人工物作为史料的方法示范：蒙太奇作品、期刊、海报、展览装置成为重建达达历史的主要证据；Doherty将广告标签、产品标签、Klebestuben剪贴簿等非艺术材料赋予与作品同等分析权重；Merzbau以照片与文字留存",
+    "evidence_boundary": "对象证据须区分制作意图与实际社会生命（如Stieglitz摄影“制造”了新的Fountain）；已毁对象（Merzbau、多数表演）只能经中介证据间接进入史料",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0154",
+    "title": "Finlay Robert：《The pilgrim art cultures of porcelain in world history》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "porcelain_as_material_and_contextual_evidence",
+    "accepted_claim": "胎釉钴料器形纹样窑痕和残片可提供材料技术与流通线索",
+    "evidence_boundary": "形式与材料不能脱离出土入藏委托与使用语境解读",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0169",
+    "title": "Giorgio Riello：《Cotton The Fabric That Made the Modern World》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "textiles_archives_statistics_and_images",
+    "accepted_claim": "织物样品、图像、贸易统计和公司信函可相互校正产品名称技术与市场判断",
+    "evidence_boundary": "图像说明和商业分类不等于对象身份或消费者经验",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "documentary_materiality",
+    "accepted_claim": "本书以档案汇编形态呈现史料：每件文献标注出处（LW/BD/PA）、首刊标记（First publication）与捐赠来源，并说明档案存放地",
+    "evidence_boundary": "档案位置与首刊标注是元数据证据，证明文献的物质来源与编纂层级，不改变文献内容本身的效力",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0187",
+    "title": "Herbert Spencer：《Pioneers of Modern Typography》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "typographic_artifact_as_historical_source",
+    "accepted_claim": "排版实物——书籍封面、海报、期刊版面、广告、钞票、手稿与印刷版对照——构成现代排版史证据链的一手史料",
+    "evidence_boundary": "图版160余幅是本书核心论证要素；clean文本只有文字，视觉判断须回原书图版，不得以文字描述替代",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0192",
+    "title": "Hounshell：《From the American system to mass production, 1800-1932 the developmen",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artifact_test_of_interchangeability",
+    "accepted_claim": "实物零件互换测试可检验企业宣传和文献中的标准化主张",
+    "evidence_boundary": "样本、年代和保存史限制必须公开",
+    "status": "ACCEPTED_WITH_REPRODUCTION_REQUIRED"
+   },
+   {
+    "source_id": "B0199",
+    "title": "James：《Picture this World War I posters and visual culture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "poster_archive_provenance",
+    "accepted_claim": "海报作为人工物被档案馆系统保存（胡佛研究所、帝国战争博物馆、国会图书馆、Schomburg中心等），其收藏与编目即史料化过程；帝国战争博物馆为最早系统收藏者",
+    "evidence_boundary": "档案馆名单出自致谢与插图注记，“最早系统收藏”为作者陈述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0199",
+    "title": "James：《Picture this World War I posters and visual culture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "poster_image_picture_duality",
+    "accepted_claim": "海报作为史料具有双重性：作为“图片”（picture，可烧毁/悬挂的物质对象）与“图像”（image，可复制、挪用、存续的视觉内容），处于“证据的暮光地带”",
+    "evidence_boundary": "Mitchell区分是分析工具而非史料本身；海报可证生产、流通、展示安排，不能单独证接受",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artifact_visual_archive",
+    "accepted_claim": "250幅插图（55幅彩色）及家具、金属、玻璃、陶瓷、时装、纺织、平面艺术的产品门类叙述构成人工物史料档案",
+    "evidence_boundary": "插图为图录性质，图注信息以原书为准；产品归属存在无法确定归属的情况",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "rosemark_trademark_evidence",
+    "accepted_claim": "Rosemark（玫瑰标记）1903年注册为工坊第一个商标，“WW”标志与设计师/工匠姓名缩写并置，是工坊企业化与品牌运作的人工物证据",
+    "evidence_boundary": "商标制度证明品牌意识，不证明市场成功或产品质量",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0338",
+    "title": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "objects_as_material_visual_and_exhibition_evidence",
+    "accepted_claim": "对象材质、工艺、构造、图版与展览著录共同支持形式—制作分析",
+    "evidence_boundary": "本地OCR不能替代图版，展品状态也不等于原使用情境",
+    "status": "ACCEPTED_AS_OBJECT_METHOD_WITH_VISUAL_FOLLOWUP"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "schroeder_house_artifact",
+    "accepted_claim": "施罗德宅（1924-25）：里特维尔德首座完整建筑，施罗德夫人为共同设计者而非单纯客户，1923底始设计、1924末入住、1985年夫人去世后修复",
+    "evidence_boundary": "档案（Rietveld-Schröder档案）+当事人访谈（Overy 1988、Troy 1983）；与B0276共享施罗德宅对象，只计一份P0",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "schroeder_not_concrete",
+    "accepted_claim": "施罗德宅并非混凝土建造：里特维尔德原想用混凝土板（当时新技术）而未实现",
+    "evidence_boundary": "档案实证修正成说",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0427",
+    "title": "Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "social_life_of_things_object_biography",
+    "accepted_claim": "人工物在被设计意图之外获得多段社会生命：制造、迁移、展示与遮蔽语境不断重写其意义（Gwalior门楼、Hinemihi、Mataatua、Bentzon银器均示范此方法）",
+    "evidence_boundary": "物件传记是作者基于档案与实物的方法论重构，档案缺位环节（如Clarke无日记、屏风无法断代）须留白",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0450",
+    "title": "Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "exhibition_objects_checklist_material_and_provenance",
+    "accepted_claim": "展览实物、材质、尺寸、年代、藏地和来源可作为对象研究入口",
+    "evidence_boundary": "策展对象不是系统样本，OCR图像也不能承担精确视觉判断",
+    "status": "ACCEPTED_AS_OBJECT_NAVIGATION"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artifact_material_evidence",
+    "accepted_claim": "以人工物为史料：甲骨、金文鼎彝、睡虎地秦简、马王堆帛书、西汉纸（灞桥纸）、《乙瑛碑》《曹全碑》等碑帖、济南刘家功夫针铺广告铜版构成实物证据链",
+    "evidence_boundary": "出土实物与传世碑帖分层、实物优先；灞桥纸等年代结论为作者辨伪推断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artifact_evidence_book_cover",
+    "accepted_claim": "民国书籍封面实物（上海图书馆、北京国家图书馆、南京图书馆、中央研究院馆藏与家属收藏）为研究对象",
+    "evidence_boundary": "图版目录L610—778（图1—55）；clean无图，图像本体不可复核",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0005",
+    "title": "Adamson, Glenn; Riello, Giorgio; Teasley, Sarah (eds.), Global Design History, 2011",
+    "grade": "B",
+    "verification": "V2",
+    "role": "object_as_local_methodological_tool",
+    "accepted_claim": "地方对象可作为追踪跨地域材料、技术和意义过程的方法工具",
+    "evidence_boundary": "物不是自足文本；制造地、流通地、使用地和收藏地须分开",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0013",
+    "title": "Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "photographs_as_historical_artifacts",
+    "accepted_claim": "本书展示照片作为人工物的史料生成机制：图版附相机/镜头/底片/出版展览史，记录已消失建筑，且作者自述修正过个别年代",
+    "evidence_boundary": "技术数据来自家族档案与作者考订；照片内容判断须回图版实物",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0048",
+    "title": "Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artifact_dating_evidence",
+    "accepted_claim": "人工物史料：van Doesburg彩色玻璃窗（1917）、De Vonk室内（1918）、Villa Henny（1914—16）、De Lange别墅色彩方案、Spangen样板房家具套装（1920）、红蓝椅断代等作为精确断代证据",
+    "evidence_boundary": "P0：作品实物+市政档案+照片+De stijl刊载记录交叉验证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0059",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artifact_semantics_and_meaning",
+    "accepted_claim": "人工物意义的系统理论：Krippendorff产品语义学（意义作为认知建构的关系、人工物五种本质语境：操作/社会语言/发生/生态/神话）、Krampen可供性（affordance为“意义的生态等价物”，基本/仪式化两类）、Csikszentmihalyi日常家庭物品构建私人生活意义——0.4“人工物如何成为史料”的意义侧理论",
+    "evidence_boundary": "理论建构性文献；应用于具体史料解读时须结合案例检验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "kettle_series_biography_of_things",
+    "accepted_claim": "电水壶系列以标准组件系统实现多样化（呼应Dolivo-Dobrowolsky生产定律），编目物理描述构成微型“物的传记”",
+    "evidence_boundary": "矩阵数据（尺寸、材料、表面、容量）与编目条目可证；“物的传记”为分析报告用语",
+    "status": "ACCEPTED_AS_CONTEXT_SOURCE"
+   },
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artifact_as_historical_evidence",
+    "accepted_claim": "照片成为史料的条件：需档案互证、题注文本细读，且reception记录稀缺构成史料解释的边界",
+    "evidence_boundary": "作者明确指出“很难找到接受史文献”，故由文本与制度推断接受是作者方法而非实证结论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artifact_material_history",
+    "accepted_claim": "人工物史料：洗衣机（1922 Model 80→1939 Master）、熨斗（sad iron→Mrs. Potts→Steam-O-Matic→Lady Light）、打字机形态演变的图录式实物记录",
+    "evidence_boundary": "实物为Cooper-Hewitt展览藏品，图录照片为史料中介；形态解读含Lupton分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0181",
+    "title": "Guy, John：Woven Cargoes：Indian Textiles in the East, 1998",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artifact_as_historical_evidence",
+    "accepted_claim": "纺织品实物成为史料的示范：碳测年建立9—19世纪物质证据链，Fustat残片与苏拉威西整幅布匹的跨国图案对应补足文字档案之不足",
+    "evidence_boundary": "物证+档案+图像+碑铭交叉验证是作者方法；测年数据表见clean第4619行附录",
+    "status": "ACCEPTED_AS_KEY_SOURCE"
+   },
+   {
+    "source_id": "B0183",
+    "title": "Hazel Conway：《Design history a students handbook》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "survival_bias_and_object_evidence",
+    "accepted_claim": "人工物史料化的核心方法问题：生存偏差（幸存物品不具代表性——通常是最贵最好的得以保存、日常用品已磨损丢弃）、实物一手经验（观察/触摸/测量）不可替代、伪造与复制辨识（Ham House 1670原品与1813仿品）、专利局记录作为制度痕迹",
+    "evidence_boundary": "领域案例（服装、家具）为作者举例；偏差原理具普遍性，应用于教材各章史料时须结合具体案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0209",
+    "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artifacts_as_historical_evidence",
+    "accepted_claim": "kanga、钟表、黄铜丝臂饰、家具等人工物可作为史料，以“物的传记”追踪全球流通与本地重赋意义",
+    "evidence_boundary": "物质遗存有限，多数器物描述来自文字与图像档案",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "cartoon_images_as_artifacts",
+    "accepted_claim": "漫画传单、杂志封面、壁画等漫画图像作为人工物史料，可证战时宣传图像的供给、题材与再现惯例",
+    "evidence_boundary": "图像不能证明受众接受与理解（作者自评传单“难以快速领会”属推断）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0228",
+    "title": "John Milner：《Vladimir Tatlin and the Russian Avant-Garde》，1983",
+    "grade": "B",
+    "verification": "V2",
+    "role": "destroyed_works_photo_reconstruction",
+    "accepted_claim": "本书以约270幅图版与图纸重建已毁浮雕与未建成纪念碑（仅存模型照片），图文互证构成「人工物如何成为史料」的方法示范",
+    "evidence_boundary": "重建属作者方法；Ogonek现场照片、0.10图录、普宁小册子封面为可证档案",
+    "status": "ACCEPTED_AS_CONTEXT_SOURCE"
+   },
+   {
+    "source_id": "B0240",
+    "title": "Judy Attfield：《Wild Things The Material Culture of Everyday Life》，2000",
+    "grade": "B",
+    "verification": "V2",
+    "role": "things_as_physical_articulation",
+    "accepted_claim": "人工物作为史料的系统理论：物是社会关系的“物理表达”与“积极中介”（在做事物而不仅仅是意味事物）、微观物质分析（梳妆台台面）连接宏观社会诊断（郊区化、现代化）、“从物出发”研究路径——0.4“人工物如何成为史料”的理论支柱",
+    "evidence_boundary": "理论框架（2000）；个案方法示范（Heal's、梳妆台）为英国案例，跨文化适用须谨慎",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0276",
+    "title": "Lissitzky, El; Arp, Hans (eds.)：Die Kunstismen = The Isms of Art, 1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "plate_system_as_visual_artifact_archive",
+    "accepted_claim": "图版系统约76条作品按艺术家字母序排列（非按主义、非按时间），含国籍缩写、选择性年份、†死亡标记与博物馆标签式极简标注，与三语定义文本构成互证——示范“人工物如何成为史料”的视觉档案编排结构",
+    "evidence_boundary": "clean底本中图版为文字列表与占位，图像证据须回原书核对；图版选择含编者偏向（俄德并列、巴黎弱化、毕加索标西班牙籍）；作品年份部分缺失",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0277",
+    "title": "Lodder：《Russian constructivism》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artifact_photographic_archaeology",
+    "accepted_claim": "已失传三维构成仅存照片、塔特林档案1953年被丢弃、构成主义者自身对作品的不在意——展示人工物作为史料的保存条件、“摄影考古学”与档案互证方法",
+    "evidence_boundary": "多数构成作品已毁，洛德以照片重建形式分析是其方法而非无损证据；档案缺口（INkhUK未完全开放）被作者坦诚标注",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0304",
+    "title": "Maxine Berg：《Luxury and Pleasure in Eighteenth-Century Britain (2007)》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "objects_inventories_and_trade_records",
+    "accepted_claim": "对象、遗产清单、价格、广告和贸易记录可互校产品的社会生命",
+    "evidence_boundary": "拥有记录不等于使用方式，广告不等于实际接受",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0328",
+    "title": "Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New",
+    "grade": "B",
+    "verification": "V2",
+    "role": "objects_as_materialized_social_claims",
+    "accepted_claim": "人工物可用于分析生产者试图物化的社会分类和观念",
+    "evidence_boundary": "物的形式不能独自证明设计意图或受众效果",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0332",
+    "title": "Owen Jones：《The Grammar of Ornament》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_examples_abstracted_from_context",
+    "accepted_claim": "图版可研究19世纪如何把器物和建筑细部转换为可比较的平面史料",
+    "evidence_boundary": "图版不是原对象的中性复制，语境、尺度、材料和用途被削弱",
+    "status": "ACCEPTED_AS_METHOD_CASE"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "B",
+    "verification": "V2",
+    "role": "red_blue_chair_artifact",
+    "accepted_claim": "红蓝椅（1918原型）：并非绝对全新发明，Wright、Berlage、Klaarhamer有先例；1930s起以两版本量产，1971年Cassina获授权",
+    "evidence_boundary": "档案（Rietveld-Schröder档案价目表）+评论史对照（Giedion vs后起评论者）；与B0048共享红蓝椅对象，只计一份P0",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0363",
+    "title": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artifact_as_historical_evidence",
+    "accepted_claim": "人工物（Fagus、Barcelona Pavilion、Villa Savoye）被当作检验理论主张的证据而非风格标本，示范“人工物如何成为史料”，含照片选择对证据效力的影响",
+    "evidence_boundary": "以建筑作品与家具为主，日用工业品史料有限（Dymaxion为少数例外）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_artifact_evidence",
+    "accepted_claim": "家具实物与图像（68幅插图）、企业账簿与广告、购买—继承—废弃全生命周期记录作为人工物史料",
+    "evidence_boundary": "图像证据依赖档案与图注中介",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0463",
+    "title": "Zeynep Çelik：《Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "pavilion_as_historical_source",
+    "accepted_claim": "展馆建筑本身成为史料：复制品与展览厅两种类型、建筑师图纸（Parvillée、D'Aronco）与128幅图像构成建筑史证据链",
+    "evidence_boundary": "展馆均为临时建筑已不存，D'Aronco图纸仅两张留存，图像证据依赖文字转述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_evidence_limitation",
+    "accepted_claim": "风格分析（色彩/构图/元素）全部依赖文字描述，如《彷徨》「橘红底暗蓝纹，三人向太阳」",
+    "evidence_boundary": "clean无图",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0007",
+    "title": "Ades：《Photomontage》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ephemerality_of_montage_archive",
+    "accepted_claim": "蒙太奇作品多为临时性材料（Grosz描述的明信片无一幸存），部分原作散佚，本书依赖刊物复现与二手转载，展示人工物作为史料的不稳定性",
+    "evidence_boundary": "“原作散佚、需据书刊复制”是作者自述的编辑说明",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0269",
+    "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
+    "grade": "C",
+    "verification": "V2",
+    "role": "artifacts_as_evidence_demo",
+    "accepted_claim": "以1729/1945报纸头版并置作为感知变迁的视觉史料，示范印刷品人工物的史料用法",
+    "evidence_boundary": "行动者示范史料使用，非史学方法论专著；其史料观可作例证不可作史学定论",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "artifact_as_historical_source",
+    "accepted_claim": "阿兹特克宫作为人工物史料：立面十二神王的拣选（省略Moctezuma、Huitzilopochtli）与Camaxtli的强行纳入，使建筑成为官方历史编纂学的物质化文本，示范“人工物如何成为史料”的读法",
+    "evidence_boundary": "立面人物与《México a través de los siglos》插图的对应关系有文本互证；“历史编纂学物质化”是作者解读",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0452",
+    "title": "Wichmann：《Japonisme the Japanese influence on Western art since 1858》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "objects_as_evidence",
+    "accepted_claim": "刀镡、梳饰、染型纸、和服、陶瓷等器物被本书作为艺术史证据系统使用，显示人工物可承担史料功能",
+    "evidence_boundary": "器物证据服务于欧洲艺术史叙事，不涉及人工物史料学的理论讨论",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0097",
+    "title": "Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》",
+    "grade": "X",
+    "verification": "V2",
+    "role": "missing_visual_type_specimens",
+    "accepted_claim": "当前文件不能验证字体造型、版面、可读性或图版并置所支持的视觉判断",
+    "evidence_boundary": "367幅图版缺失且正文错序重复",
+    "status": "EXCLUDE_VISUAL_CLAIMS"
+   }
+  ]
+ },
+ "0.5": {
+  "grades": {
+   "B": 29,
+   "A": 33,
+   "C": 17,
+   "X": 1
+  },
+  "count": 80,
+  "items": [
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "actor_text_evidence",
+    "accepted_claim": "本书为行动者文本汇编（P0）：23篇Loos原文+Masheck后记+注释，证据类型为行动者文本",
+    "evidence_boundary": "编辑层（后记、导言、注释）与原文层须区分，不同报告不得视为独立来源",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0027",
+    "title": "Apollonio：《Futurist manifestos》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "manifesto_as_historical_source_method",
+    "accepted_claim": "编者以文献汇编、出处标注、年表呈现文本且导论明确告诫“不应按面值接受夸耀”，是0.5节“宣言作为史料”的方法论范例",
+    "evidence_boundary": "选集存在选目与节选的主观性；clean文本为英译二手层，引用须标注版本",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0035",
+    "title": "Aslin, Elizabeth：《The aesthetic movement prelude to Art Nouveau》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "periodicals_hearings_catalogues_memoirs_archives_and_objects",
+    "accepted_claim": "期刊、听证、目录、回忆、讲演、档案与实物可形成互证链",
+    "evidence_boundary": "讽刺、广告和回忆录各有立场与记忆偏差，图版仍须返回原件",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0049",
+    "title": "Bonython, Elizabeth; Burton, Anthony：The Great Exhibitor：The Life and Work of Henry Cole, 2003",
+    "grade": "A",
+    "verification": "V2",
+    "role": "diary_letters_blue_books_press_triangulation",
+    "accepted_claim": "日记、通信、政府报告和报刊可互相约束改革者自述与制度事件",
+    "evidence_boundary": "日记的事务性和传主自我呈现造成系统性沉默",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0052",
+    "title": "Briggs, Asa：《Victorian things》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "objects_ads_literature_wills_statistics_technical_and_museum_sources",
+    "accepted_claim": "实物、广告、文学、遗嘱、统计、技术文献与馆藏可互补各自沉默",
+    "evidence_boundary": "文学和广告不直接证明行为，统计与实物样本均有保存偏差",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "corporate_archive_evidence_type",
+    "accepted_claim": "企业档案（产品目录、AEG-Zeitung、MdBEW、订单、建筑图纸、商标注册G78-G79）支撑组织与生产事实；同时AEG档案与Behrens私人文件已失，可能1945年运往苏联",
+    "evidence_boundary": "档案双重性（最可靠证据与最大缺失）须同时声明；商标注册条目连接知识产权史",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0070",
+    "title": "Charles Harvey, Jon Press：《William Morris design and enterprise in Victorian England》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "accounts_letters_partnership_wage_and_sales_records",
+    "accepted_claim": "账簿、合伙协议、书信、工资与销售记录可互证艺术家自述和企业行为",
+    "evidence_boundary": "局部clean回查未完成全部数字、引注和档案号核定",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "archive_evidence_types",
+    "accepted_claim": "核心证据类型为企业档案与同业档案：上海档案馆书业公所/商会档案（S313系列）、商务/中华企业史、海关贸易数据、报刊广告、传教士报告",
+    "evidence_boundary": "档案证据等级P0；书业公所1905年成立、书业商会1911年成立为机构史实（档案可证）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_types",
+    "accepted_claim": "证据类型：一手档案（IC、IISH、ÖNB、Lasswell Papers等12处）、口述历史（Marie回忆录附录C、Arntz 1982访谈、Paul Neurath记录）、视觉实物与图表谱系定年（Kinross视觉考古学）",
+    "evidence_boundary": "证据类型清单可证；“棺材→墓碑”等图形演变推断属作者分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0086",
+    "title": "Colleen E. Kriger：《Cloth in West African History》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "triangulation_of_material_linguistic_and_archival_sources",
+    "accepted_claim": "技术分析可同考古语言植物口述和书面档案形成多链互证",
+    "evidence_boundary": "不同证据尺度和不确定性不能被合并抹平",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0091",
+    "title": "Crawford, Alan：《C.R. Ashbee architect, designer romantic socialist》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "diary_minutes_finance_catalogue_drawing_triangulation",
+    "accepted_claim": "日记、会议记录、财务、公司文件、目录和图纸可交叉约束传主自述",
+    "evidence_boundary": "材料存续不均且不同材料的沉默不能视为事件不存在",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0133",
+    "title": "E. P. Thompson：《William Morris romantic to revolutionary》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "works_letters_press_and_socialist_archives",
+    "accepted_claim": "作品、书信、讲演、报刊和组织档案可追踪概念在不同时期的变化",
+    "evidence_boundary": "当前V2抽查未完成所有引文、档案和版次核定",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0154",
+    "title": "Finlay Robert：《The pilgrim art cultures of porcelain in world history》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artifact_archaeology_text_and_trade_triangulation",
+    "accepted_claim": "器物、沉船、考古、技术文本、书信与商业数据可形成瓷器史多链互证",
+    "evidence_boundary": "不同年代地点和证据尺度不能仅凭叙事并置合并",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "A",
+    "verification": "V2",
+    "role": "poster_as_visual_evidence",
+    "accepted_claim": "原文明言“海报也是时代的记录”（record of the times），且革命海报“在塑造事件中扮演积极角色”——海报作为图像史料（图像证据）的定位有直接文本支持",
+    "evidence_boundary": "“塑造事件”系作者修辞框架；记录内容（自由帽、三色标语）由图像自证",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0169",
+    "title": "Giorgio Riello：《Cotton The Fabric That Made the Modern World》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "multisource_cotton_evidence_chain",
+    "accepted_claim": "公司档案、统计、器物、技术文本、政策和个人证词能够形成棉花史多链互证",
+    "evidence_boundary": "宏观数据、行动者话语和物质证据的尺度不得混合",
+    "status": "ACCEPTED_AS_METHOD"
+   },
+   {
+    "source_id": "B0175",
+    "title": "Grand Designs Labor, Empire, and the Museum in Victorian Culture",
+    "grade": "A",
+    "verification": "V2",
+    "role": "archives_catalogues_ledgers_press_literature_and_worker_voice",
+    "accepted_claim": "官方档案、目录、账簿、报刊、文学和工人材料须按证据功能对位使用",
+    "evidence_boundary": "虚构与讽刺证明话语参与，不直接证明行为；账簿样本不完整",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "actor_self_account_p0",
+    "accepted_claim": "本书为行动者自著职业文本，属P0证据：可直接证明Dreyfuss的职业主张、方法与自我定位",
+    "evidence_boundary": "不能自动证明行业影响或产品成效；与B0206/B0066/B0205共享对象时只计一份P0",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0199",
+    "title": "James：《Picture this World War I posters and visual culture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "contextual_reading_method",
+    "accepted_claim": "图像史料必须置于话语语境（书面宣传、公共演讲、报刊、明信片、私人信件、公共仪式）中解读；孤立图像学证据会误导；反对海报图像“自行言说”",
+    "evidence_boundary": "方法论主张（Goebel表述、James全书承诺），非对单张海报的经验结论；各章做法示范了该方法的操作",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0199",
+    "title": "James：《Picture this World War I posters and visual culture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "government_archive_reconstruction",
+    "accepted_claim": "政府档案（英国PRC分发数据：近1200万份海报、3400万份传单；美国USFA档案、CPI记录）与图像档案交叉使用，可重建海报生产—分发—展示的完整链条",
+    "evidence_boundary": "档案可证生产分发规模与组织流程；分发量不等于接受效果（本书明确此边界）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0214",
+    "title": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
+    "grade": "A",
+    "verification": "V2",
+    "role": "critical_principles_image_evidence",
+    "accepted_claim": "图像证据批判理论：十条批判原则（没有平面对象是孤立的、越“自然”越有文化指示性、图像建构世界而非展示世界、意义是被创造的而非被传递的）——0.5“图像能证明什么、不能证明什么”的核心方法论文献",
+    "evidence_boundary": "作者建构原则（2009）；应用于具体图像史料时须与图像原件并读",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "primary_actor_teaching_text",
+    "accepted_claim": "本书为行动者自著教学文本（P0）：一手自述教学主张与课堂实践，附学生作品、Klee/Schlemmer书信等实物与同时代材料",
+    "evidence_boundary": "P0证据力限于主张与教学安排；教学成效与学生接受不能自动成立",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0222",
+    "title": "John E. Bowlt (ed.)：《Russian Art of the Avant-Garde Theory and Criticism 1902-1934》，1976",
+    "grade": "A",
+    "verification": "V2",
+    "role": "actor_texts_as_primary_sources",
+    "accepted_claim": "全书48篇行动者文本（宣言、讲稿、政策文件、展览目录声明）是行动者文本作为史料的典型样本：编者标注原始出处（bibl.编号体系）与文本物理来源",
+    "evidence_boundary": "行动者文本证明主张而非效果与接受，此为使用规则而非内容结论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0305",
+    "title": "McKendrick：《The birth of a consumer society the commercialization of eighteenth-",
+    "grade": "A",
+    "verification": "V2",
+    "role": "letters_ads_trade_cards_inventories_objects_and_press",
+    "accepted_claim": "企业书信、广告、贸易卡、遗产清单、实物与报刊可互校消费供给和商业意图",
+    "evidence_boundary": "商业意图与广告存在不能直接证明消费者心理和行为",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0318",
+    "title": "Morris, William：Hopes and Fears for Art, 1882",
+    "grade": "A",
+    "verification": "V2",
+    "role": "lecture_testimony_citation_and_mediated_evidence",
+    "accepted_claim": "讲演中的自述、引书、历史例证和动员语言必须区分其证据身份",
+    "evidence_boundary": "第一人称工艺经验仍不能证明所有工人或地区状况",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0338",
+    "title": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "catalogue_periodicals_manifestos_archives_and_bibliography",
+    "accepted_claim": "展览清单、期刊、宣言、企业／馆藏记录和书目可组成多层史料入口",
+    "evidence_boundary": "论文间材料密度不同，原文引述与数字仍须逐项核定",
+    "status": "ACCEPTED_AS_SOURCE_NAVIGATION"
+   },
+   {
+    "source_id": "B0339",
+    "title": "Paul Greenhalgh：《Ephemeral Vistas The Expositions Universelles, Great Exhibition",
+    "grade": "A",
+    "verification": "V2",
+    "role": "catalogue_report_finance_press_and_absence_reading",
+    "accepted_claim": "目录、官方报告、财务、报刊、建筑和统计可互证并通过缺席指认检验官方叙事",
+    "evidence_boundary": "官方文本中的类别不等于被展示者自我认同，统计OCR待核",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0348",
+    "title": "Peterson, William S.：The Kelmscott Press：A History of William Morris's Typographical Adventure, 1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "diary_letters_ledger_proofs_press_and_objects",
+    "accepted_claim": "日记、通信、账簿、校样、试页、报刊和实物可互校行动者记忆与生产事实",
+    "evidence_boundary": "资料保存受Cockerell角色和藏所收集史影响",
+    "status": "ACCEPTED_AS_SOURCE_METHOD"
+   },
+   {
+    "source_id": "B0376",
+    "title": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "advertising_as_source_methodology",
+    "accepted_claim": "广告作为史料类型的方法论奠基：Zerrspiegel（可校正折射的哈哈镜）理论、约18万则杂志广告＋广告业内部档案（JWT、Ayer、BBDO）＋行业期刊＋社会调查的多层证据设计——广告能证明广告人的想象、策略与文本形态，不能证明受众接受效果",
+    "evidence_boundary": "方法论文献：证据边界（生产端与文本端可证、效果端不可证）由作者明示；教材引用广告史料须回机构档案或原刊",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0383",
+    "title": "Ruskin, John：《The Stones of Venice》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "primary_actor_text_measurement_and_argument",
+    "accepted_claim": "Ruskin原文可证明其本人如何表述建筑、劳动、工艺和消费责任",
+    "evidence_boundary": "本地只含两卷且OCR／图版不完整，当前仍为V2",
+    "status": "ACCEPTED_AS_P0_ACTOR_TEXT_WITH_VERSION_LIMIT"
+   },
+   {
+    "source_id": "B0450",
+    "title": "Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "notes_checklist_periodicals_archives_and_multilingual_sources",
+    "accepted_claim": "注释、Checklist、同期刊物、讲演、书信和机构材料构成多语种证据入口",
+    "evidence_boundary": "图录正文的综合句不能替代原文页码与档案核验",
+    "status": "ACCEPTED_AS_SOURCE_NAVIGATION"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_hierarchy",
+    "accepted_claim": "证据类型四类并用：出土实物、传世碑帖、古典文献（《说文解字》《梦溪笔谈》《天工开物》）、近人研究（徐邦达、启功、郑振铎、戈公振），对蔡伦造纸等旧说逐条辨伪存疑",
+    "evidence_boundary": "无注释体系、转引旧说未加考证；辨伪结论为作者个人推断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "A",
+    "verification": "V2",
+    "role": "testimonial_oral_source",
+    "accepted_claim": "当事人回忆（钱君匋、吴梦非）与艺术家书信（弘一致丰子恺）为口述/书信证据",
+    "evidence_boundary": "L153弘一书信OCR错乱；口述证据需交叉印证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0040",
+    "title": "Jespersen, John Kresten：Originality and Jones' The Grammar of Ornament of 1856, 2008",
+    "grade": "A",
+    "verification": "V2",
+    "role": "archive_publication_plate_chain",
+    "accepted_claim": "日记、草稿、图版、印刷与版次材料可重建设计知识出版链",
+    "evidence_boundary": "文章复述不能替代未直接核验的档案和首版图版",
+    "status": "ACCEPTED_WITH_PRIMARY_FOLLOWUP"
+   },
+   {
+    "source_id": "B0006",
+    "title": "Adburgham, Alison：《Libertys a biography of a shop》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "corporate_magazine_family_archive_interview_and_press",
+    "accepted_claim": "公司内刊、家族材料、采访、馆藏和报刊可相互定位企业事件",
+    "evidence_boundary": "无完整书目且资料接近企业，当前只能作路由与有限转述",
+    "status": "ACCEPTED_WITH_PROVENANCE_FOLLOWUP"
+   },
+   {
+    "source_id": "B0007",
+    "title": "Ades：《Photomontage》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "montage_as_document_and_object",
+    "accepted_claim": "照片蒙太奇以报纸照片、警方档案照片等现成影像为材料（如Heartfield挪用Photo-Eye中的斯图加特警方照片），既是史料利用也是可考对象",
+    "evidence_boundary": "蒙太奇作品作为史料/对象的双重身份是本书的实践性证据，作者未作史料学理论化",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0013",
+    "title": "Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "photographs_as_object_evidence",
+    "accepted_claim": "摄影作品属对象证据：clean文本仅含文字描述与三语图注，视觉属性（角度、构图、光影、色调）必须以图版实物为准，文字不可替代图像",
+    "evidence_boundary": "clean版无内嵌图像，对象证据核验须回纸质版图版；此为本书证据使用的固有边界",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0080",
+    "title": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+    "grade": "B",
+    "verification": "V2",
+    "role": "objects_images_ads_magazines_literature_and_archives",
+    "accepted_claim": "实物、图像、广告、杂志、文学、账目与通信可互校时尚话语和实践",
+    "evidence_boundary": "OCR及图像缺失限制引文与视觉核验，文学／广告不直接证明行为",
+    "status": "ACCEPTED_WITH_SOURCE_TYPE_BOUNDARIES"
+   },
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "image_archive_orality_triangulation",
+    "accepted_claim": "图像细读、殖民档案与口述（照片elicitation、摄影师生涯访谈、村民收藏记录）三线证据可交叉支撑摄影社会史",
+    "evidence_boundary": "第1—2章为档案+图像，第3章为口述+参与观察，两类证据的时代与地域不同，不可混为同一接受证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0090",
+    "title": "Crane, Walter：The Bases of Design, 1898",
+    "grade": "B",
+    "verification": "V2",
+    "role": "lecture_illustration_comparison_and_claim_types",
+    "accepted_claim": "讲稿结合示意图、照片、对象比较和作者判断，须区分观察、类比与因果主张",
+    "evidence_boundary": "当前未逐图核验且形态相似不证明历史联系",
+    "status": "ACCEPTED_WITH_VISUAL_VERIFICATION_GAP"
+   },
+   {
+    "source_id": "B0097",
+    "title": "Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "specimens_letters_law_and_books_as_sources",
+    "accepted_claim": "字体标本、印本、书信、铸字档案与法规可构成多类印刷史证据",
+    "evidence_boundary": "当前转换损坏且图版缺失所以仅作来源路由",
+    "status": "ACCEPTED_WITH_VERIFICATION_GAP"
+   },
+   {
+    "source_id": "B0101",
+    "title": "David Raizman：《History of Modern Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "objects_texts_catalogues_exhibitions_and_secondary_synthesis",
+    "accepted_claim": "对象、宣言、目录、广告、展览和二手研究可互相约束通史叙述",
+    "evidence_boundary": "综述经作者选择且本次未逐条回原引注和图版",
+    "status": "ACCEPTED_WITH_VERIFICATION_GAP"
+   },
+   {
+    "source_id": "B0121",
+    "title": "Dickerman：《Dada Zurich, Berlin, Hannover, Cologne, New York, Paris》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_type_mix_dada_sources",
+    "accepted_claim": "本书是证据类型混用的完整样本：宣言/日记、回忆录、期刊、报纸评论、照片档案、技术分析（God颜料分析）、审查档案；各章作者对记忆性史料明确标注“事后建构”",
+    "evidence_boundary": "本书是证据使用的实例而非证据方法论专著；各章证据权重不一（Berlin重回忆录、Cologne重共时档案），跨章使用时须注明来源类型差异",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "B",
+    "verification": "V2",
+    "role": "poster_evidence_boundary",
+    "accepted_claim": "海报可证生产端意图与时代符号（自由帽、“自由平等博爱”、巴士底狱符号商品化），不能证明大众如何接受",
+    "evidence_boundary": "“大众观念”叙述来自Gallo社会史框架，须标注为作者判断",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0168",
+    "title": "Gillian Naylor：《The arts and crafts movement a study of its sources, ideals and influence on design theory》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "actor_texts_objects_and_institutional_sources",
+    "accepted_claim": "行动者文本、学校和组织材料可追踪理想的表述与传播",
+    "evidence_boundary": "当前仅V2且未完成全书引文页码与图像核验",
+    "status": "ACCEPTED_WITH_P0_FOLLOWUP"
+   },
+   {
+    "source_id": "B0181",
+    "title": "Guy, John：Woven Cargoes：Indian Textiles in the East, 1998",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_archival_oral_evidence_types",
+    "accepted_claim": "多类证据的示范性使用：图像（阿旃陀/蒲甘/吴哥壁画、Reinoso油画、南蛮屏风、版画）、档案（VOC、中国正史、Geniza、历代宝案）、民族志口述与田野（1993—95）",
+    "evidence_boundary": "各证据类型均有具体案例与插图编号；图像解读依赖风格比对，Reinoso油画与南蛮屏风的可靠性作者有专门论证",
+    "status": "ACCEPTED_AS_KEY_SOURCE"
+   },
+   {
+    "source_id": "B0183",
+    "title": "Hazel Conway：《Design history a students handbook》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "source_guides_and_oral_history",
+    "accepted_claim": "史料类型与一手经验指南：原始材料定位（博物馆、档案机构、专利局、贸易目录、广告材料、商业档案）、口述历史方法（推荐用于20世纪研究）、博物馆展陈本身带有解释性立场须批判审视",
+    "evidence_boundary": "1987年指南性内容，机构信息（V&A、Ironbridge等）须核实现状；方法原则仍适用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0187",
+    "title": "Herbert Spencer：《Pioneers of Modern Typography》，1969",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_types_manifesto_plate",
+    "accepted_claim": "宣言文本、期刊、图版、手稿与亲历者口述构成多层证据类型，作者以一手实物与在世先驱回忆互补",
+    "evidence_boundary": "口述证据链依赖作者致谢所列表单（拜耶、比尔、奇肖尔德、兹瓦特），属不可复核的一手渠道",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0209",
+    "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "images_as_taxonomic_construction",
+    "accepted_claim": "19世纪照片与版画（Jacob Wainwright人类学照片、奴隶市场插图）既是物质文化证据也是分类学建构，须在构图与生产条件中阅读",
+    "evidence_boundary": "“图像的建构性”是作者对视觉材料的解读框架，非图像自明属性",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "retrospective_self_account",
+    "accepted_claim": "1963年首版为离校约40年后的回顾性自述，含自我辩护成分（“普遍主义年代”之辩、对1923包豪斯书籍的抱怨）",
+    "evidence_boundary": "回顾性偏差需以同时代档案（如包豪斯校史记录）校正",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0273",
+    "title": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "primary_secondary_quasi_primary_sources",
+    "accepted_claim": "一次/二次文献的精细区分与“准一次文献”现象（Pevsner《现代设计先驱》获典藏地位）：不同文本有不同的历史与功能，须以不同的意识阅读——0.5史料类型意识的方法论范本",
+    "evidence_boundary": "文献学区分框架；具体文本归类（准一次文献）为编者判断",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0276",
+    "title": "Lissitzky, El; Arp, Hans (eds.)：Die Kunstismen = The Isms of Art, 1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "contemporary_ism_manual_as_evidence_type",
+    "accepted_claim": "本书作为“同代文献”证据类型的完整样本：宣言体自我定义＋原始文献书目＋图版档案＋1990学术后记四层材料并存——可借此说明同代文献“能证明编纂者意图与1924—25年话语状态、不能证明观众接受”的证据能力边界",
+    "evidence_boundary": "本书是证据使用实例而非证据方法论专著；条目无文献出处标注，书目与正文的对应关系需人工重建；1990后记属学术框架层，与1925正文证据等级不同",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_types_archive_oral_history",
+    "accepted_claim": "OSRD档案、口述史（Getting 1996采访等）、Rad Lab Series技术出版物与作战报告展示战时军事技术证据的类型与证明力",
+    "evidence_boundary": "本书为0.5正面案例；注意其民用证据缺位",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0332",
+    "title": "Owen Jones：《The Grammar of Ornament》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "publication_and_visual_evidence_chain",
+    "accepted_claim": "序言、图版、来源标注、协作者与石印流程构成复合证据链",
+    "evidence_boundary": "clean文本不能替代彩色图版与首版实物核验",
+    "status": "ACCEPTED_WITH_IMAGE_GAP"
+   },
+   {
+    "source_id": "B0363",
+    "title": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "image_archive_oral_digital_traces",
+    "accepted_claim": "图像证据偏差（“敌对性照片选择”改变建筑现代性观感）、档案考据（Messaggio/Manifesto归属）、回忆录与访谈为0.5的史料类型提供案例",
+    "evidence_boundary": "无数字痕迹维度；口述仅作辅证，作者对回忆录可信度保留态度",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0376",
+    "title": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_cliches_and_social_tableaux",
+    "accepted_claim": "图像证据解读工具：视觉陈规（办公室窗、家庭圈、未来城市、永恒村庄、庄严光束）与社会舞台布景（性别、阶级、仆人意象）的类型学——图像史料的系统解读方法样本",
+    "evidence_boundary": "类型学为作者分析范畴；图像解读结论须与图像原件并读，OCR噪声影响部分图版",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0427",
+    "title": "Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_archival_oral_evidence",
+    "accepted_claim": "殖民摄影与报刊图像不是中性记录：Lang照片被“科学程序”框定、说明文字支配图像（“Parisienne”标题）、同一照片在不同出版物配不同叙事，需与档案、口述交叉解读",
+    "evidence_boundary": "照片的证据地位在本书即争论对象（Doyle主张照片自我言说vs Roby主张文字补充），不能把照片当直接事实",
+    "status": "ACCEPTED_AS_KEY_SOURCE"
+   },
+   {
+    "source_id": "B0440",
+    "title": "Walker：《Design History and the History of Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "source_types_for_design_history",
+    "accepted_claim": "史料类型系统清单：实物、档案（公司档案、Silver Studio Collection、Archive of Art and Design）、口述史（访谈、Mass Observation档案）、图像（广告、时装插画、时尚版画）的设计史适用性评析——0.5各史料类型“能证明什么、不能证明什么”的方法论框架",
+    "evidence_boundary": "方法论文献；史料适用性判断为1989年学科共识的总结，须与具体档案实践并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0452",
+    "title": "Wichmann：《Japonisme the Japanese influence on Western art since 1858》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_archival_composite",
+    "accepted_claim": "本书示范图像证据（1105幅并置）、博览会报告、艺术家书信、拍卖目录、画谱等多类史料的组合使用方式",
+    "evidence_boundary": "以图像类比为主的论证在无文献直接证据处依赖视觉相似性，恰是证据方法教学中需警示的样本",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_types",
+    "accepted_claim": "证据类型：一手文献（Gropius纲领、Itten日记/辞呈、Klee Pädagogischer Nachlaß课程手稿、Schlemmer书信）+Bauhaus-Archiv档案+学生回忆+期刊（bauhaus杂志、Bauhausbücher）",
+    "evidence_boundary": "档案与回忆类证据行号需逐条回clean文本核实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0463",
+    "title": "Zeynep Çelik：《Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "archives_press_photography",
+    "accepted_claim": "史料组合包括奥斯曼总理府档案（Yıldız/Irade收藏）、多语种报刊（Sabah、Diyojen、L'Illustration、Chicago Tribune）、官方委员会出版物与游记小说",
+    "evidence_boundary": "档案使用集中于第4章；报刊以法英奥斯曼为主，阿拉伯语报刊覆盖有限",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "B",
+    "verification": "V2",
+    "role": "translators_afterword_context",
+    "accepted_claim": "译后记记载译本生成过程（第一版2007年、第二版昂与李昶合译）与译者对中国设计处境的观察（王澍2012年获普利兹克奖），是中译本接受史的一手材料",
+    "evidence_boundary": "译后记系译者个人观点，不代表原著立场",
+    "status": "ACCEPTED_AS_TRANSLATION_REFERENCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "B",
+    "verification": "V2",
+    "role": "secondary_citation_chain",
+    "accepted_claim": "大量转引当代研究（李欧梵、刘建辉、今井阳子等）并采用作者—年份—页码规范引用",
+    "evidence_boundary": "转引链需回查原始文献",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "C",
+    "verification": "V2",
+    "role": "editorial_layer",
+    "accepted_claim": "Masheck后记：1908/1909年代重订、Lombroso借用溯源、进化论语境化辩护、Ornament vs. Schmuck辨析",
+    "evidence_boundary": "二手学术解读，可作研究参考，不作一手证据",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0059",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_museum_institutional_critique",
+    "accepted_claim": "博物馆制度批判样本：Usherwood“形式追随资金”（伦敦设计博物馆1989开幕、Conran基金会赞助、赞助—展示—消费循环）——0.5“档案/博物馆能证明什么”的批判案例",
+    "evidence_boundary": "单篇制度分析（1995年时点）；博物馆现状须更新核实",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "C",
+    "verification": "V2",
+    "role": "updated_scholarship_and_reference_sources",
+    "accepted_claim": "第三版修订依托2015年NEH暑期学院成果及Bloomsbury设计参考资源（BED、Design: Critical and Primary Sources、BDL），各章融入2010年后研究，材料来源较第二版更新",
+    "evidence_boundary": "证据边界为前言第132—135、150—153行，属版本更新的事实性说明",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0108",
+    "title": "Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic",
+    "grade": "C",
+    "verification": "V2",
+    "role": "information_neutrality_myth",
+    "accepted_claim": "信息与图像证据批判：Kinross以铁路时刻表挑战“中性信息”神话（信息设计总是带有选择与立场）、Lupton对Isotype的符号学与意识形态解构——0.5“图像/信息能证明什么”的批判案例",
+    "evidence_boundary": "单篇案例（时刻表/Isotype）；Isotype史实须与Neurath档案互校",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0115",
+    "title": "Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor",
+    "grade": "C",
+    "verification": "V2",
+    "role": "digital_traces_as_sources",
+    "accepted_claim": "数字痕迹史料类型的当代案例：eBay关键词标签、Kindle阅读数据（非共时性分析）、iPhone GPS数据转化为可穿戴首饰（Silver Lining）——0.5“数字痕迹”能证明什么、不能证明什么的案例",
+    "evidence_boundary": "平台数据为2000s—2010s时点样本；数字档案的保存与取用机制（平台关闭、数据删除）须说明",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "C",
+    "verification": "V2",
+    "role": "political_propaganda_poster_evidence",
+    "accepted_claim": "战争与极权时期海报（征兵、公债、纳粹/苏联宣传）可作为政治意识形态的图像史料",
+    "evidence_boundary": "文本/图像自证其宣传内容；宣传效果为作者论断",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0214",
+    "title": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "timelines_and_tools_of_trade",
+    "accepted_claim": "史料组织创新：时间线（设计事件与政治/文化/科技并列）＋工具清单（各时期媒介、工具与材料）作为物质条件的参考框架——0.5“图像、档案与物质痕迹”的教材组织范本",
+    "evidence_boundary": "教学工具性质；时间线选择性与工具清单范围以本书为准",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0234",
+    "title": "Jonathan M. Woodham：《Dictionary of Modern Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "reference_work_evidence_role",
+    "accepted_claim": "词典作为工具书在证据体系中的定位：承担快速参照与术语锚定，不承担深度论证证据",
+    "evidence_boundary": "工具书体裁决定证据等级；正式引用须交叉验证",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "secondary_synthesis_narrative",
+    "accepted_claim": "本通史系二手综合叙述：制度史实可用，具体数字与判断须回查原注与书目评述所列原始文献",
+    "evidence_boundary": "通史综合性质本身决定证据等级；不得将书中数字直接作一手证据",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0242",
+    "title": "Julier：《The culture of design，2018》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ethnographic_and_case_method",
+    "accepted_claim": "民族志与案例方法：以“主流性、知名性、作者亲历性”为标准的多层级案例研究（生产/设计/消费三层面）、设计人类学民族志讨论的开端——0.5当代研究方法的样本",
+    "evidence_boundary": "方法选择为作者自述；亲历性标准意味着样本偏作者可及范围",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0269",
+    "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
+    "grade": "C",
+    "verification": "V2",
+    "role": "actor_text_evidence_type",
+    "accepted_claim": "本书作为行动者自著文本（P0）证据类型的实例：主张类命题可用、成效类命题不可用",
+    "evidence_boundary": "类型学案例；引用时须区分纲领陈述与事实陈述",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "visual_and_archival_evidence_in_practice",
+    "accepted_claim": "本书示范漫画（“我们在巴黎的立面”）、照片（Brehme/Kahlo/Modotti/Álvarez Bravo）、统计表与建筑蓝图作为国家形象史料的交叉使用，与0.5节“图像、档案、口述与数字痕迹”的方法议题对应",
+    "evidence_boundary": "史料类型学是作者实践而非理论阐述；原书无方法论专章",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0313",
+    "title": "Mike Davis：《Late Victorian Holocausts El Nino Famines and the Making of the Third World》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "marginal_archives_from_below",
+    "accepted_claim": "边缘史料的系统运用：“从下层看帝国主义”——传教士日记（内地会月刊）、殖民地卫生报告、民族主义小册子（Naoroji 1901、Dutt 1902、Digby 1878）、饥荒委员会记录的三角互证与“逆着纹理读”档案重估——0.5史料类型的拓展样本",
+    "evidence_boundary": "具体史料（传教士/民族主义文本）自带立场，引用时须保持其叙事身份；三角互证可降低单源偏差",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0337",
+    "title": "Paul Greenhalgh (ed.)：《Modernism in Design》，1990",
+    "grade": "C",
+    "verification": "V2",
+    "role": "reception_history_and_media_evidence",
+    "accepted_claim": "接受史与媒介证据设计：BBC广播听众来信、DIA季刊、企鹅丛书出版记录证明现代主义推广失败于美国商业文化（“BBC作为民族之音无法对抗英国品位的美国化”）——媒介—受众证据链范例",
+    "evidence_boundary": "单案例（英国1912—1944）研究；效果判断依赖来信样本，样本代表性须注明",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0411",
+    "title": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "curriculum_document_as_source_type",
+    "accepted_claim": "课程文件史料类型样本：本书即设计教育课程文件（教学手册＋练习库，含任务、方法与评估标准），可作0.5“课程文件能证明什么、不能证明什么”的教学样本——证明教学理念与练习体系，不能证明学生实际习得或产业效果",
+    "evidence_boundary": "作为体裁样本引用，不作为教育成效证据；成效判断须以教学档案与毕业生追踪互证",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "transliteration_inconsistency",
+    "accepted_claim": "人名音译不一致（「扬·茨池侯德」与「扬·奇肖尔德」并用）且部分译名偏离通用译名（勒·科比西埃、密斯·范·德·罗厄），引用时须附原文统一",
+    "evidence_boundary": "音译体系不统一为中译本已知技术问题",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "C",
+    "verification": "V2",
+    "role": "p4_inference_route",
+    "accepted_claim": "知识涌现（P4中日传承链、印刷资本/视觉公共领域关联）属知识涌现分析推演，仅作语义路由",
+    "evidence_boundary": "clean无「印刷资本」「视觉公共领域」字样",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "X",
+    "verification": "V2",
+    "role": "appendix_not_translation_additions",
+    "accepted_claim": "书末「拓展阅读/精选书目/图片版权/注释」为英文原版内容直接收录，不能视为中译本增补，亦不能作为英文第二版内容的独立证据",
+    "evidence_boundary": "中译本未见中文参考文献增补",
+    "status": "EXCLUDE_AS_DUPLICATE_OF_B0101"
+   }
+  ]
+ },
+ "0.6": {
+  "grades": {
+   "B": 55,
+   "A": 51,
+   "C": 28,
+   "X": 2,
+   "D": 1
+  },
+  "count": 137,
+  "items": [
+   {
+    "source_id": "B0006",
+    "title": "Adburgham, Alison：《Libertys a biography of a shop》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "corporate_commemoration_founder_worker_gender_colonial_and_audience_bias",
+    "accepted_claim": "纪念性企业叙事、创始人中心、工人／女性／殖民生产者缺口和受众效果断点须进入审计",
+    "evidence_boundary": "企业材料丰富不等于独立验证",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evolutionary_discourse_bias",
+    "accepted_claim": "种族/进化论话语（巴布亚人、纹身与犯罪、Haeckel重演论）作为历史立场转述，用作证据偏差典型案例",
+    "evidence_boundary": "仅证明Loos主张过该立场，不证明其科学性，不得作现代种族观依据",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0031",
+    "title": "Arthur J. Pulos：《American design ethic a history of industrial design to 1940》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "settler_professional_gender_and_racial_bias",
+    "accepted_claim": "定居者中心、职业领袖、男性发明家和功能主义谱系会压低被殖民者、奴隶、妇女与普通工人",
+    "evidence_boundary": "识别偏差不能以缺席代替主体证据",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0035",
+    "title": "Aslin, Elizabeth：《The aesthetic movement prelude to Art Nouveau》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "museum_survival_class_gender_empire_and_media_bias",
+    "accepted_claim": "精英藏品、签名对象、媒体讽刺和英国中心造成系统性可见性偏差",
+    "evidence_boundary": "作者识别普通商品并不等于保存与使用缺口已经补齐",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0049",
+    "title": "Bonython, Elizabeth; Burton, Anthony：The Great Exhibitor：The Life and Work of Henry Cole, 2003",
+    "grade": "A",
+    "verification": "V2",
+    "role": "personality_empire_gender_and_public_bias",
+    "accepted_claim": "人格中心、帝国缺席、女性不足与公众接受断点必须成为证据审计项目",
+    "evidence_boundary": "识别缺口不等于已经补足缺失主体",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0052",
+    "title": "Briggs, Asa：《Victorian things》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "selective_middle_class_gender_empire_worker_and_recency_bias",
+    "accepted_claim": "专题选择、中产中心、性别／帝国分散、工人弱与研究年代须进入审计",
+    "evidence_boundary": "作者提出问题不等于已补足证据",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_gap_reconstruction",
+    "accepted_claim": "1944年Werkbund档案被炸毁，以出版物、个人文件、口述史多渠道补偿；1971年Werkbund-Archiv成立",
+    "evidence_boundary": "缺口披露为作者自述的方法论事实；补偿成效为作者评估",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "A",
+    "verification": "V2",
+    "role": "insider_bias_disclosure",
+    "accepted_claim": "作者为业内人/前IDSA主席（Black & Decker设计总监、CMU教授），本书兼具内部知识与立场偏向：美国实践优先、反MoMA精英主义、先驱者英雄主义，须作证据偏差来源处理",
+    "evidence_boundary": "本书属职业史专著+人物叙事，须与匿名从业者材料、档案及外部学术史并置；P0计数受重复组约束",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0070",
+    "title": "Charles Harvey, Jon Press：《William Morris design and enterprise in Victorian England》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "entrepreneur_worker_gender_consumer_and_visual_bias",
+    "accepted_claim": "企业家中心、工人中介、女性不足、消费者缺口与形式分析偏弱须进入审计",
+    "evidence_boundary": "识别偏差不等于已经恢复沉默主体",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_bias_awareness",
+    "accepted_claim": "证据偏差显性化示范：1960年代口述史回忆偏差、包天笑/张静庐回忆录单边视角、传教士报告立场、1932年轰炸致企业档案残缺",
+    "evidence_boundary": "作者自陈史料特征+复核者识别；适用于0.6证据偏差章节的案例示范",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0080",
+    "title": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+    "grade": "A",
+    "verification": "V2",
+    "role": "england_visual_production_class_gender_identity_and_contemporary_bias",
+    "accepted_claim": "英格兰中心、生产薄弱、图像偏差、阶级不对称、身份推断和当代新闻依赖须进入审计",
+    "evidence_boundary": "性别批评本身也不能替代劳动和对象证据",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "producers_absence_and_presence",
+    "accepted_claim": "殖民地生产者与普通使用者如何被类型学化而抹去个体（The People of India），以及被展示者记录（Sayyid Ahmad Khan抗议）与当代田野中普通使用者的在场",
+    "evidence_boundary": "消失机制分析是作者命题（有题注文本佐证）；Sayyid Ahmad Khan文本是被展示者第一手记录，两者须分列证据等级",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0084",
+    "title": "Clive Dilnot：《A John Heskett Reader Design, History, Economics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "editorial_selection_unfinished_text_and_regional_bias",
+    "accepted_claim": "文选取舍、未刊稿状态、纪念性目的和区域材料不均必须进入证据审计",
+    "evidence_boundary": "编者自陈局限不等于已修复这些偏差",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0086",
+    "title": "Colleen E. Kriger：《Cloth in West African History》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "museum_archive_and_silent_labor_bias",
+    "accepted_claim": "收藏与殖民档案会错置地点并压低女性乡村与被奴役劳动者的可见性",
+    "evidence_boundary": "恢复缺席主体仍需主体证据不能只靠形式推断",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0090",
+    "title": "Crane, Walter：The Bases of Design, 1898",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evolutionist_climatic_racial_imperial_and_visual_bias",
+    "accepted_claim": "进化论、气候决定、种族本质和帝国收藏视角会扭曲跨文化设计解释",
+    "evidence_boundary": "识别问题不能把全部材料一概作废",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0091",
+    "title": "Crawford, Alan：《C.R. Ashbee architect, designer romantic socialist》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "biographical_worker_gender_attribution_and_empire_bias",
+    "accepted_claim": "传主中心、工人中介、性别不均、归属推定和帝国视角均须进入审计",
+    "evidence_boundary": "Crawford公开局限不等于已消除这些偏差",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0097",
+    "title": "Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "practitioner_preference_national_and_corpus_bias",
+    "accepted_claim": "实践者偏好、民族传统框架、欧美范围和文件残缺会系统影响叙事",
+    "evidence_boundary": "识别偏差不能自动决定哪些字体判断错误",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0101",
+    "title": "David Raizman：《History of Modern Design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "survey_euroamerican_market_colonial_gender_and_image_bias",
+    "accepted_claim": "本科综述简化、欧美重心、市场民主化语言、殖民与性别不足须进入审计",
+    "evidence_boundary": "作者承认多视角不等于覆盖已充分",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0121",
+    "title": "Dickerman：《Dada Zurich, Berlin, Hannover, Cologne, New York, Paris》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "dada_anti_archive_and_self_historicizing_paradox",
+    "accepted_claim": "证据偏差核心案例：达达反档案立场（偶发、反收藏）与史料留存悖论——“自我历史化冲动”自1916年Cabaret Voltaire期刊即开始，Huelsenbeck 1920年即出版两部运动史，战后回忆录再塑叙事；博物馆展示达达的讽刺性被导论坦承",
+    "evidence_boundary": "自我历史化叙事本身是行动者话语（P0）：回忆录存在年代失真与相互矛盾；“史料留存悖论”须与达达的自我记录行为并置陈述，不可只取反档案一面",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0133",
+    "title": "E. P. Thompson：《William Morris romantic to revolutionary》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "author_commitment_morris_center_gender_worker_and_version_bias",
+    "accepted_claim": "作者政治承诺、莫里斯中心、家庭／女性／工人缺口和1955／1976层次须进入审计",
+    "evidence_boundary": "作者自我反思不消除这些限制",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_hierarchy_method",
+    "accepted_claim": "Whitford对回忆录分级使用（Muche/Schreyer不可靠、Nina Kandinsky稍可靠），以STAW/BA档案为事实骨架、报刊为外部舆论",
+    "evidence_boundary": "其史料批判方法本身可直接引用；重复组共享档案只计一份P0",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0168",
+    "title": "Gillian Naylor：《The arts and crafts movement a study of its sources, ideals and influence on design theory》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "teleology_national_gender_colonial_and_machine_bias",
+    "accepted_claim": "现代主义目的论、国别本质化、女性／殖民缺口与反机器简化须进入审计",
+    "evidence_boundary": "批判偏差不能替代新的地区和劳动证据",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0169",
+    "title": "Giorgio Riello：《Cotton The Fabric That Made the Modern World》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "company_archive_slave_labor_and_audience_bias",
+    "accepted_claim": "公司与殖民档案会放大商人管理视角并压低工匠、被奴役者、妇女和普通消费者声音",
+    "evidence_boundary": "从档案缺席恢复主体仍须独立主体材料",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0175",
+    "title": "Grand Designs Labor, Empire, and the Museum in Victorian Culture",
+    "grade": "A",
+    "verification": "V2",
+    "role": "british_institution_worker_gender_empire_and_object_bias",
+    "accepted_claim": "英国制度中心、工人中介、性别不均、印度偏重和形式分析不足须进入审计",
+    "evidence_boundary": "偏差审计不能替代缺失的地区与主体材料",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "self_justification_bias",
+    "accepted_claim": "自传性叙事含自我辩护成分：成功案例详述、失败轶事化处理",
+    "evidence_boundary": "偏差属性本身即证据边界，引用时需标注",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "self_justification_bias_marker",
+    "accepted_claim": "自传体文本含自我辩护与自我推销成分：成功案例详述、19则失败轶事以幽默降调处理（'Comfort Station Attendants will be followed by the Industrial Designers'）、1955年预言自评'过于保守'",
+    "evidence_boundary": "偏差属性本身即证据边界，引用时须标注行动者立场（P0）",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0187",
+    "title": "Herbert Spencer：《Pioneers of Modern Typography》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_bias_teleological_canon",
+    "accepted_claim": "“先驱”谱系框架含目的论与伟人史观偏差：英美与女性先驱缺位、政治维度淡化、“英雄时期”密度不均，须在教材使用时标注框架属性",
+    "evidence_boundary": "叙事偏斜系作者立场与方法论选择所致；知识涌现分析揭示的“英雄叙事的拓扑必然性”为P4推演，仅作语义路由",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0199",
+    "title": "James：《Picture this World War I posters and visual culture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "poster_audience_reception_limits",
+    "accepted_claim": "观众研究边界：USFA女性既是海报观众又是发行者、展示者、制作者（“双重生活”），是少见的接受侧证据；大多数海报的观众反应不可考，须承认证据缺口",
+    "evidence_boundary": "USFA回信与报告可证女性参与实践；“3500多人参观”类数字来自组织者自报，属宣传档案而非独立测量",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0199",
+    "title": "James：《Picture this World War I posters and visual culture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "poster_distorting_mirror_evidence",
+    "accepted_claim": "海报像Marchand所谓“扭曲的镜子”（Zerrspeigel）：折射公众愿望而非现实、美化与省略战争暴力；恰因此成为“人们如何想象战争”的证据，而非战争实况的记录",
+    "evidence_boundary": "虚构化歪曲不使海报失去史料价值，但须按“愿望影像”读；“海报没有展示战争的人力代价”（绪论）即其后果",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0199",
+    "title": "James：《Picture this World War I posters and visual culture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "propaganda_goal_vs_result",
+    "accepted_claim": "必须区分海报运动的目标与结果：海报是“爱国行为的建议论证”，不是观众已接受这些论证的证据；志愿招募下降与1916年征兵制即为反证",
+    "evidence_boundary": "核心证据边界：组织者意图（可证）≠观众接受（不可单独由海报证）；此条在绪论与第10章正文双重出现",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_hierarchy_bias",
+    "accepted_claim": "材料分层（企业档案、设计师自述、媒体文本、口头历史交叉验证）与四重偏差自我暴露（图像中心、纽约中心、男性中心、精英中心）",
+    "evidence_boundary": "第二版序言元反思为作者自我声明，构成证据偏差的权威说明",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0209",
+    "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "archival_absences_of_colonial_consumers",
+    "accepted_claim": "殖民地普通使用者（消费者、被奴役者）从欧洲档案中消失的机制：物质—种族分类学遮蔽、“空白石板”话语、西方凝视替代本地声音",
+    "evidence_boundary": "对“遮蔽机制”的说明是作者命题，档案本身不能直接证明东非人的自我理解",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "oral_history_evidence_bias",
+    "accepted_claim": "作者显性自认叙述倾向共产党/大陆视角、口述史“有陷阱不能讲述全部故事”，受访者以大陆从业者为主",
+    "evidence_boundary": "偏差已由作者声明并试图以批判性评估与并置异见弥补；国民党视角与港台独立发展仍缺失",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0225",
+    "title": "John Heskett：《Industrial Design》，1980",
+    "grade": "A",
+    "verification": "V2",
+    "role": "museum_formalism_and_context_bias",
+    "accepted_claim": "脱离生产和使用语境的博物馆陈列会把对象建构成自主形式并遮蔽匿名协作",
+    "evidence_boundary": "批判方法本身并未充分恢复女性殖民与被奴役劳动者",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "archive_oral_history_layering",
+    "accepted_claim": "企业档案史实（财务、诉讼、重组日期）与作者叙述框架、当事人后代口述（Primavesi之女“只想让艺术家做想做的事”）必须分层使用",
+    "evidence_boundary": "口述回忆带利害立场（如Primavesi亲属雇用问题），档案事实优先",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "production_vs_success_guard",
+    "accepted_claim": "工坊设立与产品生产不自动证明市场成功或审美改善——1906年诉讼、1909年止赎、1913年150万克朗负债、1926年破产构成反向证据链",
+    "evidence_boundary": "本书经济史叙述即为此校准器，引用成功叙事时必须并置财务危机史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0305",
+    "title": "McKendrick：《The birth of a consumer society the commercialization of eighteenth-",
+    "grade": "A",
+    "verification": "V2",
+    "role": "england_first_emulation_causality_class_gender_and_colonial_bias",
+    "accepted_claim": "英格兰例外主义、模仿窄化、强因果、阶级损益、性别与殖民缺口须进入审计",
+    "evidence_boundary": "后续批评和本书内部反例均需实证定位",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0318",
+    "title": "Morris, William：Hopes and Fears for Art, 1882",
+    "grade": "A",
+    "verification": "V2",
+    "role": "romantic_medieval_gender_colonial_and_binary_bias",
+    "accepted_claim": "中世纪浪漫化、男性工匠默认、英国视角和二元劳动分类构成系统性偏差",
+    "evidence_boundary": "偏差识别不能代替被忽略主体的材料",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0338",
+    "title": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "curatorial_masterpiece_city_gender_colonial_and_survival_bias",
+    "accepted_claim": "展览选物、名家、城市、欧美、性别与殖民来源偏差须显式审计",
+    "evidence_boundary": "专章触及女性／东方不等于生产者和殖民权力缺口已补足",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0339",
+    "title": "Paul Greenhalgh：《Ephemeral Vistas The Expositions Universelles, Great Exhibition",
+    "grade": "A",
+    "verification": "V2",
+    "role": "three_country_audience_agency_and_period_bias",
+    "accepted_claim": "三国中心、观众接受断点、殖民主体能动性缺失和1914分期均需进入审计",
+    "evidence_boundary": "作者自陈或报告识别缺口不等于补足",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "aubette_correction",
+    "accepted_claim": "Aubette并非纳粹毁坏——早在1930年已被大改",
+    "evidence_boundary": "档案修正成说",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "oud_correction",
+    "accepted_claim": "Oud从未任鹿特丹市建筑师——通行说法错误之纠正",
+    "evidence_boundary": "档案修正成说（Oud档案）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "reproduction_elided_production",
+    "accepted_claim": "复制即生产：风格派生产自始高度依赖复制（杂志插图、展览、修复、重建、商品化、历史写作），「reproduction is elided into production」",
+    "evidence_boundary": "Overy理论框架（末章），行动者文本与作者理论化表述分层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0348",
+    "title": "Peterson, William S.：The Kelmscott Press：A History of William Morris's Typographical Adventure, 1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "morris_cockerell_worker_gender_archive_and_anglophone_bias",
+    "accepted_claim": "名人中心、档案保存者偏差、工人／女性缺口和英语世界重心须进入审计",
+    "evidence_boundary": "材料丰富不等于主体覆盖完整",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0383",
+    "title": "Ruskin, John：《The Stones of Venice》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "religious_teleology_racialized_geography_worker_and_ocr_bias",
+    "accepted_claim": "宗教目的论、民族／地理本质化、工人证据缺口和数字本残损须进入审计",
+    "evidence_boundary": "指出偏见不等于否定其历史影响，也不等于接受其结论",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0388",
+    "title": "Scandinavian Design Alternative Histories (Kjetil Fallan (editor))",
+    "grade": "A",
+    "verification": "V2",
+    "role": "historiographical_self_audit_method",
+    "accepted_claim": "本书整体提供设计史书写的自我审计工具包：范畴发明、叙事建构、博物馆制度批判、品牌政治——可直接服务0.6证据偏差与史学方法教学",
+    "evidence_boundary": "方法论命题为作者框架；各章为独立署名论文",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "A",
+    "verification": "V2",
+    "role": "anthology_framework_bias",
+    "accepted_claim": "文集层面：美欧比较与“选择性接受—变形”框架为编者建构，多作者各章立场不一；clean仅含de Grazia单章，不得将文集主旨等同于单章结论",
+    "evidence_boundary": "单章报告与整体报告并存，须以“文件标题即证据边界”处理",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_bias_icc_statistics",
+    "accepted_claim": "证据偏差：美欧统计数据丰瘠对照；ICC以“客观与分析式攻击”用数字制造“市场”表面；欧洲统计偏见——法国重农倾向统计谷物价格与出口、德国为保护Mittelstand统计零售商、豁免资产阶级而深挖工人家庭预算",
+    "evidence_boundary": "数据来源单一（ICC与官方统计）；作者自承欧洲数据稀薄，部分份额数字系估算",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0427",
+    "title": "Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "evidence_bias_absent_makers",
+    "accepted_claim": "博物馆分类与艺术话语把殖民地生产者匿名化（“没有真实的人做了这只罐，它是这个种族做的”），档案缺席使工匠、妇女与使用者难以被听见，微观档案（人口普查、教区记录、日记）只能片段性恢复",
+    "evidence_boundary": "缺席与沉默本身也是证据，恢复不可过度推断（Bentzon生平终点1850年后即无踪迹）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0450",
+    "title": "Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "curatorial_regional_gender_class_labour_and_colonial_bias",
+    "accepted_claim": "展览佳品、欧美范围、国别不均、女性／劳动／阶级与殖民缺口须进入审计",
+    "evidence_boundary": "女性和家庭工业案例存在不等于结构性缺席被解决",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0463",
+    "title": "Zeynep Çelik：《Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "displayed_absent_producers",
+    "accepted_claim": "被展示的殖民地生产者与表演者（肚皮舞者、工匠、土著村落居民）作为奇观在场却无自身记录，其声音在史料中缺席，作者自认穆斯林一方记录占比有限",
+    "evidence_boundary": "缺席判断基于史料构成（官方/报刊/游记为主）；被展示者态度多靠间接推断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0005",
+    "title": "Adamson, Glenn; Riello, Giorgio; Teasley, Sarah (eds.), Global Design History, 2011",
+    "grade": "B",
+    "verification": "V2",
+    "role": "source_asymmetry_and_canonical_bias",
+    "accepted_claim": "全球设计史须公开区域材料保存与可见性的不对称",
+    "evidence_boundary": "报告网络发现只构成审计线索，不能当成原书统计事实",
+    "status": "ACCEPTED_WITH_COUNTERSOURCE_REQUIRED"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "rhetoric_bias",
+    "accepted_claim": "新闻体反讽夸张（“毒死建筑师”、“纹身者未入狱即潜在罪犯”）不可按字面作事实或政策主张",
+    "evidence_boundary": "修辞层与主张层须区分；Masheck亦指出其“绝非完全严肃”",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "translation_bias",
+    "accepted_claim": "英译本非德文原典，Ornament/Schmuck等语词辨析依赖译者与后记转述",
+    "evidence_boundary": "翻译层损耗可能影响精确命题表述，术语争议须回查德文原典",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0013",
+    "title": "Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "family_archive_bias_case",
+    "accepted_claim": "本书是亲属视角与家族档案型证据的典型样本：作者为罗德琴科之孙，具一手档案优势，同时对争议（白海运河政治犯、性格负面面）持温和辩护语调",
+    "evidence_boundary": "辩护性在原文可查（clean第913—917行）；作为证据偏差教学案例价值高，引用时须标注视角与立场",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0027",
+    "title": "Apollonio：《Futurist manifestos》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "anthology_selection_and_absences",
+    "accepted_claim": "选集34—35篇中仅Saint-Point一位女性作者（情欲宣言），1915年后战争死亡（Boccioni、Sant'Elia）打断声音，工人、女性受众等沉默方缺席，可作0.6节“证据偏差与缺席者”案例",
+    "evidence_boundary": "缺席推断属编史学判断，“未被收录”不等于“不存在”，需结合运动史其他文献",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0040",
+    "title": "Beckert, Sven：Empire of Cotton：A Global History, 2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "recover_coerced_and_displaced_labor",
+    "accepted_claim": "设计史中的材料与商品叙事必须显现被奴役者、被剥夺者和工厂劳动者",
+    "evidence_boundary": "宏观叙事仍可能再生产北大西洋施动者中心",
+    "status": "ACCEPTED_WITH_COUNTERSOURCE_REQUIRED"
+   },
+   {
+    "source_id": "B0048",
+    "title": "Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "doesburg_centric_bias",
+    "accepted_claim": "证据偏差警示：以van Doesburg遗存书信为主干可能强化其中心叙事；多作者合著结构下各章立场与证据类型不一，主编框架不等于全书统一结论",
+    "evidence_boundary": "本书方法论自我反思；复核时须按章次标注作者",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "collective_biography_method",
+    "accepted_claim": "Campbell以“集体传记/Prosopography”方法追踪Werkbund决策层（Vorstand/Ausschuss）人事构成变化以解释内部权力格局与意识形态转向",
+    "evidence_boundary": "方法论自述为史实；其解释效力为方法论文本判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "idosa_archive_reliance",
+    "accepted_claim": "史料以行业内部来源为主（IDSA文件与通讯、Fortune原始文献、设计师自述、访谈），专利文献为唯一“硬证据”类别，设计师自述部分须批判性使用",
+    "evidence_boundary": "内部史料有选择性留存风险，设计师自述（Teague 1940、Loewy 1951/1979等）自带宣传性",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "exhibition_catalogue_object_bias",
+    "accepted_claim": "本书为V&A同名展览图录：Object List约400条展品构成证据链，名作选择与收藏机构决定样本偏向——法/英/美高端实物与奢侈工艺占比高，隐含策展价值判断",
+    "evidence_boundary": "图录实物证据非随机样本；全球区展品密度低于欧美区；OCR个别错讹",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "institutional_innovation_timing",
+    "accepted_claim": "股份公司制与版权保护为机械化成本压力下的制度创新，存在“先企业实践（1902-1911）后国家立法（1904《公司律》）”时间错位",
+    "evidence_boundary": "法律文本+企业档案；国家因果分析作者未充分展开（自认局限），采信时保留边界",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_bias",
+    "accepted_claim": "受众接收效果缺乏系统实证：Marie Neurath自认西非工作“has still to be tested”；Neurath回忆“1923年第一原则已现”与实物放大法图表不符",
+    "evidence_boundary": "偏差识别本身可证；“效果未知”不得反向推定“无效”，引用时须保持开放",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "selection_bias",
+    "accepted_claim": "Introduction以“相对严格定义”限定Isotype范围，排除战后荷兰统计所作品与模仿者（Modley等），构成选材边界",
+    "evidence_boundary": "范围界定为编者选择；引用“Isotype未被模仿者延续”类否定命题时须注意定义边界",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0108",
+    "title": "Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic",
+    "grade": "B",
+    "verification": "V2",
+    "role": "buckley_feminist_history_critique",
+    "accepted_claim": "女性主义设计史批判的经典文本：Buckley揭示父权制系统排斥女性于设计史叙事的机制（排斥手工艺、忽视使用价值、性别化设计技能、劳动性别分工）——0.6“证据偏差与缺席者”及12.6的核心文献",
+    "evidence_boundary": "作者分析（1986年原文）；与Attfield（B0240/B0440）的系统批判并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0115",
+    "title": "Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor",
+    "grade": "B",
+    "verification": "V2",
+    "role": "digital_archives_and_narrative_production",
+    "accepted_claim": "档案政治与历史叙事生产的当代样本：eBay作为“非官方数字档案馆”（关键词标签重塑战后英国设计史叙事）、东德公共艺术统一后的记忆政治（抛弃—怀旧—调适）、酷儿“情感档案”——0.6证据偏差与正典建构的数字时代案例",
+    "evidence_boundary": "单篇案例研究（Ch4/7/8）；eBay平台机制变化快，引用须注明考察时点",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0130",
+    "title": "Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "women_children_and_consular_archive_bias",
+    "accepted_claim": "女性儿童乡村家庭和非行会劳动是制造业结构性组成且易被城市与工厂档案遮蔽",
+    "evidence_boundary": "领事报告仍以外部管理和商业视角记录劳动者",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gender_evidence_bias_reflection",
+    "accepted_claim": "时尚产业依赖世界性女性廉价劳动剥削；女性在消费史中长期以“被观看者”出现而劳动者与生产者身份被遮蔽",
+    "evidence_boundary": "本书自身即女性主义立场文本，其性别叙事同样带有立场偏差，用作偏差分析时须双向审视",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gendered_evidence_bias",
+    "accepted_claim": "证据偏差（性别）：商业表征中打字机等机器“常规由女性的手赋予生命”，女性劳动者形象主要保存在广告与营销档案（Warshaw/Ayer Collection）中",
+    "evidence_boundary": "档案性质判断基于书中图像来源标注；为Lupton对再现体系的观察",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0149",
+    "title": "Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gender_geography_and_counterexample_gaps",
+    "accepted_claim": "行会档案会制度性压低女性非会员乡村工匠和非法劳动者的可见性",
+    "evidence_boundary": "缺席不能证明这些群体没有技能或市场作用",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0154",
+    "title": "Finlay Robert：《The pilgrim art cultures of porcelain in world history》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "jesuit_court_collection_and_worker_visibility_bias",
+    "accepted_claim": "耶稣会、宫廷、商人和收藏材料能见度高而普通工人妇女与使用者声音稀薄",
+    "evidence_boundary": "外来观察和精英收藏不能直接代表景德镇社会或全球消费者",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "source_evaluation_bias",
+    "accepted_claim": "Whitford立场偏温和中间派，对迈耶激进面向评价保守；1984年首版未纳入后续研究进展",
+    "evidence_boundary": "来源偏差声明，供引用时校正",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0181",
+    "title": "Guy, John：Woven Cargoes：Indian Textiles in the East, 1998",
+    "grade": "B",
+    "verification": "V2",
+    "role": "european_record_bias_and_absence",
+    "accepted_claim": "证据偏差的自我揭示：仅存欧洲记录、亚洲商船承运量更大（第51行）；印度本土几乎无此类收藏、现存多为殖民获取遗留（第59—60行）；织工染工等生产端劳动者在叙事中缺席",
+    "evidence_boundary": "偏差声明是原著导言命题；生产端劳动社会史缺失为P4整体报告00.9的局限评估，非原著自述",
+    "status": "ACCEPTED_AS_KEY_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "single_actor_perspective",
+    "accepted_claim": "单一行动者视角局限：美国中心主义、男性中心（Josephine置于家务/接线员角色）与时代审美预设",
+    "evidence_boundary": "复核者对文本视角局限的判定",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0187",
+    "title": "Herbert Spencer：《Pioneers of Modern Typography》，1969",
+    "grade": "B",
+    "verification": "V2",
+    "role": "authors_value_judgment",
+    "accepted_claim": "作者对奇肖尔德“法典化”的批判（违背现代排版精神、损害活力与灵活性）属立场性判断，与其传播功绩（特刊引介利西茨基、加速行业采用）并存",
+    "evidence_boundary": "批判与功绩并置于同一章；“法典化结构必然性”为P4涌现命题，须对照奇肖尔德专门研究",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0214",
+    "title": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "self_deconstructing_timelines",
+    "accepted_claim": "证据偏差的自觉处理：时间线作为“自我解构”工具（“Clearly partial, timelines call attention to the framing effects of editing and to the artifice of any history”）、批判性原则明确方法论化——0.6证据偏差的教材范本",
+    "evidence_boundary": "作者自觉（后现代史学意识）；时间线选择性为作者自认",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "duplicate_group_p0_single",
+    "accepted_claim": "与B0182、B0282、B0454共享包豪斯教学档案；同一档案只计一份P0，本来源命题不与同组来源重复计数",
+    "evidence_boundary": "重复组规则由知识库档案归属决定，需与同组来源比对后确认唯一P0",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "selection_bias_student_work",
+    "accepted_claim": "200余幅学生作品图注由作者自选并逐一评注，样本选择与解读均受作者立场影响，存在选择性呈现",
+    "evidence_boundary": "图注不能视为中立的教学成效证据",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0222",
+    "title": "John E. Bowlt (ed.)：《Russian Art of the Avant-Garde Theory and Criticism 1902-1934》，1976",
+    "grade": "B",
+    "verification": "V2",
+    "role": "translation_selection_bias",
+    "accepted_claim": "译文为二手层（俄译英）、多篇标[Extracts]节选、1970年代冷战学术语境——三重证据偏差须在引用时标注",
+    "evidence_boundary": "编者对Realistic Manifesto影响的评述即编者层价值判断示例",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0228",
+    "title": "John Milner：《Vladimir Tatlin and the Russian Avant-Garde》，1983",
+    "grade": "B",
+    "verification": "V2",
+    "role": "anecdotal_evidence_boundary",
+    "accepted_claim": "毕加索工作室访问（reportedly）、马列维奇题字、塔特林晚年自述等被审慎限定使用，示范证据偏差的标注处理",
+    "evidence_boundary": "回忆录属二手证据；米尔纳以「according to/reportedly」标注但未系统批判其偏差",
+    "status": "ACCEPTED_AS_CONTEXT_SOURCE"
+   },
+   {
+    "source_id": "B0240",
+    "title": "Judy Attfield：《Wild Things The Material Culture of Everyday Life》，2000",
+    "grade": "B",
+    "verification": "V2",
+    "role": "good_design_dichotomy_critique",
+    "accepted_claim": "正典批判的政治维度：挑战现代主义“好设计/坏设计”精英主义二分法、揭示“品味”论述中隐含的阶级与性别政治、为日常物质实践（DIY、复制品消费、郊区生活）提供文化合法性——0.6“正典偏差”的批判资源",
+    "evidence_boundary": "作者政治立场（文化合法性辩护）；批判对象（好设计标准）须与MoMA/CoID档案并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "counterfactual_interpretive_claim",
+    "accepted_claim": "Kallir修正主义论点——一战是“切断发展进程的剧烈转折”而非自然终点，若战前条件持续工坊可能转向工业生产——属反事实推演",
+    "evidence_boundary": "反事实判断是作者解释框架，非史实；作为史学观点引用时须标明出处层级",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0259",
+    "title": "Kenneth Pomeranz：《The Great Divergence China, Europe, and the Making of the Modern World Economy》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "aggregate_data_and_core_region_selection_bias",
+    "accepted_claim": "国家平均与核心区选择会产生相反叙事，统计口径和材料缺口须公开",
+    "evidence_boundary": "不能用方法批评自动证明任一相似性结论",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0273",
+    "title": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "disciplinary_self_reflection",
+    "accepted_claim": "学科自我反思样本：“本书反映设计史曾经是什么，而非本应是什么”；对学科局限（西方中心、工业化偏向）的清醒承认并在结构上回应（Section 12）——0.6证据偏差的学科层面反思",
+    "evidence_boundary": "编者自省姿态（2010）；“曾经是什么”的判断本身需以设计史学史文献校验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0276",
+    "title": "Lissitzky, El; Arp, Hans (eds.)：Die Kunstismen = The Isms of Art, 1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "editorial_bias_and_absences",
+    "accepted_claim": "证据偏差案例：匿名讽刺定义（表现主义“德意志牛排”、形而上画派“三条牛尾”）、定义权分配（毕加索/康定斯基未被选为定义者）、俄国图版过度表征、未收超现实主义（1924年同时性）、1990后记改变接受框架——“保存偏差、正典偏差与缺席者”的实例",
+    "evidence_boundary": "具体措辞与收录名单可在clean核验；但“讽刺梯度的统计显著性、俄德15:15的过度表征”等偏差的系统化识别部分依赖P4网络分析，引用时须以clean文本为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0277",
+    "title": "Lodder：《Russian constructivism》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_absences_women_workers",
+    "accepted_claim": "证据偏差与缺席者：塔特林/INkhUK档案缺口、女性构成主义者（波波娃、斯捷潘诺娃、罗扎诺娃）贡献的可见性、工人作为构成主义受众缺乏第一手记录、“有机构成主义”被西方接受史整体忽视",
+    "evidence_boundary": "女性“最完整应用”评价框架是否遮蔽性别分工是P4问题型发现（信度低），非原著陈述；工人接受无直接证据，不得推断；“有机构成主义被忽视”是洛德命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "archival_evidence_tiering",
+    "accepted_claim": "档案史实与Droste解释框架分层使用；本书与B0182、B0158、B0464、B0216共享包豪斯档案，同一档案只计一份P0",
+    "evidence_boundary": "单源档案事实不因多书引用而累积P0",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "elite_production_vs_mass_reception_gap",
+    "accepted_claim": "国家形象史料以生产者与批评者话语为主：作者自认只研究形象“制造”，大众的接受、拒绝与改造几乎缺席；讽刺媒体（El Hijo del Ahuizote、Bulnes）提供同时代解构但同样是城市精英文本",
+    "evidence_boundary": "作者在尾声明确声明此局限；被展示者（工人、印第安人、妇女）记录缺席本身即证据偏差的例证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "irony_as_internal_critique",
+    "accepted_claim": "（作者命题）对官方形象的讽刺是“现代性内部的批评”：批评者揭露形象建构与腐败，却不拒绝现代性理想本身；“被包含者认不出自己”的断裂反而驱动下一轮试错",
+    "evidence_boundary": "漫画与讽刺文本分析是作者解读；讽刺媒体的读者接受无直接证据，不能从漫画内容推出民众态度",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0304",
+    "title": "Maxine Berg：《Luxury and Pleasure in Eighteenth-Century Britain (2007)》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "inventory_class_and_colonial_silences",
+    "accepted_claim": "遗产清单与商业档案偏向有产者和商人，会压低劳动者与殖民地消费者的可见性",
+    "evidence_boundary": "不能由缺席推断其没有消费或没有能动性",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0316",
+    "title": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+    "grade": "B",
+    "verification": "V2",
+    "role": "institutional_bias_absent_actors",
+    "accepted_claim": "本书以辐射实验室/Getting为中心的视角体现机构偏差：BTL竞争方案与海军承包商逻辑着墨较少，前线炮手等缺席者无声音",
+    "evidence_boundary": "为分析报告明确的叙事局限；可作证据偏差教学案例",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0328",
+    "title": "Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New",
+    "grade": "B",
+    "verification": "V2",
+    "role": "designer_canon_and_missing_consumers",
+    "accepted_claim": "设计师中心叙事会遮蔽企业、工人和市场中介，Forty自身也缺少充分消费者材料",
+    "evidence_boundary": "缺席不是某种具体经验的正面证据",
+    "status": "ACCEPTED_AS_CRITIQUE"
+   },
+   {
+    "source_id": "B0332",
+    "title": "Owen Jones：《The Grammar of Ornament》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "victorian_classification_bias",
+    "accepted_claim": "该书可作为研究维多利亚设计知识如何等级化非欧洲传统的一手材料",
+    "evidence_boundary": "不能把Jones的类别和评价转述为被研究文化的自我认识",
+    "status": "ACCEPTED_AS_CRITICAL_PRIMARY_SOURCE"
+   },
+   {
+    "source_id": "B0334",
+    "title": "Parthasarathi, Prasannan：Why Europe Grew Rich and Asia Did Not：Global Economic Divergence, 1600-1850, 2011",
+    "grade": "B",
+    "verification": "V2",
+    "role": "orientalist_and_geographic_evidence_bias",
+    "accepted_claim": "东方主义与英国中心史料会把亚洲能力缺失预设为解释",
+    "evidence_boundary": "作者自身对印度内部和中国材料也不均衡",
+    "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0363",
+    "title": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_bias_and_absentees",
+    "accepted_claim": "本书自陈视野限于中上阶级、未来主义反女权与家庭电气化女性点到即止，本身即“证据偏差与缺席者”的案例文本；照片选择与归属考据展示偏差机制",
+    "evidence_boundary": "作者未系统处理缺席者问题，精英视角是其史学限度的暴露而非自觉方法",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0376",
+    "title": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "refraction_and_sample_bias_theory",
+    "accepted_claim": "证据偏差理论化样本：样本偏全国性杂志、统计为人工抽样、效果不可证等局限被正面纳入“折射校正”方法论——0.6“证据偏差”的教学范本（偏差本身成为可分析对象）",
+    "evidence_boundary": "作为方法论语料而非数据来源；其抽样与统计说明仅适用于本书范围",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0388",
+    "title": "Scandinavian Design Alternative Histories (Kjetil Fallan (editor))",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_identity_narrative_critique",
+    "accepted_claim": "Wiener对‘瑞典式优雅’与国家构建关系的拆解：设计风格被征用为国家认同叙事",
+    "evidence_boundary": "拆解判断为作者命题；风格—国家关联史实可查",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_evidence_bias",
+    "accepted_claim": "对工人报告真实性保持质疑；工人阶级趣味多经资产阶级再现文本中介，揭示的是恐惧与幻想而非真实消费；女性工人工资证据",
+    "evidence_boundary": "工人与女性真实消费证据薄弱",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0440",
+    "title": "Walker：《Design History and the History of Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "canon_construction_and_symptomatic_reading",
+    "accepted_claim": "正典与偏差理论：canon为经典化的社会建构过程、症候式阅读（关注文本“未说”之处）、历史写作的选择性不可避免、垃圾理论（价值流动）——0.6证据偏差与正典批判的理论资源",
+    "evidence_boundary": "理论框架（1989）；应用于具体史料时须结合案例检验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0452",
+    "title": "Wichmann：《Japonisme the Japanese influence on Western art since 1858》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "absence_of_japanese_agency",
+    "accepted_claim": "本书自认不涉汉学/日本学、以欧洲视角把握“刺激—类比”，日方生产者、出口商与本土分类缺席——是“证据偏差与缺席者”议题的典型批判案例",
+    "evidence_boundary": "缺席本身是证据但非原著命题，批判性使用须明确此判断来自复核框架而非本书立场",
+    "status": "ACCEPTED_AS_CRITICAL_CASE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "effect_evaluation_layering",
+    "accepted_claim": "教学成效评价须区分主张与证据：对Meyer肯定其科学化贡献同时指出其造成的解体进程，对Mies批评其教学方法；多数成效判断系当时人或后世评价转述",
+    "evidence_boundary": "引用时须标注评价主体与转述链条",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "source_bias_limits",
+    "accepted_claim": "证据偏差自省：自限必修课而排除工作坊教学；排除Grunow；对Cizek影响、Klee受聘原因明言无法定论",
+    "evidence_boundary": "未定论处不得升级",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0463",
+    "title": "Zeynep Çelik：《Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "discourse_layer_distinction",
+    "accepted_claim": "本书示范区分组织者话语（官方出版物、场地规划）、批评者解释（报刊评论）与被展示者记录（穆斯林知识分子游记），不把展览目录类别当来源社会自我分类",
+    "evidence_boundary": "话语层级区分是作者的方法自觉而非普遍事实；各层级引文须分别标注出处",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_layering_three_levels",
+    "accepted_claim": "证据分层规则示范：编者/主编立场（许江总序、杭间导言）与档案史料（梁思成信影印、四定方案、718厂档案、座谈会文件）须分层；直接接触、制度转译、正典建构三级证据边界清晰",
+    "evidence_boundary": "各段证据类型不同须分别标注",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "evidence_layering_editor_stance",
+    "accepted_claim": "证据偏差控制：本书存在编者立场（靳埭强、杭间）与档案史实两类证据，须分层使用",
+    "evidence_boundary": "口述史、会议发言与档案考据在书中并行且未标注证据等级",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0040",
+    "title": "Jespersen, John Kresten：Originality and Jones' The Grammar of Ornament of 1856, 2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "authority_and_infallibility_rhetoric",
+    "accepted_claim": "所谓科学和自然原则也可构成知识权威修辞，应审查其排除与等级化效果",
+    "evidence_boundary": "这是Jespersen借用Wihl形成的解释，不是Jones自称",
+    "status": "ACCEPTED_AS_INTERPRETATION"
+   },
+   {
+    "source_id": "B0007",
+    "title": "Ades：《Photomontage》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "propaganda_ambiguity_spectator_bias",
+    "accepted_claim": "Heartfield个别作品存在解读歧义（如《自杀者的愿望实现》中红军形象、《SPD危机党大会》反社民党立场受Berger批评），显示宣传图像意义并不自明",
+    "evidence_boundary": "“含义歧义”与“失败”评价来自Berger论文转述，非蒙太奇对象自身可证内容",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0059",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "selle_german_design_politics",
+    "accepted_claim": "德国设计政治批判：Selle对本真性与审美伪装的意识形态批判（法兰克福学派资源）——0.6“机构偏差”的国别案例",
+    "evidence_boundary": "作者批判立场（格言式反讽文体），引用须标注立场",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "western_euroamerican_center_of_gravity",
+    "accepted_claim": "叙事以巴黎为中心向欧美扩散再及全球：欧美区14章远超全球区5章，存在欧美重心偏差",
+    "evidence_boundary": "该偏差为结构与篇幅事实；编者已以Ch39殖民批判部分矫正",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "celebratory_language_and_judgments",
+    "accepted_claim": "颂歌式语言模式：seminal/timeless/remarkable高频；the single most important figure in Finnish design（Aalto）、one of the best-selling chairs of all-time（Series 7）等最高级判断",
+    "evidence_boundary": "叙事判断为作者命题，只可引为作者观点不可引为史实；P4文风分析（remarkable/extraordinary/superlative等）佐证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0076",
+    "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "coffee_table_genre_evidence_bias",
+    "accepted_claim": "本书为TASCHEN图录：无脚注、图像优先、颂歌式语言，正是B0388第1章（L127）所批判的lavishly illustrated...hagiographic and mythopoeic体裁样本，作0.6图录颂歌式叙事偏差的标本",
+    "evidence_boundary": "体裁属性可从版权页、装帧与无引注结构证实；作为偏差标本引用而非作为可靠叙事来源",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "C",
+    "verification": "V2",
+    "role": "white_privilege_gender_and_canon_critique",
+    "accepted_claim": "第三版前言明确讨论white privilege遮蔽有色人种贡献、扩展女性设计师与性别议题，并将设计史正典的建构性纳入话语自觉",
+    "evidence_boundary": "证据边界为前言第146—149行与专项报告六「话语自觉（canon critique）」",
+    "status": "ACCEPTED_AS_REVISED_CLAIM"
+   },
+   {
+    "source_id": "B0183",
+    "title": "Hazel Conway：《Design history a students handbook》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "evidence_evaluation_criteria",
+    "accepted_claim": "证据质量评估方法：Conway二手文献评估四标准（作者身份、初版日期、所依据原始证据质量、注释与参考文献完整性）；“生存偏差”作为普遍方法问题——0.6证据偏差的评估工具",
+    "evidence_boundary": "评估标准为教学工具，非实证研究；应用于教材写作时须与其他评估框架并置",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "narrative_framework_marking",
+    "accepted_claim": "Meikle通史叙述框架须显式标注：“生产—消费”双轴、经济逻辑驱动、反本质主义（对Kouwenhoven的修正）均为解释立场，与档案引文分层使用",
+    "evidence_boundary": "方法论自述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "institutional_self_myth_making",
+    "accepted_claim": "博物馆与推广机构（MoMA、CoID、包豪斯）通过收藏、展览与出版物建构设计史叙事，优良设计话语为制度与精英建构而非中性记录",
+    "evidence_boundary": "导言即宣告此批判立场；机构设立与知识生产不证明公众接受",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0235",
+    "title": "Jonathan M. Woodham：《Twentieth Century Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "source_bias_corporate_discourse",
+    "accepted_claim": "Woodham系统警示来源偏差：企业身份设计证据多来自设计行业自身话语（如Olins自我推广），企业档案受机密与选择性保存限制，评价须警惕来源偏见",
+    "evidence_boundary": "第6章评价困境为方法论声明，适用于一切以设计产业自述为依据的命题",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0242",
+    "title": "Julier：《The culture of design，2018》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "author_admitted_biases",
+    "accepted_claim": "证据偏差的自我供述样本：作者自认地理中心主义（西欧/北美，全球南方/东欧/亚洲缺失）、性别盲区（未将性别作为独立议题）、阶级维度简化、环境维度缺失——0.6“证据偏差与缺席者”的反面教材",
+    "evidence_boundary": "自我供述为方法论自觉，非实证评估；教材引用须注明为作者自认局限",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "company_history_celebratory_narrative",
+    "accepted_claim": "成就导向企业史样本：五篇企业史自述（Sony、Honda、GK等）为品牌叙事文本，与Habara式自我批评并置，构成0.6“机构偏差”教学例证",
+    "evidence_boundary": "企业史自述为P0行动者材料，自评性判断（world-class、original类）须剥离",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0253",
+    "title": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "exhibition_catalogue_genre_bias",
+    "accepted_claim": "展览图录体裁偏差样本：255件展品由策展人价值标准（compactness, craftsmanship, simplicity, asymmetry, humor）筛选，年代编目受展览条件制约（1990s仅14条目），构成0.6“保存与正典偏差”的图录例证",
+    "evidence_boundary": "体裁属性可从版权页、策展前言与编目结构证实；作为偏差样本引用而非作为完整史料",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0269",
+    "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
+    "grade": "C",
+    "verification": "V2",
+    "role": "retrospective_bias_case",
+    "accepted_claim": "回顾性综合与自我辩护/教学宣传成分（含书末The New Vision广告、ID教学自述）",
+    "evidence_boundary": "作为行动者文本偏差的典型教学案例；引用时需交叉核证",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "C",
+    "verification": "V2",
+    "role": "teaching_outcome_not_inferable",
+    "accepted_claim": "课程/工坊/产量数据仅可证制度事实，教学成效（学生能力塑造、理念实现度）不可自动推定",
+    "evidence_boundary": "本书学生经验叙述本身边缘化，更不宜据此推定教学成效",
+    "status": "ACCEPTED_WITH_CAVEAT"
+   },
+   {
+    "source_id": "B0291",
+    "title": "Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997",
+    "grade": "C",
+    "verification": "V2",
+    "role": "evidence_bias_secondary_sources",
+    "accepted_claim": "证据偏差：依赖Khan-Magomedov传记、Lissitzky-Küppers回忆录等二手文献；对设计师肃反认知的推断（must have come）无直接证据",
+    "evidence_boundary": "引用第6章心理-政治推断时须标注推测性质；clean第1048行作者自认罗德琴科知晓程度未答",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0313",
+    "title": "Mike Davis：《Late Victorian Holocausts El Nino Famines and the Making of the Third World》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "source_asymmetry_self_disclosure",
+    "accepted_claim": "证据偏差的自觉处理：作者公开承认资料来源非对称性（印度最翔实、中国依赖传教士与领事档案、巴西最薄弱）并以比较方法部分弥补——0.6“证据偏差与缺失者”的进阶样本",
+    "evidence_boundary": "自我披露为方法自觉；中国/巴西章节厚度差异本身构成使用边界",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0337",
+    "title": "Paul Greenhalgh (ed.)：《Modernism in Design》，1990",
+    "grade": "C",
+    "verification": "V2",
+    "role": "anti_essentialist_historiography",
+    "accepted_claim": "反本质主义史学立场样本：主编明言“这些论文意在使其复杂化”，各章立场并置不统一（Shand宗族主义式瑞典赞美与Wollin工艺保守主义并列）——0.6史学解释多样性与争议的教学样本",
+    "evidence_boundary": "作为史学方法立场引用，非史料；与B0388式史学批判并置教学",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0346",
+    "title": "Penny Sparke：《Italian Design 1870 to the Present》，1988",
+    "grade": "C",
+    "verification": "V2",
+    "role": "evidence_bias_secondary_synthesis",
+    "accepted_claim": "本书可作为证据偏差教学案例：通史依赖当代期刊评论与公司档案，“proto-design”是1983年回顾性分类（作者自承历史方法问题）；“大师史”叙事使匿名生产者与女设计师结构性缺席",
+    "evidence_boundary": "本书非档案一手史；用于0.6时须与原始档案、宣言文本对照，其叙述层与档案事实层须分离",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0376",
+    "title": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "therapeutics_and_consumption_politics",
+    "accepted_claim": "“治疗术”与消费收编政治：广告以建议、拟似亲密与“低吟”式语言填补现代社会的“建议真空”，把经济危机处理为性格考验（勇气商数、拳头意象）——消费社会批判资源",
+    "evidence_boundary": "作者分析框架（治疗术、无代价进步）；批判性命题引用须标注立场",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "duplicate_p0",
+    "accepted_claim": "与B0073共享Art Deco对象（1925博览会、新材料、直线形式等），同一对象只计一份P0，本包知识涌现分析仅作语义路由",
+    "evidence_boundary": "P4知识涌现模型推演产物，非原文直接陈述",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "evidence_bias",
+    "accepted_claim": "图录式概览的证据边界：图像证据为主而clean仅有文字、评述浅描、无注释、巴黎中心残余、OCR残损",
+    "evidence_boundary": "图版视觉信息不可复核",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "evidence_bias_1923_exhibition",
+    "accepted_claim": "1923展览“自我动员说”基于文献空缺推断（作者明示“迄今未发现政府指令文件”），属反证论证，证据等级低于档案直接证据",
+    "evidence_boundary": "推断成立依赖Stölzl回忆与议会辩论间接支持；与Scheidig/Hüter成说并存，须对照使用",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "evidence_bias_inversion_thesis",
+    "accepted_claim": "“倒转论”为全称命题（“一切创始理念都被倒转为对立面”），且“Bauhaus idea”无独立定义，存在循环论证风险；作者在L1512以“门面翻转”自我修正",
+    "evidence_boundary": "证据偏差条目：全称命题边界须标注；Klee/Kandinsky的自治艺术并未“倒转”（作者自认）",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "evidence_bias_meyer_evaluation",
+    "accepted_claim": "对Meyer的“历史可信度”判断本身是作者的历史判断，Maldonado持相反立场且被作者如实并列",
+    "evidence_boundary": "证据偏差条目：作者立场与档案事实须区分；“Meyer是否误导Gropius”作者自陈未决",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ocr_damage_note",
+    "accepted_claim": "部分一手文献OCR损坏严重（clean第129行邵大箴原文乱码等），细节引用须回查原刊；个别转引著录有瑕疵（克雷格年份）",
+    "evidence_boundary": "OCR损伤为实证；分析报告已如实标注",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chinese_textbook_discourse_sample",
+    "accepted_claim": "中文设计史教科书话语样本：“运动—国家—人物—作品”框架、英雄谱系式叙述（设计大师与代表作）、通俗笔法与作者个人见闻——0.6“正典偏差”的中文教材例证",
+    "evidence_boundary": "作为话语样本引用而非史料；其正典化效应与B0388式史学批判并置教学",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "p4_emergence_semantic_routing",
+    "accepted_claim": "知识涌现模型（P4）仅作语义路由：本书的知识发现报告属P4推演，不构成本书直接陈述",
+    "evidence_boundary": "P4结论须标注为推演",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "D",
+    "verification": "V2",
+    "role": "emergence_semantic_routing",
+    "accepted_claim": "包内知识涌现分析（五文件）为P4模型推演，仅作语义路由，不作为证据准入",
+    "evidence_boundary": "P4推演产物",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "X",
+    "verification": "V2",
+    "role": "p4_knowledge_emergence",
+    "accepted_claim": "知识涌现模型（P4推演）仅作语义路由，不构成来源证据",
+    "evidence_boundary": "不进入教材命题证据链，其命题未经本包原文核验",
+    "status": "P4_SEMANTIC_ROUTING_ONLY"
+   },
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "X",
+    "verification": "V2",
+    "role": "emergence_models_not_source_propositions",
+    "accepted_claim": "P4知识涌现分析中的命名、网络、枢纽、S值等模型是对分析报告的二次推演，不得写成原著命题",
+    "evidence_boundary": "00_方法与规则自述为元分析且k/b/S为半定量估算",
+    "status": "EXCLUDE_AS_META_MODEL"
+   }
+  ]
+ },
+ "0.7": {
+  "grades": {
+   "A": 9,
+   "X": 1,
+   "B": 15,
+   "C": 5
+  },
+  "count": 30,
+  "items": [
+   {
+    "source_id": "B0005",
+    "title": "Adamson, Glenn; Riello, Giorgio; Teasley, Sarah (eds.), Global Design History, 2011",
+    "grade": "A",
+    "verification": "V2",
+    "role": "connections_comparisons_objects",
+    "accepted_claim": "连接、比较和对象可构成全球设计史的互补路径，地方不是被动终点",
+    "evidence_boundary": "不能把跨境接触自动写成对等交流或直接影响",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0086",
+    "title": "Colleen E. Kriger：《Cloth in West African History》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "local_objects_and_global_networks",
+    "accepted_claim": "地方纺织对象可连接跨撒哈拉、大西洋、印度洋和化学工业网络",
+    "evidence_boundary": "连接不等于单向传播或同质全球化",
+    "status": "ACCEPTED_WITH_CAUSAL_LIMIT"
+   },
+   {
+    "source_id": "B0154",
+    "title": "Finlay Robert：《The pilgrim art cultures of porcelain in world history》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "porcelain_connected_world_history",
+    "accepted_claim": "瓷器可连接中国、伊斯兰世界、东亚、欧洲和海洋贸易中的技术与文化转译",
+    "evidence_boundary": "连接与模仿不是无权力差异的对称交流",
+    "status": "ACCEPTED_WITH_POWER_LIMIT"
+   },
+   {
+    "source_id": "B0169",
+    "title": "Giorgio Riello：《Cotton The Fabric That Made the Modern World》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "cotton_as_connected_and_coercive_global_history",
+    "accepted_claim": "全球棉花史必须同时书写知识转移、商品流通、殖民权力与奴隶劳动",
+    "evidence_boundary": "连接史不能把不平等交换美化为互惠交流",
+    "status": "ACCEPTED_WITH_POWER_LIMIT"
+   },
+   {
+    "source_id": "B0181",
+    "title": "Guy, John：Woven Cargoes：Indian Textiles in the East, 1998",
+    "grade": "A",
+    "verification": "V2",
+    "role": "trade_network_translation_model",
+    "accepted_claim": "印度棉布千年贸易是“流动与转译”模型的实证：同一商品经贸易网络在不同接受社会中被选择、误读、翻译与再生产，而非单向“影响”",
+    "evidence_boundary": "Pires“Cambay双臂”整合体系与各市场差异化接收均为原著命题；六市场类型光谱为P4归纳，引用时需标注",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0259",
+    "title": "Kenneth Pomeranz：《The Great Divergence China, Europe, and the Making of the Modern World Economy》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "reciprocal_and_encompassing_global_history",
+    "accepted_claim": "全球史须结合对称区域比较与跨区域资源关系",
+    "evidence_boundary": "关系史不能消除殖民暴力或地方差异",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0334",
+    "title": "Parthasarathi, Prasannan：Why Europe Grew Rich and Asia Did Not：Global Economic Divergence, 1600-1850, 2011",
+    "grade": "A",
+    "verification": "V2",
+    "role": "multiscalar_global_comparison",
+    "accepted_claim": "全球史可在英国印度、欧洲内部、欧亚与帝国尺度间检验不同机制",
+    "evidence_boundary": "尺度切换不能掩盖材料不对称和地区异质性",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0338",
+    "title": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "multi_center_local_adaptation_with_asymmetric_networks",
+    "accepted_claim": "国际传播由多中心、商业中介、城市制度与地方资源共同改写",
+    "evidence_boundary": "仍以欧美城市为主，不能据此声称全球覆盖或对等交流",
+    "status": "ACCEPTED_AS_GLOBAL_RELATIONAL_METHOD"
+   },
+   {
+    "source_id": "B0450",
+    "title": "Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "selective_reception_translation_and_asymmetric_network",
+    "accepted_claim": "出版、展览、旅行、商业与国家中介使英国资源在各地被选择性重组",
+    "evidence_boundary": "仍由英国来源组织横轴，不能直接推广为全球互惠网络",
+    "status": "ACCEPTED_AS_GLOBAL_TRANSLATION_METHOD"
+   },
+   {
+    "source_id": "B0059",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+    "grade": "B",
+    "verification": "V2",
+    "role": "center_periphery_and_asia_cases",
+    "accepted_claim": "全球设计史的中心—边缘案例：Ghose亚洲中心—边缘模型（设计话语被第一世界方法论主宰）、A Cheng中国“线”传统（书写与绘画同源的文化连续性）、Hirano日本设计四十年亲历（从“没有设计师的国家”到设计强国）——0.7三种全球模型的亚洲视角",
+    "evidence_boundary": "论文集体裁：三位作者独立立场；亲历叙述（Hirano）为行动者证据须与其他档案互校",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "circulation_translation_entanglement",
+    "accepted_claim": "意义由流通网络中的选择、误读、翻译与纠缠建构（Venetian trade beads、entangled objects），而非单向扩散",
+    "evidence_boundary": "Venetian trade beads比喻借自Steiner，是作者的分析性借用；“纠缠”框架出自Nicholas Thomas",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0084",
+    "title": "Clive Dilnot：《A John Heskett Reader Design, History, Economics》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "global_history_of_making_fragments",
+    "accepted_claim": "游牧贸易奴役和多种制造层次可扩展全球设计史问题范围",
+    "evidence_boundary": "未刊片段不构成完整全球史且地区证据不对称",
+    "status": "ACCEPTED_WITH_VERIFICATION_GAP"
+   },
+   {
+    "source_id": "B0121",
+    "title": "Dickerman：《Dada Zurich, Berlin, Hannover, Cologne, New York, Paris》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "six_city_model_as_global_network_frame",
+    "accepted_claim": "六城模型提供跨国设计史的空间化框架：共时节点并列、跨大西洋维度（纽约—巴黎）、人物与期刊流通作为全球网络证据；对“中心—边陲”再中心化风险有自反性讨论（导论提及罗马尼亚/日本却未展开）",
+    "evidence_boundary": "本书非全球史专著：“六城模型是通过排除来定义”的知识策略，原始主义未关联殖民主义批判；0.7节引用时须标注框架局限",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0209",
+    "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "circulation_translation_asymmetric_entanglement",
+    "accepted_claim": "以“流动与转译”（商品跨文化重赋意义）和“纠缠与不对称”（不平等结构中边缘能动性）批判单向扩散模型，佐证三种模型的对照",
+    "evidence_boundary": "“转译/互惠”论证依赖意义解读，属作者命题；扩散批判见结论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0273",
+    "title": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "globalization_call_section12",
+    "accepted_claim": "设计史全球化转向的学科纲领：“设计史今天最紧迫的问题是全球化”；Section 12“地方/区域/国家/全球”专门板块的开设——0.7三种全球模型的学科纲领文本",
+    "evidence_boundary": "呼吁性文本（编者导言），全球设计史实践成果须另以专门文献支撑",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "asymmetric_flow_translation_and_reproduction",
+    "accepted_claim": "全球流动不是单向“影响”：墨西哥案例示范边缘国家在不平等权力关系中的选择、误读、翻译与再生产——法国时尚（1889激进→1900保守）被墨西哥有意识地跟随并本土化，形成“紧跟时尚”的现代性策略",
+    "evidence_boundary": "“紧跟法国时尚”的连续性由多届展馆档案支持；“有意识地跟随”的动机判断是作者解释",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0313",
+    "title": "Mike Davis：《Late Victorian Holocausts El Nino Famines and the Making of the Third World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "entangled_asymmetry_world_market",
+    "accepted_claim": "全球纠缠与不对称关系模型案例：世界市场整合（铁路、电报、期货市场在干旱时从“解决方案”变为“加速器”）、粮食出口—死亡相关性（1875—1900印度年均出口300万吨→1000万吨，相当于2500万人年均口粮）、金本位双重打击——0.7三种全球模型中“纠缠与不对称”的经典证据",
+    "evidence_boundary": "经济史数据（出口量、卢比指数）可核验；因果归因（出口→死亡）为作者论证，须与统计复核并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0332",
+    "title": "Owen Jones：《The Grammar of Ornament》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "early_crosscultural_formal_comparison",
+    "accepted_claim": "跨文化并置展示了早期全球装饰比较的知识技术",
+    "evidence_boundary": "形式相似不能证明接触、传播或共同起源",
+    "status": "ACCEPTED_WITH_CAUSAL_LIMIT"
+   },
+   {
+    "source_id": "B0427",
+    "title": "Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "entanglement_asymmetry_model",
+    "accepted_claim": "殖民权力关系下的物品流动是不对称的纠缠：混杂性（Ram Singh屏风）、驯化（苏联瓷塑、比利时象牙）、模拟（Mbuti表演）都是权力-抵抗交互的产物，构成“纠缠与不对称”模型的经验证据",
+    "evidence_boundary": "混杂性、驯化等是作者理论解读而非史料事实，同一物件可被不同框架定性（Bentzon银器在三个博物馆被定性为不同文化）",
+    "status": "ACCEPTED_AS_KEY_SOURCE"
+   },
+   {
+    "source_id": "B0452",
+    "title": "Wichmann：《Japonisme the Japanese influence on Western art since 1858》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "diffusion_model_specimen",
+    "accepted_claim": "本书是“扩散/影响”模型的典型文本：“日本→西方”单向因果链（如“日本主义提供现代主义核心概念”、“书法→塔希主义”），可作为讨论扩散模型局限的正面案例",
+    "evidence_boundary": "模型批判是教材立场；本书“转化（transmutation）”提法有限度地接近转译模型，引用时须区分作者原话与教材评价",
+    "status": "ACCEPTED_AS_CRITICAL_CASE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "five_translations_model",
+    "accepted_claim": "全球接受的不对称模型：乌尔姆科技融合并'与包豪斯保持距离'、美国去政治化演变为国际主义风格'背离初衷'、东德视作社会主义理想、日本构成化、中国扬弃——同一遗产五种转译",
+    "evidence_boundary": "转译与不对称的全球案例集",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "museum_legacy_claim",
+    "accepted_claim": "'包豪斯的遗产主要在博物馆里，而不在目前的技术与经济中'（艾舍1987）——遗产存在于各国转译路径而非复制的编者立场支撑",
+    "evidence_boundary": "属乌尔姆当事人观点转引，非本书结论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "asymmetric_translation_social_engineering",
+    "accepted_claim": "中国对包豪斯的转译呈不对称性：只取基础课与构成体系，弃其社会工程与“艺术改造社会”内核",
+    "evidence_boundary": "王受之“中国没有包豪斯生存土壤”与杭间798案例两说并置，为会议论辩而非定论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0040",
+    "title": "Jespersen, John Kresten：Originality and Jones' The Grammar of Ornament of 1856, 2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "global_coverage_and_context_loss",
+    "accepted_claim": "《语法》的全球覆盖通过抽离语境、重绘和网格化形成",
+    "evidence_boundary": "覆盖广不等于去殖民或关系史；形式并置不证明传播",
+    "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0214",
+    "title": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "western_centric_self_critique",
+    "accepted_claim": "全球模型缺失的自我披露：作者承认非西方设计传统边缘化（“普遍性”被列为高度可疑但自身叙事框架仍西方中心）——0.7三种全球模型的自我批判样本",
+    "evidence_boundary": "作者自认局限；非西方设计史须以专门文献补充",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0277",
+    "title": "Lodder：《Russian constructivism》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "reception_filter_as_global_model_case",
+    "accepted_claim": "第八章“信息过滤”模型（哪些内容能跨边界传播取决于策展、语言、期刊与教学改编的选择）可作为全球设计史传播模型的局部案例素材",
+    "evidence_boundary": "本书是俄国中心专史而非全球史；接受史仅覆盖欧美；传播模型是洛德为解释西方误解而建构，非一般传播理论",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0411",
+    "title": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "european_tradition_china_translation",
+    "accepted_claim": "全球设计史“流动与转译”模型案例：欧洲（包豪斯—乌尔姆—斯图加特）设计基础传统经个人教学网络（雷曼—柳冠中—WORKSHOP师资）向中国转译并本土化（与中国“知行合一”传统对话），非单向扩散而是选择性接受与再语境化",
+    "evidence_boundary": "单案例（教学网络）样本，转译机制（选择性、中介、冲突）须与其他中国接受史文献（B0492/B0517等）并置",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0440",
+    "title": "Walker：《Design History and the History of Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "national_history_scope_self_critique",
+    "accepted_claim": "全球设计史模型的反面教材：国族史方法讨论限于西方发达国家，作者自认第三世界缺席——0.7三种全球模型（扩散/流动/纠缠）中“欧洲中心国族史”局限的自我供述",
+    "evidence_boundary": "作者自述局限，可作0.7批判扩散模型的引证；非全球史专著",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "global_design_history_model_cases",
+    "accepted_claim": "本书为全球设计史“转译与不对称”模型提供中国大陆、香港、台湾三地对照案例",
+    "evidence_boundary": "文集定位使其成为案例集成而非模型建构之作",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0170",
+    "title": "Glenn Adamson：《Global Design History》",
+    "grade": "X",
+    "verification": "V2",
+    "role": "version_alias_not_independent_evidence",
+    "accepted_claim": "无独立证据增量；全球设计史方法由B0005规范记录承担",
+    "evidence_boundary": "不能作为第二项互证来源或增加参考文献数量",
+    "status": "EXCLUDED_DUPLICATE_VERSION"
+   }
+  ]
+ },
+ "0.8": {
+  "grades": {
+   "C": 2,
+   "X": 1
+  },
+  "count": 3,
+  "items": [
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "translation_structure_mapping",
+    "accepted_claim": "中译本目录与2010英文第二版六卷十六章结构完全对应、无删节合并，可用作中英章节对照与教学导航",
+    "evidence_boundary": "对应关系依据目录与分章报告，未逐页比对实体书",
+    "status": "ACCEPTED_AS_TRANSLATION_REFERENCE"
+   },
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "translator_added_notes",
+    "accepted_claim": "中文注释对「新艺术运动」「衬线」等术语的解释是中译本特有的阅读辅助，可作术语教学参考",
+    "evidence_boundary": "注释位置受OCR分页影响，归属章节待核",
+    "status": "ACCEPTED_AS_TRANSLATION_REFERENCE"
+   },
+   {
+    "source_id": "B0478",
+    "title": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+    "grade": "X",
+    "verification": "V2",
+    "role": "translation_not_independent_evidence",
+    "accepted_claim": "中译本与B0101（2010英文第二版）为同一版次知识内容，全部16章命题重合，不得独立计证",
+    "evidence_boundary": "本卡只承担译本审计职能，命题证据一律回查英文原版",
+    "status": "EXCLUDE_AS_DUPLICATE_OF_B0101"
+   }
+  ]
+ }
+}

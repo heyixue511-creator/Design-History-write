@@ -1,0 +1,57 @@
+# -*- coding: utf-8 -*-
+"""重写 B0253 的正确语义复核 review_data（原内容为别的书，张冠李戴）。"""
+import json
+from pathlib import Path
+
+p = Path(r"D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-008-CH07-GOODDESIGN\review_data\B0253_review.json")
+
+data = {
+    "source_id": "B0253",
+    "title": "Japanese Design: A Survey Since 1950",
+    "author": "Kathryn B. Hiesinger, Felice Fischer (eds.)",
+    "version": "费城艺术博物馆同名展览（1994）配套图录，Harry N. Abrams 1995年精装本",
+    "type": "展览图录＋学术论文集＋企业档案（策展学文体）",
+    "scope": "1950—1994年日本设计：255件展品年代编目＋20篇专题文章（政府、营销、组织、教育、工业设计、家具、纺织、时装、包装、平面）＋约120条设计师／企业传记辞条",
+    "duplicate_group": "与B0076（Fiell图录）同为展览图录体裁样本，可作体裁互证；G-Mark（1957）与7.3 MoMA Good Design为同一“优良设计”概念的国际传播对象，同一对象P0只计一份；Loewy访日（1951）与B0186（Dreyfuss自著）共享美国工业设计职业史对象，只计一份P0；与B0235（Woodham通史）共享日本战后设计通用史实，重复叙述不独立计证",
+    "summary": "本书是全球首次以“1950年以来日本设计”为主题的综合调查展（费城艺术博物馆1994）的配套图录，以255件展品为纲、20篇日美作者专题文章为翼、约120条传记辞条为工具，构成日本战后设计的多声部制度史与物质史。制度侧：MITI自1950年代以G-Mark选品制度（1957，专利局→MITI→1974年JIDPO）、Design Year、JETRO海外研修、出口检验与意匠法建构“设计国家主义”工具箱（Arai内部人视角）；组织侧：六大协会JIDA 1952→JAGDA 1978的协同与ICSID京都1973／名古屋1989；企业侧：Sony（TR-610 1958、Walkman 1979）、Honda、GK、天童木工等企业史自述与PAOS品牌策略（Mazda、Matsuya银座CI案例）；思想侧：Fischer“从明治到现代”的学习—吸收—超越模式、Hiesinger“Japanese Modern”论题（传统美学与西方现代主义形式重合，成为“第一个后现代风格”，作者命题）、Habara对原创性缺失的自我批评。全书以策展人选证（compactness, craftsmanship, simplicity, asymmetry, humor）为价值框架，多声部并置构成反单一作者英雄史的方法论样本。",
+    "strengths": [
+        "日本战后设计制度侧最完整的P1证据：G-Mark制度沿革（1957启动，专利局→1958转MITI→1974转JIDPO）、Design Year（1973）、JETRO研修、1993年MITI“新时代设计政策”三项行动计划，作者Arai为原MITI设计课长（内部人制度史）",
+        "企业设计档案侧：Sony、Honda、GK Design Group、Kenmochi、Nippon Design Center五篇企业史自述＋PAOS品牌策略案例（Bridgestone命名、Mazda旧标志美国误读、Matsuya银座重塑），构成7.7企业设计与品牌化的行动者证据",
+        "关键事件编年可核验：Loewy 1951访日（Peace香烟包装、设计费为日本同行10—100倍）、WoDeCo 1960、东京奥运1964象形图系统（勝見勝）、Walkman 1979、大阪世博1970，支撑7.7“模仿—吸收—创新”三阶段",
+        "传统再解释维度：Mingei（柳宗悦）“用即美”、和服现代化（Wada）、包装折纸传统（Kimura）、Butterfly stool（1956）成型合板，支撑7.7“传统再解释”命题",
+        "质量控制维度：Quality Circle（Deming／Juran引入）作为日本制造精度的制度机制，可作7.7质量控制侧证",
+        "0.2与11.7命题资源：Hiesinger“Japanese Modern became the first postmodern style”为日本线后现代论题的作者命题（须标注）",
+        "0.3方法论样本：20位作者（官员、企业管理者、设计师、教育家）多声部并置，天然反“大师—名作—风格”英雄谱系，可作关系史教学样本",
+        "0.6体裁样本：展览图录（策展人选证＋255件展品编目）与成就导向企业史的偏差样本，与B0076同体裁互证",
+    ],
+    "limits": [
+        "展览决定论：章节篇幅与选品受1994年展览条件制约，1990s部分仅14条目，明显薄弱，非日本设计史全貌",
+        "英语中心：日本作者论文经英译，可能损失原文语感与微妙立场；引用原文须返回英文版页码",
+        "企业史与设计师自述为成就导向品牌叙事（P0行动者材料），须与制度档案和独立学术史互校，不直接采信其自评",
+        "制度数据（协会成立年份、G-Mark评审标准、研修人数）来自内部人陈述（Arai等），教材使用须以官方档案复核",
+        "“Japanese Modern第一个后现代风格”“模仿辩护”（Habara文化相对主义）均为作者命题与价值判断，只能转引为观点，不可作史实",
+        "内部批评有限：虽有Habara对原创性缺失、Kosugi对G-Mark制度的批评，但对产业体制的结构性批判不足",
+        "P4知识涌现只作语义路由；图录解说中的审美判断（iconic、masterpiece类）须与档案信息分层使用",
+    ],
+    "checks": [
+        "packet 00整体分析报告 L003-2：制度先行论（G-Mark、JETRO、Design Year）、模仿—吸收—创新三阶段、1951 Loewy→1957 G-Mark→1960 WoDeCo→1964奥运→1979 Walkman因果链",
+        "packet 02设计基础设施 L003-1：Arai“设计国家主义”（design statism）框架；L003-2 G-Mark制度设计（专利局→MITI→JIDPO）与Mazda／Matsuya品牌案例",
+        "packet 04工业设计与家具 L003-2：Habara“模仿辩护”与原创三产品（电饭煲1954、晶体管收音机1957、Walkman 1979）、Butterfly stool成型合板军事转用（与Eames平行）",
+        "packet 00整体报告 L007-2：Hiesinger“Japanese Modern became the first postmodern style”原文；Kenmochi“就概念而言我们没有理由跟随西方”引文",
+        "packet 01序论（Fischer）：明治以来“学习—吸收—超越”模式与1873维也纳世博会工艺出口政策（7.7传统再解释的历史铺垫）",
+    ],
+    "maps": [
+        ["7.7", "A", "japan_postwar_design_government_policy", "MITI设计政策工具箱：G-Mark选品制度（1957启动，专利局→1958转MITI→1974转JIDPO）、Design Year（1973）、JETRO海外研修、出口检验与意匠法，构成日本战后“设计国家主义”产业战略；1993年MITI中期报告三项行动计划", "制度沿革为内部人陈述（Arai，原MITI设计课长），关键年份与机构沿革须以官方档案复核；同一制度对象与B0235通史叙述只计一份P0", "packet 02报告L003-1／L003-2、L004 Arai论证链", "ACCEPTED_AS_CORE_SOURCE"],
+        ["7.7", "A", "japan_postwar_design_enterprise_products", "企业设计档案：Sony（TR-610晶体管收音机1958、Walkman 1979）、Honda Super Cub、GK Design Group、天童木工成型合板、Nippon Design Center 1960设立；PAOS品牌策略（Bridgestone、Mazda CI、Matsuya银座重塑）构成7.7企业设计与品牌系统证据", "企业史为成就导向自述（P0行动者材料），品牌叙事与营销判断须与独立学术史互校；产品—年份—制造商信息可作快速参照", "packet 02报告L003-2企业案例；packet 07设计师自述与企业史", "ACCEPTED_AS_CORE_SOURCE"],
+        ["7.7", "B", "japan_tradition_reinterpretation", "传统再解释：Mingei“用即美”、和服现代化、包装折纸传统、Butterfly stool（1956）以传统美学进入现代主义，Fischer“学习—吸收—超越”模式构成7.7“传统再解释”命题支柱", "文化解释（传统美学的现代转化）为作者综合判断，须与具体器物档案分开引用；“超越”类评价词须剥离", "packet 01序论、04报告L003-2 Butterfly stool、05纺织品报告", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+        ["7.7", "B", "japan_quality_control_institutional", "质量控制制度化：Quality Circle、Deming／Juran品质管理体系经日本制造体系改造，支撑7.7“质量控制”维度", "本书仅概念层提及（整体报告L008-5），无专章展开；机制细节须补质量管理专门文献", "packet 00整体报告L008-5 Quality Circle条目", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+        ["7.3", "C", "good_design_international_transfer_japan", "日本G-Mark（1957）与MoMA／Kaufmann Good Design（7.3）共享“优良设计”概念，构成Good Design国际传播的日本线：胜见胜《Good Design》（1958）为理论宣言、Kaufmann《What Is Modern Design?》日译1953为思想来源", "Good Design概念在美日两线的传播时序与中介（JETRO、Kogei Nyusu）须另以档案证实，本书只提供日本侧接受证据", "packet 00整体报告L008-6文献表", "ACCEPTED_AS_CONTEXTUAL_SOURCE"],
+        ["0.2", "B", "japanese_modern_first_postmodern_claim", "Hiesinger命题：日本现代设计（Japanese Modern）因传统美学与西方现代主义形式诉求重合，早于欧美后现代运动成为“第一个后现代风格”——现代性／现代主义／后现代边界讨论的日本案例", "作者理论命题（L007-2原文），非史实断言；教材引用须标注为Hiesinger观点并与其他现代性分期框架并置", "packet 00整体报告L003-2论点3、L007-2原文", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+        ["0.3", "B", "multi_voice_design_history_method", "多声部方法论样本：20位作者（政府官员、企业管理者、设计师、教育家、策展人）并置，以策展人选证与跨作者互文替代单一作者英雄史——关系史而非“大师—名作—风格”谱系", "本书为图录策划的并置而非自觉史学方法论文献，用作方法样本时须说明体裁限定", "packet 00整体报告L002结构、L006-1多声部并置、L010整体评价", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+        ["0.6", "C", "exhibition_catalogue_genre_bias", "展览图录体裁偏差样本：255件展品由策展人价值标准（compactness, craftsmanship, simplicity, asymmetry, humor）筛选，年代编目受展览条件制约（1990s仅14条目），构成0.6“保存与正典偏差”的图录例证", "体裁属性可从版权页、策展前言与编目结构证实；作为偏差样本引用而非作为完整史料", "packet 00整体报告L006-2选证法、L009-2局限1与3", "ACCEPTED_AS_CONTEXTUAL_SOURCE"],
+        ["0.6", "C", "company_history_celebratory_narrative", "成就导向企业史样本：五篇企业史自述（Sony、Honda、GK等）为品牌叙事文本，与Habara式自我批评并置，构成0.6“机构偏差”教学例证", "企业史自述为P0行动者材料，自评性判断（world-class、original类）须剥离", "packet 07设计师自述与企业史", "ACCEPTED_AS_CONTEXTUAL_SOURCE"],
+    ],
+}
+
+p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+print("B0253 已重写, maps =", len(data["maps"]))

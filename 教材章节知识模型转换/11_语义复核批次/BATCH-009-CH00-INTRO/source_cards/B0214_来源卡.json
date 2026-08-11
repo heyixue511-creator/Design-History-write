@@ -1,0 +1,79 @@
+{
+  "source_id": "B0214",
+  "corpus": "book",
+  "folder_name": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
+  "material_type": "平面设计史教材（P1，批判性指南）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009_clean.md",
+  "clean_source_sha256": "1648983DBE93CAD004873C5AAD5FF56FB8894DD8FC794E7A7C5D89C8657FC176",
+  "duplicate_group": "无精确哈希重复；与Meggs（A History of Graphic Design）、Hollis（Concise History）构成平面设计史教材三足鼎立（本书自述借鉴与超越），同一通用史实只计一份P0；非西方传统案例（伊斯兰书法、中国印刷术、日本设计）以“影响西方/与西方对照”框架出现，同一对象只计一份",
+  "files": [
+    {
+      "report_file_count": 39,
+      "report_characters": 1237886
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "critical_principles_image_evidence"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "self_deconstructing_timelines"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "critical_guide_vs_master_narrative"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "anti_technological_determinism"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "timelines_and_tools_of_trade"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "western_centric_self_critique"
+    },
+    {
+      "section_id": "9.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "corporate_identity_design_history"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "教材性质：面向本科教学的简化叙述，时间线高度选择（作者自认），历史细节被压缩",
+    "西方中心（作者自认）：非洲（古埃及除外）、南亚、拉美、大洋洲设计传统几乎不在讨论范围；非西方案例多以“影响西方”框架出现",
+    "性别平衡不足（作者自认）：早期章节女性设计师可见度低",
+    "批判性原则的激进性在当代商业设计实践章节有所减弱（批判让位于描述）",
+    "2009年出版时点：数字设计讨论为“正在进行时”（第15章），平台化/算法化设计未涵盖",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 00整体分析报告：L001—L004（宣言、批判性指南定位、借鉴谱系）；L018—L022（五大核心论题）",
+    "L023：十条批判原则；L039—L040：方法论（社会史驱动、五策略）",
+    "L043—L044：与Meggs对比、时间线自我解构；L048—L051：原文摘录（自然化、反技术决定论、权力结构）",
+    "L126—L128：局限（非西方边缘化、性别平衡不足、批判性减弱）",
+    "L080：First Things First宣言1964；L098：Unimark；L119：企业身份概念"
+  ]
+}

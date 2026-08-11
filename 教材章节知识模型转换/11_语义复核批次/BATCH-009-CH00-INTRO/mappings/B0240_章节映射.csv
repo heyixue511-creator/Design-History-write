@@ -1,0 +1,7 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0240,0.1,A,V2,things_with_attitude_lowercase_design,设计定义的系统扩展：“有态度的物”（things with attitude）、“小写设计”（design in the lower case，日常非专业设计实践）、“反设计”（undesign，未经专业设计过程的日常物品）——0.1“设计”概念讨论的核心当代文献,作者建构概念（2000）；作为设计定义论与Heskett/Buchanan等并置，不替代制度定义,packet 00整体分析报告L000.1.2.1,ACCEPTED_AS_CORE_SOURCE
+B0240,0.4,B,V2,things_as_physical_articulation,人工物作为史料的系统理论：物是社会关系的“物理表达”与“积极中介”（在做事物而不仅仅是意味事物）、微观物质分析（梳妆台台面）连接宏观社会诊断（郊区化、现代化）、“从物出发”研究路径——0.4“人工物如何成为史料”的理论支柱,理论框架（2000）；个案方法示范（Heal's、梳妆台）为英国案例，跨文化适用须谨慎,packet 00整体分析报告L000.1.2.2、3.1第一级论题,ACCEPTED_AS_SUPPORTING_SOURCE
+B0240,0.3,B,V2,material_culture_turn_manifesto,物质文化转向的方法论宣言：拒绝生产/消费二分法、物的“社会生命”（Appadurai/Miller资源）、后学科跨学科范式——从英雄谱系到关系史的物质文化侧,作者方法论立场；物的社会生命概念须回溯Appadurai原著,packet 00整体分析报告1.1学科定位（三个“之间”）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0240,0.6,B,V2,good_design_dichotomy_critique,正典批判的政治维度：挑战现代主义“好设计/坏设计”精英主义二分法、揭示“品味”论述中隐含的阶级与性别政治、为日常物质实践（DIY、复制品消费、郊区生活）提供文化合法性——0.6“正典偏差”的批判资源,作者政治立场（文化合法性辩护）；批判对象（好设计标准）须与MoMA/CoID档案并置,packet 00整体分析报告L000.1.2.3,ACCEPTED_AS_SUPPORTING_SOURCE
+B0240,0.2,C,V2,modernity_everyday_things,现代性条件下的日常物：郊区化与现代化进程中的物（spec builder's vernacular投机建造商本土风格）、日常物质实践作为现代性经验——0.2现代性的日常侧案例,英国郊区化案例（战后）；现代性框架为作者综合,packet 00整体分析报告L000.1.2.3、2.1结构,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0240,12.6,C,V2,gender_politics_of_taste,品味与性别政治（跨章）：梳妆台的微观研究、身体作为自然与文化之间的门槛、品味论述中的性别政治——12.6女性主义设计批评的物质文化侧,作者分析（Ch6、Ch9）；与B0440第十章（Attfield女性主义批判）互参,packet 00整体分析报告Ch6、Ch9,ACCEPTED_AS_CONTEXTUAL_SOURCE

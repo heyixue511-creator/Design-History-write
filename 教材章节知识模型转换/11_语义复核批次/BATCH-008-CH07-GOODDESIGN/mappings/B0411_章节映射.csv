@@ -1,9 +1,7 @@
 ﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
-B0411,2.4,A,V2,gothic_revival_art_industry_debate,1836年政府特别委员会与设计学校体系、帕金《对比》与哥特复兴、1851年博览会‘艺术与工业联合’——英国对工业化的制度化美学反应链,事件与文献为可核实史实；‘拒绝工业革命’统摄框架与‘迈向莫里斯’评价为作者命题,clean第40—42、56—58、70—72行,ACCEPTED_AS_CORE_SOURCE
-B0411,2.5,A,V2,pre_artnouveau_continuity,本书以‘工艺美术运动及其之后’收束，将莫里斯—新艺术—包豪斯置于同一‘进步’连续体，是2.5前史叙事的经典文献,‘连续性’本身即佩夫斯纳目的论建构；新艺术、包豪斯部分仅简述,clean第134—136行,ACCEPTED_AS_CORE_SOURCE
-B0411,2.3,B,V2,ruskin_morris_labor_ethic_link,罗斯金（七盏明灯、威尼斯之石）与莫里斯（红屋、1861公司）的劳动伦理与诚实材料主张构成工艺美术思想的行动者链条,行动者立场为P0文本事实；‘伦理→运动’因果为作者编排,clean第88—90、104—106行,ACCEPTED_AS_SUPPORTING_SOURCE
-B0411,2.4,B,V2,exhibition_1851_art_industry_union,1851年万国博览会作为‘艺术与工业联合’的制度化舞台：水晶宫、评审话语与展品结构,组织史实可查；‘博览会失败→工艺美术转向’的因果判断为作者命题,clean第70—72行,ACCEPTED_AS_SUPPORTING_SOURCE
-B0411,2.4,B,V2,design_school_state_system,1846年前后政府设计学校体系的建立是国家介入设计教育的早期制度史实,设立动机（提升出口竞争力）与成效（作者判断‘不足’）须区分,clean第40—42行,ACCEPTED_AS_SUPPORTING_SOURCE
-B0411,2.3,C,V2,art_workers_guild_institutionalization,1882年世纪行会、1888年艺术与工艺展览协会等工艺美术制度化节点,组织年份可查；协会影响力叙述为二手综合,clean第118—120行,ACCEPTED_AS_SUPPORTING_SOURCE
-B0411,0.6,A,V2,teleological_historiography_sample,本书是目的论历史书写的典型样本：英雄史观（帕金→罗斯金→莫里斯）、进步评价与‘拒绝工业革命’统摄框架，可作0.6史学方法审计的教学案例,作者在序言自述写作动机与立场，框架可识别；引用其史实时须剥离框架,clean第8—10、148—150行,ACCEPTED_AS_CORE_SOURCE
-B0411,0.5,C,V2,secondary_vs_primary_evidence,本书为二手论著：行动者文本（帕金、罗斯金、莫里斯著作）为一手，佩夫斯纳的判断为二手解释,引用须回溯至行动者原典；本书不可作为行动者立场的独立来源,clean第56—58、88—90行引文段落,CONTEXT_ONLY
+B0411,13.4,B,V2,china_design_education_internationalization,1978年后中国设计教育国际化网络：雷曼自1985年起在华讲学约30年，五次全国“造型基础”WORKSHOP培养近百名师资，足迹遍布近十省市二三十所大学；柳冠中1980年代在斯图加特学习后回中央工艺美术学院开设中国第一个工业设计系——教育恢复期的国际合作与师资网络证据,作者为行动者／观察者侧（P1自述），网络细节（院校、年份、人数）须以中国设计教育档案互校；不单独承担制度史,源文件L166／L168、L376／L386、L1936,ACCEPTED_AS_SUPPORTING_SOURCE
+B0411,7.4,C,V2,ulm_legacy_teaching_transmission,乌尔姆遗产的后续延伸：柳冠中序言称雷曼继承包豪斯与乌尔姆设计基础传统，本书的练习库与三分类教学法是该传统的教学文本样本——乌尔姆科学化方法经斯图加特向中国传播链的行动者自述,本书不直接论述乌尔姆制度史，仅提供“传统继承”声明与教学实践样本；乌尔姆制度事实以档案与专门研究为准,源文件L166／L168、L552—L562、L612／L626,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0411,0.1,B,V2,design_definition_problem_solving,设计定义论样本：设计是“发现、分析、判断和解决人类生存发展中的问题”（L116），是整合科学与艺术的“人类第三种智慧系统”（L118），产品是社会关系的“镜像”（L122）——0.1讨论“设计”是对象、活动还是制度时的当代教学定义资源,作者个人定义（教学语境），非学界共识；与其他定义论（Heskett、Buchanan等）并置使用,源文件L110／L116／L118／L122／L128,ACCEPTED_AS_SUPPORTING_SOURCE
+B0411,0.5,C,V2,curriculum_document_as_source_type,课程文件史料类型样本：本书即设计教育课程文件（教学手册＋练习库，含任务、方法与评估标准），可作0.5“课程文件能证明什么、不能证明什么”的教学样本——证明教学理念与练习体系，不能证明学生实际习得或产业效果,作为体裁样本引用，不作为教育成效证据；成效判断须以教学档案与毕业生追踪互证,源文件L88—L98（关于本书）、L300—L309（四个阅读层次）,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0411,0.7,C,V2,european_tradition_china_translation,全球设计史“流动与转译”模型案例：欧洲（包豪斯—乌尔姆—斯图加特）设计基础传统经个人教学网络（雷曼—柳冠中—WORKSHOP师资）向中国转译并本土化（与中国“知行合一”传统对话），非单向扩散而是选择性接受与再语境化,单案例（教学网络）样本，转译机制（选择性、中介、冲突）须与其他中国接受史文献（B0492/B0517等）并置,源文件L158／L160（知行合一）、L323—L365（中国学生问题与自立呼吁）,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0411,11.1,C,V2,product_semantics_theory_resources,产品语义学与功能主义之争的理论综述：皮尔士—莫里斯—本泽→格罗斯、布尔德克→克里彭多夫谱系（L1514），隐喻设计与“形式追随情感”（L1657）——后现代意义转向的理论背景材料,教学综述性质，非原创理论；教材引用须回溯至克里彭多夫等原始文献,源文件L1508—L1647（Ch10产品语义学）、L1655—L1663,ACCEPTED_AS_CONTEXTUAL_SOURCE

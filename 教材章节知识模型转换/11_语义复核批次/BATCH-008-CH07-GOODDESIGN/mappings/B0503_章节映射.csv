@@ -1,7 +1,12 @@
 ﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
-B0503,7.3,B,V2,scandinavian_furniture_us_institutional_success,北欧家具（Wegner Round Chair、Jacobsen Series 7、Aalto作品）经Design in Scandinavia巡展（1954—57）与MoMA收藏/奖项进入美国市场，构成Good Design体系家具侧的制度性成功,展览与收藏事件为史实；‘制度性成功’程度为作者判断,clean第90—100、270—280行,ACCEPTED_AS_SUPPORTING_SOURCE
-B0503,7.3,B,V2,moma_good_design_furniture_dominance,MoMA Good Design展的家具主导性与多斯堪的纳维亚起源（与B0235/B0401互证）,展览史实为二手综合；‘主导’判断须回查展品清单,clean第150—160行,ACCEPTED_AS_SUPPORTING_SOURCE
-B0503,7.3,B,V2,eames_scandinavian_form_dialogue,Eames模压胶合板椅（DCM/DCW 1946）与美国战后家具的有机形式与北欧的呼应,形式呼应判断为作者命题；作品年份为史实,clean第210—220行,ACCEPTED_AS_SUPPORTING_SOURCE
-B0503,7.6,B,V2,scandinavian_design_us_reception_side,‘Design in Scandinavia’巡展作为北欧设计制度在美国接受侧的传播节点,巡展事件为史实；‘传播效应’为作者综合,clean第90—100行,ACCEPTED_AS_SUPPORTING_SOURCE
-B0503,7.6,C,V2,transatlantic_furniture_community,‘跨大西洋家具设计共同体’：美—北欧双向参照与共同市场，为7.3/7.6之间的连接命题,‘共同体’为作者框架命题，须标注,clean第450—460行,CONTEXT_ONLY
-B0503,0.6,C,V2,category_acceptance_sample,本书接受‘斯堪的纳维亚设计’统一范畴的使用方式，可作B0388范畴批判的对勘正面样本,范畴有效性为默认假设；引用时须正反对勘,clean第25—30行,CONTEXT_ONLY
+B0503,7.4,B,V2,ulm_school_chinese_account,乌尔姆设计学院制度叙述：1953年建院（斯绍尔兄妹基金会）、比尔首任院长、马尔多纳多1954—1967年校长、1968年关闭；“乌尔姆模式”四大意义、设计教育从艺术转向科学与系统论、“包豪斯理性的制度化完成”及其“过度强调技术因素”的局限,中文教材二手综合，年份与人事须以乌尔姆专门研究（档案侧）互校；作者判断（“制度化完成”）须标注,源文件L341—L351,ACCEPTED_AS_SUPPORTING_SOURCE
+B0503,7.5,B,V2,braun_corporate_design_chinese_account,布劳恩企业设计：1921年成立、1954年起与乌尔姆合作、古格洛特与拉姆斯、1957年米兰三年展XI大奖、拉姆斯好设计十原则——联邦德国企业设计与视觉统一的教材叙述,二手综合；产品—年份—奖项信息可参照，机制解释（系统设计）以原始研究为准,源文件L355—L359,ACCEPTED_AS_SUPPORTING_SOURCE
+B0503,7.3,B,V2,us_midcentury_design_chinese_account,美国战后“世纪中叶”设计：波音707内舱（提格）、德雷夫斯《为人的设计》1955与《人体度量图表》1960、诺尔/赫尔曼·米勒产业转化、伊姆斯“廉价好设计”路线；国际主义风格作为“现代主义的国际传播与异化”的批判判断,二手综合；企业产品史实可参照，国际主义批判判断为作者观点,源文件L359—L373、L391—L393,ACCEPTED_AS_SUPPORTING_SOURCE
+B0503,7.2,B,V2,british_reconstruction_design_council,英国战后重建制度线：英国工业设计协会（1944年成立）、“英国能做到”展（1946）、设计中心（1956）、拉瑟尔等人物——7.2“英国重建与设计委员会”的中文教材叙述,二手综合；与CoID档案侧（B0234/B0235）互校，机构沿革只计一份P0,源文件L325,ACCEPTED_AS_SUPPORTING_SOURCE
+B0503,7.1,C,V2,ergonomics_wartime_origins,人体工程学的战时与技术起源：两次世界大战航空医学、泰勒科学管理、吉尔勃利斯、梅奥“霍桑效应”、查帕尼斯（1943）、穆里尔（1949）、IEA 1958年成立——7.1“战时技术与和平转用”的学科史线索,二手概述；学科史细节以人体工程学专门文献为准,源文件L381—L391,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0503,7.6,C,V2,nordic_democratic_design_chinese_account,北欧设计线：艾琳·凯《为大众的美》1899、鲍尔逊1919《更加美丽的日用品》、1930斯德哥尔摩展、1939纽约世博“瑞典现代”、“斯堪的纳维亚设计”北美巡展1954—1957、宜家1943创办与平板包装、“民主设计第三途径”（佛兰克“家居不是妈妈的高效机器”）,二手综合；与B0076/B0388北欧档案侧互校，同一对象（巡展、宜家）只计一份P0,源文件L773—L818,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0503,7.7,C,V2,japan_postwar_design_chinese_account,日本战后设计线：双轨制（国际主义设计＋传统设计并行）、民艺运动（柳宗悦、1936年日本民间工艺博物馆）、柳宗理、1964东京奥运、审美范畴（物哀、幽玄、侘寂、涩、序破急）贯通产品设计,二手综合；与B0253（Hiesinger图录）档案侧互校，同一对象只计一份P0；审美解释为文化判断,源文件L733—L771,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0503,5.3,C,V2,planned_obsolescence_chinese_account,有计划废止制（Planned Obsolescence）与美国销售工程：流线型、第一代工业设计师（第六章“工业设计的兴起”）——5.3“经济危机与销售工程”的经典案例叙述,二手综合；废止制机制的学术讨论以Meikle等专门研究为准,源文件L227—L317（Ch06分析报告）,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0503,14.3,C,V2,user_centered_design_chinese_account,以用户为中心的设计：IDEO（1991年克利/莫格里奇/努塔尔合并成立、用户研究进入专业流程、凯撒医疗2003体验设计案例）与苹果体验设计（Macintosh 1984、iMac 1998）——14.3“HCI与设计方法的汇合”的中文教材叙述,二手综合企业案例史；公司史细节以企业档案与专门研究互校,源文件L615—L623,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0503,0.2,C,V2,linear_history_reflection_chinese_textbook,中文教材的现代性叙事样本：作者自述第二版保留“线性历史演进观”同时承认设计史“并非单纯的线性发展模式，多元化、挫折性总是存在的”——0.2现代性分期讨论的教科书话语样本,作者方法论自述，非史学理论文献；引用须标注出处与立场,源文件L59,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0503,0.6,C,V2,chinese_textbook_discourse_sample,中文设计史教科书话语样本：“运动—国家—人物—作品”框架、英雄谱系式叙述（设计大师与代表作）、通俗笔法与作者个人见闻——0.6“正典偏差”的中文教材例证,作为话语样本引用而非史料；其正典化效应与B0388式史学批判并置教学,源文件前言与各章分析报告,ACCEPTED_AS_CONTEXTUAL_SOURCE

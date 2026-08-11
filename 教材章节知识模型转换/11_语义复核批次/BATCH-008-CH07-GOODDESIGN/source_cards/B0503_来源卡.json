@@ -2,10 +2,10 @@
   "source_id": "B0503",
   "corpus": "book",
   "folder_name": "王受之：《世界现代设计史》，2015",
-  "material_type": "家具设计史研究（美—北欧比较）",
+  "material_type": "中文设计史通论教材（教科书）",
   "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\王受之：《世界现代设计史》，2015.md",
   "clean_source_sha256": "0E180B46F2ADB0E167A5AAA144C82711FB0D08A9D87946969D4D19483BC980CF",
-  "duplicate_group": "与B0076（Fiell北欧图录）共享北欧设计作品对象（Eames、Wegner、Jacobsen等）：本书为美—北欧比较侧、B0076为图录档案侧；与B0388共享‘斯堪的纳维亚设计’范畴批判对象：本书接受该范畴、B0388批判该范畴，正反对勘",
+  "duplicate_group": "无精确哈希重复；中文世界最通行的设计史通论教材，与B0235（Woodham通史）、B0101/B0102（Raizman）构成中外通史参照组，同一通用史实（乌尔姆沿革、G-Mark、斯堪的纳维亚巡展等）只计一份P0；本书为二手综合（引Pevsner、Giedion、Sparke、Papanek、多默等），不能替代其引用的原始文献",
   "files": [
     {
       "report_file_count": 19,
@@ -17,62 +17,89 @@
   },
   "candidate_sections": [
     {
-      "section_id": "7.3",
+      "section_id": "7.4",
       "grade": "B",
       "verification": "V2",
-      "role": "scandinavian_furniture_us_institutional_success"
+      "role": "ulm_school_chinese_account"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "braun_corporate_design_chinese_account"
     },
     {
       "section_id": "7.3",
       "grade": "B",
       "verification": "V2",
-      "role": "moma_good_design_furniture_dominance"
+      "role": "us_midcentury_design_chinese_account"
     },
     {
-      "section_id": "7.3",
+      "section_id": "7.2",
       "grade": "B",
       "verification": "V2",
-      "role": "eames_scandinavian_form_dialogue"
+      "role": "british_reconstruction_design_council"
     },
     {
-      "section_id": "7.6",
-      "grade": "B",
+      "section_id": "7.1",
+      "grade": "C",
       "verification": "V2",
-      "role": "scandinavian_design_us_reception_side"
+      "role": "ergonomics_wartime_origins"
     },
     {
       "section_id": "7.6",
       "grade": "C",
       "verification": "V2",
-      "role": "transatlantic_furniture_community"
+      "role": "nordic_democratic_design_chinese_account"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "japan_postwar_design_chinese_account"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "planned_obsolescence_chinese_account"
+    },
+    {
+      "section_id": "14.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "user_centered_design_chinese_account"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "linear_history_reflection_chinese_textbook"
     },
     {
       "section_id": "0.6",
       "grade": "C",
       "verification": "V2",
-      "role": "category_acceptance_sample"
+      "role": "chinese_textbook_discourse_sample"
     }
   ],
   "review_status": "semantic_review_complete",
   "evidence_level": "V2",
   "notes": [
-    "版本信息待核实：语料库与分析报告未载明出版社与年份，正式著录前需查版权页",
-    "‘革命’与‘民主设计’影响叙事为作者框架命题：美—北欧互动的因果强度（‘革命’）超过证据支撑，须标注为解释框架",
-    "接受‘斯堪的纳维亚设计’统一范畴：与B0388的范畴批判冲突，引用时须作正反对勘而非默认范畴有效性",
-    "市场数据（销售、代理、收藏）依赖二手综合，个别数字须回查企业档案",
-    "家具中心视角：照明、织物、玻璃等其他品类覆盖相对少",
-    "时段边界：1970年代后（北欧设计衰落叙事）未覆盖",
-    "知识涌现模型为P4推演：分析报告中的对象网络与主题聚类仅作语义路由参考，作者立场须以原书文本为准",
+    "二手综合性质：本书引Pevsner、Giedion、Sparke、Papanek、多默等二手来源，不承担一手档案职能；教材使用须回溯原始文献",
+    "教科书话语：作者自述“通俗写法”，叙述以“运动—国家—人物—作品”框架组织，学术争议（如德国工作同盟争论、国际主义评价）多以作者立场收束，判断性表述须标注为作者观点",
+    "个人见闻与评价：前言与正文穿插第一人称研究经历与自我评价（如“国内最早撰写现代产品设计史的人”），自评不可作史实引用",
+    "源文件为乱序拼接的超长行OCR文本（未生成clean版），行号证据须以源文件为准，个别图片说明与正文混杂；引用须返回纸质版页码",
+    "以产品设计为中心、建筑篇幅偏大的结构（作者自认第一版问题）影响其作为全面史的使用边界",
+    "与中外通史（B0235、B0101/B0102）重复的通用史实只计一份P0，避免重复计证",
     "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
   ],
   "original_spot_checks": [
-    "clean第25—30行：导言——‘斯堪的纳维亚革命’命题定义：美国战后家具对北欧设计的深度借鉴",
-    "clean第90—100行：Design in Scandinavia巡展（1954—57，美国与加拿大）——事件、巡回城市与家具主导内容",
-    "clean第150—160行：MoMA与家具——Good Design展的家具主导性、Knoll与Herman Miller的MoMA关联",
-    "clean第210—220行：Eames模压胶合板椅（DCM/DCW 1946）与北欧有机形式的呼应",
-    "clean第270—280行：Wegner Round Chair（1949）与Wishbone椅——丹麦家具在美国市场的制度性成功",
-    "clean第330—340行：Jacobsen Series 7（1955）、Egg椅——丹麦现代家具的美国接受",
-    "clean第390—400行：Aalto（Paimio 1932、Stacking stool）与芬兰设计的美国传播",
-    "clean第450—460行：结语——‘跨大西洋家具设计共同体’：双向参照与共同市场"
+    "源文件L341—L359：乌尔姆设计学院（1953建院、马尔多纳多1954—1967、1968关闭）与布劳恩（1921成立、1954合作、1957米兰大奖、拉姆斯十原则）",
+    "源文件L319—L331：战后重建（英国工业设计协会1944、“英国能做到”展1946、设计中心1956、马歇尔计划、加尔布雷斯《丰裕社会》1958）",
+    "源文件L359—L373：美国世纪中叶（提格波音707、德雷夫斯1955/1960、诺尔/米勒、伊姆斯）；L375—L379：帕帕纳克1971、纳德尔1965/1966法案",
+    "源文件L381—L391：人体工程学历史（航空医学、霍桑效应、IEA 1958）",
+    "源文件L733—L771：日本（双轨制L757—759、民艺L739、审美范畴L735）；L773—L818：北欧（艾琳·凯L775、鲍尔逊L775、1930斯德哥尔摩展、1954—1957巡展L783、宜家L815）",
+    "源文件L615—L623：IDEO（1991年合并、以用户为中心）与苹果（1976成立、Macintosh 1984、iMac 1998）"
   ]
 }

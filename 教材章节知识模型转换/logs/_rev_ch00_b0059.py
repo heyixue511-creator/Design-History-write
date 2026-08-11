@@ -1,0 +1,54 @@
+# -*- coding: utf-8 -*-
+"""BATCH-009 CH00 语义复核：B0059 Buchanan & Margolin《The Idea of Design》。"""
+import json
+from pathlib import Path
+
+p = Path(r"D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-009-CH00-INTRO\review_data\B0059_review.json")
+p.parent.mkdir(parents=True, exist_ok=True)
+
+data = {
+    "source_id": "B0059",
+    "title": "The Idea of Design: A Design Issues Reader",
+    "author": "Victor Margolin, Richard Buchanan (eds.)",
+    "version": "The MIT Press，1995年（第二印次1996），ISBN 0-262-63166-0；全部论文原发表于《Design Issues》期刊1988—1993年",
+    "type": "设计研究论文集（P1，Design Issues十年文选）",
+    "scope": "设计学科性质与方法的22篇论文：反思设计（Buchanan邪恶问题/新自由艺术、Deforge设计化身、Findeli芝加哥新包豪斯、Frascara平面设计、Papanek设计伦理、Arnheim草图心理、Buchanan神话与成熟）、产品的意义（Krampen生态符号学、Tyler受众修辞、Csikszentmihalyi日常物意义、Balaram印度产品象征、Dilnot礼物、Krippendorff产品语义学）、设计与文化（Ghose亚洲中心—边缘、Fry权力地理学、Hirano日本亲历、A Cheng“线”、Selle德国批判、Maldonado舒适、Usherwood设计博物馆、Moles非物质性、Margolin产品环境）",
+    "duplicate_group": "无精确哈希重复；与B0108（Margolin《Design Discourse》1989）为同编者同系列读本（Design Issues文选），重合论文与命题只计一份P0；Buchanan四领域框架与B0290（The Idea of Design另一版本条目）可能重合，须核对",
+    "summary": "本书是《Design Issues》期刊创刊十年（1988—1993）的22篇代表性论文选集，编者Margolin与Buchanan在长篇导论中提出“激进系统多元主义”（radical systematic pluralism）纲领——不追求设计的统一哲学，主张多元视角的持续对话。第一部分“反思设计”：Buchanan提出设计作为技术文化中的新自由艺术、“置位学说”（placements）与邪恶问题理论（Wicked Problems，源自Rittel 1974）；Findeli研究芝加哥新包豪斯（1937—1946）的艺术—技术—科学三元课程；Papanek批判高技术功能主义。第二部分“产品的意义”：Krippendorff系统阐述产品语义学（意义作为认知建构，人工物五种本质语境：操作、社会语言、发生、生态、神话）；Krampen将Gibson的affordance（可供性）引入设计符号学；Csikszentmihalyi通过访谈发现日常家庭物品构建私人生活意义；Dilnot以“礼物”作设计的本体论类比；Balaram以甘地手纺车呈现印度产品象征主义。第三部分“设计与文化”：Fry以澳大利亚案例批判设计史的欧洲中心（权力地理学、边缘性作为批判位置）；Ghose分析亚洲设计的中心—边缘困境；A Cheng以中国“线”传统呈现未被现代化打断的文化连续性；Usherwood批判伦敦设计博物馆“形式追随资金”；Maldonado（乌尔姆核心人物）揭示“舒适”作为资本主义规训机制；Margolin提出“产品环境”概念扩展设计边界。",
+    "strengths": [
+        "0.1“设计”概念讨论的A级核心文献：Buchanan“设计作为新自由艺术”、设计四领域（符号与视觉传播/物质对象/活动与有组织服务/复杂系统或环境）、“置位学说”、邪恶问题理论、激进系统多元主义——设计学科性质与对象的经典框架",
+        "0.4人工物概念的理论深度：Krippendorff产品语义学（意义作为认知建构、五种本质语境）、Krampen可供性（生态符号学）、Dilnot“礼物”本体论、Csikszentmihalyi日常物意义——人工物如何承载意义的系统理论",
+        "0.3设计史书写的权力批判：Fry“权力地理学”（设计史为欧洲中心建构、边缘性作为批判位置、Geelong福特装配厂拟像文化）——从英雄谱系到关系史的后殖民批判资源",
+        "0.7全球模型的亚洲案例：Ghose中心—边缘模型（第一世界方法论主宰）、A Cheng中国“线”传统（书写与绘画同源、文化连续性）、Hirano日本设计四十年亲历——0.7扩散/流动/纠缠模型的第三世界视角",
+        "0.5/0.6制度批判样本：Usherwood“形式追随资金”（伦敦设计博物馆的赞助—展示—消费循环）、Selle德国设计政治批判——博物馆与制度偏差的教学案例",
+        "跨章可用：Maldonado“舒适作为规训机制”（新马克思主义物质文化分析，乌尔姆传统）；Papanek设计伦理（12.x）；Moles非物质性与物质基础设施的辩证（15.x）",
+        "理论谱系完整可追溯：Dewey、Simon（被批评）、McKeon、Peirce、Saussure、Gibson、Mauss、Rittel等均有明确出处与行号",
+    ],
+    "limits": [
+        "论文集体裁：22篇独立署名论文，立场多元甚至对立（编者明言不统一），引用须区分作者与篇目",
+        "1990s设计研究语境：以北美学术圈（Design Issues/MIT）为中心，欧洲大陆与亚洲学者的论文经英译或选编",
+        "理论建构性大于史料性：多数论文为理论/哲学/方法论建构，作为史料使用时其案例（如Geelong工厂、设计博物馆）须回一手档案",
+        "“激进系统多元主义”“新自由艺术”“置位”等为编者/作者建构概念，教材引用须标注命题身份",
+        "导论明确本书代表对前代“以对象为中心”话语（Loos/Gropius/Kaufmann/好设计论争）的转向，立场本身须与正典叙事并置",
+    ],
+    "checks": [
+        "packet 分析报告.md：4.1激进系统多元主义（L373-386）；4.2设计作为新自由艺术（L1015-1016）；4.3置位学说（L1217-1576）；4.4邪恶问题（Rittel 1974）",
+        "4.5产品语义学（Krippendorff L9430-10950）；4.6可供性（Krampen L5970-6125）；4.7舒适作为规训（Maldonado L14480-14649）",
+        "4.8产品环境（Margolin L15805-15900）；4.9边缘性政治（Fry L12180-12350）；4.10现代性与传统（Ghose、A Cheng）",
+        "6.3与前代设计话语的关系：从Loos/Gropius/Kaufmann到好设计论争的转向（L326-341）",
+        "7.5机构：Design Issues期刊1984创刊、IIT设计学院（芝加哥新包豪斯1949并入）、伦敦设计博物馆1989、乌尔姆1968关闭",
+    ],
+    "maps": [
+        ["0.1", "A", "design_as_new_liberal_art", "设计学科性质的核心框架：Buchanan“设计作为技术文化中的新自由艺术”、设计四领域（符号与视觉传播/物质对象/活动与有组织服务/复杂系统或环境）、“置位学说”、邪恶问题理论（Rittel 1974）、激进系统多元主义——0.1“设计”概念与学科对象讨论的经典文献", "作者建构框架（1995）；四领域划分广为引用但为启发式分类，教材引用须标注命题身份", "packet 分析报告.md 4.2—4.4", "ACCEPTED_AS_CORE_SOURCE"],
+        ["0.4", "B", "artifact_semantics_and_meaning", "人工物意义的系统理论：Krippendorff产品语义学（意义作为认知建构的关系、人工物五种本质语境：操作/社会语言/发生/生态/神话）、Krampen可供性（affordance为“意义的生态等价物”，基本/仪式化两类）、Csikszentmihalyi日常家庭物品构建私人生活意义——0.4“人工物如何成为史料”的意义侧理论", "理论建构性文献；应用于具体史料解读时须结合案例检验", "packet 分析报告.md 4.5—4.6", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+        ["0.3", "B", "geography_of_power_design_history", "设计史书写的权力批判：Fry“权力地理学”——设计史为欧洲中心建构、第二三世界近乎沉默、边缘性不是缺陷而是批判性位置（Geelong福特装配厂的拟像文化案例）——从英雄谱系到关系史的后殖民批判资源", "后殖民理论立场（德里达/Foucault/Said资源）；作为史学批判引用，非史料", "packet 分析报告.md 4.9", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+        ["0.7", "B", "center_periphery_and_asia_cases", "全球设计史的中心—边缘案例：Ghose亚洲中心—边缘模型（设计话语被第一世界方法论主宰）、A Cheng中国“线”传统（书写与绘画同源的文化连续性）、Hirano日本设计四十年亲历（从“没有设计师的国家”到设计强国）——0.7三种全球模型的亚洲视角", "论文集体裁：三位作者独立立场；亲历叙述（Hirano）为行动者证据须与其他档案互校", "packet 分析报告.md 4.10、7.3", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+        ["0.5", "C", "design_museum_institutional_critique", "博物馆制度批判样本：Usherwood“形式追随资金”（伦敦设计博物馆1989开幕、Conran基金会赞助、赞助—展示—消费循环）——0.5“档案/博物馆能证明什么”的批判案例", "单篇制度分析（1995年时点）；博物馆现状须更新核实", "packet 分析报告.md 7.3事件3、7.5机构4", "ACCEPTED_AS_CONTEXTUAL_SOURCE"],
+        ["0.6", "C", "selle_german_design_politics", "德国设计政治批判：Selle对本真性与审美伪装的意识形态批判（法兰克福学派资源）——0.6“机构偏差”的国别案例", "作者批判立场（格言式反讽文体），引用须标注立场", "packet 分析报告.md 第三部分Selle篇", "ACCEPTED_AS_CONTEXTUAL_SOURCE"],
+        ["7.4", "C", "maldonado_comfort_discipline_ulm", "乌尔姆传统的物质文化批判（跨章）：Maldonado“舒适作为资本主义社会的规训机制”（维多利亚住房改革、厨房泰勒化、浴室隐私建构）——乌尔姆核心人物的意识形态分析，7.4乌尔姆遗产的批判侧", "新马克思主义理论分析；历史案例（维多利亚住房改革）须回档案核实", "packet 分析报告.md 4.7、7.5机构5（HfG Ulm）", "ACCEPTED_AS_CONTEXTUAL_SOURCE"],
+        ["12.2", "C", "papanek_design_ethics", "设计伦理批判（跨章）：Papanek批判高技术功能主义忽视人类心理需求，提出环境—健康—社区的设计伦理——12.2“帕帕奈克与真实世界”的思想资源", "作者伦理主张（1995年时点）；与Papanek《为真实世界而设计》原著并置", "packet 分析报告.md 第一部分Papanek篇", "ACCEPTED_AS_CONTEXTUAL_SOURCE"],
+    ],
+}
+
+p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+print("B0059 完成, maps =", len(data["maps"]))

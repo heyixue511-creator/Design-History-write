@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-11T18:51:48+00:00",
-  "reviewed_source_count": 104,
+  "generated_at": "2026-08-11T20:01:39+00:00",
+  "reviewed_source_count": 127,
   "total_source_count": 589,
-  "reviewed_source_percent": 17.66,
-  "mapping_row_count": 1383,
-  "reviewed_section_count": 86,
+  "reviewed_source_percent": 21.56,
+  "mapping_row_count": 1603,
+  "reviewed_section_count": 97,
   "grade_counts": {
-    "A": 569,
-    "C": 222,
-    "X": 26,
-    "B": 553,
-    "D": 13
+    "A": 605,
+    "C": 299,
+    "X": 27,
+    "B": 654,
+    "D": 18
   },
   "verification_counts": {
-    "V2": 1383
+    "V2": 1603
   },
   "status": "IN_PROGRESS",
   "warning": "Only human-reviewed batch mapping CSV files are aggregated; absence from this index does not mean irrelevance."

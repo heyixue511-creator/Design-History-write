@@ -1,0 +1,73 @@
+{
+  "source_id": "B0240",
+  "corpus": "book",
+  "folder_name": "Judy Attfield：《Wild Things The Material Culture of Everyday Life》，2000",
+  "material_type": "物质文化研究／设计史理论专著（P1）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Judy Attfield：《Wild Things The Material Culture of Everyday Life》，2000_clean.md",
+  "clean_source_sha256": "62F55031595E3A65E8A09B2CD5E6ECCECBE0BE4190EF1C3814D47F37D5E0D151",
+  "duplicate_group": "无精确哈希重复；Attfield另撰B0440第十章（女性主义设计批评），同作者不同书；与B0311（Csikszentmihalyi《The Meaning of Things》）共享日常物意义研究谱系，同一对象P0只计一份；2020再版仅新增前言后记，命题以2000年版为基准",
+  "files": [
+    {
+      "report_file_count": 41,
+      "report_characters": 1347737
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "things_with_attitude_lowercase_design"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "things_as_physical_articulation"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "material_culture_turn_manifesto"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "good_design_dichotomy_critique"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "modernity_everyday_things"
+    },
+    {
+      "section_id": "12.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "gender_politics_of_taste"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "理论专著性质：概念建构（有态度的物、织理性等）为作者框架，教材引用须标注命题身份",
+    "英国语境：案例（Heal's家具目录、战后英国郊区、DIY文化）集中于英国经验，跨文化适用性须谨慎",
+    "2000年出版时点：数字物质文化（虚拟物、平台物）未涵盖",
+    "理论密度高：精神分析、现象学资源（Ch5、Ch8）解读有争议性，引用须说明理论立场",
+    "与B0311（The Meaning of Things）等共享日常物意义研究谱系，同一研究传统只计一份P0",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 00整体分析报告：L000.1.2.1概念贡献（有态度的物、小写设计、反设计、合理的家具、织理性）；L000.1.2.2方法论贡献（后学科、案例研究辩护、从物出发）",
+    "L000.1.2.3政治贡献：挑战好设计/坏设计二分法、品味论述中的阶级性别政治、消费者作为使用者/制作者",
+    "3.1第一级论题：物作为社会关系的物理表达与积极中介（“物在做事物而不仅仅是意味事物”）",
+    "2.3章节结构：三部九章的递进逻辑（概念奠基→主题展开→语境整合）",
+    "Ch4 Heal's“合理的家具”（1939目录）、Ch6梳妆台微观研究、Ch8时间哲学"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "B0313",
+  "corpus": "book",
+  "folder_name": "Mike Davis：《Late Victorian Holocausts El Nino Famines and the Making of the Third World》",
+  "material_type": "全球环境史／帝国政治经济学专著（P1）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Mike Davis：《Late Victorian Holocausts El Nino Famines and the Making of the Third World》_clean.md",
+  "clean_source_sha256": "BAF9A8535D311E0CA166BE3719C6266E6E726400F53FA93CAB9C068C12774AA5",
+  "duplicate_group": "无精确哈希重复；与全球史/帝国史文献（B0169 Cotton、B0209 Domesticating the World）共享世界市场整合与殖民地物质流动对象，同一对象P0只计一份；本书为政治经济学/气候史侧，非设计史专著",
+  "files": [
+    {
+      "report_file_count": 19,
+      "report_characters": 219124
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_global_critique"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "entangled_asymmetry_world_market"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "marginal_archives_from_below"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "source_asymmetry_self_disclosure"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "论辩性史学：全书以反叙事建构（官方叙事为靶子）推进，道德判断（“多重谋杀”类表述）与数据分析交织，引用须区分事实层与评价层",
+    "史料非对称性（作者自认）：印度部分最翔实，中国依赖传教士/领事档案与二手汉学（Pomeranz、Huang、Esherick），巴西最薄弱",
+    "气候决定论争议：批评者认为过度简化为“一切归咎于帝国主义”，低估前殖民时期饥荒严重性；部分年代学重建受气候史学者保留",
+    "非设计史专著：作为设计史教材的证据边界在“物质流动的制度后果”与“现代性批判”语境，不直接承载设计制度史命题",
+    "2001年出版时点：ENSO科学后续进展（如对部分重建的修正）未涵盖",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 00整体分析报告：L2核心命题（坏制度而非坏气候）；L4方法论（跨尺度因果链、比较历史社会学、档案重估）",
+    "三大核心论题：自然事件的社会转化论、第三世界政治经济学起源论、国家能力对比论",
+    "五个关键分论点：铁路悖论、粮食出口—死亡相关性、金本位致命性、灌溉的阶级政治、中国“区域分诊”",
+    "L5资料分层：地方英文档案（塔尖）/当代学术（中层）/间接翻译史料（塔底）；中国案例依赖传教士与领事档案",
+    "L2三角比较框架：印度（直接殖民）、中国（间接帝国控制）、巴西（非正式殖民地）在同一ENSO事件中的相似死亡率"
+  ]
+}

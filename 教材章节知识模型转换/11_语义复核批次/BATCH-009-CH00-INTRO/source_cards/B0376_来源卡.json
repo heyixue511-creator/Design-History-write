@@ -1,0 +1,81 @@
+{
+  "source_id": "B0376",
+  "corpus": "book",
+  "folder_name": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
+  "material_type": "广告文化史专著（P1）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》_clean.md",
+  "clean_source_sha256": "29536D58B09704096B6ECE114362AD9A1BA6C215DFB9E54209095C2765FBE786",
+  "duplicate_group": "无精确哈希重复；与B0376同主题的消费文化文献（B0394 Zukin、B0401 Sparke）存在对象级共享（美国消费文化、广告、现代性体验），同一对象P0只计一份；广告档案（JWT等）为本书引用的P0，教材引用须回到机构档案原件",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 129517
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "advertising_as_source_methodology"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "visual_cliches_and_social_tableaux"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "apostles_and_mediators_of_modernity"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "refraction_and_sample_bias_theory"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "therapeutics_and_consumption_politics"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "consumption_ethic_advertising"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "great_parables_consumer_logic"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "无法证明广告影响：作者自认广告效果（对受众的实际影响）不可证，本书证据限于广告生产端与文本端",
+    "样本偏差：约18万则广告为人工抽样统计，样本偏全国性杂志（地方报纸、非主流媒体覆盖不足）",
+    "时间与地域边界：1920—1940美国全国性广告，对1940年后与欧洲缺乏系统延伸",
+    "OCR噪声影响部分插图证据（图版与图说的识别），图像引用须返回纸质版",
+    "“大寓言”“治疗术”“无代价进步”等为作者分析范畴，教材引用须标注为Marchand框架而非史实描述",
+    "P4知识涌现只作语义路由；本书引用的大量广告为P0史料，教材引用广告本身须回机构档案或原刊",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean L148—L153、L212—L214：Zerrspiegel方法论（折射可校正）",
+    "clean L215—L228、L3342—L3343：使徒与调解者命题",
+    "clean L2206—L2928：消费伦理（色彩、风格、ensemble、现代艺术、摄影）",
+    "clean L3642—L4150：四则大寓言；L4151—L4960：视觉陈规与世俗圣像",
+    "clean L5777—L6173：治疗术与“绿灯”结语；L4961—L5776：大萧条重释（勇气商数、拳头意象）",
+    "clean L134：约18万则广告样本声明；L5—L37：JWT等机构档案"
+  ]
+}

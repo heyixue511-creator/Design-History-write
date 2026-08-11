@@ -1,0 +1,8 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0214,0.5,A,V2,critical_principles_image_evidence,图像证据批判理论：十条批判原则（没有平面对象是孤立的、越“自然”越有文化指示性、图像建构世界而非展示世界、意义是被创造的而非被传递的）——0.5“图像能证明什么、不能证明什么”的核心方法论文献,作者建构原则（2009）；应用于具体图像史料时须与图像原件并读,packet 00整体分析报告L023、L049,ACCEPTED_AS_CORE_SOURCE
+B0214,0.6,B,V2,self_deconstructing_timelines,"证据偏差的自觉处理：时间线作为“自我解构”工具（“Clearly partial, timelines call attention to the framing effects of editing and to the artifice of any history”）、批判性原则明确方法论化——0.6证据偏差的教材范本",作者自觉（后现代史学意识）；时间线选择性为作者自认,packet 00整体分析报告L044、L016—L017,ACCEPTED_AS_SUPPORTING_SOURCE
+B0214,0.3,B,V2,critical_guide_vs_master_narrative,关系史方法的教材化：从“风格与大师的谱系”（Meggs式）转向“文化实践与社会力量的分析”、风格史即文化史、设计师身份作为历史建构——0.3从英雄谱系到关系史的平面设计侧样本,教材方法定位（2009）；与Meggs/Hollis教材并置使用,packet 00整体分析报告L043、L021,ACCEPTED_AS_SUPPORTING_SOURCE
+B0214,0.2,C,V2,anti_technological_determinism,反技术决定论：“技术不决定社会或形式的变化；它在变化的文化环境中运作”（电气化并不创造数字媒介的类比）——0.2现代化与技术关系讨论的资源,作者论点；技术史细节（印刷革命等）须与专门技术史互校,packet 00整体分析报告L020、L050,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0214,0.5,C,V2,timelines_and_tools_of_trade,史料组织创新：时间线（设计事件与政治/文化/科技并列）＋工具清单（各时期媒介、工具与材料）作为物质条件的参考框架——0.5“图像、档案与物质痕迹”的教材组织范本,教学工具性质；时间线选择性与工具清单范围以本书为准,packet 00整体分析报告L033、L038,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0214,0.7,C,V2,western_centric_self_critique,全球模型缺失的自我披露：作者承认非西方设计传统边缘化（“普遍性”被列为高度可疑但自身叙事框架仍西方中心）——0.7三种全球模型的自我批判样本,作者自认局限；非西方设计史须以专门文献补充,packet 00整体分析报告L016、L126,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0214,9.5,C,V2,corporate_identity_design_history,企业身份的平面设计史（跨章）：CBS眼睛标志（William Golden 1950）、Unimark International（1960s“通用”设计语言）、Émigré杂志——9.5企业形象系统化的教材叙述,教材二手叙述；企业档案细节须以专门研究互校,packet 00整体分析报告L079、L097—L099、L119,ACCEPTED_AS_CONTEXTUAL_SOURCE

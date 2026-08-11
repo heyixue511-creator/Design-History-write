@@ -1,0 +1,85 @@
+{
+  "source_id": "B0059",
+  "corpus": "book",
+  "folder_name": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+  "material_type": "设计研究论文集（P1，Design Issues十年文选）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995.md",
+  "clean_source_sha256": "E3CEFF092D3A004FDAA8BC3F7F70DAD20B0DF01C4B32B1B80A806ABBD4D3ABE9",
+  "duplicate_group": "无精确哈希重复；与B0108（Margolin《Design Discourse》1989）为同编者同系列读本（Design Issues文选），重合论文与命题只计一份P0；Buchanan四领域框架与B0290（The Idea of Design另一版本条目）可能重合，须核对",
+  "files": [
+    {
+      "report_file_count": 31,
+      "report_characters": 182958
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_as_new_liberal_art"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "artifact_semantics_and_meaning"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "geography_of_power_design_history"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "center_periphery_and_asia_cases"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_museum_institutional_critique"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "selle_german_design_politics"
+    },
+    {
+      "section_id": "7.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "maldonado_comfort_discipline_ulm"
+    },
+    {
+      "section_id": "12.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "papanek_design_ethics"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "论文集体裁：22篇独立署名论文，立场多元甚至对立（编者明言不统一），引用须区分作者与篇目",
+    "1990s设计研究语境：以北美学术圈（Design Issues/MIT）为中心，欧洲大陆与亚洲学者的论文经英译或选编",
+    "理论建构性大于史料性：多数论文为理论/哲学/方法论建构，作为史料使用时其案例（如Geelong工厂、设计博物馆）须回一手档案",
+    "“激进系统多元主义”“新自由艺术”“置位”等为编者/作者建构概念，教材引用须标注命题身份",
+    "导论明确本书代表对前代“以对象为中心”话语（Loos/Gropius/Kaufmann/好设计论争）的转向，立场本身须与正典叙事并置",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 分析报告.md：4.1激进系统多元主义（L373-386）；4.2设计作为新自由艺术（L1015-1016）；4.3置位学说（L1217-1576）；4.4邪恶问题（Rittel 1974）",
+    "4.5产品语义学（Krippendorff L9430-10950）；4.6可供性（Krampen L5970-6125）；4.7舒适作为规训（Maldonado L14480-14649）",
+    "4.8产品环境（Margolin L15805-15900）；4.9边缘性政治（Fry L12180-12350）；4.10现代性与传统（Ghose、A Cheng）",
+    "6.3与前代设计话语的关系：从Loos/Gropius/Kaufmann到好设计论争的转向（L326-341）",
+    "7.5机构：Design Issues期刊1984创刊、IIT设计学院（芝加哥新包豪斯1949并入）、伦敦设计博物馆1989、乌尔姆1968关闭"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source_id": "B0108",
+  "title": "Design Discourse: History, Theory, Criticism",
+  "author": "Victor Margolin (ed.)",
+  "version": "The University of Chicago Press，1989年；20篇论文原载《Design Issues》第1卷1期—第3卷2期（1984—1986），部分译自德、意、法文",
+  "type": "设计研究论文集（P1，Design Issues早期文选）",
+  "scope": "1980年代国际设计理论对现代主义范式的全面反思：第一部分“现代主义者之后”（Vitta物件符号化、Branzi“我们是原始人”、Morgantini第三技术世代、Burkhardt德国设计理论15年、Selle“没有媚俗只有设计”、Diani办公室自动化、Moles全面保障）；第二部分“设计的阐释”（Buchanan设计论证修辞学、Rams减法哲学、Porch数字手表批判、Moles世界可读性、Kinross铁路时刻表、Lupton Isotype解构、Butler抽象形式批判、Williamson网格谱系、Ehses修辞格、Ashwin符号学绘图理论）；第三部分“书写设计史”（Dilnot设计史方法论反思、Buckley女性主义设计史批判）；结语“战后设计文献初步地图”",
+  "duplicate_group": "与B0059（Margolin/Buchanan《The Idea of Design》1995）为同编者同系列Design Issues文选，重合论文与命题只计一份P0（Buchanan修辞学、Moles等作者跨两书）；Dilnot设计史反思与B0273（Design History Reader）收录的Dilnot 1984辩论为同一学科史对象",
+  "summary": "本书是设计研究领域的奠基文集（1989，芝加哥大学出版社）：Margolin汇集《Design Issues》期刊创刊期（1984—1986）的20篇论文，以“设计话语”（design discourse）为核心概念。导论论证“设计研究”（Design Studies）作为新兴学科的必要性，援引Herbert Simon“人工科学”的广义设计定义（“所有旨在将现有状态转变为更可取状态的行动方案制定”），并主张设计理论与社会理论结合。第一部分批判与超越现代主义：Branzi“我们是原始人”宣告宏大叙事终结、Selle“没有媚俗，只有设计”为大众日常美学辩护、Morgantini“第三技术世代——心灵假体”。第二部分聚焦设计意义的生产与解读：Buchanan将古典修辞学框架系统应用于设计（技术推理logos、对象品格ethos、情感效果pathos）、Rams以Braun实践阐述“省略不重要之物”、Kinross以铁路时刻表挑战“中性信息”神话、Lupton对Isotype的符号学与意识形态解构。第三部分：Dilnot对设计史学科第一次全面方法论反思（四种传统分类：装饰艺术史、现代主义研究、设计组织研究、设计的社会关系研究；批评设计史的“神话化”倾向，提出设计史作为社会文化历史的“透镜”）；Buckley从女性主义揭示父权制如何系统排斥女性于设计史叙事（排斥手工艺、忽视使用价值、性别化设计技能）。结语提供“战后设计文献初步地图”（美/西德/瑞士/英/意，1945—1980s）。",
+  "strengths": [
+    "0.1设计研究学科论证的原始文本：Margolin导论（Design Studies必要性、Simon人工科学定义、设计理论须与社会理论结合）、Buchanan设计论证修辞学（logos/ethos/pathos三元）——0.1“设计”概念与学科性质的奠基文献",
+    "0.3设计史方法论反思的开端：Dilnot四种传统分类（装饰艺术史、现代主义研究、设计组织研究、设计的社会关系研究）、“神话化”倾向批判、设计史作为社会文化历史“透镜”（Benjamin/Baxandall资源）——关系史转向的早期方法论文本",
+    "0.6女性主义设计史批判的经典：Buckley揭示父权制排斥女性的四种机制（排斥手工艺、忽视使用价值、性别化设计技能、劳动性别分工）——0.6“缺席者”与12.6的核心文献",
+    "0.5信息与图像证据批判：Kinross“中性信息”神话（铁路时刻表）、Lupton对Isotype的符号学解构——0.5“图像/信息能证明什么”的批判案例",
+    "0.2后现代状况宣言：Branzi“我们是原始人”（宏大叙事终结）、Vitta物件符号化、Selle“没有媚俗只有设计”——0.2现代性/后现代边界的原始文本",
+    "7.5跨章可用：Rams“省略不重要之物”（Braun实践）为7.5联邦德国企业设计的行动者陈述；Burkhardt德国设计理论15年八种倾向为7.4/7.5理论史资源",
+    "结语“战后设计文献初步地图”为国别（美/西德/瑞士/英/意）与主题（设计方法、符号学、消费研究、设计管理）的文献盘点，可作教材参考文献导航"
+  ],
+  "limits": [
+    "1980s时点与论坛性质：论文为1984—1986年《Design Issues》早期作品，编者明言保留期刊“论坛”特质（多元立场并存甚至对立），引用须区分作者与篇目",
+    "翻译中介：部分论文经德/意/法译英，论证语法的原味损失，引用须返回原文",
+    "宣言体文本（Branzi、Selle）修辞性强，其论断（“没有媚俗”“我们是原始人”）为立场声明而非史实",
+    "与B0059（1995读本）重合命题不重复计证；Dilnot/Buckley论文另见于其他文选",
+    "英语世界视角：以欧美理论为主，亚洲/拉美设计话语未覆盖"
+  ],
+  "checks": [
+    "packet 分析报告.md：二、内容摘要（三部分结构）；导论（Design Studies必要性、Simon定义）",
+    "Dilnot四种传统分类与“神话化”批判；Buckley父权制排斥机制（排斥手工艺、忽视使用价值、性别化设计技能）",
+    "Buchanan设计论证修辞学（logos/ethos/pathos）；Rams“省略不重要之物”；Kinross“中性信息”神话；Lupton Isotype解构",
+    "Branzi“我们是原始人”；Selle“没有媚俗只有设计”；Morgantini“第三技术世代——心灵假体”",
+    "结语：战后设计文献初步地图（国别与主题分类）"
+  ],
+  "maps": [
+    [
+      "0.1",
+      "B",
+      "design_studies_discipline_argument",
+      "设计研究学科论证的原始文本：Margolin导论（Design Studies必要性、Simon“人工科学”广义设计定义、设计理论须与社会理论结合）、Buchanan设计论证修辞学（技术推理/对象品格/情感效果）——0.1“设计”概念与学科性质的奠基文献",
+      "编者论证（1989）；Simon定义引用须回《人工科学》原著；与B0059（1995）重合命题不重复计证",
+      "packet 分析报告.md 导论部分、Buchanan篇",
+      "ACCEPTED_AS_SUPPORTING_SOURCE"
+    ],
+    [
+      "0.3",
+      "B",
+      "dilnot_design_history_methods",
+      "设计史方法论反思的开端：Dilnot将设计史学实践分类为四种传统（装饰艺术史、现代主义研究、设计组织研究、设计的社会关系研究）、批评设计史“神话化”倾向、提出设计史作为社会文化历史的“透镜”（Benjamin/Baxandall资源）——关系史转向的早期方法论文本",
+      "单篇长文（Dilnot）；四种传统分类为作者建构，学科史事实须与后续发展（Walker/Lees-Maffei）并置",
+      "packet 分析报告.md 第三部分Dilnot篇",
+      "ACCEPTED_AS_SUPPORTING_SOURCE"
+    ],
+    [
+      "0.6",
+      "B",
+      "buckley_feminist_history_critique",
+      "女性主义设计史批判的经典文本：Buckley揭示父权制系统排斥女性于设计史叙事的机制（排斥手工艺、忽视使用价值、性别化设计技能、劳动性别分工）——0.6“证据偏差与缺席者”及12.6的核心文献",
+      "作者分析（1986年原文）；与Attfield（B0240/B0440）的系统批判并置",
+      "packet 分析报告.md 第三部分Buckley篇",
+      "ACCEPTED_AS_SUPPORTING_SOURCE"
+    ],
+    [
+      "0.5",
+      "C",
+      "information_neutrality_myth",
+      "信息与图像证据批判：Kinross以铁路时刻表挑战“中性信息”神话（信息设计总是带有选择与立场）、Lupton对Isotype的符号学与意识形态解构——0.5“图像/信息能证明什么”的批判案例",
+      "单篇案例（时刻表/Isotype）；Isotype史实须与Neurath档案互校",
+      "packet 分析报告.md 第二部分Kinross/Lupton篇",
+      "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+    ],
+    [
+      "0.2",
+      "C",
+      "postmodern_manifesto_texts",
+      "后现代状况的原始宣言：Branzi“我们是原始人”（宏大叙事终结、设计服务于身份建构而非功能进步）、Vitta物件符号化、Selle“没有媚俗只有设计”（大众日常美学辩护）——0.2现代性/后现代边界的原始文本",
+      "宣言体文本：修辞立场非史实陈述，引用须标注文体性质",
+      "packet 分析报告.md 第一部分Branzi/Vitta/Selle篇",
+      "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+    ],
+    [
+      "7.5",
+      "C",
+      "rams_braun_minimalism_statement",
+      "联邦德国企业设计行动者陈述（跨章）：Rams以Braun实践阐述“省略不重要之物”的减法哲学——7.5布劳恩/拉姆斯线的行动者原典（与B0235/B0503二手叙述互校）",
+      "行动者自述（P0性质）；十原则完整版本须与Rams后续文本核对",
+      "packet 分析报告.md 第二部分Rams篇",
+      "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+    ]
+  ]
+}

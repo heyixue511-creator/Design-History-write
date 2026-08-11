@@ -1,0 +1,7 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0440,0.1,A,V2,design_history_vs_history_of_design,学科与对象之辨：设计史（学科）与设计的历史（对象）的区分、“design”一词多义（过程/结果/产品/外观，家族相似）、研究对象扩展至设计过程/机构/生产—消费系统——0.1“设计”概念讨论的元理论框架,作者建构的学科框架（1989年时点）；概念史细节（design词义演变）须与词典史文献互校,源文件L111、L328—L330、L508,ACCEPTED_AS_CORE_SOURCE
+B0440,0.3,B,V2,anti_monographic_relational_history,关系史转向的理论依据：monograph/传记写作遮蔽设计的社会性与集体性（个人主义意识形态）、设计品是“关系束的纽结”而非终点、Giedion匿名史/类型史传统——从英雄谱系到关系史的方法论支柱,作者立场（批判理论/唯物主义）；作为史学方法论文献引用，非史料,源文件L512—L556、L626、L530,ACCEPTED_AS_SUPPORTING_SOURCE
+B0440,0.6,B,V2,canon_construction_and_symptomatic_reading,正典与偏差理论：canon为经典化的社会建构过程、症候式阅读（关注文本“未说”之处）、历史写作的选择性不可避免、垃圾理论（价值流动）——0.6证据偏差与正典批判的理论资源,理论框架（1989）；应用于具体史料时须结合案例检验,源文件L642—L648、L127、L1871—L1887,ACCEPTED_AS_SUPPORTING_SOURCE
+B0440,0.5,B,V2,source_types_for_design_history,史料类型系统清单：实物、档案（公司档案、Silver Studio Collection、Archive of Art and Design）、口述史（访谈、Mass Observation档案）、图像（广告、时装插画、时尚版画）的设计史适用性评析——0.5各史料类型“能证明什么、不能证明什么”的方法论框架,方法论文献；史料适用性判断为1989年学科共识的总结，须与具体档案实践并置,源文件L159、L163、L929,ACCEPTED_AS_SUPPORTING_SOURCE
+B0440,0.7,C,V2,national_history_scope_self_critique,全球设计史模型的反面教材：国族史方法讨论限于西方发达国家，作者自认第三世界缺席——0.7三种全球模型（扩散/流动/纠缠）中“欧洲中心国族史”局限的自我供述,作者自述局限，可作0.7批判扩散模型的引证；非全球史专著,源文件L1203、L99,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0440,12.6,C,V2,feminist_critique_of_design_history,女性主义设计批评（Attfield章）：女性主义是“政治而非方法”，质疑设计史的定义、对象、价值与作者身份，“women-designers式补漏不改变等级制”——12.6女性主义设计批评的学科批判资源（跨章）,Attfield独立署名章；作为学科批判立场引用，与B0240（Wild Things）互参,源文件L1947—L2219、L1951,ACCEPTED_AS_CONTEXTUAL_SOURCE

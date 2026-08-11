@@ -1,0 +1,129 @@
+{
+  "source_id": "B0401",
+  "corpus": "book",
+  "folder_name": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+  "material_type": "设计文化通论",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Sparke：《An introduction to design and culture _ 1900 to the present，2020》.md",
+  "clean_source_sha256": "AF0CA6FBF040FF0D9B105D3C5D72887471B4C82EA2C1601C4A5560EC5C2718BE",
+  "duplicate_group": "与B0398（1986首版）为版本族：重合命题不独立计证，只承担新版增量",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 166267
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "7.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_educate_consumer_taste"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_arbitrate_good_design"
+    },
+    {
+      "section_id": "7.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_continue_bauhaus_legacy"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_rebrand_via_corporate_design"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_technology_led_identity"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_bridge_production_consumption"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_define_design_culture_framework"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_consume_modernity"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_professionalise_commercial_design"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_postwar_consumer_society"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_brand_consumer_culture"
+    },
+    {
+      "section_id": "11.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_critique_modernism"
+    },
+    {
+      "section_id": "11.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_postmodern_design_practice"
+    },
+    {
+      "section_id": "11.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_japanese_postmodern_path"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "版本存疑：文件名标注2020，但版权页（L29 Second Edition、L72 ISBN 0-415-26335-2）与分析报告均按2004年第二版核实；无2020年第五版文本证据，21世纪内容止于2000年代初（2002年Ingeni），引用年份应以2004二版为准",
+    "版本族去重：与B0398（1986首版）同族，重合命题——设计=生产/消费双重联盟、现代主义霸权、消费文化主线——不独立计证；本来源只承担二版增量与新判断（软现代主义、good design话语衰落叙事、后现代内容）",
+    "通论二手综合：制度史实（CoID成立年份、Good Design展年份、Ulm校史年份）可用，但评价性判断（好设计=好品味、软现代主义、民族身份沦为语言装置）均为作者命题，不作独立史实证据",
+    "乌尔姆覆盖薄弱：正文仅L1143（教育）、L1219（Maldonado符号学）、L1234（Ulm与Braun复兴理性主义受挫）三处零散提及，校史梗概只存于Glossary词条（L2430），无专章论述——7.4仅作CONTEXT_ONLY，不承担主干证据",
+    "日本战后覆盖依赖作者自著《Japanese Design》(1987)的一段综合（L1296）加Ch7技术叙事（L1039-1063），无G-Mark、日本设计振兴机构等制度细节，7.7命题边界窄",
+    "与B0101/B0102重复的通用史实（包豪斯、Werkbund、1939纽约世博会、流线型、Loewy/Teague咨询设计师）只计一份，本书不作为这些事实的独立来源",
+    "时空偏斜：地理视野以英美-西欧为中心（作者自承1986版没有超越大都市或西方工业化世界，L671），日本、东亚、东欧篇幅有限，不能支撑全球性命题",
+    "P4声明：本包知识涌现分析（P4）仅作语义路由参考；其意大利vs日本、MoMA Good Design制度化等二级命题未经独立史料核验，不纳入证据链；本复核所有映射与checks均以clean原文行号回查为准",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第746行：good design概念是现代主义道德遗产，其压倒性特征是道德律令，并主导战后设计讨论；引Greenhalgh任何形式的幻象或伪装都等于谎言",
+    "clean第892行：Council of Industrial Design于1944年由联合政府贸易部成立，工作重点是教育消费者品味；女性被突出为全国主要购物者，引Mort的男性服装消费研究",
+    "clean第912行：战后零售与好设计制度——好设计即好品味；美国MoMA办Good Design系列展、英国CoID借大众传媒推广、丹麦Den Permanente设计改革机构加设零售点",
+    "clean第1121行：MoMA在Kaufmann Jr策展下成为战后国际公认的品味仲裁者，good design等同于modern design；Kaufmann强调integrity、clarity、harmony并断言Streamlining is not good design；Hille在MoMA发现Robin Day",
+    "clean第1294行：引Pulos两卷本；MoMA与芝加哥Merchandising Mart合作，1950年Kaufmann Jr应Mart请求启动六届年度Good Design展（1950-55）；家具家居主导且多为斯堪的纳维亚起源；两种美国设计文化（客厅欧式vs街头本土）；MoMA 1951/1953两次汽车展试图弥合鸿沟",
+    "clean第1282-1290行：引Huygen英国性特征与作者自编1986年文集（1946 Britain Can Make It展40周年纪念）；Design Council战后家长式角色与Gordon Russell、Paul Reilly推动的软现代主义；Habitat 1964年开店；1951年Festival of Britain由工党构思、保守党实现，以Contemporary风格团结国家",
+    "clean第1304行：Rat für Formgebung主持Gute Form（好形式）系列展，延续Bauhaus成就；Braun AG与Bosch AG定义理性技术性格；Braun与Dieter Rams合作巩固工程良好、设计良好、新现代技术消费品的声誉；Wagenfeld桥接战前战后；AEG延续理性主义；1954年米兰三年展呈现高效勤勉的德国形象",
+    "clean第1296行：德国、意大利、日本战后以现代设计锻造新身份；两国无政府集中计划，制造商/设计师/专业组织合力；Bauhaus与现代运动影响需与美国批量生产造型模式平衡；意大利强调美术取向、日本依赖先进技术；意大利以小型家族制造抵制福特模式、日本以分包系统结合大小企业",
+    "clean第1039-1045行：1970s日本高科技消费品（Sony、Sharp、Canon、Toshiba、Hitachi）依赖自动化生产，外观反映高科技环境（黑银色、控制面板如太空舱）；高科技美学经Kron & Slesin《High-Tech》命名；Sony Walkman（1982上市）改变听音乐、逛街、乘地铁等行为模式",
+    "clean第1219与1234行：乌尔姆的Maldonado等教师发展符号学/设计语言学（引Dorfles、Moles）；Ulm与Braun试图复兴战前理性主义，到1960s已失去修辞威力，沦为民族身份与现代化的标志和文化资本高含量的风格声明"
+  ]
+}

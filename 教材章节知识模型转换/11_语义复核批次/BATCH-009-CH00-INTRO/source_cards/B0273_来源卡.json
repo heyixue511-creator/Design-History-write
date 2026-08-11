@@ -1,0 +1,79 @@
+{
+  "source_id": "B0273",
+  "corpus": "book",
+  "folder_name": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
+  "material_type": "设计史学科文选（P1）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010_clean.md",
+  "clean_source_sha256": "9130F58FA1F61C330CD940EF500B383CB5410B5D7D40BC320D0029C4F7BE20FB",
+  "duplicate_group": "与B0417（同书另一资产条目）为同一书目对象，只计一份P0，本条目承担全部命题；与B0440（Walker 1989）、B0183（Conway 1987）为学科方法论文献族，学科史对象（Walker的区分、Dilnot辩论）只计一份P0",
+  "files": [
+    {
+      "report_file_count": 89,
+      "report_characters": 192389
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_history_discipline_debate"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "contextualization_turn_statement"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "primary_secondary_quasi_primary_sources"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "disciplinary_self_reflection"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "globalization_call_section12"
+    },
+    {
+      "section_id": "12.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "gender_section_good_design_critique"
+    },
+    {
+      "section_id": "12.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "sustainability_section"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "文选性质：全部为已发表文本节录，节选可能脱离原始论证语境；引用须回原文本",
+    "西方中心：核心文本集中于英美西欧（编者自认），Section 12仅预示方向而非提供全球史",
+    "编者立场：导言为学科建设行动（编者介入性叙述），其“学科成熟”判断本身是2010年时点的立场声明",
+    "2010年出版时点：近十年设计史发展（数字设计史、去殖民转向等）未涵盖",
+    "与B0417为同书两条目：引用与计证只按一个书目实体处理",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 00整体分析报告：3.1学科身份辩论（Dilnot 1984/Walker 1989）；3.2三重关切（生产/消费/中介）；3.3全球化与西方中心张力；3.5一次/二次文献辩证",
+    "4.2关键转折：风格史→语境化理解、生产者中心→消费/中介转向、好设计标准→多元价值、西方叙事→全球化意识",
+    "7.2原文摘录：L5“What is design history and what should it be?”、“This Reader reflects what design history has been, not what it should have been”",
+    "8.机构：Design History Society 1977、Journal of Design History、Design Issues、Design and Culture 2009",
+    "9.跨章节关联：Section 7核心枢纽、Section 9/10理论共振、Section 6与1-4时间对话"
+  ]
+}

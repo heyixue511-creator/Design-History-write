@@ -1,0 +1,8 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0376,0.5,A,V2,advertising_as_source_methodology,广告作为史料类型的方法论奠基：Zerrspiegel（可校正折射的哈哈镜）理论、约18万则杂志广告＋广告业内部档案（JWT、Ayer、BBDO）＋行业期刊＋社会调查的多层证据设计——广告能证明广告人的想象、策略与文本形态，不能证明受众接受效果,方法论文献：证据边界（生产端与文本端可证、效果端不可证）由作者明示；教材引用广告史料须回机构档案或原刊,clean L148—L153、L212—L214、L134,ACCEPTED_AS_CORE_SOURCE
+B0376,0.5,B,V2,visual_cliches_and_social_tableaux,图像证据解读工具：视觉陈规（办公室窗、家庭圈、未来城市、永恒村庄、庄严光束）与社会舞台布景（性别、阶级、仆人意象）的类型学——图像史料的系统解读方法样本,类型学为作者分析范畴；图像解读结论须与图像原件并读，OCR噪声影响部分图版,clean L4151—L4960、L2929—L3641,ACCEPTED_AS_SUPPORTING_SOURCE
+B0376,0.2,B,V2,apostles_and_mediators_of_modernity,现代性体验命题：广告人既是“现代性使徒”（推销新）又是“现代性调解者”（安抚旧），广告同时推动与缓解美国人对现代生活的不适——现代性、现代化与广告媒介关系的美国案例,作者命题（全书脊柱）；作为现代性体验的案例引用，不与欧洲现代性理论混同,clean L215—L228、L3342—L3343,ACCEPTED_AS_SUPPORTING_SOURCE
+B0376,0.6,B,V2,refraction_and_sample_bias_theory,证据偏差理论化样本：样本偏全国性杂志、统计为人工抽样、效果不可证等局限被正面纳入“折射校正”方法论——0.6“证据偏差”的教学范本（偏差本身成为可分析对象）,作为方法论语料而非数据来源；其抽样与统计说明仅适用于本书范围,clean L210—L214、L134,ACCEPTED_AS_SUPPORTING_SOURCE
+B0376,0.6,C,V2,therapeutics_and_consumption_politics,“治疗术”与消费收编政治：广告以建议、拟似亲密与“低吟”式语言填补现代社会的“建议真空”，把经济危机处理为性格考验（勇气商数、拳头意象）——消费社会批判资源,作者分析框架（治疗术、无代价进步）；批判性命题引用须标注立场,clean L5777—L6173、L4961—L5776,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0376,5.2,C,V2,consumption_ethic_advertising,消费伦理机制：色彩、风格、成套搭配、现代艺术与摄影把实用品变成时尚品，与工作伦理形成悖论——美国大众消费体系中广告功能机制的证据（跨章）,本书证据限于1920—1940全国性广告文本；机制推广到其他时期须谨慎,clean L2206—L2928,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0376,9.1,C,V2,great_parables_consumer_logic,四则大寓言（第一印象、物品民主、文明救赎、被俘获孩子）把美国梦重构为“通过消费无代价地抵达现代”的生活逻辑——消费社会意识形态机制（跨章）,作者分析范畴；作为意识形态解读引用而非广告史事实,clean L3642—L4150,ACCEPTED_AS_CONTEXTUAL_SOURCE

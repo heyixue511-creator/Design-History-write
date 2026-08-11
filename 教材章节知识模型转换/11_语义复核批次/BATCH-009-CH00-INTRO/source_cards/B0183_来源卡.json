@@ -1,0 +1,73 @@
+{
+  "source_id": "B0183",
+  "corpus": "book",
+  "folder_name": "Hazel Conway：《Design history a students handbook》",
+  "material_type": "设计史学科方法论文册（P1）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Hazel Conway：《Design history a students handbook》_clean.md",
+  "clean_source_sha256": "5C43DE79583B1D4C580D9025EF7890B321E1939DFD8119EBA3C030F4D13F6FF8",
+  "duplicate_group": "无精确哈希重复；与B0440（Walker《Design History and the History of Design》1989）为互补姊妹篇（英语世界第一、二本设计史方法论导论），同一学科史对象只计一份P0；Heskett（Ch6作者）另著有B0189《Industrial design》，同作者不同书",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 159857
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_history_discipline_handbook"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "heroic_approach_critique"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "survival_bias_and_object_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "source_guides_and_oral_history"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "evidence_evaluation_criteria"
+    },
+    {
+      "section_id": "12.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "women_in_design_history"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "欧洲中心：全书以英国/西欧经验为主体框架（作者自认），非西方传统仅提及未展开——0.7全球模型缺口侧",
+    "1987年时效性：出版后设计史学已有重大发展（全球化研究、数字设计史、物质文化转向），方法论部分判断已过时",
+    "章节整合度有限：各章作者学科背景差异导致方法论述缺乏统一理论语言（主编自认领域划分“在许多方面是人为的”）",
+    "消费端薄弱：全书提示关注使用者但对消费者/使用者研究的系统论述不足",
+    "源文件为扫描文本（OCR），第4/5章边界模糊，引用须返回纸质版页码",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "packet 00整体分析报告：命题一至六（语境理解、对象—过程—社会三维、风格分析必要不充分、跨学科、英雄叙事批判、原始材料一手经验）",
+    "生存偏差：第1/2/4/5章反复出现（“很少有18世纪以前的服装标本幸存”“中下阶层家具大多无文献记录”）",
+    "Heskett对Pevsner 1937年论断的批判（第6章）；Hepplewhite案例（第4章）",
+    "Conway二手文献评估四标准（第1章）；Aynsley符号学方法（第7章）",
+    "女性维度：第2/4/5/8章（服装与女性历史、女性设计师被隐藏）"
+  ]
+}
