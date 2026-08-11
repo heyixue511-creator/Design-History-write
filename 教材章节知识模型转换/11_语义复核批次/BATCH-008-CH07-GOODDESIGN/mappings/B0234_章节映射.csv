@@ -1,0 +1,8 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0234,7.2,B,V2,coid_dict_entry,CoID条目：1944年成立、教育消费者品味职能、1956年Haymarket设计中心、1972年更名Design Council,条目为二手综合，年份/职能可快速参照；深度论证须回专史,clean第120—128行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0234,7.3,B,V2,good_design_dict_entry,Good Design条目：1940s—50s话语、MoMA Good Design展（1950—55）、Kaufmann Jr.角色,条目综合为编者判断；展览年份可快速参照,clean第200—210行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0234,7.4,B,V2,hfg_ulm_dict_entry,HfG Ulm条目：1953年建校、Bill/Maldonado、1968年关闭、科学化设计方法,条目史实可快速参照；‘影响’评价为编者判断,clean第280—290行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0234,7.7,B,V2,g_mark_dict_entry,G-Mark条目：1957年通产省设立、优良设计奖、日本设计振兴制度,条目为快速参照；日本设计振兴成效须回专史,clean第340—350行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0234,7.5,B,V2,rat_fuer_formgebung_dict_entry,Rat für Formgebung条目：1953年成立、Gute Form展览、德国设计委员会职能,条目为快速参照；Gute Form话语分析须回B0253专史,clean第400—410行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0234,7.5,B,V2,braun_rams_dict_entries,Braun条目（1921年成立、1950s与Rams合作）与Dieter Rams条目（1955年入Braun、1961年任设计总监、less but better原则）,条目为快速参照；Rams哲学分析须回B0253/B0401,clean第450—460、500—510行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0234,0.5,C,V2,reference_work_evidence_role,词典作为工具书在证据体系中的定位：承担快速参照与术语锚定，不承担深度论证证据,工具书体裁决定证据等级；正式引用须交叉验证,clean第10—15行,CONTEXT_ONLY

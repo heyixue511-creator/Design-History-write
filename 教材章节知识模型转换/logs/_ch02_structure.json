@@ -1,0 +1,1642 @@
+{
+ "4.1": {
+  "grades": {
+   "A": 13,
+   "B": 3,
+   "C": 3
+  },
+  "count": 19,
+  "items": [
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "craft_education_critic",
+    "accepted_claim": "对奥地利应用艺术学校背离工艺、攀附纯艺术的批评，主张“革命必须来自底层——作坊”",
+    "evidence_boundary": "证明Loos的批评主张，不证明学校实况；作为改革联盟前史的行动者立场",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "english_modernity_model",
+    "accepted_claim": "以英国（伦敦）为中产阶级现代性标杆，对比法式宫廷传统，推崇英国实用导向工艺",
+    "evidence_boundary": "行动者立场；其英国中心主义忽视殖民地条件系分析报告指出的局限",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "aeg_corporate_identity_coordination",
+    "accepted_claim": "1907—1914年AEG将建筑、产品、商标与宣传物料整体委托Behrens协调，形成覆盖“一切可见之物”的企业识别与产品—传播—空间系统",
+    "evidence_boundary": "企业档案与A/P/G三系列编目可证委托范围与实施；“工业文化”“一切可见之物”为Buddensieg命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artist_in_residence_institutional_role",
+    "accepted_claim": "1907年10月1日Behrens出任AEG艺术顾问（艺术总监），开创企业内设设计职位；工作依托Felix Deutsch客户服务部制度框架展开",
+    "evidence_boundary": "任命文件已失（档案1945年流失），日期据Osthaus档案书信；须与工程师、销售、工人等多行动者并置，不得写成个人英雄史",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "product_publicity_architecture_unity",
+    "accepted_claim": "电水壶、弧光灯等产品线与样本、广告、商店、公司期刊、工厂建筑构成统一的企业传播系统，“优雅之美”与标准化类型为纲领用语",
+    "evidence_boundary": "G系列与P系列双重建档可证实物与再现的对应；“系统”表述为本书论证核心而非外部推断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "werkbund_founding_organization",
+    "accepted_claim": "Werkbund 1907年成立与组织建设：Düsseldorf分裂成因、章程、1912年迁柏林、会员从1912年971人增至1914年1870人",
+    "evidence_boundary": "成立大会、年会程序与会员统计为组织史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "typisierung_1914_debate",
+    "accepted_claim": "1914年Muthesius-van de Velde“类型或个性”争论：Typisierung定义（“将设计努力集中于有限数量的通用形式”）、十条论纲与反论纲、论纲撤回",
+    "evidence_boundary": "科隆年会记录与论纲文本为组织史实；“争论暴露深层分裂”为Campbell解读",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "naumann_qualitaetsarbeit",
+    "accepted_claim": "Naumann“品质劳动”（Qualitätsarbeit）纲领：美学、伦理、经济与民族竞争力一体化",
+    "evidence_boundary": "纲领文本为组织史实；其多义性为纳粹挪用预留空间属Campbell命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "gleichschaltung_1933",
+    "accepted_claim": "1933年Gleichschaltung：Jäckh主导“合法化”移交、1933年6月10日执委会表决仅3人反对、1934年并入Reichskammer",
+    "evidence_boundary": "执委会会议记录与Berlin Document Center档案为组织史实；“准合法性”定性为Campbell分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0168",
+    "title": "工艺美术运动思想谱系与跨国设计理论史",
+    "grade": "A",
+    "verification": "V2",
+    "role": "arts_crafts_to_werkbund_translation_prehistory",
+    "accepted_claim": "工艺美术关于质量、机器、教育和社会改革的争论构成Werkbund形成的跨国前史",
+    "evidence_boundary": "不能据此写成英国模式单向造成Werkbund",
+    "status": "ACCEPTED_AS_CORE_PREHISTORY"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "enterprise_workshop_antecedent",
+    "accepted_claim": "维也纳工坊是“企业型工坊”前史样本：三位创始人组合（设计师+设计师+金主）、1904年柏林公开亮相、1914年公司化重组",
+    "evidence_boundary": "Kallir明确工坊非自给自足商业企业，企业“成功”命题须与财务危机史实并置",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0363",
+    "title": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+    "grade": "A",
+    "verification": "V2",
+    "role": "werkbund_enterprise_system",
+    "accepted_claim": "德意志制造联盟成立（1907）、Behrens受聘AEG、Muthesius类型论（Wo stehen wir?）与工厂美学（Fagus、AEG涡轮机厂房）是教材“改革联盟与企业系统”的直接史料",
+    "evidence_boundary": "以Muthesius文本与建筑作品为主；联盟内部争论（van de Velde 1914“类型或个性”）有记录，但企业经济机制未展开",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0450",
+    "title": "欧美工艺美术运动跨国展览图录与比较史",
+    "grade": "A",
+    "verification": "V2",
+    "role": "werkbund_aeg_standardization_and_wiener_werkstatte_prehistory",
+    "accepted_claim": "德国标准化、AEG、Werkbund及Wiener Werkstätte显示改革联盟与企业系统的多路径前史",
+    "evidence_boundary": "图录不能承担联盟治理、企业合同、量产或标准争论的完整证据",
+    "status": "ACCEPTED_AS_CORE_INSTITUTIONAL_PREHISTORY"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "werkbund_neue_sachlichkeit",
+    "accepted_claim": "1920年代中期Werkbund与Neue Sachlichkeit结盟：Form ohne Ornament（1924）、Die Form复刊（1925）、新客观性作为魏玛定位",
+    "evidence_boundary": "展览与刊物为史实；“自觉结盟”与“与手工艺传统决裂的转折点”为Campbell判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "milchkuh_sponsorship_economy",
+    "accepted_claim": "“Milchkuh”（奶牛）私人赞助制度是工坊经济基础，一战摧毁此基础（帝国解体、工业基地丧失、恶性通胀）导致其衰落",
+    "evidence_boundary": "赞助-衰落因果链为Kallir的强解释框架，经济数据量化不足，因果强度应降级表述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0338",
+    "title": "新艺术运动国际展览图录、专题论文集与物质文化史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "art_nouveau_to_werkbund_aeg_and_standardization_prehistory",
+    "accepted_claim": "地方改革、企业、标准化与艺术工业联盟构成Werkbund／AEG的制度前史",
+    "evidence_boundary": "新艺术图录不提供联盟治理、合同、生产和标准争论全链",
+    "status": "ACCEPTED_AS_INSTITUTIONAL_PREHISTORY"
+   },
+   {
+    "source_id": "B0027",
+    "title": "Apollonio：《Futurist manifestos》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "institutionalization_and_fascism_afterword",
+    "accepted_claim": "后记与年表记述Marinetti 1929年任Reale Accademia d'Italia院士、未来主义与法西斯主义汇合，为制度化现代主义（4.x）提供前史背景",
+    "evidence_boundary": "后记与年表是编者层二手评述而非行动者文本；制度史细节需政权史档案核实",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "aeg_leadership_institutional_frame",
+    "accepted_claim": "AEG领导层（Emil Rathenau、Felix Deutsch、Walther Rathenau）构成“工业文化”的制度框架；Behrens是其中一环而非唯一主角",
+    "evidence_boundary": "附录A人物志可证制度框架；全书总体仍偏Behrens中心，引用时须补多行动者维度",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pendulum_swing_interpretation",
+    "accepted_claim": "“钟摆运动”解释：繁荣→标准化、危机→个体化的周期性摇摆，源于创始纲领内在含混性",
+    "evidence_boundary": "Campbell命题（解释框架），仅作语义路由，不作独立证据",
+    "status": "CONDITIONAL_PROPOSITION"
+   }
+  ]
+ },
+ "4.2": {
+  "grades": {
+   "B": 11,
+   "C": 2,
+   "A": 14
+  },
+  "count": 27,
+  "items": [
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "vorkurs_institutionalization",
+    "accepted_claim": "初步课程1919年秋试行、1920年起为全体必修的六个月试读阶段，由伊顿独掌，不及格不得进入工坊",
+    "evidence_boundary": "STAW/BA档案+Whitford叙述框架；同档案在B0182、B0282、B0464、B0216组内只计一份P0",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "vorkurs_paradigm_shift",
+    "accepted_claim": "初步课程经历从伊顿表现主义—神秘主义版本向莫霍利-纳吉理性—技术版本的范式转换",
+    "evidence_boundary": "1923年人事接任属档案史实；“范式转换”定性属Whitford叙述框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "preliminary_course_archive",
+    "accepted_claim": "魏玛包豪斯以预备课程（Vorkurs）为必修入口、先于并独立于工坊教学；Kandinsky/Klee/Itten体系构成其理论谱系",
+    "evidence_boundary": "档案证明课程制度设计（章程、课程表、注册统计）与行动者主张，不能自动证明教学成效或学生接受",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "manifesto_evidence",
+    "accepted_claim": "1919年宣言确立“回到手工艺”与综合艺术理想，其“社会主义大教堂”表述在1923年重印时引发政治攻击",
+    "evidence_boundary": "宣言是意图文献而非实践记录；攻击事件本身由Wingler导引说明（编者层）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "vorkurs_founder",
+    "accepted_claim": "伊顿于1919年秋在魏玛包豪斯创设基础课程（Vorkurs）：提议试行一学期、命名Basic Course并亲自负责，Gropius完全放手",
+    "evidence_boundary": "行动者自述其主张与教学安排；课程实际运作细节（学生规模、课时）缺独立记录",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "vorkurs_three_tasks",
+    "accepted_claim": "基础课程三大任务：解放创造力与艺术天赋、帮助学生选择职业、传授创造性构图原理",
+    "evidence_boundary": "三任务是行动者纲领，反映其教学主张而非制度规定文本",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "contrast_theory_core",
+    "accepted_claim": "对比理论是基础课程教学总纲，明暗/色彩/材质/形式手段均按对比效应讲授，两极之间的过渡带孕育生命与美",
+    "evidence_boundary": "为行动者教学法主张；教学成效无独立验证",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "experience_perception_practice",
+    "accepted_claim": "教学铁律为“经验—感知—实践能力”三阶段：先观察体验、再智识理解、后动手实现",
+    "evidence_boundary": "方法主张；Klee 1921.1.16信为同时代第三方课堂实录，可作部分佐证",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "manifesto_1919",
+    "accepted_claim": "1919包豪斯宣言确立“一切创造活动的终极目标是建造”与拆除艺术工匠之墙的理想，附教学计划与入学要求",
+    "evidence_boundary": "宣言文本为可证档案史实；其理念实现程度须以制度史佐证，不可直接推定",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "vorkurs_dual_master_system",
+    "accepted_claim": "双师制（形式大师+工艺大师）与初步课程（Vorkurs）为包豪斯基础教学制度，系不断试错改革的产物而非预先设计的完美方案",
+    "evidence_boundary": "制度结构可证；教学成效不可自动推定",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "vorkurs_founding_1920",
+    "accepted_claim": "预备课程由Itten于1919年10月引入、1920年董事会决议必修化，是教学法脊梁但绝非其全体",
+    "evidence_boundary": "课程制度为史实；“脊梁但非全体”为Wick判断（针对Banham化约）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "vorkurs_three_transformations",
+    "accepted_claim": "Vorkurs由Itten的个性解放/精神训练，经Moholy的感官系统化（触觉/光学练习），到Albers的材料经济/建构思维，经历根本转型",
+    "evidence_boundary": "三位教师个案章互证，附学生作业图版与Moholy引文",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "weimar_dual_system",
+    "accepted_claim": "1919年双轨制（Formmeister/Handwerkmeister）与大师议会制度：艺术导师垄断决策、手工艺大师无投票权，埋下“艺术-技术”结构性裂痕",
+    "evidence_boundary": "制度描述为档案事实；“双轨制违背行会平等理想”为作者分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "preliminary_course_vorkurs",
+    "accepted_claim": "基础课程（Vorkurs）从Itten（Mazdaznan教学法）经Moholy-Nagy到Albers的交接，是包豪斯教育理念与校内权力斗争的交汇点",
+    "evidence_boundary": "工坊再分配与人事时间为档案事实；Itten-Gropius教学哲学对立及“时间即政治”为作者分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0048",
+    "title": "Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "dynamic_principle_philosophy",
+    "accepted_claim": "van Doesburg吸收第四维度与相对论形成“动态原理”，与Mondrian“静态-永恒”世界观对立，是1922年前后分裂的哲学根源",
+    "evidence_boundary": "P0：1919年6月致Oud信（莱顿长谈报告）为核心文献；本书时期限内论证充分",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "dual_master_system",
+    "accepted_claim": "魏玛期双轨教学制（形式大师+手工大师）是教学制度根本特征，“画家教手艺”既为创造力源泉亦为制度缺陷",
+    "evidence_boundary": "制度设置属档案史实；矛盾评价属Whitford框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0168",
+    "title": "工艺美术运动思想谱系与跨国设计理论史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "central_school_and_bauhaus_genealogy_claim",
+    "accepted_claim": "Central School和工艺教育可作为包豪斯课程谱系的待证线索",
+    "evidence_boundary": "该书的连续谱系带有后见之明，不能独立证明包豪斯制度来源",
+    "status": "ACCEPTED_WITH_DIRECT_TRANSFER_GAP"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "B",
+    "verification": "V2",
+    "role": "enrollment_statistics",
+    "accepted_claim": "截至报告期有526名学生自1919年10月注册、27名学徒正开始预备课程",
+    "evidence_boundary": "注册统计出自内部报告，口径以原文为准，不可外推为培养成效",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "materials_texture_sensory",
+    "accepted_claim": "材质与纹理训练以触觉等感官理解为基础（“知道词语不够”），含清单、闭眼触摸、纹理蒙太奇与记忆再现",
+    "evidence_boundary": "学生作业图注为实物证据，但选样与评注均由作者自选自注",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "body_morning_exercises",
+    "accepted_claim": "晨间放松-呼吸-专注身体练习是基础课程日常环节，被视为表现力训练前提",
+    "evidence_boundary": "练习遭同事嘲笑（L167-168），教学有效性仅行动者自述，无成效证据",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0269",
+    "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bauhaus_teacher_advocacy",
+    "accepted_claim": "包豪斯“理论与实践融合”教育理念的总结及其向美国的传播（作者作为包豪斯教员的立场）",
+    "evidence_boundary": "行动者自述：证明莫霍利-纳吉的包豪斯理念主张；不能证明包豪斯实际教学成效",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "women_textile_workshop_gender",
+    "accepted_claim": "纺织工坊几乎全为女性而建筑部门几乎全为男性，女性处境被记录但未获深入性别政治分析",
+    "evidence_boundary": "社会构成事实可证；性别政治解释需另寻文献（如Baumhoff）",
+    "status": "ACCEPTED_WITH_CAVEAT"
+   },
+   {
+    "source_id": "B0363",
+    "title": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "weimar_bauhaus_preliminary_course",
+    "accepted_claim": "魏玛包豪斯（1919-1923）：两校合并、1919宣言、Itten初步课程（Vorkurs）与“做中学”，作为“魏玛包豪斯与基础课程”的关键机制材料",
+    "evidence_boundary": "Banham视角批判（早期包豪斯“机器缺席”令人惊讶），教学细读以Gropius《Idee und Aufbau》文本为主",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0450",
+    "title": "欧美工艺美术运动跨国展览图录与比较史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "art_schools_workshops_and_production_education_prehistory",
+    "accepted_claim": "艺术学校、工坊、协会展览与学生参展构成包豪斯之前的生产性教育背景",
+    "evidence_boundary": "不是Bauhaus基础课程、师生权力或呼捷玛斯教育体系来源",
+    "status": "ACCEPTED_AS_EDUCATIONAL_PREHISTORY"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "vkhutemas_parallel",
+    "accepted_claim": "俄国Vkhutemas基础部（两年制、三循环）与包豪斯预备课程平行但更长更偏学校化",
+    "evidence_boundary": "基础部组织结构为史实；“平行”比较属Wick分析，直接观念交流（Bähr）仅为推测",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0277",
+    "title": "Lodder：《Russian constructivism》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "vkhutemas_bauhaus_parallel_basic_course",
+    "accepted_claim": "VKhUTEMAS基础课程与包豪斯基础课程的平行关系，及莫霍利-纳吉《新视觉》将俄国构成主义“实验室工作”重释为现代视觉训练方法的转译",
+    "evidence_boundary": "本书焦点是VKhUTEMAS而非包豪斯内部教学；包豪斯细节仅经莫霍利-纳吉媒介呈现，不得当作包豪斯一手材料",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0291",
+    "title": "Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997",
+    "grade": "C",
+    "verification": "V2",
+    "role": "bauhaus_contrast_reference",
+    "accepted_claim": "包豪斯：Breuer钢管椅作为罗德琴科木质家具的平行参照、Gropius对莫霍利的支持、新包豪斯作为移植产物",
+    "evidence_boundary": "本书包豪斯内容为对照与移植语境而非系统史述；魏玛包豪斯本体回B0222、B0269",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "4.3": {
+  "grades": {
+   "B": 5,
+   "A": 8,
+   "C": 1
+  },
+  "count": 14,
+  "items": [
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "art_technology_new_unity",
+    "accepted_claim": "1923年包豪斯大展与格罗皮乌斯“艺术与技术——新的统一”演讲标志从手工艺浪漫主义向工业设计的公开转向",
+    "evidence_boundary": "演讲与展览系档案史实；“决定性转向”评价属Whitford框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "doesburg_catalyst",
+    "accepted_claim": "凡·杜斯堡1921—1923年在魏玛的批评与教学动摇了伊顿支配地位，是转向的外部催化剂",
+    "evidence_boundary": "催化剂判断属Whitford叙述框架；杜斯堡活动本身可回查档案",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "exhibition_shift",
+    "accepted_claim": "1923年“艺术与技术——新的统一”口号与首届包豪斯展览标志制度转向；Haus am Horn作为实验住宅展示工坊协作",
+    "evidence_boundary": "口号是行动者主张；展览与住宅的完成度与效果评价须以同期媒体及审计文献为界（审计明言簿记不足）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "political_crisis_1924",
+    "accepted_claim": "1924年图林根州议会右翼党团以“小质询”攻击包豪斯，预算削减与大师合同终止导致1925年解散迁校",
+    "evidence_boundary": "议会记录与公开信证明制度冲突与行动者立场；“文化布尔什维克主义”等指控是修辞而非事实陈述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "turn_1923_art_technology",
+    "accepted_claim": "1923年口号由“艺术与手工艺统一”转为“艺术与技术统一”，Technik替换Handwerk标志从行会式生产到工业原型设计的范式转移",
+    "evidence_boundary": "口号文本为可证史实；“范式转移”属Droste解释框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "exhibition_1923_political_pressure",
+    "accepted_claim": "1923年展览系1922.6政府贷款附带条件催生，格罗皮乌斯认为日期过早但被迫屈服；号角屋为仓促上马的示范项目",
+    "evidence_boundary": "贷款条件与展期为可证制度事实；“被迫早产”评价属解释",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "moholy_nagy_replaces_itten",
+    "accepted_claim": "1923莫霍利-纳吉接替伊顿主持初步课程，构成主义-理性主义-技术取向取代表现主义-神秘主义-手工艺取向",
+    "evidence_boundary": "人事更替为可证事实；“转向最明确信号”评价属解释",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "institutional_turn_1923_exhibition",
+    "accepted_claim": "1923年大展系Gropius主动发动（驳“政府强令说”），以集体任务统一分裂中的学校并争取工业界支持；“艺术与技术：新的统一”既是外交口号也是哲学上荒谬的命题",
+    "evidence_boundary": "展览缘起为作者考证推断：无政府指令文件，依据Gropius 1922年9月15日备忘录与Stölzl回忆；口号双重分析属Forgács命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0048",
+    "title": "Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "doesburg_pseudonyms",
+    "accepted_claim": "van Doesburg以化名I.K. Bonset（1920年5月起）与Aldo Camini（1921年7月起）在De stijl发表达达主义诗歌散文，既表达动态世界观也是对Mondrian的“神秘化”策略（Kok、Oud早已知情）",
+    "evidence_boundary": "P0：De stijl期刊文本+书信；化名动机考证属本书重要发现",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "itten_departure_1923",
+    "accepted_claim": "1923年一次分析课后Gropius表示无法再向政府负责伊顿教学法，伊顿随即主动辞职离校",
+    "evidence_boundary": "伊顿单方回忆、含自我辩护；Gropius方记录缺失，离校完整背景超出本书",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0269",
+    "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bauhaus_method_transatlantic",
+    "accepted_claim": "包豪斯方法在芝加哥设计学院的移植（基本设计、工作坊、group poetry与学生作品）",
+    "evidence_boundary": "行动者自述其教学实践与主张；成效为学生作品自证（宣传性）",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0363",
+    "title": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bauhaus_1923_institutional_turn",
+    "accepted_claim": "1923年制度转向：Itten离校、Moholy加入、Art and Technology展与Am Horn宅、“机器为现代设计媒介”转向，直接对应“1923年的制度转向”",
+    "evidence_boundary": "作者指出转向中Formlehre内容实为学院式（Blanc式），引用转向叙事须连同其批判一并呈现",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "turn_1923",
+    "accepted_claim": "1923转向：“艺术与技术——新的统一”口号，Vorkurs从Itten交接至Moholy，作者将其解释为历史必然而非背叛",
+    "evidence_boundary": "Ch3分期+Ch5-6个案；转向性质评价属Wick解释框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "tension_art_technology",
+    "accepted_claim": "伊顿主张先解放创造再引入技术/商业考量（L132-134），与“艺术与技术统一”路线构成隐性张力，是1923转向的思想背景之一",
+    "evidence_boundary": "张力判断为解释性推断；伊顿对Gropius路线的批评是隐性的、未点名",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   }
+  ]
+ },
+ "4.4": {
+  "grades": {
+   "B": 1,
+   "A": 11
+  },
+  "count": 12,
+  "items": [
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "dessau_institutional_reform",
+    "accepted_claim": "迁德绍后废除双轨制、设青年大师、成立建筑系并注册包豪斯有限公司，配套丛书出版",
+    "evidence_boundary": "公司注册、建筑系设立等属档案史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "workshop_industrial_production",
+    "accepted_claim": "德绍工坊转向工业设计原型与批量生产，金属、家具、纺织工坊产出功能化产品",
+    "evidence_boundary": "Whitford叙述框架叠加档案产品与订单记录",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "dessau_statute_1927",
+    "accepted_claim": "1927年德绍章程确立机构归属（德绍市）、课程序列（预备课程+工坊教学+形式教学）与入学要求（预备课程为不可或缺前提）",
+    "evidence_boundary": "章程是制度规范文本，证明制度意图与结构设计，不证明执行情况",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "workshop_system",
+    "accepted_claim": "德绍工坊体系（金属、纺织等）以“培养创造性人才”为目标，工坊教学与形式教学构成主课程",
+    "evidence_boundary": "工坊章程与招生文件证明制度目标；产品成效需以产品目录与销售档案为据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "workshop_system_comparison_antecedent",
+    "accepted_claim": "维也纳工坊的工场组织（多工种车间、颜色编码管理、Morris/Ruskin纲领）是德绍工坊制度比较的“前史”参照",
+    "evidence_boundary": "工坊制度与包豪斯工坊制度是平行比较而非传承证据，本书不含包豪斯直接关联，比较命题由教材层建立",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "education_workshop_link",
+    "accepted_claim": "工艺美术学校（Kunstgewerbeschule）的教育网络是工坊人员供给的制度基础，Moser/Hoffmann首班毕业生组成Wiener Kunst im Hause雏形",
+    "evidence_boundary": "“80%工坊雇员出自该校”百分比数据未在本次抽查中于原文核实，仅确认教育-工坊链条本身",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "founder_split_dynamics",
+    "accepted_claim": "1907年Moser退出（财务、创作、个人身份三重原因）改变工坊管理结构，标志创始双人组时代终结",
+    "evidence_boundary": "借款金额易被简化：申请10万克朗、实付5万克朗；Moser离职信为直接引语可作证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "decline_liquidation_chronology",
+    "accepted_claim": "1913年150万克朗债务停摆、1914年清算重组为GmbH、1926年Primavesi之死、1932年终局清算构成工坊制度衰落的时间链",
+    "evidence_boundary": "1926—1932年细节主要来自分析报告与年表，本次抽查覆盖至1915年",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "dessau_reorganization_curriculum",
+    "accepted_claim": "迁德绍后课程体系重组：初步课程由Albers与Moholy合授并保持全年制；康定斯基形式理论为第二学期以上必修",
+    "evidence_boundary": "课程表为可证制度文献",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "bauhaus_ltd_founding",
+    "accepted_claim": "迁德绍后方成立Bauhaus Ltd（有限责任公司）作为销售与授权经营主体，包豪斯由教育机构兼为经济主体",
+    "evidence_boundary": "公司设立为可证制度史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "workshop_production_industry",
+    "accepted_claim": "德绍工坊生产与工业界授权合作：Polytex纺织、Rasch壁纸、耶拿玻璃等授权合同构成产品市场化路径",
+    "evidence_boundary": "授权合同为档案制度事实；产品市场成效不可推定",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0222",
+    "title": "John E. Bowlt (ed.)：《Russian Art of the Avant-Garde Theory and Criticism 1902-1934》，1976",
+    "grade": "B",
+    "verification": "V2",
+    "role": "vkhutemas_education_context",
+    "accepted_claim": "Shterenberg《Our Task》（Svomas校长）、Lissitzky与Malevich维捷布斯克教学、Gabo/Pevsner任教Svomas/Vkhutemas为呼捷玛斯教学体制提供行动者侧证",
+    "evidence_boundary": "本书无专门论述设计教育的文本，均为背景性提及，不作4.4核心证据",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   }
+  ]
+ },
+ "4.5": {
+  "grades": {
+   "A": 10,
+   "B": 3
+  },
+  "count": 13,
+  "items": [
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "meyer_social_function",
+    "accepted_claim": "迈耶任内引入社会学与马克思主义政治理论课程、工坊转向大众需求批量生产、建筑系主导，经济成功与政治灾难并行",
+    "evidence_boundary": "课程改革与收入翻倍系档案史实；“灾难种子”判断属Whitford框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "meyer_functionalism",
+    "accepted_claim": "Meyer提出“建造=功能×经济”“一切艺术是构图因而不合目的”，将建筑定义为生物过程与社会事业",
+    "evidence_boundary": "宣言文本证明行动者主张；其教学成效与校内接受度须另觅学生记录；Wingler导引对Meyer持负面评价（编者层）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "school_politics_1930",
+    "accepted_claim": "1930年共产学生传单要求废除预备课程；Meyer自称解散学生共产党小组后仍因政治指控被解职",
+    "evidence_boundary": "传单与Meyer自述均为行动者文献，可证明立场与事件进程；解职原因各说并存",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "meyer_directorship_social_function",
+    "accepted_claim": "迈耶任期（1928—1930）由“工业设计学院”转向社会功能主义：引入社会学经济学心理学课程、“人民需求而非奢侈需求”、整合室内装修工坊",
+    "evidence_boundary": "课程改革与口号为可证；解职因果Droste保留模糊，不得断言",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "mies_depoliticization_1930",
+    "accepted_claim": "密斯1930继任后去政治化：清党开除激进学生、1930.9.9大师委员会决议关闭学院重开、限定包豪斯目的为手工艺技术与艺术训练",
+    "evidence_boundary": "1930.9.9决议与课程表为档案史实；“美学至上”评价属解释",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "bauhaus_closing_1932_1933",
+    "accepted_claim": "1932.9纳粹坚持下德绍包豪斯关闭（社民党弃权、仅共产党代表赞成），1933年柏林包豪斯被搜查并最终关闭",
+    "evidence_boundary": "市政投票与关闭命令为可证史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "weimar_parliament_struggle",
+    "accepted_claim": "包豪斯生存取决于图林根政党政治与拨款博弈；Gropius自称像Cerberus一样排除政治，但“生存本身即政治”",
+    "evidence_boundary": "议会辩论与报刊材料部分经Scheidig/Hüter等二手转引；“政治不可避免”为Forgács命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "gropius_resignation_1928",
+    "accepted_claim": "Gropius辞职是校内共同体理想耗尽（Klee/Kandinsky裂痕、Breuer产权之争）与政治右转的双重结果；“信仰的时代结束了”",
+    "evidence_boundary": "辞职时间线（1928年1月17日告知、2月4日辞职信、3月28日离校）为档案事实；象征解读为Forgács解释",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "meyer_directorship",
+    "accepted_claim": "Meyer任内产业订单增长与智力水准下降并存；两大纲领（《building》《bauhaus and society》）全文为原始文本；因共产主义学生政治化经Hesse/Grote调查于1930年被解职",
+    "evidence_boundary": "“误读历史时刻”与“缺乏历史可信度”为Forgács核心命题，作者并列Maldonado反方观点；Meyer是否“真”共产主义者作者自陈未决",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "mies_tenure_and_1933_closure",
+    "accepted_claim": "Mies任内非政治化路线未能挽救学校：1932年德绍关校、1933年4月11日柏林关闭、8月10日解散；Rosenberg视艺术独立精神为比共产主义更激进的纳粹之敌",
+    "evidence_boundary": "终局事件时间线为档案史实；Rosenberg判断属作者引用与解读",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mies_depoliticization",
+    "accepted_claim": "密斯以去政治化、纪律化、削减工坊改造包豪斯，性质由社会实验转向专业建筑学院",
+    "evidence_boundary": "禁止政治活动系档案史实；“性质改变”评价属Whitford框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "B",
+    "verification": "V2",
+    "role": "libel_verdict",
+    "accepted_claim": "德绍地方法院判决Buchlein诽谤罪成立（§185，罚500帝国马克）",
+    "evidence_boundary": "判决书是司法档案，仅证明该案事实，不构成对包豪斯声誉的一般性背书",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "artists_role_in_ouster",
+    "accepted_claim": "Kandinsky/Klee/Schlemmer/Albers等艺术家群体在Meyer下台中作用被以往低估；“设计成了艺术赖以幸存的门面”（门面翻转）",
+    "evidence_boundary": "为作者“非常规解释”，有Hesse信件与Droste佐证，属解释性命题而非档案直接记载",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "4.6": {
+  "grades": {
+   "B": 16,
+   "C": 2,
+   "A": 8
+  },
+  "count": 26,
+  "items": [
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "isotype_as_method",
+    "accepted_claim": "Isotype不是形式主义风格而是“方法”，其制度载体是社会博物馆与研究所（GWM→Isotype Institute），method-制度耦合构成可复制的教育-传播制度模型",
+    "evidence_boundary": "方法/风格之辨为本书核心论点（Kinross/Burke框架）；制度谱系为档案史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "role_transformer",
+    "accepted_claim": "Transformer（转换者）是Isotype方法论核心制度角色：Marie Reidemeister 1927年起任首位转换者，1932年术语首现，1929年“trustee of the public”概念出现",
+    "evidence_boundary": "角色沿革、术语谱系、工作流程史实可证；“转换者是现代信息设计师原型”属本书解释框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "young_masters_replication",
+    "accepted_claim": "拜耶、布劳耶、谢珀、施密特、施托尔策等青年大师构成包豪斯教育体系的自我再生产",
+    "evidence_boundary": "人事任命属档案史实；“自我更新”评价属Whitford框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "curriculum_institution",
+    "accepted_claim": "1929年招生文件显示建筑系9学期制：预备课程（不可免除）→工坊→建筑教学→建筑工作室，结业获包豪斯文凭，构成可复制的课程制度",
+    "evidence_boundary": "课程表证明制度设计；“复制”成效（毕业生去向、后续院校采纳）需跨来源验证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "bauhaus_books_publications",
+    "accepted_claim": "包豪斯书籍与期刊（1925年起德绍出版）作为理念自我复制与对外传播的制度载体，多数卷册由大师自撰",
+    "evidence_boundary": "出版物目录为可证制度事实；传播成效不可推定",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "plurality_of_pedagogy",
+    "accepted_claim": "“包豪斯教学法”非单一实体：以Dexel批判“包豪斯风格”为方法论原型，主张教学法形态与教师等量（“What the masters do, they teach”）",
+    "evidence_boundary": "为Wick的解释框架而非可直接验证的史实，引用时须分层处理",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "pedagogy_selective_survival",
+    "accepted_claim": "教学法被选择性保存：Itten内容渗入德国普通与职业学校（含秘密课程）而Albers原则罕被采纳、Moholy几乎未被采纳；北美只移植预备课程形式、面向单一专业",
+    "evidence_boundary": "接受史主张（Stelzer论点+Grawe结论），部分不可独立验证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "dessau_production_programme",
+    "accepted_claim": "德绍纲领《Bauhaus Dessau — Principles of Bauhaus Production》（1926年3月）将设计/标准型生产确立为学校任务；Kandinsky同年12月发文反拨，标志艺术-设计裂痕显性化",
+    "evidence_boundary": "纲领与Kandinsky文章全文为一手文本；“理念被倒转”为Forgács命题（皮洛士式胜利）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_office_incubation",
+    "accepted_claim": "Behrens设计室吸纳Gropius、Adolf Meyer、Mies van der Rohe、Le Corbusier等助手，1907年纲领经Gropius1934年文论延续，构成从企业设计室到现代主义建制的谱系",
+    "evidence_boundary": "本书以附录B照片与当代反应章节间接呈现，未系统论证制度化路径；与包豪斯制度无直接论述",
+    "status": "ACCEPTED_AS_CONTEXT_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "werkbund_bauhaus_link",
+    "accepted_claim": "Werkbund与包豪斯：Gropius、Mies为Werkbund领导人；包豪斯为“Werkbund之子”，魏玛期在公众视野中“遮蔽”其母体",
+    "evidence_boundary": "人事任职为史实；“eclipsed”评价与魏玛Werkbund贡献被低估为Campbell命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "institutional_role",
+    "accepted_claim": "“红色维也纳”市政社会主义提供制度条件：Breitner的Wohnbausteuer税制、Tandler公共卫生计划、Glöckel教育改革提供财政/主题/受众网络",
+    "evidence_boundary": "制度关联史实部分可证；“制度条件→方法形成”的因果强度为作者论证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "basic_course_replication",
+    "accepted_claim": "初步课程作为可复制制度单元经阿尔伯斯等路径延续（乌尔姆设计学院1950年代继承其精神）",
+    "evidence_boundary": "乌尔姆延续属Whitford叙述；跨机构影响链属P4语义路由",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0168",
+    "title": "工艺美术运动思想谱系与跨国设计理论史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "school_workshop_industry_transmission_comparison",
+    "accepted_claim": "学校—工场—产业关系可与呼捷玛斯及其他设计教育制度比较",
+    "evidence_boundary": "英国和德国材料不能替代苏联学校的治理、课程和学生项目",
+    "status": "ACCEPTED_AS_COMPARATIVE_CONTEXT"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "B",
+    "verification": "V2",
+    "role": "dissolution_contract",
+    "accepted_claim": "密斯与德绍市离职协议处理解散后的名称权利与合同终止合法性",
+    "evidence_boundary": "合同文本证明制度收尾安排；双方对解散责任与合法性的主张并存",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "B",
+    "verification": "V2",
+    "role": "berlin_epilogue",
+    "accepted_claim": "柏林包豪斯1932年秋以“独立教学与研究机构”恢复，1933年4月被搜查，7月20日密斯通知盖世太保解散",
+    "evidence_boundary": "通知、警方记录与行政档案证明事件进程；“纳粹压力下自行解散”的定性混合行动者表述与编者叙述",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "vorkurs_diffusion",
+    "accepted_claim": "基础课程方法随伊顿本人延伸至维也纳、柏林、克雷费尔德、苏黎世共六所机构，并以200余幅学生作品构成教学证据库",
+    "evidence_boundary": "扩散路径为行动者自述；“可复制”须以L249-250自限声明为前提",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0228",
+    "title": "John Milner：《Vladimir Tatlin and the Russian Avant-Garde》，1983",
+    "grade": "B",
+    "verification": "V2",
+    "role": "svomas_vkhutemas_lineage",
+    "accepted_claim": "自由画室（Svomas）于1920年11月29日演化为Vkhutemas，罗德琴科主持基础课；塔特林1919年任莫斯科自由画室负责人、后入Vkhutein，构成呼捷玛斯机构谱系的一环",
+    "evidence_boundary": "本书以机构背景提及Vkhutemas而非论述主体；机构谱系事实可证",
+    "status": "ACCEPTED_AS_CONTEXT_SOURCE"
+   },
+   {
+    "source_id": "B0269",
+    "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_education_curriculum",
+    "accepted_claim": "设计教育纲领：基本设计作为各专业共同基础、工作坊/实验室实践、从消费者到生产者",
+    "evidence_boundary": "行动者教学—理论文本：证明其课程理念；成效证据弱",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0277",
+    "title": "Lodder：《Russian constructivism》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "school_experiment_selective_reproduction",
+    "accepted_claim": "VKhUTEMAS作为构成主义从理论到制度的转化场域：1920年成立令“为工业培养高级艺术家”、基础课程与四个“集中”、德梅特法克教学实验、1925年巴黎展奖牌与1926年后基础课程缩减（两年→一年→一学期）、1930年解散——示范“学校实验→可复制制度”中的选择性保存",
+    "evidence_boundary": "呼捷玛斯课程与组织设立不自动证明教学成效或工业采用；洛德明示教学纲领与实际车间条件存在差距；1926年“艺术内容削减以利技术内容”是制度记录而非效果评价",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0291",
+    "title": "Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997",
+    "grade": "B",
+    "verification": "V2",
+    "role": "vkhutemas_vkhtein_institution",
+    "accepted_claim": "呼捷玛斯（VKhUTEMAS/VKhUTEIN）：罗德琴科任Metfak副系主任、Dermetfak教学、1930年关闭；与包豪斯的平行关系",
+    "evidence_boundary": "制度史实与B0277、B0222交叉印证；“艺术家-构造者”教学成效评估为Margolin重构，未量产不等于失败是其重估命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0450",
+    "title": "欧美工艺美术运动跨国展览图录与比较史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "replicable_societies_workshops_exhibitions_and_publications",
+    "accepted_claim": "协会、作坊、展览与出版在多国被选择性复制，说明制度传播不等于形式复制",
+    "evidence_boundary": "未系统追踪哪些制度长期存续、失败或进入通行课程",
+    "status": "ACCEPTED_AS_REPLICATION_SUPPORT"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "grundlehre_institutionalization",
+    "accepted_claim": "Grundlehre在德绍时期制度化（1925课程表：基础实践+基础形式教学），战后经包豪斯成员延续至乌尔姆HfG等（Grundlehre 1953-55）",
+    "evidence_boundary": "1925课程与乌尔姆承接为制度史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "dessau_institutional_transition",
+    "accepted_claim": "“整体人vs部分人”教育哲学与Kunst→Gestaltung术语转向，构成德绍时期从艺术学校向设计-制度形态转变的思想轨迹",
+    "evidence_boundary": "术语转向为作者语义学分析；德绍校舍与大师宅为物证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0464",
+    "title": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bauhaus_vkhutemas_comparison",
+    "accepted_claim": "包豪斯与VKhUTEMAS看似平行实则相反：一从边缘先锋到时尚设计学校，一从国家中心到边缘；制度地位与物质条件（钢vs木）决定设计差异",
+    "evidence_boundary": "比较框架与材料决定论为作者分析命题；两校课程/人事对应可证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "workers_housing_welfare_institution",
+    "accepted_claim": "工人住宅作为绑定技术工人的企业福利制度，以“美=社会和平”为意识形态公式，具类型化与可复制倾向",
+    "evidence_boundary": "“美=社会和平”为Neumeyer对威廉时代意识形态的解读命题；与包豪斯可复制制度无可证直接关联",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0216",
+    "title": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "replicable_method_toolkit",
+    "accepted_claim": "对比理论、身体练习、主观形式类型学构成可迁移的方法工具箱，可供后世设计教育复制",
+    "evidence_boundary": "可复制性是否被后世证实需独立证据；本书仅是方法描述而非成效记录",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   }
+  ]
+ },
+ "4.7": {
+  "grades": {
+   "A": 14,
+   "B": 26,
+   "C": 4,
+   "D": 1,
+   "X": 1
+  },
+  "count": 46,
+  "items": [
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "modernist_canon_actor",
+    "accepted_claim": "Loos作为现代主义正典行动者：《装饰与罪恶》等文本成为现代建筑与设计理论正典文献，其地位是文本事实",
+    "evidence_boundary": "只能证明其文本地位与行动者主张，不能自动证明其对包豪斯等机构的实际因果影响",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "migration_translation",
+    "accepted_claim": "Isotype经维也纳→海牙→牛津迁徙，并在苏联Izostat（国家赞助）、美国（Modley商业竞争）、西非黄金海岸/尼日利亚（殖民/后殖民转译）发生区域变异",
+    "evidence_boundary": "各据点史实与传播路线可证；“跨文化适应性成功”属解释性判断，且Marie自认效果未检验",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "izostat_soviet_transfer",
+    "accepted_claim": "维也纳方法向苏联Izostat的制度输出（1931-1934）：1931年9月12日法令强制采用、Neurath任主任、至少5名维也纳成员常驻莫斯科；Izostat图表含预估未来数据且数据被夸大/歪曲，Neurath共谋无法证明",
+    "evidence_boundary": "Minns基于俄语档案的一手研究；争议性评价（collusion）书中明确标注不可证，引用须带此边界",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "migration_after_1933",
+    "accepted_claim": "1933年4月11日柏林查封后师生流散英美，包豪斯理念随之国际化，纳粹压制反讽性促进其全球传播",
+    "evidence_boundary": "Whitford叙述框架（Judgments章）；个体流散事实可回查档案",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0168",
+    "title": "工艺美术运动思想谱系与跨国设计理论史",
+    "grade": "A",
+    "verification": "V2",
+    "role": "canonical_migration_selection_and_reframing",
+    "accepted_claim": "跨国传播是选择、改写和制度适配，不应简化为风格影响",
+    "evidence_boundary": "作者自身仍有英国源头到大陆完成的目的论",
+    "status": "ACCEPTED_WITH_HISTORIOGRAPHIC_LIMIT"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "A",
+    "verification": "V2",
+    "role": "chicago_transfer",
+    "accepted_claim": "1937年芝加哥新包豪斯以Moholy-Nagy为总监、Gropius为顾问，首学期36名学生；后经School of Design延续为Institute of Design",
+    "evidence_boundary": "新包豪斯文献（prospectus、校长签名页）证明制度创办与人事；延续性表述含Wingler 1969年正典化导引（编者层）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0282",
+    "title": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "weimar_to_dessau_migration",
+    "accepted_claim": "1925年魏玛→德绍迁徙：1924.12.26新闻稿解除图林根州合同、德绍社民党政府提供实质邀请（市长Hesse）、1925.4.1正式开学并启用临时校舍",
+    "evidence_boundary": "迁徙动因与时间节点为可证制度史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "de_stijl_international_transmission",
+    "accepted_claim": "风格派经杂志、展览、包豪斯、俄国先锋派、法国（Rosenberg展/Aubette）跨国传播，成为现代主义正典建构的一环；「De Stijl was never really a group」",
+    "evidence_boundary": "Overy综合叙述；De Stijl杂志传播记录为行动者文本",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "A",
+    "verification": "V2",
+    "role": "reproduction_as_production",
+    "accepted_claim": "「复制即生产」：风格派身份与经典地位由杂志、展览、修复、商品化与历史写作持续建构（接受史/再生产史命题）",
+    "evidence_boundary": "Overy末章元理论命题，引用时须标注为其观点",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "diaspora_north_america",
+    "accepted_claim": "包豪斯教学法在北美：Gropius（哈佛）、Albers（黑山学院/耶鲁）、Moholy（芝加哥新包豪斯/设计学院）各自的改造与变异，第二代人（Beckmann、Bredendieck、Dearstyne等）延续基础课",
+    "evidence_boundary": "Ch13（Grawe撰）据1998博士论文压缩，须与其他包豪斯通史（B0182/B0282）互核",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "core_evidence",
+    "accepted_claim": "包豪斯在中国的接受是选择性重组：四段论（初晤—曲折—误读变体—扬弃），核心是'中国的设计界追求民生改善与现代化的自己的历史'",
+    "evidence_boundary": "档案（梁思成信、四定方案）与编者导言分层使用",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "indirect_contact_early",
+    "accepted_claim": "中国最早经日本、法国间接渠道接触包豪斯：陈之佛文无Bauhaus字样仅Breuhaus、庞薰琹柏林考察、郑可1931年参观",
+    "evidence_boundary": "属间接接触证据，不构成直接影响命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "canon_three_nodes",
+    "accepted_claim": "正典建构三节点：圣约翰建筑系1942年引进包豪斯体系、同济文远楼1953年、梁思成1945年信倡Bauhaus方法并改革清华教学",
+    "evidence_boundary": "建筑教育领域的制度转译证据充分",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "architecture_modernism_transfer_1930_1960",
+    "accepted_claim": "1930—1960中国建筑现代主义是留德（奚福泉、夏昌世）与留美（贝聿铭、黄作燊、王大闳）建筑师思想移转的结果",
+    "evidence_boundary": "Kögel以博士论文、大学档案与建筑图纸支撑，为全书档案实证最强篇之一",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "canon_influence_claim",
+    "accepted_claim": "路斯思想经Pevsner、Giedion等战后史叙述正典化，并影响Le Corbusier与包豪斯功能主义导向",
+    "evidence_boundary": "系分析报告二手判断，需独立接受史证据核验",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0008",
+    "title": "Adolf Loos：《Ornament and Crime》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "canon_actor_self_positioning",
+    "accepted_claim": "路斯自我定位为发现者：“我们克服了装饰，我们挣扎着到达了无装饰”",
+    "evidence_boundary": "行动者自我叙事，其“发现”宣称属修辞，影响力须由接受史独立证据支撑",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0048",
+    "title": "Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "doesburg_bauhaus_contact",
+    "accepted_claim": "De Stijl与包豪斯接触史：战后De Stijl对包豪斯持批判态度；van Doesburg与包豪斯管理层冲突；1923年Rietveld受邀参加Bauhauswoche但未寄作品",
+    "evidence_boundary": "1923年事件超出本书1917—1922核心时段；与B0276、B0363共享对象只计一份P0",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "behrens_roman_canonization",
+    "accepted_claim": "Behrens Roman字体由AEG专属（Deutsche Antiqua）经Klingspor发售（1908年10月），1910年布鲁塞尔世博会德国官方目录全用，成为“德国工业字体”正典并沿用至AEG后世signet",
+    "evidence_boundary": "字体传播路径可证（铸字厂、世博会目录、AEG-Zeitung）；“正典化”为语义路由延伸概括，须以原文表述为准",
+    "status": "ACCEPTED_AS_CONTEXT_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "weissenhof_replication",
+    "accepted_claim": "1927年魏森霍夫住宅展：16位欧洲建筑师60套住宅、逾50万参观者、1929年布雷斯劳复制模式、国际示范效应",
+    "evidence_boundary": "展览组织、建筑师名单与参观人次为史实；“可复制制度模式”归纳为Campbell判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "diaspora_transfer",
+    "accepted_claim": "1933年后Gropius、Mies van der Rohe流亡美国、Bruno Taut流亡日本，Werkbund理念经人物迁徙发生国际转译",
+    "evidence_boundary": "流亡事实为史实；“理念经迁徙转译”为Campbell叙述框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0064",
+    "title": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "regional_translation",
+    "accepted_claim": "Werkbund区域分支体系与1927年斯图加特-魏森霍夫展将国际现代主义引入德国，随即遭Schultze-Naumburg与Kampfbund传统主义反弹，暴露风格分裂",
+    "evidence_boundary": "魏森霍夫展及其文化反弹为史实；“区域转译”解释框架为Campbell命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "interpretive_frame",
+    "accepted_claim": "Isotype不是形式主义现代主义产物，而是维也纳学派逻辑经验主义的视觉对应物；Neurath批评Bauhaus“伪理性主义”",
+    "evidence_boundary": "此为Burke团队的解释框架分层，非可直接引用的事实命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modley_us_adaptation",
+    "accepted_claim": "美国传播中Rudolf Modley代表“适应性变异”：拒绝Isotype的国际性与标准化，与Neurath哲学分歧致分化；van Kleeck主导的Organizing Committee（1933）失败",
+    "evidence_boundary": "Ihara基于美国档案的书信与会议记录；“变异质量”评价属作者判断",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "west_africa_colonial_transfer",
+    "accepted_claim": "Isotype在西非（黄金海岸/尼日利亚Western Region，1952-1958）作为殖民/后殖民规划的视觉工具：Marie Neurath提出本地团队训练计划并自认成效未测试",
+    "evidence_boundary": "Kindel个案研究；殖民/后殖民评价属解释框架，个案普遍性有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0158",
+    "title": "Frank Whitford：《Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "weimar_republic_parallel",
+    "accepted_claim": "包豪斯生命史与魏玛共和国同寿同命运，政治经济周期与学校阶段精确对应",
+    "evidence_boundary": "Whitford核心论题属叙述框架，非独立档案命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0182",
+    "title": "Hans M. Wingler：《The Bauhaus Weimar, Dessau, Berlin, Chicago》，1969",
+    "grade": "B",
+    "verification": "V2",
+    "role": "canonization_framework",
+    "accepted_claim": "Wingler将芝加哥延续表述为“包豪斯智识遗产在美国复兴并结出果实”，并以三次更名的叙事组织文献",
+    "evidence_boundary": "该表述是该档案集的1969年正典化框架，属编者层判断，须与档案事实分离标注",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "international_branch_expansion",
+    "accepted_claim": "1920年代工坊向Zürich、New York、Berlin开设国际分支并参加国际博览会，是战后区域转译与迁徙的尝试",
+    "evidence_boundary": "分支经营成效未量化，Häusler改革失败说明转译不成功",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "B",
+    "verification": "V2",
+    "role": "american_canonization",
+    "accepted_claim": "美国经典化机制：Dreier 1926购《Composition in White and Black》并更名《Clarification》、Barr 1936称杜斯堡如文艺复兴人物、MOMA 1952-3展Johnson论证",
+    "evidence_boundary": "Overy叙事框架（Ch10）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0342",
+    "title": "Paul Overy：《De Stijl》，1991",
+    "grade": "B",
+    "verification": "V2",
+    "role": "historiography_canon",
+    "accepted_claim": "历史写作建构正典：Jaffé 1956首部专论（至1980s档案开放为标准之作）、Banham 1960《Theory and Design in the First Machine Age》给风格派中心位置",
+    "evidence_boundary": "Overy叙事框架（Ch10）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0450",
+    "title": "欧美工艺美术运动跨国展览图录与比较史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "people_publications_and_cranbrook_transfer_prehistory",
+    "accepted_claim": "人员、出版物及Cranbrook等节点提示欧洲改革资源向美国教育机构的后续转译",
+    "evidence_boundary": "相关迁移只被点到，不能承担完整Cranbrook或全球教育史",
+    "status": "ACCEPTED_AS_TRANSFER_PREHISTORY"
+   },
+   {
+    "source_id": "B0454",
+    "title": "Wick：《Teaching at the Bauhaus》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "reception_germany",
+    "accepted_claim": "德国接受史：魏玛共和国时期论争、第三帝国压制、二战后联邦德国与民主德国对包豪斯教学法的不同评价与延续",
+    "evidence_boundary": "Wick自承德国接受史仅为“粗略草图”，引用须标注此限定",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "uniqueness_claim_editorial",
+    "accepted_claim": "'包豪斯与中国的关系比世界上任何国家都要独特'是编者（杭间导言）立场命题，属纪念文献展的价值判断",
+    "evidence_boundary": "仅作编者立场引用，不得当作档案事实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "three_constitutes_misreading",
+    "accepted_claim": "'三大构成'系日本构成教育的中国化形态，被误认为包豪斯基础课（康定斯基/伊顿先入华造成错觉），21世纪被扬弃——转译中的概念错位典型案例",
+    "evidence_boundary": "'既非出自包豪斯，又背离了现代设计艺术的要求'",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "chen_zhifo_self_correction",
+    "accepted_claim": "陈之佛接受证据链的自我修正：张道一称其'介绍包豪斯'，但原文无Bauhaus字样、系对日文资料汇编——证明接受史须区分直接接触与间接汇编",
+    "evidence_boundary": "分析报告已如实标注此矛盾",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "translation_popularization",
+    "accepted_claim": "70—80年代误读变体期的译介普及：1979年里德'建筑者之家'、邵大箴'包浩斯学院'、1982年译名定型（阳太阳、迟轲、奚传绩等），构成正典化的文本层证据",
+    "evidence_boundary": "译名演变即正典建构的术语考古证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "two_paths_mainland_hk_japan",
+    "accepted_claim": "内地接受包豪斯经香港（美系）与日本（三大构成）两条路径，台湾经日本殖民教育",
+    "evidence_boundary": "杭间路线陈述与靳埭强讨论补充属会议发言共识，缺乏系统档案统计支撑",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "canon_building_three_constitutes",
+    "accepted_claim": "三大构成作为中国对包豪斯基础课的正典化误读对象，其“构成”语源实为日本与俄国构成主义",
+    "evidence_boundary": "王受之正典批判与杭间正面辩护两说并置，语源论断有据但影响机制分析简略",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hong_kong_lineage_eight_designers",
+    "accepted_claim": "香港现代设计传承为郑可→王无邪→吕立勋/靳埭强/梁巨廷→石汉瑞/何弢/钟培正八人谱系",
+    "evidence_boundary": "靳埭强自述式口述史，单源回忆，缺乏档案交叉验证；人物与作品图像证据可部分佐证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "misreading_as_active_agency",
+    "accepted_claim": "自觉误读被正面化为中国人面对现代性的主动选择，而非贬义接受失真",
+    "evidence_boundary": "杭间观念史论证，属阐释框架命题；“正读只有在误读中产生意义”为理论主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bauhaus_collection_reverse_resource",
+    "accepted_claim": "7010件包豪斯藏品入藏中国美术学院，实现中国研究包豪斯实物资源反转",
+    "evidence_boundary": "郑巨欣亲历事件记录，单篇短论、事件真实但论述简略",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0060",
+    "title": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "designer_migration_network",
+    "accepted_claim": "Behrens自达姆施塔特→杜塞尔多夫→柏林AEG（1907年迁居Neu-Babelsberg）的轨迹及其助手网络的扩散构成设计人才迁徙案例",
+    "evidence_boundary": "本书以编年方式覆盖迁徙事实，迁徙主题非其核心议题",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0247",
+    "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "late_20c_canon_reception",
+    "accepted_claim": "1980年代中期后现代复兴中Gwathmey Siegel等美国建筑师引用工坊几何母题，Kallir指出其将产品从Gesamtkunstwerk语境剥离的悖论",
+    "evidence_boundary": "属接受史内容，主要来自引言/序言分析报告，为本书边缘议题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0277",
+    "title": "Lodder：《Russian constructivism》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "westward_translation_of_constructivism",
+    "accepted_claim": "利西茨基、莫霍利-纳吉等将俄国构成主义概念转译至德国与包豪斯语境的“迁徙—转译”案例（1922年柏林展、物品期刊、Die Kunstismen）",
+    "evidence_boundary": "本书接受史限于西欧北美，未涉及中国等东亚地区转译；格雷《伟大的实验》（1962）、里基《构成主义》（1967）作为正典建构是洛德论战对象，其评价须标注立场",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0346",
+    "title": "Penny Sparke：《Italian Design 1870 to the Present》，1988",
+    "grade": "C",
+    "verification": "V2",
+    "role": "canon_translation_italian_case",
+    "accepted_claim": "现代运动正典在意大利的区域转译：Gruppo Sette 1926年宣言既呼应欧洲现代主义又主张与古典传统连续；包豪斯训练的设计师进入奥利维蒂；战后Cassina 1965年复刻Le Corbusier、Gavina复刻Breuer包豪斯椅，经典通过意大利产业被商品化转译",
+    "evidence_boundary": "本书的转译证据在雇佣与产品复刻层面，非制度转译机制；若4.7需要包豪斯—意大利的制度链，本书仅提供片段",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0048",
+    "title": "Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986",
+    "grade": "D",
+    "verification": "V2",
+    "role": "semantic_router",
+    "accepted_claim": "风格派与包豪斯影响路径推演（如Huszár单色版画受魏玛Bauhaus版画启发、与Moholy-Nagy/Forbat的关联）仅作语义路由",
+    "evidence_boundary": "P4知识涌现推演，非本书形成期1917—1922直接论证",
+    "status": "ACCEPTED_AS_SEMANTIC_ROUTE"
+   },
+   {
+    "source_id": "B0081",
+    "title": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+    "grade": "X",
+    "verification": "V2",
+    "role": "p4_knowledge_emergence",
+    "accepted_claim": "知识涌现模型（P4）仅作语义路由使用，不构成Isotype史实的独立证据来源；任何由P4推演出的Isotype命题均无史学效力",
+    "evidence_boundary": "P4为检索/组织工具，命题有效性取决于clean行号证据",
+    "status": "P4_EMERGENCE_SEMANTIC_ROUTE_ONLY"
+   }
+  ]
+ }
+}

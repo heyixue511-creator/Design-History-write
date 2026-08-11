@@ -1,0 +1,104 @@
+{
+  "source_id": "B0493",
+  "corpus": "book",
+  "folder_name": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+  "material_type": "工艺美学思想史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\杭间：《中国工艺美学史(第三版修订本)》，2018_clean.md",
+  "clean_source_sha256": "ED473A7D1AF4EE1DF1BA810EC09F16246A0D169F67DC95871FA138A039F517BB",
+  "duplicate_group": "与B0495/B0500等共享中国工艺/设计思想对象；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 27,
+      "report_characters": 83714
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "6.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "craft_aesthetics_discipline_foundation"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "three_schools_thought_resources"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "late_qing_industry_shift"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "qiyi_lingqiao_and_qidao_debate"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "jingshi_zhiyong_legacy"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "from_craft_to_design_transition"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "modern_decorative_art_dilemma"
+    },
+    {
+      "section_id": "10.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "craft_concept_and_regime"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_bauhaus_china"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "liyu_daily_life_aesthetics"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "“工艺美学”框架本身为作者建构（1981年田自秉首倡的概念经作者体系化），概念史叙述含作者立场与体系化意图，引用概念界定时应标注为作者建构而非客观史实",
+    "西方概念反向套用存在张力：以“异化”“人体工学”“设计思维”等反观中国传统时有套用痕迹，命题需与原文措辞核对后采信",
+    "汉以后各章哲学讨论趋弱：唐代章作者自认“哲学贫弱”而偏重风格描述，部分朝代分析陷入“非此即彼难以分”的困境",
+    "民间文献（传说、艺诀、蒙学读物）被赋予与经典同等的证据地位，是作者方法论主张，其史料分层标准主观性较强",
+    "作者自认早期行文“稚嫩”、部分专题未充分展开，且对考据争议采取“存而不问”策略，个别论断（如“大器免成”）属作者立场而非定论",
+    "注释存在OCR/排印衍误（如页码“3019页”、书名“工程遗书”等），引用书中注释与书目标识时需回查原书",
+    "知识涌现模型是P4推演：packet内“02_语义链接网络”等知识元链接、枢纽结构分析系在本书文本之上的推演性重构，只作语义路由使用，不作史实证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1行：田自秉序与王朝闻《适用超实用》信——“工艺美术，是造物的美术；工艺美学，则是造物的美学”、六大基本特征（重己役物、致用利人、审曲面势、巧法造化、技以载道、文质彬彬）",
+    "clean第39-58行：儒家工艺美学思想（文质彬彬、致用利人）",
+    "clean第60-85行：道家工艺美学思想（技进乎道、大巧若拙、器用观）",
+    "clean第87-100行：墨家工艺美学思想——墨子为“第一位工艺美学家”，“兼爱节用”功利主义工艺观；对李泽厚评墨子的反驳（L46）",
+    "clean第204-217行：晚清“师夷长技以制夷”（魏源《海国图志》）、曾国藩、李鸿章“觅制器之器”、冯桂芬《制洋器议》、薛福成《振百工说》“工商立国”、康有为“奖励工艺”；“具有近代形态的工艺美学或设计美学开始了它的萌芽”",
+    "clean第210-211行：明末清初经世致用实学传统（黄宗羲、顾炎武“非器则道无所寓”、王夫之、方以智“道寓于艺”）为洋务运动提供理论依据",
+    "clean第214、217行：“奇技淫巧”与“器道之争”——保守派倭仁vs洋务派，张之洞“中学为体，西学为用”；器物接受史（杜兰德小火车、慈禧汽车）",
+    "clean第219-238行：李渔工艺美学思想（第十二章）——“制体宜坚”（坚为工拙之基础）、“取景在借”（借景入窗、天人合一）",
+    "clean第330-349行：近代装饰艺术（第十八章）——装饰的伦理、政治与救国维度；装饰艺术运动经庞薰琹传入中国",
+    "clean第351-358行：1998年学科目录“工艺美术”改称“艺术设计”；“工艺美术”与“设计艺术”是中国设计的两个过程；传统工艺是“唤醒中国本土设计面向世界的重要源泉”"
+  ]
+}

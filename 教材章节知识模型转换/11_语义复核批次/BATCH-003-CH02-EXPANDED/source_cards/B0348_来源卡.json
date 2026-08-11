@@ -1,0 +1,119 @@
+{
+  "source_id": "B0348",
+  "corpus": "book",
+  "folder_name": "Peterson, William S.：The Kelmscott Press：A History of William Morris's Typographical Adventure, 1991",
+  "material_type": "档案型印刷史、书籍设计生产史、企业史与接受史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Peterson, William S.：The Kelmscott Press：A History of William Morris's Typographical Adventure, 1991_clean.md",
+  "clean_source_sha256": "52D626DDBA7CB71F4E2D25753D55770106C8E79EBD63D3BE05457BE17342B5D7",
+  "duplicate_group": "Kelmscott共享史料组：与B0070、B0133及其他Morris研究共享书信和行动者文本；Peterson的档案重建可独立使用，共享原文不重复计证",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 94713
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "production_business_object_and_reception_method"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "diary_letters_ledger_proofs_press_and_objects"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "morris_cockerell_worker_gender_archive_and_anglophone_bias"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "type_design_reproduction_workflow_and_control"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "paper_ink_type_press_and_material_constraints"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "book_as_collective_authorship_and_hidden_labour"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "book_designer_printer_editor_manager_and_craft_roles"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "ideal_book_socialism_division_of_labour_and_collectors"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "pricing_discount_speculation_piracy_and_collecting_market"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "typography_ornament_illustration_and_unified_page"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "printing_exhibitions_piracy_and_transatlantic_reproduction"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "private_press_to_twentieth_century_typographic_debate"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "book_designer_and_commercial_print_professionalization"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "研究以莫里斯及英语世界为中心，法国、意大利与非英语接受较薄。",
+    "Cockerell 1894年后档案异常丰富，可能造成前后期证据密度和管理者可见性不均。",
+    "工资、工时和福利多来自管理者或同事证词，工人自述与女性日常劳动仍不足。",
+    "作者关于‘书设计师角色再发明’和现代精印起点的判断属于史学解释，不是无争议事实。",
+    "账目混合且未按19世纪会计惯例完全重算，盈利结论只能采用作者的保守措辞。",
+    "P4报告关于隐藏枢纽、量化悖论与插画翻译理论的扩展不能反写成原著实证结论。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第27—32行：研究缘起、新材料与超越印刷史的研究范围。",
+    "clean第877—896行：Art-Workers' Guild、Arts and Crafts Exhibition Society与Emery Walker讲座的建社链。",
+    "clean第1001—1013行：Prince刻冲模、Reed铸字厂机器铸字及Golden／Troy／Chaucer字体尺度。",
+    "clean第1166—1183行：作者反驳单一Kelmscott风格刻板印象，并区分商业印刷规则与不受价格约束的理想书。",
+    "clean第1715—1753行：出版社的复杂组织、秘书更替与Cockerell档案造成的可重建性。",
+    "clean第1924—1934行：印工工会化、工资与福利证词；具体工资仍不明。",
+    "clean第2162—2179行：收藏市场矛盾、账目缺口、保守盈亏判断、大小书互补和书商折扣。",
+    "clean第3335—3341行：全要素控制、书设计师角色解释及其与劳动分工／工人自由的矛盾。"
+  ]
+}

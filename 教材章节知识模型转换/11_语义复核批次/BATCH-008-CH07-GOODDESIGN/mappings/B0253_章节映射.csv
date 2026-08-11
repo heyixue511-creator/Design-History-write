@@ -1,0 +1,9 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0253,7.5,A,V2,rat_fuer_formgebung_gute_form,Rat für Formgebung（德国设计委员会）与‘Gute Form’（优良形式）话语的制度化（1950s）：展览序列、评审标准与机构职能,机构成立与展览为档案史实；‘优良形式=民主化’关联为作者命题,clean第210—228行,ACCEPTED_AS_CORE_SOURCE
+B0253,7.5,A,V2,braun_rams_silent_design,Braun与Dieter Rams的理性主义产品美学：‘silent design’（安静设计）哲学、Ulm—Braun合作、SK4等产品序列,产品与合作为档案史实；‘安静设计’哲学为行动者/作者解释,clean第420—445行,ACCEPTED_AS_CORE_SOURCE
+B0253,7.5,A,V2,vdid_professionalization,VdID（德国工业设计师协会）成立与联邦德国工业设计师职业化（1949年成立，1950s制度化）,协会成立与活动为档案史实；职业化‘成功’程度为作者判断,clean第310—330行,ACCEPTED_AS_CORE_SOURCE
+B0253,7.5,B,V2,postwar_bauhaus_legacy_struggle,1945—1950年包豪斯遗产作为民主德国与联邦德国争夺的文化资本：设计话语在冷战起点即被政治化,争夺事件为档案史实；‘冷战意识形态工具’分析为作者命题,clean第120—135行,ACCEPTED_AS_CORE_SOURCE
+B0253,7.4,B,V2,ulm_braun_institutional_context,乌尔姆学院与Braun的制度合作语境（Ulm—Braun产品合作、人员流动），为7.4提供企业侧档案证据,合作史实可查；‘Ulm影响Braun’的程度为学界共识但有争议，须标注,clean第420—445行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0253,7.5,B,V2,everyday_objects_consumer_culture,1960s西德消费社会的日常物文化：厨房、家电、塑料与‘富裕社会’批判，构成7.5消费侧的物证,物品与消费现象为史实；‘权威’解释为作者命题,clean第510—530行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0253,7.5,B,V2,anti_gute_form_counterculture,1960s—70s青年反文化对‘优良形式’教条的批判：设计批判话语作为官方叙事的对立面,批判运动为史实；其对制度的影响程度为作者判断,clean第600—620行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0253,0.6,A,V2,cold_war_ideological_framework,本书显性化‘优良形式’作为冷战意识形态工具的双重角色：美学理想与自由市场符号的交织，是0.6证据偏差与语境化解读的教学案例,‘双重角色’分析为作者命题；冷战语境为史实,clean第45—50、680—700行,ACCEPTED_AS_CORE_SOURCE

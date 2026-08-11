@@ -1,0 +1,123 @@
+{
+  "source_id": "B0514",
+  "corpus": "book",
+  "folder_name": "邹德侬：《中国现代建筑史》，2001",
+  "material_type": "建筑史专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\邹德侬：《中国现代建筑史》，2001_clean.md",
+  "clean_source_sha256": "42BF14F23824FBEA902DA3DF1E684A3D7C90A59C4E049AF505463354CA5CDAEB",
+  "duplicate_group": "与B0516/B0472等共享中国建筑/设计史对象；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 75311
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "6.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "role_primary_evidence"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_concept_authority"
+    },
+    {
+      "section_id": "10.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_adaptation_evidence"
+    },
+    {
+      "section_id": "10.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_primary_evidence"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_contextual_evidence"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_education_evidence"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_spatial_evidence"
+    },
+    {
+      "section_id": "10.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_institutional_evidence"
+    },
+    {
+      "section_id": "10.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_production_process_evidence"
+    },
+    {
+      "section_id": "10.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_symbolic_evidence"
+    },
+    {
+      "section_id": "10.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_comparative_evidence"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "D",
+      "verification": "V2",
+      "role": "role_background_context"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "D",
+      "verification": "V2",
+      "role": "role_term_context"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "以建筑师/作品为中心，业主、使用者、建造过程视角薄弱（前言自陈）",
+    "明确未包括台湾、香港、澳门，地域覆盖不完整",
+    "价值立场含规范性色彩：“现代建筑是天然需要”属规范性主张而非纯史实陈述",
+    "对1990年代市场负面现象（房地产泡沫、“欧陆风”）多为概括批判，个案深度有限",
+    "书末参考文献以著作为主（56条），大量论文以当页注形式存在，不利于统一检索",
+    "与设计史教材对象域错位：本书为建筑史对象，对工艺美术、印刷、日用品设计等6.x/10.x主题仅能作间接或背景支撑",
+    "民族形式论争的思想史细节（苏联理论中国化过程）依赖当页注文献，单独引用时须回到原书注释核验",
+    "知识涌现模型为P4推演：本复核的maps/checks语义路由基于知识涌现分析，属推演性路由，不构成对原文史实的改写",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第16—19行：现代建筑/现代性/经典现代建筑定义，现代性四体系（技术、功能、思想、制度）",
+    "clean第22行：风格化（stylize）指学院派按风格炮制“套子”的负面现象",
+    "clean第36—37行：“现代建筑始终隔而不绝”核心命题，“绝不是学派之争，而是天然需要”",
+    "clean第48—49行：民族形式主观追求总纲——苏联理论输入、现代建筑被斥结构主义/形式主义、复古主义批判、十四字方针确立",
+    "clean第54—55行：第6章总纲——设计革命与文革是灾难、建筑政治推向荒谬极端、全局停滞局部发展",
+    "clean第70行：建筑政治定义（理论/政治、学术/思想、业务/运动三重交叉）",
+    "clean第347行：“社会主义内容、民族形式”与“社会主义现实主义创作方法”两口号源出苏联文艺传统",
+    "clean第688行：文革建筑四正面观察面——政治性、地域性、领域性建筑及所表露的现代性",
+    "clean第795—799行：6.2.4隔而不绝现代性——广交会未断、市长林西支持、广州宾馆27层88m当时中国最高",
+    "clean第1383行：8.2“超越经典现代建筑”——在经典原则基础上渗入多元、生态、文化、参与、人本意识"
+  ]
+}

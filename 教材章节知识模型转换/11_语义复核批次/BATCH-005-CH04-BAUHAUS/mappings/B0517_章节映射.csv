@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0517,4.7,A,V2,architecture_modernism_transfer_1930_1960,1930—1960中国建筑现代主义是留德（奚福泉、夏昌世）与留美（贝聿铭、黄作燊、王大闳）建筑师思想移转的结果,Kögel以博士论文、大学档案与建筑图纸支撑，为全书档案实证最强篇之一,核对clean第1612、1616、1671、1716行,ACCEPTED_AS_CORE_SOURCE
+B0517,4.7,B,V2,two_paths_mainland_hk_japan,内地接受包豪斯经香港（美系）与日本（三大构成）两条路径，台湾经日本殖民教育,杭间路线陈述与靳埭强讨论补充属会议发言共识，缺乏系统档案统计支撑,核对clean第1759—1761行与第2377行,ACCEPTED_AS_CORE_SOURCE
+B0517,4.7,B,V2,canon_building_three_constitutes,三大构成作为中国对包豪斯基础课的正典化误读对象，其“构成”语源实为日本与俄国构成主义,王受之正典批判与杭间正面辩护两说并置，语源论断有据但影响机制分析简略,核对clean第2319行与第2325行,ACCEPTED_AS_CORE_SOURCE
+B0517,4.7,B,V2,hong_kong_lineage_eight_designers,香港现代设计传承为郑可→王无邪→吕立勋/靳埭强/梁巨廷→石汉瑞/何弢/钟培正八人谱系,靳埭强自述式口述史，单源回忆，缺乏档案交叉验证；人物与作品图像证据可部分佐证,核对clean第1007、1030、1083行,ACCEPTED_AS_CORE_SOURCE
+B0517,4.7,B,V2,misreading_as_active_agency,自觉误读被正面化为中国人面对现代性的主动选择，而非贬义接受失真,杭间观念史论证，属阐释框架命题；“正读只有在误读中产生意义”为理论主张,核对clean第1784行,ACCEPTED_AS_CORE_SOURCE
+B0517,4.7,B,V2,bauhaus_collection_reverse_resource,7010件包豪斯藏品入藏中国美术学院，实现中国研究包豪斯实物资源反转,郑巨欣亲历事件记录，单篇短论、事件真实但论述简略,核对clean第415行,ACCEPTED_AS_CORE_SOURCE
+B0517,6.5,B,V2,st_john_tongji_education_transfer,黄作燊1942年圣约翰大学建筑系引入包豪斯式教学体系，1952年并入同济，构成中国现代建筑教育制度转译起点,毛其智、Kögel、殷正声三篇互证，但早期课程细节多赖口述与回忆,核对clean第1612行与第1945行,ACCEPTED_AS_CORE_SOURCE
+B0517,6.5,B,V2,hong_kong_design_education_transfer_mainland,香港设计教育经王无邪基础课模式与1979年广州美院讲学等事件向内地转移,靳埭强口述为单源证据；事件可考但影响程度无独立评估,核对clean第1142行,ACCEPTED_AS_CORE_SOURCE
+B0517,6.5,B,V2,taiwan_japan_intermediary_education,台湾设计教育经日据时期殖民教育（姚村雄）与战后美国影响（王行恭）两条线接受包豪斯,两篇视角有差异且编者未加按语；姚村雄有总督府规章、海报展档案支撑,核对clean第2319行与两篇报告差异,ACCEPTED_AS_CORE_SOURCE
+B0517,6.5,C,V2,shantou_curriculum_reform,汕头大学长江艺术与设计学院以中国文化为本、心手合一的整体教学改革，超越三大构成引进,靳埭强自述教学实践，教学报告性质、无独立评估,核对clean第1149行,ACCEPTED_AS_CORE_SOURCE
+B0517,0.7,B,V2,asymmetric_translation_social_engineering,中国对包豪斯的转译呈不对称性：只取基础课与构成体系，弃其社会工程与“艺术改造社会”内核,王受之“中国没有包豪斯生存土壤”与杭间798案例两说并置，为会议论辩而非定论,核对clean第2319—2329行与798论述,ACCEPTED_AS_CORE_SOURCE
+B0517,0.7,C,V2,global_design_history_model_cases,本书为全球设计史“转译与不对称”模型提供中国大陆、香港、台湾三地对照案例,文集定位使其成为案例集成而非模型建构之作,核对序言L127—145与论坛总结L2309—2332,ACCEPTED_AS_CORE_SOURCE
+B0517,0.6,B,V2,evidence_layering_editor_stance,证据偏差控制：本书存在编者立场（靳埭强、杭间）与档案史实两类证据，须分层使用,口述史、会议发言与档案考据在书中并行且未标注证据等级,核对L1007—1142口述段与L1479—1741档案段,ACCEPTED_AS_CORE_SOURCE
+B0517,0.6,C,V2,p4_emergence_semantic_routing,知识涌现模型（P4）仅作语义路由：本书的知识发现报告属P4推演，不构成本书直接陈述,P4结论须标注为推演,核对packet中知识涌现分析四份报告,ACCEPTED_AS_CORE_SOURCE

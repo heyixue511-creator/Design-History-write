@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0082,0.1,C,V2,media_institution_construction,摄影这类人工物的身份与权威由制度性权力关系建构而非技术本质决定（Tagg式命题），可为“设计是制度”提供平行案例,该命题在本书中以殖民监控语境论证，属作者援引Tagg的转述框架，不直接论及设计,回查clean第160行及第710行Nagda“不特权化摄影”的对照,CONTEXT_ONLY
+B0082,0.2,B,V2,alternative_modernity,印度本土摄影是特定历史政治条件下高度“现代”的视觉身份尝试，既非前现代残余亦非本质“印度性”（对Gutman的批判）,该判断是作者对Gutman《Through Indian Eyes》的论战命题，“现代”一词须按作者语境理解,回查clean第594—606行区域（Gutman批判段）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0082,0.3,B,V2,object_centered_social_history,以“物的社会生命”（Appadurai）与“摄影生态”（ecology）替代分类学，示范以物为中心的关系史书写,方法框架来自Appadurai/Thomas，本书是应用范例而非该命题的首创者,回查clean第83行与第95行（concrete historical circulation）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0082,0.4,B,V2,artifact_as_historical_evidence,照片成为史料的条件：需档案互证、题注文本细读，且reception记录稀缺构成史料解释的边界,作者明确指出“很难找到接受史文献”，故由文本与制度推断接受是作者方法而非实证结论,回查clean第314行及第247行博物馆学话语,ACCEPTED_AS_SUPPORTING_SOURCE
+B0082,0.5,B,V2,image_archive_orality_triangulation,图像细读、殖民档案与口述（照片elicitation、摄影师生涯访谈、村民收藏记录）三线证据可交叉支撑摄影社会史,第1—2章为档案+图像，第3章为口述+参与观察，两类证据的时代与地域不同，不可混为同一接受证据,回查clean第178行、第706行、第1206行三类证据的分布,ACCEPTED_AS_SUPPORTING_SOURCE
+B0082,0.6,A,V2,producers_absence_and_presence,殖民地生产者与普通使用者如何被类型学化而抹去个体（The People of India），以及被展示者记录（Sayyid Ahmad Khan抗议）与当代田野中普通使用者的在场,消失机制分析是作者命题（有题注文本佐证）；Sayyid Ahmad Khan文本是被展示者第一手记录，两者须分列证据等级,回查clean第312行、第318—328行、第1206行,ACCEPTED_AS_CORE_SOURCE
+B0082,0.7,B,V2,circulation_translation_entanglement,意义由流通网络中的选择、误读、翻译与纠缠建构（Venetian trade beads、entangled objects），而非单向扩散,Venetian trade beads比喻借自Steiner，是作者的分析性借用；“纠缠”框架出自Nicholas Thomas,回查clean第91行、第95行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0082,1.6,C,V2,concept_competition,photo/painting范畴的竞争与模糊（photobananevale取代chitrakar、涂料覆盖照片、Parsi工作室“artist-photographer”自我呈现）可作为概念竞争机制的平行案例,本书讨论的是图像媒介范畴而非“设计”概念本身，映射为类比性补充,回查clean第706行、第874行,CONTEXT_ONLY
+B0082,2.1,C,V2,colonial_exhibition_network,1862年Calcutta Exhibition与1861年向伦敦展览中央委员会征集“族群照片”，显示世界博览会网络延伸至殖民地征集体系,本书仅顺带提及该展览，无博览会内部陈列细节，属网络背景证据,回查clean第178行、第243行,CONTEXT_ONLY
+B0082,2.2,C,V2,museum_governance,殖民博物馆（Indian Museum、Madras Museum）与官方征集令联动（Thurston、Breeks），构成国家治理通过博物馆/档案运作的印度侧案例,该机制是殖民治理而非英国本土博物馆学校体系，与2.2主线为平行关系,回查clean第330行、第345行,CONTEXT_ONLY
+B0082,2.3,C,V2,ruskin_morris_circulation,Ruskin/Morris观念经Birdwood—Kipling—Gandhi中介进入印度视觉话语的谱系（作者明示的“文化的来与去”）,该谱系为作者在Preface一笔带过的联想性谱系，非系统论证，不得展开为拉斯金莫里斯在印度影响史,回查clean第91行,CONTEXT_ONLY
+B0082,2.6,A,V2,colonial_classification,殖民分类机制完整链条：命名（题注“Goojur Landholder”质疑）、政治忠诚度等级化（Gujar/Banjara/Baniya对照）、舞台化“复原”原始状态（Dobson、Peppé）与东方学征引性网格（照片—博物馆—档案交叉引用）,题注与Dobson记录是组织者话语，“分类机制”批判是作者命题；安达曼妇女等被摄者无自我记录，不得推断其接受,回查clean第262—280行、第312行、第330—336行、第275行,ACCEPTED_AS_CORE_SOURCE
+B0082,2.7,A,V2,cross_border_translation,跨境迁移与地方现代性：swagger肖像从欧洲贵族经印度精英到大众照相馆的再语境化、painted photographs的符号学“反转”、蒙太奇对电影海报语法的横向迁移，均为选择、误读、翻译与再生产而非单向“影响”,“Chandni Chowk Rodchenko”等相似性联想不得当作实际传播证据；各案例的迁移路径多为作者基于图像与访谈的重构,回查clean第503—525行、第874行、第1283行,ACCEPTED_AS_CORE_SOURCE
+B0082,8.5,C,V2,postcolonial_state_identity,尾声passport photos显示身份识别技术从殖民监控（第1章指纹/测量）延续为后殖民国家官僚需要，“否定殖民遭遇”与“国家需要”在街头视觉空间并存,尾声是约1000词的田野随笔，“后殖民视觉综合体”为作者隐喻性总结，缺乏制度史论证,回查clean第1277—1301行,CONTEXT_ONLY
+B0082,12.7,C,V2,sitter_agency,被摄者能动性：Bherulal拒收不合意的照片、客户以本土范畴（vyaktitva/charitra）定义影像用途、“小问题”式访谈尊重被访者自我阐释，可作为参与/包容视角的案例,这些是研究伦理与方法示范而非设计参与实践，映射为类比性补充,回查clean第85—87行、第1206—1210行,CONTEXT_ONLY

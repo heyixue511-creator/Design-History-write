@@ -1,0 +1,58 @@
+{
+  "source_id": "B0102",
+  "title": "History of Modern Design（2023年第三版）",
+  "author": "David Raizman（1951/1952—2021年2月22日逝世，生前为德雷克塞尔大学媒体艺术与设计学院教授）；第三版由Carma Gorman（德克萨斯大学奥斯汀分校）撰写追思性Foreword，并与Raizman共同主持2015年NEH暑期学院",
+  "version": "Laurence King Publishing（Quercus Editions Ltd旗下，Hachette UK集团成员），2023年第三版；TPB ISBN 978-1-52941-976-4；第一版2003、第二版2010",
+  "version_relation": "与B0101（2010年第二版）为同系列修订版：保留六部16章编年框架与生产-消费分析主轴，但每部后新增Global Inspiration插章、Part VI由1961—2010延伸至1961—2020、第16章重写、种族/性别/白人特权议题实质深化；未变内容不独立计证，本卡仅针对第三版新增或实质修订内容",
+  "type": "修订版通史（面向本科设计史课程的高等教育教材，第三版为作者生前最后一次修订）",
+  "scope": "第三版时空范围1700—2020年（第二版止于约2010年）；新增六篇全球灵感插章（中国与汉字文化圈、穆斯林西亚与北非、中非与西非、美洲、日本、重访中国）及COVID-19、AI、服务设计、气候与社会正义等当代议题",
+  "duplicate_group": "VGRP005-EDITION；与B0101共享未变内容（不重复计证），第三版新增内容与B0478（2013年中译本，对应第二版）无涉；与各专史共享案例对象时只计一份P0",
+  "summary": "第三版相对第二版的核心变化有四：其一，新增六篇Global Inspiration插章，以前言明确声明的「去中心化」（de-centering）策略回应设计史经典的欧洲中心、男性中心、白人中心问题，其修订来源是2015年Raizman与Gorman共同主持的NEH暑期学院「Teaching the History of Modern Design: The Canon and Beyond」；其二，第六部叙事延伸至2020年，第16章重写为「创新、责任与平衡」，纳入COVID-19作为设计事件、AI与智能产品、服务设计、Redesign versus Obsolescence、GDP批判及#MeToo/#BlackLivesMatter等议题；其三，种族与性别维度实质深化，前言明确讨论white privilege，第3章新增美国奴隶制下David Drake签名陶罐、Jim Crow与邮购目录「色盲」市场等段落；其四，材料来源更新（NEH研讨班成果、Bloomsbury设计参考库、2013—2020年Cooper Hewitt三年展与Designs for Different Futures展）。教材价值：为通史教学提供「去中心化」的可操作范本，补上全球南方、女性与有色人种案例，并把叙事推进到当下。边界：de-centering、进步批判、软实力等均为作者框架命题而非史料事实；插章属概述式引入，不能替代各专史；数字化、可持续性等第二版已有主题不重复计证。",
+  "strengths": [
+    "六篇Global Inspiration插章是结构级创新：置于每部末尾与正文形成结构性对话而非附录，使去中心化成为全书的组织原则，并以前言NEH研讨班声明为版本依据",
+    "第16章把COVID-19、AI、服务设计、循环经济等2010年后议题写入通史，给出明确论述（如「designers contributed but did not own change」），叙事延伸至2020年并保留开放性结尾「Design, History, and Common Ground」",
+    "种族议题有实质新增案例：第3章David Drake奴隶陶罐与题诗、Jim Crow隔离、Sears/Montgomery Ward邮购目录对黑人消费者的「色盲」开放，配合前言white privilege声明，超越第二版仅「承认不足」的姿态",
+    "GI VI重访中国以软实力框架、供应链分析（iPhone代工、Foxconn）并明确提示Uyghur强制劳动与环境代价，避免了单向赞歌式表述",
+    "材料来源更新有据可查：2015年NEH研讨班、Bloomsbury Encyclopedia of Design与Design Library、2013—2020年新展览（Cooper Hewitt三年展、Designs for Different Futures）均在前言与第16章落地",
+    "女性与性别维度系统化扩展（前言、各章女性设计师案例），并在终节以#MeToo/#BlackLivesMatter呼应设计伦理的当代延续",
+    "作者以「A History」而非「The History」自我定位，canon批判与选择性叙事的承认有明确文本支持，便于教学引用与审计"
+  ],
+  "limits": [
+    "六篇插章篇幅有限（各约1—3页），属概述式引入，全球南方的本地制度、劳动与使用史仍不充分，不能替代各专史（如B0303墨西哥博览会、B0209非洲消费主义）",
+    "去中心化的选例仍多从欧美接受端出发（GI II聚焦欧洲东方主义消费、GI I偏重对欧贸易），是否真正「去中心」存疑——这是作者框架命题，须标注",
+    "第16章当代议题（COVID-19、AI）时效性强，2023年后事件发展会迅速使相关论述老化",
+    "全书插图及第三版新增/替换图版未达V3核验，视觉证据链无法确认，插章图像论证只能以文字为准",
+    "版本差异审计依赖P4报告对「新增」的判定：数字化、微型化、可持续性、Herbert Simon定义、设计-制作分离等第二版已确立命题，若第三版仅重述则不独立计证",
+    "作者立场（进步叙事批判、软实力、好设计/大众品味二元论、GDP批判）是作者命题而非史料事实，正式引用须返回实际版次、页码与上下文",
+    "知识涌现报告中的命名、语义网络、枢纽与镜像链接等模型是P4推演，仅作语义路由，不得写成原著命题"
+  ],
+  "checks": [
+    "clean第6行：版权页确认This edition published in 2023、Laurence King Publishing（Quercus Editions Ltd、Hachette UK），首版2003、二版2010、本版2023",
+    "clean第129—135行：前言声明第三版新增六篇Global Inspiration、挑战美术史正典，修订源于2015年NEH暑期学院「Teaching the History of Modern Design: The Canon and Beyond」（主题：taste、gender、globalism）",
+    "clean第135—148行：de-centering术语与Huppatz「全球思考不需全球覆盖」引语；COVID-19、气候变化、社会正义纳入第三版；明确讨论white privilege与女性设计师",
+    "clean第165—186行：全书16章6部+每部后Global Inspiration插章的结构声明；第三版新增与替换插图声明",
+    "clean第828—871行：GI I中国与汉字文化圈——瓷器/丝绸/茶叶贸易、造纸印刷与分工工厂制（兵马俑）、d'Entrecolles信件工业间谍、Meissen 1708高岭土配方破解、纹章瓷文化混血",
+    "clean第1174—1181行：Ch3末种族维度——制度性奴隶制限制设计品流通、David Drake签名陶罐、Jim Crow、邮购目录「色盲」市场",
+    "clean第3227—3242行：GI III中非与西非——殖民掠夺与「原始」偏见、刚果象牙橡胶、跨大西洋奴隶贸易约2000万人估计",
+    "clean第6694—6704行：Part VI引言——COVID-19中设计师「contributed but did not own change」、21世纪民族主义/保护主义回潮、AI与HCI",
+    "clean第7798—7809、7986—8004行：第16章COVID小节（信息图表、Dyson呼吸机、CPAP潜水面罩改造、临时庇护所）与AI/智能产品小节（微芯片、Apple Watch、Ive与Dieter Rams）",
+    "clean第8199—8250行：GI VI重访中国——毛时代宣传画、改革开放、2008奥运与2010上海世博会中国馆、软实力框架、Uyghur强制劳动与iPhone供应链"
+  ],
+  "maps": [
+    ["0.2", "B", "survey_periodisation_and_revision_history", "第三版结构修订：六部16章后各新增一篇Global Inspiration插章，第六部时间跨度延伸至2020年，第16章重写为「创新、责任与平衡」，可作为教学结构参照", "证据边界为前言与目录（clean第165—186行）及P4整体分析报告的结构梳理", "回查第三版目录与前言确认插章位置与Part VI时间跨度表述", "ACCEPTED_AS_REVISED_CLAIM"],
+    ["0.3", "A", "decentering_global_perspective_design_history", "第三版以de-centering为方法论纲领：承认经典叙事欧洲中心、男性中心、白人中心，通过非西方案例与跨文化互依展示「民族设计」概念之脆弱，并引Huppatz「全球思考不需全球覆盖」为限度", "证据边界为前言（clean第135—140行）与引言「A Wider Angle: De-centering Design」小节", "回查引言De-centering小节原文确认Forty引语与Huppatz引语", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["0.5", "C", "updated_scholarship_and_reference_sources", "第三版修订依托2015年NEH暑期学院成果及Bloomsbury设计参考资源（BED、Design: Critical and Primary Sources、BDL），各章融入2010年后研究，材料来源较第二版更新", "证据边界为前言第132—135、150—153行，属版本更新的事实性说明", "回查前言确认研讨班名称、主题与参考资源清单原文", "CONTEXT_ONLY"],
+    ["0.6", "C", "white_privilege_gender_and_canon_critique", "第三版前言明确讨论white privilege遮蔽有色人种贡献、扩展女性设计师与性别议题，并将设计史正典的建构性纳入话语自觉", "证据边界为前言第146—149行与专项报告六「话语自觉（canon critique）」", "回查前言确认white privilege与canon表述的原文措辞", "ACCEPTED_AS_REVISED_CLAIM"],
+    ["2.7", "B", "china_sinosphere_trade_and_technological_transfer", "GI I（第三版新增）：18世纪欧洲设计繁荣依赖与中国的贸易与技术转移（瓷器、丝绸、茶叶、造纸印刷、分工工厂制），欧洲瓷厂经工业间谍破解高岭土配方，外销瓷构成早期文化混血", "证据边界为clean第828—871行GI I正文与P4分章报告；属第二版未系统展开的新增内容", "回查GI I全文确认Meissen 1708、d'Entrecolles信件、纹章瓷等细节", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["2.6", "B", "islamic_west_asia_north_africa_decorative_arts_and_orientalism", "GI II（第三版新增）：穆斯林西亚与北非的几何/书法装饰传统（arabesque、girih）被东方主义透镜消费，修正Owen Jones将伊斯兰装饰抽象为「普遍原则」的解读，并指博览会中伊斯兰展区被异国情调化", "证据边界为clean第1587行起GI II正文与P4分章报告；插章为概述式引入，不能替代B0463等专史", "回查GI II正文确认对Jones的批判与「摩尔式」风格表述", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["2.6", "B", "central_west_africa_colonial_exploitation_and_design", "GI III（第三版新增）：中非西非发达的物质文化（染色编织、仪式用品）与欧洲殖民掠夺并置，刚果象牙橡胶贸易、Vlisco面向非洲市场的蜡染布、先锋派形式挪用的权力不对称", "证据边界为clean第3227—3242行GI III正文与P4分章报告；殖民掠夺史实须回P0档案", "回查GI III正文确认Leopold二世刚果与Vlisco论述", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["8.6", "C", "latin_america_modernism_and_indigenous_design", "GI IV（第三版新增）：拉丁美洲另类现代主义（墨西哥Barragán、巴西Brasília与热带木材家具）与前哥伦布及原住民设计传统（Navajo纺织、Pueblo陶器）被国际现代主义叙事忽略", "证据边界为clean第5215行起GI IV正文与P4分章报告；插章概述不能替代拉美专史", "回查GI IV正文确认Barragán、Niemeyer、原住民案例的覆盖深度", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["7.7", "C", "postwar_japan_design_policy_and_global_brands", "GI V（第三版新增）：战后日本以设计立国——MITI政策、G-Mark（1957）、Sony TR-610与Walkman、蝴蝶凳、1964东京奥运海报、民艺运动与MUJI，构成「现代主义=西方」的挑战案例", "证据边界为clean第6611行起GI V正文与P4分章报告；插章为概述，制度细节须回日本设计史专书", "回查GI V正文确认Sony、G-Mark、民艺、MUJI等案例表述", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["13.5", "C", "revisiting_china_contemporary_design_soft_power", "GI VI（第三版新增）：从毛时代宣传画到改革开放后世界工厂与品牌输出，2008奥运与2010上海世博会作为国家形象设计事件，以软实力框架分析中国设计，并提示供应链强制劳动与环境代价", "证据边界为clean第8199—8250行GI VI正文与P4分章报告；「软实力」是作者框架命题，Uyghur强制劳动表述须回P0来源", "回查GI VI正文确认「软实力」、鸟巢、中国馆、Uyghur强制劳动表述", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["1.5", "C", "race_slavery_and_design_in_us_chapter3", "第三版在第3章新增种族维度：制度性奴隶制与种族偏见限制设计品流通，David Drake签名奴隶陶罐、Jim Crow隔离、邮购目录对黑人消费者的「色盲」市场", "证据边界为clean第1174—1181行，属第二版没有的实质性新增段落；David Drake个案可作匿名设计/被遮蔽作者案例", "回查Ch3末「writing the history of modern design demands a consideration of race」段落原文", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["15.5", "B", "covid19_pandemic_as_design_event", "第16章将COVID-19作为设计的历史事件：设计师参与防护装备、信息图表与疫苗监测，但「contributed but did not own change」，并揭示全球供应链脆弱与本地化生产需求", "证据边界为clean第6702—6704、7798—7809行（Part VI引言与第16章COVID小节）；事件仍在展开，时效性强", "回查第16章COVID小节原文确认Dyson呼吸机、CPAP改造等案例", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["16.1", "C", "ai_smart_autonomous_products_and_service_design", "第16章新增AI与自主产品小节（generative design、智能产品改变设计师角色）与服务设计小节（将Herbert Simon定义落地于健康、金融、政府服务），并重审「设计-制作」「设计-营销」之后的「设计-AI」再分配", "证据边界为clean第7986—8004行及第16章小节标题；AI命题属作者2023年判断，须与14.5服务设计专史对读", "回查「Artificial Intelligence, Smart, and Autonomous Products」与「Service Design」小节原文", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["12.3", "C", "redesign_obsolescence_circular_economy_and_growth_critique", "第16章「Redesign versus Obsolescence」讨论Fairphone、Patagonia反消费广告、Cradle to Cradle与循环经济，并以「Contemporary Design and Economic Growth」小节质疑GDP增长范式的设计伦理", "证据边界为clean第7811—7816行GDP批判段与P4第16章报告；GDP批判是作者命题而非公认结论", "回查Redesign小节与GDP批判段落原文确认案例表述", "ACCEPTED_AS_NEW_EDITION_CONTENT"],
+    ["2.7", "X", "japonisme_aesthetic_and_art_nouveau_unchanged_from_second_edition", "唯美主义、日本主义与新艺术运动等第二版已覆盖且第三版未实质改写的内容（B0101的2.5/2.7主题）不独立计证；GI V日本聚焦战后，与19世纪日本主义主题不重复", "证据边界为B0101卡2.5/2.7与clean第6章文本对照", "回查第6章确认相对第二版无实质修订后再维持排除", "EXCLUDED_AS_SHARED_WITH_SECOND_EDITION"]
+  ]
+}

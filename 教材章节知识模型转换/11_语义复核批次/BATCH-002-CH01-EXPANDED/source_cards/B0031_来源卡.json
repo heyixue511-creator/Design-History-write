@@ -1,0 +1,124 @@
+{
+  "source_id": "B0031",
+  "corpus": "book",
+  "folder_name": "Arthur J. Pulos：《American design ethic a history of industrial design to 1940》",
+  "material_type": "美国工业设计通史与职业史专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Arthur J. Pulos：《American design ethic a history of industrial design to 1940》_clean.md",
+  "clean_source_sha256": "317CF39D60FE0745AD9EE7514F32657C53C757ACE6E5F0210BADB138F8251D40",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 181606
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "national_design_history_as_historiographic_object"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "settler_professional_gender_and_racial_bias"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "colonial_craft_household_and_apprenticeship"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "patents_interchangeability_state_contracts_and_scale"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_patents_specs_and_form_utility_split"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "wood_metal_glass_textile_and_machine_materials"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "craftsmen_engineers_artists_business_and_profession"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "industrial_arts_commercial_art_and_industrial_design"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "X",
+      "verification": "V2",
+      "role": "american_design_ethic_as_national_essence"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exhibitions_and_public_design_problem"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "schools_museums_policy_and_industry_organizations"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "advertising_distribution_and_consumer_engineering"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "national_exhibition_and_colonial_absence"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "europe_us_imitation_and_translation"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "‘美国设计伦理’与‘美国是第一个被设计的国家’是目的论和国家例外论命题，不作因果模型。",
+    "殖民叙事以定居者为主体，使用‘荒野’及对原住民的敌对表述，弱化土地占有与殖民暴力。",
+    "奴隶制、种族与性别只零散出现；‘缝纫机解放妇女’等语句把技术意图、市场修辞和实际效果混写。",
+    "把美国制造体系归功于Whitney的谱系受到B0225／B0084自身所引研究的直接校正。",
+    "作者曾任IDSA主席，职业奠基和伦理叙事具有参与者利益与自我合法化风险。",
+    "武器对象只作制度、专利和标准化的文字分析，不采用武器图像。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第30—45行：作者明确提出‘America did not just happen; it was designed’及清教—自由企业设计伦理。",
+    "clean第67—75、132—175行：殖民者中心、原住民威胁、奴隶制、性别化家庭劳动与功能主义被并置。",
+    "clean第884—940行：棉轧机、奴隶制复兴、Whitney军工和美国体系被组织为英雄谱系。",
+    "clean第1492—1515行：1842年设计专利及形式／效用法律区分提供制度线索。",
+    "clean第1616—1653行：设计教育与女性课程材料同时带有性别本质主义表述。",
+    "clean第1739—1755行：缝纫机的家庭、工厂、女性就业与营销被作者概括为‘解放’，实际效果须另证。",
+    "clean第23—26行及第270页后：商业艺术、Art Moderne、1925与1929展览、职业工业设计构成后续职业化叙事。"
+  ]
+}

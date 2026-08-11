@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0305,0.2,A,V2,consumer_revolution_historiographic_thesis,‘消费革命’是改变设计史生产中心叙事的经典史学命题，也必须连同后续批评教授,不能把1982年的‘第一’和断裂论当作无争议定论,补Berg、de Vries、Brewer／Porter及跨区域研究,ACCEPTED_AS_HISTORIOGRAPHIC_CORE
+B0305,0.3,A,V2,demand_supply_commercialization_and_material_culture_method,生产、需求、企业策略、政治制度、社会心态和物质证据可被置于共同解释框架,三位作者对商业化的具体机制并未完全统一,分作者、分章节、分机制使用并补反事实,ACCEPTED_AS_METHOD_WITH_INTERNAL_DIFFERENCE
+B0305,0.5,A,V2,letters_ads_trade_cards_inventories_objects_and_press,企业书信、广告、贸易卡、遗产清单、实物与报刊可互校消费供给和商业意图,商业意图与广告存在不能直接证明消费者心理和行为,补销售、顾客、家庭账目、使用、拒绝与地方材料,ACCEPTED_AS_SOURCE_METHOD
+B0305,0.6,A,V2,england_first_emulation_causality_class_gender_and_colonial_bias,英格兰例外主义、模仿窄化、强因果、阶级损益、性别与殖民缺口须进入审计,后续批评和本书内部反例均需实证定位,补比较消费史、殖民史、劳动史、性别史和消费者材料,ACCEPTED_AS_EVIDENCE_AUDIT
+B0305,1.3,A,V2,wedgwood_design_production_marketing_and_control,Wedgwood的设计、生产、展厅、样本、定价和销售控制说明构思与制作分离必须连到企业和市场,营销史不能替代工厂内部逐件作者、工序和工人经验,补设计簿、模具、工场、工资、工人和对象材料,ACCEPTED_AS_CORE_ENTERPRISE_CASE
+B0305,1.4,B,V2,ceramic_material_technology_and_product_differentiation,creamware、jasper等材料技术与产品等级、价格和市场分层相互作用,本书重点在商业化，不是陶瓷技术或材料供应链专史,补配方、窑炉、原料、技术档案和对象检测,ACCEPTED_WITH_TECHNICAL_FOLLOWUP
+B0305,1.5,A,V2,entrepreneur_partner_artist_worker_retailer_and_consumer_network,企业家、合伙人、艺术家、工人、零售者、赞助人和消费者共同形成商品网络,行动者被企业档案不均衡照亮，普通工人和消费者声音较弱,补对象级责任、工资、订单、顾客和家庭材料,ACCEPTED_AS_ACTOR_NETWORK
+B0305,1.6,A,V2,manufacturer_marketer_taste_legislator_and_retail_roles,manufacturer、商人、品味立法者、广告者和零售者等角色显示工业艺术的职业功能分化,不等于现代职业设计师已经形成,补同期称谓、合同、行业组织与教育材料,ACCEPTED_AS_ROLE_HISTORY
+B0305,1.7,B,V2,english_consumer_revolution_as_contested_regional_path,英格兰消费—生产互动可作为区域工业化路径之一,不能外推为欧洲或全球唯一／最早道路,补荷兰、法国、亚洲、殖民地和区域内部比较,ACCEPTED_AS_CONTESTED_REGIONAL_CASE
+B0305,2.3,C,V2,luxury_debate_and_moral_economy_context,奢侈、体面、必要与消费伦理争论可作为Ruskin／Morris反消费批评的18世纪前史,不直接研究工艺美术劳动伦理,与B0383、B0133及19世纪改革文本对读,CONTEXT_ONLY_AS_PREHISTORY
+B0305,2.4,B,V2,shops_showrooms_display_ads_credit_and_consumer_prehistory,展厅、陈列、广告、价格、信用和代理构成19世纪百货商店之前的消费中介机制,时段主要为18世纪且无成熟百货制度，不能直接承担本节全部核心叙事,补19世纪商店、百货档案、顾客、信用和使用史,ACCEPTED_AS_MAJOR_PREHISTORY
+B0305,2.6,C,V2,global_goods_without_colonial_power_analysis,茶、棉布、陶瓷等可提示消费社会依赖跨境商品,全书不能承担殖民分类、奴隶制或来源社会生产史,补殖民贸易、奴隶制、原料、生产者与来源地档案,CONTEXT_ONLY_WITH_COLONIAL_GAP
+B0305,2.7,C,V2,calico_porcelain_trade_and_market_transfer_context,棉布、瓷器、时尚版画和贸易网络可作为跨境物质流动入口,英格兰消费端材料不能证明地方生产者能动性或完整迁移链,补贸易、关税、样本、工艺、来源地和再生产,CONTEXT_ONLY_WITH_TRANSFER_FOLLOWUP
+B0305,5.3,C,V2,advertising_display_and_branding_prehistory,广告、陈列、品牌与市场细分可作为20世纪大众传媒商业设计的长时段前史,18世纪材料不能证明20世纪媒体制度和受众效果,补20世纪企业、媒介、设计师、发行和受众材料,CONTEXT_ONLY_AS_PREHISTORY

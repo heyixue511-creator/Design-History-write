@@ -1,0 +1,124 @@
+{
+  "source_id": "B0022",
+  "corpus": "book",
+  "folder_name": "Anne Massey：《Interior Design of the 20th Century》，1990",
+  "material_type": "室内设计通史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Anne Massey：《Interior Design of the 20th Century》，1990_clean.md",
+  "clean_source_sha256": "39C33059651A06530AC8E1A3E0764DD0A4626425D3F2174C49E39BD45FD5B20A",
+  "duplicate_group": "packet无精确哈希重复；与B0206/B0073等共享室内/装饰对象（Ruhlmann、Elsie de Wolfe、Art Deco案例、Colony Club等）时按共享对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 199784
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "5.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "art_deco_interior_dimension"
+    },
+    {
+      "section_id": "5.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_deco_department_store_commercialization"
+    },
+    {
+      "section_id": "5.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "esprit_nouveau_counterposition"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "streamlining_definition_medium_transfer"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "streamlining_commercial_interior"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "hollywood_moderne_media_diffusion"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "streamlining_marketing_tool"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "interior_decorator_women_profession"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "good_taste_historicism_profession"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "de_wolfe_professional_model"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "contract_interiors_postwar"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "gender_domestic_role_to_profession"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "aesthetic_movement_precursor"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "地理覆盖集中于西欧与北美，对东欧、亚洲、拉丁美洲、非洲的室内设计传统几乎未涉及",
+    "1990年首版叙述截至1980年代末，2001年修订版仅做有限更新，无法涵盖1990年代以来的数字设计与全球化",
+    "“室内设计”、“室内装饰”与“建筑室内”的概念边界有时模糊，职业史与风格史两条线索的界定不甚严格",
+    "阶级分析深度不及性别分析：中产阶级被概括为“the middle classes”，上层/下层中产内部品味分化未被精细考察",
+    "室内照片为对象证据，但clean文本无图，190幅插图的视觉证据无法在文本层直接核验",
+    "通史综合与档案事实需分层：Massey的解释框架（性别化编码、对位叙事、温和修正主义）属通史综合层，须与Ruhlmann序列号证书、De Wolfe佣金等档案事实区分标注",
+    "与B0206/B0073等共享室内/装饰对象（Ruhlmann、De Wolfe、Art Deco、Colony Club等案例）时只计一份P0",
+    "知识涌现分析系列（00-04，E1-E10发现）为对既有分析报告的P4知识涌现推演产物，仅作语义路由使用，不作事实证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第803-877行：1925年巴黎博览会——Art Deco房间布置展示与装饰艺术现代性的室内维度",
+    "clean第868行：Art Deco被编码为女性化（gender encoding）",
+    "clean第875—877行：巴黎百货公司（Bon Marché的Pomone 1923、Galeries Lafayette的La Maîtrise 1921）设立室内装饰部门，以1925年博览会Art Deco房间布置展示",
+    "clean第711—717行：1925年博览会对位案例——Le Corbusier新精神馆以批量生产家具（Thonet弯木椅）挑战博览会民族主义与装饰导向并引发丑闻",
+    "clean第977—978行、第988行、第996行：流线型（美国Moderne）1930年代在美国兴起：Art Deco垂直线让位于水平线，始于运输风格，迁移至厨房电器、办公设备等一切设计领域",
+    "clean第1005行：Radio City Music Hall（1933，Donald Deskey）为流线型应用于商业室内（娱乐场所）的精品案例",
+    "clean第1008行：好莱坞电影工业运用Moderne与流线型光滑镜面表面；Cedric Gibbons为MGM设计《Grand Hotel》（1932）布景",
+    "clean第1090行：Candace Wheeler 1877年创立纽约装饰艺术协会为女性提供职业教育与手工艺出路",
+    "clean第1099行、第1108—1109行：Wharton与Codman《The Decoration of Houses》（1897）将“自然好品味”等同于文艺复兴以降英意法范本",
+    "clean第1112行、第1119—1129行、第1145行：Elsie de Wolfe建立可复制的职业模式：Irving Place改造（1897-98）、《The House in Good Taste》（1913）、Colony Club（1905）为装饰师设计的首个公共室内",
+    "clean第1310行、第1377行：战后“合同室内设计”（contract interiors）兴起：SOM与Knoll Planning Unit基于Miesian美学承担企业合同室内"
+  ]
+}

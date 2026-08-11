@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0464,4.3,A,V2,institutional_turn_1923_exhibition,1923年大展系Gropius主动发动（驳“政府强令说”），以集体任务统一分裂中的学校并争取工业界支持；“艺术与技术：新的统一”既是外交口号也是哲学上荒谬的命题,展览缘起为作者考证推断：无政府指令文件，依据Gropius 1922年9月15日备忘录与Stölzl回忆；口号双重分析属Forgács命题,clean第857—1007行,ACCEPTED_AS_CORE_SOURCE
+B0464,4.5,A,V2,weimar_parliament_struggle,包豪斯生存取决于图林根政党政治与拨款博弈；Gropius自称像Cerberus一样排除政治，但“生存本身即政治”,议会辩论与报刊材料部分经Scheidig/Hüter等二手转引；“政治不可避免”为Forgács命题,clean第427—469行,ACCEPTED_AS_CORE_SOURCE
+B0464,4.5,A,V2,gropius_resignation_1928,Gropius辞职是校内共同体理想耗尽（Klee/Kandinsky裂痕、Breuer产权之争）与政治右转的双重结果；“信仰的时代结束了”,辞职时间线（1928年1月17日告知、2月4日辞职信、3月28日离校）为档案事实；象征解读为Forgács解释,clean第1257—1283行,ACCEPTED_AS_CORE_SOURCE
+B0464,4.5,A,V2,meyer_directorship,Meyer任内产业订单增长与智力水准下降并存；两大纲领（《building》《bauhaus and society》）全文为原始文本；因共产主义学生政治化经Hesse/Grote调查于1930年被解职,“误读历史时刻”与“缺乏历史可信度”为Forgács核心命题，作者并列Maldonado反方观点；Meyer是否“真”共产主义者作者自陈未决,clean第1285—1520行,ACCEPTED_AS_CORE_SOURCE
+B0464,4.5,A,V2,mies_tenure_and_1933_closure,Mies任内非政治化路线未能挽救学校：1932年德绍关校、1933年4月11日柏林关闭、8月10日解散；Rosenberg视艺术独立精神为比共产主义更激进的纳粹之敌,终局事件时间线为档案史实；Rosenberg判断属作者引用与解读,clean第1612—1690行,ACCEPTED_AS_CORE_SOURCE
+B0464,4.5,B,V2,artists_role_in_ouster,Kandinsky/Klee/Schlemmer/Albers等艺术家群体在Meyer下台中作用被以往低估；“设计成了艺术赖以幸存的门面”（门面翻转）,为作者“非常规解释”，有Hesse信件与Droste佐证，属解释性命题而非档案直接记载,clean第1510—1512行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0464,4.2,A,V2,weimar_dual_system,1919年双轨制（Formmeister/Handwerkmeister）与大师议会制度：艺术导师垄断决策、手工艺大师无投票权，埋下“艺术-技术”结构性裂痕,制度描述为档案事实；“双轨制违背行会平等理想”为作者分析,clean第358—378、461—465行,ACCEPTED_AS_CORE_SOURCE
+B0464,4.2,A,V2,preliminary_course_vorkurs,基础课程（Vorkurs）从Itten（Mazdaznan教学法）经Moholy-Nagy到Albers的交接，是包豪斯教育理念与校内权力斗争的交汇点,工坊再分配与人事时间为档案事实；Itten-Gropius教学哲学对立及“时间即政治”为作者分析,clean第579—607、825—851行,ACCEPTED_AS_CORE_SOURCE
+B0464,4.6,A,V2,dessau_production_programme,德绍纲领《Bauhaus Dessau — Principles of Bauhaus Production》（1926年3月）将设计/标准型生产确立为学校任务；Kandinsky同年12月发文反拨，标志艺术-设计裂痕显性化,纲领与Kandinsky文章全文为一手文本；“理念被倒转”为Forgács命题（皮洛士式胜利）,clean第1191—1207行,ACCEPTED_AS_CORE_SOURCE
+B0464,4.6,B,V2,dessau_institutional_transition,“整体人vs部分人”教育哲学与Kunst→Gestaltung术语转向，构成德绍时期从艺术学校向设计-制度形态转变的思想轨迹,术语转向为作者语义学分析；德绍校舍与大师宅为物证,clean第1101—1186行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0464,4.6,B,V2,bauhaus_vkhutemas_comparison,包豪斯与VKhUTEMAS看似平行实则相反：一从边缘先锋到时尚设计学校，一从国家中心到边缘；制度地位与物质条件（钢vs木）决定设计差异,比较框架与材料决定论为作者分析命题；两校课程/人事对应可证,clean第1522—1610行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0464,0.6,C,V2,evidence_bias_inversion_thesis,“倒转论”为全称命题（“一切创始理念都被倒转为对立面”），且“Bauhaus idea”无独立定义，存在循环论证风险；作者在L1512以“门面翻转”自我修正,证据偏差条目：全称命题边界须标注；Klee/Kandinsky的自治艺术并未“倒转”（作者自认）,clean第145—149行、第1510—1512行,CONTEXT_ONLY
+B0464,0.6,C,V2,evidence_bias_1923_exhibition,1923展览“自我动员说”基于文献空缺推断（作者明示“迄今未发现政府指令文件”），属反证论证，证据等级低于档案直接证据,推断成立依赖Stölzl回忆与议会辩论间接支持；与Scheidig/Hüter成说并存，须对照使用,clean第859—863行,CONTEXT_ONLY
+B0464,0.6,C,V2,evidence_bias_meyer_evaluation,对Meyer的“历史可信度”判断本身是作者的历史判断，Maldonado持相反立场且被作者如实并列,证据偏差条目：作者立场与档案事实须区分；“Meyer是否误导Gropius”作者自陈未决,clean第1470、1488—1494行,CONTEXT_ONLY

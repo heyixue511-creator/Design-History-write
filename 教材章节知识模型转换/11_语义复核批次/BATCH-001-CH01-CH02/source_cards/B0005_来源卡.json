@@ -1,0 +1,98 @@
+{
+  "source_id": "B0005",
+  "corpus": "book",
+  "folder_name": "Adamson, Glenn; Riello, Giorgio; Teasley, Sarah (eds.), Global Design History, 2011",
+  "material_type": "全球设计史方法论论文集",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Adamson, Glenn; Riello, Giorgio; Teasley, Sarah (eds.), Global Design History, 2011.md",
+  "clean_source_sha256": "0F265A119DDB16BCDAEBC0F2E1B99B4E4B67C6E8842CD8CDCA94A752E3B1F854",
+  "duplicate_group": "VGRP001",
+  "files": [
+    {
+      "report_file_count": 22,
+      "report_characters": 210406
+    }
+  ],
+  "report_structure": {
+    "report_file_count": 22,
+    "report_characters": 210406,
+    "review_basis": "overall_and_relevant_chapter_reports_plus_knowledge_discovery_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "relational_global_design_history"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "object_as_local_methodological_tool"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "source_asymmetry_and_canonical_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "connections_comparisons_objects"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "materials_and_distributed_production"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_term_and_professional_identity_context"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "local_production_global_connections"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "trade_fashion_and_consumption"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exhibition_identity_and_classification"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "translation_and_local_modernities"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "论文集不是一套无冲突的统一理论；引用时必须署具体章作者。",
+    "欧洲和北美学术网络仍居中心，拉丁美洲、东欧、中亚等区域薄弱。",
+    "部分章节重文化交换、轻结构性不平等；不能把连接自动写成互惠。",
+    "景德镇、印度棉布和茶道案例不能互相替代，亦不能证明受众效果。",
+    "Clean原文仅作关键段落定位；未完成全篇、版次、图版、注释和所引P0材料核验。"
+  ],
+  "original_spot_checks": [
+    "导论第547行、PDF页3：全球设计史是方法而非题目。",
+    "导论第674—676行、PDF页20：物总在地方，但可折叠超地方过程。",
+    "Anne Gerritsen章第1774—1779行、PDF页46：更换蓝绘图样可不改变其余生产链。",
+    "Prasannan Parthasarathi回应第2500—2505行、PDF页63：应说在英格兰／印度的设计，而非本质化民族设计。",
+    "Christine Guth章第2580—2584行、PDF页65：进口替代可表现为以异质之物替代。"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "source_id": "B0162",
+  "corpus": "book",
+  "folder_name": "Gallo, Max：The Poster in History, 1974",
+  "material_type": "海报史通览",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Gallo, Max：The Poster in History, 1974_clean.md",
+  "clean_source_sha256": "A86FC75C1FA4EB1DB79AF8D4238FB9897EDA360941BEDFEC515434906BE633BF",
+  "duplicate_group": "与B0199、B0010等海报来源共享对象时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 14,
+      "report_characters": 127806
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "poster_as_visual_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "poster_evidence_boundary"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "political_propaganda_poster_evidence"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "department_store_retail_media"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "department_store_advertising_values"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "department_store_competition_small_business"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "mass_consumption_advertising_expansion"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "advertising_behavior_norm_formation"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "counterculture_commercial_absorption"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "economic_crisis_advertising_cycle"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "stability_ideal_in_crisis"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "advertising_mirror_dissemination"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "欧洲中心主义：以法国为核心，亚洲（中国仅第六章短暂提及）、非洲、拉美海报传统几乎缺席",
+    "社会史叙述是作者框架：阶级分析、心态归因（如“非自愿但有效地传播心态”）系Gallo推演，须与图像自证内容区分标注",
+    "图像证据边界：海报可证供给与再现，不能证明接受效果，全书无受众调查或传播效果实证",
+    "方法论断裂：Gallo社会史与Quintavalle形式分析未真正整合，引用形式命题须单独回查第七章专论",
+    "1974年时代局限：冷战预设（美苏趋同论、对中国浪漫化）与不系统的性别分析，需批判性重读",
+    "文本质量：clean原文含大量版面噪声（书脊、图注与正文粘连），引用行号时须人工甄别",
+    "知识涌现模型说明：本来源的章节映射、等级与命题抽取系P4知识涌现推演结果，仅作语义路由，不构成原文直接证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第25—41行：开篇方法论——革命使墙壁“活起来”，海报“引导或要求、邀请告发或参与、列出嫌疑人、煽动仇恨”，“在塑造事件中扮演积极角色”，同时“海报也是时代的记录”（a record of the times）",
+    "clean第55—56行：雅各宾阶段“曾经是日常表达需求的满足变成了宣传”（became propaganda），海报从自发表达转为官方规训",
+    "clean第67行：巴士底狱从法国大众想象中的固定参照点“退化”为广告海报上的营销工具，革命被商品化",
+    "clean第422—435行：百货商店以长廊、廊柱、挂毯酷似歌剧院，同为“视觉盛宴、梦想邀请、情感刺激”的“销售工厂”；寡妇丧服海报“既反映了一种心态，又非自愿但有效地传播了这种心态”",
+    "clean第436—441行：百货商店海报模特均为中产阶级装束，儿童被表现为父母的“小型复制品”；Crespin & Dufayel巨幅海报玻璃穹顶写“明码标价”（约1880—85）",
+    "clean第470—475行：“在不断变化的19世纪社会中，广告所肯定的理想是稳定性”；19世纪末法国年广告支出近1亿法郎（报纸广告4000万）；1889年德国牧师自称收到13577份广告传单",
+    "clean第1037—1039行：世纪之交海报宣传“被精细化”，对异邦人与外国货的仇恨增长，仇外与种族主义宣传是欧洲民族主义的表现",
+    "clean第1361行：1913年柏林体育场开幕海报中的年轻运动员“已是二十年后众多纳粹宣传海报、雕像与游行中雅利安士兵的形象”——Gallo的未来回望框架"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "B0086",
+  "corpus": "book",
+  "folder_name": "Colleen E. Kriger：《Cloth in West African History》",
+  "material_type": "西非纺织物质史、历史考古与技术史专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Colleen E. Kriger：《Cloth in West African History》_clean.md",
+  "clean_source_sha256": "8785BBC7DE5B6B25080D20F85A8A3898CC2506433B902591292E9939F7F49DCF",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 13,
+      "report_characters": 162341
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "textile_object_as_multilayer_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "triangulation_of_material_linguistic_and_archival_sources"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "museum_archive_and_silent_labor_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "local_objects_and_global_networks"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "distributed_textile_knowledge"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "fiber_loom_dye_and_pattern_system"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anonymous_artisan_and_trade_network"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "west_african_mixed_technical_trajectories"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumer_choice_and_market_mediation"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "colonial_collection_and_classification"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "selection_refusal_imitation_and_reproduction"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "地理主要限于今尼日利亚，不能以‘西非’标题外推整个区域。",
+    "早期时段证据稀疏，若干织机、棉花与靛蓝起源判断明确属于推测。",
+    "博物馆目录可能混淆制造地、使用地、取得地和收藏地。",
+    "消费者偏好常经商人和殖民档案间接呈现，实际接受仍有缺口。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第165—214行：物质与视觉证据可校正文献，消费者和生产者作用须纳入。",
+    "clean第249—357行：纤维、捻向、织纹与织机痕迹的技术证据；纺织物不是文本。",
+    "clean第518—543行：垂直织机长时段追溯同时明确证据不足与推测。",
+    "clean第740—769行：进口布经过地方选择，欧洲仿制因消费者辨识而失败。"
+  ]
+}

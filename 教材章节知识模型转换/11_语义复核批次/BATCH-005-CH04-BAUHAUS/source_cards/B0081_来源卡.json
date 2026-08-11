@@ -1,0 +1,135 @@
+{
+  "source_id": "B0081",
+  "corpus": "book",
+  "folder_name": "Christopher Burke：《Isotype Design and Contexts, 1925-1971》",
+  "material_type": "视觉传达设计史专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Christopher Burke：《Isotype Design and Contexts, 1925-1971》.md",
+  "clean_source_sha256": "2731133BF450300EE9AB109D12B597C18C86BA9E4724FB4C212F2C38FB1F0BA9",
+  "duplicate_group": "与其他来源共享Isotype/Neurath对象（如Otto Neurath著作、The transformer 2009、雷丁Isotype Collection衍生出版）时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 192614
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "isotype_as_method"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "role_transformer"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "visual_language_rules"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "visual_effect_claim"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "migration_translation"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "interpretive_frame"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "institutional_role"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "artifact_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evidence_types"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_bias"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "selection_bias"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "izostat_soviet_transfer"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modley_us_adaptation"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "west_africa_colonial_transfer"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "X",
+      "verification": "V2",
+      "role": "p4_knowledge_emergence"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "核心论点（Isotype不是风格而是方法、transformer枢纽地位、与Bauhaus划界）属于Burke/Kinross团队的解释框架，书中史实陈述与学术解释的分层并不总是显式标注",
+    "作者自认Isotype实际受众接收效果缺乏系统实证研究：可读性、教育成效、传播效果命题不可由本书自动推定（Marie Neurath自述“has still to be tested”）",
+    "Isotype定义边界严格：排除Arntz战后荷兰统计所工作与Modley等模仿者，导致影响史覆盖不全",
+    "苏联数据伪造问题的“Neurath知情/共谋”认定无法证明，该问题处理依赖语境推断，Chizlett批评与Minns回应均非定论",
+    "非洲章节（第11章）的殖民/后殖民评价属作者解释框架，且Western Region个案（1952-1958）的普遍代表性有限",
+    "Zeitschau街头展示“每日2000访客”等传播成效数据源自机构自述，未独立验证，存在自报偏差风险",
+    "1945-1971年Marie Neurath独立领导时期的工作覆盖面仍不完整，儿童图书章节侧重出版成品与流程记录而非完整制作史",
+    "知识涌现模型（P4）仅作语义路由使用，本包全部命题的史学效力来自档案证据与书中引用，P4推演结论不得作为史料证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第135-137、345、542行：Isotype制度史脉络——GWM（1925-1934）→荷兰流亡→牛津/伦敦Isotype Institute（1942年成立）",
+    "clean第1177-1228行：Transformer（转换者）角色沿革——Marie Reidemeister 1927年起任首位转换者，1932年术语首现，1929年“trustee of the public”概念出现",
+    "clean第196-202、1271-1285行：Isotype第一原则——以符号重复而非放大表示数量；模块化象形图由Gerd Arntz主导设计（1926年Gesolei展览后加入，1928年9月正式入职）",
+    "clean第210行：Isotype“避免情感手段、传递事实知识”是Neurath的方法主张",
+    "clean第222行：Introduction采用“相对严格定义”界定Isotype范围，排除战后荷兰统计所作品与模仿者",
+    "clean第430行：Neurath回忆“1923年第一原则已现”与实物放大法图表不符",
+    "clean第5095-5107行：Izostat制度输出（1931-1934）——1931年9月12日法令强制采用，Neurath任主任，至少5名维也纳成员常驻莫斯科；数据被夸大/歪曲，Neurath共谋无法证明",
+    "clean第6037行：1933.1.21 Neurath致van Kleeck信——美国传播的起点材料",
+    "clean第10444行：Marie Neurath自认西非工作“has still to be tested”",
+    "clean第2178、8775行：定年方法论（Kinross视觉考古学）与duplicate books记录——设计过程材料作为证据"
+  ]
+}

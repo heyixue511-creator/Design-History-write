@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0500,6.2,A,V2,late_qing_industry_and_national_goods,晚清洋务运动重商思想—以工立国—实业救国构成中国现代设计观念的经济思想起点,序言与第三章以经济思想史为叙述框架，属作者建构+档案史实（论著原文引证）分层,回查clean L6、L40工业化思想谱系原文,ACCEPTED_AS_CORE_SOURCE
+B0500,6.2,A,V2,design_idea_transfer_via_products,设计观念随技术/工业产品跨国转移而渗透（德国汽车飞机、美国汽车无线电、福特生产方式）,转移史实有档案文献，'观念载体'命题为作者理论概括,回查clean L26、L28-32技术转移段落,ACCEPTED_AS_CORE_SOURCE
+B0500,6.2,A,V2,expo_and_design_transfer,博览会作为设计观念输入与展示节点（1925年巴黎国际装饰艺术博览会、1929年费城世博会、1904年路易斯安那世博会）,事件记录有据，影响程度评估为作者判断,回查clean L37、L40博览会条目,ACCEPTED_AS_CORE_SOURCE
+B0500,6.2,A,V2,national_brands_and_national_goods,国货/老品牌（永丰泰国货号、无敌牌缝纫机、百雀羚、双妹、金龙牌热水瓶、华生电扇）作为民族工业设计载体与国货意识表征,品牌史料来自左旭初藏品研究及口述整理，清单为作者编排,回查clean L40品牌条目,ACCEPTED_AS_CORE_SOURCE
+B0500,6.2,B,V2,low_industrialization_strategy,低度工业化论争（方显廷、丁趾祥丝绸优先、高叔康改良手工业）塑造民国设计产业条件,经济思想史原文引证可靠，与设计发展的关联为作者推论,回查clean L47-54三论原文,ACCEPTED_AS_CORE_SOURCE
+B0500,6.4,A,V2,shanghai_urban_consumer_culture,上海都市消费文化：月份牌广告、电影、霓虹灯广告、云裳时装催生设计现代性,个案深描（杭穉英、张光宇、周瘦鹃）支撑，概括性判断属作者,回查clean L59、L62-74月份牌与电影段落,ACCEPTED_AS_CORE_SOURCE
+B0500,6.4,B,V2,film_and_mass_entertainment,30年代电影作为大众娱乐“现代性”风向标（联华/明星公司、左翼影人、片单）,电影史料翔实，“电影造梦”阐释为作者,回查clean L62-74电影论述,ACCEPTED_AS_CORE_SOURCE
+B0500,0.2,A,V2,modernity_of_chinese_design,中国设计现代性问题：中性人格、月份牌女性形象现代性、电影造梦、市民文化,“中性人格”“现代性”为作者建构概念，个案为史料,回查clean L40、L59、L297现代性论述,ACCEPTED_AS_CORE_SOURCE
+B0500,0.2,C,V2,designers_personality_modernity,设计师人格现代性（中性人格）与设计现代化关系,概念建构为主，个案（吕彦直、梁思成、杭穉英）支撑,回查clean L58-59,ACCEPTED_AS_SUPPLEMENT
+B0500,6.1,B,V2,pre_history_of_concept,概念前史：观念史方法论、D1/D2区分、设计反思两条路径（技术史/观念史）,方法论框架为作者建构，哲学资源（科林伍德、洛夫乔伊）有据,回查clean L11、L16、L21,ACCEPTED_AS_CORE_SOURCE
+B0500,6.1,C,V2,pattern_education_system,图案教育制度（1902年三江师范学堂、北平美术学校、杭州国立艺术院）作为概念前史与设计教育基础,教育史实有据，“图案为中国设计观念主要思想资源”为作者概括,回查clean L37图案教育段落,ACCEPTED_AS_SUPPLEMENT
+B0500,6.3,C,V2,visual_public_sphere_advertising,广告媒介与视觉传播（1932-34年上海广告牌4000平方米、霓虹灯广告、张光宇广告摄影术、月份牌远销全国）涉及视觉公共领域,本书以观念史为主轴，印刷资本机制非其重点，仅局部关联,回查clean L40、L59广告论述,ACCEPTED_AS_SUPPLEMENT
+B0500,6.6,B,V2,national_form_vs_modern_form,民族形式与现代形式之争：80年代图案与“三大构成”论战、工艺美术vs工业设计两错误道路论、西化vs自主之争,论争梳理为作者叙述，双方观点有脚注文献支撑,回查clean L117、L187、L297,ACCEPTED_AS_CORE_SOURCE
+B0500,10.1,C,V2,new_china_design_institution,1949年后工程自发型设计与出口贸易（一五计划、156项工程、1957年首届广交会、出口纺织品）关联新中国设计制度,以观念延续为主线，制度层面非本书重点，仅局部涉及,回查clean L81、L112,ACCEPTED_AS_SUPPLEMENT

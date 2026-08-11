@@ -1,0 +1,14 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0066,5.5,A,V2,fortune_1934_profession_naming,1934年2月Fortune匿名文章（George Nelson撰）首次在流行媒体使用“industrial design”一词并引爆行业，是职业确立的关键节点,文章匿名发表、作者归属为后世考证（现知Nelson）；“引爆”评价为Gantz叙述,clean第1281—1289行,ACCEPTED_AS_CORE_SOURCE
+B0066,5.5,A,V2,professional_association_lineage,职业制度化进程：AUDAC（1927）→ADI（1938）→SID（1944，定义“为机器与大规模生产设计多种产品者”）→IDSA（1965三合一合并）,组织沿革以IDSA档案为据；SID排他性入会标准体现职业精英主义,clean第2681—2699行,ACCEPTED_AS_CORE_SOURCE
+B0066,5.5,A,V2,design_education_institutionalization,职业形成伴随教育制度化：Carnegie Tech首设工业设计学位（1934），ADI 1944年发布四年制教育大纲，Dohner被誉为“美国工业设计教育之父”,教育史以ADI/SID公告与作者访谈为据，课程沿革可对照院校档案,clean第2583行；clean第2626—2628行,ACCEPTED_AS_CORE_SOURCE
+B0066,5.3,A,V2,depression_sales_engineering,大萧条催化工业设计：1933年谷底制造商转向以新外观刺激消费，Fortune文章引用Sprague将“未以设计开辟新需求”指为萧条持续主因，设计成为销售工程,论证以Fortune原文为原始文献，“催化”因果判断为Gantz解释框架,clean第1271—1281行；clean第1301行,ACCEPTED_AS_CORE_SOURCE
+B0066,5.3,B,V2,sales_appeal_standard,“销售吸引力”成为设计评判标准：同质同价产品中外观更吸引购买者者胜出（Nelson），Gantz以销量增长作为评价设计成功的核心指标,该标准为行业内部立场，忽略文化/社会/环境维度，须与Papanek式批判并置,clean第1302行,ACCEPTED_AS_CORE_SOURCE
+B0066,5.3,B,V2,planned_obsolescence,年度造型更新（GM Sloan首创）使汽车外观快速过时，Graham Blue Streak（1932）“使先前所有汽车设计瞬间过时”，是计划废止在汽车业的大规模实践,案例细节出自作者叙述，“计划废止”概念表述须与Vance Packard（1957）批判文献对照,Ch4分析报告行1160,ACCEPTED_AS_CORE_SOURCE
+B0066,5.4,A,V2,streamlining_media_transfer,流线型从空气动力学/生物学概念迁移为消费美学：Thompson、Jaray的航空研究经Bel Geddes的Horizons（1932）改造为关于未来的文化想象，成为美国原创现代设计语言,流线型谱系属作者综合叙述，文化意义层面须以Meikle《Twentieth Century Limited》等学术专著补充,Ch4分析报告行1145、1158；clean第1147行,ACCEPTED_AS_CORE_SOURCE
+B0066,5.4,B,V2,exposition_media_stage,芝加哥“世纪进步”博览会（1933）是流线型集中展示与工业设计师公共身份确立的媒介事件：Teague福特圆形展厅、Dreyfuss Hotpoint平顶冰箱、Bel Geddes照明设计等集中亮相，设计师姓名成为销售卖点,博览会叙事以作者描述为主，访客数据与展品清单可对照博览会官方档案,Ch4分析报告行1147、1159,ACCEPTED_AS_CORE_SOURCE
+B0066,5.4,B,V2,future_vision_media,Bel Geddes的Horizons（1932）与Futurama（1939世博会）通过未来交通图景将工业设计塑造为媒介化的乐观主义技术想象,“未建造但产生影响”的论断属作者评价，影响范围缺乏同期量化证据,Ch4分析报告行1164；整体报告行425,ACCEPTED_AS_CORE_SOURCE
+B0066,5.7,B,V2,design_ethics_controversy,商业设计伦理争议：SID排他性入会标准体现职业精英主义；Packard《Hidden Persuaders》（1957）与Papanek《Design for the Real World》（1972）对商业设计的批判被Gantz承认部分有效性但最终回归商业主义立场,争议叙述带作者明确立场（反精英审美、重市场），批判方的论证需另读Packard/Papanek原著,整体报告行398—399、436,ACCEPTED_AS_CORE_SOURCE
+B0066,5.7,B,V2,museum_vs_market,"MoMA“优良设计”（Good Design, 1932—1955）以精英审美规范商业设计的努力失败，工业设计由消费者购买行为与市场成功定义——“博物馆vs市场”之争贯穿全书",该论断是Gantz最一致的价值立场，属论辩性命题而非中性史实，须与MoMA展览档案及学术批评并置,整体报告行349、97,ACCEPTED_AS_CORE_SOURCE
+B0066,0.6,A,V2,insider_bias_disclosure,作者为业内人/前IDSA主席（Black & Decker设计总监、CMU教授），本书兼具内部知识与立场偏向：美国实践优先、反MoMA精英主义、先驱者英雄主义，须作证据偏差来源处理,本书属职业史专著+人物叙事，须与匿名从业者材料、档案及外部学术史并置；P0计数受重复组约束,clean第4717行；整体报告行347—351、355,ACCEPTED_AS_CORE_SOURCE
+B0066,0.6,B,V2,idosa_archive_reliance,史料以行业内部来源为主（IDSA文件与通讯、Fortune原始文献、设计师自述、访谈），专利文献为唯一“硬证据”类别，设计师自述部分须批判性使用,内部史料有选择性留存风险，设计师自述（Teague 1940、Loewy 1951/1979等）自带宣传性,整体报告行354—360,ACCEPTED_AS_CORE_SOURCE

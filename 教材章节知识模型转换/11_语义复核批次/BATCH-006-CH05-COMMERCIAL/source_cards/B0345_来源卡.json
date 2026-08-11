@@ -1,0 +1,128 @@
+{
+  "source_id": "B0345",
+  "corpus": "book",
+  "folder_name": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+  "material_type": "设计文化通史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》_clean.md",
+  "clean_source_sha256": "10467B4F18AF04FCC6A5448FBF6BB90851275894EF3368ECB626571A7B80FE8E",
+  "duplicate_group": "与B0400/B0401为同书多资产（版本关系待判定）；与B0346等Sparke著作共享对象时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 118457
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "consultant_designer_profession"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "designer_culture_emergence"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "international_diffusion"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "gender_correction"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "consumption_as_modernity_engine"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "american_consumer_system"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "streamlining_commercial_modernity"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "styling_and_planned_obsolescence"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "advertising_desire_engineering"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_ethics_turn"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "celebrity_designer_critique"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_concept_dualism"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_history_deheroization"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "americanization_of_europe"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "欧洲/英语中心：非洲、拉美、印度基本缺席，中国仅以制造外包/国家项目身份出现（Foxconn/鸟巢案例），作者自认“全球语境”实为“欧美日”语境",
+    "理论密度不均：Ch6.2/Ch9.2理论过密（Baudrillard、Jameson、Lyotard），Ch2/Ch7偏技术叙述，章节间阅读坡度不一致",
+    "二手依赖为主：绝大多数论据来自设计史/文化研究二手文献，一手档案研究少（符合导论定位，但原创史料贡献有限）",
+    "时段界定张力：“postmodernity 1940 to the present”把1940-1960归入后现代，与Ch6“现代性之梦”（战后现代性延续）存在未充分澄清的矛盾",
+    "“现代主义vs商业现代性”二分框架为分析性标注：原文无commercial modernity字样，须以streamlining、modernistic、“intrinsic components of the American commercial system”等原词回查",
+    "OCR噪声：clean版存在识别错字，语义可还原，但精确行号引用需复核",
+    "本卡命题为P4知识涌现推演——由分析报告与clean原文语义核对推断生成，非原文逐字断言，仅作语义路由与命题组织之用，未经逐页原文全量复核",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第582行：现代工业设计师需技术+文化背景+公众意识三重资质，其职责是“creating sales”（创造销售）——职业定义的关键引文",
+    "clean第586行：两次大战之间“consultant designer for industry”概念成熟——Ch3.2职业生成的时间锚点",
+    "clean第604行：美国咨询设计师多数实际时间投入redesign项目，而非通史印象中的流线型未来愿景——修正性证据",
+    "clean第607行：咨询设计师成为“美国商业系统的内在组成部分”——商业现代性归属的直接原文证据",
+    "clean第617行：设计师文化（设计师名字为对象/形象/环境附加价值）随第一代美国咨询设计师诞生",
+    "clean第622行：Bel Geddes以消费者细分设计Philco四种收音机——市场细分案例",
+    "clean第450、485、928行：流线型是商业现代性风格：1930年代普及（塑料模具工艺）、从汽车造型扩展到家电办公机具直至建筑",
+    "clean第1413、1425、1453行：美国咨询设计模式战后向英（Keith Murray、CoID）、瑞典（Kåge、Sason）、意大利、日本扩散",
+    "clean第1632-1633行：战后“美国化”——营销导向设计、咨询设计职业与流线型风格一同跨越大西洋",
+    "clean第118-121、162-164行：商业设计的伦理争议——从Papanek到可持续、包容性、社会创新"
+  ]
+}

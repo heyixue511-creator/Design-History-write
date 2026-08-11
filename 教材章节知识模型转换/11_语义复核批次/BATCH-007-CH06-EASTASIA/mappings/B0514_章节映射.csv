@@ -1,0 +1,14 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0514,6.6,A,V2,role_primary_evidence,民族形式与现代形式之争的完整史实链：苏联“社会主义内容、民族形式”口号输入→梁思成理论中国化→宫殿式/少数民族式/苏式三类型→第一次反浪费运动斥“复古主义”→十四字方针确立（1955）,第4章L311–524；分章报告Ch04,回查L347口号来源、L367两张想象图、L516–517梁思成“替罪”与L522–523十四字方针原文,ACCEPTED_AS_CORE_SOURCE
+B0514,0.2,B,V2,role_concept_authority,现代性定义与四体系框架（技术/功能/思想/制度），“经典现代建筑”概念区分；现代建筑经济性、工业化、简约美学符合中国国情的判断,第1章L18–19、L25、L36–37,回查L19四体系原文与L37“天然需要”完整论证,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,10.7,B,V2,role_adaptation_evidence,短缺经济与政治变动下专业的中断与隐性延续：文革设计单位瘫痪、38.2万人下放29.1万人；“促生产”间隙中外交外贸建筑与地域性建筑的局部前进,第6章L672–827，总纲L54–55,回查L684–685劫难数据、L795–799广州隔而不绝实例,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,10.4,B,V2,role_primary_evidence,大型公共活动与公共建筑实证：国庆十大建筑（1959）、文革期体育馆（首都/五台山/上海/辽宁）、1990s交通/科教/博览建筑类型档案,第5章L525–671、第6章L726–793、第8章L1423/1468/1501,回查L582–583十大建筑两分评价、L1423交通建筑、L1501博览建筑原文,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,6.7,C,V2,role_contextual_evidence,战争环境中的建筑与思想延续：1937–1949十一年战乱中现代建筑思想“深入”，战时反思与科学主义传播（2.3节）,第2章L108–194，总纲L42–43,回查L43“11年战争”与2.3节战时建筑实例,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,6.5,C,V2,role_education_evidence,留学网络与建筑教育实证：第一代建筑师留美以宾夕法尼亚大学学院派为主；柳士英留日；梁思成在清华引入包豪斯体系,第1章L94、第3章L271、第4章L360–361,回查L94宾大留学生群体、L360–361梁思成清华包豪斯原文,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,6.4,C,V2,role_spatial_evidence,上海都市消费文化的建筑空间载体：旅馆、公寓、银行、百货等新类型建筑实例（沙逊大厦、国际饭店、百老汇大厦等）,第2章L115输入建筑类型清单,回查L115旅馆公寓银行实例与“新类型”论断,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,10.1,C,V2,role_institutional_evidence,建设体制确立与术语延续：三年恢复期确立基本建设体制；“民族形式”“社会主义内容”“复古主义”“十四字方针”等术语沿革及“现代建筑/现代性”术语界定,第3章L195–310、第1章L16–22、第4章L347–353,回查L347口号、L522–523方针原文,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,10.2,C,V2,role_production_process_evidence,计划经济下设计劳动的组织方式：建筑师执行国家意志，设计任务来源为国家计划；“解剖麻雀”“下楼出院”“三结合”“现场设计”等设计工作机制,第6章L675–685、第1章L91,回查L681–682设计革命工作方式、L91国家意志原文,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,10.5,C,V2,role_symbolic_evidence,政治宣传符号的建筑化：政治建筑“形象明喻与数字暗喻”两手法（“忠”字形、“中”字形、23级台阶、8.1m底座、12.26m像高等）,第6章L688–706,回查L693–694成都展览馆暗喻系统原文,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,10.6,C,V2,role_comparative_evidence,“民族形式”被选择、标准化与政治化的建筑侧机制：苏联理论中国化→全国性大屋顶→反浪费批判，为工艺美术领域民族形式政治化提供对照,第4章L347–367、L510–523,回查L364“阶级立场问题”论断、L516–517批判原文,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,6.2,D,V2,role_background_context,晚清工业与博览会不在本书叙事范围（起点1920年代末），仅19—20世纪之交列强建筑输入的背景段可作时空铺垫,第2章L42–43、L115,回查L43“被迫纳入世界市场”输入建筑背景；无晚清博览会/国货内容,ACCEPTED_AS_SUPPORTING_SOURCE
+B0514,6.1,D,V2,role_term_context,本书对“现代建筑/现代性/风格化”的术语界定属建筑域概念工作，与“图案/工艺美术/设计”语义变化不同对象域，仅方法论参照,第1章L16–22,回查L16–22术语定义原文；不作6.1史实证据,ACCEPTED_AS_SUPPORTING_SOURCE

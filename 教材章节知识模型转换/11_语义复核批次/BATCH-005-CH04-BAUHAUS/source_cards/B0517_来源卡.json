@@ -1,0 +1,129 @@
+{
+  "source_id": "B0517",
+  "corpus": "book",
+  "folder_name": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+  "material_type": "文集/图录（东亚转译研究）——2010年“中国与包豪斯”国际研讨会论文集",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》.md",
+  "clean_source_sha256": "CA3F6A700E9B2D54E6FE44CFB7DB3E4374A7A2E58F27300D5C5EFABFF3DA11A6",
+  "duplicate_group": "与B0492（包豪斯道路）共享中国接受史对象：两书同源2010年“包豪斯道路”文献展及研讨会系列活动（策划者杭间、靳埭强、胡恩威重叠）；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 27,
+      "report_characters": 85892
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "architecture_modernism_transfer_1930_1960"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "two_paths_mainland_hk_japan"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "canon_building_three_constitutes"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "hong_kong_lineage_eight_designers"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "misreading_as_active_agency"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "bauhaus_collection_reverse_resource"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "st_john_tongji_education_transfer"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "hong_kong_design_education_transfer_mainland"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "taiwan_japan_intermediary_education"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "shantou_curriculum_reform"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "asymmetric_translation_social_engineering"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "global_design_history_model_cases"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_layering_editor_stance"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "p4_emergence_semantic_routing"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "论文集体裁导致各篇深度不均：短篇发言（郑巨欣、潘耀昌）论述简略",
+    "术语与体例不统一：包豪斯/包浩斯、构成/三大构成跨篇混用，缺乏编者统一导论与术语规范",
+    "台湾两篇（姚村雄、王行恭）日据时期视角差异未加编者按语调和",
+    "讨论部分（L2359—2460）未标注发言人全名与记录整理方式，问答零散",
+    "个别史实/转写讹误：目录页码与正文不符、人名音译未决（如“陈宜（音译）”）",
+    "主编立场嵌入：靳埭强、杭间既是编者又是核心命题作者，其自述式设计史（香港八人谱系）与“自觉误读”辩护带有立场性，须与档案史实分层使用",
+    "口述单源：香港谱系与圣约翰早期教学细节多赖单方回忆，缺乏档案交叉验证；作者自认“包豪斯教育理念何时传入中国至今尚无定论”",
+    "知识涌现模型（P4）仅作语义路由推演，非本书直接证据：本书不提供量化涌现计算所需的结构化知识元数据，涉及P4的结论均属推演而非本书陈述",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1759—1761行：杭间路线图——内地受包豪斯影响主要通过香港（美系，非日非德），台湾经日本；70年代末改革开放后内地先经香港、后转向日本“三大构成”体系",
+    "clean第1823—1835行：“自觉误读”正面定义及五个方面——艺术→装饰、艺术+工艺→工艺+美术、训练→目的/三大构成、功能主义→实用经济美观、社会关系→专业",
+    "clean第1612、1616、1671、1716行：Kögel个案——1930—1960中国建筑现代主义（奚福泉、夏昌世、黄作燊、贝聿铭）",
+    "clean第1007行（王无邪）、第1030行（何弢）、第1083行（靳埭强自述）：香港八人谱系",
+    "clean第415行：7010件包豪斯藏品入藏中国美术学院事件（郑巨欣）",
+    "clean第2319—2325行：王受之对“三大构成”正典化批判与“拿来当旗帜”批评",
+    "clean第1784行：“正读/误读”论述",
+    "clean第2319行、第2329行：“中国没有包豪斯生存土壤”与798案例（杭间）两说并置",
+    "clean第1186行：毛其智——“包豪斯教育理念何时传入中国至今尚无定论”",
+    "clean第1612行、第1945行：圣约翰大学建筑系1942年引入包豪斯式教学体系、1952年并入同济"
+  ]
+}

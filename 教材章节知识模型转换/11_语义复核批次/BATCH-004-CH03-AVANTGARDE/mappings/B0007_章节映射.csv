@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0007,3.3,A,V2,origin_naming_berlin_dada,柏林达达在一战后为将照片引入作品的技法命名photomontage，并以Monteur（装配工）取代艺术家身份，构成达达蒙太奇的起源与身份政治机制,发明权归属（Grosz/Heartfield 1915-16 vs. Hausmann/Höch 1918波罗的海）存争议，书中如实转述双方主张而未裁断,clean第107、146—152行：命名引文与两派发明主张,ACCEPTED_AS_CORE_SOURCE
+B0007,3.3,A,V2,heartfield_antifascist_aiz_montage,Heartfield在《AIZ》等德共刊物上以摄影蒙太奇作反法西斯宣传，照片的熟悉外观与并置逻辑共同生效，成为达达蒙太奇政治化的关键案例,Berger“先事物后符号”与Lukàcs“好笑话”系转引评论家判断，属作者采信的二手命题；作品日期与刊物可证,clean第377—449、506行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.4,A,V2,klutsis_dynamic_city_suprematist_basis,Klutsis《动态城市》(1919-20)以“体积空间至上主义+photomontage”将至上主义平面替换为摄影元素，被作者定位为苏联摄影蒙太奇起点,“苏联首幅蒙太奇”系Klutsis自称，Ades引Rakitin 1918年之说表明起源年代仍有争论；平面替换的细读为作者命题,clean第564—579行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.4,A,V2,rodchenko_about_this_illustration,Rodchenko 1923年为马雅可夫斯基《关于这个》配图，以摄影蒙太奇展开个人情感与革命叙事的交织，构成苏联早期蒙太奇代表作,蒙太奇与诗作逐幅对应的解读属作者细读命题；“苏联最早想象力蒙太奇”为作者评价,clean第659—754行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.4,B,V2,dada_constructivism_independent_development,达达蒙太奇为讽刺解构、苏联构成主义蒙太奇为乌托邦建设；作者以传播媒介记录与视觉证据论证两者基本独立发展,“独立发展”是基于Das Plakat刊载记录、Lissitzky未见Hausmann作品等证据的论证，非定论,clean第566—577行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.6,B,V2,lissitzky_press_exhibition_frieze,Lissitzky 1928年科隆国际新闻展“新闻的任务是教育群众”摄影浮雕墙将蒙太奇用于大规模展览设计，展示苏联建设成就,作品年代与展出语境可证；其与Vertov纪录片的结构类比为作者命题,clean第555、562、820行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.6,B,V2,moholy_photoplastics_and_repetition,Moholy-Nagy的物影照片、“摄影造型”（photoplastics）及重复系列将蒙太奇引向形式实验与设计单元化,photogram严格说非蒙太奇，Ades自述因扰乱感知功能相近而纳入，属作者选材决定,clean第1212—1252行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.7,B,V2,polish_constructivism_transnational_journals,柏林《Veshch》(1922)、华沙《Blok》(1924)等跨国期刊构成波兰构成主义蒙太奇（Szczuka、Berman）的传播网络,Szczuka引入波兰蒙太奇等事实可证；“Blok版式受Veshch影响”依据版式相似，属作者推断,clean第849—858、865行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.1,B,V2,citroen_metropolis_urban_montage,Citroën《大都会》(1923)以方格网格堆积都市影像，将现代都市的同时性感知转化为蒙太奇，体现战争后都市与机械经验,“预示Mondrian Broadway Boogie Woogie”“或启发Lang电影”均为作者关联命题而非传播证据,clean第899—905行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.2,C,V2,futurist_collage_precedent,未来主义（Carrà 1915年拼贴入照片）构成蒙太奇的前史个案，Marinetti宣言中的都市愿景被作者视为蒙太奇都市想象的思想前奏,仅作前史背景；未主张未来主义与柏林达达之间存在技法传播,clean第107、901—903行,CONTEXT_ONLY
+B0007,0.5,B,V2,montage_as_document_and_object,照片蒙太奇以报纸照片、警方档案照片等现成影像为材料（如Heartfield挪用Photo-Eye中的斯图加特警方照片），既是史料利用也是可考对象,蒙太奇作品作为史料/对象的双重身份是本书的实践性证据，作者未作史料学理论化,clean第411—417行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.3,B,V2,ernst_fatagaga_surrealist_transition,Ernst的Fatagaga拼贴（1919-20）通过“相距甚远现实的聚合”制造惊异，被Breton视为超现实主义前驱，构成达达蒙太奇向超现实主义过渡的环节,Breton 1921年序言“缝合机与雨伞”意象为转引；“超现实主义前驱”定位是作者与布勒东的历史判断,clean第982—1004行,ACCEPTED_AS_CORE_SOURCE
+B0007,3.3,C,V2,marxist_dialectic_affinity_claim,作者主张摄影蒙太奇天然适合表达马克思主义辩证法：并置矛盾元素以暴露本质（正题—反题—合题）,此为Ades与Berger的理论命题而非对象自证内容，引用时须标注作者立场,clean第381、449、506行,CONTEXT_ONLY
+B0007,0.6,C,V2,propaganda_ambiguity_spectator_bias,Heartfield个别作品存在解读歧义（如《自杀者的愿望实现》中红军形象、《SPD危机党大会》反社民党立场受Berger批评），显示宣传图像意义并不自明,“含义歧义”与“失败”评价来自Berger论文转述，非蒙太奇对象自身可证内容,clean第457行,CONTEXT_ONLY
+B0007,3.6,C,V2,surrealist_mode_in_advertising,1930年代时尚与广告摄影（Beaton、McBean、Bayer的《Die Neue Linie》封面）吸收“超现实主义”风格，作者指出商业挪用与超现实主义本义的偏离,“被操纵照片在超现实主义刊物中仅占少数”是作者基于刊物材料的统计判断,clean第1121、1135行,CONTEXT_ONLY
+B0007,0.4,C,V2,ephemerality_of_montage_archive,蒙太奇作品多为临时性材料（Grosz描述的明信片无一幸存），部分原作散佚，本书依赖刊物复现与二手转载，展示人工物作为史料的不稳定性,“原作散佚、需据书刊复制”是作者自述的编辑说明,clean第137行,CONTEXT_ONLY

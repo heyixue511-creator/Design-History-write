@@ -1,0 +1,135 @@
+{
+  "source_id": "B0121",
+  "corpus": "book",
+  "folder_name": "Dickerman：《Dada Zurich, Berlin, Hannover, Cologne, New York, Paris》",
+  "material_type": "多作者展览图录式学术文集（导论+六城专论+达达电影专节+编年史+40余艺术家传记+精选书目+图版）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Dickerman：《Dada Zurich, Berlin, Hannover, Cologne, New York, Paris》.md",
+  "clean_source_sha256": "7B348F14959B4723B526AA70AAB6D939EF55B1C31AA87CA45FF1B0C6789B260E",
+  "duplicate_group": "与B0007蒙太奇、B0187新字体、B0276 Die Kunstismen共享达达刊物（Dada、391、Der Ventilator、Merz等）、蒙太奇对象与行动者文本；同一对象与宣言只计一份P0",
+  "files": [
+    {
+      "report_file_count": 15,
+      "report_characters": 157198
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dada_photomontage_as_war_media_practice"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "merz_as_material_equality_and_connection"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "modern_shock_war_and_media_double_crisis"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "readymade_as_selection_displacement_variant"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "war_maimed_body_machine_perception"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "dada_vs_futurism_tactics_vs_style_war"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "dada_russian_avantgarde_indirect_links"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dada_periodical_typography_and_branding"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "dada_exhibition_space_design"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "transnational_dada_network_periodicals_travel"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "relational_history_multicity_network"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dada_objects_as_historical_sources"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_type_mix_dada_sources"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dada_anti_archive_and_self_historicizing_paradox"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "six_city_model_as_global_network_frame"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "展览图录身份限制：论文与图版双轨中约四成实体（作品、人物）在论证中处于“休眠”状态，部分章节偏向作品导览而非独立论证",
+    "主编框架不等于全书统一结论：六位作者对“政治”的定义几乎不可通约——Berlin章共产主义介入、Hannover章“Merz只为艺术”、New York章移民身体政治——全书始终未正面回答“六城为何是同一运动”",
+    "行动者话语作为证据的固有风险：Merz“材料权利平等”、蒙太奇发明叙事、Tzara品牌化等均为艺术家自述（P0），可证制作意图但不能自动证明作品效果与观众接受；回忆录均为事后写作",
+    "六城模型的结构性排除：导论提及罗马尼亚、日本达达但全书未展开，“六城”本身再生产新的西欧中心主义；原始主义讨论未与殖民主义批判关联",
+    "时间窗封闭于1916—1924，几乎不讨论达达接收史（1950年代复兴、对激浪派/情境主义的影响），谱系连接被刻意淡化",
+    "性别维度分散：Hennings、Taeuber、Höch、Baroness、Angelika Hoerle等被纳入各城叙述但无集中分析，全书无“达达与性别”专章",
+    "视觉对象证据在clean文本中仅为图像占位符（![](...jpg)），作品图版须回原书核验；Merzbau等已毁对象仅能依赖照片与文字转述",
+    "知识涌现分析（E1-04“达达作为六种不可通约翻译”、E3-02“政治不可通约场”等25项）属P4对分析报告的二次推演而非原书直接命题，仅作语义路由，任何进入教材的命题须经clean原文行号回查确认",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean行540：导论“Dada fashioned itself as a network”与六城差异概述",
+    "clean行605：“Dada is not defined by a consistent style...it coheres instead around a set of strategies——abstraction, collage, montage, the readymade, the incorporation of chance and forms of automatization”及“the reconceptualization of artistic practice as a form of tactics”",
+    "clean行619：Benjamin弹道学引文“became an instrument of ballistics. It hit the spectator like a bullet”与Dickerman警句“Divinity in the artwork was shot dead”",
+    "clean行623：Baader《Das grosse Plasto-Dio-Dada-Drama》装置及“exploded mimicry”“diagnosticians”概念",
+    "clean行655：巴雷斯审判与Tzara证词“I have no confidence in justice, even if this justice is made by Dada”",
+    "clean行709：“self-historicizing impulse”（Ball日记预想未来读者、Cabaret Voltaire“want to document”、Huelsenbeck两部运动史、1953 Sidney Janis展）",
+    "clean行961与1019：Zurich章“assertive and self-conscious amorality”与“cultivated madness became a goal”（Lombroso语境）",
+    "clean行1890与1902：Huelsenbeck宣言引文“which is forever gathering up its limbs after yesterday's crash”及标题THE INVENTION OF PHOTOMONTAGE；clean行1929：Scholz《工业农民》Bosch式细读",
+    "clean行2842与1150：Schwitters“equal rights with paint”宣言与Arp“chance as a way of introducing irregularity into the systematic structure of the grid”+“The law of chance”引文",
+    "clean行3498、4370、4875：科隆Macchab“crippled world: the shot Revolution”；纽约Duchamp 1915年访谈（注12）；巴黎Aragon“to prepare and suddenly decree the Terror”"
+  ]
+}

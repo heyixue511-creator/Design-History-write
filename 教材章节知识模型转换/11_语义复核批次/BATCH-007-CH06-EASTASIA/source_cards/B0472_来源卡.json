@@ -1,0 +1,125 @@
+{
+  "source_id": "B0472",
+  "corpus": "book",
+  "folder_name": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+  "material_type": "设计史研究论文集",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\周博：《断裂与绵延：中国现代设计史研究》，2019_clean.md",
+  "clean_source_sha256": "AF4997AEED1C25D67D25C3971645361A169677898182E1C51E3046C44A321206",
+  "duplicate_group": "与B0500/B0485等共享中国设计史对象；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 20,
+      "report_characters": 74408
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "6.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "education_mediation_beijing_art_school"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "education_mediation_pattern_curriculum"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "national_form_jinshiwei"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "national_form_hanwen_zhengkai"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "national_form_modernity_identity"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "national_form_ancient_heritage"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "war_propaganda_poster_schema"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "war_propaganda_yanan_style"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "print_capital_journal_periodization"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "print_capital_eastern_miscellany"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "print_capital_layout_innovation"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_global_network"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_designer_centric_narrative"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "论文集结构，各章独立成篇，全书统一性弱于专著（作者自陈）",
+    "研究集中于平面设计/视觉传达领域，室内、家具、服装、工业设计仅侧及",
+    "部分个案因原始材料缺失采取“勾勒”式处理，作者有清醒自陈",
+    "“断裂与绵延”为作者个人分析框架而非学界统一结论；论文集各篇立场不一，主编框架不等于统一结论",
+    "与B0500/B0485等共享中国现代设计史对象，同一对象只计一份P0，防止重复计分",
+    "“现代化激发文化认同寻求”等命题带作者价值判断，证据边界限于其个案论述，不宜泛化为普遍规律",
+    "对东亚中介（日本设计知识影响）有涉及但以中国本土为主体，日方一手史料多为间接引用",
+    "知识涌现分析各文件（方法规则、语义链接网络、知识涌现计算、知识发现报告）系P4知识涌现模型的推演产物，仅作语义路由参考，不构成直接史料证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1行：CIP与版本页核实出版信息：北京大学出版社2023.1（培文·设计）、ISBN 978-7-301-33393-8、中图分类J509.27",
+    "clean第7行：引言方法论宣言——“历史学不是文学，也不是阐释学，其存在的首要价值仍是求索事实的真相”；反对“以论代史”“理论先行”；自陈“局部性的尝试和努力”",
+    "clean第10行：与佩夫斯纳《现代设计的先驱者》（1936）—伍德姆《20世纪的设计》谱系对话；马格林《世界设计史》比较",
+    "clean第17行：“断裂与绵延”核心表述与六条研究路径（纵向一贯史、横向全球史等）；敦煌千年艺术遗产的“再发现”影响中国现代设计与视觉文化",
+    "clean第81-117行：汉文正楷个案——1935年郑午昌呈请蒋介石确立楷书标准书体地位（第87行呈请档案）；“字体政治”结语（第117行）",
+    "clean第120、126、136行：“金石味”三特征、鲁迅“运用民族形式”建议、结语“现代化激发文化认同寻求”",
+    "clean第123行：《东方杂志》四十年刊名字体演变——1933年改宋体美术字、1934年遵令改篆书祥云",
+    "clean第157、162行：北京美术学校（1918）是中国近代第一个开设图案专业的国立美术学校；四本《图案法讲义》（其中四本2010年新发现）实物考证",
+    "clean第238、300行：民国期刊四分期（1815—1949）——“交相辉映”；结语“尚待系统研究”",
+    "clean第258-288行：民国期刊“花边”（Frame）与“插画”（Cut）概念、直排改横排（1915《科学》）、复式页码等版式变革",
+    "clean第385、403行：中国宣传画“图式”（Schema）概念与兴衰根由",
+    "clean第309、312行：周令钊国徽设计方案"
+  ]
+}

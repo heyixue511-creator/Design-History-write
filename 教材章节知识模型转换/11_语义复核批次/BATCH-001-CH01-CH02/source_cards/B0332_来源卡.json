@@ -1,0 +1,91 @@
+{
+  "source_id": "B0332",
+  "corpus": "book",
+  "folder_name": "Owen Jones：《The Grammar of Ornament》",
+  "material_type": "维多利亚设计改革一手理论、跨文化图版汇编与教学工具",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Owen Jones：《The Grammar of Ornament》_clean.md",
+  "clean_source_sha256": "511E98E2CD408DEA37E092E6D0DC1CE6A234E95A257E958028E9904212483D3C",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 50,
+      "report_characters": 634804
+    }
+  ],
+  "report_structure": {
+    "report_file_count": 50,
+    "report_characters": 634804,
+    "review_basis": "overall_and_relevant_chapter_reports_plus_knowledge_discovery_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "visual_examples_abstracted_from_context"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "publication_and_visual_evidence_chain"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "victorian_classification_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "early_crosscultural_formal_comparison"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "industrial_and_decorative_arts_actor_concepts"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "post_exhibition_design_reform_text"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_education_and_general_principles"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "colonial_ornament_classification"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "principles_from_past_and_design_reuse"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "‘野蛮人’、民族性和文明等级语言属于帝国时代分类，必须署名、限域并批判。",
+    "图样从建筑、器物和仪式语境中抽离再平面化，不能视为透明的文化代表。",
+    "色彩比例与自然法则是行动者理论，不能作为当代科学定律。",
+    "协作者贡献意味着不得把全书知识与图版全部归为Jones个人原创。",
+    "Clean原文仅作关键段落定位；未完成全篇、版次、图版、注释和所引P0材料核验。"
+  ],
+  "original_spot_checks": [
+    "clean第71—150行：37条一般原则，包括适合性、几何、历史原则和公共艺术教育。",
+    "clean第88行：repose与true beauty属于Jones的规范性美学。",
+    "clean第142—150行：第35—37条讨论模仿、过去原则与艺术教育。",
+    "clean第986、1056行：作者承认材料保存不全，并以构造／外加装饰评价传统。"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "source_id": "B0060",
+  "corpus": "book",
+  "folder_name": "Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》",
+  "material_type": "企业史与设计专史：AEG-Behrens合作专题论文集（六篇论文+原典集）与三系列作品编目（建筑A1-A182、产品P1-P141、平面G1-G86）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》_clean.md",
+  "clean_source_sha256": "59A45BF9428D1B9831DF564D1AC540BF96505CC434AAE3BD8FB5FF860A1227A8",
+  "duplicate_group": "与B0064（Werkbund）、B0363共享AEG/联盟档案（约1000张玻璃底片、宣传册、AEG-Zeitung、MdBEW、Osthaus档案等）；同一档案只计一份P0",
+  "files": [
+    {
+      "report_file_count": 20,
+      "report_characters": 185464
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "aeg_corporate_identity_coordination"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "artist_in_residence_institutional_role"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "product_publicity_architecture_unity"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "turbine_hall_multi_actor_production"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "glass_negatives_artifact_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "corporate_archive_evidence_type"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_office_incubation"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "behrens_roman_canonization"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "typisierung_product_matrix"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "factory_type_function_representation"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "workers_housing_welfare_institution"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "designer_migration_network"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "aeg_leadership_institutional_frame"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "kettle_series_biography_of_things"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Behrens中心主义：全书以Behrens为绝对叙述中心，工程师、工头、技术人员的创造性贡献被系统性低估，引用时须与多行动者证据并置",
+    "档案偶然幸存：玻璃底片与印刷品系“在阁楼被发现”“在地窖中保存”式偶然幸存，材料对总体的代表性无法评估；且AEG档案与Behrens私人文件已失，可能1945年被运往苏联",
+    "工人声音缺失：工人作为生产者、消费者与被设计对象的三重角色未获讨论，其审美接受与日常体验无任何直接证据",
+    "时间范围局限：叙事集中于1907—1914年，Behrens离开AEG后的实践回响、继任者Krämer对产品外观的改动、设计标准持久性均未展开",
+    "解释框架的意识形态立场：“美=社会和平”“优雅之美”等公式是作者对威廉时代企业福利与艺术使命的解读，须与批判视角并置而非直接采信",
+    "经济维度未量化：Behrens的报酬、AEG设计投入、设计对销量的回报均无数据；与Siemens的比较仅零星出现，缺美国（GE、Westinghouse）与英国的系统比较",
+    "跨章口径不统一：五位作者各自深入专题，“全景”由Buddensieg总论承担，局部结论与总框架存在未完全协调之处",
+    "知识涌现分析（223个知识元、847条语义链接、11个涌现知识）系P4模型推演，仅作语义路由参考，不构成独立证据；其中“Behrens中心主义”“档案偶然性”等结论为P4从分析报告提取，本复核已以clean原文行号逐条回查确认",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第50行：1907年AEG董事会任命Behrens为艺术总监（artistic director），任职至1914年",
+    "clean第51—53行：AEG史——1883年Emil Rathenau创立Deutsche Edison Gesellschaft，1887年更名AEG；1907年资本超1亿马克、员工约7万人；Behrens受托渐进式重设计建筑、产品与宣传物料",
+    "clean第63行：1907年10月1日Behrens正式入职；四天后Werkbund在慕尼黑成立、Behrens为创始成员",
+    "clean第184—193行：Buddensieg“工业文化”总论——左右翼谴责（Rosenberg、Kofler）；史家应关注兼具组织、经济、技术能力且催生“精神冲动”与文化观念的工业机构",
+    "clean第222—226行：档案基础——AEG-Telefunken开放Brunnenstrasse工厂与Hohenzollerndamm图书馆；阁楼发现约1000张玻璃底片；约百本宣传册存于地窖，1945年其余档案被移走",
+    "clean第963—969行及第1007行：电水壶系列三种基本形（圆、椭圆、八角）+标准金属套管与藤编手柄的组件系统；三种材料×三种表面处理×三种尺寸的矩阵式产品线",
+    "clean第1089、1093、1104—1107行：涡轮机厂房多行动者生产——承重框架设计归工程师Oskar Lasche与Karl Bernhard；Kunstchronik称“艺术家与工程师的愉快合作”；Bernhard声明自己是全部钢结构设计者，与Behrens署名权之争",
+    "clean第3040行：企业工人住宅作为绑定技术工人的手段（雇佣合同与租赁合同挂钩），社会改良与劳动力控制一体",
+    "clean第3555行及第3593行：涡轮机厂房1909年4—10月建成；三个表现层次（庭院侧构造真实、Berlichingenstrasse侧制造过程再现、Huttenstrasse侧象征）",
+    "clean第4146行、第4222—4233行及第4325行：Behrens Roman字体1908年10月由Klingspor铸字厂（Offenbach）发售；最初以Deutsche Antiqua名义仅供AEG使用；1910年布鲁塞尔世博会德国官方目录全部以该字体印刷"
+  ]
+}

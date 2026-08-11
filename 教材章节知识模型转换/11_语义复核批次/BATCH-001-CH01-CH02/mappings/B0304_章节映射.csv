@@ -1,0 +1,12 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0304,0.4,B,V2,objects_inventories_and_trade_records,对象、遗产清单、价格、广告和贸易记录可互校产品的社会生命,拥有记录不等于使用方式，广告不等于实际接受,补实物磨损、家庭叙事、销售和使用材料,ACCEPTED_AS_METHOD
+B0304,0.6,B,V2,inventory_class_and_colonial_silences,遗产清单与商业档案偏向有产者和商人，会压低劳动者与殖民地消费者的可见性,不能由缺席推断其没有消费或没有能动性,补工资、贫困救济、考古、殖民地和主体材料,ACCEPTED_AS_EVIDENCE_AUDIT
+B0304,1.1,B,V2,regional_specialization_and_craft_knowledge,陶瓷、玻璃和金属品依赖区域专业化、作坊技能与商业网络,主要是英国新奢侈产业，不能概括所有前工业造物,补作坊账簿、工具、学徒和地方研究,ACCEPTED_AS_SUPPORT
+B0304,1.2,B,V2,new_materials_mechanisms_and_scale,材料替代、机械装饰和扩大生产共同形成可及的新商品,规模与价格判断需按行业核量化资料,补专利、成本、产量和材料测试,ACCEPTED_AS_SUPPORT
+B0304,1.3,B,V2,patterns_models_and_imitation,模式簿、样品、专利和模仿实践把形式知识转化为可重复生产指令,不足以说明每一行业图样权力与工人控制关系,补企业图样、订单、审批和劳动档案,ACCEPTED_AS_SUPPORT
+B0304,1.4,A,V2,global_material_and_product_systems,瓷器、印花布、玻璃和金属品的形式来自跨境材料、工艺和市场的组合,对棉纺和生态供应链处理不及专门研究,与B0040及材料技术史互证,ACCEPTED_WITH_COUNTERSOURCE_REQUIRED
+B0304,1.5,B,V2,collective_product_revolution,发明者、制造商、商人、零售者、广告者和购买者共同推动产品变化,这种角色清单不能替代具体产品的责任链,逐产品核委托、制作、营销和使用记录,ACCEPTED_AS_SUPPORT
+B0304,1.7,A,V2,asian_production_and_british_recombination,亚洲差异化生产与英国材料替代、模仿和再组合构成不对称而混合的工业化路径,不能写成亚洲仅提供灵感、英国独自完成创新,补亚洲生产者、贸易中介和殖民制度材料,ACCEPTED_WITH_COUNTERSOURCE_REQUIRED
+B0304,2.4,A,V2,product_revolution_shopping_and_consumers,具体商品、零售、广告和中间阶层购买共同构成18世纪消费—制造前史,不是19世纪百货商店制度的直接证明，普通劳动者覆盖不足,补19世纪商店档案、信用、橱窗和消费者材料,ACCEPTED_AS_PREHISTORY
+B0304,2.6,B,V2,empire_markets_and_national_branding,殖民市场、贸易保护和国家品质话语参与塑造英国商品身份,商品国家化不能掩盖亚洲知识、殖民强制和地方消费者选择,补航海法、海关、殖民报刊和地方回应,ACCEPTED_AS_STRUCTURAL_SUPPORT
+B0304,2.7,A,V2,imitation_translation_and_new_products,跨境模仿可通过材料替代、工艺重组和市场适配生成新产品类别,‘模仿即发明’是分析命题，不等于无条件正当化挪用,补来源对象、生产者、专利争议和地方使用,ACCEPTED_WITH_ETHICAL_LIMIT

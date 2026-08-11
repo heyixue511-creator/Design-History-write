@@ -1,0 +1,14 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0485,0.2,A,V2,modernity_enlightenment_rescue,“现代”之于中国便是“启蒙”与“救亡”，中国现代设计史的沉重性源于中西碰撞与民族自强双重语境；以器物入手（洋务运动）是中国现代性的突出表现,命题为作者核心论点，与李泽厚“启蒙与救亡”双重变奏谱系相关，属思想史阐释而非档案事实,回查clean L57德里克引文与“启蒙与救亡”原句,ACCEPTED_AS_CORE_SOURCE
+B0485,0.2,B,V2,life_enlightenment_mediation,设计为生活与现代性之“中介”；“生活启蒙”比思想启蒙更直接、更逼真、更可靠，衣食住行用之“美”必须存在于物质基础之上,“生活启蒙”为作者建构的核心概念（以王家树—于光远通信为史实支撑），概念框架与史实需分层,回查clean L93通信全文与“生活启蒙”提出段落,ACCEPTED_AS_CORE_SOURCE
+B0485,6.2,A,V2,national_goods_movement,国货运动与近代工商业、孙中山实业思想及上海商业美术家群体（周柏生、徐咏青、郑曼陀、杭穉英）构成晚清—民国设计观念的基础,近代史段落综合陈旭麓、李长莉等二手文献与方志辑录,回查clean L57国货运动与孙中山引文,ACCEPTED_AS_CORE_SOURCE
+B0485,6.2,C,V2,tech_journals_propagation,《格致汇编》（1876）重科学理性、《点石斋画报》（1884）重生活想象，分别从技术与艺术推广工艺与社会生活联系,属章节例证性材料，非专论报刊史,回查clean L57两刊定位表述,ACCEPTED_AS_CORE_SOURCE
+B0485,6.4,B,V2,shanghai_consumer_culture,上海为早期最具资本主义色彩的城市：西式器物与生活方式渗入百姓日常，《嘉定县续志》等方志记录生活变迁；商业美术家自商业接触中成长,上海仅为第一章近代史段落之一，非专论上海消费文化；方志引文为转引二手辑录,回查clean L57月份牌画家名单与方志引文,ACCEPTED_AS_CORE_SOURCE
+B0485,6.6,B,V2,craft_vs_modern_debate,80年代“工艺美术”与“现代设计”之争：辛华泉《论构成》、杭间《对“工艺美术”的诘难》（1986《中国美术报》）、对比公式、Crafts改Design、“三股并列”（张道一），作者取“扬弃”立场,论争史实可考（刊物原文），“扬弃”评价为作者立场；与民族形式/现代形式之争为平行论域,回查clean L110《装饰》文章清单与杭间文编者按,ACCEPTED_AS_CORE_SOURCE
+B0485,6.6,B,V2,national_form_mural,首都机场壁画“民族新传统”（张仃“以线为基础”、中国重彩/水墨与传统工艺手法）与西方现代艺术（肖惠祥变形手法）的中西合璧，作为“文革”后视觉艺术首次真正中西合璧与当代设计起始点,事件叙述基于袁运生/袁运甫口述与《人民日报》报道，“起始点”定论为作者判断,回查clean L90壁画7件清单与细节,ACCEPTED_AS_CORE_SOURCE
+B0485,6.6,C,V2,decor_debate,装饰功罪之辩：卢斯“装饰即罪恶”到“装饰热”到“丑陋建筑评选”，作者强调装饰的启蒙价值与双面性,散见第四章，非专节论述,回查clean L121-L124装饰论述段,ACCEPTED_AS_CORE_SOURCE
+B0485,6.7,C,V2,wartime_propaganda_image,延安木刻、政治招贴/新年画传统构成“中国式”现代设计图像之源；桑塔格论政治招贴全文直引,第一章图像现代性小节例证，非战争宣传史专论,回查clean L69延安木刻与新年画段,ACCEPTED_AS_CORE_SOURCE
+B0485,6.7,C,V2,image_modernity_book,《新青年》中西混排书籍革命、鲁迅对木刻与书籍装帧的贡献、1992年深圳“平面设计在中国”展——平面设计最先与国际接轨,以图像案例论证观念变迁，属叙述性证据,回查clean L69平面设计接轨论断,ACCEPTED_AS_CORE_SOURCE
+B0485,10.1,B,V2,prc_crafts_discourse,1949年后“工艺美术”话语主导：毛泽东手工业改造思想、中央工艺美术学院1956年建院、《工艺美术通讯》上庞薰琹/陈之佛/张道一/郑可的定义、1950-70年代设计“名存实亡”判断,属第一章近代史收束段，非1949年史专章；“名存实亡”为作者概括性判断,回查clean L63-L66工艺美术话语确立段,ACCEPTED_AS_CORE_SOURCE
+B0485,10.1,B,V2,reform_era_restart,1978年后中国现代设计重新启蒙：1998年教育部目录更名“艺术设计”、1995年广州会议、1999年中央工艺美院并入清华大学,更名事件史实可考，“重新启蒙”为作者框架；与B0500/B0472同对象只计一份P0,回查clean L113-L118名词变迁与并入清华叙述,ACCEPTED_AS_CORE_SOURCE
+B0485,6.1,C,V2,three_constitutes_import,“三大构成”（平面、立体、色彩）源自包豪斯基础课，经香港吕立勋与日本两渠道传入中国，成为设计教育概念史环节,教育史事实性叙述，映射为概念前史补充,回查clean L107三大构成传入渠道段,ACCEPTED_AS_CORE_SOURCE

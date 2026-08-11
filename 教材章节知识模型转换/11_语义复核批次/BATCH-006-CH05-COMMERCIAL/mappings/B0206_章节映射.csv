@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0206,5.3,A,V2,consumer_engineering_concept,消费工程学（Sheldon & Arens 1932）将Taylor生产工程学类比移植到消费端，以消除分销摩擦、制造可预测消费为目标，是“销售工程”的核心理论文本,第四章细读；属当时行业宣言文本而非学术评估，引用须标注当事人立场,clean第1451—1476行,ACCEPTED_AS_CORE_SOURCE
+B0206,5.3,A,V2,depression_economic_drive,大萧条（1929—1932）下“过度生产vs消费不足”之争使消费不足论成商业共识，工业设计被包装为经济复苏手段,宏观数字为二手概括，需对照经济史统计,clean第1445—1449行,ACCEPTED_AS_CORE_SOURCE
+B0206,5.3,A,V2,artificial_obsolescence,"Calkins“使用品vs消耗品”分类与Sheldon/Arens“progressive waste, creative waste”语义翻转：耐用品人为淘汰被重构为效率核心",当事人主张原文引用；Meikle持批判性分析立场,clean第1450、1471—1475行,ACCEPTED_AS_CORE_SOURCE
+B0206,5.3,A,V2,behaviorism_in_marketing,Watson行为主义在J. Walter Thompson的商业应用将消费者还原为刺激-反应对象（“mice and monkeys”），与消费工程学合流,企业广告代理背景+当事人文本；Watson个人经历细节以Meikle注释为准,clean第1467—1471行,ACCEPTED_AS_CORE_SOURCE
+B0206,5.3,B,V2,designer_as_salesman,萧条期设计师自我推销：Geddes公关式方法（产品如舞台演员）、Teague邮件营销、Loewy/Dreyfuss早期挣扎,传记性叙事，须与匿名从业者材料并置,packet第四章,ACCEPTED_AS_CORE_SOURCE
+B0206,5.4,A,V2,streamline_depression_psychology,流线型是美国大萧条特有的心理产物：速度、平滑、控制的视觉语言为公众提供安全感，而非欧洲国际风格的进口,Meikle标准解释，领域共识但仍是史学建构，须标注为解释性命题,clean第2687—2693行,ACCEPTED_AS_CORE_SOURCE
+B0206,5.4,A,V2,streamline_click_moment,"1934年M-10,000与Burlington Zephyr在芝加哥世博会亮相引发“something clicked”瞬间，流线型从工程事实转为大众商品",Business Week 1940年回顾为当时媒体文本，属媒体证据,clean第2692—2693行,ACCEPTED_AS_CORE_SOURCE
+B0206,5.4,A,V2,streamline_style_drift,流线型从空气动力学漂移为纯风格化：Loewy自认Princess Anne渡轮（1936）外壳不为减阻只为吸引眼球——功能伪装被撕开,设计师自述（Loewy）与Meikle分析并置；为“功能vs风格”争论关键证据,packet第八章收束节,ACCEPTED_AS_CORE_SOURCE
+B0206,5.4,B,V2,streamline_media_transfer,流线型作为“无限可扩展”形式语言从火车迁移至巴士（Greyhound）、家电（Dreyfuss Hoover 150）、卷笔刀（Loewy）、建筑（PSFS/McGraw-Hill）,案例目录式证据，部分依赖插图证据,packet第八章扩散清单,ACCEPTED_AS_CORE_SOURCE
+B0206,5.4,B,V2,functional_vs_style_debate,第七章功能主义语义崩溃与第八章风格化转折构成“功能vs风格”史学争论的一侧立场,Meikle单方论证，须与B0066等对立观点并置,clean第1825附近,ACCEPTED_AS_CORE_SOURCE
+B0206,5.5,A,V2,four_giants_profession,Teague（古典保守）、Geddes（戏剧性）、Dreyfuss（伦理克制）、Loewy（商业主义）以舞台、广告、工程背景进入设计，确立职业身份,传记叙事，须与匿名从业者并置避免精英中心偏差,packet第三章；clean第1239—1241行,ACCEPTED_AS_CORE_SOURCE
+B0206,5.5,B,V2,design_office_industrialization,设计办公室“工业化”：Taylor式科学管理与团队分工的“设计工厂”形态及其悖论,以Meikle二手分析为主,packet第五章分析报告,ACCEPTED_AS_CORE_SOURCE
+B0206,5.5,B,V2,design_profession_ethics,四巨头的职业伦理光谱：Dreyfuss伦理克制vs Loewy商业主义，构成职业伦理的早期形态,设计师自述与Meikle诠释并置,packet第三章人物谱系,ACCEPTED_AS_CORE_SOURCE
+B0206,5.2,B,V2,consumer_society_formation,1920年代消费社会形成：市场饱和、外观竞争与Calkins预言构成工业设计诞生的经济土壤,第一章语境铺设，非系统消费经济史,packet第一章分析报告,ACCEPTED_AS_CORE_SOURCE
+B0206,5.7,B,V2,design_ethics_controversy,消费工程学操纵逻辑（消费者成“机器齿轮”、Mussolini/Lenin隐喻）暴露商业设计伦理争议及“人为废弃”同谋问题,当事人极端修辞原文引用，Meikle批判性分析；属伦理争议史证据,clean第1471、1476行,ACCEPTED_AS_CORE_SOURCE
+B0206,0.6,A,V2,evidence_hierarchy_bias,材料分层（企业档案、设计师自述、媒体文本、口头历史交叉验证）与四重偏差自我暴露（图像中心、纽约中心、男性中心、精英中心）,第二版序言元反思为作者自我声明，构成证据偏差的权威说明,packet第二版序言及整体报告八、九节,ACCEPTED_AS_CORE_SOURCE

@@ -1,0 +1,118 @@
+{
+  "source_id": "B0495",
+  "corpus": "book",
+  "folder_name": "杭间：《设计道：中国设计的基本问题》，2008",
+  "material_type": "设计哲学/理论专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\杭间：《设计道：中国设计的基本问题》，2008_clean.md",
+  "clean_source_sha256": "2895CDC4E68DD1E2F2BD64FA5D1C116C31130ED8860A4B574046F1F1C48E6021",
+  "duplicate_group": "与B0493/B0500等共享中国设计思想对象（正名史、工艺美术→设计艺术转型、中国设计理论建构）；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 15,
+      "report_characters": 76163
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "6.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "naming_reform_and_concept_history"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "education_institution_and_east_asian_mediation"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "national_style_and_modern_form_debate"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "modernity_and_post_modernity_discourse"
+    },
+    {
+      "section_id": "10.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "institutional_reorganization_and_term_continuity"
+    },
+    {
+      "section_id": "10.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "craft_and_national_form_policy"
+    },
+    {
+      "section_id": "10.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "craft_profession_in_political_upheaval"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "postmodern_design_and_weak_critique"
+    },
+    {
+      "section_id": "12.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_ethics_and_consumption_critique"
+    },
+    {
+      "section_id": "12.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "papanek_and_survival_design_reference"
+    },
+    {
+      "section_id": "14.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "digital_survival_and_nonmaterial_design"
+    },
+    {
+      "section_id": "14.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_industry_and_cultural_consciousness"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "多作者统稿（杭间自认），文风不一、个别处“知识重复也不知不觉”",
+    "III章等引文密集、行文艰涩，论证有“材料压迫观点”之嫌",
+    "个别事实性笔误：将拉图尔列为“德国技术哲学教授”，年份书写亦有混乱",
+    "V章对后现代主义/后现代性的批判偶见简化二元框架",
+    "“设计道”为作者建构的规范理论框架而非实证史实，作史料引用时须将理论命题与个案史料分层处理",
+    "对1978—2008年中国现代设计的评述属亲历性观察而非系统档案研究，证据强度有限",
+    "与B0493/B0500等共享“中国设计思想”对象（正名史、工艺美术命运、设计理论化），同一对象只计一份P0",
+    "知识涌现分析（00_方法与规则至04_知识发现报告）产出为P4模型推演，仅作语义路由参考，不构成独立史料证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean L3：前言——2001年获“全国艺术科学十五规划项目”资助；本书为理论部分，意在勾勒“中国人”的设计艺术理论框架；引《老子》“道常无名”论“设计”无常名；执笔分工；落款2008年9月20日",
+    "clean L10：1998年教育部学科目录取消“工艺美术”改称“艺术设计”，称“20世纪中国重要的历史事件之一”；引毛泽东1950年代工艺美术学院批示；轻工部建制沿革年表（1954中央手工业管理局→1978轻纺分家）；“烛炬成灰”论工艺美术的历史使命",
+    "clean L92-93：1956年中央工艺美术学院建立使“工艺美术”概念深入人心；“意匠”源于日本转译；香港担当连接欧陆的“中介”角色（L20）",
+    "clean L110：中国设计史“农耕→工业”两阶段分期",
+    "clean L116-118：1958年大炼钢铁、“人民公社”“大跃进”时期手工艺专业地位的牺牲——“这是设计从古代到近、现代转折时碰到的最痛苦的抉择”",
+    "clean L119-148：现代性即“脱域”（disembedding）、“后”生活与“后设计”表征、后现代主义是“软弱的批判”（L147）",
+    "clean L214-231：“设计夺权”论（L217-218）、“制造风格”刺激消费造成资源浪费与人的退化（L226-227）",
+    "clean L244-279：XI章论设计教育理想与生活互动",
+    "clean L316-349：XIII章风格论——“设计之道归于风格”，“道”含技术途径/风度格调/形而上体系三层（L317）；全球化下以国际语言“呈现”本土文化（L392-395）",
+    "clean L314：引帕帕耐克《为了生存的设计》与麦克哈格《设计结合自然》讨论设计责任与生存伦理",
+    "clean L508：后记——“设计之道”不是一种技术之道，而是“生活的关怀之道”；落款2008年9月28日"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "source_id": "B0001",
+  "corpus": "book",
+  "folder_name": "1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo",
+  "material_type": "journal_article_historical_sociology_review",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo.md",
+  "clean_source_sha256": "9A63EB5F358128A8EE664B7AB863FF09EDCE13456975EDBFB2E1FAFE3029D65C",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 17,
+      "report_characters": 225881,
+      "packet_characters": 229290
+    }
+  ],
+  "report_structure": {
+    "overall_report": 1,
+    "section_reports": 9,
+    "special_entity_index": 1,
+    "knowledge_emergence_files": 5,
+    "legacy_root_report": 1
+  },
+  "candidate_sections": [
+    {"section_id": "2.4", "grade": "A", "verification": "V2", "role": "core_framework_and_mechanism"},
+    {"section_id": "2.6", "grade": "C", "verification": "V2", "role": "limited_display_context"},
+    {"section_id": "9.1", "grade": "C", "verification": "V2", "role": "long_duration_prehistory_only"},
+    {"section_id": "9.3", "grade": "C", "verification": "V2", "role": "gendered_consumption_prehistory_only"},
+    {"section_id": "1.5", "grade": "X", "verification": "V2", "role": "documented_gap_not_support"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Library folder classification is book, but the source is a journal article.",
+    "Key clean-text passages were spot-checked; full original, journal metadata, pagination, and cited originals remain unchecked.",
+    "Do not use as sole support for object facts, visual descriptions, audience effects, or post-1945 claims."
+  ]
+}
+

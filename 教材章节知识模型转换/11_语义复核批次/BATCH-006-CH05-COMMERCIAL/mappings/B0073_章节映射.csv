@@ -1,0 +1,14 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0073,5.1,A,V2,art_deco_core_survey,Art Deco是“现代的但非现代主义的”风格综合体：以装饰、表面、材料、速度意象与消费文化回应现代世界，介于传统主义与激进现代主义之间,五部分框架与“modern but not Modernist”为编者核心命题；40章多作者各章立场不一须按章归因,回查Ch1（L300区域）与总论；L229—232家族相似性,ACCEPTED_AS_CORE_SOURCE
+B0073,5.1,A,V2,exposition_1925_defining_event,1925年巴黎国际现代装饰与工业艺术博览会确立Art Deco为“定义性事件”：其评审标准（“现代灵感与真正原创”）与Ruhlmann Hôtel du Collectionneur大沙龙为风格立名；名称加入“industriels”宣告艺术-工业联盟,博览会制度与展品为档案可证；“定义性事件”地位为编者评价,回查PART 3（L2669起）与L1288,ACCEPTED_AS_CORE_SOURCE
+B0073,5.1,B,V2,family_resemblance_style_definition,Art Deco非单一本质风格，编者以Wittgenstein“家族相似性”为异质性辩护；术语本身为后设建构,家族相似性为编者方法论立场；Greif与Wilson对术语适用性存在争议,回查L229—232；L7042—7060,ACCEPTED_AS_CORE_SOURCE
+B0073,5.4,A,V2,streamline_moderne_american_phase,Streamline Moderne/streamlining为1930年代美国主导的圆润流线风格，从交通工具（Chrysler Airflow、Burlington Zephyr、DC3）扩散至一切商品，是Art Deco美国化第二阶段,Ch34（Maffei）为单章论证；“流线化”与Art Deco的关系有Gebhard等术语争议,回查L1813—1818；L5953—6028；L271,ACCEPTED_AS_CORE_SOURCE
+B0073,5.4,A,V2,styling_and_obsolescence_mechanism,styling（风格化）通过款式更新制造消费欲望与“风格性过时”（Calkins、Consumer Engineering）；工业设计师（Loewy、Bel Geddes、Teague、Dreyfuss）成为新职业,该机制主要依据美国1930s理论文献，属辩护方与批判方并置的话语证据，缺乏量化消费数据,回查L5931—5952；L1818；L5937—5940,ACCEPTED_AS_CORE_SOURCE
+B0073,5.4,B,V2,streamline_as_decorative_reinvention,流线化允许“不借助装饰而重造装饰”，是Art Deco装饰逻辑在美国的延续而非断裂；“既安详又动力”,延续性命题为编者与Maffei立场；Giedion等批判方视其为“declining art décoratif approach”,回查L397；L6044—6049；L6057,ACCEPTED_AS_CORE_SOURCE
+B0073,2.6,A,V2,colonial_empire_exhibition_context,Art Deco时代恰逢欧洲帝国“最后的殖民时代”：法殖民地贸易30%、海外投资45%（1939 vs 1914年9%）；1931巴黎殖民博览会与1925博览会构成殖民资源展示语境,经济数字引自当代统计（Ch2 Marwick）；殖民展为法国官方话语（编者已批判）；Wembley等英帝国展另列,回查L578—591；L583—589,ACCEPTED_AS_CORE_SOURCE
+B0073,2.6,B,V2,nonwestern_appropriation_and_local_modernity,Art Deco在东亚、印度、拉美、澳新、南非被“再挪用”为本土现代性符号：印度土邦王公消费、拉美“其他现代性”、南非种族语境（Ch39）——“东方对东方的再吸收”,全球区各章证据密度低于欧美区；Ch35–39各为单作者国别叙述；“再挪用”命题含编者阐释成分,回查L394—397；L6250—6253；L6758—6931（Ch39）,ACCEPTED_AS_CORE_SOURCE
+B0073,2.6,C,V2,african_art_and_primitivism,非洲艺术经收集与建构进入Art Deco图像库；“异国情调”承继19世纪殖民动力学进入全球未来,非洲叙事为策展人Wood的批判性重构，“原始主义”框架本身是西方建构,回查L1117—1308；L1891—1894,ACCEPTED_AS_CORE_SOURCE
+B0073,4.1,B,V2,origins_before_1925,Art Deco源头早于1925博览会：埃及热（图坦卡蒙）、古典古风雕塑、古代墨西哥/玛雅、东亚艺术、非洲艺术、前卫艺术；1910s巴黎沙龙与装饰传统为直接前史,PART 2为多位作者分源论述，各源权重与“前史”定性为编者框架；埃及热等有明确考古事件锚点,回查L602—2121；L640（Cartier埃及钟）,ACCEPTED_AS_CORE_SOURCE
+B0073,4.1,C,V2,art_nouveau_contrast,与Art Nouveau相比，Art Deco不具艺术救赎信念，而以现代艺术观念“抚平消费者与市场之间的界面”,对比表述出自编者总论（Ch1），非专章系统比较,回查L300,ACCEPTED_AS_CORE_SOURCE
+B0073,0.6,B,V2,exhibition_catalogue_object_bias,本书为V&A同名展览图录：Object List约400条展品构成证据链，名作选择与收藏机构决定样本偏向——法/英/美高端实物与奢侈工艺占比高，隐含策展价值判断,图录实物证据非随机样本；全球区展品密度低于欧美区；OCR个别错讹,回查L11540—13502（Object List）；L12055—12132,ACCEPTED_AS_CORE_SOURCE
+B0073,0.6,C,V2,western_euroamerican_center_of_gravity,叙事以巴黎为中心向欧美扩散再及全球：欧美区14章远超全球区5章，存在欧美重心偏差,该偏差为结构与篇幅事实；编者已以Ch39殖民批判部分矫正,回查目录L31—37；PART标记L598、L2120、L2669、L5000,ACCEPTED_AS_CORE_SOURCE

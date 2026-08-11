@@ -1,0 +1,107 @@
+{
+  "source_id": "B0318",
+  "corpus": "book",
+  "folder_name": "Morris, William：Hopes and Fears for Art, 1882",
+  "material_type": "工艺美术运动参与者讲演集与规范性艺术—劳动论述",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Morris, William：Hopes and Fears for Art, 1882.md",
+  "clean_source_sha256": "BC74F909FF4E4D9A9FC5D179B6F7B72E9DE6F6825CDE44AAE266E556A43A5510",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 176674
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "actor_theory_linking_art_labour_and_use"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "lecture_testimony_citation_and_mediated_evidence"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "romantic_medieval_gender_colonial_and_binary_bias"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "craft_rules_practice_and_tacit_knowledge"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "division_of_labour_as_practitioner_problem"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "maker_user_and_common_worker_authorship"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "lesser_decorative_popular_art_concept_history"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "india_commerce_and_eastern_art_as_british_actor_claim"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "arts_crafts_labour_ethics_primary_text"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anti_luxury_use_beauty_and_consumption_norms"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "total_environment_craft_and_daily_life"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "‘艺术是劳动中愉悦的表达’和三类劳动是规范性理论，不是劳动过程的经验分类结果。",
+    "中世纪普通工匠普遍自由快乐的叙述带有浪漫化，须由行会、工资、法律、性别和作坊史校正。",
+    "‘印度艺术已死且被现代商业杀死’是依据有限转述形成的行动者判断，不能代表印度各地生产者。",
+    "人民、工匠和使用者多以男性泛称出现，女性、家庭劳动、帝国资源和企业内部权力不足。",
+    "文本把机械劳动与智性／想象性劳动强烈二分，不能推出机器生产必然无艺术。",
+    "当前1917数字文本存在双栏交错、OCR符号和长行问题，正式引文须回实体页。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第7行：题名页确认1917年New Impression；书末广告说明五篇讲演作于1878—1881年。",
+    "clean第390行：莫里斯明确把‘真正的艺术’定义为人在劳动中愉悦的表达。",
+    "clean第67—69行：分工被描述为竞争性商业的机制；作者自述因此学习多种工艺却难专精。",
+    "clean第269—287行：Mechanical Toil、Intelligent Work、Imaginative Work三分及其价值判断。",
+    "clean第374—380行：Birdwood、巴黎展览印度馆、监狱地毯和商业导致衰落的论述属于转述与行动者判断。",
+    "clean第41、63、406、414行：‘由人民创造、为人民创造’及制造者／使用者双重愉悦反复出现。",
+    "clean第55行：有用／美的黄金法则处在反奢侈和朴素生活的规范语境中。",
+    "clean第297—303行：‘无意识智慧’到‘有意识智慧’是作者的历史哲学，不是中性分期。"
+  ]
+}

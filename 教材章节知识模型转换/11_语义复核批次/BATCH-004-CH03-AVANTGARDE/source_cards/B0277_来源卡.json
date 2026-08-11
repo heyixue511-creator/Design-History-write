@@ -1,0 +1,134 @@
+{
+  "source_id": "B0277",
+  "corpus": "book",
+  "folder_name": "Lodder：《Russian constructivism》",
+  "material_type": "构成主义运动学术专史——英语世界第一部基于苏联原始档案（TsGALI、列宁格勒俄罗斯博物馆手稿部、列宁图书馆）系统研究俄国构成主义的专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Lodder：《Russian constructivism》.md",
+  "clean_source_sha256": "200449B5D8654FDE70951FC8A96EA6A1E59876804F08D096AEEBA507F6B77FC4",
+  "duplicate_group": "与B0222行动者文集、B0228塔特林、B0291乌托邦斗争、B0276 Die Kunstismen共享宣言原文与机构档案：加博/佩夫斯纳《现实主义宣言》（1920.8.5）、第一构成主义工作组纲领（1921.3）、利西茨基《物品》（Veshch'）平台声明与《艺术主义们 1914-1924》对构成主义的定义、塔特林《艺术进入技术》（1932）等行动者文本在多来源中重复出现；INkhUK会议记录、VKhUTEMAS档案（TsGALI fond 681）、OBMOKhU三次展览记录、1922年柏林第一届俄国艺术展目录为共享机构档案。同一行动者文本只计一份P0，以原始档案/宣言版本为准；洛德的转述、编排与判断属本书论述，不参与去重",
+  "files": [
+    {
+      "report_file_count": 15,
+      "report_characters": 134415
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "constructivism_as_social_construction"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "constructivist_object_design_practice"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "organic_constructivism_alternative"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "revolution_state_machine_experience"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "photomontage_photography_exhibition_design"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "transnational_network_reception_filter"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "dada_photomontage_distinction"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "school_experiment_selective_reproduction"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "vkhutemas_bauhaus_parallel_basic_course"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "westward_translation_of_constructivism"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "archival_relational_history"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "artifact_photographic_archaeology"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_absences_women_workers"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "reception_filter_as_global_model_case"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "“社会建构是构成主义本质”“加博/佩夫斯纳不属于构成主义”是洛德1983年的论战性命题，须标注为作者立场而非公认史实；其依据部分依赖加博本人后期澄清（“用自己的话排除自己”存在循环论证风险）",
+    "INkhUK档案在洛德写作时“尚未完全开放”，第三章核心叙事（构成—构图辩论、生产主义分化）基于零散档案拼凑，洛德自认“材料的零散性质造成若干重要空白”",
+    "塔特林大量私人文件于1953年去世后被公寓管理员丢弃，第一、七章细节依赖回忆录与二手转述，无法逐条核实",
+    "多数三维构成已毁（米图里奇亲自销毁全部空间海报），形式分析依赖照片重建，属洛德方法而非无损证据",
+    "构成主义设计实践多数未进入批量生产：呼捷玛斯课程与组织设立、德梅特法克教学实验不自动证明教学成效或工业采用；洛德明示教学纲领与车间实际条件存在差距",
+    "“有机构成主义”是洛德提出的分析范畴，其作为历史行动者（塔特林、米图里奇）自我理解的程度是洛德本人标注的开放问题；Letatlin未完成功能飞行，“替代技术”框架是洛德的阐释",
+    "女性构成主义者（波波娃、斯捷潘诺娃、罗扎诺娃）的贡献集中于“软设计”领域评价，其史学框架是否遮蔽性别分工、工人作为受众/生产者缺乏第一手记录，本书未提供足够证据",
+    "接受史限于西欧与北美（英德美），东欧、中国、拉丁美洲的传播与转化超出本书范围；0.7“全球设计史模型”只能从第八章提取局部案例素材",
+    "知识涌现模型（P4）的知识元命名、语义链接网络、结构洞与桥接命题（如“环境构成主义”亚类、“爆发—收缩”生命周期模型）均为P4推演产物，仅作语义路由使用，不得写入教材命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第126行：导言核心命题——“In reality it was something much wider: an approach to working with materials...active participants in the process of social and political transformation”，并指1922年柏林Erste Russische Kunstausstellung为西方认知起点",
+    "clean第140行：“构成主义”术语首次印刷出现——1922年1月莫斯科诗人咖啡馆《构成主义者》展目录，梅杜涅茨基与斯滕伯格兄弟宣言“进入工厂”“这条道路被称为构成主义”",
+    "clean第170行：导言衰落论——“the re-emergence of that very Realism...struck a chord which was already potentially resonant in Constructivism's own development...logically emerged from the new technological aesthetic”，摄影蒙太奇为其表现",
+    "clean第497行：加博1948年声明——“the word Constructivism is a misnomer...appropriated by one group of constructivist artists...demanded that art should liquidate itself”（行动者自我澄清，洛德排除加博的关键文本，须标注为行动者主张）",
+    "clean第626行：IZO行政参与实证——28个展览、博物馆办公室（罗琴科主持）购1926件作品、组织30个地方博物馆并分配1211件、艺术工作分部委托1250张模板海报",
+    "clean第861行：OBMOKhU第三次展览（1921.5）与“laboratory work”，塔特林塔被该群体仅解读为“celebration of the machine”——洛德认定的“分叉点”",
+    "clean第1015—1021行：INkhUK“构成”一般性定义——“Construction is the effective organisation of material elements...The absence of any superfluous elements”",
+    "clean第1248行与1314行：构成主义/生产主义分化——“a further division among the left artists of INKhUK occurred...between the Productivists (orientated on industry) and the Constructivists”；“In strict terms the only 'Productivists' were theoreticians”",
+    "clean第1328、1352、1374、1378行：VKhUTEMAS制度史——1920年成立令“highly qualified master artists for industry”；1925年巴黎展奖牌与1926年改革并存；基础课程从两年减至一年、1929年减至一学期",
+    "clean第1859—1870行与2111行：斯捷潘诺娃“Today's clothing must be looked at in action”及prozodezhda/sportodezhda分类；波波娃《宽宏大量的乌龟》（1922）舞台装置与生物力学",
+    "clean第2344、2357、2372行：克卢齐斯摄影蒙太奇政治招贴与利西茨基1928年科隆Pressa展照相壁画",
+    "clean第2635—2653行与2756行：Letatlin——“My apparatus is built on the principle of utilising living organic forms”；“Organic Constructivism sought to examine the external natural bases underlying all technologies”",
+    "clean第2794行与2760行：第八章西方传播——利西茨基1921年底携《第一构成主义工作组纲领》赴柏林、与爱伦堡出版《物品》（1922）；1922年柏林展Galerie van Diemen三间抽象展厅",
+    "路径核对：clean文件实际名为“00-book_clean/Lodder：《Russian constructivism》.md”（来源资产总表clean_source_path确认，sha256 200449b5…），正文行号均按实际文件核验"
+  ]
+}

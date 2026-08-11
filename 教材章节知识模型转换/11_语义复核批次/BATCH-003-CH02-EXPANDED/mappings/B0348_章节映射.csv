@@ -1,0 +1,14 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0348,0.3,A,V2,production_business_object_and_reception_method,书籍设计史可把理念、工序、企业、劳动、市场与接受连成可核机制链,单一名人—机构个案不能代表全部工艺美术生产,与其他企业、普通印刷厂和劳动史比较,ACCEPTED_AS_METHOD
+B0348,0.5,A,V2,diary_letters_ledger_proofs_press_and_objects,日记、通信、账簿、校样、试页、报刊和实物可互校行动者记忆与生产事实,资料保存受Cockerell角色和藏所收集史影响,回档案号、纸本页码、账簿结构、实物和图版,ACCEPTED_AS_SOURCE_METHOD
+B0348,0.6,A,V2,morris_cockerell_worker_gender_archive_and_anglophone_bias,名人中心、档案保存者偏差、工人／女性缺口和英语世界重心须进入审计,材料丰富不等于主体覆盖完整,补工人、女性、外包者、顾客与非英语接受材料,ACCEPTED_AS_EVIDENCE_AUDIT
+B0348,1.3,A,V2,type_design_reproduction_workflow_and_control,字体设计、冲模、机器铸字、电铸、摄影转刻和版面规范说明构思—复制—控制的多阶段分工,Morris全要素控制不等于亲手执行全部工序,逐对象补制作者、图样、账单、工序与署名,ACCEPTED_AS_CORE_PRODUCTION_SOURCE
+B0348,1.4,A,V2,paper_ink_type_press_and_material_constraints,手工纸、墨、字体尺度、手压机与复制技术共同限定书页形式、成本和产量,材料选择的审美解释仍需实物和技术核验,补纸张水印、墨色、尺寸、设备、印数和保存状态,ACCEPTED_WITH_OBJECT_VERIFICATION
+B0348,1.5,A,V2,book_as_collective_authorship_and_hidden_labour,Morris、Walker、Prince、Batchelor、Burne-Jones、转刻者、印工、编辑和校对共同形成书籍作者网络,档案可见度不等于贡献大小，女性与印工声音较弱,补工人自述、工资、任务、署名和性别材料,ACCEPTED_AS_CORE_AUTHORSHIP_SOURCE
+B0348,1.6,A,V2,book_designer_printer_editor_manager_and_craft_roles,书设计师、印刷者、编辑、秘书、刻工和企业管理等角色的区分可进入职业概念史,‘发明书设计师’是作者解释，Moxon等前史已构成反例,补同期称谓、职位、合同和更长印刷职业史,ACCEPTED_WITH_PRIORITY_CLAIM_AUDIT
+B0348,2.3,A,V2,ideal_book_socialism_division_of_labour_and_collectors,理想书、社会主义、工人待遇、严格控制、昂贵商品和收藏市场共同构成劳动伦理的实践矛盾,管理者证词和保守账目不能证明工人获得解放,与Ruskin、B0070、B0133、工人及消费者材料对读,ACCEPTED_AS_CORE_SOURCE
+B0348,2.4,A,V2,pricing_discount_speculation_piracy_and_collecting_market,价格、版本、折扣、投机、盗版与跨洋复制说明设计价值如何被市场组织,市场价格不能等同于审美接受或使用意义,补顾客、阅读、流通、图书馆和二手市场记录,ACCEPTED_AS_CORE_MARKET_CASE
+B0348,2.5,A,V2,typography_ornament_illustration_and_unified_page,字体、页边距、装饰、插图与文本的整体编排构成工艺美术的书籍环境,著名Chaucer重页不是全部Kelmscott书的代表，当前未逐图核验,补不同开本、普通页面、实物、图像和阅读使用,ACCEPTED_WITH_VISUAL_FOLLOWUP
+B0348,2.7,A,V2,printing_exhibitions_piracy_and_transatlantic_reproduction,展览、代理、报刊、摄影复制、仿制字体与地方出版社形成可追踪的跨境再生产链,复制、仿制与市场知名度不等于思想或社会理想被接受,按人物、技术、企业、对象和评论分层核验,ACCEPTED_WITH_TRANSFER_FOLLOWUP
+B0348,3.6,B,V2,private_press_to_twentieth_century_typographic_debate,Kelmscott经Doves、Vale、商业印刷与功能主义批评进入20世纪字体和版式论争,不是新摄影、新字体或先锋排版的核心专史,补相关设计者原文、对象、学校、企业和传播材料,ACCEPTED_AS_PREHISTORY
+B0348,5.5,B,V2,book_designer_and_commercial_print_professionalization,全要素协调与商业印刷接受可作为平面／书籍设计职业化的具体前史,私人出版社不能替代20世纪职业组织、教育和企业职位史,补协会、课程、合同、职位、工资和商业印刷档案,ACCEPTED_AS_PROFESSIONALIZATION_PREHISTORY

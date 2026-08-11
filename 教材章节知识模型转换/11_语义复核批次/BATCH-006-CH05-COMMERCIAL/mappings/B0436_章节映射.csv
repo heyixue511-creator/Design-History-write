@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0436,5.1,C,V2,supplement_source,1925年巴黎国际装饰艺术与现代工业博览会的组织理念、四大呈现方式与“原创性”唯一规定,图册式总览，转述博览会官方组织文本，无脚注；为5.1节补充性概览而非核心专史,回查clean L69-L92、L78,CONTEXT_ONLY
+B0436,5.1,C,V2,exhibition_core,展览名称加入“industriels”宣告艺术创造与工业传播的合作，艺术-工业联盟为1925纲领成就,引文与转述源自博览会官方文本与作者立论，无独立史料标注,回查clean L74、L1288,CONTEXT_ONLY
+B0436,5.1,C,V2,modernity_definition,“现代性”＝形式服从需要与技术、复兴传统逻辑而非模仿传统形貌；区别于时尚与流行,作者立场性论断，属“运动当事人自我镜像”文本，需与批判性研究对照,回查clean L15-L16、L22、L48,CONTEXT_ONLY
+B0436,5.1,C,V2,material_tech,钢筋混凝土为现代建筑物质基础，其整一性导出直线、水平线、细柱无柱头的形式语言,技术史叙述集中但无引用体系,回查clean L170-L224、L248、L270-L271,CONTEXT_ONLY
+B0436,5.1,C,V2,hygiene_interior,卫生观念重塑室内设计：去帷幔、平滑表面、无檐口家具、大玻璃窗、金属床架,家具板块论点，非博览会制度记录,回查clean L1178-L1189、L1241,CONTEXT_ONLY
+B0436,5.1,C,V2,regional_colonial,外省参与与殖民艺术纳入叙事，主张在传统与“现代”间取“转化式借鉴”而非复制臣服,以1925年当时观察口吻呈现，非当代批判性殖民研究,回查clean L1604-L1731,CONTEXT_ONLY
+B0436,5.1,C,V2,critic_quotes,保留当时艺评家大量引文（Sedeyn、Sarfatti、Wettergren、van der Burch、Guerin），具二手文献汇编价值,引文无出处可复核，用作修辞性支撑,回查clean L898-L911、L1046-L1048、L1772-L1786,CONTEXT_ONLY
+B0436,5.4,D,V2,contrast_reference,以“直线胜曲线”清算1900年新艺术，直线与水平线统治1925样式，可作流线型前史对照,本书未系统讨论流线型（streamline），仅“直线/水平线”形式命题可对照,回查clean L793、L203-L208,CONTEXT_ONLY
+B0436,5.4,D,V2,furniture_geometry,家具“敏感严整”的简洁曲线与计算比例，相似于钢筋混凝土建筑的简单几何,L1173单点对照，家具板块语境，无流线型术语,回查clean L1173,CONTEXT_ONLY
+B0436,4.1,C,V2,prehistory_evidence,19世纪铸铁建筑（Polonceau、Labrouste、Eiffel）与1889博览会为现代建筑先声；1900新艺术曲线遭1925清算,以论辩性叙述呈现，非专门前史研究,回查clean L40-L47、L113、L257-L258,CONTEXT_ONLY
+B0436,0.6,C,V2,evidence_bias,图录式概览的证据边界：图像证据为主而clean仅有文字、评述浅描、无注释、巴黎中心残余、OCR残损,图版视觉信息不可复核,回查clean L1119、L2126、L2129、L2159,CONTEXT_ONLY
+B0436,0.6,C,V2,duplicate_p0,与B0073共享Art Deco对象（1925博览会、新材料、直线形式等），同一对象只计一份P0，本包知识涌现分析仅作语义路由,P4知识涌现模型推演产物，非原文直接陈述,回查本packet知识涌现分析文件（00-04）,CONTEXT_ONLY

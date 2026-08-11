@@ -1,0 +1,122 @@
+{
+  "source_id": "B0076",
+  "corpus": "book",
+  "folder_name": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
+  "material_type": "北欧设计图录（视觉书）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002_clean.md",
+  "clean_source_sha256": "1DD0E864285B2F630D177751359BC485E2226D8409F26F1EF4E5EEC6F16CE7AA",
+  "duplicate_group": "与B0388（Fallan主编《Alternative Histories》）共享『斯堪的纳维亚设计』主题对象：本书为图录体裁样本，B0388第1章（L127 hagiographic and mythopoeic、L141 Beer颂歌批判）构成对该体裁的直接批判，二者正反对勘；Lunning Prize、Svenska Slöjdföreningen、Design in Scandinavia巡展等同一对象P0只计一份，本书作档案侧、B0388作批判侧互补使用",
+  "files": [
+    {
+      "report_file_count": 15,
+      "report_characters": 196837
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "7.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "nordic_design_works_visual_archive"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "swedish_design_association_institution"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "swedish_social_democratic_design_policy"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "danish_furniture_institutional_base"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "finnish_textile_design_institutions"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "lunning_prize_reference"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "norwegian_brukskunst_institution"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "D",
+      "verification": "V2",
+      "role": "iceland_design_institutional_notes"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "D",
+      "verification": "V2",
+      "role": "nordic_ethos_lutheran_narrative"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_in_scandinavia_us_tour"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "D",
+      "verification": "V2",
+      "role": "good_design_epitome_claim"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "coffee_table_genre_evidence_bias"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "celebratory_language_and_judgments"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "图录体裁偏差：无脚注引用体系，材料来源不可逐条回溯；B0388第1章以hagiographic and mythopoeic批判该类文献，本书颂歌式语言（remarkable/extraordinary/timeless高频）与最高级判断（the single most important figure等）不可作史实引用",
+    "叙事判断为作者命题：最美、最重要、史上最畅销等评价须与档案信息（年份、作品、获奖）分离使用，只可引为作者观点",
+    "Lutheran伦理→民主设计→有机现代主义因果链属类比归因，缺乏中介论证，同为路德宗国家未产生同等设计传统的反例未讨论；P4分析A2识别其为解释封套（因果40%/类比30%混装）",
+    "文化本质主义：Danes are southern、Finns are eastern等民族性格解释（clean第35-36行）在当代学术语境中已受批判，不宜作为教材论证依据",
+    "伟人+伟企史观：女性设计师、无名工匠、消费与接受史覆盖不足（P4分析C3：女性设计师彼此无链接，无集体叙事）",
+    "以2002年政治边界为国别分析单位，遮蔽跨国设计网络（P4发现A1：国别框架是构造性力量而非描述工具）",
+    "P4声明：知识涌现分析仅作语义路由，不改变证据等级判定；其A1/A2/B1-B4发现（国别框架构造性、解释封套、Ellen Key远距枢纽、Papanek论证扣环）提示本书文本层论证的修辞性质，本复核据此将叙事框架类条目定为D级/CONTEXT_ONLY，档案类条目维持C级",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第14-18行：导论开篇——patchwork定义斯堪的纳维亚；民主设计命题（More than anywhere else...）；Lutheran伦理命题（1920年诞生、诚实劳动造福他人获救赎）",
+    "clean第43-44行：good design已渗透社会包容文化；Ellen Key的Skönhet åt alla（1899）与Svenska Slöjdföreningen口号Vackrare Vardagsvara并置为民主设计思想源头",
+    "clean第50行：直至1950年代，Scandinavian design概念才经Design in Scandinavia巡展（1954-1957，美国与加拿大）首次广泛普及",
+    "clean第61-67行：brukskunst（useful art）与hygge定义（a very special charm, a tender and comfortable feeling，近cosy加good cheer）",
+    "clean第149-153行：丹麦——Kay Bojesen 1931年创立Den Permanente合作社式常设展；Danish designers remained almost untouched by the influence of the Bauhaus；design should be advanced by evolutionary rather than revolutionary means",
+    "clean第202-206、241行：芬兰——Sisu定义（that which must be done, will be done whatever it takes）；1951年IX米兰三年展Milan Miracle（Wirkkala获奖最多）",
+    "clean第292-299行：冰岛——1939年Reykjavik成立Icelandic School of Applied Art；1950s-60s家具进口禁令催生本土小厂",
+    "clean第330-334、351行：挪威——Foreningen Brukskunst后更名Landsforbundet Norsk Brukskunst（LNB）；Ferdinand Aars的brukskunst完整定义（embracing the arts and crafts, applied arts and industrial design）；1970s brukskunst被放弃",
+    "clean第382-383、404、419、426行：瑞典——1845年Svenska Slöjdföreningen成立（world's oldest design association，宗旨引文）；1919年Paulsson的Vackrare Vardagsvara宣言（面向制造商）；Folkhemmet为人民之家愿景；1930年Stockholm Exhibition由该协会组织、标志Funkis分水岭",
+    "clean第675、1480、4525行：Lunning Prize条目参照——Wegner 1951年（该奖设立首年）、Quistgaard 1954年、Nurmesniemi 1959年，另第3883行Grete Korsmo获奖"
+  ]
+}

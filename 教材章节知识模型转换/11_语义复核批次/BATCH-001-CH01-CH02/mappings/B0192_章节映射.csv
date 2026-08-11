@@ -1,0 +1,11 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0192,0.3,B,V2,revisionist_anti_hero_technology_history,制造技术史须用企业档案和实物检验修正发明家起源神话,修正某位英雄不等于个人行动完全不重要,补专利、企业与公共机构多方档案,ACCEPTED_AS_METHOD
+B0192,0.4,A,V2,artifact_test_of_interchangeability,实物零件互换测试可检验企业宣传和文献中的标准化主张,样本、年代和保存史限制必须公开,核附录样本清单、测量方法和博物馆藏品,ACCEPTED_WITH_REPRODUCTION_REQUIRED
+B0192,1.1,B,V2,mobile_mechanics_and_distributed_knowledge,机械师流动、公共军工厂与机床企业共同传递制造知识,主要是美国金属和木工行业，不能等同所有前工业知识,补学徒、工会、工场和区域材料,ACCEPTED_AS_SUPPORT
+B0192,1.2,A,V2,interchangeability_flow_and_scale,互换零件、量规、机床、物流与连续装配共同改变生产尺度,互换性不必然降低成本，规模也可能造成刚性和过剩,补成本、产量、质量和工时序列,ACCEPTED_WITH_LIMITS
+B0192,1.3,A,V2,gauges_specs_and_process_control,量规、夹具、精确规格和协调工序把判断权从装配修配转移到系统设计与监督,本书较少直接讨论外观图样和设计师职位,补产品图纸、工程变更、职位和审批记录,ACCEPTED_AS_MECHANISM
+B0192,1.4,B,V2,machine_tool_material_process_system,金属与木材加工形式受机床、冲压、焊接、精度和材料流共同约束,原料供应和环境维度不是本书重点,补材料规范、采购、废料和测试记录,ACCEPTED_AS_SUPPORT
+B0192,1.5,A,V2,distributed_manufacturing_authorship,公共机构、机械师、工程师、企业管理者和销售体系共同形成制造系统,不能把技术系统无作者化，也不能忽略可证个人责任,逐项目核设计、工程、审批、制作和营销责任,ACCEPTED_WITH_LIMITS
+B0192,1.7,A,V2,american_and_european_methods_uneven_diffusion,所谓美国体制与欧洲方法长期并存，技术扩散受成本、组织和市场约束,英美比较不等于全球区域比较,补欧洲、亚洲和殖民地制造史,ACCEPTED_WITH_COUNTERSOURCE_REQUIRED
+B0192,2.1,C,V2,great_exhibition_technology_observation,1851年博览会促使英国观察者讨论美国制造技术,不是博览会公众观看、帝国展示或设计改革的完整证据,回展览目录、评审报告和观察者记录,CONTEXT_ONLY
+B0192,2.4,B,V2,marketing_production_and_market_segmentation,Singer等企业的广告、经销、服务和分期付款可先于生产技术优势塑造市场,GM年度车型主要属1920年代，不能倒置到19世纪百货语境,按时段补零售、广告、信用与销售数据,ACCEPTED_WITH_PERIOD_LIMIT

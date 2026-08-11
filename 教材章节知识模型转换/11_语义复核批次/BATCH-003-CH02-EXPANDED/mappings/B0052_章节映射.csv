@@ -1,0 +1,18 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0052,0.2,B,V2,multiple_victorian_periods_and_non_linear_style,早中晚维多利亚内部存在重叠、竞争和循环的多重物质文化,三段分期仍是组织工具，不能抹去区域、阶级和帝国差异,补细分时段、地区和对象序列,ACCEPTED_AS_PERIODIZATION_SUPPORT
+B0052,0.3,A,V2,things_as_emissaries_multi_source_material_culture_method,对象须同制作、使用、展示、分类、文字与制度证据共同解释,物不是透明文化密码，‘使节’隐喻仍需中介和反例,逐对象分开物证、文本、行动者和作者解释,ACCEPTED_AS_METHOD
+B0052,0.5,A,V2,objects_ads_literature_wills_statistics_technical_and_museum_sources,实物、广告、文学、遗嘱、统计、技术文献与馆藏可互补各自沉默,文学和广告不直接证明行为，统计与实物样本均有保存偏差,返回版本、样本、档案、目录、图版和统计口径,ACCEPTED_AS_SOURCE_METHOD
+B0052,0.6,A,V2,selective_middle_class_gender_empire_worker_and_recency_bias,专题选择、中产中心、性别／帝国分散、工人弱与研究年代须进入审计,作者提出问题不等于已补足证据,补劳动史、性别史、帝国史、区域史和较新技术史,ACCEPTED_AS_EVIDENCE_AUDIT
+B0052,1.2,A,V2,coal_iron_steam_paper_transport_and_scale,煤、铁、蒸汽与纸构成生产、交通、包装和信息扩张的相互依赖系统,宏观综合不能替代单项技术、能源数量和环境后果核验,补能源、产量、设备、企业、劳动和环境P0,ACCEPTED_AS_CORE_MATERIAL_INFRASTRUCTURE
+B0052,1.4,A,V2,coal_iron_steel_glass_paper_dye_and_rubber_systems,基础材料、合成染料、橡胶、玻璃和纸的新组合拓展对象形式与流通,技术首创和国别领先判断需现代专史与专利复核,补专利、配方、样本、供应链、企业和环境记录,ACCEPTED_AS_CORE_MATERIAL_SOURCE
+B0052,1.5,B,V2,common_things_makers_users_and_anonymous_design,火柴、针、笔、眼镜、邮票等平凡物显示匿名制造者、制度与用户共同塑造设计,综合史常以发明者和制度代表普通劳动，工人声音仍弱,补工厂、工资、专利、维护、使用和失败案例,ACCEPTED_AS_COMMON_OBJECT_SUPPORT
+B0052,1.6,B,V2,art_manufactures_common_things_and_design_categories,art manufactures、common things等分类显示设计概念在艺术、制造和日用物之间竞争,分类用语不能自动对应职业设计师制度,补同期目录、学校、行业组织、职位和词典,ACCEPTED_AS_CONCEPT_HISTORY_SUPPORT
+B0052,2.1,A,V2,great_exhibition_objects_materials_classification_and_spectacle,1851年展览通过材料、对象、分类、规模与观看组织物的公共世界,综合史不能独立证明组织、观众接受、殖民来源或逐件制作,与B0049、B0339、B0175及官方目录／对象互证,ACCEPTED_AS_CORE_SYNTHETIC_SOURCE
+B0052,2.2,B,V2,collection_museum_classification_and_knowledge_governance,Pitt-Rivers收藏、博物馆与展览分类说明对象秩序如何生产知识与等级,进化分类的描述不能成为教材自身的中性分类,补机构档案、征集来源、来源社群和分类变更,ACCEPTED_AS_CLASSIFICATION_SUPPORT
+B0052,2.4,A,V2,plenitude_goods_ads_home_and_consumer_conditions,商品范围、广告、家庭物、收藏与贫困并置可说明消费者所处的物质条件和社会差异,物的增殖不等于普遍占有、购买动机或相同使用,补价格、工资、信用、家庭清单、典当、维修和使用,ACCEPTED_AS_CORE_MATERIAL_CULTURE_SOURCE
+B0052,2.5,A,V2,hearth_home_household_taste_and_material_practice,家庭道德、家务管理、品味指南、家具与实际住宅之间的落差构成整体环境的核心问题,规范文本不能代表家庭实践，性别与劳动材料不均,补室内清单、家务劳动、住宅、对象、女性与仆役材料,ACCEPTED_AS_CORE_DOMESTIC_SOURCE
+B0052,2.6,B,V2,exhibition_collection_empire_and_evolutionary_classification,展览和收藏把帝国物品纳入英国的材料、用途和进化序列,缺少来源社会主体且帝国分析分散，不能承担殖民经验,补征集、贸易、殖民档案、被分类者与来源社群材料,ACCEPTED_AS_BRITISH_CLASSIFICATION_CONTEXT
+B0052,2.7,B,V2,japan_india_materials_trade_and_british_selection,日本趣味、印度纺织与跨国材料可显示英国对外来物的选择和再编码,零散英国叙事不能证明完整传播、地方能动性或双向交换,补贸易、旅行、译介、工匠、对象与地方再生产,ACCEPTED_WITH_TRANSFER_FOLLOWUP
+B0052,3.6,B,V2,photography_print_paper_and_new_visual_regime,摄影、印刷、纸张和图像传播改变对象被看见、记录与复制的条件,不是先锋摄影、字体或版式的专史，图像需逐件核验,补照片、出版、技术、设计者、发行和观众,ACCEPTED_AS_VISUAL_MEDIA_PREHISTORY
+B0052,5.6,B,V2,household_management_taste_gender_and_efficiency_prehistory,家务管理、家庭道德和品味指南是20世纪家务效率制度的19世纪前史,不含完整人体测量、科学管理或厨房设计链,补时间研究、设备、家务劳动者、住宅和使用材料,ACCEPTED_AS_DOMESTIC_PREHISTORY
+B0052,12.3,C,V2,coal_energy_material_plenitude_and_environmental_prehistory,煤炭能源、材料增殖和废弃可作为生命周期与环境设计的长时段前史,本书不是生态设计、碳核算或环境正义研究,补排放、污染、开采、劳动、生命周期和当代理论,CONTEXT_ONLY_AS_ENVIRONMENTAL_PREHISTORY

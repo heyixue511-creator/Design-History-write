@@ -1,0 +1,133 @@
+{
+  "source_id": "B0228",
+  "corpus": "book",
+  "folder_name": "John Milner：《Vladimir Tatlin and the Russian Avant-Garde》，1983",
+  "material_type": "人物研究兼专史：英语学界最早系统研究塔特林的学术专著，传记叙事与艺术史分析交织",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John Milner：《Vladimir Tatlin and the Russian Avant-Garde》，1983_clean.md",
+  "clean_source_sha256": "CAF346BB15D08E0651B26BC267CC7C7D8DEC7358FD711A1DED344EE97FA0932E",
+  "duplicate_group": "与B0277、B0222共享塔特林行动者文本与机构档案；同一文本只计一份P0",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 145123
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "core_actor_tatlin_constructivism"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "faktura_construction_methodology"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "third_international_monument"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "constructivism_multi_tendency"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "production_art_and_institutions"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "tatlin_malevich_divergence"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "transnational_network_tower_dissemination"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "berlin_paris_russian_network"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "ww1_cultural_isolation_lens"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "destroyed_works_photo_reconstruction"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anecdotal_evidence_boundary"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "svomas_vkhutemas_lineage"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "dada_marginal_relevance"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "exhibition_stage_design"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "社会政治维度处理节制：十月革命前后的意识形态论争、斯大林时期体制压力未深入剖析",
+    "女性艺术家（罗扎诺娃、波波娃、斯捷潘诺娃、冈察洛娃）多为配角，论述不足",
+    "出版于1983年，无法纳入其后Lodder、Buchloh等构成主义研究成果",
+    "CONSTRUCTIVISM章（1919—1953）时间跨度过大，部分主题牺牲了分析深度",
+    "关键生平节点依赖回忆材料：毕加索工作室访问（以「reportedly」限定）、马列维奇题字、塔特林晚年自述均属轶事证据，作者审慎标注但未系统批判其偏差",
+    "塔特林之塔的「宇宙论维度」与纪念碑的对应属作者阐释性建构，须与普宁小册子中的档案数据（委托、团队、展出时间）明确区分",
+    "已毁浮雕与未建成纪念碑的视觉重建依赖照片与图纸，图像推定须与可证档案区分（属作者方法而非独立档案证据）",
+    "知识涌现分析（P4）是基于七份分析报告的二次推演（催化认识论、转置操作符、遮蔽效应等命题），仅作语义路由参考，不构成对原书的新证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第70—73行：导论开篇，塔特林enthusiasms与「investigator of art」身份定位（'He was not an artist whose work exhibited stylistic cohesion; first and foremost he was an investigator of art.'）",
+    "clean第106—110行：帆布首先是帆的材料，航海经验构成先于艺术史的「材料语言」",
+    "clean第529行：圣像画与立体主义不对立（'The importance of cubism and the achievements of icon painting did not, in this sense, comprise a contradiction for Tatlin.'）",
+    "clean第832—833行：faktura定义（'Faktura was not pattern and was not synonymous with texture: it was the handling of material left evident.'）",
+    "clean第1548—1549行：塔特林「analytical」vs.毕加索/波丘尼「accumulative」；'material and faktura lead to construction'",
+    "clean第1552—1553行：立体主义「催化」论（'Cubism did not overwhelm Tatlin. Whilst its importance could not be denied, for Tatlin its action was catalytic.'）",
+    "clean第1932—1933行：0.10展览1915年12月在彼得格勒Dobychina画廊开幕，塔特林角落浮雕与马列维奇至上主义同场对峙",
+    "clean第2719—2735行：第三国际纪念碑——普宁小册子载1919年IZO Narkompros委托、团队、高度设想远超埃菲尔铁塔、1920年11月8日彼得格勒展出、12月莫斯科第八届苏维埃大会期间展出",
+    "clean第2738—2739行：纪念碑「看似倾斜实则垂直」的形式观察",
+    "clean第2936—2941行：旋转大厅周期（立方体一年、金字塔一月、圆柱体一日），'mark off time as regularly as a clock'",
+    "clean第3154—3156行：1919年1月1日塔特林任莫斯科自由画室负责人",
+    "clean第3416—3420行：Arvatov记录的工厂轶事；1922年彼得格勒艺术文化博物馆（'the first museum of modern art'）",
+    "clean第3758—3764行：Letatlin名称语源（letat「飞」+Tatlin）、Novodevichy修道院实验科学实验室与1932年展出",
+    "clean第4003—4009行：全书结尾——'Tatlin was both practical man and dreamer, the lyricist of construction'、'discovered and not devised'"
+  ]
+}

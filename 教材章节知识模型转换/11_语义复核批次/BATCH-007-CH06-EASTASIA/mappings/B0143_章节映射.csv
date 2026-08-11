@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0143,0.2,A,V2,modernity_fashion_theory,时尚是现代性不可分割的文化表达形式：现代性=城市社会的碰撞动力、变化渴求与强化感觉，时尚以其歇斯底里与夸张表达现代性；其本质是“现代主义式的反讽”,理论命题（作者核心框架）；个案为文学与历史例证,回查clean L240-241,ACCEPTED_AS_CORE_SOURCE
+B0143,0.2,A,V2,ambiguity_double_face,时尚兼具艺术与商品、解放与压迫的双重面孔，是资本主义内在矛盾的象征性体现——曖昧性概念框架,理论命题，跨章论证,回查clean L240-255,ACCEPTED_AS_CORE_SOURCE
+B0143,6.4,B,V2,urban_fashion_modernity,时尚是现代都市生活的核心维度：百货商店创造“与外部世界完全分离的消费梦幻世界”，将购物建构为独立休闲与审美体验，是现代女性形象的塑造空间,提供消费文化机制理论而非上海在地史料；上海仅一处转引（clean第306行），须与上海百货公司一手史料互证,回查clean第306行；packet Ch07论点2,ACCEPTED_AS_SUPPORTING_SOURCE
+B0143,5.2,B,V2,us_mass_consumption_fashion,美国大众消费体系中时尚通过百货商店、连锁零售、电影明星形象与杂志类型学组织欲望，消费成为身份表达手段,案例为理论引证而非系统美国消费史，须与教材5.2史料互证,回查clean第306行外的Ch07/Ch08内容,ACCEPTED_AS_SUPPORTING_SOURCE
+B0143,0.6,B,V2,gender_evidence_bias_reflection,时尚产业依赖世界性女性廉价劳动剥削；女性在消费史中长期以“被观看者”出现而劳动者与生产者身份被遮蔽,本书自身即女性主义立场文本，其性别叙事同样带有立场偏差，用作偏差分析时须双向审视,回查clean第280—298行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0143,2.4,B,V2,department_store_desire_machinery,百货商店通过陈列、橱窗与空间封闭性组织消费欲望，是19世纪中产阶级女性少数可合法独自出现的公共空间,以左拉小说与英法案例为主，属理论-文学综合证据，具体商店机制须与百货公司档案互证,回查clean第759行“铰链”命题,ACCEPTED_AS_SUPPORTING_SOURCE
+B0143,9.4,B,V2,youth_subculture_commercial_absorption,青年亚文化着装（泰迪男孩、摩登族、嬉皮士、朋克）构成非正式政治表达传统，并经历从异议到商业吸收的周期,英国案例为主，音乐/杂志维度仅触及，须与教材9.4其他媒介史料互补,回查clean第2320行朋克案例,ACCEPTED_AS_SUPPORTING_SOURCE
+B0143,9.3,B,V2,gendered_occupation_objects,服装产业的分工与消费类型学按性别组织职业与物品：女性承担生产劳动却以“类型化”消费被建构为装饰性存在,性别分析框架可直接采用；职业史具体数据缺失，须补一手产业史料,回查clean第280—281、286—291行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0143,11.1,B,V2,postmodern_crisis_social_conditions,消费社会、青年反叛、媒体扩张与郊区化共同构成现代主义危机的社会条件，时尚在其中既是症状也是批判媒介,后现代讨论集中于Ch12且以时尚维度为主,回查clean第816—817行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0143,9.1,C,V2,affluent_society_consumer_citizen_theory,消费不仅是生产结束后的被动环节，时尚消费将个体建构为身份表演者，消费公民身份通过着装类型学形成,战后丰裕社会史料非本书重心，理论机制可借鉴、个案不可直接借用,回查clean第278—282行,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0143,9.2,C,V2,domestic_labor_family_ideology,19世纪资产阶级“家中的天使”意识形态将女性限定于家庭领域，“优雅如同家务劳动”揭示装饰性劳动与家庭劳动的同一性,家庭劳动/家电主题仅作为性别意识形态背景出现,packet Ch06论点2、论点4,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0143,3.1,C,V2,urban_mechanical_perception,现代都市以视觉优先性（“眼睛的活动压倒耳朵的活动”）与速度体验重构感知，“丑的美学”是这一感知结构的审美表达,本书聚焦时尚的都市感知而非战争/先锋派视觉实验，与3.1主题部分交叉,回查clean第240—241行,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0143,11.6,B,V2,punk_subculture_dress,朋克以廉价俗气面料与“丑的美学”对现代性与品味概念进行自觉评论，构成对主流时尚系统的低技术反抗,本书证据为着装维度（PVC、仿豹纹、别针），自出版/图形维度缺失,回查clean第2320行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0143,13.2,C,V2,brand_system_globalization,全球化条件下时尚品牌成为资本主义矛盾的新形式，品牌作为文化结缔组织连接精英文化与大众消费,Ch12（2003年新增）对品牌资本主义的讨论概要性，缺乏中国品牌具体分析,packet Ch12分章报告；clean第3143行,ACCEPTED_AS_CONTEXTUAL_SOURCE
+B0143,11.7,C,V2,postmodern_global_diffusion,后现代时尚在非西方地区的选择性采用（如上海探戈案例中的西方服饰符号）同时携带现代化诱惑与殖民威胁,仅一处转引性案例，不足以支撑全球传播的系统论证,回查clean第304—306行,ACCEPTED_AS_CONTEXTUAL_SOURCE

@@ -1,0 +1,18 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0463,2.6,A,V2,exposition_colonial_classification,19世纪世博会以展示、命名与空间等级化重绘世界秩序：主展区/边缘如画区两分场地、Midway“人类滑尺”、Trocadéro殖民地展区将伊斯兰世界“建筑地冻结”为无时间他者,分类机制由场地规划与组织者话语证明（作者批判性解读），观众实际接受不可由展览目标直接推出,回查clean第599—600、651—654、830—831、888行,ACCEPTED_AS_CORE_SOURCE
+B0463,2.6,A,V2,authenticity_display_mechanism,“真实性”执念是殖民展示的关键机制：Rue du Caire以回收构件与细节确证制造“比开罗本城更真实”的幻象，同时排除历史与变化,“更真实”是组织者Gleon的自称，须与作者批判区分，不能当作事实陈述,回查clean第757、782—788行,ACCEPTED_AS_CORE_SOURCE
+B0463,2.6,B,V2,human_display_racial_hierarchy,人类展示按种族等级组织（Benedict五类、Fabian“另一时间”、Midway种族滑尺），种族主义分类是展示制度的内在机制,历史种族主义材料仅在说明制度机制时最小限度转述，不复制侮辱性语言；Benedict/Fabian为作者引用理论,回查clean第363—366、381—425、830—831行,ACCEPTED_AS_CORE_SOURCE
+B0463,2.7,A,V2,exposition_model_transfer_east,博览会模式并非单向西来：1863奥斯曼总博览会早于多数欧美大型博览会，1894年计划未竟而风格之争留存，1869苏伊士运河庆典把博览会要素内化为国家表演,“借用西方格式”出自奥斯曼官方文件与作者分析；庆典“从国际博览会学来”见于当时记录（活画/原住民展示）,回查clean第1281、1285—1296、1330—1332、1348—1351行,ACCEPTED_AS_CORE_SOURCE
+B0463,2.7,B,V2,muslim_self_representation,独立穆斯林国家（奥斯曼、埃及、伊朗）在世博会中争夺文化自我定义，以清真寺与君主宅邸为原型自我表征，但自我表征也落入欧洲模式（如官方出版物冻结文化）,官方出版物与知识分子游记证明自我表征存在；“落入欧洲模式”是作者分析判断,回查clean第309—311、506—517、532行,ACCEPTED_AS_CORE_SOURCE
+B0463,2.7,B,V2,bidirectional_architectural_exchange,世博会建筑影响双向：奥斯曼/埃及向西方学习图纸技术与新伊斯兰风格，西方建筑师（Owen Jones、Furness、Sullivan、Hénard）从伊斯兰建筑汲取理论资源,“双向影响”是作者第5章核心论点；风格相似或同场展出不等于影响，个案证据强度不一,回查clean第1405—1415、1520—1543、1584—1617行,ACCEPTED_AS_CORE_SOURCE
+B0463,2.7,C,V2,neo_islamic_local_practice,博览会热回传催生伊斯坦布尔新伊斯兰与开罗新阿拉伯本土实践，1894年计划中的“奥斯曼/伊斯兰建筑科学”之争浓缩现代性两难,1894博览会未建成，风格争论证据限于政府文件；本土实践证据见于第5章,回查clean第1330—1332、1460—1466、1483—1496行,ACCEPTED_AS_CORE_SOURCE
+B0463,0.6,A,V2,displayed_absent_producers,被展示的殖民地生产者与表演者（肚皮舞者、工匠、土著村落居民）作为奇观在场却无自身记录，其声音在史料中缺席，作者自认穆斯林一方记录占比有限,缺席判断基于史料构成（官方/报刊/游记为主）；被展示者态度多靠间接推断,回查clean第399—408、591—598行,ACCEPTED_AS_CORE_SOURCE
+B0463,0.6,B,V2,discourse_layer_distinction,本书示范区分组织者话语（官方出版物、场地规划）、批评者解释（报刊评论）与被展示者记录（穆斯林知识分子游记），不把展览目录类别当来源社会自我分类,话语层级区分是作者的方法自觉而非普遍事实；各层级引文须分别标注出处,回查clean第486—552、561—593行,ACCEPTED_AS_CORE_SOURCE
+B0463,0.4,B,V2,pavilion_as_historical_source,展馆建筑本身成为史料：复制品与展览厅两种类型、建筑师图纸（Parvillée、D'Aronco）与128幅图像构成建筑史证据链,展馆均为临时建筑已不存，D'Aronco图纸仅两张留存，图像证据依赖文字转述,回查clean第914—925、1335—1341行,ACCEPTED_AS_CORE_SOURCE
+B0463,0.5,B,V2,archives_press_photography,史料组合包括奥斯曼总理府档案（Yıldız/Irade收藏）、多语种报刊（Sabah、Diyojen、L'Illustration、Chicago Tribune）、官方委员会出版物与游记小说,档案使用集中于第4章；报刊以法英奥斯曼为主，阿拉伯语报刊覆盖有限,回查clean第1278、3443—3447行,ACCEPTED_AS_CORE_SOURCE
+B0463,0.2,B,V2,modernity_self_proof,奥斯曼与埃及参与博览会及自办庆典是“成为现代文明可见成员”的自证演练，现代化是穆斯林改革话语中的核心价值,“可见性”动机出自官方文件与知识分子话语；现代化叙事是作者重构而非当时统一共识,回查clean第1282、324—330行,ACCEPTED_AS_CORE_SOURCE
+B0463,2.1,C,V2,crystal_palace_precedent,1851水晶宫开创单一大厅展示世界的模式，后无法容纳整个世界的展示需求，1867年起出现主展区/外围“如画”区两分结构,水晶宫仅作前史背景，非本书重点；两分结构判断依据1867年场地规划,回查clean第601—611行,CONTEXT_ONLY
+B0463,2.2,C,V2,museum_state_governance_link,博览会与博物馆制度联动：Mariette埃及学与Bulaque博物馆、Trocadéro民族志博物馆到Musée de l'Homme的谱系，展示知识被制度化,博物馆内容集中在1878—1900展馆个案与尾声，非全书主线,回查clean第1080—1095、1690—1704行,CONTEXT_ONLY
+B0463,2.5,C,V2,art_nouveau_islamic_connection,意大利新艺术建筑师D'Aronco（stile floreale）受聘设计1894伊斯坦布尔博览会，“新伊斯兰vs现代欧洲”双轨并存,关联限于个案且博览会未建成，不能推广为流派关系命题,回查clean第1335—1341行,CONTEXT_ONLY
+B0463,8.4,C,V2,twentieth_century_colonial_legacy,尾声追踪展示遗产至20世纪：1931殖民博览会、Fathy新Gourna、土耳其共和国展馆与头巾争议，与去殖民化/国家建设的教材主题仅边缘关联,尾声为延伸论证，证据密度低于主体章节,回查clean第1653—1674、1736—1748、1768行,CONTEXT_ONLY
+B0463,6.1,X,V2,east_asia_translation_excluded,本书聚焦中东与北非伊斯兰世界，与1895—1949东亚转译及中国现代设计无实质关联，不作为6.1—6.7的来源,章节排除基于主题域不相交，非质量判断,无需回查原文,EXCLUDE_AS_OUT_OF_SCOPE

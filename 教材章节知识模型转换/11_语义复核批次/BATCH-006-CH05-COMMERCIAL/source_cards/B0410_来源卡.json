@@ -1,0 +1,129 @@
+{
+  "source_id": "B0410",
+  "corpus": "book",
+  "folder_name": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+  "material_type": "物质文化史专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C.md",
+  "clean_source_sha256": "84D476AD81C31DC6DEBA53631B7118C388D7C08E147D48E4355E126A4713408F",
+  "duplicate_group": "无精确哈希重复；与消费史/家具史来源（本批次如B0409 Strasser等）共享百货商店、信用消费、消费者性别化对象时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 109141
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_relation_history"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_artifact_evidence"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_evidence_bias"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "role_retail_innovation"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_credit_consumption"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_consumer_advice"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_comparative_reference"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "D",
+      "verification": "V2",
+      "role": "role_mass_consumption"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_consumer_citizen"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "role_gendered_consumption"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_masculine_collecting"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "role_taste_professionals"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "role_modernity_france"
+    },
+    {
+      "section_id": "5.1",
+      "grade": "D",
+      "verification": "V2",
+      "role": "role_art_nouveau_rejection"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "时空聚焦巴黎与法国，未系统比较美国/英国消费体系，法美对照属分析性命题而非本书实证内容",
+    "工人阶级与女性的真实消费习惯证据薄弱，多经资产阶级再现文本（小说、Atget摄影、社会调查）中介，作者亦自认",
+    "百货商店仅涉及Ch8等部分章节且以家具零售为主线，百货商店通史与广告、时装等维度的细节有限",
+    "时段止于20世纪30年代前后，“大众风格体制”与“公民—消费者”属结语前瞻性命题而非经验结论",
+    "作者个人经历（波士顿细木工生涯、祖母们的趣味争执）作为叙事起点反复介入文本，情感卷入可能影响论证中立性",
+    "部分章节依赖二手研究，理论引文（Baudrillard、Habermas、Gramsci等）与经验叙事交替，解释框架的因果检验力有限",
+    "“风格体制—趣味—权力”为作者的解释框架，属于文化史阐释而非可证伪的因果模型，引用时须标注其为作者框架",
+    "知识涌现分析（packet第2268行起）为P4推演，仅作语义路由",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第240行：家具对制造者、销售者、购买者与仲裁者承载不同意义；生产、分配、消费相互依存，无哪个天然优先",
+    "clean第312行：分期框架——宫廷风格体制（路易十四至革命）—从风格到趣味（革命至第二帝国）—资产阶级风格体制（第三共和国）—大众风格体制（结语前瞻）",
+    "clean第396行：“国王之物即国王”——物即政治命题",
+    "clean第2211行：恰当趣味取代接近王室风格成为社会地位标志",
+    "clean第962、968行：趣味专家通过博览会、学校、图书馆“制造”工人阶级；资产阶级风格体制的种子与“错误物品”引发工人越位的焦虑",
+    "clean第1239—1243行：趣味专家定义——礼法书与装饰指南作者、社会报告者、博览会提案者，以笔代手而非以手劳作；1820年代兴起、1855年巴黎博览会起受雇于国家",
+    "clean第1795行：女性消费者按肤色与年龄选择家具风格（brunettes配Louis XV/XVI、blondes配Louis XIV；40岁后女性房间可用男性化公共风格）",
+    "clean第1883—1887行：男性收藏（拍卖行、跳蚤市场、古董店）被建构为个体化、真实性、秩序创造的消费，与女性逛百货商店对照",
+    "clean第2057、2152、2158行：百货商店以多元化切断产销关联；Bon Marché 1850年代起售床、1880年代成套家具；Dufayel为最大信用店（abonnement分期上门收款）",
+    "clean第2506行：Dufayel信用店举办风格竞赛以借用品味专家策略、挑战装饰艺术博物馆与卢浮宫"
+  ]
+}

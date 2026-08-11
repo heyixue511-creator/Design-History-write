@@ -1,0 +1,14 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0472,6.5,A,V2,education_mediation_beijing_art_school,北京美术学校（1918）是中国近代第一个开设图案专业的国立美术学校，图案专业延续至1956年分设中央工艺美术学院，形成北京美术学校—国立北平艺专—中央工艺美术学院教育谱系,Ch05专章，以七本图案法讲义（其中四本2010年新发现）的一手考证为据,回查clean第157行建校与谱系、第162行讲义实物考证,ACCEPTED_AS_CORE_SOURCE
+B0472,6.5,B,V2,education_mediation_pattern_curriculum,“图案法”自《北京美术学校学则》（1918）核准之日起即为核心课程，图案、绘画及其他美术类专业均须修习，对中国现代设计教育影响深远,讲义实物与学则文献互证，覆盖1918—1922北京美术学校时期,回查clean第157行“图案法”课程地位,ACCEPTED_AS_CORE_SOURCE
+B0472,6.6,A,V2,national_form_jinshiwei,“金石味”（碑学趣味）通过文字设计进入印刷媒介与公共视觉文化，参与中国现代“民族性”建构；进步知识界与政府文化保守主义者几乎一致认可其为民族性重要表征,Ch03专章，以《东方杂志》与钱君匋及其师友圈（鲁迅、闻一多、郑午昌）为中心,回查clean第120行金石味三特征、第126行鲁迅建议、第136行结语,ACCEPTED_AS_CORE_SOURCE
+B0472,6.6,B,V2,national_form_hanwen_zhengkai,汉文正楷是文化民族主义的话语实践：1935年郑午昌呈请蒋介石确立楷书标准书体地位，既有利于印刷时代传承固有文化，又对现代中文字体设计现代化形成阻碍,个案研究，两通指令影响因材料缺失采取“勾勒”式处理,回查clean第87行呈请档案、第117行“字体政治”结语,ACCEPTED_AS_CORE_SOURCE
+B0472,6.6,B,V2,national_form_modernity_identity,现代化不主动建构民族性，但会激发特定族群对文化认同的寻求；民族性往往通过回溯久远历史获得,作者理论判断，属论文集观点而非定论,回查clean第136行对应Ch03结语,ACCEPTED_AS_CORE_SOURCE
+B0472,6.6,B,V2,national_form_ancient_heritage,敦煌千年艺术遗产的“再发现”影响中国现代设计与视觉文化；研究新中国“民族风格”（如北京十大建筑）不能越过古代艺术遗产的价值,导论性论述（研究途径第一条），非专章研究,回查clean第17行“纵向一贯史”部分,ACCEPTED_AS_CORE_SOURCE
+B0472,6.7,B,V2,war_propaganda_poster_schema,中国宣传画作为画种的兴衰由其属性与历史语境决定；其“图式”（Schema）是视觉的范式或程式，支撑它的是话语和思想,Ch10历时性画种研究，覆盖延安至毛泽东时代宣传画,回查clean第385行图式概念、第403行兴衰根由,ACCEPTED_AS_CORE_SOURCE
+B0472,6.7,B,V2,war_propaganda_yanan_style,延安设计样式是毛泽东时代形成的革命现代主义设计模式，延安美术设计创作萌芽对毛泽东时代设计具“原型”意义,概念界定为主，非专章展开,回查clean第17行延安美术“原型”意义、第327行延安设计样式,ACCEPTED_AS_CORE_SOURCE
+B0472,6.3,A,V2,print_capital_journal_periodization,民国期刊设计四分期（1815—1949）与全流程分类：封面、版式、印刷装订各环节独立研究，期刊设计应区别于书籍设计,Ch06专章系统研究，以作者自藏与馆藏实物考据为据,回查clean第238行四分期、第300行结语,ACCEPTED_AS_CORE_SOURCE
+B0472,6.3,B,V2,print_capital_eastern_miscellany,《东方杂志》四十年刊名字体史显示金石趣味（篆隶为主）占据主流，是碑学大兴的结果；1933年改宋体美术字、1934年遵令改篆书祥云,个案逐年考据，不能外推为全部民国期刊总论,回查clean第123行,ACCEPTED_AS_CORE_SOURCE
+B0472,6.3,B,V2,print_capital_layout_innovation,民国期刊引入“花边”（Frame）与“插画”（Cut）概念，经历直排改横排（1915《科学》）、双页排版、复式页码等版式变革，并受苏联构成主义、日本杂志设计等国际风格影响,以《图案法讲义》为设计观念一手证据，覆盖封面、内页、印刷装订全流程,回查clean第258—288行,ACCEPTED_AS_CORE_SOURCE
+B0472,0.2,B,V2,modernity_global_network,中国现代设计应放在全球设计交互网络中研究，“照相蒙太奇”在欧亚大陆的传播是典型的跨越文化语境与意识形态的全球史议题,跨文化传播比较方法，涉及日本、苏俄、欧美影响及外国设计师在华实践,回查clean第17行（二）横向全球史、Ch07章,ACCEPTED_AS_CORE_SOURCE
+B0472,0.2,B,V2,modernity_designer_centric_narrative,中国现代设计史应建立以人和作品为中心的经典叙事（设计师、团体、风格、流派、事件），主张史实求真优先、反对“以论代史”,作者方法论立场，在与佩夫斯纳—伍德姆谱系对话中展开，非实证命题,回查clean第7行引言、第10行伍德姆评述、第14行,ACCEPTED_AS_CORE_SOURCE

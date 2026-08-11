@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0328,0.3,A,V2,design_political_economy_method,设计史须把形式同生产、利润、劳动和社会观念置于同一解释链,Forty的结构主义和马克思主义解释不是唯一范式,补消费者、工人、区域与对象反证,ACCEPTED_WITH_LIMITS
+B0328,0.4,B,V2,objects_as_materialized_social_claims,人工物可用于分析生产者试图物化的社会分类和观念,物的形式不能独自证明设计意图或受众效果,补委托、广告、使用、维修和接受材料,ACCEPTED_AS_METHOD
+B0328,0.6,B,V2,designer_canon_and_missing_consumers,设计师中心叙事会遮蔽企业、工人和市场中介，Forty自身也缺少充分消费者材料,缺席不是某种具体经验的正面证据,补工人、消费者、女性及非欧美材料,ACCEPTED_AS_CRITIQUE
+B0328,1.2,B,V2,anti_technological_determinism,机器的形式后果取决于劳动、资本、市场和组织条件，而非机器单独作用,不能反向写成技术性能不重要,补具体机器性能、成本和工艺比较,ACCEPTED_WITH_LIMITS
+B0328,1.3,A,V2,design_as_production_instruction,劳动分工使图样和生产指令成为协调分离工序的独立活动,Wedgwood等案例不能代表所有行业的同一时间表,补行业图样、模型、规格、工序和工资档案,ACCEPTED_WITH_COUNTERSOURCE_REQUIRED
+B0328,1.4,B,V2,wedgwood_material_and_organization,陶瓷形式由材料、既有工艺、模型和工厂组织共同约束,本书不是陶瓷材料科学或供应链专著,补泥料、釉料、窑炉、样品和订单资料,ACCEPTED_AS_SUPPORT
+B0328,1.5,A,V2,anonymous_design_and_entrepreneurial_power,制造品由制模者、工匠、企业主和销售体系协作形成，生产决策权不能归给单一设计师,不能据此抹除具体设计者的可证责任,逐企业核图样签名、委托、审批和生产记录,ACCEPTED_WITH_LIMITS
+B0328,1.6,A,V2,design_concept_and_professional_specialization,design作为外观与生产指令的双重活动在劳动分工、版权、教育和改革话语中制度化,英国术语与制度不能直接外推全球,补词源、学校、行业组织和职业统计,ACCEPTED_WITH_COUNTERSOURCE_REQUIRED
+B0328,2.1,B,V2,great_exhibition_design_reform_context,1851年博览会参与把机器、工艺和产品质量组织成公共设计争论,该书不是博览会完整组织史，Cole意图和展品评价须回专门研究,与B0204及官方报告互证,ACCEPTED_AS_SUPPORT
+B0328,2.2,B,V2,schools_committees_and_copyright,议会委员会、设计学校、版权和展览共同促成设计的国家化治理,引述多为二手组织，政策成效与工人经验不能由改革者话语推出,回委员会报告、学校课程与行政档案,ACCEPTED_AS_SUPPORT
+B0328,2.4,B,V2,catalogues_variety_and_social_differentiation,目录、品类差异和市场细分显示制造商如何想象消费者并组织选择,不能证明实际购买者按同一性别阶级意义理解产品,补销售、家庭账本、消费者书信和使用材料,ACCEPTED_WITH_AUDIENCE_GAP
+B0328,2.6,C,V2,oriental_goods_in_reform_discourse,英国改革话语把印度和所谓东方手工物置于机器产品的对照体系,Forty并未提供殖民地参与者的完整立场，历史称谓须批判性转述,补殖民展品档案、来源社群和地方媒体,CONTEXT_ONLY

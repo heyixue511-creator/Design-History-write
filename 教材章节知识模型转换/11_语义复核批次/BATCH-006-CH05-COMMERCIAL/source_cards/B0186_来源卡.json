@@ -1,0 +1,141 @@
+{
+  "source_id": "B0186",
+  "corpus": "book",
+  "folder_name": "Henry Dreyfuss：《Designing for People》，1967",
+  "material_type": "行动者自著职业文本（P0）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Henry Dreyfuss：《Designing for People》，1967_clean.md",
+  "clean_source_sha256": "660A57EF2D7CD124FDA05CAA5821A47BCDDC5DD9546200F53D49290C461BD863",
+  "duplicate_group": "与B0206、B0066、B0205共享Dreyfuss对象；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 48,
+      "report_characters": 461498
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "5.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "anthropometry_percentile_partners"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "machine_fit_person_principle"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "five_senses_design_framework"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "household_efficiency_cases"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anthropometric_data_catalog"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "profession_formation_1929"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "inside_out_design_principle"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "silent_salesman_concept"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "sid_founding_1944"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "streamlining_critique"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "profession_code_of_ethics"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "commercial_design_critique"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ethics_market_tension_unresolved"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "actor_self_account_p0"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "self_justification_bias"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "single_actor_perspective"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "自传性叙事含自我辩护成分：成功案例（500型电话、假肢等）的成效均为自述，无独立验证，不能自动证明产品成效",
+    "不能自动证明行业影响：“四巨头”地位、人体测量法在行业的普及程度、SID伦理准则的实际约束力均需外部史料佐证",
+    "单一视角：美国中上阶层白人男性视角，美国中心主义与冷战背景，缺行业对立面声音",
+    "男性中心与时代局限：Josephine被置于熨衣、接线、家务等传统女性角色，“科学化”人体图表亦携带时代审美预设",
+    "数据科学性存疑：人体测量样本规模、统计方法与顾问医生身份未披露，“设计常数库”不可作为独立科学数据引用",
+    "轶事真实性无法独立验证：如“爷爷打宝宝屁股”中国字符、中国年费医生类比等轶事服务于论证，无法溯源",
+    "与B0206、B0066、B0205共享Dreyfuss对象：同一对象只计一份P0，本来源仅在其独有内容上独立计权",
+    "知识涌现模型（P4）基于78个知识元、247条语义链与9个涌现子图的推演，属P4语义路由结论，非原文直接陈述，不提升任何命题的证据等级",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第210—217行：Joe/Josephine是全书“男女主角”，事务所墙上“occupy places of honor”的线条图，代表数百万消费者，“they dictate every line we draw”",
+    "clean第218—222行：非解剖书直接而来、多年研究；“people come in assorted rather than average sizes”——极端值而非平均值原则",
+    "clean第223—228行：五感过敏/抑制/执念；“The process is known as human engineering”；“the most efficient machine is the one that is built around a person”",
+    "clean第230—237行：熨斗=手臂延伸案例（腕=柔性关节、指掌=夹紧装置），灼伤与颈肩背酸痛，咨询医生验证",
+    "clean第238—245行：假肢案例——员工绑假肢失败，改与截肢者合作，“The hook had become an accepted member of his body”",
+    "clean第272—284行：“极端值”人体图表征、Marilyn Monroe/Jane Russell建议；“percentile anthropometrical partners”；“We make machines fit people because we don't believe in squeezing people into machines”",
+    "clean第288—294行：视力表与照明；打字机亮漆眩光致秘书头痛→哑光皱纹漆方案",
+    "clean第2288—2295行：SID缘起——1944年与Teague周末讨论、次日与Loewy商议成立，“strict code of ethics”提升职业尊严",
+    "clean第130行：有声电影冲击百老汇（1927）→1929年于580 Fifth Avenue开设工业设计事务所",
+    "clean第913、918行：“诚实的设计应由内而外，而非由外而内”"
+  ]
+}

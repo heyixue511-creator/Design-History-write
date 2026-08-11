@@ -1,0 +1,141 @@
+{
+  "source_id": "B0316",
+  "corpus": "book",
+  "folder_name": "MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World",
+  "material_type": "技术史专史（单章）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World.md",
+  "clean_source_sha256": "9D870D06472061C25FD3C10DA9B5A3394BC8B0905D3B7B438DC731DFCE50D665",
+  "duplicate_group": "无精确哈希重复；共享对象组：二战雷达、火控、自动化与系统集成主题，与伺服/控制论史文献存在对象级共享，无文本级重复",
+  "files": [
+    {
+      "report_file_count": 8,
+      "report_characters": 92752
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "7.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "wartime_radar_system_integration"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "radar_operator_as_technician"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "system_integrator_institutional_role"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "human_servomechanism_automation_justification"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "noise_system_holism"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "tizard_mission_rad_lab"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "postwar_knowledge_institutionalization"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "mark56_digital_interface"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "automated_battlefield_seams"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "naval_buord_institutional_inertia"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "D",
+      "verification": "V2",
+      "role": "civilian_conversion_inference"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "postwar_us_system_contracting_background"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "X",
+      "verification": "V2",
+      "role": "japan_reconstruction_not_covered"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_types_archive_oral_history"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "institutional_bias_absent_actors"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "D",
+      "verification": "V2",
+      "role": "modernity_automation_dimension"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "视角偏向辐射实验室与 Getting 的成功叙事，BTL 系统工程师系谱（1920年代起）与海军承包商（Ford、Arma）内部逻辑展现不充分",
+    "德国（Würzburg）与英国（GL 系列）雷达系统整合经验缺席，系统工程的诞生命题的地域普遍性未检验",
+    "民用影响为推断：文本仅以章末 information 一词暗示与战后信息论的关联，无民用扩散史料支撑",
+    "文本为单章而非独立专著，语料库与分析报告未载明出版社与年份，版本著录需外部核实",
+    "自动化最光辉时刻、系统集成等为作者框架命题；V-1 战绩提升的解释（工程师现场调校等）部分为推断",
+    "雷达→战后自动化的延续性叙事须区分直接技术延续（伺服理论、Rad Lab Series 教材）与转用叙事，直接引用易过度引申",
+    "Mark 56 从未实战（1947 交付、服役至 1970 年代未开火），其全集成方案优越性无实战数据检验，用作反衬论证需谨慎",
+    "本包知识涌现分析（44 知识元、78 链接、9 涌现命题）为 P4 推演模型，仅作语义路由参考；其涌现命题（路径选择器、对称性偏向等）未经独立史料验证，不得作为史实引用",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第11行：导言确立框架——雷达作为新感知工具催生工程系统新方法，置于系统方法传播与 Hughes 电力系统意识之对照中",
+    "clean第13行：Getting 创造系统集成者新角色（技术、制度、认识论三重位置）；Mark 56 为战争唯一成功的全自动雷达火控系统",
+    "clean第17行：SCR-268（1937 设计/1940 生产）与 Sperry M-4 机械指挥仪不匹配，早期雷达仅类声学测距而非精密输入",
+    "clean第27行：Tizard Mission（1940.9）腔磁控管（10cm/10kW）技术转让，MIT 辐射实验室成立并成为 NDRC 最大项目",
+    "clean第31-37行：pip matching 与人的伺服机构、自动跟踪目标；锥形扫描 1941.5 测试；XT-1 卡车封闭控制室、操作者从士兵变技师；PPI 虚拟地图与今天计算机交互的类比",
+    "clean第65-69行：T-10/XT-1 协调设计；系统可能大于部件之和、附加因素是噪声；Weaver 信号/噪声类比与 Nyquist/Bode 频率响应",
+    "clean第77-79行：BuOrd stepchild 叙事——27 种海军火控雷达设计仅 3 种普及，日本低空攻击利用雷达弱点",
+    "clean第158-168行：Getting 致 Furer 自动化四论点（人类判断、战斗狂热、反应迟缓、信息超载）；雷达增加信息负担，自动化与复员策略呼应",
+    "clean第174-184行：Anzio（1944.3）首战；V-1 因无人类操作者成为恒高度假设的完美目标；343→1286 击落数据；BTL 报告揭示自动化接缝",
+    "clean第192-200行：Rad Lab Series 27 卷与 James-Nichols-Phillips 教材；Hazen 1945 系统大于部件之和；章末 information 一词暗示"
+  ]
+}

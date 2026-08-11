@@ -1,0 +1,118 @@
+{
+  "source_id": "B0409",
+  "corpus": "book",
+  "folder_name": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+  "material_type": "消费史论文集（文集章节）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Strasser：《Getting and Spending (European and American Consumer Societies in the_clean.md",
+  "clean_source_sha256": "5C0D56216BAD606BFA866C6CA1527EDA7F7397B276BBE5D4F3818E185294B194",
+  "duplicate_group": "与B0305/B0209等消费史来源共享对象时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 9,
+      "report_characters": 61746
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "5.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "us_fordist_distribution_circuit"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "advertising_marketing_professionalization"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "chain_retail_one_price_store"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "department_store_comparison"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "marketing_science_sales_engineering"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumer_sovereignty_vs_citizenship"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "mass_consumption_diffusion"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "one_class_market_durables"
+    },
+    {
+      "section_id": "9.2",
+      "grade": "D",
+      "verification": "V2",
+      "role": "household_credit_gender_roles"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "D",
+      "verification": "V2",
+      "role": "gender_consumption_roles"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evidence_bias_icc_statistics"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "anthology_framework_bias"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "范围限于大陆西欧，英国仅作参照，南欧、东欧与苏联缺席（苏联仅现于“封闭经济”一词）",
+    "数字证据依赖ICC与官方统计，作者自承欧洲数据稀薄，部分份额数字系估算",
+    "性别维度薄弱：女性仅以主妇/侍女/女主人配角出现，无专门分析",
+    "文集章节篇幅所限，脚注未在文本内呈现，个别判断未注明出处",
+    "“美国化”概念作者自陈“被过度咀嚼、概念笨重”而未给出替代概念；“福特主义”自承有时代错置之嫌",
+    "多作者文集：美欧比较与“选择性接受—变形”框架为编者建构，不等于各章统一结论；clean仅含de Grazia单章，不得将文集主旨等同于单章立场",
+    "与B0305/B0209等消费史来源共享对象时只计一份P0，避免重复计数",
+    "知识涌现分析各报告属P4模型推演，仅作语义路由，不构成新史料证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1—4行：核心命题与分期——分配系统演变“惊人地未被研究”；大陆西欧从“资产阶级”到“福特主义”消费模式转换；1920s蓄力→1930s中遇阻→1950s初重启→1960s后半加速",
+    "clean第5—6行：1970s初德法及比荷瑞、斯堪的纳维亚、意北中部已熟悉大众营销/超市/连锁零售；后福特主义分配系统为新端点",
+    "clean第9—10行：双重挑战（美国加宽加深市场压力＋以高消费实现的社会公民权）与“强调路径多样性而非围绕单一霸权性美国模式趋同”的方法论声明",
+    "clean第27—28行：美欧数据丰瘠对照；ICC以“客观与分析式攻击”用数字制造“市场”表面",
+    "clean第29—33行：术语革命commerce→distribution；distribution将商业降格为生产与消费间诸活动之一，并“推举”消费者为新的人类行动者",
+    "clean第44—45行：美国分配革命支柱——百货商店、连锁管理运作、邮购；广告成为新产业、营销成为新管理科学",
+    "clean第129—130行：连锁店与一元价格店（按价格档陈列、明码标价、高周转低毛利）；Woolworth 759家欧洲子公司为个案",
+    "clean第149—151行：消费者主权（美国用法：高收入＋竞争实现的形式选择自由）vs消费公民权（欧洲改革者：社会参与与再分配权利）概念对照",
+    "clean第171—175行：ERP“生产力使命”、共同市场与“auto-frigo”革命；自助商店1950年1200家→1960年45500家（含600家超市）",
+    "clean第184行：大众消费加速的社会文化转型——人口增长、城市化、新家庭、收入上升、信用可及、新性别角色",
+    "clean第212—213行：美国1920—1970经验不应等同于现代性本身；从匮乏走向消费富足存在不止一条路径"
+  ]
+}

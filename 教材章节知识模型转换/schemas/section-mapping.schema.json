@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "来源—教材章节映射",
+  "type": "object",
+  "required": ["source_id", "section_id", "mapping_grade", "mapping_role", "status", "rationale"],
+  "properties": {
+    "source_id": {"type": "string"},
+    "section_id": {"type": "string"},
+    "mapping_grade": {"enum": ["A", "B", "C", "D", "X", "UNREVIEWED"]},
+    "mapping_role": {"enum": ["core_claim", "mechanism", "case", "actor_view", "method", "comparison", "counterexample", "context", "excluded", "candidate"]},
+    "status": {"enum": ["candidate_needs_review", "accepted", "rejected", "blocked"]},
+    "similarity_score": {"type": ["number", "null"]},
+    "rationale": {"type": "string"},
+    "supports": {"type": "array", "items": {"type": "string"}},
+    "does_not_support": {"type": "array", "items": {"type": "string"}},
+    "report_paths": {"type": "array", "items": {"type": "string"}},
+    "verification_level": {"enum": ["V0", "V1", "V2", "V3", "V4"]}
+  }
+}

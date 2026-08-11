@@ -1,0 +1,58 @@
+{
+  "source_id": "B0081",
+  "title": "Isotype: Design and Contexts, 1925-1971",
+  "author": "Christopher Burke（主编，与Eric Kindel、Sue Walker合编；撰稿人含Robin Kinross、Benjamin Benus、Emma Minns、Hisayasu Ihara）",
+  "version": "Hyphen Press, London, 2013（ISBN 978-0-907259-47-3，约544页）",
+  "type": "视觉传达设计史专史",
+  "scope": "1925—1971年，地理覆盖维也纳（Gesellschafts- und Wirtschaftsmuseum）、莫斯科（Izostat）、海牙/阿姆斯特丹、纽约/芝加哥、牛津/伦敦（Isotype Institute）、西非（黄金海岸/尼日利亚Western Region）",
+  "duplicate_group": "与其他来源共享Isotype/Neurath对象（如Otto Neurath著作、The transformer 2009、雷丁Isotype Collection衍生出版）时只计一份P0",
+  "summary": "本书是迄今最全面的Isotype（国际图形文字教育体系）学术专论，系雷丁大学字体与图形传播系AHRC资助的“Isotype revisited”项目集体成果，将Robin Kinross 1979年MPhil论文首次成书出版。全书以地理-编年结构分12章，追踪Isotype从1925年“红色维也纳”市政社会主义中的社会与经济博物馆（GWM），经1931-1934年苏联Izostat制度输出、1934年荷兰流亡，到1941年后英国牛津/伦敦Isotype Institute（1942年正式成立、1948年迁伦敦、运作至1971年）的完整迁移链，并延伸至美国Modley的商业分化与西非殖民/后殖民项目。核心论点：Isotype不是形式主义风格而是“方法”，其枢纽是transformer（转换者）角色——Marie Reidemeister/Neurath被重新定位为第一位transformer与Otto去世后三十余年的实际领导者（“公众的受托人”Treuhänder der Konsumenten概念成为1970s信息设计学科理论来源）；方法根基在维也纳学派逻辑经验主义与社会主义教育，而非Bauhaus。全书以雷丁Isotype Collection档案（T/N文件、Guideline notes、约2000个象形图的Picture dictionary、书信未刊稿）及IISH、ÖNB、美国档案、俄语材料为据，500余幅图像构成独立视觉论证，并系统使用草图、草稿等设计过程材料。书中自认Isotype实际受众接收效果缺乏系统实证研究。",
+  "strengths": [
+    "迄今最全面的Isotype学术专论：12章+4附录，整合七位作者的档案、艺术史、俄语档案与跨洋传播研究，多声部叙事由Foreword/Introduction统一",
+    "一手档案根基深厚：以雷丁大学Otto and Marie Neurath Isotype Collection（T/N图表照片文件、Guideline notes内部规则、约2000象形图Picture dictionary、书信与未刊稿）为主，辅以IISH、ÖNB、美国档案与俄语材料，图像均标注IC编号，来源透明",
+    "方法论创新：将草图、草稿、修正、批注等设计过程“中间状态”材料提升到与成品同等证据地位，贯彻“Isotype是过程而非成品”的视角",
+    "自觉修正既往Otto Neurath/Arntz中心叙事，依据档案将Marie Neurath重新定位为第一位transformer与1945年后Isotype Institute三十余年领导者",
+    "关键术语有明确出处与时间考证：transformation一词1932年首现于印刷品、Treuhänder der Konsumenten 1929年底出现",
+    "对争议问题呈现两面并承认证据边界：苏联数据造假与Neurath共谋（无法证明）、美国Modley商业化分化、非洲殖民语境张力，均给出平衡处理",
+    "跨学科对话充分（设计史、信息设计、知识社会学、政治史、殖民研究），地理-编年结构完整覆盖维也纳→莫斯科→海牙→牛津/伦敦→西非的制度迁移链"
+  ],
+  "limits": [
+    "核心论点（Isotype不是风格而是方法、transformer枢纽地位、与Bauhaus划界）属于Burke/Kinross团队的解释框架，书中史实陈述与学术解释的分层并不总是显式标注",
+    "作者自认Isotype实际受众接收效果缺乏系统实证研究：可读性、教育成效、传播效果命题不可由本书自动推定（Marie Neurath自述“has still to be tested”）",
+    "Isotype定义边界严格：排除Arntz战后荷兰统计所工作与Modley等模仿者，导致影响史覆盖不全",
+    "苏联数据伪造问题的“Neurath知情/共谋”认定无法证明，该问题处理依赖语境推断，Chizlett批评与Minns回应均非定论",
+    "非洲章节（第11章）的殖民/后殖民评价属作者解释框架，且Western Region个案（1952-1958）的普遍代表性有限",
+    "Zeitschau街头展示“每日2000访客”等传播成效数据源自机构自述，未独立验证，存在自报偏差风险",
+    "1945-1971年Marie Neurath独立领导时期的工作覆盖面仍不完整，儿童图书章节侧重出版成品与流程记录而非完整制作史",
+    "知识涌现模型（P4）仅作语义路由使用，本包全部命题的史学效力来自档案证据与书中引用，P4推演结论不得作为史料证据"
+  ],
+  "checks": [
+    "clean第135-137、345、542行：Isotype制度史脉络——GWM（1925-1934）→荷兰流亡→牛津/伦敦Isotype Institute（1942年成立）",
+    "clean第1177-1228行：Transformer（转换者）角色沿革——Marie Reidemeister 1927年起任首位转换者，1932年术语首现，1929年“trustee of the public”概念出现",
+    "clean第196-202、1271-1285行：Isotype第一原则——以符号重复而非放大表示数量；模块化象形图由Gerd Arntz主导设计（1926年Gesolei展览后加入，1928年9月正式入职）",
+    "clean第210行：Isotype“避免情感手段、传递事实知识”是Neurath的方法主张",
+    "clean第222行：Introduction采用“相对严格定义”界定Isotype范围，排除战后荷兰统计所作品与模仿者",
+    "clean第430行：Neurath回忆“1923年第一原则已现”与实物放大法图表不符",
+    "clean第5095-5107行：Izostat制度输出（1931-1934）——1931年9月12日法令强制采用，Neurath任主任，至少5名维也纳成员常驻莫斯科；数据被夸大/歪曲，Neurath共谋无法证明",
+    "clean第6037行：1933.1.21 Neurath致van Kleeck信——美国传播的起点材料",
+    "clean第10444行：Marie Neurath自认西非工作“has still to be tested”",
+    "clean第2178、8775行：定年方法论（Kinross视觉考古学）与duplicate books记录——设计过程材料作为证据"
+  ],
+  "maps": [
+    ["4.6", "A", "isotype_as_method", "Isotype不是形式主义风格而是“方法”，其制度载体是社会博物馆与研究所（GWM→Isotype Institute），method-制度耦合构成可复制的教育-传播制度模型", "方法/风格之辨为本书核心论点（Kinross/Burke框架）；制度谱系为档案史实", "clean第135-137、345、542行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.6", "A", "role_transformer", "Transformer（转换者）是Isotype方法论核心制度角色：Marie Reidemeister 1927年起任首位转换者，1932年术语首现，1929年“trustee of the public”概念出现", "角色沿革、术语谱系、工作流程史实可证；“转换者是现代信息设计师原型”属本书解释框架", "clean第1177-1228、214行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.6", "A", "visual_language_rules", "Isotype第一原则：以符号重复而非放大表示数量；模块化象形图由Gerd Arntz主导设计（1926年Gesolei展览后加入，1928年9月正式入职）", "图形规则与设计者史实可证；“视觉语言成效（可读性、传播效果）”不可自动推定", "clean第196-202、1271-1285行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.6", "B", "visual_effect_claim", "Isotype“避免情感手段、传递事实知识”是Neurath的方法主张；其图形被指影响当代公共信息符号与数字界面", "方法意图可证；“更易记忆/更有效传播”等成效命题未被本书实证，不得自动推定", "clean第210行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.7", "A", "migration_translation", "Isotype经维也纳→海牙→牛津迁徙，并在苏联Izostat（国家赞助）、美国（Modley商业竞争）、西非黄金海岸/尼日利亚（殖民/后殖民转译）发生区域变异", "各据点史实与传播路线可证；“跨文化适应性成功”属解释性判断，且Marie自认效果未检验", "clean第135-137、5173、10444行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.7", "B", "interpretive_frame", "Isotype不是形式主义现代主义产物，而是维也纳学派逻辑经验主义的视觉对应物；Neurath批评Bauhaus“伪理性主义”", "此为Burke团队的解释框架分层，非可直接引用的事实命题", "clean第1445-1479行待核", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.6", "B", "institutional_role", "“红色维也纳”市政社会主义提供制度条件：Breitner的Wohnbausteuer税制、Tandler公共卫生计划、Glöckel教育改革提供财政/主题/受众网络", "制度关联史实部分可证；“制度条件→方法形成”的因果强度为作者论证", "clean第576行起Breitner段待核", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.4", "A", "artifact_evidence", "以雷丁大学IC档案（T/N文件、Guideline notes、约2000个pictogram图典、草图与mock-ups）及原始图表实物为核心人工物史料；设计过程材料与成品同权重是本书方法立场", "档案编号与实物可回溯；定年结论（图表修改谱系）属分析推定", "clean第254、1285、1322、8123-8823行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.5", "A", "evidence_types", "证据类型：一手档案（IC、IISH、ÖNB、Lasswell Papers等12处）、口述历史（Marie回忆录附录C、Arntz 1982访谈、Paul Neurath记录）、视觉实物与图表谱系定年（Kinross视觉考古学）", "证据类型清单可证；“棺材→墓碑”等图形演变推断属作者分析", "clean第254、1177-1228行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.6", "B", "evidence_bias", "受众接收效果缺乏系统实证：Marie Neurath自认西非工作“has still to be tested”；Neurath回忆“1923年第一原则已现”与实物放大法图表不符", "偏差识别本身可证；“效果未知”不得反向推定“无效”，引用时须保持开放", "clean第430、10444行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.6", "B", "selection_bias", "Introduction以“相对严格定义”限定Isotype范围，排除战后荷兰统计所作品与模仿者（Modley等），构成选材边界", "范围界定为编者选择；引用“Isotype未被模仿者延续”类否定命题时须注意定义边界", "clean第222行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.7", "A", "izostat_soviet_transfer", "维也纳方法向苏联Izostat的制度输出（1931-1934）：1931年9月12日法令强制采用、Neurath任主任、至少5名维也纳成员常驻莫斯科；Izostat图表含预估未来数据且数据被夸大/歪曲，Neurath共谋无法证明", "Minns基于俄语档案的一手研究；争议性评价（collusion）书中明确标注不可证，引用须带此边界", "clean第5095—5099、5101—5107行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.7", "B", "modley_us_adaptation", "美国传播中Rudolf Modley代表“适应性变异”：拒绝Isotype的国际性与标准化，与Neurath哲学分歧致分化；van Kleeck主导的Organizing Committee（1933）失败", "Ihara基于美国档案的书信与会议记录；“变异质量”评价属作者判断", "clean第6037行", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["4.7", "B", "west_africa_colonial_transfer", "Isotype在西非（黄金海岸/尼日利亚Western Region，1952-1958）作为殖民/后殖民规划的视觉工具：Marie Neurath提出本地团队训练计划并自认成效未测试", "Kindel个案研究；殖民/后殖民评价属解释框架，个案普遍性有限", "clean第10444行", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["4.7", "X", "p4_knowledge_emergence", "知识涌现模型（P4）仅作语义路由使用，不构成Isotype史实的独立证据来源；任何由P4推演出的Isotype命题均无史学效力", "P4为检索/组织工具，命题有效性取决于clean行号证据", "本包全部clean行号回查项", "P4_EMERGENCE_SEMANTIC_ROUTE_ONLY"]
+  ]
+}

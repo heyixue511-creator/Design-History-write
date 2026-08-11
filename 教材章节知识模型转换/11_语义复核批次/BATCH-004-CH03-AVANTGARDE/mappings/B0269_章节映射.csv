@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0269,3.6,A,V2,typography_advocacy,莫霍利-纳吉主张以“新排版”组织信息同时性、回归排版基础，并历数从表意诗到照相制版拼贴的排版革命,行动者纲领：证明其排版主张与历史叙事；不能证明新字体教学成效或学生接受,回查clean第69—84行排版史链条，第75行“return to the fundamentals of the new typography”,ACCEPTED_AS_ACTOR_SOURCE
+B0269,3.6,B,V2,photography_new_vision,莫霍利-纳吉将摄影/照相制版/照片拼贴纳入“新视觉”纲领，并以香水摄影、光电管论证摄影扩展感知,P0主张：证明作者视摄影为新视觉语言组成；clean无摄影专章正文，物影照片仅索引页码条目,回查clean第79—80行、第114—117行；索引第1683行photogram条目,ACCEPTED_AS_ACTOR_SOURCE
+B0269,3.6,D,V2,photogram_specific,物影照片（photogram）与光调节器专论（原书p.187-203）,本clean文本无正文可回查，仅索引页码条目；与B0291/B0277/B0007共享该对象，P0只计一份,clean第1683行（photogram 187-197）、第1328行（light modulator 202-203）均为索引行,EXCLUDE_AS_UNCORROBORATED_IN_CLEAN
+B0269,3.6,C,V2,exhibition_design,展览作为文化整合与传播手段（国际文化工作集会规划展览、索引exhibition条目）,仅乌托邦机构职能之一与索引页码条目，无展览设计方法专论,回查clean第1179行；索引第1362行exhibition条目,CONTEXT_ONLY
+B0269,3.4,B,V2,constructivism_international_transmission,李西茨基功能性排版（Dlia Golosa标志索引）作为构成主义排版国际传播实例,证明行动者莫霍利-纳吉如何接受并向美国读者引介构成主义排版理念；非构成主义运动史专论,回查clean第72—74行、第91行,ACCEPTED_AS_ACTOR_SOURCE
+B0269,3.4,C,V2,soviet_avantgarde_narrative,苏联先锋派从受宠到被镇压的回顾叙事（proletcult、Kharkov 1931），马雅可夫斯基agitverse引文,回顾性政治叙事，属国际传播背景语境；对生产主义无专门论述,回查clean第752—767行、第728—741行,CONTEXT_ONLY
+B0269,3.7,B,V2,transnational_network_account,达达/超现实主义的国际网络（伏尔泰酒馆多国合作、transition等刊物、跨国名单）,行动者参与者的回顾自述：证明网络存在与参与者自我认知；个别史实细节需外部核证,回查clean第134—148行、第583行,ACCEPTED_AS_ACTOR_SOURCE
+B0269,3.7,C,V2,world_culture_proposal,“国际文化工作集会”跨国文化整合设想（规划展览、出版、会议）,乌托邦提案非史实，仅作行动者国际主义理念证据,回查clean第1165—1184行,CONTEXT_ONLY
+B0269,0.2,A,V2,visual_education_program,以视觉教育培养“运动中的视觉”新感知：从被动消费到主动参与、感官互通与感知扩展,行动者教学纲领：证明其教育主张与理念；不能证明成效或学生接受,回查clean第1075—1148行，第1147—1148行被动淹没vs主动参与,ACCEPTED_AS_ACTOR_SOURCE
+B0269,0.4,C,V2,artifacts_as_evidence_demo,以1729/1945报纸头版并置作为感知变迁的视觉史料，示范印刷品人工物的史料用法,行动者示范史料使用，非史学方法论专著；其史料观可作例证不可作史学定论,回查clean第1—101行（并置全文与图注）,CONTEXT_ONLY
+B0269,0.5,C,V2,actor_text_evidence_type,本书作为行动者自著文本（P0）证据类型的实例：主张类命题可用、成效类命题不可用,类型学案例；引用时须区分纲领陈述与事实陈述,回查clean第1—1185行自述口吻、第1937—1956行出版广告,CONTEXT_ONLY
+B0269,0.6,C,V2,retrospective_bias_case,回顾性综合与自我辩护/教学宣传成分（含书末The New Vision广告、ID教学自述）,作为行动者文本偏差的典型教学案例；引用时需交叉核证,回查clean第1937—1956行、第1076—1093行,CONTEXT_ONLY
+B0269,4.2,B,V2,bauhaus_teacher_advocacy,包豪斯“理论与实践融合”教育理念的总结及其向美国的传播（作者作为包豪斯教员的立场）,行动者自述：证明莫霍利-纳吉的包豪斯理念主张；不能证明包豪斯实际教学成效,回查clean第1938行（广告述包豪斯教育）、第1076—1098行（ID教学自述）,ACCEPTED_AS_ACTOR_SOURCE
+B0269,4.3,B,V2,bauhaus_method_transatlantic,包豪斯方法在芝加哥设计学院的移植（基本设计、工作坊、group poetry与学生作品）,行动者自述其教学实践与主张；成效为学生作品自证（宣传性）,回查clean第1076—1098行、第1100—1111行（学生集体诗）,ACCEPTED_AS_ACTOR_SOURCE
+B0269,4.6,B,V2,design_education_curriculum,设计教育纲领：基本设计作为各专业共同基础、工作坊/实验室实践、从消费者到生产者,行动者教学—理论文本：证明其课程理念；成效证据弱,回查clean第1076—1148行,ACCEPTED_AS_ACTOR_SOURCE

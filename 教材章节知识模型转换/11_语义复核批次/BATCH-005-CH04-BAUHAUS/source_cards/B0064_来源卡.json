@@ -1,0 +1,129 @@
+{
+  "source_id": "B0064",
+  "corpus": "book",
+  "folder_name": "Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》",
+  "material_type": "组织政治史专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Campbell, Joan：《The German Werkbund the politics of reform in the applied arts》_clean.md",
+  "clean_source_sha256": "4F4B9259E2CA01D65AB452A274B82139DC8B46A3339A8E7F6C386466E1313194",
+  "duplicate_group": "与B0060、B0363共享Werkbund/AEG档案与行动者文本（Behrens、Gropius、Mies、Riezler等）；同一档案只计一份P0",
+  "files": [
+    {
+      "report_file_count": 19,
+      "report_characters": 161071
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "werkbund_founding_organization"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "typisierung_1914_debate"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "naumann_qualitaetsarbeit"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "werkbund_neue_sachlichkeit"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "gleichschaltung_1933"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "werkbund_bauhaus_link"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "weissenhof_replication"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "prehistory_arts_crafts"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "cross_org_relations"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evidence_gap_reconstruction"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "collective_biography_method"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "pendulum_swing_interpretation"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "diaspora_transfer"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "regional_translation"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "英文二手研究（博士论文改写），原始德文档案经作者转述引用，关键段落须回查Werkbund原始出版物与各档案馆原件",
+    "1944年档案被毁造成无法填补的空白，部分关键事件（如Jäckh与希特勒1933年4月1日会面）仅据Jäckh本人叙述重构，存在单一来源偏差",
+    "政治史视角使审美与形式分析相对从属，设计本体、产品与建筑形式的演变讨论受其“改革政治”框架限制",
+    "机构设立与纲领宣示不自动证明工业实际采用：战前标准化贡献多为“舆论气候”层面判断，工业采纳证据有限",
+    "与B0060、B0363共享Werkbund/AEG档案与行动者文本，同一档案与同一史实只计一份P0，跨来源引用须去重",
+    "组织史实（成立、章程、辩论记录、表决）等级可定A；“钟摆运动”“结构性亲和”“集体传记解释力”为Campbell命题，引用时须标注命题身份",
+    "书末索引（clean第3753行起）为OCR密集文本，索引页码与正文对应关系需谨慎核对",
+    "知识涌现分析（00—04文件）中的知识元分析、语义链接与知识涌现计算均为基于本书文本的P4推演产物，非书内事实，仅作语义路由，不得作为史实证据引用",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第124行：1907年10月5—6日慕尼黑成立大会，约百位艺术家、工业家与艺术爱好者与会",
+    "clean第139—140行：成立时“浪漫怀旧与满足当代需求的决心并存”的进步-保守双重性；三位创始人中仅Naumann实际出席慕尼黑会议",
+    "clean第181行：Naumann出席慕尼黑会议并帮助起草章程，1908年首届年会通过",
+    "clean第195行：Dohrn为首任执行主任，德累斯顿为第一总部，协会在慕尼黑正式注册（会长Theodor Fischer）",
+    "clean第385—398行：1914年科隆年会Typisierung之争——Muthesius十项论纲与van de Velde十项反论纲对峙",
+    "clean第412—413行：Campbell判定van de Velde对Muthesius的指控“grossly unfair”，并指出van de Velde本人1911年大会上未反对该议题——作者评判性分析",
+    "clean第1108—1119行：1927年魏森霍夫住宅展，Stotz倡议、Mies任艺术总监，16位欧洲现代建筑师设计约60套住宅，吸引逾50万参观者",
+    "clean第1411、1449—1450、1497行：1933年6月Werkbund经历Gleichschaltung；Jäckh斡旋促成纳粹建筑师Lörcher与Wendland接管领导权；6月10日执委会表决仅3人反对",
+    "clean第116行：1944年核心档案被炸毁，1971年Werkbund-Archiv成立以补偿；第1406行：希特勒上台迫使Werkbund认清“政治的优先性”（primacy of politics）",
+    "clean第333行：战前标准化贡献属“舆论气候”层面判断，工业采纳证据有限"
+  ]
+}

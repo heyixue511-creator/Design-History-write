@@ -1,0 +1,135 @@
+{
+  "source_id": "B0465",
+  "corpus": "book",
+  "folder_name": "万长林：《香港平面设计史》，2012",
+  "material_type": "平面设计史专著（区域设计通史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\万长林：《香港平面设计史》，2012_clean.md",
+  "clean_source_sha256": "04B0871F0D0A48ABADA14BA1347463F2946DF4A9251AE8244CA71439BB8752BB",
+  "duplicate_group": "与B0517/B0492等共享香港设计谱系对象（石汉瑞、王无邪、靳埭强、陈幼坚等）；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 75439
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "6.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "hong_kong_education_lineage"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "hong_kong_designer_lineage"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "intercultural_design_practice"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_institutions_and_awards"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "creative_industry_policy"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "digital_and_postmodern_design"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "print_capital_and_press_advertising"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "advertising_industry_growth"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "yuefenpai_commercial_art"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "book_design_and_print_craft"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "shanghai_hong_kong_consumption_contrast"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "national_form_debate"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "identity_and_national_symbols"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "chinese_character_design"
+    },
+    {
+      "section_id": "13.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "mainland_design_demonstration"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "史料二手性：大量史实转引二手文献（杨奇、余绳武、陈瑞林等），个别数据年份缺直接档案佐证",
+    "论证主观化、颂扬性基调显著（“奇迹”“辉煌”“巨擘”等高频），断言式结论多于批判性分析",
+    "分期按经济史切分设计史，门类发展与分期对应关系未充分论证；香港设计师协会成立年份（L9称1972年）与第六章1980s章节编排并存，引用时需注意年代口径",
+    "覆盖不均：1949年前（月份牌、印刷）着墨浓，2000年后数字化、品牌国际化相对简略；第八章个案详略不一",
+    "作者自承“失语、遗漏肯定不少，谬误亦在意料之中”，引用宜持批判态度",
+    "“交融—融合”框架有同义反复倾向，文化解释的解释力有限",
+    "clean文本含OCR/编码噪声行（图注乱码），引证须回查原书图版",
+    "香港与上海消费文化比较、香港作为东亚中介网络比较等P4知识涌现，系基于本书P0史实与P1框架的语义路由推演，非书中直接陈述",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第9行：绪论全篇——三源汇流文化基因论、“桥梁”论、驳“照抄翻版”、“具有中国特色的现代设计”、石汉瑞“跨文化设计”、1972年香港理工学院与王无邪包豪斯旗帜、香港设计师协会1972年成立",
+    "clean第63行：月份牌广告画专述——19世纪末出现、“月份牌王”关蕙农、炭精粉擦笔技法、近代香港最早商品广告形式之一",
+    "clean第102—110行：第五章第二节文字设计——石汉瑞Jade Creations“跨文化设计”（1972）、靳埭强集一设计课程海报（米字格写宋体/九宫格写书法）",
+    "clean第144、201行：设计教育沿革——1955美专/1960工业学院/1967理工专科/1981太古设计学院/1980正形设计学校；王无邪引包豪斯为教育先导",
+    "clean第164、204—216行：香港设计师协会（1972）、香港设计中心（2001，特区政府年资助2000万港币）、四大奖项",
+    "clean第167行：创意工业概念引英国政府定义，1999年《信报》、2000年香港艺术发展局《创意工业导论》、2002年特区政府咨询文件",
+    "clean第23—63行：鸦片战争后石版印刷传入香港，报刊广告成为近代广告最显著标志；《星岛日报》《明报》广告、50年代“4A”广告商会",
+    "clean第116—135行：广告总开支1971年2亿港元、2004年447.07亿港元（增223.5倍），90年代广告公司近千家，“亚洲广告之都”",
+    "clean第189、192、195行：香港区旗区徽（紫荆花五星）、城市形象飞龙标志（陈幼坚，2001年）、凤凰卫视标志（彩陶凤鸟“喜相逢”）",
+    "clean第300—448行：附录1841—2007大事记"
+  ]
+}

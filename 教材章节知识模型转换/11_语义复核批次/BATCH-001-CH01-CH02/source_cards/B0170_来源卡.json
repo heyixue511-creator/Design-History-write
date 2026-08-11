@@ -1,0 +1,37 @@
+{
+  "source_id": "B0170",
+  "corpus": "book",
+  "folder_name": "Glenn Adamson：《Global Design History》",
+  "material_type": "同一编著的替代数字化转换",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Glenn Adamson：《Global Design History》.md",
+  "clean_source_sha256": "85B0ED29BEB66DB3DB5F5ADAA60194C6B7B8DF8946C39899C26D46E4204332D0",
+  "duplicate_group": "VGRP001",
+  "files": [
+    {
+      "report_file_count": 22,
+      "report_characters": 161347
+    }
+  ],
+  "report_structure": {
+    "report_file_count": 22,
+    "report_characters": 161347,
+    "review_basis": "overall_and_relevant_chapter_reports_plus_knowledge_discovery_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.7",
+      "grade": "X",
+      "verification": "V2",
+      "role": "version_alias_not_independent_evidence"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "没有独立知识增量；正式定位和页码以B0005及纸本为准。",
+    "Clean原文仅作关键段落定位；未完成全篇、版次、图版、注释和所引P0材料核验。"
+  ],
+  "original_spot_checks": [
+    "题名页、编者、出版社和2011版信息与B0005一致；SHA-256不同说明转换资产不同而非著作不同。"
+  ]
+}

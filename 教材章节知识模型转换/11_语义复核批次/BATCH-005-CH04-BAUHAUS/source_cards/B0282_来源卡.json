@@ -1,0 +1,141 @@
+{
+  "source_id": "B0282",
+  "corpus": "book",
+  "folder_name": "Magdalena Droste：《The Bauhaus 1919-1933》，1990",
+  "material_type": "校史专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Magdalena Droste：《The Bauhaus 1919-1933》，1990_clean.md",
+  "clean_source_sha256": "6828137E029C6506ACCA5F7F7EF257AB451AF7190531ED1C5B186DCB8ADF7C0D",
+  "duplicate_group": "与B0182、B0158、B0464、B0216共享包豪斯档案；同一档案只计一份P0",
+  "files": [
+    {
+      "report_file_count": 21,
+      "report_characters": 142105
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "manifesto_1919"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "vorkurs_dual_master_system"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "women_textile_workshop_gender"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "turn_1923_art_technology"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "exhibition_1923_political_pressure"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "moholy_nagy_replaces_itten"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dessau_reorganization_curriculum"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "bauhaus_ltd_founding"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "workshop_production_industry"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "meyer_directorship_social_function"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "mies_depoliticization_1930"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "bauhaus_closing_1932_1933"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "bauhaus_books_publications"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "weimar_to_dessau_migration"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "archival_evidence_tiering"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "teaching_outcome_not_inferable"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "普通学生日常经验与学习体验在书中相对边缘化，学生仅作为政治运动与生产参与者出现",
+    "性别分析不足：纺织工坊女性化被记录但未获深入性别政治分析",
+    "非欧洲影响忽视：伊顿马兹达兹南、康定斯基俄罗斯前卫背景被提及但未展开",
+    "战后影响处理简略：1933年后全球传播（黑山学院、芝加哥新包豪斯）仅零星提及，未设专章",
+    "德英双语版本并非严格对译，德语原始文献含古旧拼写与OCR转录偏差，引用时须回查原文",
+    "迈耶解职因果（外部市政施压vs内部大师密谋）Droste有意保留模糊地带，引用时不得断言单一因果",
+    "课程/工坊/产量数据仅可证制度事实，教学成效（如初步课程对学生的实际塑造）不可从制度文献自动推定",
+    "知识涌现模型（packet知识涌现分析00—04报告）系P4推演，只作语义路由，不作事实证据；与B0182、B0158、B0464、B0216共享包豪斯档案，同一档案只计一份P0",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第78—91行：1919包豪斯宣言核心——“一切创造活动的终极目标是建造”，格罗皮乌斯称将“拆除艺术家与工匠之间的傲慢之墙”，并附教学计划与入学要求",
+    "clean第578—582行：口号从1919“艺术与手工艺——新统一”转为“艺术与技术——新统一”；手工艺转向源于战后经济必需，图林根手工艺协会视包豪斯为竞争对手",
+    "clean第1186行：1923年展览8月15日开幕至9月底，格罗皮乌斯以“艺术与技术，新统一”演讲开场——1923转向的公开节点",
+    "clean第1261、1313—1330行：1924.12.26新闻稿宣布自1925.3解除与图林根州合同；德绍社民党市长Fritz Hesse支持，德绍包豪斯1925.4.1正式开学",
+    "clean第1284行：迁德绍后成立Bauhaus Ltd（有限责任公司）作为销售与授权经营主体",
+    "clean第1532—1535行：包豪斯书籍与期刊（1925年起德绍出版）作为理念自我复制与对外传播的制度载体",
+    "clean第1804、1843、1946、2203行：迈耶任期（1928—1930）课程改革——引入社会学经济学心理学课程、整合室内装修工坊",
+    "clean第2284—2296、2356行：密斯1930继任后去政治化——清党开除激进学生、1930.9.9大师委员会决议关闭学院重开",
+    "clean第2253—2254、2671行：1932.9纳粹坚持下德绍包豪斯关闭（社民党弃权、仅共产党代表赞成），1933年柏林包豪斯被搜查并最终关闭",
+    "clean第2155行：至关闭共颁发133份文凭；第2022行：1933年后生产商继续生产（制度延续证据）"
+  ]
+}

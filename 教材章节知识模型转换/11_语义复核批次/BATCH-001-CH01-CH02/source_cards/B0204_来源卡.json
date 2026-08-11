@@ -1,0 +1,33 @@
+{
+  "source_id": "B0204",
+  "corpus": "book",
+  "folder_name": "Jeffrey Auerbach：《The Great Exhibition of 1851 A Nation on Display》",
+  "material_type": "archival_history_monograph",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jeffrey Auerbach：《The Great Exhibition of 1851 A Nation on Display》.md",
+  "clean_source_sha256": "E224F0E2EB2474059C5AE0D8E39F9983BEAA4CC88C713E531908B2C1CAF6545A",
+  "duplicate_group": null,
+  "files": [{"report_file_count": 15, "report_characters": 148746, "packet_characters": 151791}],
+  "report_structure": {
+    "overall_report": 1,
+    "chapter_reports": 8,
+    "special_entity_index": 1,
+    "knowledge_emergence_files": 5
+  },
+  "candidate_sections": [
+    {"section_id": "2.1", "grade": "A", "verification": "V2", "role": "core_monograph_and_event_mechanism"},
+    {"section_id": "2.6", "grade": "A", "verification": "V2", "role": "classification_empire_othering"},
+    {"section_id": "2.2", "grade": "B", "verification": "V2", "role": "industrial_education_and_institutional_origin"},
+    {"section_id": "2.3", "grade": "B", "verification": "V2", "role": "design_criticism_and_labour_ethics"},
+    {"section_id": "1.6", "grade": "B", "verification": "V2", "role": "arts_manufactures_and_term_competition"},
+    {"section_id": "1.3", "grade": "C", "verification": "V2", "role": "division_of_labour_context_only"},
+    {"section_id": "1.7", "grade": "C", "verification": "V2", "role": "british_regional_context_only"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Core clean-text passages were spot-checked, but page images, visual plates, and archival citations were not fully verified.",
+    "Colonial and working-class perspectives remain mediated and require counter-sources.",
+    "Do not turn the industrial-divide interpretation into a single-cause decline claim."
+  ]
+}
+

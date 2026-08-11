@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0216,4.2,A,V2,vorkurs_founder,伊顿于1919年秋在魏玛包豪斯创设基础课程（Vorkurs）：提议试行一学期、命名Basic Course并亲自负责，Gropius完全放手,行动者自述其主张与教学安排；课程实际运作细节（学生规模、课时）缺独立记录,clean L106-110,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.2,A,V2,vorkurs_three_tasks,基础课程三大任务：解放创造力与艺术天赋、帮助学生选择职业、传授创造性构图原理,三任务是行动者纲领，反映其教学主张而非制度规定文本,clean L111-119,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.2,A,V2,contrast_theory_core,对比理论是基础课程教学总纲，明暗/色彩/材质/形式手段均按对比效应讲授，两极之间的过渡带孕育生命与美,为行动者教学法主张；教学成效无独立验证,clean L210-220；L86,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.2,A,V2,experience_perception_practice,教学铁律为“经验—感知—实践能力”三阶段：先观察体验、再智识理解、后动手实现,方法主张；Klee 1921.1.16信为同时代第三方课堂实录，可作部分佐证,clean L191-194、L195-209,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.2,B,V2,materials_texture_sensory,材质与纹理训练以触觉等感官理解为基础（“知道词语不够”），含清单、闭眼触摸、纹理蒙太奇与记忆再现,学生作业图注为实物证据，但选样与评注均由作者自选自注,clean L503-505、L510-519、L533-535、L544-665,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.2,B,V2,body_morning_exercises,晨间放松-呼吸-专注身体练习是基础课程日常环节，被视为表现力训练前提,练习遭同事嘲笑（L167-168），教学有效性仅行动者自述，无成效证据,clean L173-189、L167-168,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.3,B,V2,itten_departure_1923,1923年一次分析课后Gropius表示无法再向政府负责伊顿教学法，伊顿随即主动辞职离校,伊顿单方回忆、含自我辩护；Gropius方记录缺失，离校完整背景超出本书,clean L230-231,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.3,C,V2,tension_art_technology,伊顿主张先解放创造再引入技术/商业考量（L132-134），与“艺术与技术统一”路线构成隐性张力，是1923转向的思想背景之一,张力判断为解释性推断；伊顿对Gropius路线的批评是隐性的、未点名,clean L132-134、L162,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.6,B,V2,vorkurs_diffusion,基础课程方法随伊顿本人延伸至维也纳、柏林、克雷费尔德、苏黎世共六所机构，并以200余幅学生作品构成教学证据库,扩散路径为行动者自述；“可复制”须以L249-250自限声明为前提,clean L243、L262-267、L249-250,ACCEPTED_AS_ACTOR_SOURCE
+B0216,4.6,C,V2,replicable_method_toolkit,对比理论、身体练习、主观形式类型学构成可迁移的方法工具箱，可供后世设计教育复制,可复制性是否被后世证实需独立证据；本书仅是方法描述而非成效记录,clean L111-119、L1093-1097,ACCEPTED_AS_ACTOR_SOURCE
+B0216,0.2,C,V2,modernity_individual_formation,以“完整整合的创造人格”为目标、主客观辩证统一（客观法则增强而非抹杀个性）的教育观，体现现代性中个体解放与客观规律的张力,为伊顿本人教育哲学表述；与现代性叙事框架的关联属解释性,clean L137、L1106-1112,ACCEPTED_AS_ACTOR_SOURCE
+B0216,0.2,C,V2,eastern_resource_modernity,老子语录（L251-254）与“心手合一”（L948）等东方资源被引入西方设计教育纲领，构成现代性叙述中的跨文化维度,引文属实；其作为“现代性资源”的定位为解释性推断（P4路由）,clean L251-254、L948,ACCEPTED_AS_ACTOR_SOURCE
+B0216,0.5,A,V2,primary_actor_teaching_text,本书为行动者自著教学文本（P0）：一手自述教学主张与课堂实践，附学生作品、Klee/Schlemmer书信等实物与同时代材料,P0证据力限于主张与教学安排；教学成效与学生接受不能自动成立,clean L1-L1128全书行号体系,ACCEPTED_AS_ACTOR_SOURCE
+B0216,0.5,B,V2,retrospective_self_account,1963年首版为离校约40年后的回顾性自述，含自我辩护成分（“普遍主义年代”之辩、对1923包豪斯书籍的抱怨）,回顾性偏差需以同时代档案（如包豪斯校史记录）校正,clean L169-172、L244-245,ACCEPTED_AS_ACTOR_SOURCE
+B0216,0.6,B,V2,selection_bias_student_work,200余幅学生作品图注由作者自选并逐一评注，样本选择与解读均受作者立场影响，存在选择性呈现,图注不能视为中立的教学成效证据,clean L544-665、L262-267,ACCEPTED_AS_ACTOR_SOURCE
+B0216,0.6,B,V2,duplicate_group_p0_single,与B0182、B0282、B0454共享包豪斯教学档案；同一档案只计一份P0，本来源命题不与同组来源重复计数,重复组规则由知识库档案归属决定，需与同组来源比对后确认唯一P0,clean L1-L1128（与同组来源交叉比对）,ACCEPTED_AS_ACTOR_SOURCE

@@ -1,0 +1,63 @@
+== 5.1
+1 B0073 0.527609 Charlotte Benton, Tim Benton：《Art Deco 1910–1939》
+2 B0075 0.516358 Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999
+3 B0461 0.487532 World History Of Design - Volume 2_ World War I To World War -- Victor Margolin
+4 B0507 0.481077 维克多·马格林：《世界设计史2：一战至二战》，2015
+5 B0102 0.472689 David Raizman：《History of Modern Design》，2023
+6 B0436 0.466092 Victoria Charles：《Art Deco》
+7 B0478 0.465304 大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013
+8 B0101 0.463210 David Raizman：《History of Modern Design》
+== 5.2
+1 B0206 0.534027 Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001
+2 B0189 0.492935 Heskett, John：《Industrial design》
+3 B0101 0.489913 David Raizman：《History of Modern Design》
+4 B0409 0.458503 Strasser：《Getting and Spending (European and American Consumer Societies in the
+5 B0410 0.455464 Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C
+6 B0288 0.445395 Margolin, Victor, World History of Design, Volume 1, 2015
+7 B0225 0.438185 John Heskett：《Industrial Design》，1980
+8 B0439 0.428826 Walker, John Albert; Attfield, Judy：Design History and the History of Design, 1989
+== 5.3
+1 B0205 0.528118 Jeffrey L. Meikle：《Design in the USA》
+2 B0206 0.518329 Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001
+3 B0022 0.482514 Anne Massey：《Interior Design of the 20th Century》，1990
+4 B0066 0.474152 Carroll Gantz：《Founders of American Industrial Design》，2014
+5 B0149 0.462393 Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008
+6 B0509 0.455686 英彭妮·斯帕克(Penny Sparke)：《唯有粉红 审美品位的性别政治学》
+7 B0162 0.441952 Gallo, Max：The Poster in History, 1974
+8 B0157 0.425583 Forty, Adrian：Objects of Desire, 1986
+== 5.4
+1 B0225 0.513703 John Heskett：《Industrial Design》，1980
+2 B0145 0.503940 Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》
+3 B0031 0.481528 Arthur J. Pulos：《American design ethic a history of industrial design to 1940》
+4 B0206 0.453392 Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001
+5 B0101 0.448385 David Raizman：《History of Modern Design》
+6 B0467 0.447176 世界设计史_II_苏联至二战
+7 B0075 0.442696 Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999
+8 B0066 0.436866 Carroll Gantz：《Founders of American Industrial Design》，2014
+== 5.5
+1 B0401 0.570744 Sparke：《An introduction to design and culture _ 1900 to the present，2020》
+2 B0345 0.522190 Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》
+3 B0291 0.504596 Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997
+4 B0433 0.499938 Victor Margolin：《World History of Design World War I to World War II》
+5 B0254 0.484729 Kathryn Best：《Design Management Managing Design Strategy, Process and Implementation》
+6 B0242 0.483701 Julier：《The culture of design，2018》
+7 P0067 0.483684 The Politics of the Artificial _ Essays on Design and Design -- Victor Margolin
+8 B0400 0.482857 Sparke, Penny：《An introduction to design and culture 1900 to the present》
+== 5.6
+1 B0328 0.577347 Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New
+2 B0145 0.545742 Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》
+3 B0515 0.514196 阿德里安·福蒂：《欲求之物：1750年以来的设计与社会》，2001
+4 B0225 0.493211 John Heskett：《Industrial Design》，1980
+5 B0189 0.487189 Heskett, John：《Industrial design》
+6 B0235 0.483931 Jonathan M. Woodham：《Twentieth Century Design》
+7 B0157 0.468284 Forty, Adrian：Objects of Desire, 1986
+8 B0186 0.436749 Henry Dreyfuss：《Designing for People》，1967
+== 5.7
+1 B0058 0.479059 Buchanan, Richard; Margolin, Victor (eds.), Discovering Design, 1995
+2 B0108 0.478672 Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic
+3 P0015 0.474047 Cameron Tonkinwise：《Is Design Finished？ Dematerialisation and Changing Things》，2004
+4 B0206 0.472068 Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001
+5 P0021 0.449889 Design history _ an anthology -- Doordan, Dennis P -- A Design issues reader, Ca
+6 B0066 0.435931 Carroll Gantz：《Founders of American Industrial Design》，2014
+7 B0101 0.404779 David Raizman：《History of Modern Design》
+8 P0012 0.402193 Buchanan：《Discovering design explorations in design studies》

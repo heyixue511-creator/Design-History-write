@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0081,4.6,A,V2,isotype_as_method,Isotype不是形式主义风格而是“方法”，其制度载体是社会博物馆与研究所（GWM→Isotype Institute），method-制度耦合构成可复制的教育-传播制度模型,方法/风格之辨为本书核心论点（Kinross/Burke框架）；制度谱系为档案史实,clean第135-137、345、542行,ACCEPTED_AS_CORE_SOURCE
+B0081,4.6,A,V2,role_transformer,Transformer（转换者）是Isotype方法论核心制度角色：Marie Reidemeister 1927年起任首位转换者，1932年术语首现，1929年“trustee of the public”概念出现,角色沿革、术语谱系、工作流程史实可证；“转换者是现代信息设计师原型”属本书解释框架,clean第1177-1228、214行,ACCEPTED_AS_CORE_SOURCE
+B0081,3.6,A,V2,visual_language_rules,Isotype第一原则：以符号重复而非放大表示数量；模块化象形图由Gerd Arntz主导设计（1926年Gesolei展览后加入，1928年9月正式入职）,图形规则与设计者史实可证；“视觉语言成效（可读性、传播效果）”不可自动推定,clean第196-202、1271-1285行,ACCEPTED_AS_CORE_SOURCE
+B0081,3.6,B,V2,visual_effect_claim,Isotype“避免情感手段、传递事实知识”是Neurath的方法主张；其图形被指影响当代公共信息符号与数字界面,方法意图可证；“更易记忆/更有效传播”等成效命题未被本书实证，不得自动推定,clean第210行,ACCEPTED_AS_CORE_SOURCE
+B0081,4.7,A,V2,migration_translation,Isotype经维也纳→海牙→牛津迁徙，并在苏联Izostat（国家赞助）、美国（Modley商业竞争）、西非黄金海岸/尼日利亚（殖民/后殖民转译）发生区域变异,各据点史实与传播路线可证；“跨文化适应性成功”属解释性判断，且Marie自认效果未检验,clean第135-137、5173、10444行,ACCEPTED_AS_CORE_SOURCE
+B0081,4.7,B,V2,interpretive_frame,Isotype不是形式主义现代主义产物，而是维也纳学派逻辑经验主义的视觉对应物；Neurath批评Bauhaus“伪理性主义”,此为Burke团队的解释框架分层，非可直接引用的事实命题,clean第1445-1479行待核,ACCEPTED_AS_CORE_SOURCE
+B0081,4.6,B,V2,institutional_role,“红色维也纳”市政社会主义提供制度条件：Breitner的Wohnbausteuer税制、Tandler公共卫生计划、Glöckel教育改革提供财政/主题/受众网络,制度关联史实部分可证；“制度条件→方法形成”的因果强度为作者论证,clean第576行起Breitner段待核,ACCEPTED_AS_CORE_SOURCE
+B0081,0.4,A,V2,artifact_evidence,以雷丁大学IC档案（T/N文件、Guideline notes、约2000个pictogram图典、草图与mock-ups）及原始图表实物为核心人工物史料；设计过程材料与成品同权重是本书方法立场,档案编号与实物可回溯；定年结论（图表修改谱系）属分析推定,clean第254、1285、1322、8123-8823行,ACCEPTED_AS_CORE_SOURCE
+B0081,0.5,A,V2,evidence_types,证据类型：一手档案（IC、IISH、ÖNB、Lasswell Papers等12处）、口述历史（Marie回忆录附录C、Arntz 1982访谈、Paul Neurath记录）、视觉实物与图表谱系定年（Kinross视觉考古学）,证据类型清单可证；“棺材→墓碑”等图形演变推断属作者分析,clean第254、1177-1228行,ACCEPTED_AS_CORE_SOURCE
+B0081,0.6,B,V2,evidence_bias,受众接收效果缺乏系统实证：Marie Neurath自认西非工作“has still to be tested”；Neurath回忆“1923年第一原则已现”与实物放大法图表不符,偏差识别本身可证；“效果未知”不得反向推定“无效”，引用时须保持开放,clean第430、10444行,ACCEPTED_AS_CORE_SOURCE
+B0081,0.6,B,V2,selection_bias,Introduction以“相对严格定义”限定Isotype范围，排除战后荷兰统计所作品与模仿者（Modley等），构成选材边界,范围界定为编者选择；引用“Isotype未被模仿者延续”类否定命题时须注意定义边界,clean第222行,ACCEPTED_AS_CORE_SOURCE
+B0081,4.7,A,V2,izostat_soviet_transfer,维也纳方法向苏联Izostat的制度输出（1931-1934）：1931年9月12日法令强制采用、Neurath任主任、至少5名维也纳成员常驻莫斯科；Izostat图表含预估未来数据且数据被夸大/歪曲，Neurath共谋无法证明,Minns基于俄语档案的一手研究；争议性评价（collusion）书中明确标注不可证，引用须带此边界,clean第5095—5099、5101—5107行,ACCEPTED_AS_CORE_SOURCE
+B0081,4.7,B,V2,modley_us_adaptation,美国传播中Rudolf Modley代表“适应性变异”：拒绝Isotype的国际性与标准化，与Neurath哲学分歧致分化；van Kleeck主导的Organizing Committee（1933）失败,Ihara基于美国档案的书信与会议记录；“变异质量”评价属作者判断,clean第6037行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0081,4.7,B,V2,west_africa_colonial_transfer,Isotype在西非（黄金海岸/尼日利亚Western Region，1952-1958）作为殖民/后殖民规划的视觉工具：Marie Neurath提出本地团队训练计划并自认成效未测试,Kindel个案研究；殖民/后殖民评价属解释框架，个案普遍性有限,clean第10444行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0081,4.7,X,V2,p4_knowledge_emergence,知识涌现模型（P4）仅作语义路由使用，不构成Isotype史实的独立证据来源；任何由P4推演出的Isotype命题均无史学效力,P4为检索/组织工具，命题有效性取决于clean行号证据,本包全部clean行号回查项,P4_EMERGENCE_SEMANTIC_ROUTE_ONLY

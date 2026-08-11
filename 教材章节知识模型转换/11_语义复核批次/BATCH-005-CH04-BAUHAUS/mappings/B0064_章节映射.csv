@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0064,4.1,A,V2,werkbund_founding_organization,Werkbund 1907年成立与组织建设：Düsseldorf分裂成因、章程、1912年迁柏林、会员从1912年971人增至1914年1870人,成立大会、年会程序与会员统计为组织史实,clean第151—154行成立经过；第96行1914年前全国规模,ACCEPTED_AS_CORE_SOURCE
+B0064,4.1,A,V2,typisierung_1914_debate,1914年Muthesius-van de Velde“类型或个性”争论：Typisierung定义（“将设计努力集中于有限数量的通用形式”）、十条论纲与反论纲、论纲撤回,科隆年会记录与论纲文本为组织史实；“争论暴露深层分裂”为Campbell解读,clean第383—389、412—413行,ACCEPTED_AS_CORE_SOURCE
+B0064,4.1,A,V2,naumann_qualitaetsarbeit,Naumann“品质劳动”（Qualitätsarbeit）纲领：美学、伦理、经济与民族竞争力一体化,纲领文本为组织史实；其多义性为纳粹挪用预留空间属Campbell命题,clean第348行工人经高品质劳动与资本主义和解；索引第2872行Die Qualitätsarbeit,ACCEPTED_AS_CORE_SOURCE
+B0064,4.1,B,V2,werkbund_neue_sachlichkeit,1920年代中期Werkbund与Neue Sachlichkeit结盟：Form ohne Ornament（1924）、Die Form复刊（1925）、新客观性作为魏玛定位,展览与刊物为史实；“自觉结盟”与“与手工艺传统决裂的转折点”为Campbell判断,clean第1116—1118行Weissenhof与Sachlichkeit批评,ACCEPTED_AS_CORE_SOURCE
+B0064,4.1,A,V2,gleichschaltung_1933,1933年Gleichschaltung：Jäckh主导“合法化”移交、1933年6月10日执委会表决仅3人反对、1934年并入Reichskammer,执委会会议记录与Berlin Document Center档案为组织史实；“准合法性”定性为Campbell分析,clean第1411、1449—1450、1497、1504行,ACCEPTED_AS_CORE_SOURCE
+B0064,4.6,B,V2,werkbund_bauhaus_link,Werkbund与包豪斯：Gropius、Mies为Werkbund领导人；包豪斯为“Werkbund之子”，魏玛期在公众视野中“遮蔽”其母体,人事任职为史实；“eclipsed”评价与魏玛Werkbund贡献被低估为Campbell命题,clean第97—98行Gropius与Mies领导；第103行Bauhaus eclipsed progenitor,ACCEPTED_AS_CORE_SOURCE
+B0064,4.7,B,V2,weissenhof_replication,1927年魏森霍夫住宅展：16位欧洲建筑师60套住宅、逾50万参观者、1929年布雷斯劳复制模式、国际示范效应,展览组织、建筑师名单与参观人次为史实；“可复制制度模式”归纳为Campbell判断,clean第1108—1119、1123行,ACCEPTED_AS_CORE_SOURCE
+B0064,2.5,B,V2,prehistory_arts_crafts,前史：Muthesius伦敦经历与英国Arts and Crafts、Dürerbund（1902）、Bund Heimatschutz（1904）、维也纳工坊、美国Wright参照,前史谱系为作者梳理的二手综合，非Werkbund章程级证据,clean第151—154行；第215—216行Dürerbund与Bund Heimatschutz,ACCEPTED_AS_CORE_SOURCE
+B0064,0.3,B,V2,cross_org_relations,Werkbund与魏玛共和国“结构性平行”、文化—政治边界之不可能、primacy of politics,“平行关系”为Campbell解释框架（命题），非史料直陈,clean第1406、1675—1677行,ACCEPTED_AS_CORE_SOURCE
+B0064,0.6,A,V2,evidence_gap_reconstruction,1944年Werkbund档案被炸毁，以出版物、个人文件、口述史多渠道补偿；1971年Werkbund-Archiv成立,缺口披露为作者自述的方法论事实；补偿成效为作者评估,clean第116行,ACCEPTED_AS_CORE_SOURCE
+B0064,0.6,B,V2,collective_biography_method,Campbell以“集体传记/Prosopography”方法追踪Werkbund决策层（Vorstand/Ausschuss）人事构成变化以解释内部权力格局与意识形态转向,方法论自述为史实；其解释效力为方法论文本判断,附录I领导班子年表,ACCEPTED_AS_CORE_SOURCE
+B0064,4.1,C,V2,pendulum_swing_interpretation,“钟摆运动”解释：繁荣→标准化、危机→个体化的周期性摇摆，源于创始纲领内在含混性,Campbell命题（解释框架），仅作语义路由，不作独立证据,clean第669行手工艺回归为乌托邦；第1330行精英主义与大众文化错位,CONDITIONAL_PROPOSITION
+B0064,4.7,B,V2,diaspora_transfer,1933年后Gropius、Mies van der Rohe流亡美国、Bruno Taut流亡日本，Werkbund理念经人物迁徙发生国际转译,流亡事实为史实；“理念经迁徙转译”为Campbell叙述框架,clean第1675行结论；clean第3773行索引Taut条目,ACCEPTED_AS_CORE_SOURCE
+B0064,4.7,B,V2,regional_translation,Werkbund区域分支体系与1927年斯图加特-魏森霍夫展将国际现代主义引入德国，随即遭Schultze-Naumburg与Kampfbund传统主义反弹，暴露风格分裂,魏森霍夫展及其文化反弹为史实；“区域转译”解释框架为Campbell命题,clean第1193行1928年与Redslob/Volkskunst决裂,ACCEPTED_AS_CORE_SOURCE

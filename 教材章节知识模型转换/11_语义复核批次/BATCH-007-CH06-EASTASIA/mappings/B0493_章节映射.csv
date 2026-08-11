@@ -1,0 +1,11 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0493,6.1,A,V2,craft_aesthetics_discipline_foundation,工艺美学作为中国设计学本土化奠基：“工艺美术是造物的美术，工艺美学是造物的美学”；六大基本特征与“适用”范畴构成概念前史的核心学科资源,概念界定为作者建构（1981年田自秉首倡经作者体系化）；“适用”引王朝闻信为史料,回查clean L1与绪论,ACCEPTED_AS_CORE_SOURCE
+B0493,6.1,B,V2,three_schools_thought_resources,儒道互补为主的思想格局（官方工艺以儒家为主导、民间工艺多符合道家），并对墨家重点论述——墨子为“第一位工艺美学家”，“兼爱节用”功利主义工艺观；道家“技进乎道”“大巧若拙”与器用观,三家思想解读含作者诠释（如对李泽厚评墨子的反驳）,回查clean L39-100,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0493,6.2,A,V2,late_qing_industry_shift,晚清“师夷长技以制夷”与洋务运动开启由传统手工艺向近代工业的转变，“具有近代形态的工艺美学或设计美学开始了它的萌芽”,人物名单与奏议以原文为准；开启论断为作者判断,回查clean L204-217,ACCEPTED_AS_CORE_SOURCE
+B0493,6.2,A,V2,qiyi_lingqiao_and_qidao_debate,“奇技淫巧”与“器道之争”：保守派倭仁vs洋务派“师夷长技”，张之洞“中学为体，西学为用”；近代器用观从拒购轮船到接纳“工业文明之美”的转变,器物接受史叙述（杜兰德小火车、慈禧汽车、飞机变展品）为作者论证材料,回查clean L214、L217,ACCEPTED_AS_CORE_SOURCE
+B0493,6.2,B,V2,jingshi_zhiyong_legacy,明末清初经世致用实学传统（黄宗羲、顾炎武、王夫之、方以智）为洋务运动与近代工艺观提供理论依据，同时乾嘉考据未根本改变重道轻器,思想家论断以原著互证，作者评述与史实需区分,回查clean L210-211,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0493,6.6,B,V2,from_craft_to_design_transition,1998年学科目录“工艺美术”改称“艺术设计”；“工艺美术”与“设计艺术”不是截然分开的东西，而是中国设计的两个过程；传统工艺是“唤醒中国本土设计面向世界的重要源泉”,“一个名词兴衰的背后”为作者史学解释，学科目录事实（1998年）可独立核验,回查clean L351-358,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0493,6.6,C,V2,modern_decorative_art_dilemma,近代装饰艺术：装饰的伦理、政治与救国维度，“艺术地生活”理想的艰难；装饰艺术运动经庞薰琹传入中国，但在产业薄弱与意识形态语境下沦为少数人的艺术趣味,本章为专论性叙述，与6.6民族形式争论的对应为间接语义关联,回查clean L330-349,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0493,10.1,B,V2,craft_concept_and_regime,“工艺美术＝造物的美术”概念界定（不只是设计且须制成终端产品，“先工后美、工艺并存”）；1949年后工艺美术体制变迁（手工业合作社→中央手工业管理局→轻工部，外销换汇使命）,制度沿革以1954-1978年机构调整为据,回查clean L1、L13、L352,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0493,0.2,B,V2,modernity_bauhaus_china,20世纪80年代中国现代设计思潮是“经由生活的一次人文启蒙”，香港担当连接“欧陆”的中介；包豪斯思想隔半世纪传入中国，但对包豪斯的理解不完整，功能主义成为宣扬设计至上的理由；现代设计仓促发生导致“泡沫教育”与“泡沫设计”并存,现代性叙述为作者个人史观与反思,回查clean L358,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0493,6.6,C,V2,liyu_daily_life_aesthetics,李渔工艺美学思想：生活日用美学的系统个案，“制体宜坚”、“取景在借”，为民族生活美学与日常器用设计思想提供传统资源,本章为个案专论，与6.6的关联在于本土生活美学传统资源,回查clean L219-238,ACCEPTED_AS_SUPPLEMENTARY_SOURCE

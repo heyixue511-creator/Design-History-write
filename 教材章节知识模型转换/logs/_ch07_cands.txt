@@ -1,0 +1,63 @@
+== 7.1
+1 B0289 0.391385 Margolin, Victor, World History of Design, Volume 2, 2015
+2 B0253 0.370223 Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》
+3 B0400 0.363731 Sparke, Penny：《An introduction to design and culture 1900 to the present》
+4 B0316 0.348320 MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World
+5 B0509 0.318664 英彭妮·斯帕克(Penny Sparke)：《唯有粉红 审美品位的性别政治学》
+6 B0482 0.311840 张夫也：《外国现代设计史》，2009
+7 B0102 0.310064 David Raizman：《History of Modern Design》，2023
+8 B0189 0.308715 Heskett, John：《Industrial design》
+== 7.2
+1 B0253 0.484433 Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》
+2 B0509 0.445858 英彭妮·斯帕克(Penny Sparke)：《唯有粉红 审美品位的性别政治学》
+3 B0461 0.440949 World History Of Design - Volume 2_ World War I To World War -- Victor Margolin
+4 B0468 0.437670 何人可：《工业设计史(第四版)》，2010
+5 B0400 0.418796 Sparke, Penny：《An introduction to design and culture 1900 to the present》
+6 B0235 0.401730 Jonathan M. Woodham：《Twentieth Century Design》
+7 B0482 0.392802 张夫也：《外国现代设计史》，2009
+8 B0234 0.392251 Jonathan M. Woodham：《Dictionary of Modern Design》
+== 7.3
+1 B0468 0.544202 何人可：《工业设计史(第四版)》，2010
+2 B0509 0.544187 英彭妮·斯帕克(Penny Sparke)：《唯有粉红 审美品位的性别政治学》
+3 B0253 0.527707 Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》
+4 B0075 0.516140 Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999
+5 B0503 0.511729 王受之：《世界现代设计史》，2015
+6 B0400 0.493431 Sparke, Penny：《An introduction to design and culture 1900 to the present》
+7 B0482 0.490792 张夫也：《外国现代设计史》，2009
+8 B0485 0.489764 曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018
+== 7.4
+1 B0075 0.604612 Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999
+2 P0055 0.535528 Review by Ellen Mazur Thomson：《ULM DESIGN THE MORALITY OF OBJECTSby Herbert Lind
+3 B0504 0.521850 王树良, 张玉花：《现代设计史(白金版)》，2010
+4 B0411 0.518180 teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》
+5 B0482 0.507812 张夫也：《外国现代设计史》，2009
+6 B0235 0.495809 Jonathan M. Woodham：《Twentieth Century Design》
+7 B0492 0.494463 杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010
+8 B0501 0.491684 王受之：《世界平面设计史》，2001
+== 7.5
+1 B0490 0.531198 李砚祖：《外国设计艺术经典论著选读(下)》，2004
+2 B0468 0.525826 何人可：《工业设计史(第四版)》，2010
+3 B0503 0.480161 王受之：《世界现代设计史》，2015
+4 B0060 0.452677 Buddensieg, Tilmann; Rogge, Henning：《Industriekultur Peter Behrens and the AEG, 1907-1914》
+5 B0492 0.435280 杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010
+6 B0486 0.430113 朱和平：《世界现代设计史》，2004
+7 B0498 0.422235 梁梅：《世界现代设计史》，2013
+8 B0504 0.419692 王树良, 张玉花：《现代设计史(白金版)》，2010
+== 7.6
+1 B0509 0.559041 英彭妮·斯帕克(Penny Sparke)：《唯有粉红 审美品位的性别政治学》
+2 B0076 0.555197 Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002
+3 B0433 0.552064 Victor Margolin：《World History of Design World War I to World War II》
+4 B0075 0.530630 Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999
+5 B0073 0.528588 Charlotte Benton, Tim Benton：《Art Deco 1910–1939》
+6 B0400 0.515579 Sparke, Penny：《An introduction to design and culture 1900 to the present》
+7 B0388 0.511277 Scandinavian Design Alternative Histories (Kjetil Fallan (editor))
+8 B0399 0.501853 Sparke, Penny; Fisher, Fiona (eds.), The Routledge Companion to Design Studies, 2016
+== 7.7
+1 B0253 0.647585 Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》
+2 B0235 0.568339 Jonathan M. Woodham：《Twentieth Century Design》
+3 B0234 0.486635 Jonathan M. Woodham：《Dictionary of Modern Design》
+4 B0482 0.483536 张夫也：《外国现代设计史》，2009
+5 B0084 0.461718 Clive Dilnot：《A John Heskett Reader Design, History, Economics》
+6 B0006 0.449596 Adburgham, Alison：《Libertys a biography of a shop》
+7 B0486 0.448547 朱和平：《世界现代设计史》，2004
+8 B0467 0.444713 世界设计史_II_苏联至二战

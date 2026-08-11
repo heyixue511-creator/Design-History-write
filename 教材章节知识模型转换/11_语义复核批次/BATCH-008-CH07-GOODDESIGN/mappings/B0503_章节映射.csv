@@ -1,0 +1,7 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0503,7.3,B,V2,scandinavian_furniture_us_institutional_success,北欧家具（Wegner Round Chair、Jacobsen Series 7、Aalto作品）经Design in Scandinavia巡展（1954—57）与MoMA收藏/奖项进入美国市场，构成Good Design体系家具侧的制度性成功,展览与收藏事件为史实；‘制度性成功’程度为作者判断,clean第90—100、270—280行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0503,7.3,B,V2,moma_good_design_furniture_dominance,MoMA Good Design展的家具主导性与多斯堪的纳维亚起源（与B0235/B0401互证）,展览史实为二手综合；‘主导’判断须回查展品清单,clean第150—160行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0503,7.3,B,V2,eames_scandinavian_form_dialogue,Eames模压胶合板椅（DCM/DCW 1946）与美国战后家具的有机形式与北欧的呼应,形式呼应判断为作者命题；作品年份为史实,clean第210—220行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0503,7.6,B,V2,scandinavian_design_us_reception_side,‘Design in Scandinavia’巡展作为北欧设计制度在美国接受侧的传播节点,巡展事件为史实；‘传播效应’为作者综合,clean第90—100行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0503,7.6,C,V2,transatlantic_furniture_community,‘跨大西洋家具设计共同体’：美—北欧双向参照与共同市场，为7.3/7.6之间的连接命题,‘共同体’为作者框架命题，须标注,clean第450—460行,CONTEXT_ONLY
+B0503,0.6,C,V2,category_acceptance_sample,本书接受‘斯堪的纳维亚设计’统一范畴的使用方式，可作B0388范畴批判的对勘正面样本,范畴有效性为默认假设；引用时须正反对勘,clean第25—30行,CONTEXT_ONLY

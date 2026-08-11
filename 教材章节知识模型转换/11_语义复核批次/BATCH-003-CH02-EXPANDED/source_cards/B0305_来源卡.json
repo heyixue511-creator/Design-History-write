@@ -1,0 +1,125 @@
+{
+  "source_id": "B0305",
+  "corpus": "book",
+  "folder_name": "McKendrick：《The birth of a consumer society the commercialization of eighteenth-",
+  "material_type": "经典消费史、商业化史、经济—政治—社会史合著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\McKendrick：《The birth of a consumer society the commercialization of eighteenth-.md",
+  "clean_source_sha256": "3123B831651C95F1EB783018857BE7CAC07B95D961CA71373D12DCA85DD61C9B",
+  "duplicate_group": "消费革命学术史组：后续选集和消费史会重述本书命题；同一Wedgwood书信或广告原件不重复计证",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 174610
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "consumer_revolution_historiographic_thesis"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "demand_supply_commercialization_and_material_culture_method"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "letters_ads_trade_cards_inventories_objects_and_press"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "england_first_emulation_causality_class_gender_and_colonial_bias"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "wedgwood_design_production_marketing_and_control"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "ceramic_material_technology_and_product_differentiation"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "entrepreneur_partner_artist_worker_retailer_and_consumer_network"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "manufacturer_marketer_taste_legislator_and_retail_roles"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "english_consumer_revolution_as_contested_regional_path"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "luxury_debate_and_moral_economy_context"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "shops_showrooms_display_ads_credit_and_consumer_prehistory"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "global_goods_without_colonial_power_analysis"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "calico_porcelain_trade_and_market_transfer_context"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "advertising_display_and_branding_prehistory"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "‘世界第一个’与18世纪断裂论具有英格兰例外主义，荷兰、欧洲大陆和更早消费前史不足。",
+    "社会模仿被窄化为下层向上层的仿效，弱化区分、拒绝、横向传播、身份和使用。",
+    "‘商业操纵创造需求’常用强因果措辞，但消费者记录和反事实不足。",
+    "消费民主化可能遮蔽贫困、债务、劳动延长、女性／儿童工时及不同阶层的损益。",
+    "棉布、茶、糖、陶瓷等全球商品与殖民、奴隶制、强制贸易的关系处理不足。",
+    "P4报告提出的正反馈环、阴影版本和十一项涌现发现是二次推理，不是原书明示。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1—20行：题名、三位作者与版本前置页。",
+    "clean第99—135行：消费革命宣言、奢侈／体面／必需品转换、商人主动作用与供给侧史学批评。",
+    "clean第159—180行：18世纪分水岭、消费革命与工业革命的‘必要对应’命题。",
+    "clean第271—299行：工资、家庭劳动、女性与儿童收入、长工时和遗产清单被用于消费扩展论证。",
+    "clean第319—330行：作者说明为何消费扩张被经济史忽视，同时显露对悲观工业革命叙事的反论战立场。",
+    "clean第787行：作者总结陈列、广告、时尚与社会模仿如何激发需求；属于强机制主张。",
+    "clean第864—900行：Wedgwood借贵族、建筑师、展厅、陈列与地区网络组织时尚和销售。",
+    "clean第990—1003行：作者把营销扩张与技术、资本、债务、劳动纪律和生产控制重新并置。"
+  ]
+}

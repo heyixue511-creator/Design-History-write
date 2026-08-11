@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0505,6.3,A,V2,visual_public_sphere_book_cover,书衣借书刊流通实现「艺术大眾化」，构成印刷媒介上的视觉公共场域（移动的美术馆隐喻）,隐喻为作者表述,核对clean L211「艺术大眾化」原文措辞,ACCEPTED_AS_CORE_SOURCE
+B0505,6.3,A,V2,print_capital_publishing_market,民初出版社（商务印书馆、开明书店等）借封面设计吸引读者以应对出版竞争，市场与封面流通度相关,兼引钱君匋回忆与李欧梵,核对《东方杂志》封面委托关系是否在clean直接表述,ACCEPTED_AS_CORE_SOURCE
+B0505,6.3,A,V2,print_technology_transition,西方凸版/石印印刷技术传入使装帧由雕版线装过渡到铅印线装与双面印刷胶装，直排改横排、右翻改左翻,印刷技术史细节,核对印刷技术史细节与《东语正规》例证,ACCEPTED_AS_CORE_SOURCE
+B0505,6.3,B,V2,publisher_institution,商务印书馆1897年始创于上海、开明书店等现代出版机构兴起并延揽图案人才，构成印刷资本机构基础,机构史实,核对L27英文摘要与L123机构叙述,ACCEPTED_AS_CORE_SOURCE
+B0505,6.3,C,V2,design_professionalization,「从图案到设计」专业化叙事：美术与设计（图案）专业分化前，商业美术在书籍装帧领域先完成开拓,结论L372（P8命题）,核对结论L372原文,ACCEPTED_AS_CORE_SOURCE
+B0505,6.4,A,V2,shanghai_urban_modernity,1920年代上海为世界级摩登都市，外滩建筑与南京路摩天楼体现新古典主义向装饰艺术的转变,转引李欧梵、刘建辉,核对转引关系与行号,ACCEPTED_AS_CORE_SOURCE
+B0505,6.4,A,V2,commercial_art_consumption,「商业美术」名词1925年前后出现，上海产业化催生广告与美术设计部门需求,1914—1928上海新开工厂1229家（转引刘建辉2003）,核对转引数据,ACCEPTED_AS_CORE_SOURCE
+B0505,6.4,B,V2,urban_sensory_culture,《妇女杂志》封面等书衣以「东西混合的艺术语言」刻画上海感官世界（舞厅、娼妓、电影、好莱坞影星照）,例证（《神女》《马路天使》《良友》《明星》等）,核对例证,ACCEPTED_AS_CORE_SOURCE
+B0505,6.4,C,V2,semicolonial_modernity,上海半殖民地空间（租界、「魔都」「野蛮都市」）与摩登艺术追求并存，呈现都市现代性内部张力,村松梢风/芥川龙之介转引；L299—301引文OCR错乱,L299—301引文仅可依上下文理解,ACCEPTED_AS_CORE_SOURCE
+B0505,6.2,B,V2,late_qing_industrialization,甲午战后实业救国与西艺教育（同文馆1862、福州船政学堂1866、张謇广设工艺学堂）为图案/工艺教育提供制度背景,教育机构史实,核对西艺教育机构与年代,ACCEPTED_AS_CORE_SOURCE
+B0505,6.2,C,V2,industry_demand_design,上海工业化（1914—1928新开工厂1229家）催生广告与美术设计部门需求，传统手工向机器生产转变,二手统计数据（转引刘建辉2003、夏燕靖2006）,注明转引链,ACCEPTED_AS_CORE_SOURCE
+B0505,0.4,A,V2,artifact_evidence_book_cover,民国书籍封面实物（上海图书馆、北京国家图书馆、南京图书馆、中央研究院馆藏与家属收藏）为研究对象,图版目录L610—778（图1—55）；clean无图，图像本体不可复核,核对图版与描述对应,ACCEPTED_AS_CORE_SOURCE
+B0505,0.4,B,V2,visual_evidence_limitation,风格分析（色彩/构图/元素）全部依赖文字描述，如《彷徨》「橘红底暗蓝纹，三人向太阳」,clean无图,核对描述与图版对应关系,ACCEPTED_AS_CORE_SOURCE
+B0505,0.5,A,V2,testimonial_oral_source,当事人回忆（钱君匋、吴梦非）与艺术家书信（弘一致丰子恺）为口述/书信证据,L153弘一书信OCR错乱；口述证据需交叉印证,核对口述与书信,ACCEPTED_AS_CORE_SOURCE
+B0505,0.5,B,V2,secondary_citation_chain,大量转引当代研究（李欧梵、刘建辉、今井阳子等）并采用作者—年份—页码规范引用,转引链需回查原始文献,核对转引链,ACCEPTED_AS_CORE_SOURCE
+B0505,0.5,C,V2,p4_inference_route,知识涌现（P4中日传承链、印刷资本/视觉公共领域关联）属知识涌现分析推演，仅作语义路由,clean无「印刷资本」「视觉公共领域」字样,仅作路由,ACCEPTED_AS_CORE_SOURCE

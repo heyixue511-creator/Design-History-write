@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0495,6.1,A,V2,naming_reform_and_concept_history,1998年学科目录“工艺美术”→“艺术设计”是20世纪中国重要历史事件；名词变迁折射产业结构调整与意识形态纠缠；“工艺美术”名词兴衰（百工→图案→美术工艺→工艺美术→设计艺术）,I章L8-L24（观念史+政策文献：学科目录、毛泽东批示、轻工部沿革、清末出使大臣奏折）,核对L10学科目录与批示引文、L23两大后果论述,ACCEPTED_AS_CORE_SOURCE
+B0495,6.5,B,V2,education_institution_and_east_asian_mediation,1956年中央工艺美术学院建立使“工艺美术”概念深入人心；“意匠”源于日本转译；香港担当连接欧陆的“中介”角色；XI章论设计教育理想与生活互动,I章L92-L99、XI章L244-L279（教育观念论述，非制度史专著）,核对L20香港中介表述、L93中央工艺美院建院表述,ACCEPTED_AS_CORE_SOURCE
+B0495,6.6,A,V2,national_style_and_modern_form_debate,设计风格是民族的文化生存战略；“设计之道归于风格”，“道”含技术途径/风度格调/形而上体系三层；全球化下以国际语言“呈现”本土文化；风格自觉形成与自然形成两阶段,XIII章L316-L349（风格论与跨文化比较）、前言L3,核对L317“道”三层含义原文、L348民族风格表述,ACCEPTED_AS_CORE_SOURCE
+B0495,0.2,A,V2,modernity_and_post_modernity_discourse,现代性即“脱域”（disembedding）；“后”生活与“后设计”表征；后现代主义是“软弱的批判”；中国设计史按农耕→工业两阶段理解现代转型,V章L119-L148、IV章L110-L118（理论命题+中国个案分层）,核对L123脱域、L147后现代批判表述,ACCEPTED_AS_CORE_SOURCE
+B0495,10.1,A,V2,institutional_reorganization_and_term_continuity,工艺美术从个体作坊→手工业合作社→集体企业→回归个体的命运；轻工部建制沿革（1954-1978）；毛泽东1950年代批示定位手工艺为工业化原始积累工具,I章L10-L12（政策文献为直接史料）,核对L10毛泽东批示引文与轻工部年表,ACCEPTED_AS_CORE_SOURCE
+B0495,10.6,B,V2,craft_and_national_form_policy,《加快手工业的社会主义改造》后手工艺被当作重工业原始积累资本工具，“牺牲掉了它们的优势”；“工艺美术”重提为中国本土设计的文化身份识别,IV章L116-L118、I章L20（观念史评述+政策文献）,核对L117大炼钢铁/人民公社时期手工艺命运表述,ACCEPTED_AS_CORE_SOURCE
+B0495,10.7,C,V2,craft_profession_in_political_upheaval,1958年大炼钢铁、“人民公社”“大跃进”时期手工艺专业地位的牺牲——“这是设计从古代到近、现代转折时碰到的最痛苦的抉择”,IV章L116-L118（观念史评述，直接档案有限）,核对L117“最痛苦的抉择”原文表述,ACCEPTED_WITH_CAVEAT
+B0495,11.1,B,V2,postmodern_design_and_weak_critique,“后设计”指后现代主义设计的小众化标新立异；现代主义功过须分说；后现代主义是一种“软弱的批判”；文丘里、詹克斯的引介,V章L119-L148（理论命题，与个案史料分层）,核对L133后设计定义、L144现代主义评述,ACCEPTED_AS_CORE_SOURCE
+B0495,12.1,B,V2,design_ethics_and_consumption_critique,“设计夺权”论；“制造风格”刺激消费造成资源浪费与人的退化；设计是刺激消费帮凶还是生活改进者之辩；功能主义“用”是设计底线伦理,IX章L214-L231（伦理理论命题）,核对L217-218设计夺权、L226-227制造风格,ACCEPTED_AS_CORE_SOURCE
+B0495,12.2,C,V2,papanek_and_survival_design_reference,引帕帕耐克《为了生存的设计》与麦克哈格《设计结合自然》讨论设计责任与生存伦理,XII章L314（理论引证，非实证研究）,核对L314帕帕耐克/麦克哈格引用,ACCEPTED_WITH_CAVEAT
+B0495,14.1,C,V2,digital_survival_and_nonmaterial_design,数字化生存与“非物质设计”图景（尼葛洛庞蒂）；数字时代设计主体困境与关怀,XIV章L350-L397（21世纪初展望性理论论述，非制度史实证）,核对L366非物质设计表述,ACCEPTED_WITH_CAVEAT
+B0495,14.6,C,V2,design_industry_and_cultural_consciousness,设计产业作为商业战略与“文化自觉”；全球化下设计师的文化立场与本土性保持,XIV章L392-L395（战略展望性论述）,核对L392-L395文化自觉表述,ACCEPTED_WITH_CAVEAT

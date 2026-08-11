@@ -1,0 +1,149 @@
+{
+  "source_id": "B0101",
+  "corpus": "book",
+  "folder_name": "David Raizman：《History of Modern Design》",
+  "material_type": "面向大学教学的现代设计通史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\David Raizman：《History of Modern Design》.md",
+  "clean_source_sha256": "0B679F3BD50335017EFED6F9B2190561C819132457AF97A44F28C1B756134D9F",
+  "duplicate_group": "VGRP004-TRANSLATION；VGRP005-EDITION",
+  "files": [
+    {
+      "report_file_count": 24,
+      "report_characters": 178477
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "survey_periodisation_and_revision_history"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "production_consumption_stakeholder_design_history"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "objects_texts_catalogues_exhibitions_and_secondary_synthesis"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "survey_euroamerican_market_colonial_gender_and_image_bias"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "royal_manufactories_guilds_workshops_and_specialisation"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "mechanisation_transport_interchangeability_and_market_scale"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "models_catalogues_moulds_specs_and_division_of_labour"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "porcelain_textile_iron_glass_and_material_systems"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "craftspeople_artists_manufacturers_merchants_and_consumers"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_craft_industrial_and_professional_distinctions"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "france_britain_us_and_mixed_paths_comparison"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "great_exhibition_industry_empire_and_public_viewing"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cole_reform_museum_school_and_state_governance"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "ruskin_morris_arts_crafts_and_market_contradiction"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "catalogues_shops_advertising_and_active_consumers"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "aesthetic_art_nouveau_interiors_graphics_and_lifestyle"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exhibition_empire_resources_and_colonial_order"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "trade_patterns_japonisme_and_local_selection"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "2010第二版与B0478中文译本属于同一版次知识内容；重合命题不得算独立互证。",
+    "B0102为2023修订版；未变内容不独立计证，新材料必须以版次差异明确标注。",
+    "法国中央控制与英国创业市场的对比过整齐，可能遮蔽两地内部混合生产与制度交叉。",
+    "把消费扩张称为民主化容易混淆市场选择、政治权利、阶级可及性和殖民剥削。",
+    "美国体系仍沿用熟练劳力稀缺、西进需求和军工序列，须补原住民、奴隶制、国家采购和较新技术史。",
+    "中国与全球南方多作为灵感、贸易或材料来源出现，不能替代本地制度、劳动和使用史。",
+    "当前只核对clean文字关键段落，577幅插图及其图说、视觉比较未达V3。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第33—40行：题名页确认Second Edition及2010年Laurence King出版。",
+    "clean第170—205行：作者说明本科综述需要简化，同时尝试增加多视角、重组章节和新增材料。",
+    "clean第244—264行：技术进步的不均等、消费者主动意义及制造商／消费者stakeholders。",
+    "clean第283—366行：Gobelins、分工、艺术家／工匠、瓷器、行会与1791年制度变化。",
+    "clean第424—490行：Chippendale目录、市场多样性、Wedgwood企业链和Garthwaite丝绸图案。",
+    "clean第667—681行：美国体系、国家合同、互换零件、工会传统缺失和消费端装饰。",
+    "clean第785行：Albert Memorial段落明确把工业繁荣与殖民扩张、原料联系起来，但未形成完整供应链。"
+  ]
+}

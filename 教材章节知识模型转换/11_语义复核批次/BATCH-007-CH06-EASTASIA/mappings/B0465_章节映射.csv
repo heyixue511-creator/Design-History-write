@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0465,6.5,A,V2,hong_kong_education_lineage,香港设计教育沿革：1955美专设计系→1960工业学院商业美术及设计系→1967理工专科学校→1981太古设计学院→1980正形设计学校；王无邪引包豪斯为教育先导，构成多层次教育体系,教育史实层（院校沿革、人物履历）可核，包豪斯传播链为本书核心论述,回查L144、L201教育沿革与L1序引靳埭强语,ACCEPTED_AS_CORE_SOURCE
+B0465,6.5,A,V2,hong_kong_designer_lineage,石汉瑞（跨文化设计代表）、王无邪（设计教育开山）、靳埭强（中西融合旗手）、陈幼坚、李永铨、刘小康等23位设计师构成香港设计谱系,人物谱系史实层；与B0517/B0492共享同一对象时P0只计一份,回查L227—L298个案与L144先驱节,ACCEPTED_AS_CORE_SOURCE
+B0465,6.5,B,V2,intercultural_design_practice,石汉瑞以异族眼光将文化融入设计、以国际主义美学表达当地文化，如Jade Creations珠宝（1972）、香港电话公司标志（1978）,概念框架+作品个案，作品断代可核,回查L102、L110跨文化设计案例,ACCEPTED_AS_CORE_SOURCE
+B0465,6.5,B,V2,design_institutions_and_awards,香港设计师协会（1972）、香港设计中心（2001，特区政府年资助2000万港币）、四大奖项（亚洲最具影响力/设计领袖/青年才俊/世界华人）构成制度化网络,机构史实可核；协会成立年份以L9为1972年,回查L164、L201、L204—L216,ACCEPTED_AS_CORE_SOURCE
+B0465,6.5,B,V2,creative_industry_policy,创意工业概念引英国政府定义，1999年《信报》、2000年香港艺术发展局《创意工业导论》、2002年特区政府咨询文件，香港进入创意工业时代,概念转引+政策文件序列，属当代制度层,回查L9、L167定义与文件,ACCEPTED_AS_CORE_SOURCE
+B0465,6.5,C,V2,digital_and_postmodern_design,电脑美术字/数码字体使字体演变“非标准化、民主化”逆转，解构主义影响90年代设计；电脑引入1980年代,行业性描述层，技术史判断较概括,回查L158、L170数码字体论,ACCEPTED_AS_CORE_SOURCE
+B0465,6.3,B,V2,print_capital_and_press_advertising,鸦片战争后石版印刷传入香港，报刊广告成为近代广告最显著标志；《星岛日报》《明报》广告、50年代“4A”广告商会与中外广告公司并存,印刷技术史与报刊广告史实层，多转引行业史,回查L23—L63、L72、L96,ACCEPTED_AS_CORE_SOURCE
+B0465,6.3,B,V2,advertising_industry_growth,广告总开支1971年2亿港元、2004年447.07亿港元（增223.5倍），90年代广告公司近千家，“亚洲广告之都”，广告大赛体系,统计数据无档案直接佐证，属引述数据层,回查L116—L135、L177数据来源,ACCEPTED_AS_CORE_SOURCE
+B0465,6.3,C,V2,yuefenpai_commercial_art,月份牌广告画（关蕙农“月份牌王”）为近代香港最早商品广告形式之一，中西商业美术交汇的香港侧证据,与上海月份牌同一研究对象——本书仅作香港侧证据，P0与上海侧来源合并只计一次,回查L63月份牌专述,ACCEPTED_AS_CORE_SOURCE
+B0465,6.3,C,V2,book_design_and_print_craft,香港书籍设计“工业性复制”工艺（灰平衡、“平衡点”延长灰调阶度、特种纸张油墨），并批评大陆出版印刷业“群体性观念的偏错”,行业工艺描述+作者论辩层,回查L183书籍工艺论,ACCEPTED_AS_CORE_SOURCE
+B0465,6.4,C,V2,shanghai_hong_kong_consumption_contrast,石汉瑞受20世纪20年代上海广告画影响、靳埭强中国银行CI等提供沪港都市消费文化对照的侧证,本书非上海专论，仅作对照侧证（P1层）,回查L9石汉瑞背景与靳埭强CI表述,ACCEPTED_AS_CORE_SOURCE
+B0465,6.6,B,V2,national_form_debate,驳“香港现代设计是西方照抄翻版”论，主张“本色”为中国传统文化审美趣味，“具有中国特色的现代和后现代设计”；回归后“国家观念和民族意识昭然可见”,作者立场性论辩层，构成民族形式之争的香港样本,回查L9驳论原文与L177回归海报论,ACCEPTED_AS_CORE_SOURCE
+B0465,6.6,C,V2,identity_and_national_symbols,香港区旗区徽（紫荆花五星）、城市形象飞龙标志（陈幼坚操刀，2001年推出）、凤凰卫视标志（彩陶凤鸟“喜相逢”）——设计史与政治认同直接连接,个案描述层，作品与年份可核,回查L189、L192、L195,ACCEPTED_AS_CORE_SOURCE
+B0465,6.6,C,V2,chinese_character_design,美术字分平面/立体/创意三类，汉字方块字表意与拉丁字母构词对比，“字骨”不变隐忧——汉字设计现代转型的民族形式面向,行业描述层，与6.6民族形式议题相关,回查L18、L72、L170,ACCEPTED_AS_CORE_SOURCE
+B0465,13.7,C,V2,mainland_design_demonstration,香港平面设计“波及中国内地，影响了世界”，“催生和丰富了大陆的平面设计艺术”，对大陆设计起示范效应——中国设计转型的香港动力侧证,绪论层面宏观论断（P1层），非具体机制论证,回查L9示范效应表述,ACCEPTED_AS_CORE_SOURCE

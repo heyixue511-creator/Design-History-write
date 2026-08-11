@@ -1,0 +1,139 @@
+{
+  "source_id": "B0082",
+  "corpus": "book",
+  "folder_name": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+  "material_type": "视觉人类学专著（摄影社会史：殖民档案研究+1982—1997年印度中央邦多地点民族志）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》.md",
+  "clean_source_sha256": "6299E6C247F8CDF2925ECB8D583CFDF86F466C143CB7C930617EDF75341D491A",
+  "duplicate_group": "与殖民摄影/东方展示类来源共享对象：The People of India（1868—75）八大卷、Houghton & Tanner的Sind蛋白印相、Dobson安达曼影像、Portman手脚印、指纹术起源（Herschel）等档案对象可能与B0427殖民物、B0463东方展示及其他人种学摄影来源重叠；Sayyid Ahmad Khan在India Office的遭遇亦见于南亚殖民史文献；需以档案对象而非本书论述为去重锚点",
+  "files": [
+    {
+      "report_file_count": 13,
+      "report_characters": 225911
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "media_institution_construction"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "alternative_modernity"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "object_centered_social_history"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "artifact_as_historical_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "image_archive_orality_triangulation"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "producers_absence_and_presence"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "circulation_translation_entanglement"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "concept_competition"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "colonial_exhibition_network"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "museum_governance"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ruskin_morris_circulation"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "colonial_classification"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cross_border_translation"
+    },
+    {
+      "section_id": "8.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "postcolonial_state_identity"
+    },
+    {
+      "section_id": "12.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "sitter_agency"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "民族志结论基于中央邦单一地区（Nagda/Bhatisuda）与1982—1997年时段，vyaktitva/charitra等概括不可外推为全印度摄影实践",
+    "历史部分依赖英国机构档案（India Office、RAI、剑桥），存在机构保存的选择性；作者自认reception文献难寻（clean 314行），观众实际接受多由题注与制度语境推断",
+    "殖民官员题注（如Gujar“dishonest, untrustworthy”）是组织者话语，不能当作被分类社群自我分类的证据",
+    "第三章客户侧数据系统性不足：主要依赖摄影师访谈与少数家庭收藏（Bhatisuda约1000幅chromolithographs的清单式记录），客户动机多由作者推断",
+    "Dobson、Peppé等“舞台化”案例本身是殖民者自己的记录，作者对“原始主义/否认同时代性”的解读属于分析重构",
+    "尾声“Chandni Chowk Rodchenko”、Kishangarh绘画与街头蒙太奇的关联是作者联想，风格相似不等于实际影响或传播路径，不能支撑影响史命题",
+    "流行文化分析限于主流Bollywood（Agneepath、Mard、Beta等），缺少地区性电影与多语种媒介对照",
+    "知识涌现分析（P4）中的知识元命名、语义网络、周期、枢纽等模型是P4推演产物，非原著命题，仅作语义路由使用，不得写入教材命题",
+    "作者本人的理论立场（如对Bourdieu、Gutman、Dumont的批判）须标注为作者命题，不宜直接当作印度社会的客观描述",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第81—83行：Preface——书名挪用Camera Lucida但转向民族志日常实践；“complex changing ecology of photography”明确拒绝taxonomy",
+    "clean第85—91行：Bherulal拒绝带阴影半身照；祖父相册；Ruskin-Morris经Birdwood-Kipling-Gandhi进入印度的谱系与Venetian trade beads比喻（转译模型原文）",
+    "clean第144—148行：第一章开篇——Mullins“stern fidelity”、Peirce索引/图像/符号三分、Chevers对“本地证词”的不信任、Herschel指纹“penetrating certainty”",
+    "clean第160行：Tagg论断——摄影无本质，其权威来自“新国家形态与新技术的rendezvous”的制度性建构",
+    "clean第178—182行：1861年族群摄影征集令、Houghton & Tanner 73幅Sind蛋白印相、环境肖像与职业道具",
+    "clean第235—247行：1857起义与Canning、《印度人民》八大卷（1868—75）缘起及博物馆学话语",
+    "clean第312—314行：《印度人民》类型学——“concerned not with individuals but with categories”；作者自认reception文献难寻",
+    "clean第318—328行：Sayyid Mahmud在India Office被问“Are you a Hindustani?”及Sayyid Ahmad Khan对被对象化、“野蛮化”表征的书面抗议（被展示者第一手记录）",
+    "clean第330—336行：salvage/detective双范式；Dobson将安达曼孤儿院妇女拍摄为“赤身涂泥”的舞台化原始状态",
+    "clean第694行：Nara Ratna Mandir——darshan与维多利亚“道德面相学”两种肖像意识形态杂交的失败",
+    "clean第706—724行：Mahavir游行的“photo”实为绘画（photobananevale取代chitrakar）；darshan定义、pranpratishtha、“inter-ocular field”",
+    "clean第1206—1214行：vyaktitva/charitra二分定义（Lavater对照、“bahar se kuchh aur”谚语、99%论断）",
+    "clean第1277—1301行：尾声Chandni Chowk——passport photos、Amar Jeet的Madhuri Dixit蒙太奇、multiple-eyed sitter、Kishangarh“Versailles gone berserk”"
+  ]
+}

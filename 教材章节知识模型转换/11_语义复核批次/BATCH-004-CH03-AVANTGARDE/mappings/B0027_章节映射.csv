@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0027,3.2,A,V2,futurist_manifesto_core_actor_text,未来主义宣言是行动者文本：1909年创立宣言及1910—1918年各媒介技术宣言（普遍动力论、自由词语、噪音艺术、综合戏剧、电影公式等）构成3.2节“宣言、排印、运动形式与战争政治”的直接一手史料,只能证明行动者当时的主张与分类，不能证明作品效果或公众接受；战争赞美与反女性主义为历史立场转述,clean第245、255、2988行；引文标注1973/2001英译本版本,ACCEPTED_AS_CORE_SOURCE
+B0027,3.2,A,V2,typographic_revolution_words_in_freedom,《句法破坏——自由词语》(1913)主张摧毁句法、废除标点、引入数学符号、多色多字体印刷革命（凝缩隐喻、电报式意象、“自插图”），是3.2节“排印”主题的核心主张材料,印刷革命是文学诗学纲领，实践完成度与版面效果需以原版出版物实物验证；英译无法完全再现排版,clean第1373—1375、1387、2149行,ACCEPTED_AS_ACTOR_SOURCE
+B0027,3.2,A,V2,futurism_war_politics_as_historical_stance,1909年宣言“战争是世界唯一卫生”（第9条）、Carrà《战争绘画》(1915)与Humphreys后记对战争鼓吹—法西斯主义纠葛的历史评述，作为“战争政治”主题的历史材料,宣言战争立场是行动者主张（P0），不等于战争实际效果；教材须批判性转述，不得复制为立场,clean第255、2739—2753、3030行,ACCEPTED_AS_ACTOR_SOURCE
+B0027,3.1,A,V2,speed_machine_urban_sensation,创立宣言以午夜飙车寓言开篇并宣布速度之美、“时间与空间已死”，将赛车、工厂、城市噪音审美化，是3.1节“战争、都市与机械感知”的核心一手材料,速度美学是纲领性主张；作品是否实现动态感知需作品/图版证据,clean第201—245行（开篇叙事与第4条）,ACCEPTED_AS_CORE_SOURCE
+B0027,3.6,B,V2,photodynamism_as_new_photography_precursor,Bragaglia《未来主义光动力学》(1911)主张以长时间曝光捕捉“运动的内在感觉”并区别于马雷/迈布里奇连续摄影，是3.6节“新摄影”脉络的前驱材料,光动力学当时影响有限且遭部分未来主义者排斥（需外部史料核实），不可自动推广为“新摄影”主流谱系,clean第0534—0632行范围内,ACCEPTED_AS_ACTOR_SOURCE
+B0027,3.6,B,V2,futurist_clothing_and_environment_reconstruction,Balla《未来主义男装宣言》(1913)与《宇宙重建》(1915)将宣言扩展至服装、玩具与环境设计，可与3.6节展览/视觉传达议题建立间接关联,服装与环境主张多为乌托邦纲领，实际制作与传播有限；与“设计”概念的关系是间接的,clean第1844行、2593行（“重建宇宙……赋予不可见者以骨肉”）,ACCEPTED_AS_ACTOR_SOURCE
+B0027,3.3,B,V2,words_in_freedom_to_montage_precursor_chain,自由词语的“自插图”与综览表、电影宣言“宇宙将成为我们的词汇”为达达拼贴与蒙太奇提供先驱逻辑,该关联为知识涌现推演而非本书明文；达达对马里内蒂的挪用与拒绝并存，需达达文献佐证,clean第2149、2847行,CONTEXT_ONLY
+B0027,3.7,B,V2,transnational_futurist_network,创立宣言1909年2月20日发表于巴黎《费加罗报》、1912年巴黎Bernheim-Jeune首展及伦敦/柏林/布鲁塞尔巡展、与阿波里奈尔—立体主义圈子的接触（年表），是3.7节跨国先锋网络的行动者侧证据,年表为编者整理的二手叙事，交往细节需对照原始报刊与档案；影响方向不能从宣言单方推断,clean第201、3010、3051—3052、3059行,ACCEPTED_AS_ACTOR_SOURCE
+B0027,0.2,A,V2,manifesto_modernity_self_definition,宣言以“过去主义”批判与速度/机器/电力的美学化定义20世纪初现代性的自我意识，是0.2节“现代性概念”的典范行动者表述,宣言话语是文化先锋的自我主张，与大众社会史中的现代性体验（劳动、消费、殖民）需区分,clean第245、255行；导论（编者史学定位）,ACCEPTED_AS_CORE_SOURCE
+B0027,0.3,B,V2,manifesto_as_collective_actor_history,宣言的合著署名（画家五人组、电影六人组）与“我们宣布”的集体语态，是行动者以集体身份建构运动史的实证，契合0.3节“从英雄谱系到关系史”,集体署名掩盖内部分歧（Boccioni—Bragaglia之争、与La Voce群体的冲突），关系史叙述需其他档案补充,clean第2988行合著、年表佛罗伦萨冲突,ACCEPTED_AS_ACTOR_SOURCE
+B0027,0.5,A,V2,manifesto_as_historical_source_method,编者以文献汇编、出处标注、年表呈现文本且导论明确告诫“不应按面值接受夸耀”，是0.5节“宣言作为史料”的方法论范例,选集存在选目与节选的主观性；clean文本为英译二手层，引用须标注版本,clean第157行（导论告诫）、第201—3006行出处标注,ACCEPTED_AS_CORE_SOURCE
+B0027,0.6,B,V2,anthology_selection_and_absences,选集34—35篇中仅Saint-Point一位女性作者（情欲宣言），1915年后战争死亡（Boccioni、Sant'Elia）打断声音，工人、女性受众等沉默方缺席，可作0.6节“证据偏差与缺席者”案例,缺席推断属编史学判断，“未被收录”不等于“不存在”，需结合运动史其他文献,clean第952行、年表（Boccioni、Sant'Elia之死）,ACCEPTED_AS_ACTOR_SOURCE
+B0027,1.6,C,V2,art_expansion_vs_design_concept,未来主义把绘画、雕塑、音乐、建筑、服装、玩具均纳入“艺术”扩张纲领（“重建宇宙”），与1.6节“工业艺术/装饰艺术/设计”概念竞争存在间接关联：本书未使用“设计”范畴，其立场是艺术概念的自我扩张,本书无“设计”概念论述，映射为背景性关联；不可将未来主义等同于设计运动,clean第2593、3002行（商店橱窗美学）,CONTEXT_ONLY
+B0027,3.4,C,V2,constructivism_comparative_frame_only,本书不含俄国构成主义文本；仅Apollonio导论在比较框架中提及立体主义、包豪斯、达达、构成主义以定位未来主义,编者比较框架属二手评论层，不可作为构成主义自身史料使用,导论部分（整体分析报告L002）,CONTEXT_ONLY
+B0027,3.5,C,V2,de_stijl_off_scope,本书文本不含风格派（De Stijl）内容，无蒙德里安/杜斯堡相关材料,若3.5节需要风格派史料应另寻De Stijl文献，本书不承担该节证据功能,全文本检索未见风格派论述,EXCLUDE_AS_OFF_SCOPE
+B0027,4.1,C,V2,institutionalization_and_fascism_afterword,后记与年表记述Marinetti 1929年任Reale Accademia d'Italia院士、未来主义与法西斯主义汇合，为制度化现代主义（4.x）提供前史背景,后记与年表是编者层二手评述而非行动者文本；制度史细节需政权史档案核实,clean第3030—3034行（后记与年表）,CONTEXT_ONLY

@@ -1,0 +1,90 @@
+{
+  "source_id": "B0253",
+  "corpus": "book",
+  "folder_name": "Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》",
+  "material_type": "文化史专著（联邦德国工业设计史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》.md",
+  "clean_source_sha256": "298E117183F4530D2CCC6D098007F20C2DD9C174698F1F61EF2C8B3127945CBD",
+  "duplicate_group": "与B0235（Woodham通史）共享Rat für Formgebung、Gute Form、Braun等对象：本书为专史侧、B0235为通史侧，同一制度对象只计一份P0；与B0401（Sparke）共享Braun/Rams综合命题：本书为深层档案证据",
+  "files": [
+    {
+      "report_file_count": 20,
+      "report_characters": 172117
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "7.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "rat_fuer_formgebung_gute_form"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "braun_rams_silent_design"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "vdid_professionalization"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "postwar_bauhaus_legacy_struggle"
+    },
+    {
+      "section_id": "7.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "ulm_braun_institutional_context"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "everyday_objects_consumer_culture"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anti_gute_form_counterculture"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cold_war_ideological_framework"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "统摄框架为作者命题：‘日常物的权威’‘优良形式=民主化’是作者解释框架，不是可直接引用的史实判断",
+    "德国中心视野：跨国比较（与CoID/MoMA/北欧的平行）以德国为轴，比较对象的选择由作者决定，非系统比较史",
+    "消费接受证据有限：日常物‘权威’的论证主要依赖话语与制度证据，消费者接受与使用实践的直接证据（档案、访谈）相对少",
+    "时段边界：1945—1970s，1970年代后的德国设计（新国际主义、1990s）未覆盖",
+    "纳粹—战后延续性判断有争议：作者倾向‘断裂后重建’叙事，学界对延续性（人员、机构、话语）有不同评估，须标注为作者立场",
+    "性别维度相对弱：家庭/厨房/家电的性别化消费论述存在但未系统展开",
+    "知识涌现模型为P4推演：分析报告中的话语网络、主题聚类与‘权威’命题识别仅作语义路由参考，作者立场须以原书文本为准",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第45—50行：导言核心命题——‘the authority of everyday objects’定义：日常物作为战后西德民主化与消费现代性的物质载体",
+    "clean第120—135行：战后德国设计‘失语’与Bauhaus遗产争夺（1945—1950）：包豪斯传统作为民主德国与联邦德国争夺的文化资本",
+    "clean第210—228行：Rat für Formgebung（德国设计委员会）成立与‘Gute Form’（优良形式）话语制度化（1950s）",
+    "clean第310—330行：VdID（Verband Deutscher Industrie Designer，德国工业设计师协会）成立与职业化进程",
+    "clean第420—445行：Braun与Dieter Rams——‘silent design’（安静设计）哲学、Ulm—Braun合作、SK4（白雪公主之棺）等产品",
+    "clean第510—530行：1960s消费社会的日常物文化：厨房、家电、塑料制品与‘富裕社会’批判",
+    "clean第600—620行：1960s—70s青年反文化对‘优良形式’教条的批判（设计批判话语）",
+    "clean第680—700行：结语——‘优良形式’的双重角色：美学理想与冷战意识形态工具"
+  ]
+}

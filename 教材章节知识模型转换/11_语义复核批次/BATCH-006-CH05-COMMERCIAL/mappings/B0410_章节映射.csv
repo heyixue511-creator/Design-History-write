@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0410,0.3,B,V2,role_relation_history,家具为人工物史料，以生产—分配—消费相互依存系统重构设计史，反对风格编年与英雄谱系,限于巴黎个案，非全球关系史,核对L236–353导言与方法论,ACCEPTED_AS_CORE_SOURCE
+B0410,0.4,B,V2,role_artifact_evidence,家具实物与图像（68幅插图）、企业账簿与广告、购买—继承—废弃全生命周期记录作为人工物史料,图像证据依赖档案与图注中介,核对clean L2057、L2121,ACCEPTED_AS_CORE_SOURCE
+B0410,0.6,B,V2,role_evidence_bias,对工人报告真实性保持质疑；工人阶级趣味多经资产阶级再现文本中介，揭示的是恐惧与幻想而非真实消费；女性工人工资证据,工人与女性真实消费证据薄弱,核对clean L1707,ACCEPTED_AS_CORE_SOURCE
+B0410,2.4,A,V2,role_retail_innovation,百货商店以多元化切断生产与消费关联；Bon Marché 1850s售床、1880s成套家具；巴黎百货街区格局,以家具零售为主线，百货商店仅部分章节,核对clean L2057—2158,ACCEPTED_AS_CORE_SOURCE
+B0410,2.4,B,V2,role_credit_consumption,Grands Magasins Dufayel为巴黎最大信用百货店，abonnement分期上门收款,信用制细节依赖广告图与档案,核对clean L2158,ACCEPTED_AS_CORE_SOURCE
+B0410,2.4,C,V2,role_consumer_advice,分销商借用品味专家策略：Dufayel风格竞赛制造“时代新风格”,单一案例，非系统证据,核对clean L2506,ACCEPTED_AS_CORE_SOURCE
+B0410,5.2,C,V2,role_comparative_reference,法国19世纪消费以趣味与阶级区分为核心、信用零售（abonnement）与百货商店为共享机制，可作美式大众消费体系的对照命题,本书未系统比较美国，对照为分析性命题,核对clean L2158,ACCEPTED_AS_CORE_SOURCE
+B0410,5.2,D,V2,role_mass_consumption,结语“大众风格体制”与“公民—消费者”为美式消费社会的法国前史参照,属前瞻性结论，非经验证据,核对L2588—2643结语,ACCEPTED_AS_CORE_SOURCE
+B0410,9.1,C,V2,role_consumer_citizen,“公民—消费者”命题：大众风格体制下消费逻辑渗透社会,时段早于战后丰裕社会，属先声,核对L2596,ACCEPTED_AS_CORE_SOURCE
+B0410,9.3,A,V2,role_gendered_consumption,19世纪“发明女性消费者”，女性被定义为消费者、男性为生产者；性别化消费体制与美学重新性别化,女性主体声音间接，多经规范文本中介,核对clean L316、L1795,ACCEPTED_AS_CORE_SOURCE
+B0410,9.3,B,V2,role_masculine_collecting,男性通过收藏（拍卖行、跳蚤市场、古董店）重新夺取消费中的阳刚,以小说与规范文本为主要证据,核对clean L1883—1887,ACCEPTED_AS_CORE_SOURCE
+B0410,9.3,B,V2,role_taste_professionals,趣味专家以笔代手，通过礼法书、装饰杂志、博览会机构规定阶级化趣味并“制造”工人阶级,“趣味专家”为作者建构的分析范畴,核对clean L1239—1243,ACCEPTED_AS_CORE_SOURCE
+B0410,0.2,C,V2,role_modernity_france,以家具—趣味—政治权力关系界定法国现代性：宫廷/资产阶级/大众风格体制分期,分期为作者解释框架,核对L312,ACCEPTED_AS_CORE_SOURCE
+B0410,5.1,D,V2,role_art_nouveau_rejection,记录style moderne与art nouveau在法国家具市场被拒斥、历史主义拼贴主导,非装饰艺术专题，属背景性证据,核对clean L1931—1933,ACCEPTED_AS_CORE_SOURCE

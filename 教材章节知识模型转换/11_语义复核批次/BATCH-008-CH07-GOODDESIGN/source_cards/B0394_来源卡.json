@@ -1,0 +1,117 @@
+{
+  "source_id": "B0394",
+  "corpus": "book",
+  "folder_name": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+  "material_type": "城市社会学专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Sharon Zukin：《Landscapes of Power From Detroit to Disney World》.md",
+  "clean_source_sha256": "352846DC672AD2769B83BBAD5F26615A85C89689872DD1F593B0D1341EC2D2BA",
+  "duplicate_group": "无精确哈希重复（packet元数据声明）；与同批其他来源无文本重合，但与战后美国消费空间主题（郊区化、购物中心、迪士尼）存在对象级共享",
+  "files": [
+    {
+      "report_file_count": 17,
+      "report_characters": 110854
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "7.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "postwar_american_consumption_space_background"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "detroit_industrial_landscape_background"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "suburbanization_federal_housing_policy"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "shopping_center_as_public_consumption_arena"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "shift_of_social_meaning_production_to_consumption"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "mass_consumption_fordist_system"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "organization_of_consumption_critical_infrastructure"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "disney_world_fantasy_consumption"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "landscape_swallows_vernacular"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "modernity_market_place_tension"
+    },
+    {
+      "section_id": "12.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "moral_landscape_and_public_value"
+    },
+    {
+      "section_id": "12.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "gentrification_public_space_ethics"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "经验范围限于1970—1990美国，对1940s—50s战后初期（Good Design时代）为回溯性解释而非同期史料",
+    "设计职业内部史（Good Design展览、MoMA、设计师机构）非本书主题，7.3映射止于背景与机制层面",
+    "案例普遍性有限：Weirton/McLouth工人买断属罕见个案，作者自承侥幸与无法推广",
+    "理论综合以借用为主（Schumpeter、Polanyi、Turner、Bourdieu、Harvey），原创在于装配为景观分析框架而非新概念",
+    "种族与性别维度相对从属，书中多处涉及但未形成系统分析轴",
+    "本书为学术专著而非教材，命题须经教材方转译后方可进入教材论述",
+    "clean文本含不间断空格等特殊字符，全文检索需短词匹配；行号以clean版为准（正文96—2301）",
+    "本包知识涌现分析（Topic/Theme划分与S计算）系P4模型推演，含主观判定（04报告边界声明自述），仅作语义路由参考；本复核结论以clean原文行号证据为准",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第107—109行：Schumpeter创造性破坏与perennial gale；workers are important because they consume, not because they produce anything the culture values——生产→消费转移核心命题",
+    "clean第113行：a fragile compromise between market and place（Polanyi影响），市场代表自由流动与非人格判断",
+    "clean第207—209行：landscape定义——有权者景观（cathedrals/factories/skyscrapers）与无权者vernacular（village chapels/shantytowns/tenements）；权力机构weakening, reshaping, and displacing the view from the vernacular",
+    "clean第417行：clearest cultural map of structural change...to architects and designers——建筑师与设计师作为结构变化的文化地图",
+    "clean第492—506行：百货商店创造阈限城市空间；Faneuil Hall/Inner Harbor/South Street Seaport滨水购物中心；购物中心取代政治集会成为公共生活舞台；博物馆/百货/购物中心将公共空间向私人消费开放",
+    "clean第905—917行：底特律downriver工业郊区（Dearborn Rouge/Ecorse/Trenton/Gibraltar）；GM 1977年后削减订单致McLouth失去一半销售；1981—82破产重组与1987工人买断",
+    "clean第1159—1199行：Westchester platinum mile公司总部走廊（1950—1985）；购物中心作为阈限空间，意象掩藏个体选择背后的中央化经济权力",
+    "clean第1185行：1933年起联邦住房政策偏向郊区、排除非白人家庭，郊区化的制度开端",
+    "clean第1861—1895行：洛杉矶/迈阿密后现代城市（Chandler被Disney世界殖民，无权者的幻想被投射到有权者开发的景观）；迪士尼imagineer的Disney realism——program out all the negative...program in the positive，与大众消费社会平行",
+    "clean第2131—2147行：工业景观亦是道德秩序（Dickens/Schumpeter/Polanyi）；抽象化、国际化、生产→消费转移三大长期过程解释美国工业衰落"
+  ]
+}

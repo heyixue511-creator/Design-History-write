@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0090,0.3,B,V2,multicausal_actor_framework_for_design,Crane试图以建筑、用途、材料、条件、个体与集体等多因素解释设计,十项体系是1898年的参与者框架且若干因素含决定论,作为史学对象并用现代材料史、劳动史和区域史检验,ACCEPTED_AS_HISTORICAL_ACTOR_THEORY
+B0090,0.5,B,V2,lecture_illustration_comparison_and_claim_types,讲稿结合示意图、照片、对象比较和作者判断，须区分观察、类比与因果主张,当前未逐图核验且形态相似不证明历史联系,回实际图版、对象来源、年代与传播证据,ACCEPTED_WITH_VISUAL_VERIFICATION_GAP
+B0090,0.6,A,V2,evolutionist_climatic_racial_imperial_and_visual_bias,进化论、气候决定、种族本质和帝国收藏视角会扭曲跨文化设计解释,识别问题不能把全部材料一概作废,保留可核工艺描述并补本地、殖民征集和反方研究,ACCEPTED_AS_EVIDENCE_AUDIT
+B0090,1.1,B,V2,workshop_tools_repetition_and_tradition,作坊中工具、材料和重复劳动被作者视为传统形式累积的机制,大教堂和前现代作坊被理想化且工人关系未被档案验证,补作坊账簿、训练、工资、合同和考古材料,ACCEPTED_AS_ACTOR_THEORY
+B0090,1.3,A,V2,utility_material_method_condition_and_design_control,用途、材料、加工方法和安放条件共同限制图样与处理方式,形式类比不能直接证明母题起源或单向决定,补工序实验、图样、工具痕迹、年代和传播链,ACCEPTED_WITH_MECHANISM_FOLLOWUP
+B0090,1.4,A,V2,material_process_and_form_treatment,石、木、黏土、蜡、金属和玻璃的物性及工法被具体联系到形式处理,‘忠于材料’是规范性判断且部分视觉例证待图版核验,补材料检测、工艺复原、对象与供应链,ACCEPTED_WITH_OBJECT_FOLLOWUP
+B0090,1.5,A,V2,collective_workshop_authorship_and_individual_variation,传统、作坊、跨代协作和个体变异共同塑造对象，不能只归功于名家,匿名不等于平等且具体对象责任仍未知,补署名、图样、工序、工匠名册和管理记录,ACCEPTED_WITH_AUTHORSHIP_FOLLOWUP
+B0090,1.6,B,V2,design_as_unified_but_specialized_field_in_education,各设计门类专业化与艺术统一的张力可作为设计教育和概念史材料,统一艺术树隐喻是Crane的规范立场而非制度现实,补课程、职位、学校档案、行业组织与同期术语,ACCEPTED_AS_PRIMARY_CONCEPT_SOURCE
+B0090,1.7,X,V2,racial_and_climatic_essence_as_regional_cause,不接受以‘种族特性’或气候直接解释地区色彩、形式和艺术能力,概念含本质主义且证据多为选择性比较与形态印象,改用制度、材料、贸易、劳动、委托与地方解释,EXCLUDE_AS_CAUSAL_MODEL
+B0090,2.3,A,V2,arts_crafts_material_labour_and_machine_primary_text,材料、手脑结合、集体劳动与机器生产批评构成工艺美术运动的一手论述,产品‘令人沮丧’是作者审美判断，工厂劳动事实需另证,与工厂、企业、工人、商品和消费者档案对读,ACCEPTED_AS_PRIMARY_ACTOR_TEXT
+B0090,2.5,A,V2,books_wallpaper_glass_metal_and_total_environment,书籍、壁纸、织物、玻璃、金属与建筑位置组成总体环境式设计论,对象图版、委托、制作与使用情境尚未逐件核验,补完整图版、对象档案与室内使用证据,ACCEPTED_WITH_OBJECT_FOLLOWUP
+B0090,2.7,C,V2,cross_cultural_comparison_as_imperial_knowledge_history,波斯、印度、中国、日本等比较可用于研究英国设计教育如何组织全球知识,不得把其分类、形态相似或种族术语当作地方事实与影响证据,补来源社群、征集、贸易、人员和地方接受材料,CONTEXT_ONLY_WITH_COLONIAL_AUDIT

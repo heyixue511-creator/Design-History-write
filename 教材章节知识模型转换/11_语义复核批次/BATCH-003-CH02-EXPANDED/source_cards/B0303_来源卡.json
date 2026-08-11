@@ -1,0 +1,141 @@
+{
+  "source_id": "B0303",
+  "corpus": "book",
+  "folder_name": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+  "material_type": "学术专著（新历史主义取向的文化史，融合跨国史、思想史、艺术史与政治史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》.md",
+  "clean_source_sha256": "DAB015F308E5A4B2E4D5FC076DE65A4B4B3AC72239F6688B932CEF3AE441F704",
+  "duplicate_group": "与B0339（Greenhalgh《Ephemeral Vistas》世博会经济政治史）、B0463（Çelik《Displaying the Orient》，本书第七章直接引用Çelik关于阿拉伯馆的论证）共享世博会档案（Picard 1889官方报告、各届目录）与巴黎人类学学会/特罗卡德罗民族志博物馆资料；与B0175（Grand Designs）在博物馆与展示话语上有交集。但本来源以参展国墨西哥为叙事主体，档案共享不构成命题重复，引用时须区分主办国档案与墨西哥参展档案",
+  "files": [
+    {
+      "report_file_count": 22,
+      "report_characters": 193113
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "world_fairs_classification_and_hierarchization"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "exhibiting_nation_as_agent_of_own_exoticism"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "selective_appropriation_over_influence"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "latin_american_competition_for_visibility"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "relational_history_of_elite_networks"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_as_style_and_facade"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "progress_anxiety_and_display_of_modernity"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "elite_production_vs_mass_reception_gap"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "irony_as_internal_critique"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "race_science_as_classificatory_language"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "living_exhibits_and_human_zoos"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "asymmetric_flow_translation_and_reproduction"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "regional_variation_in_exhibition_strategies"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "artifact_as_historical_source"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "visual_and_archival_evidence_in_practice"
+    },
+    {
+      "section_id": "12.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ethics_of_living_display_as_prehistory"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "作者自认的精英视角局限：只研究形象“制造”，大众的接受、拒绝与改造几乎缺席，被展示者（印第安人、工人、妇女）记录匮乏——这既是局限也是0.6节可用的证据偏差样本",
+    "不能由展览组织目标、官方宣传文本或分类目录推出观众实际接受；作者虽引用欧洲评论（Garnier、Ballu的反感），但观众“普遍接受”层面的证据仍薄弱",
+    "美国博览会（费城1876、芝加哥1893、圣路易斯1904）分析相对薄弱，作者自认低报美墨文化互动，铁路、矿业等美资渗透维度未充分展开",
+    "性别维度仅简略涉及（第11章女性委员会、女画家），未作为独立分析范畴；阶级与宗教（天主教对阿兹特克宫的批评）亦处于边缘",
+    "“形式即本质”“仓库”“镜子”“试错循环”等为本体论/分析命题，是作者框架而非可证实史实，教材引用须标注“作者命题”",
+    "对“活人展示”（1895亚特兰大墨西哥村、1904圣路易斯“阿兹特克人及其工业”）的参与者体验无一手记录，剥削评价基于组织方记录，不可过度外推",
+    "博览会“经济效果”维度（附录2仅有成本数据）未与贸易、投资实际成效挂钩，宣传目标与实效之间的差距未被系统评估",
+    "知识涌现报告（00—04号）中的命名、网络、枢纽、涌现势能等模型是P4对分章报告的推演产物，仅作语义路由，不得作为原著命题引用",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第19行：圣路易斯1904“Aztecs and Their Industries”图注与“Mexico anthropologized by itself”——墨西哥主动提供颅骨、测量与统计供人类学分类（第六章语境）",
+    "clean第21行：第六章“Mexican Understanding of Race”——阿兹特克宫立面颂扬前哥伦布过去而室内暗示当代印第安与混血低劣的双重结构",
+    "clean第29行：interstice命题原文——“they were searching for an interstice where the idea of a modern but explicitly hybrid country might fit”",
+    "clean第33行：Batres用颅骨数据论证印第安种族“适合进化”却因混交而软弱；Peñafiel立面作为法国人类学争论“缝隙”的案例",
+    "clean第37—43行：第七章——1889阿兹特克宫被判“彻底失败”、de Mier于1900转向新古典；阿根廷雇Ballu、厄瓜多尔由法国人设计印加神庙；“nation was style itself”",
+    "clean第57、65行：第七章Facades——十二尊神王、Tlaloc面具被读作西方王冠、Centeotl被定为女性、Camaxtli神话不一致、Cuauhtémoc“民族英雄主义的最高形象”",
+    "clean第83行：前言——巴黎1889为墨西哥历来最大规模参展；目标为改变“暴力未开化”印象、呈现“应许之地”以吸引外资与北欧移民",
+    "clean第99行：第七章结尾facades命题——“nationalism and progress were a matter of facades...the only essence available”；“included in classifications, but it did not participate in classifying”",
+    "clean第149—171行及第325行：导论——“ON THE UNIVERSE OF FAIRS”四维度（普遍真理、自由理念、伟大终点、民族主义）；“a world exposition was the simulacrum of something that never had a concrete existence”及民族主义/世界主义矛盾",
+    "clean第219行、第295行、第355—375行：第十章“greatest irony of all”与“keep-trying”循环；第十二章Vasconcelos“I don't intend to write history; I aim to create myth”；尾声“anational and unavoidable”、边缘国家民族主义作为“经济命令”、仓库隐喻与Porfirian indigenism严肃性（Cárdenas土地改革类比）"
+  ]
+}

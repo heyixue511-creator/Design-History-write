@@ -1,0 +1,141 @@
+{
+  "source_id": "B0007",
+  "corpus": "book",
+  "folder_name": "Ades：《Photomontage》",
+  "material_type": "蒙太奇专题艺术史通史专著（World of Art系列插图本，正文五章+注释+插图目录+参考书目+索引）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Ades：《Photomontage》.md",
+  "clean_source_sha256": "7C44AC635E593592341E5CF69216D4C936F547063DF6C6BDFC086C7BF65F5F32",
+  "duplicate_group": "与B0121达达、B0277构成主义、B0013罗德琴科摄影共享蒙太奇对象与行动者；同一作品与档案只计一份P0",
+  "files": [
+    {
+      "report_file_count": 13,
+      "report_characters": 162575
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "origin_naming_berlin_dada"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "heartfield_antifascist_aiz_montage"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "klutsis_dynamic_city_suprematist_basis"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "rodchenko_about_this_illustration"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "dada_constructivism_independent_development"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "lissitzky_press_exhibition_frieze"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "moholy_photoplastics_and_repetition"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "polish_constructivism_transnational_journals"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "citroen_metropolis_urban_montage"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "futurist_collage_precedent"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "montage_as_document_and_object"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "ernst_fatagaga_surrealist_transition"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "marxist_dialectic_affinity_claim"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "propaganda_ambiguity_spectator_bias"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "surrealist_mode_in_advertising"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ephemerality_of_montage_archive"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "西方中心主义残余：拉美、亚洲、非洲的蒙太奇实践完全缺席",
+    "当代覆盖不足（作者前言自认），战后案例偏重英美（King、Kennard、Private Eye、波普）",
+    "性别维度浅尝辄止：对Höch的分析未置于性别政治核心，对超现实主义身体切割（Bellmer、Molinier）缺乏批判性审视",
+    "电影蒙太奇平行关系未充分展开：Kuleshov、Eisenstein、Vertov仅点到为止，未及时间性、接收方式的根本差异",
+    "缺乏对montage概念的哲学反思：Benjamin辩证图像仅在注释中提及",
+    "图像细读结论属作者命题，须与对象可证内容区分：如“预示Mondrian Broadway Boogie Woogie”、Klutsis平面替换逻辑、“或启发Lang电影”等均为关联性推断而非传播证据",
+    "第三章（Metropolis）分析深度相对较浅，更近图像导览而非意义深掘（分析报告自评）",
+    "P4知识涌现分析（FF-01至FF-10，如“并置语义学”“定义政治动力学”“蒙太奇概念跨媒介语义旅行”等）是知识涌现模型的推演产物，仅作语义路由参考，不得作为原著命题引用",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第44—48行：版权页载初版1976 Thames and Hudson Ltd，World of Art系列1986年版、1993年重印，203幅插图，ISBN 0-500-20208-7",
+    "clean第107行：photomontage一词为一战后柏林达达所创；Hausmann引文“自视为工程师（故偏爱工装裤），意在构建装配作品”；Heartfield被称为Monteur Heartfield",
+    "clean第146—152行：发明权两派主张——Grosz致Roh信称1915/16年Südende实验（含1916年5月凌晨自述），Hausmann/Höch称1918年波罗的海度假从军事纪念“替换头像”照片获灵感，且其描述的明信片无一幸存",
+    "clean第225行：Hausmann将photomontage描述为“静态电影”（static film），达达“静态、同时性、纯语音诗”原则移用于图像再现",
+    "clean第377—449行：Heartfield从达达转向Der Knuppel、Die Rote Fahne、AIZ等德共刊物的反法西斯蒙太奇；Metamorphosis毛虫—蛹—死神蛾隐喻；Berger引文“被剪下之物保留其熟悉的摄影外观，我们先看到事物再看到符号”",
+    "clean第506行：Lukàcs评语“好的摄影蒙太奇具有好笑话的效果”；《Hurrah, the Butter is Finished!》以戈林“铁使国家强大”演说为素材",
+    "clean第559—573行：Klutsis两条路线划分（来自美国广告的“形式蒙太奇”vs.苏联“战斗性政治蒙太奇”）；Ades以Das Plakat 1920年未载俄国蒙太奇、新作更近各自前作等证据支持达达与构成主义基本独立发展",
+    "clean第899—940行：Metropolis章以Marinetti宣言开篇；Citroën 1923《大都会》方格网格“预示Mondrian的Broadway Boogie Woogie”或启发Lang同名电影；Lissitzky《沃肯比格尔》1925蒙太奇置于莫斯科Nikitsky广场实景",
+    "clean第1003—1004行：Ernst 1921年巴黎Sans Pareil个展及其“Fatagaga”命名；Breton序言以洛特雷阿蒙“缝合机与雨伞的偶然相遇”定义其并置",
+    "clean第1121行：Brassaï《Ciel Postiche》操作过程被隐藏、揭示而非替代现实，以此回应Sontag将超现实主义摄影贬为“微不足道”的批评"
+  ]
+}

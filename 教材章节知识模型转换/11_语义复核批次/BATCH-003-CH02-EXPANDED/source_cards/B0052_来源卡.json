@@ -1,0 +1,144 @@
+{
+  "source_id": "B0052",
+  "corpus": "book",
+  "folder_name": "Briggs, Asa：《Victorian things》",
+  "material_type": "维多利亚物质文化史、技术—消费—展览综合史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Briggs, Asa：《Victorian things》_clean.md",
+  "clean_source_sha256": "4C383953DBA4AFA142620556150BB1237E86AA69D5D3DCFC6DE408285B4F3481",
+  "duplicate_group": "维多利亚物史组：与展览史、技术史及消费史共享官方目录、评论和常见案例；相同P0材料不重复计证",
+  "files": [
+    {
+      "report_file_count": 39,
+      "report_characters": 2657449
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "multiple_victorian_periods_and_non_linear_style"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "things_as_emissaries_multi_source_material_culture_method"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "objects_ads_literature_wills_statistics_technical_and_museum_sources"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "selective_middle_class_gender_empire_worker_and_recency_bias"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "coal_iron_steam_paper_transport_and_scale"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "coal_iron_steel_glass_paper_dye_and_rubber_systems"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "common_things_makers_users_and_anonymous_design"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_manufactures_common_things_and_design_categories"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "great_exhibition_objects_materials_classification_and_spectacle"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "collection_museum_classification_and_knowledge_governance"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "plenitude_goods_ads_home_and_consumer_conditions"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "hearth_home_household_taste_and_material_practice"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exhibition_collection_empire_and_evolutionary_classification"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "japan_india_materials_trade_and_british_selection"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "photography_print_paper_and_new_visual_regime"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "household_management_taste_gender_and_efficiency_prehistory"
+    },
+    {
+      "section_id": "12.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "coal_energy_material_plenitude_and_environmental_prehistory"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "专题选择具有作者个人性，不能代表维多利亚物的系统抽样。",
+    "中产阶级家庭、收藏和文字材料较强，工人阶级与贫困者的物质生活较弱。",
+    "性别维度分散，女性作为制造者、家务劳动者与消费者未系统展开。",
+    "帝国和日本、印度、澳大利亚等联系分散且以英国视角为主。",
+    "1988年综合史中的技术、统计和国别比较需以较新专史复核。",
+    "P4报告的跨章‘技术动力学’、枢纽和综合模型不等于作者明示结论。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1—20行：题名、作者、出版信息和物质文化定位。",
+    "clean第66—150行：‘物作为使节’、人物—城市—事物三部曲、商品拜物与物质证据方法。",
+    "clean第380—399行：Pitt-Rivers收集、进化分类与material culture概念。",
+    "clean第475行附近：作者把帝国、阶级、性别和儿童物作为分类问题提出。",
+    "clean第780—810行：1851年博览会分类争论、材料类别和大型展示。",
+    "clean第1125—1155行：艺术制造、生产者／消费者与博览会审美争议。",
+    "clean第3382—3425行：家庭道德文本、Beeton、Eastlake与现实家庭实践之间的距离。",
+    "clean第4606—4629行：煤、铁、纸和carboniferous capitalism的物质—传播联系。",
+    "clean第4770—4805行：Jevons的煤、能源、英国竞争和技术未来判断及作者的后见评论。"
+  ]
+}

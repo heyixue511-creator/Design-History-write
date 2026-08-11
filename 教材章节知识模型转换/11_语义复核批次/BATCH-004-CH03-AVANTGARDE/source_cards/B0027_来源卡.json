@@ -1,0 +1,141 @@
+{
+  "source_id": "B0027",
+  "corpus": "book",
+  "folder_name": "Apollonio：《Futurist manifestos》",
+  "material_type": "行动者宣言选集（P0汇编）：未来主义者自身宣言/理论文本的英译文献集，附编者导论（1970）与新增后记（2001）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Apollonio：《Futurist manifestos》.md",
+  "clean_source_sha256": "8658C34DAD07B85E14D3F2D88436534299EE6FD1741505BC88743F1A1BF4F1C3",
+  "duplicate_group": "无精确哈希重复。同一批宣言原文与B0363（Banham 1960）、Raizman《History of Modern Design》（脚注注明出自Apollonio版1973）及Armstrong编《Graphic Design Theory》等共享/转引；同一宣言文本只计一份P0，以B0027完整汇编为基准；注意译本差异（Brain/Flint/Higgitt/Tisdall译本与Berghaus译本文字不同），引文须标注版本",
+  "files": [
+    {
+      "report_file_count": 44,
+      "report_characters": 195023
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "futurist_manifesto_core_actor_text"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "typographic_revolution_words_in_freedom"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "futurism_war_politics_as_historical_stance"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "speed_machine_urban_sensation"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "photodynamism_as_new_photography_precursor"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "futurist_clothing_and_environment_reconstruction"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "words_in_freedom_to_montage_precursor_chain"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "transnational_futurist_network"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "manifesto_modernity_self_definition"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "manifesto_as_collective_actor_history"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "manifesto_as_historical_source_method"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anthology_selection_and_absences"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "art_expansion_vs_design_concept"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "constructivism_comparative_frame_only"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "de_stijl_off_scope"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "institutionalization_and_fascism_afterword"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "全书为英译本（1973年Brain/Flint/Higgitt/Tisdall译本），是二手层：引文必须标注译本版本，关键概念（parole in libertà、dinamismo plastico等）应核对意文原文",
+    "选集性质决定存在编者选择偏差：选目、节选（extracts，如噪音艺术、战争绘画）与插图取舍均体现1970年首版语境（意大利战后批评与冷战期视角）的判断",
+    "宣言是行动者主张（P0），只能证明行动者当时如何主张、分类与规范，不能自动证明其主张真实、作品效果或公众接受；“赛车比胜利女神更美”是美学纲领而非事实陈述",
+    "战争赞美、民族主义与反女性主义立场（如创立宣言第9条“对女性的蔑视”）为历史材料，只能转述并置于历史语境，不得复制为教材立场",
+    "时间跨度限于1909—1918第一阶段；第二波未来主义（1918年后）与政治化后期仅在年表/后记中简略涉及，不能代表运动全史",
+    "声音结构失衡：34—35篇中仅Saint-Point一位女性作者；核心13人（Marinetti、Boccioni等）的知识参与度显著高于边缘者，工人、女性受众、殖民地等沉默方缺席，引用时须注意证据偏差",
+    "排版革命与视觉形态在文本化/英译过程中部分丢失（多色多字体版面难以用纯文本再现），自由词语的实际视觉效果需查原版出版物或图版",
+    "知识涌现模型（涌现报告E综合=0.78、8条形式化断言φ1—φ8，如“速度—暴力—战争美学连续性”“宣言即实践”）是P4计算推演，仅作语义路由参考，不作史料证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第201—294行：《未来主义创立宣言》1909全文（标题L201）；第245行第4条“赛车……比萨莫色雷斯的胜利女神更美”，第255行第9条“战争——世界的唯一卫生——军国主义、爱国主义、对女性的蔑视”",
+    "clean第362行、420行：1910年《未来主义绘画：技术宣言》“普遍动力论必须以动态感觉呈现于绘画”",
+    "clean第712—716行：1912年《对公众的展览说明》“力线必须环绕并卷入观众，使其被迫与画中人物一同挣扎”",
+    "clean第952—1016行：1913年Valentine de Saint-Point《未来主义情欲宣言》“情欲是一种力量”",
+    "clean第1028行：1913年Russolo《噪音艺术》“古代生活全是寂静。19世纪随着机器的发明，噪音诞生了”",
+    "clean第1289—1443行：1913年Marinetti《句法破坏——无羁想象——自由词语》，第1375行全大写纲领清单（凝缩隐喻、电报式意象等），第1387行斜体标注",
+    "clean第1844行、2181行：1913年Balla《未来主义男装宣言》标题、1914年Sant'Elia《未来主义建筑宣言》标题",
+    "clean第2988行：1916年六人合著《未来主义电影》综合公式“绘画+雕塑+造型动力学+自由词+构成噪音+建筑+综合戏剧=未来主义电影”",
+    "clean第3002行：1918年Balla《未来主义宇宙》“电熨斗……比裸体小雕像更令人赏心悦目”",
+    "clean第3030行、3034行：Humphreys后记（2001）对战争鼓吹与法西斯主义纠葛的批判评述、Marinetti 1929年任Reale Accademia d'Italia院士"
+  ]
+}

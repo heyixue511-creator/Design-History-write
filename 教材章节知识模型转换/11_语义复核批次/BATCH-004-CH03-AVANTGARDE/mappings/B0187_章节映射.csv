@@ -1,0 +1,14 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0187,3.6,A,V2,new_typography_advocacy,现代排印以非对称与对比为基础、传统居中排版被动而现代排版主动，印刷业现代化由“外来者”（画家、诗人、建筑师）完成——3.6“新字体”核心命题,“先驱”谱系与二元框架为Spencer 1969年建构，须标注为作者命题；图版是排版对象的关键证据，clean文本只有文字，视觉判断须回原书图版,clean第1023—1033行；图版页67—69、133—146,ACCEPTED_AS_CORE_SOURCE
+B0187,3.2,A,V2,futurist_free_word_typography,马里内蒂1909年宣言提出一页多栏、二十种字体、斜体表快速、粗体表尖叫，开创自由词语（parole in libertà）排印，索菲奇《Bif§zf+18》(1915)为早期实践,宣言为本书转引原文；多字体混排与自由方向的视觉证据在《Bif§zf+18》《Cabaret Voltaire》图版,clean第74—77行；图版页13—27,ACCEPTED_AS_CORE_SOURCE
+B0187,3.2,B,V2,futurism_fascism_link,马里内蒂对墨索里尼的影响暗示未来主义与法西斯主义之间令人不安的关联,本书仅导论简述（未来主义视战争为“卫生的清洗”），政治史维度薄弱，须以B0027等政治史来源补证,clean第85行,CONTEXT_ONLY
+B0187,3.3,A,V2,dada_photomontage_typography,达达以拼贴、蒙太奇与偶然性引入否定性创造；摄影蒙太奇从达达（豪斯曼、赫希）走向政治宣传（罗钦科、哈特菲尔德）与商业广告（兹瓦特、斯赫伊特马）,蒙太奇谱系为作者建构；蒙太奇作品的视觉特征须回图版核实,clean第248—255行；图版页28—51、57—59,ACCEPTED_AS_CORE_SOURCE
+B0187,3.3,B,V2,merz_typography_theory,施维特斯《Merz》第11期（1924）十条命题：排版是文本“压力与拉力”的表达、空白为正值、一切材料皆排版价值、“别学任何人做过的方式”,命题为德语原文转引；《Merz》期刊（1923—1932，24期）与共享组期刊对象去重，只计一份P0,clean第1091—1100行；图版页43—46、90—95,ACCEPTED_AS_CORE_SOURCE
+B0187,3.4,A,V2,constructivist_production_art,罗钦科1921年与25位艺术家宣布放弃纯艺术转向生产艺术；《Pro Eto》摄影蒙太奇、《Lef》《Novi Lef》封面与马雅可夫斯基合作标语体现构成主义排版与宣传的结合,25人宣言与《Pro Eto》技法为作者陈述；期刊图版为核心证据,clean第929行；图版页63—65、126—132,ACCEPTED_AS_CORE_SOURCE
+B0187,3.4,B,V2,lissitzky_proun_transmission,利西茨基以普隆（“绘画与建筑之间的换乘站”）综合至上主义与构成主义元素，成为俄国前卫思想渗透西欧的主要通道,“主要通道”判断为Spencer命题；P4网络涌现命题仅作语义路由，不作史实断言,clean第130—134、330行；图版页66—78,ACCEPTED_AS_CORE_SOURCE
+B0187,3.5,A,V2,de_stijl_typographic_geometry,风格派以矩形、原色（红蓝黄）与黑白灰构成非对称几何排版美学；《De Stijl》期刊版面是风格派原则的印刷体现；凡·杜斯堡元素主义（对角线）导致与蒙德里安决裂,《De Stijl》整页复制与Mécano页面为图版证据；元素主义之争以双方理由呈现,clean第119—122行；图版页37—42、79—84,ACCEPTED_AS_CORE_SOURCE
+B0187,3.5,B,V2,dutch_commercial_modernism,兹瓦特（NKF）与斯赫伊特马（Berkel）将风格派与构成主义原则无妥协地应用于商业广告，摄影成为排印的平等伙伴而非装饰,商业应用路径以荷兰两案为据；“荷兰悖论/体制宽容度”为P4涌现命题，不作教材断言,clean第251—255行；图版页54—59、109—125,ACCEPTED_AS_CORE_SOURCE
+B0187,0.4,A,V2,typographic_artifact_as_historical_source,排版实物——书籍封面、海报、期刊版面、广告、钞票、手稿与印刷版对照——构成现代排版史证据链的一手史料,图版160余幅是本书核心论证要素；clean文本只有文字，视觉判断须回原书图版，不得以文字描述替代,全书图版（原书13—156页各章）,ACCEPTED_AS_CORE_SOURCE
+B0187,0.5,B,V2,evidence_types_manifesto_plate,宣言文本、期刊、图版、手稿与亲历者口述构成多层证据类型，作者以一手实物与在世先驱回忆互补,口述证据链依赖作者致谢所列表单（拜耶、比尔、奇肖尔德、兹瓦特），属不可复核的一手渠道,clean第12行扉页引语；致谢内容,CONTEXT_ONLY
+B0187,0.6,A,V2,evidence_bias_teleological_canon,“先驱”谱系框架含目的论与伟人史观偏差：英美与女性先驱缺位、政治维度淡化、“英雄时期”密度不均，须在教材使用时标注框架属性,叙事偏斜系作者立场与方法论选择所致；知识涌现分析揭示的“英雄叙事的拓扑必然性”为P4推演，仅作语义路由,clean第1023—1033行（奇肖尔德法典化批判与“皈依”叙事）,ACCEPTED_AS_CORE_SOURCE
+B0187,0.6,B,V2,authors_value_judgment,作者对奇肖尔德“法典化”的批判（违背现代排版精神、损害活力与灵活性）属立场性判断，与其传播功绩（特刊引介利西茨基、加速行业采用）并存,批判与功绩并置于同一章；“法典化结构必然性”为P4涌现命题，须对照奇肖尔德专门研究,clean第267—270行,CONTEXT_ONLY

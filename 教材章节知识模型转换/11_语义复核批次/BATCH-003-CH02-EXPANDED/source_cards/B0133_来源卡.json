@@ -1,0 +1,106 @@
+{
+  "source_id": "B0133",
+  "corpus": "book",
+  "folder_name": "E. P. Thompson：《William Morris romantic to revolutionary》",
+  "material_type": "政治思想史、文学—社会史与解释性传记",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\E. P. Thompson：《William Morris romantic to revolutionary》_clean.md",
+  "clean_source_sha256": "C4F47C2DEB35290D86B7FA4C54243C3DDF132CD14FCF0F2A403E47CD46EE5495",
+  "duplicate_group": "莫里斯共享史料组：与B0070、B0318等会引用相同书信、讲演和作品；汤普森的解释可独立讨论，共享原文不能重复计证",
+  "files": [
+    {
+      "report_file_count": 28,
+      "report_characters": 241900
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "political_intellectual_biography_and_reconstruction"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "works_letters_press_and_socialist_archives"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "author_commitment_morris_center_gender_worker_and_version_bias"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_architecture_decorative_art_and_worker_artist_concepts"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "morris_labour_capitalism_socialism_and_utopian_desire"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "use_profit_luxury_and_consumption_critique"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "architecture_as_total_art_and_life_framework"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "anti_imperial_politics_without_display_history"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ideas_translation_without_material_transfer_chain"
+    },
+    {
+      "section_id": "11.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "anti_capitalist_design_critique_prehistory"
+    },
+    {
+      "section_id": "15.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "necessity_desire_and_utopian_imagination_genealogy"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "‘必要与欲望’是作者从分散材料重构的分析体系，不是莫里斯在单一著作中完成的理论。",
+    "马克思主义政治传记以莫里斯为中心，家庭、女性、工场普通劳动者与消费者相对不足。",
+    "早期版本含作者自认的道德化评论和政治套语；1976年修订虽删改，解释承诺仍鲜明。",
+    "思想连续性不能替代企业账簿、工场记录、工资、产品和使用材料。",
+    "后记对马克思主义和乌托邦的重新评价属于Thompson的1976年判断，须与1955正文分层。",
+    "P4知识涌现报告的统一模型和网络指标不应反写为原著或莫里斯的自觉理论。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1—3行：1955／1976版权、Stanford 1988重印及题名作者信息。",
+    "clean第6218—6223行：作者明确说艺术—劳动理论散见历史与描述文本，必须从多处材料重构。",
+    "clean第6230—6236行：莫里斯批判资本主义利润生产而非工业本身，并把Ruskin、历史研究和Marx连接起来。",
+    "clean第7170—7174行：1976后记承认艺术实践章节不足及旧有‘Morris movement’影响叙述需要修正。",
+    "clean第7488—7506行：作者修正‘马克思主义者或非马克思主义者’二选一，强调乌托邦和欲望教育。",
+    "clean第7698—7708行：Thompson公开说明莫里斯对其自身政治思想的影响与解释立场。",
+    "clean第7998—8008行：修订版删去作者自认的道德化插话，保留莫里斯原文。"
+  ]
+}

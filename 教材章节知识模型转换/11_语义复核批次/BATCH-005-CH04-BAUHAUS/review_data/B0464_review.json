@@ -1,0 +1,57 @@
+{
+  "source_id": "B0464",
+  "title": "The Bauhaus Idea and Bauhaus Politics",
+  "author": "Éva Forgács",
+  "version": "Central European University Press，Budapest/London/New York，1995年初版（1997第二印）；匈牙利语原版Bauhaus，Jelenkor，Pécs，1991",
+  "type": "观念—政治史研究（以“理念与政治的倒转”为总纲的包豪斯思想史叙事）",
+  "scope": "1919—1933年德国包豪斯完整校史（魏玛—德绍—柏林），上溯1907年Werkbund与1914年科隆之争，旁及莫斯科VKhUTEMAS制度比较",
+  "duplicate_group": "与B0182、B0282、B0158共享包豪斯档案；同一档案只计一份P0",
+  "summary": "本书是匈牙利艺术史家Éva Forgács撰写的包豪斯观念—政治史，以“包豪斯理念”与“包豪斯政治”的张力为总纲，叙述包豪斯从1919年魏玛建校到1933年被纳粹关闭的完整历史。核心命题是：包豪斯创立时的全部计划与概念最终都被“颠倒为对立面”——1919年“精神共和国”式的创造性共同体，到1928年变成以设计与标准化生产为目标的生产型学校，对艺术家的尊崇变成蔑视。全书以Gropius→Meyer→Mies三任校长交替为叙事骨架，交织校内理念斗争（Itten、van Doesburg、Klee、Kandinsky、Moholy-Nagy）与外部政治风暴（魏玛镇敌意、图林根议会拨款博弈、通货膨胀、纳粹崛起），并以包豪斯与莫斯科VKhUTEMAS的比较章拓展制度分析视野。作者提出多项解释性命题：Gropius自称像Cerberus一样排除政治，但生存本身即政治；1923年大展并非政府强令而是Gropius主动的战略选择；“艺术与技术：新的统一”既是外交口号又是哲学上荒谬的命题；Meyer是“误读历史时刻”的政治失能者；自治艺术家群体对包豪斯命运的维系作用被低估。全书以“自由主义的乌托邦”（Epilogue）收束，将管状家具风格与自由主义生活方式同构。书写于1989年春，带有东欧剧变前夕的当代关怀。",
+  "strengths": [
+    "以“理念-政治”二元框架为1919—1933全史提供高解释力的总体叙事，三任校长更迭与魏玛共和国政治编年严密整合",
+    "东欧（匈牙利-中欧）视角带来独有史料与解释资源（Kállai、Kassák、Molnár等），补充英语/德语研究谱系",
+    "档案实证扎实：原始书信、日记、会议记录、宣言纲领全文（德绍纲领、Meyer两大纲领均全文引录），引文量大且可回查",
+    "修正成说的方法论示范：1923年展览缘起考证（驳“政府强令说”）基于文献检索与反证，体现档案批判意识",
+    "包豪斯—VKhUTEMAS系统比较为英语世界最早之一，引入制度地位与物质条件（钢vs木）等分析变量",
+    "对Meyer的再评价（非烈士非恶魔，而是“误读历史时刻的人”）与对艺术家群体关键作用的重新揭示，具有方法论示范意义",
+    "结构清晰（Introduction+16章+Epilogue），章题即论点，Notes/Bibliography/Index完备便于回查"
+  ],
+  "limits": [
+    "强叙事干预：“倒转论”为全称命题（“一切创始理念都被倒转”），个别推断依赖反证（如1923展览“自我动员说”无直接文件）",
+    "“Bauhaus idea”概念无独立定义，以同一概念解释成败，存在循环论证风险",
+    "政治语境分析含明确作者立场（如将Meyer的“人民”修辞与纳粹Volks-修辞类比），引用时须区分史实与解释",
+    "对女性成员（Stölzl、Brandt、Grunow、Reich）着墨有限，未形成完整分析线索",
+    "1995年英译未据1990s新档案修订，个别史实细节（如Meyer在苏联的活动）已被后续研究补充",
+    "结构上前9章与后7章轻重不一，Ch12-13人物线索时有交叉重复",
+    "与B0182、B0282、B0158共享包豪斯档案，同一档案只计一份P0，证据增量须去重评估",
+    "知识涌现分析（00-04，含语义链接网络与涌现命题P1-P6）为P4推演，仅作语义路由，不直接作为史实证据"
+  ],
+  "checks": [
+    "clean第131—149行：引言——1919年4月包豪斯在魏玛建校；写作于1989年春；“一切创始理念最终被倒转为对立面”总纲命题",
+    "clean第427—469行：魏玛政治斗争——Free Union会议与Gross事件；Gropius“像Cerberus一样看守”排除政治；Thedy分裂与议会拨款博弈；Kapp暴动纪念碑；“政治不可避免”",
+    "clean第579—585行：Itten时代“时间即政治”——Feininger书信、Itten与Gropius时间态度差异、1921年2月7日/3月15日工坊再分配",
+    "clean第857—895行：1923展览缘起考证——Feininger 1922年10月5日信；Scheidig/Hüter“政府强令说”；Gropius 1922年9月15日备忘录、迄今无政府指令文件；日期系Gropius自定之推断；议会筹款与党派辩论",
+    "clean第903—1007行：1923展览与“新的统一”——展览日期8月15日—9月30日；口号“哲学上的荒谬加深裂痕”；“政治策略/外交口号”；Bauhaus Week与CIAM前史",
+    "clean第1191—1217行：德绍纲领与艺术家裂痕——《Bauhaus Dessau — Principles of Bauhaus Production》全文；Kandinsky 1926年12月反纲领；1926年10月1日大学地位；工资捐争议与Klee/Kandinsky拒绝",
+    "clean第1265—1283行：Gropius辞职——1928年2月4日辞职信指定Meyer；Kuhr“灾难”演讲；Moholy/Bayer/Breuer离校、3月28日离开；“信仰的时代结束了”",
+    "clean第1468—1520行：Meyer评传结论——宣言对读“英雄vs蚂蚁”；“误读历史时刻”；Hesse/Grote调查与“我是理论马克思主义者”；Maldonado-Gropius论战；艺术家群体在解职中的作用；Kállai“未兑现的承诺”",
+    "clean第1570—1604行：包豪斯vs VKhUTEMAS——“走了截然相反的路”；制度差异（战败国防御vs胜利革命官方艺术）；材料决定论钢vs木；设计动机游戏vs必需",
+    "clean第1669—1689行：结语“自由主义的乌托邦”——管状家具与自由主义生活方式；“自由主义本质上是乌托邦”"
+  ],
+  "maps": [
+    ["4.3", "A", "institutional_turn_1923_exhibition", "1923年大展系Gropius主动发动（驳“政府强令说”），以集体任务统一分裂中的学校并争取工业界支持；“艺术与技术：新的统一”既是外交口号也是哲学上荒谬的命题", "展览缘起为作者考证推断：无政府指令文件，依据Gropius 1922年9月15日备忘录与Stölzl回忆；口号双重分析属Forgács命题", "clean第857—1007行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.5", "A", "weimar_parliament_struggle", "包豪斯生存取决于图林根政党政治与拨款博弈；Gropius自称像Cerberus一样排除政治，但“生存本身即政治”", "议会辩论与报刊材料部分经Scheidig/Hüter等二手转引；“政治不可避免”为Forgács命题", "clean第427—469行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.5", "A", "gropius_resignation_1928", "Gropius辞职是校内共同体理想耗尽（Klee/Kandinsky裂痕、Breuer产权之争）与政治右转的双重结果；“信仰的时代结束了”", "辞职时间线（1928年1月17日告知、2月4日辞职信、3月28日离校）为档案事实；象征解读为Forgács解释", "clean第1257—1283行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.5", "A", "meyer_directorship", "Meyer任内产业订单增长与智力水准下降并存；两大纲领（《building》《bauhaus and society》）全文为原始文本；因共产主义学生政治化经Hesse/Grote调查于1930年被解职", "“误读历史时刻”与“缺乏历史可信度”为Forgács核心命题，作者并列Maldonado反方观点；Meyer是否“真”共产主义者作者自陈未决", "clean第1285—1520行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.5", "A", "mies_tenure_and_1933_closure", "Mies任内非政治化路线未能挽救学校：1932年德绍关校、1933年4月11日柏林关闭、8月10日解散；Rosenberg视艺术独立精神为比共产主义更激进的纳粹之敌", "终局事件时间线为档案史实；Rosenberg判断属作者引用与解读", "clean第1612—1690行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.5", "B", "artists_role_in_ouster", "Kandinsky/Klee/Schlemmer/Albers等艺术家群体在Meyer下台中作用被以往低估；“设计成了艺术赖以幸存的门面”（门面翻转）", "为作者“非常规解释”，有Hesse信件与Droste佐证，属解释性命题而非档案直接记载", "clean第1510—1512行", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["4.2", "A", "weimar_dual_system", "1919年双轨制（Formmeister/Handwerkmeister）与大师议会制度：艺术导师垄断决策、手工艺大师无投票权，埋下“艺术-技术”结构性裂痕", "制度描述为档案事实；“双轨制违背行会平等理想”为作者分析", "clean第358—378、461—465行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.2", "A", "preliminary_course_vorkurs", "基础课程（Vorkurs）从Itten（Mazdaznan教学法）经Moholy-Nagy到Albers的交接，是包豪斯教育理念与校内权力斗争的交汇点", "工坊再分配与人事时间为档案事实；Itten-Gropius教学哲学对立及“时间即政治”为作者分析", "clean第579—607、825—851行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.6", "A", "dessau_production_programme", "德绍纲领《Bauhaus Dessau — Principles of Bauhaus Production》（1926年3月）将设计/标准型生产确立为学校任务；Kandinsky同年12月发文反拨，标志艺术-设计裂痕显性化", "纲领与Kandinsky文章全文为一手文本；“理念被倒转”为Forgács命题（皮洛士式胜利）", "clean第1191—1207行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.6", "B", "dessau_institutional_transition", "“整体人vs部分人”教育哲学与Kunst→Gestaltung术语转向，构成德绍时期从艺术学校向设计-制度形态转变的思想轨迹", "术语转向为作者语义学分析；德绍校舍与大师宅为物证", "clean第1101—1186行", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["4.6", "B", "bauhaus_vkhutemas_comparison", "包豪斯与VKhUTEMAS看似平行实则相反：一从边缘先锋到时尚设计学校，一从国家中心到边缘；制度地位与物质条件（钢vs木）决定设计差异", "比较框架与材料决定论为作者分析命题；两校课程/人事对应可证", "clean第1522—1610行", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["0.6", "C", "evidence_bias_inversion_thesis", "“倒转论”为全称命题（“一切创始理念都被倒转为对立面”），且“Bauhaus idea”无独立定义，存在循环论证风险；作者在L1512以“门面翻转”自我修正", "证据偏差条目：全称命题边界须标注；Klee/Kandinsky的自治艺术并未“倒转”（作者自认）", "clean第145—149行、第1510—1512行", "CONTEXT_ONLY"],
+    ["0.6", "C", "evidence_bias_1923_exhibition", "1923展览“自我动员说”基于文献空缺推断（作者明示“迄今未发现政府指令文件”），属反证论证，证据等级低于档案直接证据", "推断成立依赖Stölzl回忆与议会辩论间接支持；与Scheidig/Hüter成说并存，须对照使用", "clean第859—863行", "CONTEXT_ONLY"],
+    ["0.6", "C", "evidence_bias_meyer_evaluation", "对Meyer的“历史可信度”判断本身是作者的历史判断，Maldonado持相反立场且被作者如实并列", "证据偏差条目：作者立场与档案事实须区分；“Meyer是否误导Gropius”作者自陈未决", "clean第1470、1488—1494行", "CONTEXT_ONLY"]
+  ]
+}

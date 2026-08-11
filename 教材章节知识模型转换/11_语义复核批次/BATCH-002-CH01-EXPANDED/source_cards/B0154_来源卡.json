@@ -1,0 +1,131 @@
+{
+  "source_id": "B0154",
+  "corpus": "book",
+  "folder_name": "Finlay Robert：《The pilgrim art cultures of porcelain in world history》",
+  "material_type": "全球瓷器史、物质文化史与跨文化交流研究专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Finlay Robert：《The pilgrim art cultures of porcelain in world history》_clean.md",
+  "clean_source_sha256": "FF0B9709B17972C4332BB0579422E88F6B447D8E7C8E18D7152940B0BA462074",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 161083
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "object_lens_and_scale_control"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "porcelain_as_material_and_contextual_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "artifact_archaeology_text_and_trade_triangulation"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "jesuit_court_collection_and_worker_visibility_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "porcelain_connected_world_history"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "jingdezhen_distributed_workshop_knowledge"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "kiln_energy_transport_and_mechanised_competition"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "division_of_labor_models_patterns_and_supervision"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "china_stone_kaolin_cobalt_glaze_and_fuel_system"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "anonymous_potters_merchants_and_enterprise_network"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "industrial_arts_and_design_vocabulary_context"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "jingdezhen_east_asia_islamic_and_european_mixed_paths"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "court_household_market_and_customised_consumption"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "empire_collection_trade_and_hierarchical_naming"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "porcelain_translation_imitation_and_reverse_flow"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "从中国瓷器市场衰落推及中国整体世界地位的论证尺度跃迁过大，只能作为作者解释而非事实陈述。",
+    "景德镇材料高度依赖殷弘绪等外来观察者，宫廷、精英收藏与贸易资料多于普通工人和使用者声音。",
+    "‘中国’与‘伊斯兰世界’等大范围单位内部差异不足，东南亚大陆、中国地区和环境史处理不均衡。",
+    "关于景德镇技术停滞、国家领导缺席及欧洲胜利的叙述含目的论风险，需要较新中外研究校正。",
+    "Wedgwood、梅森、产量、价格和‘第一’类判断及全部图版尚未逐项核验。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第184—230行：作者把瓷器界定为跨文化交换的物质证据，同时明确它不是历史因果的独立主角。",
+    "clean第294—326、350—388行：殷弘绪书信记录景德镇规模、市场和劳动分工，但观察者身份与估算须保留。",
+    "clean第600—615、737—765行：瓷器秘密的搜集是重商主义知识工程，书面信息仍不足以直接复制技术。",
+    "clean第1493—1525、1640—1650、1718—1758行：瓷石与高岭土、波斯钴、穆斯林商人、元代政策和专门劳动共同构成青花瓷链。",
+    "clean第1853—1864行：面向西南亚市场的器形、模型、装饰与使用方式发生选择性转译。",
+    "clean第2815—2831行：德尔夫特生产受移民技术、进口中断、地方灾变、工场扩张和中国恢复出口共同塑造。",
+    "clean第2987—3000行：梅森突破来自宫廷强制、多人研发、高岭土与工匠逃离，不能简化为Böttger个人发明。",
+    "clean第3108—3142行：Wedgwood把新古典图样、分工、纪律、蒸汽、测温、交通和营销结合，但相关因果仍是作者综合。",
+    "clean第3146—3193行：全球市场替代和‘中国衰落’结论混合贸易事实、英国使团记录与象征性解释，必须分层使用。"
+  ]
+}

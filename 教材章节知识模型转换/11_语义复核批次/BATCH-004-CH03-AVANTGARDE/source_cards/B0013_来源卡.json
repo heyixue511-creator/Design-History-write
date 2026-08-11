@@ -1,0 +1,113 @@
+{
+  "source_id": "B0013",
+  "corpus": "book",
+  "folder_name": "Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》",
+  "material_type": "摄影专题学术著作与作品图录：三篇理论论文+约380幅图版三语图注+生平年表/作品目录/参考文献/展览年表附录",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》_clean.md",
+  "clean_source_sha256": "E8A0A6DC740205937903CCECA824BC49DCE1487880FB88941328B2BC73E53CF1",
+  "duplicate_group": "与B0277、B0007、B0291共享罗德琴科作品与行动者文本；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 17,
+      "report_characters": 114495
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "core_primary_source"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "rodchenko_photography_periodization"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "constructivism_as_working_method"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "new_photography_angles"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "photomontage_visual_communication"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "photography_as_art_theory"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "photography_propaganda_ambivalence"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "soviet_photomontage_lineage"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "photographs_as_historical_artifacts"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "photographs_as_object_evidence"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "family_archive_bias_case"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "亲属视角与辩护性语调：对罗德琴科性格负面面与1930年代意识形态合谋问题处理偏温和，clean第913—917行明言其“从未提及政治犯”却未加批判",
+    "家族档案选择性：图版以罗德琴科本人认可或展出过的作品为主，可能过滤实验性/失败作品；档案由家族掌控，外部研究者难以独立核验",
+    "西方市场导向：三语版本面向欧美读者，解释框架受西方现代主义叙事影响，苏联语境特殊性（政治权力、社会主义城市理想）有被形式主义解读遮蔽之虞",
+    "技术决定论倾向：对相机型号、镜头参数的细致罗列有时遮蔽图像意义层面的深入阐释",
+    "对象证据呈现局限：clean文本仅有文字描述与图注，无图像内容，一切视觉判断（角度、构图、色调）必须回纸质图版核验",
+    "三语图注不对称：德法版本部分图版为缩减简注，引用图注信息时须注意版本差异；俄文原文经英译再转译德法，引文语义经多层转译",
+    "与B0277、B0007、B0291共享罗德琴科作品与行动者文本，同一对象只计一份P0，跨来源引用需去重协调",
+    "本包P4知识涌现分析（知识元网络、语义链接、涌现计算与知识假设）是对分析报告文本的模型推演，非本书原文内容，仅作语义路由参考，不构成证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第22—33行：扉页《摄影——艺术》（1934）三语全文——“摄影已挣脱辅助性地位……值得作为今日之艺术”",
+    "clean第81行：作者界定罗德琴科1924—1954年三十年摄影生涯",
+    "clean第137行：高/低角度原则，俄国称为“Rodchenko foreshortening”技术",
+    "clean第245行：罗德琴科自述“Photomontage brought me to photography”；第253—254行：1923年过半设计工作使用蒙太奇",
+    "clean第581—595行：摄影构成主义章——构成主义是“任何媒介的生产工作方法”；1925年从巴黎带回Ica 4x6.5与Vest Pocket Kodak，催生垂直构图系列",
+    "clean第636—641行：罗德琴科批判“腹脐摄影”（相机放肚子上），主张“从下向上看/从上向下看”",
+    "clean第647—650行：1928年Novy LEF停刊前筹备摄影专书（集结80%已发表作品），仅存斯捷潘诺娃手记",
+    "clean第856—870行：1932年后为Izogiz与《苏联在建设中》供图；白海运河由囚犯修建、守卫环绕，底片与印相须全数交检方获出版许可",
+    "clean第909—917行：作者明言罗德琴科著作与书信从未提及政治犯，只提普通刑事犯；“艺术本身被逮捕”——作者辩护性语调的直接文本证据",
+    "clean第1641—1720行：图版25-27《关于此》蒙太奇（1923）、图版36-38维尔托夫《电影眼》海报（1924，图版38石印5000份）、图版39《Mess-Mend》（1924）",
+    "clean第3137—3156行：图版324-326白海运河——前小偷杜德尼克“运河工作后成为画家”；图版325囚犯与管弦乐队实为同一批人",
+    "clean第3617行、第3638—3641行：年表1933年白海运河；1951年被开除出MOSSKh、1954年恢复；clean第5865—5866行：白海运河系列底片共2250张，Leica+Elmar f.50mm"
+  ]
+}

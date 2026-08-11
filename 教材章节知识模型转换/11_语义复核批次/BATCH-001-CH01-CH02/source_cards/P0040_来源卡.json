@@ -1,0 +1,85 @@
+{
+  "source_id": "P0040",
+  "corpus": "paper",
+  "folder_name": "Jespersen, John Kresten：Originality and Jones' The Grammar of Ornament of 1856, 2008",
+  "material_type": "设计史期刊论文与经典文本接受史研究",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Jespersen, John Kresten：Originality and Jones' The Grammar of Ornament of 1856, 2008_paged_clean.md",
+  "clean_source_sha256": "4B5D94872233F8C7AB40F5F4A949131530BD59584BF6EBDC9A059B3021F72DAD",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 9,
+      "report_characters": 101140
+    }
+  ],
+  "report_structure": {
+    "report_file_count": 9,
+    "report_characters": 101140,
+    "review_basis": "overall_and_relevant_chapter_reports_plus_knowledge_discovery_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "archive_publication_plate_chain"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "authority_and_infallibility_rhetoric"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "global_coverage_and_context_loss"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "grammar_originality_and_design_theory"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "crystal_palace_origin_context"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_reform_publication_and_teaching"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "plate_selection_and_global_classification"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "precedent_to_new_design"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "作者与研究对象及CD-ROM项目关系密切，对field theory的反方意见不足。",
+    "对实践者影响的若干判断偏列举和印象式，不能直接证明传播机制。",
+    "Fig.3未复制，相关视觉论证不完整；Riegl部分未对勘德文原著。",
+    "论文对殖民等级语言的批判不是主轴，仍须补后殖民与来源社群研究。",
+    "Clean原文仅作关键段落定位；未完成全篇、版次、图版、注释和所引P0材料核验。"
+  ],
+  "original_spot_checks": [
+    "clean第11行：37条命题、field、repose与文章总论。",
+    "clean第33行：Jones的科学史观及‘无误性修辞’判断。",
+    "clean第41行：图版制作、来源、约40%首次刊行与协作链。",
+    "clean第93—99行：field theory、影响判断和repose解释。"
+  ]
+}

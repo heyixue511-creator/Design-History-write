@@ -1,0 +1,153 @@
+{
+  "source_id": "B0463",
+  "corpus": "book",
+  "folder_name": "Zeynep Çelik：《Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs》",
+  "material_type": "跨学科建筑史专著（建筑史×东方主义批判×人类学×文化研究），以六届世博会伊斯兰建筑表征为对象的开创性研究",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Zeynep Çelik：《Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs》_clean.md",
+  "clean_source_sha256": "DE8CF8D29346F577920F25699E88E99AF9EF756468C099900FA4DDF126190286",
+  "duplicate_group": "与B0339（Greenhalgh《Ephemeral Vistas》）共享博览会史框架与展览个案，与B0427（Barringer《Colonialism and the Object》）共享殖民物/博物馆展示对象与档案，与B0082（Pinney《Camera Indica》）共享展示摄影与人类学凝视议题；重复风险集中在六届世博会的具体展览对象、场地与图像档案层面",
+  "files": [
+    {
+      "report_file_count": 13,
+      "report_characters": 85880
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "exposition_colonial_classification"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "authenticity_display_mechanism"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "human_display_racial_hierarchy"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "exposition_model_transfer_east"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "muslim_self_representation"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "bidirectional_architectural_exchange"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "neo_islamic_local_practice"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "displayed_absent_producers"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "discourse_layer_distinction"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "pavilion_as_historical_source"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "archives_press_photography"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_self_proof"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "crystal_palace_precedent"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "museum_state_governance_link"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "art_nouveau_islamic_connection"
+    },
+    {
+      "section_id": "8.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "twentieth_century_colonial_legacy"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "X",
+      "verification": "V2",
+      "role": "east_asia_translation_excluded"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "地域与时段集中于巴黎-芝加哥轴线，摩洛哥、波斯等覆盖较薄，北非殖民地资料多经法国档案中介",
+    "穆斯林一方记录占比有限（作者自认），被展示者（肚皮舞者、工匠、村落居民）的声音基本缺席，其态度多靠推断",
+    "“双向影响”论证中风格相似或同场展出不等于影响，个别案例（Sullivan交通馆、Furness）证据强度不一，作者亦承认多数展馆建筑师对伊斯兰建筑缺乏深入研究",
+    "不能由展览组织目标或报刊评论推出观众实际接受；“真实性”执念的效果证据多为组织者宣称（如Gleon自称“更真实”）而非接受研究",
+    "展馆均为临时建筑已不存，D'Aronco图纸仅两张留存，图像证据依赖文字转述，证据链有断裂",
+    "“伊斯兰世界”总称内部差异大，作者虽以逐国分析缓解同质化，但总命题仍倾向整体论",
+    "尾声（20世纪遗产）证据密度低于主体章节，属延伸论证而非同等强度的研究",
+    "知识涌现分析中的命名、网络、枢纽、Topic/Theme等模型是P4推演产物，只作语义路由，不得写成原著命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第198—202行：世博会以缩影呈现“单一扩大的世界”；建筑展示“一面声称科学权威与精确，一面滋养幻想与错觉”（导论核心命题）",
+    "clean第215—216行：重构“西方并非唯一行动者”的19世纪图景；明确六届世博会研究范围（1867/1878/1889/1900巴黎、1873维也纳、1893芝加哥）",
+    "clean第230—231行：作者主张东西二分制造无意义实体（如“伊斯兰文明”），跨文化对话瓦解极性系统（作者立场声明）",
+    "clean第309—311行：穆斯林自我表征反复描绘清真寺与君主宅邸为原型；欧洲形成的文化形象构成自我定义的重要基础",
+    "clean第363—366行：Fabian“另一时间”论——某些社会被冻结于历史；土著展示构成tableaux vivants",
+    "clean第532行：《Les Costumes populaires de la Turquie en 1873》既修正奥斯曼刻板形象又“冻结文化于历史”（官方自我表征的两难）",
+    "clean第599—600行：第2章题词引1893年4月30日《芝加哥论坛报》，把Midway Plaisance比作博览会的“马戏团边棚表演”",
+    "clean第651—654行：展馆世界无时间性，伊斯兰文化被“建筑地冻结”为不能变化与进步的形象",
+    "clean第757、782—788行：1889年History of Habitation与Rue du Caire两条街；Gleon以回收构件建造并宣称开罗街“比开罗本城更真实”",
+    "clean第830—831行：Midway被组织为“人类滑尺”——条顿/凯尔特最近白城，伊斯兰世界居中，达荷美与北美印第安最远",
+    "clean第888行：1900年埃菲尔铁塔与阿尔及利亚/突尼斯宫并置，构成“帝国工业进步vs殖民地无时间性”的视觉对立",
+    "clean第1281、1348—1351行：1869苏伊士运河庆典复制国际博览会要素（临时建筑与节庆），Ismailiyya临时建筑多受世博会启发",
+    "clean第1285—1296行：1863奥斯曼总博览会早于多数欧美大型博览会（此前仅4次），借西方格式但目标直指民族工业，场地选Hippodrome",
+    "clean第1330—1332行：1894年伊斯坦布尔博览会计划的风格之争——研究“奥斯曼建筑科学”（fenn-i mimari-i Osmani）或“伊斯兰建筑科学”（fenn-i mimari-i Islami）",
+    "clean第1641—1647行：第5章结论——博览会催化东西交换；殖民语境中支配文化把伊斯兰遗产挪用进自身风格；Said“无中立观察点”",
+    "clean第1706—1714行：尾声——世博会“把文化浓缩为建筑摘要”；非殖民语境求文化自我形象、殖民语境由殖民文化决定表征，新伊斯兰挪用分三阶段"
+  ]
+}

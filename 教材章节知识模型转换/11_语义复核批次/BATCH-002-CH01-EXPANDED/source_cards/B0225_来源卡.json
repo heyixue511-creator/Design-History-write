@@ -1,0 +1,116 @@
+{
+  "source_id": "B0225",
+  "corpus": "book",
+  "folder_name": "John Heskett：《Industrial Design》，1980",
+  "material_type": "工业设计通史与设计史方法论专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John Heskett：《Industrial Design》，1980_clean.md",
+  "clean_source_sha256": "B97B5758D4DF2A9F472B01380700E95FB6A9DE7D22C1B6646FA14576DEEADC34",
+  "duplicate_group": "VGRP003-PARTIAL",
+  "files": [
+    {
+      "report_file_count": 35,
+      "report_characters": 577963
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "integrated_design_history_method"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "museum_formalism_and_context_bias"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "patterns_workshops_and_commercial_craft"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "machines_interchangeability_transport_and_scale"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "patterns_models_specs_and_control"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "materials_process_and_form_constraints"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "anonymous_designers_workers_and_enterprise"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "industrial_design_definition_and_professional_emergence"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "diversification_and_mixed_production"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "great_exhibition_and_manufacturing_comparison"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_reform_magazine_school_and_state"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "catalogues_mass_markets_and_aesthetic_choice"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "patterns_migration_and_crossnational_manufacturing"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "‘构思与制作分离’是强有力的分析模型，但可能把前工业协作压缩成单人手工统一体。",
+    "案例集中欧美且形成于1980年，女性、殖民原料、被奴役劳动、环境和非西方制造史不足。",
+    "个人创造力主要决定审美／象征功能的二分过整齐，需要集体作者制与接受史修正。",
+    "武器制造只可用于制度、标准化和国家采购的文字分析，不采用或再现武器图像。",
+    "与B0084文选中的阅读材料8存在局部重印；重合部分不得算作独立互证。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第20—42行：非线性工业化、构思／制作分离、形式主义与社会决定论的双重批评。",
+    "clean第61—83行：图案书、Gobelins、Meissen与匿名工匠构成工业设计的前工业分工史。",
+    "clean第99—151行：Soho与Etruria中的市场、样式、模型、精整、目录、制模和专业人员链。",
+    "clean第162—180行：机械化、家庭劳动、小工场与大企业长期并存，设计改革并非单一答案。",
+    "clean第494—520行：欧洲先例、Whitney局限、Hall等人和政府需求共同形成美国体系。",
+    "clean第537—565、737—749行：标准化向民用产品扩散，同时将工人技能、判断和节奏纳入机器系统。"
+  ]
+}

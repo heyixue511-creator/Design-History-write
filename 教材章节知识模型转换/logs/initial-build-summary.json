@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-08-11T12:31:27+00:00",
+  "source_directories": 589,
+  "book_directories": 517,
+  "paper_directories": 72,
+  "report_files_machine_read": 12652,
+  "report_characters_machine_read": 132821987,
+  "outline_sections": 121,
+  "machine_candidate_rows": 4712,
+  "duplicate_group_members": 6,
+  "file_categories": {
+    "legacy_root_report": 419,
+    "overall_report": 589,
+    "chapter_or_full_report": 6816,
+    "special_entity_index": 588,
+    "emergence_method_or_overview": 589,
+    "emergence_semantic_units": 589,
+    "emergence_link_network": 589,
+    "emergence_computation": 589,
+    "emergence_discovery": 589,
+    "other": 1295
+  },
+  "candidate_bands": {
+    "strong_machine_candidate": 1744,
+    "machine_candidate": 2922,
+    "weak_machine_candidate": 46
+  },
+  "semantic_review_complete_sources": 0,
+  "warning": "机器读取完成不等于语义复核完成；候选映射不得直接用作正式参考文献索引。"
+}

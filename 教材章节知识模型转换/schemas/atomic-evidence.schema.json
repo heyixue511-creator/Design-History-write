@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "原子证据卡",
+  "type": "object",
+  "required": ["evidence_id", "claim", "source_id", "source_location", "source_class", "verification_level", "section_ids", "status"],
+  "properties": {
+    "evidence_id": {"type": "string"},
+    "claim": {"type": "string"},
+    "source_id": {"type": "string"},
+    "source_location": {"type": "string"},
+    "source_class": {"enum": ["P0", "P1", "P2", "P3", "P4"]},
+    "verification_level": {"enum": ["V0", "V1", "V2", "V3", "V4"]},
+    "section_ids": {"type": "array", "items": {"type": "string"}},
+    "textbook_function": {"type": "string"},
+    "supports": {"type": "array", "items": {"type": "string"}},
+    "does_not_support": {"type": "array", "items": {"type": "string"}},
+    "time_boundary": {"type": ["string", "null"]},
+    "geographic_boundary": {"type": ["string", "null"]},
+    "counterevidence": {"type": "array", "items": {"type": "string"}},
+    "status": {"enum": ["candidate", "accepted", "rejected", "needs_original_check"]}
+  }
+}

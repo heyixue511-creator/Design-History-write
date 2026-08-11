@@ -1,0 +1,110 @@
+{
+  "source_id": "B0084",
+  "corpus": "book",
+  "folder_name": "Clive Dilnot：《A John Heskett Reader Design, History, Economics》",
+  "material_type": "设计史、设计经济学与设计政策文选",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Clive Dilnot：《A John Heskett Reader Design, History, Economics》.md",
+  "clean_source_sha256": "3305DB2A459450EEC00C8D750DD1D2BE247F29C4C06BB6E7818F8DCF174D9ABC",
+  "duplicate_group": "VGRP003-PARTIAL",
+  "files": [
+    {
+      "report_file_count": 41,
+      "report_characters": 180908
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "layered_nonlinear_periodisation"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "history_economics_policy_and_context"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "editorial_selection_unfinished_text_and_regional_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "global_history_of_making_fragments"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "layered_preindustrial_making_and_knowledge"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "industrial_layers_and_mass_production"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "production_use_context_and_coordination"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "material_technology_and_layered_form"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_as_distributed_human_capacity"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_definition_value_and_profession"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "coexisting_global_production_layers"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "trade_migration_and_local_reconfiguration"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "文集是纪念性选本，编者承认批判距离不足；选文不能代表Heskett全部写作。",
+    "若干全球制造史文本是未完成书稿，论证、引注和地区覆盖不能按正式专著同等使用。",
+    "亚洲和中国材料主要依赖有限的二手来源与博物馆观察，不能替代本地研究。",
+    "设计作为普遍人类能力的定义若无限外推，会稀释现代设计职业与制度的历史特异性。",
+    "阅读材料8与B0225第三章局部重印，不能作为第二个独立来源计证。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第279—303行：编者说明选文标准、遗漏、未刊稿及快速编纂条件。",
+    "clean第347—370、391—420行：设计定义与工业化的商业／文化张力。",
+    "clean第541—585行：对Ruskin、Morris和工业化解放／去技能的双向判断。",
+    "clean第839—911行：设计史层叠模型反对艺术史式线性替代。",
+    "clean第925—1005、1073—1190行：未刊全球制造史的范围、贸易、游牧和被奴役工艺片段。",
+    "clean第1259—1315行：美国体系章节与B0225相应章节重合，Whitney神话、民用扩散与Taylor劳动控制均属同一原文。"
+  ]
+}

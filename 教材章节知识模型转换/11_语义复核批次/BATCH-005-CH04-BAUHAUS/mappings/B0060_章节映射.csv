@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0060,4.1,A,V2,aeg_corporate_identity_coordination,1907—1914年AEG将建筑、产品、商标与宣传物料整体委托Behrens协调，形成覆盖“一切可见之物”的企业识别与产品—传播—空间系统,企业档案与A/P/G三系列编目可证委托范围与实施；“工业文化”“一切可见之物”为Buddensieg命题,回查1907纲领、商标与宣传物料专题的原文表述,ACCEPTED_AS_CORE_SOURCE
+B0060,4.1,A,V2,artist_in_residence_institutional_role,1907年10月1日Behrens出任AEG艺术顾问（艺术总监），开创企业内设设计职位；工作依托Felix Deutsch客户服务部制度框架展开,任命文件已失（档案1945年流失），日期据Osthaus档案书信；须与工程师、销售、工人等多行动者并置，不得写成个人英雄史,回查总论、附录A人物志与年表条目,ACCEPTED_AS_CORE_SOURCE
+B0060,4.1,A,V2,product_publicity_architecture_unity,电水壶、弧光灯等产品线与样本、广告、商店、公司期刊、工厂建筑构成统一的企业传播系统，“优雅之美”与标准化类型为纲领用语,G系列与P系列双重建档可证实物与再现的对应；“系统”表述为本书论证核心而非外部推断,回查宣传物料专题与编目对应条目,ACCEPTED_AS_CORE_SOURCE
+B0060,1.5,A,V2,turbine_hall_multi_actor_production,涡轮机厂房（1909）是艺术家—工程师多行动者协作产物：承重框架归Lasche与Bernhard，山墙形式与象征归Behrens；同时代媒体以“合作”定性，署名权之争留存,Bernhard声明、Kunstchronik评论为原典证据；本书仍有Behrens中心化倾向，引用须并置双方表述,回查Fabrikenkunst专题与当代反应章节,ACCEPTED_AS_CORE_SOURCE
+B0060,0.4,A,V2,glass_negatives_artifact_evidence,约1000张AEG玻璃底片与印刷品使已绝迹产品得以“证明其确实存在过”，作品编目以精确物理描述实现无实物条件下的物质性分析（“物的传记”）,档案幸存具偶然性（阁楼/地窖发现）；编目图像主要来自AEG-Zeitung与MdBEW，属图像证据而非实物证据,回查导论档案声明与编目方法段落,ACCEPTED_AS_CORE_SOURCE
+B0060,0.5,A,V2,corporate_archive_evidence_type,企业档案（产品目录、AEG-Zeitung、MdBEW、订单、建筑图纸、商标注册G78-G79）支撑组织与生产事实；同时AEG档案与Behrens私人文件已失，可能1945年运往苏联,档案双重性（最可靠证据与最大缺失）须同时声明；商标注册条目连接知识产权史,回查档案损失声明与商标条目,ACCEPTED_AS_CORE_SOURCE
+B0060,4.6,B,V2,design_office_incubation,Behrens设计室吸纳Gropius、Adolf Meyer、Mies van der Rohe、Le Corbusier等助手，1907年纲领经Gropius1934年文论延续，构成从企业设计室到现代主义建制的谱系,本书以附录B照片与当代反应章节间接呈现，未系统论证制度化路径；与包豪斯制度无直接论述,回查附录B与当代反应章节,ACCEPTED_AS_CONTEXT_SOURCE
+B0060,4.7,B,V2,behrens_roman_canonization,Behrens Roman字体由AEG专属（Deutsche Antiqua）经Klingspor发售（1908年10月），1910年布鲁塞尔世博会德国官方目录全用，成为“德国工业字体”正典并沿用至AEG后世signet,字体传播路径可证（铸字厂、世博会目录、AEG-Zeitung）；“正典化”为语义路由延伸概括，须以原文表述为准,回查字体专题原文与G系列条目,ACCEPTED_AS_CONTEXT_SOURCE
+B0060,1.6,B,V2,typisierung_product_matrix,水壶矩阵与弧光灯变体系列是标准化/类型化（Typisierung）的产业先例，为1914年Werkbund Muthesius—van de Velde类型化争论提供实践基础,本书直接记录产品线事实（三种基本形×三种材料×三种表面×三种尺寸）；与争论的关联为分析层面推断,回查水壶与弧光灯编目条目及1907纲领,ACCEPTED_AS_CONTEXT_SOURCE
+B0060,1.5,B,V2,factory_type_function_representation,AEG发电站与工厂建筑类型学演变（Fürstenwalde1908→涡轮机厂房1909→Golpa1915-19）显示功能逻辑与再现需求张力；Klingenberg技术理性主义拒绝“高贵化”,Wilhelm专题可证类型演变与Klingenberg取向；“匿名设计”命题须与Behrens署名争议并置,回查Fabrikenkunst章节,ACCEPTED_AS_CONTEXT_SOURCE
+B0060,4.6,C,V2,workers_housing_welfare_institution,工人住宅作为绑定技术工人的企业福利制度，以“美=社会和平”为意识形态公式，具类型化与可复制倾向,“美=社会和平”为Neumeyer对威廉时代意识形态的解读命题；与包豪斯可复制制度无可证直接关联,回查工人住宅专题,CONTEXT_ONLY
+B0060,4.7,C,V2,designer_migration_network,Behrens自达姆施塔特→杜塞尔多夫→柏林AEG（1907年迁居Neu-Babelsberg）的轨迹及其助手网络的扩散构成设计人才迁徙案例,本书以编年方式覆盖迁徙事实，迁徙主题非其核心议题,回查附录C年表与附录B,CONTEXT_ONLY
+B0060,4.1,C,V2,aeg_leadership_institutional_frame,AEG领导层（Emil Rathenau、Felix Deutsch、Walther Rathenau）构成“工业文化”的制度框架；Behrens是其中一环而非唯一主角,附录A人物志可证制度框架；全书总体仍偏Behrens中心，引用时须补多行动者维度,回查附录A人物志,CONTEXT_ONLY
+B0060,0.4,B,V2,kettle_series_biography_of_things,电水壶系列以标准组件系统实现多样化（呼应Dolivo-Dobrowolsky生产定律），编目物理描述构成微型“物的传记”,矩阵数据（尺寸、材料、表面、容量）与编目条目可证；“物的传记”为分析报告用语,回查水壶编目P133ff与总论水壶段落,ACCEPTED_AS_CONTEXT_SOURCE

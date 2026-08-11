@@ -1,0 +1,135 @@
+{
+  "source_id": "B0102",
+  "corpus": "book",
+  "folder_name": "David Raizman：《History of Modern Design》，2023",
+  "material_type": "修订版通史（面向本科设计史课程的高等教育教材，第三版为作者生前最后一次修订）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\David Raizman：《History of Modern Design》，2023_clean.md",
+  "clean_source_sha256": "3E0F6D0649FE51C60A67B9A9FCE065F495C8397C8B8B5634E452B5DF8B6BA83C",
+  "duplicate_group": "VGRP005-EDITION；与B0101共享未变内容（不重复计证），第三版新增内容与B0478（2013年中译本，对应第二版）无涉；与各专史共享案例对象时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 31,
+      "report_characters": 177024
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit",
+    "version_relation": "与B0101（2010年第二版）为同系列修订版：保留六部16章编年框架与生产-消费分析主轴，但每部后新增Global Inspiration插章、Part VI由1961—2010延伸至1961—2020、第16章重写、种族/性别/白人特权议题实质深化；未变内容不独立计证，本卡仅针对第三版新增或实质修订内容"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "survey_periodisation_and_revision_history"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "decentering_global_perspective_design_history"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "updated_scholarship_and_reference_sources"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "white_privilege_gender_and_canon_critique"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "china_sinosphere_trade_and_technological_transfer"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "islamic_west_asia_north_africa_decorative_arts_and_orientalism"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "central_west_africa_colonial_exploitation_and_design"
+    },
+    {
+      "section_id": "8.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "latin_america_modernism_and_indigenous_design"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "postwar_japan_design_policy_and_global_brands"
+    },
+    {
+      "section_id": "13.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "revisiting_china_contemporary_design_soft_power"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "race_slavery_and_design_in_us_chapter3"
+    },
+    {
+      "section_id": "15.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "covid19_pandemic_as_design_event"
+    },
+    {
+      "section_id": "16.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ai_smart_autonomous_products_and_service_design"
+    },
+    {
+      "section_id": "12.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "redesign_obsolescence_circular_economy_and_growth_critique"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "X",
+      "verification": "V2",
+      "role": "japonisme_aesthetic_and_art_nouveau_unchanged_from_second_edition"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "六篇插章篇幅有限（各约1—3页），属概述式引入，全球南方的本地制度、劳动与使用史仍不充分，不能替代各专史（如B0303墨西哥博览会、B0209非洲消费主义）",
+    "去中心化的选例仍多从欧美接受端出发（GI II聚焦欧洲东方主义消费、GI I偏重对欧贸易），是否真正「去中心」存疑——这是作者框架命题，须标注",
+    "第16章当代议题（COVID-19、AI）时效性强，2023年后事件发展会迅速使相关论述老化",
+    "全书插图及第三版新增/替换图版未达V3核验，视觉证据链无法确认，插章图像论证只能以文字为准",
+    "版本差异审计依赖P4报告对「新增」的判定：数字化、微型化、可持续性、Herbert Simon定义、设计-制作分离等第二版已确立命题，若第三版仅重述则不独立计证",
+    "作者立场（进步叙事批判、软实力、好设计/大众品味二元论、GDP批判）是作者命题而非史料事实，正式引用须返回实际版次、页码与上下文",
+    "知识涌现报告中的命名、语义网络、枢纽与镜像链接等模型是P4推演，仅作语义路由，不得写成原著命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第6行：版权页确认This edition published in 2023、Laurence King Publishing（Quercus Editions Ltd、Hachette UK），首版2003、二版2010、本版2023",
+    "clean第129—135行：前言声明第三版新增六篇Global Inspiration、挑战美术史正典，修订源于2015年NEH暑期学院「Teaching the History of Modern Design: The Canon and Beyond」（主题：taste、gender、globalism）",
+    "clean第135—148行：de-centering术语与Huppatz「全球思考不需全球覆盖」引语；COVID-19、气候变化、社会正义纳入第三版；明确讨论white privilege与女性设计师",
+    "clean第165—186行：全书16章6部+每部后Global Inspiration插章的结构声明；第三版新增与替换插图声明",
+    "clean第828—871行：GI I中国与汉字文化圈——瓷器/丝绸/茶叶贸易、造纸印刷与分工工厂制（兵马俑）、d'Entrecolles信件工业间谍、Meissen 1708高岭土配方破解、纹章瓷文化混血",
+    "clean第1174—1181行：Ch3末种族维度——制度性奴隶制限制设计品流通、David Drake签名陶罐、Jim Crow、邮购目录「色盲」市场",
+    "clean第3227—3242行：GI III中非与西非——殖民掠夺与「原始」偏见、刚果象牙橡胶、跨大西洋奴隶贸易约2000万人估计",
+    "clean第6694—6704行：Part VI引言——COVID-19中设计师「contributed but did not own change」、21世纪民族主义/保护主义回潮、AI与HCI",
+    "clean第7798—7809、7986—8004行：第16章COVID小节（信息图表、Dyson呼吸机、CPAP潜水面罩改造、临时庇护所）与AI/智能产品小节（微芯片、Apple Watch、Ive与Dieter Rams）",
+    "clean第8199—8250行：GI VI重访中国——毛时代宣传画、改革开放、2008奥运与2010上海世博会中国馆、软实力框架、Uyghur强制劳动与iPhone供应链"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_id": "B0097",
+  "corpus": "book",
+  "folder_name": "Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》",
+  "material_type": "印刷实践者字体史、书籍史与印刷劳动制度史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》_clean.md",
+  "clean_source_sha256": "CCFB0580C0216C22BA9FA6EE0EE22B2E593EC9574FD4745164B062D6754A8E3C",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 200045
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.4",
+      "grade": "X",
+      "verification": "V2",
+      "role": "missing_visual_type_specimens"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "specimens_letters_law_and_books_as_sources"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "practitioner_preference_national_and_corpus_bias"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "apprenticeship_typefounding_and_printshop_knowledge"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "punch_matrix_type_composition_and_supervision"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "distributed_typographic_authorship"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "printer_typefounder_designer_and_professional_identity"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "crossnational_type_trade_and_regulation"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "morris_printing_and_labor_ideal_as_participant_history"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "type_reviving_book_unity_and_private_press"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "type_matrices_printers_and_revival_across_borders"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "clean文本严重错序并至少包含多段重复，不能据其行号推定原书连续页序。",
+    "367幅图版与原始字体样张在当前资产中不可见，全部视觉比较和可读性判断不准入。",
+    "当前资产实质为第二卷，不能用整体报告关于两卷全史的陈述冒充已读第一卷。",
+    "作者的旧体偏好、实践者利益、民族传统用语和1922年的欧美中心视角必须历史化。",
+    "末章最后把改善寄托于少数有判断力的个人，与其揭示的劳资、法规和资本结构存在张力。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1行即从Stereotype Office规则及正文中段开始；第2343行后才出现第二卷题名页，第7069、12034行附近又出现结束与索引，证明错序重复。",
+    "clean第2629—2670、2960—3013行：字冲、字模、铸字与跨境采购展示字体生产和所有权网络。",
+    "clean第4183—4202行：印刷与铸字逐渐分离，政治限制与进口变化影响行业组织。",
+    "clean第5989—6079行：Updike以参与者立场评价Morris、私人出版社、工人理想和书籍整体效果。",
+    "clean第6477—6701行：排字房字体选择与印刷商教育属于作者的当代规范主张。",
+    "clean第6788—6865行：分工、学徒、人数控制、低薪与罢工形成制度冲突。",
+    "clean第6948—7018行：外国工人、工资仲裁、审查、工时与女性行业记录构成劳动和国家权力线索。",
+    "clean第7033—7055行：作者最终把高质量归于少数印刷商的学问与意志，须同前述结构证据对读。"
+  ]
+}

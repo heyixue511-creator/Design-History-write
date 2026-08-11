@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0145,5.4,A,V2,appliance_streamlining,洗衣机、熨斗、打字机等家电与办公机器的流线型设计史：Maytag谱系（1922 Model 80→1930s）、Underwood流线型（1930s）、形态序列的历时分析,形态序列依据厂商广告与产品照片（Warshaw Collection等），为组织者话语；解读含Lupton分析,clean第355、385—427、672—712行,ACCEPTED_AS_CORE_SOURCE
+B0145,5.4,B,V2,telephone_design_history,电话工业设计史与性别营销：AT&T广告将女接线员塑造为人机情感界面；家庭电话从理性家务工具转向女性社交消费,广告图像可证再现策略；电话形态分析依据博物馆藏品照片，购买动机不可证,clean第468—489、515行,ACCEPTED_AS_CORE_SOURCE
+B0145,5.6,A,V2,scientific_management_office,泰勒科学管理于1910s—20s应用于办公室：文书劳动拆分、Larkin Building桌椅限制移动以提效、时间-动作研究推销L形桌（Deskey/Globe-Wernicke）,科学管理文本（Galloway 1919等）与Deskey目录为组织者话语，可证设计意图与供给,clean第767—771行,ACCEPTED_AS_CORE_SOURCE
+B0145,5.6,A,V2,housework_time_paradox,省力家电未减少非就业主妇家务时间：Vanek数据1920s每周52小时升至1960s中55小时；就业妻子26小时；Hochschild“第二班”,Vanek 1965—66全国调查为二手统计（Lupton转述）；广告“解放”话语与数据并置构成悖论，购买动机不可证,clean第327行,ACCEPTED_AS_CORE_SOURCE
+B0145,5.2,B,V2,female_consumer_as_purchasing_agent,已婚女性作为家庭首席购买代理人，是消费经济与工业设计的主要目标（Lippincott 1947“90%消费者为女性”）,Lippincott引文与广告证据可证供给端定位，不能证明女性实际购买决策,clean第175、195—199行,ACCEPTED_AS_CORE_SOURCE
+B0145,9.1,B,V2,consumer_economy_rise,19世纪美国消费经济兴起：1880s起工厂制成品进入家庭；广告与现代工业设计（1920s末自广告业诞生）以女性为首要对象,宏观史叙述为二手综合；广告证据为组织者话语,clean第195—199行,ACCEPTED_AS_CORE_SOURCE
+B0145,9.2,A,V2,appliance_efficiency_promise_labor,家电“省力/解放”承诺重新分配而非消除劳动：洗衣从商业洗衣房回退家庭、家务标准上升、女性个体消费者身份强化（Ebony 1967 Hoover广告）,Cowan/Schor归因与广告话语并置；“回退”论证为Lupton分析命题,clean第286—337行,ACCEPTED_AS_CORE_SOURCE
+B0145,9.3,A,V2,clerical_work_feminization,文书工作1890—1920年从男性转向女性主导（打字/速记女性占比60%→90%）；打字机作为无性别历史新技术充当女性进入办公室的楔子；“pin money”意识形态,职业比例数据为二手统计（Rotella等）；“楔子”命题为Lupton解释,clean第626、634行,ACCEPTED_AS_CORE_SOURCE
+B0145,9.3,A,V2,secretary_defined_by_gender_machines,秘书职业无绝对职责定义，默认由性别（女性）与其机器（打字机、电话）识别；女性作为男性思想与最终签名间的“技术管道”,Pringle《Secretaries Talk》转述与Royal广告图说；性别化定义为Lupton命题,clean第736、630、684行,ACCEPTED_AS_CORE_SOURCE
+B0145,9.5,B,V2,corporate_identity_gender_encoding,企业形象承载性别编码：AT&T“微笑之声”；George Nelson Executive Office Group（Herman Miller）以统一系统消解工厂联想并区分职务等级；IBM企业设计,公司宣传材料与设计史叙述为组织者话语，可证企业供给形象,clean第515、778行,ACCEPTED_AS_CORE_SOURCE
+B0145,12.6,A,V2,feminist_design_critique_stance,女性主义设计批评立场：作者自我命名“女性主义者”，以家务劳动、身体经验与性别知识位置重读设计史，将设计纳入“制造现代女性”的社会过程,立场声明与广告细读为Lupton命题，非中性事实,clean第185、327行,ACCEPTED_AS_CORE_SOURCE
+B0145,12.6,A,V2,mechanical_bride_commodity_fetishism,“机械新娘”双重指涉与商品/性拜物教整合：广告与设计放大商品心理价值；把技术当作自主进化的有机体是一种“技术拜物教”,Marx/Freud/McLuhan理论移植，为Lupton分析框架（命题）,clean第223、240行,ACCEPTED_AS_CORE_SOURCE
+B0145,0.6,B,V2,gendered_evidence_bias,证据偏差（性别）：商业表征中打字机等机器“常规由女性的手赋予生命”，女性劳动者形象主要保存在广告与营销档案（Warshaw/Ayer Collection）中,档案性质判断基于书中图像来源标注；为Lupton对再现体系的观察,clean第722、485行,ACCEPTED_AS_CORE_SOURCE
+B0145,0.4,B,V2,artifact_material_history,人工物史料：洗衣机（1922 Model 80→1939 Master）、熨斗（sad iron→Mrs. Potts→Steam-O-Matic→Lady Light）、打字机形态演变的图录式实物记录,实物为Cooper-Hewitt展览藏品，图录照片为史料中介；形态解读含Lupton分析,clean第355、385—427、672—697行,ACCEPTED_AS_CORE_SOURCE

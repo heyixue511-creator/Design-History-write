@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0008,4.7,A,V2,modernist_canon_actor,Loos作为现代主义正典行动者：《装饰与罪恶》等文本成为现代建筑与设计理论正典文献，其地位是文本事实,只能证明其文本地位与行动者主张，不能自动证明其对包豪斯等机构的实际因果影响,clean第1658—1677行核心公式,ACCEPTED_AS_ACTOR_SOURCE
+B0008,4.7,B,V2,canon_influence_claim,路斯思想经Pevsner、Giedion等战后史叙述正典化，并影响Le Corbusier与包豪斯功能主义导向,系分析报告二手判断，需独立接受史证据核验,packet 00_整体分析报告L6、L8,ACCEPTED_AS_ACTOR_SOURCE
+B0008,4.7,B,V2,canon_actor_self_positioning,路斯自我定位为发现者：“我们克服了装饰，我们挣扎着到达了无装饰”,行动者自我叙事，其“发现”宣称属修辞，影响力须由接受史独立证据支撑,clean第1678—1687行,ACCEPTED_AS_ACTOR_SOURCE
+B0008,4.1,A,V2,craft_education_critic,对奥地利应用艺术学校背离工艺、攀附纯艺术的批评，主张“革命必须来自底层——作坊”,证明Loos的批评主张，不证明学校实况；作为改革联盟前史的行动者立场,packet 01_我们的应用艺术学校分章报告,ACCEPTED_AS_ACTOR_SOURCE
+B0008,4.1,A,V2,english_modernity_model,以英国（伦敦）为中产阶级现代性标杆，对比法式宫廷传统，推崇英国实用导向工艺,行动者立场；其英国中心主义忽视殖民地条件系分析报告指出的局限,clean第4行目录；整体报告L3.5,ACCEPTED_AS_ACTOR_SOURCE
+B0008,2.5,A,V2,secession_critic,对维也纳分离派与青年风格的装饰批判：斥其以新装饰替换旧装饰、产品已被遗忘,证明Loos的反对主张，不能据此断定分离派实际性质,clean第2004、2028行；第235行,ACCEPTED_AS_ACTOR_SOURCE
+B0008,2.5,A,V2,decor_crime_thesis,“文化进化=去除实用物品装饰”；现代装饰“没有父母、没有后代”——装饰批判与唯美主义/新艺术议题的衔接命题,行动者核心主张，作为2.5装饰批判谱系的讨论对象而非结论,clean第1677行,ACCEPTED_AS_ACTOR_SOURCE
+B0008,0.2,A,V2,modernity_definition,现代性的规范性定义：素朴无装饰、个性强大无需面具、“我们有了取代装饰的艺术”,是行动者对现代性的规范主张，非对现代性事实的描述,clean第1677行及后续,ACCEPTED_AS_ACTOR_SOURCE
+B0008,0.2,B,V2,modernity_gender_bias,女性时尚被解释为“向男性感官的诉求”，装饰与女性化关联——现代性话语的性别维度,父权视角立场转述，作为现代性批判史料,clean第782—792行,ACCEPTED_AS_ACTOR_SOURCE
+B0008,0.5,A,V2,actor_text_evidence,本书为行动者文本汇编（P0）：23篇Loos原文+Masheck后记+注释，证据类型为行动者文本,编辑层（后记、导言、注释）与原文层须区分，不同报告不得视为独立来源,clean第2881行正文标题页,ACCEPTED_AS_ACTOR_SOURCE
+B0008,0.5,C,V2,editorial_layer,Masheck后记：1908/1909年代重订、Lombroso借用溯源、进化论语境化辩护、Ornament vs. Schmuck辨析,二手学术解读，可作研究参考，不作一手证据,clean第2426—2432、2516行,ACCEPTED_AS_ACTOR_SOURCE
+B0008,0.6,A,V2,evolutionary_discourse_bias,种族/进化论话语（巴布亚人、纹身与犯罪、Haeckel重演论）作为历史立场转述，用作证据偏差典型案例,仅证明Loos主张过该立场，不证明其科学性，不得作现代种族观依据,clean第1661、1670—1671行,ACCEPTED_AS_ACTOR_SOURCE
+B0008,0.6,B,V2,rhetoric_bias,新闻体反讽夸张（“毒死建筑师”、“纹身者未入狱即潜在罪犯”）不可按字面作事实或政策主张,修辞层与主张层须区分；Masheck亦指出其“绝非完全严肃”,clean第1671行,ACCEPTED_AS_ACTOR_SOURCE
+B0008,0.6,B,V2,translation_bias,英译本非德文原典，Ornament/Schmuck等语词辨析依赖译者与后记转述,翻译层损耗可能影响精确命题表述，术语争议须回查德文原典,clean全文为英文,ACCEPTED_AS_ACTOR_SOURCE
+B0008,0.6,X,V2,p4_knowledge_emergence,知识涌现模型（P4推演）仅作语义路由，不构成来源证据,不进入教材命题证据链，其命题未经本包原文核验,packet 知识涌现分析00—04文件,P4_SEMANTIC_ROUTING_ONLY

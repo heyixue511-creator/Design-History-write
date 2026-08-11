@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0175,0.3,A,V2,social_cultural_institutional_and_market_history,设计改革需把制度、劳动、市场、话语、空间和行动者能动性置于同一分析框架,英国个案不能自动外推为全球设计制度规律,与其他地区制度史、对象史和劳动史比较,ACCEPTED_AS_METHOD
+B0175,0.5,A,V2,archives_catalogues_ledgers_press_literature_and_worker_voice,官方档案、目录、账簿、报刊、文学和工人材料须按证据功能对位使用,虚构与讽刺证明话语参与，不直接证明行为；账簿样本不完整,逐项标明作者、体裁、受众、日期、位置和沉默,ACCEPTED_AS_SOURCE_METHOD
+B0175,0.6,A,V2,british_institution_worker_gender_empire_and_object_bias,英国制度中心、工人中介、性别不均、印度偏重和形式分析不足须进入审计,偏差审计不能替代缺失的地区与主体材料,补女性、家庭劳动、殖民地生产者、对象和地方研究,ACCEPTED_AS_EVIDENCE_AUDIT
+B0175,1.3,A,V2,drawing_copyright_originality_replication_and_control,课程、图样、机械复制、版权和设计注册共同重组构思、复制与控制关系,版权论战中的原创／盗版是行动者修辞，不等于可直接判定每件产品归属,补设计注册、样本、工序、企业和司法档案,ACCEPTED_WITH_AUTHORSHIP_FOLLOWUP
+B0175,1.5,A,V2,artisan_manufacturer_trader_consumer_and_state_actors,工匠、制造商、商人、消费者、教师和国家官员共同参与设计改革,行动者进入公共论战不说明其权力相等或代表全部群体,补工资、工场、成员、女性与地方行动者材料,ACCEPTED_AS_ACTOR_NETWORK
+B0175,1.6,A,V2,industrial_artist_design_reform_skill_and_taste_concepts,industrial artist、design reform、property of skill与taste等同期用语显示设计概念和角色竞争,这些术语不能直接翻译为成熟的现代设计师职业,补同期词典、课程、职位、协会和企业用语,ACCEPTED_AS_CONCEPT_HISTORY
+B0175,2.1,A,V2,great_exhibition_labour_print_culture_and_global_goods,1851年展览通过目录、周刊、图像与对象同时组织机械、手艺、劳动、帝国和公众观看,展览文本中的劳动可见性不等于工人处境改善或观众接受,补对象、制作、工人、发行、读者和观众材料,ACCEPTED_AS_CORE_SOURCE
+B0175,2.2,A,V2,design_school_museum_consumer_pedagogy_and_spatial_governance,设计学校、版权、博物馆、巡展和分馆构成从生产者训练到消费者教育的制度链,政策与开放时间不能证明教学、品味或社会改良效果,补课程、学生、预算、工业采用、访客与地方机构档案,ACCEPTED_AS_CORE_SOURCE
+B0175,2.3,B,V2,labour_skill_and_market_before_arts_crafts,技能产权、手艺理想、机器与工场争论构成拉斯金和莫里斯劳动批判的重要中期前史,本书不是Ruskin／Morris思想或工艺美术企业的核心研究,与B0383、B0318、B0070和B0133对读,ACCEPTED_AS_PREHISTORY
+B0175,2.4,A,V2,consumer_will_taste_pedagogy_market_and_public_dispute,消费者意志、品味规则、负面样本、商业账簿和公共争论说明消费教育如何介入市场,不等同于百货商店、广告和信用的完整机制，也不能证明消费者被成功塑造,补商店、目录、广告、价格、信用、家庭清单和消费者材料,ACCEPTED_AS_CORE_MECHANISM_WITH_RETAIL_GAP
+B0175,2.5,C,V2,ornamental_art_museum_and_taste_principles,装饰艺术博物馆、室内商品和品味规则可补充整体环境的制度前史,不系统处理唯美主义、新艺术或具体室内的设计生产与使用,补B0035、B0338、对象、室内和委托档案,CONTEXT_ONLY
+B0175,2.6,A,V2,imperial_goods_indian_labour_and_museum_classification,帝国物品、印度劳动、展览目录和博物馆分类把审美标准与贸易、劳动和帝国权力联系起来,英国改革者对印度／中国的评价不是来源社会事实，其他殖民地覆盖不足,补来源地生产者、贸易、征集、对象、翻译和地方档案,ACCEPTED_AS_CORE_SOURCE_WITH_COLONIAL_LIMITS
+B0175,2.7,A,V2,calico_copying_india_britain_trade_and_reproduction,棉布从印度产品到英国复制、机械量产、版权与再出口构成跨境选择和再生产链,不能把复制链写成单向欧洲吸收，也不能由英国档案替代印度生产者经验,补贸易、样本、印染工序、印度工匠、商人和消费地材料,ACCEPTED_AS_CORE_TRANSFER_CASE
+B0175,5.5,C,V2,early_design_school_administration_and_industrial_artist,设计学校、工业艺术家和艺术行政可作为20世纪工业设计职业制度化的前史,19世纪角色不能直接等同于20世纪工业设计职业,补职业组织、企业职位、合同、教育和统计,CONTEXT_ONLY_AS_PREHISTORY
+B0175,6.2,C,V2,china_at_exhibition_as_british_classificatory_discourse,关于中国产品和劳动的展览评论可用于审查英国如何分类晚清物品,这是外部凝视且常带浪费劳动判断，不能承担中国国货、生产或接受史,补晚清官档、商人、工匠、参展目录、报刊和回国传播,CONTEXT_ONLY_WITH_CHINA_P0_GAP
+B0175,15.6,C,V2,contested_museum_imperial_archive_and_labour_agency,对展览复合体、帝国档案和劳动者能动性的修正可作为去殖民设计史的方法论资源,本书不是当代去殖民设计实践、返还或共同治理研究,补来源社群、博物馆治理、返还、共同策展和当代研究,CONTEXT_ONLY_AS_HISTORIOGRAPHY

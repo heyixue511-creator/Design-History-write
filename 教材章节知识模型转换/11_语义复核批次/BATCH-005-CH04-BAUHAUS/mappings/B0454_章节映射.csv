@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0454,4.6,A,V2,plurality_of_pedagogy,"“包豪斯教学法”非单一实体：以Dexel批判“包豪斯风格”为方法论原型，主张教学法形态与教师等量（“What the masters do, they teach”）",为Wick的解释框架而非可直接验证的史实，引用时须分层处理,clean第246—250行、第1457行,ACCEPTED_AS_CORE_SOURCE
+B0454,4.2,A,V2,vorkurs_founding_1920,预备课程由Itten于1919年10月引入、1920年董事会决议必修化，是教学法脊梁但绝非其全体,课程制度为史实；“脊梁但非全体”为Wick判断（针对Banham化约）,packet Ch5-6,ACCEPTED_AS_CORE_SOURCE
+B0454,4.2,A,V2,vorkurs_three_transformations,Vorkurs由Itten的个性解放/精神训练，经Moholy的感官系统化（触觉/光学练习），到Albers的材料经济/建构思维，经历根本转型,三位教师个案章互证，附学生作业图版与Moholy引文,clean第2843-2957行、第3414-3527行,ACCEPTED_AS_CORE_SOURCE
+B0454,4.6,A,V2,pedagogy_selective_survival,教学法被选择性保存：Itten内容渗入德国普通与职业学校（含秘密课程）而Albers原则罕被采纳、Moholy几乎未被采纳；北美只移植预备课程形式、面向单一专业,接受史主张（Stelzer论点+Grawe结论），部分不可独立验证,clean第1841行、第6883行、第2289行,ACCEPTED_AS_CORE_SOURCE
+B0454,4.6,B,V2,grundlehre_institutionalization,Grundlehre在德绍时期制度化（1925课程表：基础实践+基础形式教学），战后经包豪斯成员延续至乌尔姆HfG等（Grundlehre 1953-55）,1925课程与乌尔姆承接为制度史实,clean第1251—1283行、第6540行,ACCEPTED_AS_CORE_SOURCE
+B0454,4.3,B,V2,turn_1923,1923转向：“艺术与技术——新的统一”口号，Vorkurs从Itten交接至Moholy，作者将其解释为历史必然而非背叛,Ch3分期+Ch5-6个案；转向性质评价属Wick解释框架,clean第680、783行,ACCEPTED_AS_CORE_SOURCE
+B0454,4.7,A,V2,diaspora_north_america,包豪斯教学法在北美：Gropius（哈佛）、Albers（黑山学院/耶鲁）、Moholy（芝加哥新包豪斯/设计学院）各自的改造与变异，第二代人（Beckmann、Bredendieck、Dearstyne等）延续基础课,Ch13（Grawe撰）据1998博士论文压缩，须与其他包豪斯通史（B0182/B0282）互核,clean第6636-6883行,ACCEPTED_AS_CORE_SOURCE
+B0454,4.7,B,V2,reception_germany,德国接受史：魏玛共和国时期论争、第三帝国压制、二战后联邦德国与民主德国对包豪斯教学法的不同评价与延续,Wick自承德国接受史仅为“粗略草图”，引用须标注此限定,clean第6066-6338行,ACCEPTED_AS_CORE_SOURCE
+B0454,4.2,B,V2,vkhutemas_parallel,俄国Vkhutemas基础部（两年制、三循环）与包豪斯预备课程平行但更长更偏学校化,基础部组织结构为史实；“平行”比较属Wick分析，直接观念交流（Bähr）仅为推测,clean第1111行,ACCEPTED_AS_CORE_SOURCE
+B0454,0.5,B,V2,evidence_types,证据类型：一手文献（Gropius纲领、Itten日记/辞呈、Klee Pädagogischer Nachlaß课程手稿、Schlemmer书信）+Bauhaus-Archiv档案+学生回忆+期刊（bauhaus杂志、Bauhausbücher）,档案与回忆类证据行号需逐条回clean文本核实,clean第4689行、第3478-3484行,ACCEPTED_AS_CORE_SOURCE
+B0454,0.6,B,V2,source_bias_limits,证据偏差自省：自限必修课而排除工作坊教学；排除Grunow；对Cizek影响、Klee受聘原因明言无法定论,未定论处不得升级,clean第1459-1470行、第1904行,ACCEPTED_AS_CORE_SOURCE
+B0454,0.6,B,V2,effect_evaluation_layering,教学成效评价须区分主张与证据：对Meyer肯定其科学化贡献同时指出其造成的解体进程，对Mies批评其教学方法；多数成效判断系当时人或后世评价转述,引用时须标注评价主体与转述链条,clean第1426-1455行,ACCEPTED_AS_CORE_SOURCE

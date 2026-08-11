@@ -1,0 +1,127 @@
+{
+  "source_id": "B0500",
+  "corpus": "book",
+  "folder_name": "沈榆：《观念的演进：中国现代设计史》，2021",
+  "material_type": "中国现代设计史专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\沈榆：《观念的演进：中国现代设计史》，2021_clean.md",
+  "clean_source_sha256": "1AAF9E7D1D572006D4E81B61C85A74E92E948EB13355ADC819FACBD5556ACD82",
+  "duplicate_group": "与B0485/B0472/B0493等共享中国设计史对象（图案教育、雷圭元/庞薰琹/陈之佛、月份牌、包豪斯影响等）；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 17,
+      "report_characters": 62201
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "late_qing_industry_and_national_goods"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_idea_transfer_via_products"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "expo_and_design_transfer"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "national_brands_and_national_goods"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "low_industrialization_strategy"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "shanghai_urban_consumer_culture"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "film_and_mass_entertainment"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "modernity_of_chinese_design"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "designers_personality_modernity"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "pre_history_of_concept"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "pattern_education_system"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "visual_public_sphere_advertising"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "national_form_vs_modern_form"
+    },
+    {
+      "section_id": "10.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "new_china_design_institution"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "作者自承“断简残篇”，史料线索碎片化，系统性理论建构不足",
+    "个案性与经验性强，部分叙述依赖作者个人亲历（如后期参与《实用美术》编辑）",
+    "“概念”与“观念”之辨析作者自认存在张力",
+    "部分议题（如设计刊物）因容量所限未充分展开",
+    "参考文献部分为延伸阅读书目介绍而非严格学术引用",
+    "月份牌等个案依赖后人回忆转述（如杭鸣时回忆杭穉英）与二手转引，口述史料可靠性需交叉验证",
+    "中国设计“观念演进”分期（源流→释放→延续→重建→更新→拓展→复杂思维）为作者建构的叙述框架，非档案史实本身",
+    "知识涌现分析（知识元语意分析、语义链接网络、涌现计算）属P4模型推演，仅作语义路由参考，不作事实证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第6行：序言——晚清洋务运动重商思想、康有为“以工立国”、实业救国；谷春帆/顾毓线/简贯三工业化观、潘光旦与刘绪贻之争、1991年两次工业设计研讨会、曾忠锵上海八条建议",
+    "clean第25—26行：第一章第一节“国际技术、产品转移中设计观念的渗透”——“工业产品成为设计观念的载体”，观念随技术/产品转移而传播",
+    "clean第28—29行：一战前德国影响——1898年德国侵占青岛、1903年台柳路、1913年谭延闿湖南军路局、1936年中国汽车制造公司（株洲）、容克飞机",
+    "clean第34—37行：第二章第二节“关于图案的思想资源”——1902年张之洞三江师范学堂、夏燕靖图案教育三类分型、雷圭元/陈之佛图案观、“广义图案=艺术设计，狭义=纹样”、1925年巴黎博览会、包豪斯、黄作燊",
+    "clean第40行：第三章第一节“民国工业化思想”——鸦片战争至《实业计划》谱系；老品牌（金龙牌热水瓶、无敌牌缝纫机、百雀羚、双妹、永丰泰国货号、华生电扇）；1929年费城世博会、1904年广生行路易斯安那世博会；杭穉英、郑曼陀月份牌",
+    "clean第54行：低度工业化三论评析（方显廷、丁趾祥、高叔康）——“设计的加入使得形成产品的各种要素能够在一定程度上取得综合性的平衡”",
+    "clean第59行：月份牌广告与女性形象现代性（放脚、旗袍、李欧梵《摩登上海》、云裳时装、张光宇广告摄影术）及“中性人格”概念提出",
+    "clean第74行：市民文化与电影/流行音乐（周璇《何日君再来》、李香兰《夜来香》）、“市民文化形成过程中现代性的真实写照”"
+  ]
+}

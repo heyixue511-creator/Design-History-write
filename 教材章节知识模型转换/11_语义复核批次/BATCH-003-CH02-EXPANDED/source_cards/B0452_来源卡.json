@@ -1,0 +1,143 @@
+{
+  "source_id": "B0452",
+  "corpus": "book",
+  "folder_name": "Wichmann：《Japonisme the Japanese influence on Western art since 1858》",
+  "material_type": "大型图录式专题研究：1105幅插图（243幅彩色）按“遗传学原则”并置，兼具展览图录与学术专著双重属性",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Wichmann：《Japonisme the Japanese influence on Western art since 1858》.md",
+  "clean_source_sha256": "A8C7E90539B0E64616C0C82E250A65BF13C496B12B82D3B71E9ECF2B34048796",
+  "duplicate_group": "与B0035（唯美主义日本趣味）、B0006（Liberty日本商品）、B0450（工艺美术运动）在共享对象上重叠：和服与织物、染型纸katagami、刀镡与梳饰、陶瓷与博览会器物；同一批博览会对象、收藏家（龚古尔、Burty、Hayashi）与拍卖记录可能被多源重复引用，须以档案/目录原始记录仲裁",
+  "files": [
+    {
+      "report_file_count": 19,
+      "report_characters": 85844
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "reception_network_evidence"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exhibition_channels"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "intermediary_actors"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "stencil_object_trade"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "selection_and_misreading"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_nouveau_borrowing"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "kimono_fashion_chain"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "exhibition_marketplace"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "device_and_network_organisation"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "visual_archival_composite"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "absence_of_japanese_agency"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "diffusion_model_specimen"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "modernism_origin_narrative"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "objects_as_evidence"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "craft_material_systems"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "museum_acquisition_node"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "单向“影响”叙事框架：全书主线是“日本→西方”的因果链，日本生产者、出口商与本土分类系统基本缺席，日方主体性未获考察",
+    "图像并置法依赖视觉相似性，部分“风格相似=影响”对应缺乏文献直接证据，作者也承认难以设定接触的精确日期",
+    "欧洲中心视角：作者自认不涉足汉学/日本学，欧洲收藏与文献中的分类不能当作日本社会自我分类使用",
+    "部分小节（器物、动植物诸节）近乎图注汇编，论述密度不均，证据等级参差",
+    "把塔希主义/抽象表现主义直接溯源于书法属作者因果命题，作者亦承认欧洲画家未遵从东方书法门派规则，不能作为定论引用",
+    "书名时间锚“1858”与正文史实“1854年3月31日开港”及封底不一致，引用时须注明",
+    "1970年代成书，未及吸收其后更精细的日本主义史料研究与贸易史档案，贸易链证据（如“katagami可出售”仅见于注释）整体薄弱",
+    "知识涌现报告中的命名、网络、枢纽、涌现命题等模型系P4推演，只作语义路由，不得写成原著命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第203行：作者命题——Japonisme与中国热联系被低估；日本主义不限于绘画、与应用艺术纽带更强",
+    "clean第207行：“Japonisme is not a style”核心定义，声明其非风格、非时段概念",
+    "clean第217行：正文史实——1854年3月31日佩里开港，1855-56年与俄英美法荷缔约；与书名“1858”及封底不一致",
+    "clean第227行：1862伦敦、1876/1878/1889巴黎展中日同获佳绩；艺术家在应用艺术上几乎不区分日本与中国——“混同吸收”证据",
+    "clean第229行：以陶艺家Deck 1862年起研习中国珐琅并于1878年获大奖，反驳“日本主义起初只是异国情调”说",
+    "clean第257行：1890年代日本艺术贸易从私下转向公开市场；Burty(1891)、Goncourt(1897)、Hayashi(1902)拍卖；Durand-Ruel 1893年浮世绘展",
+    "clean第277-281行：1972慕尼黑展渊源；按题材—手段而非艺术家组织全书的理由；“只有通过异国刺激的转化（transmutation）才发展出技法”",
+    "clean第457行：和服个案结论——打动艺术家与穿着者的不是和服剪裁而是“精染色织与不对称图案”",
+    "clean第5512行：1873年维也纳博览会奥地利博物馆购入数千张katagami，影响维也纳分离派与维也纳工坊",
+    "clean第9389行：博览会上人们“不仅观看研究，还购买日本与中国艺术品，或促请机构购入”——博览会兼作贸易场所",
+    "clean第11136-11140行：Tachism/Art autre/informel术语史（Geoffroy、Tapié、Paulhan圈）；作者称informel与塔希主义“受东方方法相当刺激但偏离甚远”",
+    "clean第1330行：梵高1886年致提奥信“在某种意义上我全部作品都奠基于日本艺术”——本书影响叙事的直接文献支柱之一"
+  ]
+}

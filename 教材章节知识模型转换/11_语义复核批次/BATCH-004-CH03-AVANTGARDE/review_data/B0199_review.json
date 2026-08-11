@@ -1,0 +1,59 @@
+{
+  "source_id": "B0199",
+  "title": "Picture This: World War I Posters and Visual Culture",
+  "author": "Pearl James (ed.)",
+  "version": "University of Nebraska Press, 2009（'Studies in War, Society, and the Military'丛书；ISBN 978-0-8032-2610-4 pbk.）",
+  "type": "跨学科论文集（edited volume）：11位学者（历史学、文学、艺术史、美国研究）对一战海报的语境化、跨国比较研究，含绪论、11章、尾声与参考文献",
+  "scope": "英国、法国、德国、俄罗斯、美国五国参战国的一战海报（1914—1918），并延伸至战后记忆与再挪用（至1940年代及当代），史料覆盖生产、流通、展示与接受全过程",
+  "duplicate_group": "DUP0001：与B0343为同一文本精确哈希重复，只计一个独立书目实体；与B0007蒙太奇、B0220海报史共享海报对象（如基钦纳海报、鲁波克、ROSTA）时只计一份P0，不重复计证",
+  "summary": "Pearl James主编的跨学科论文集，系统分析英、法、德、俄、美五国一战海报的生产、流通、展示与接受。全书三部分：第一部分跨国比较（“匈人”敌人形象的跨国建构与种族化，英德骑士图像学的根本意义差异，德美“回归vs进步”叙事对立）；第二部分民族身份的视觉建构（法国女学生海报与“法兰西种族”美学、法兰西殖民帝国图像、非裔美国人“种族骄傲”海报、俄罗斯先锋派挪用鲁波克界定“俄罗斯性”）；第三部分战争中的身体（美国海报女性气质的五重类型与矛盾性、英国招募海报男性气质从荣誉转向羞耻胁迫、受伤士兵身体的三重建构）。方法论核心：语境化阅读（图像学证据孤立解读会误导）、Mitchell“图像/图片”区分、海报“雅努斯面孔”（现代性与传统的悖论）、严格区分宣传目标与结果、Marchand“扭曲的镜子”警示。本书自认海报处于“证据的暮光地带”：既是全面战争动员平民、建构“后方”的关键媒介（可证组织者的宣传意图与视觉方案），又不能单独证明观众接受或动员效果。对教材3.1（战争、都市与大众动员）为核心来源；第8章为3.2（未来主义战争政治）提供俄罗斯先锋派案例；0.4/0.5/0.6为海报史料的直接方法示范。",
+  "strengths": [
+    "系统跨国比较框架（英德法俄美五国），以“同一图像学承载根本不同意义”示范比较阅读，直接支撑3.1战争动员与大众传播议题",
+    "方法论纲领明确且全书一致：语境化阅读、Mitchell图像/图片区分、反对让图像“自行言说”",
+    "档案基础扎实：胡佛研究所、帝国战争博物馆、国会图书馆等图像档案与PRC、USFA、CPI政府档案交叉使用，可重建海报生产—分发—展示链",
+    "证据自觉突出：明确“海报运动目标≠结果”、Marchand“扭曲的镜子”，为0.6证据偏差与缺席者教学提供可直接引用的表述",
+    "覆盖性别、种族、帝国、儿童、残疾等多维分析，案例密度高，图像细读与历史语境结合",
+    "提供“海报作为史料”的完整操作示范：从物质性（picture）到图像性（image）、从档案馆收藏到观众实践（USFA女性“双重生活”）",
+    "关键引文在clean原文可逐行定位验证，绪论转述与各章正文相互印证，复核可及性好"
+  ],
+  "limits": [
+    "论文集性质：各章方法、证据密度不均，俄罗斯仅一章，澳大利亚、意大利等参战国缺席，跨国覆盖面有限",
+    "接受证据总体薄弱：本书自认无法精确测量海报接受与效果；观众侧证据依赖档案幸存材料（USFA回信、报刊评论），样本偏斜",
+    "图像细读须区分作者解读与可证内容：如“Amazon Warrior是穿女装的男人”“遇难少女否认男性脆弱”为James的阐释命题，非图像本身可证事实",
+    "战争宣传材料（匈人形象、暴行叙事、招募话语）均为组织者/宣传者话语，转述时必须标注话语身份；部分效果性引文出自广告业行业自述，不能当作客观效果证据",
+    "结构性判断存在方法论争议：Winter“海报反映而非制造共识”与Albrinck“海报作为强制工具”对立，主编有意保留张力，教材引用须注明立场双方",
+    "部分有效性论证是推断性的：第4章以战后自由市场广告延续反推战时策略“有效性”，属长时段推断而非直接证据",
+    "成书于2009年，数字档案与在线海报图像仅提及而未系统利用，0.5“数字痕迹”关联有限",
+    "知识涌现分析（P4模型）为推演性语义路由，仅作映射参考，不构成独立证据"
+  ],
+  "checks": [
+    "clean第270行：绪论——“It was in part by looking at posters that citizens learned to see themselves as members of the home front”（海报建构后方的核心命题；结合266行“first total war”）",
+    "clean第272行：绪论——“These Janus-faced images look back to nineteenth-century empires and forward to modern bureaucratic nation-states”（雅努斯面孔），并含都市公共空间“arena of signs”论述",
+    "clean第314行：绪论——“Posters belong to something of a twilight zone of evidence”（证据的暮光地带）",
+    "clean第327行：绪论转述Goebel——“the same iconography carried fundamentally different meanings”与“Iconographic evidence examined in isolation can be misleading”",
+    "clean第339行：绪论转述Albrinck——海报应读作“proposed arguments for patriotic behavior”而非接受证据（与2587行第10章正文互证）",
+    "clean第474行：第1章Winter正文——“In wartime, images overwhelm words”",
+    "clean第700行：第2章Gullace——距战场越远（澳大利亚、美国）海报暴力渲染越强，英国“tended to be tamer”",
+    "clean第786行：第3章Goebel章首——同一骑士图像学在英德承载根本不同意义；907行结语",
+    "clean第2119行：第8章Nedd——“as soon as we retreated from Galicia, the lubki became reserved and then grew silent”（加利西亚撤退后鲁波克海报失宠；2026行Hobsbawm“invented traditions”为理论锚点）",
+    "clean第2423行：第9章James——“The multiplicity and contradictoriness of the posters have a surplus effect that is liberating for women”（与2291行、2368行USFA女性“not only viewers but also distributors, exhibitors, and makers”互证）"
+  ],
+  "maps": [
+    ["3.1", "A", "posters_as_home_front_mobilization", "一战海报是全面战争动员平民、建构“后方”的关键媒介：公民通过观看海报学会把自己视为后方一员；海报“民族化、动员化、现代化”了平民人口", "可证组织者的动员意图与视觉方案；“学会看到自己”是作者论证，观众接受程度不可单独由海报证明", "clean 266-270（绪论）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.1", "A", "total_war_poster_sign_instrument", "大众化生产、全彩、大幅面战争海报同时是战争创新的“标志”与“工具”，构成现代大众传播与总体战的交汇点；海报被称为“海报战争”（the poster war）", "政府、慈善与私人机构均视海报为关键传播环节；但效果性引文出自广告业自述（Poster Advertising Association刊物），须标注话语身份", "clean 270、276、280（绪论）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.1", "A", "enemy_image_distance_violence", "敌人形象（“匈人”、大猩猩等）的跨国视觉建构是大众动员的核心策略；距离战场越远（澳/美）暴力渲染越强，文化破坏（鲁汶、兰斯）成为宣传主题", "“暴力强度差异”是Gullace对图像模式的归纳；敌人形象材料为组织者话语，不可转述为事实；不证明图像对观众的实际影响", "clean 700-702（第2章）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.1", "A", "gendered_mobilization_rhetoric", "海报以性别化修辞动员：美国女性形象五重类型（寓言女神/遇难少女/商品化/家庭消费者/穿制服女工）与英国男性气质“荣誉→羞耻胁迫”演变服务于招募与后方动员", "五类型与“三类男人”是作者类型学解读；PRC招募目标属组织者意图，是否被接受需其他证据", "clean 2423、2587（第9、10章）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.4", "A", "poster_image_picture_duality", "海报作为史料具有双重性：作为“图片”（picture，可烧毁/悬挂的物质对象）与“图像”（image，可复制、挪用、存续的视觉内容），处于“证据的暮光地带”", "Mitchell区分是分析工具而非史料本身；海报可证生产、流通、展示安排，不能单独证接受", "clean 314", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.4", "A", "poster_archive_provenance", "海报作为人工物被档案馆系统保存（胡佛研究所、帝国战争博物馆、国会图书馆、Schomburg中心等），其收藏与编目即史料化过程；帝国战争博物馆为最早系统收藏者", "档案馆名单出自致谢与插图注记，“最早系统收藏”为作者陈述", "clean 248（致谢）、276（收藏与在线发布）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.5", "A", "contextual_reading_method", "图像史料必须置于话语语境（书面宣传、公共演讲、报刊、明信片、私人信件、公共仪式）中解读；孤立图像学证据会误导；反对海报图像“自行言说”", "方法论主张（Goebel表述、James全书承诺），非对单张海报的经验结论；各章做法示范了该方法的操作", "clean 327、335（绪论）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.5", "A", "government_archive_reconstruction", "政府档案（英国PRC分发数据：近1200万份海报、3400万份传单；美国USFA档案、CPI记录）与图像档案交叉使用，可重建海报生产—分发—展示的完整链条", "档案可证生产分发规模与组织流程；分发量不等于接受效果（本书明确此边界）", "clean 2368（USFA女性网络）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.6", "A", "propaganda_goal_vs_result", "必须区分海报运动的目标与结果：海报是“爱国行为的建议论证”，不是观众已接受这些论证的证据；志愿招募下降与1916年征兵制即为反证", "核心证据边界：组织者意图（可证）≠观众接受（不可单独由海报证）；此条在绪论与第10章正文双重出现", "clean 339、2587（proposed arguments）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.6", "A", "poster_distorting_mirror_evidence", "海报像Marchand所谓“扭曲的镜子”（Zerrspeigel）：折射公众愿望而非现实、美化与省略战争暴力；恰因此成为“人们如何想象战争”的证据，而非战争实况的记录", "虚构化歪曲不使海报失去史料价值，但须按“愿望影像”读；“海报没有展示战争的人力代价”（绪论）即其后果", "clean 377（Zerrspeigel）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.6", "A", "poster_audience_reception_limits", "观众研究边界：USFA女性既是海报观众又是发行者、展示者、制作者（“双重生活”），是少见的接受侧证据；大多数海报的观众反应不可考，须承认证据缺口", "USFA回信与报告可证女性参与实践；“3500多人参观”类数字来自组织者自报，属宣传档案而非独立测量", "clean 2368（Home Demonstration Agents）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.2", "B", "futurist_war_poster_engagement", "俄罗斯未来主义诗人马雅可夫斯基与先锋派艺术家（马列维奇、冈察洛娃、拉里奥诺夫）为“今日鲁波克”出版社创作爱国海报（1914年8月—1915年初），将怪诞现实主义与民间形式挪用服务于帝国战争宣传——未来主义“战争政治”的直接案例", "本书非未来主义运动专论；可证先锋派参与战争宣传的事实与形式；“政治悖论”“被发明的传统”为Nedd的阐释框架", "clean 2026、2080、2119（第8章）", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["3.2", "B", "avantgarde_invented_tradition", "先锋派挪用民间艺术（鲁波克）界定“俄罗斯性”属Hobsbawm“被发明的传统”：宣称的“回归本源”实为现代建构（鲁波克系16世纪由德国商人引入）；从沙皇象征到“快活农民”的象征转移见证民族身份重构", "马列维奇致马秋申书信显示先锋派对“人民”的精英想象，不可当作人民声音；“俄罗斯性”论述是作者分析", "clean 2026（invented traditions）", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["3.3", "C", "vernacular_appropriation_text_image", "战时海报对民间视觉形式（鲁波克、巴黎女学生儿童画）的挪用与图文协作（马雅可夫斯基文字+马列维奇图像）可作为达达/蒙太奇讨论的背景对照：民间/儿童形式如何被征用为战时视觉语言", "本书无照片蒙太奇、无达达社团实践案例；仅形式挪用与图文组合的间接参照，不提供3.3核心证据", "clean 2080（马雅可夫斯基文本与图像互动）", "ACCEPTED_AS_CONTEXT_ONLY"],
+    ["3.4", "C", "lubok_rostra_lineage", "鲁波克海报形式在十月革命后被ROSTA窗海报承继（TASS于1940年代复兴），构成“民间形式→革命宣传”线索，与构成主义从绘画转向宣传的语境相邻", "本书仅一笔带过ROSTA/TASS承继，无构成主义理论内容；只作线索性参照，不作3.4证据", "第8章报告遗产部分（clean 2119邻近段落）", "ACCEPTED_AS_CONTEXT_ONLY"],
+    ["2.4", "B", "advertising_poster_prehistory", "一战海报继承19世纪广告传统：石版（Senefelder）→彩色石印（Engelmann）→法国海报“黄金时代”（Chéret）→1890年代伦敦户外广告争议→广告业标准化与政府战时合作，海报作为“现代消费者的塑造者”的媒介前史", "媒介史为作者综述（Weill/Rickards）；“行业借助战争确立合法性”引文出自广告业行业刊物自述", "clean 278-280（绪论媒介史）", "ACCEPTED_AS_SUPPORTING_SOURCE"]
+  ]
+}

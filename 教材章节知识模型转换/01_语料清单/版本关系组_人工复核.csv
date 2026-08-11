@@ -1,0 +1,6 @@
+﻿version_group,intellectual_work,canonical_source_id,alias_source_id,relationship,counting_rule,verification_note
+VGRP001,"Global Design History, edited by Adamson, Riello and Teasley, Routledge 2011",B0005,B0170,同一版次同一著作的不同转换资产；B0005保留分页，B0170偏连续文本与图像引用,只计一个独立书目实体；B0170仅作OCR互校,题名页、编者、出版社、年份一致；文件SHA不同
+VGRP002,"Adrian Forty, Objects of Desire, 1986",B0328,B0157,同一著作的Thames & Hudson英国版与Pantheon美国版／不同数字化转换,知识论证只计一个实体；逐字引文按实际版次单独核页,题名与正文同一；版权页和版式不同；文件SHA不同
+VGRP003-PARTIAL,"John Heskett, Industrial Design, 1980：The 'American System' and Mass-Production chapter",B0225,B0084,B0084阅读材料8重印B0225第三章的实质正文；B0084其余选文属于不同论文与未刊稿,重合章节在命题层只计一次；B0084整本文选仍是独立书目实体,Reader编者导言明确说明该章选自Industrial Design且clean文本对应段落一致但有编辑与OCR差异
+VGRP004-TRANSLATION,"David Raizman, History of Modern Design, 2010 Second Edition",B0101,B0478,2010英文第二版与2013中国人民大学出版社中文第二版译本；语言、版式和OCR不同,相同章节与命题只计一个独立书目实体；逐字引文分别按英文版或中译本核页,两者题名页均指向2010第二版内容；B0478版权页为2013年中文第2版，尚待逐章差异审计
+VGRP005-EDITION,"David Raizman, History of Modern Design, 2010 Second Edition / 2023 Revised Edition",B0102,B0101,2023修订版继承并更新2010第二版；不是独立著作，也不是完全相同文本,未变命题只计一次；2023新增或实质修订内容须标明版次后单独计证,2023版权页列2003初版、2010第二版、2023本版；目录新增Global Inspiration等内容，尚待逐章版本差异审计

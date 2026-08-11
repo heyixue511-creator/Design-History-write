@@ -1,0 +1,123 @@
+{
+  "source_id": "B0066",
+  "corpus": "book",
+  "folder_name": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+  "material_type": "工业设计职业史（先驱者集体传记编年史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Carroll Gantz：《Founders of American Industrial Design》，2014_clean.md",
+  "clean_source_sha256": "1C238C3FA1A00063AB39A5AA5E32DA4B91F268C8A6AAE56C595C5847A7C96C41",
+  "duplicate_group": "与B0206、B0205、B0186共享美国设计职业对象；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 40,
+      "report_characters": 901204
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "fortune_1934_profession_naming"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "professional_association_lineage"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_education_institutionalization"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "depression_sales_engineering"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "sales_appeal_standard"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "planned_obsolescence"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "streamlining_media_transfer"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exposition_media_stage"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "future_vision_media"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_ethics_controversy"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "museum_vs_market"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "insider_bias_disclosure"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "idosa_archive_reliance"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "作者为业内人/前IDSA主席，持美国实践优先、反MoMA精英主义立场，属证据规则中的业内视角，须与档案材料及学术设计史（Pulos、Meikle、Flinchum）并置使用",
+    "“实践vs理论”二元对立存在简化风险，忽略美国设计自身的精英主义（SID排他性入会标准）与欧洲设计中的商业实践",
+    "以销量增长百分比为“成功”的唯一评价标准，忽略设计的文化、社会与环境维度（Papanek 1972批判被部分承认但最终回归商业主义）",
+    "名人偏重：叙事重心仍极度集中于Teague/Loewy/Dreyfuss/Bel Geddes四大明星",
+    "女性与种族维度缺失：Belle Kogan、Helen Dryden、Ann Swainson等女性先驱篇幅远少于男性，非洲裔设计师Charles Harrison仅在全书末尾数页被提及",
+    "美国中心视角：包豪斯关闭后欧洲设计几乎从叙事中消失，直到1950年代才以“竞争”形式回归",
+    "结构前重后轻：1930年代（Ch1-7）叙事密集，1950年代后（Ch11-14）明显压缩，后半部接近“设计师讣告汇编”",
+    "知识涌现模型为P4推演：本包中“知识涌现分析”部分属模型推演产物，仅作语义路由参考，不作史实证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1281—1283行：1934年2月Fortune发表九页专文，首次在流行媒体使用“industrial design”一词（取代“industrial art”）；“Both Fish and Fowl”意指设计师既是艺术家又是商人",
+    "clean第1288—1289行：Fortune文章匿名发表，现知作者为建筑师George Nelson（26岁，1932年罗马奖得主）",
+    "clean第1301行：文章引用Sprague——“制造商未能通过新产品设计开辟额外需求是萧条持续的主因”，即销售工程的论证起点",
+    "clean第1302行：Nelson核心论点——效用与价格相同的两产品，外观更吸引购买者者胜出，此即“销售吸引力”标准",
+    "clean第1308—1314行：Bel Geddes的SGE炉灶案例——2周期限、$50,000预付版税、300页研究报告、组件由数百减至16，验证收费模式与设计方法论",
+    "clean第2681—2691行：1944年2月7日15位设计师会商组建新组织，将工业设计师定义为“成功为机器与大规模生产设计多种产品者”，SID由此成立",
+    "clean第2692—2699行：SID首届官员为Teague（主席）、Dreyfuss（副主席）、Loewy等",
+    "clean第2583行（Dohner）；clean第2626—2628行（ADI教育大纲）：职业形成伴随教育制度化——Carnegie Tech首设工业设计学位（1934），ADI 1944年发布四年制教育大纲",
+    "clean第1271—1281行（萧条背景）：1933年谷底制造商转向以新外观刺激消费",
+    "clean第1147行（芝加哥博览会展示）：流线型集中展示与工业设计师公共身份确立的媒介事件"
+  ]
+}

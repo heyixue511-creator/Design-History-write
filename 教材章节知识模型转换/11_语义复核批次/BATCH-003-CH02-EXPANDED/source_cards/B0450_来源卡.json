@@ -1,0 +1,169 @@
+{
+  "source_id": "B0450",
+  "corpus": "book",
+  "folder_name": "Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》",
+  "material_type": "欧美工艺美术运动跨国展览图录与比较史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》_clean.md",
+  "clean_source_sha256": "A38CEBBA8D02398C54126A83E2E1E6EF8D73C3B0339AD26FD28C807BB0ABE0D6",
+  "duplicate_group": "跨国工艺美术组：与英国工艺美术、Werkbund、维也纳、新艺术及美国专史共享行动者与展品；同一Morris／Ruskin文本和对象只计一次",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 144048
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "arts_crafts_as_multiple_modernity_strategies_and_endings"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "three_theme_by_local_translation_comparative_matrix"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "exhibition_objects_checklist_material_and_provenance"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "notes_checklist_periodicals_archives_and_multilingual_sources"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "curatorial_regional_gender_class_labour_and_colonial_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "selective_reception_translation_and_asymmetric_network"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "making_process_design_execution_and_standardization"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "workshops_firms_amateurs_students_women_and_distributed_authorship"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "movement_not_style_design_reform_and_local_terms"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "hand_machine_workshop_factory_and_regional_hybrid_production"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "museums_schools_societies_and_state_reform"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "arts_crafts_labour_ethics_machine_market_and_price_tensions"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "shops_exhibitions_periodicals_and_market_mediation"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "art_and_life_total_environment_and_regional_variants"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "X",
+      "verification": "V2",
+      "role": "euro_american_catalogue_without_colonial_experience"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "publications_exhibitions_travel_commerce_government_and_local_remaking"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "werkbund_aeg_standardization_and_wiener_werkstatte_prehistory"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_schools_workshops_and_production_education_prehistory"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "replicable_societies_workshops_exhibitions_and_publications"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "people_publications_and_cranbrook_transfer_prehistory"
+    },
+    {
+      "section_id": "12.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "women_home_industries_charity_profession_and_class"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "标题中的Europe & America不能扩展为全球史，非洲、亚洲、拉美与殖民地主体缺席。",
+    "英国来源—各国接受的横轴仍有中心—边缘和单向扩散风险。",
+    "展览图录偏向可展、精美、具名对象，普通工业品、失败产品和实际使用较少。",
+    "国别章篇幅与问题意识不均，不能把平行论文自动视为完全可比样本。",
+    "女性、慈善工艺和家庭工业多有出现，但无系统性别、工资、权力与阶级分析。",
+    "知识涌现报告提出的网络枢纽和潜在链接是P4推论，必须回原章及外部证据验证。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第13—29行：LACMA展览、2004年英国版、目录、Checklist及图录性质。",
+    "clean第34—46行：展览方自称首次国际评估及二十年研究背景。",
+    "clean第67—112行：现代性策略、三大主题、非整体反工业与德国标准化。",
+    "clean第114—119行：Wiener Werkstätte奢侈品与业余／专业工艺矛盾。",
+    "clean第160—195行：浪漫民族主义、Hobsbawm、艺术与生活及选择性Morris。",
+    "clean第210—225行：英国工业化、Ruskin反题与Morris所谓商业暴政。",
+    "clean第346—389行：Arts and Crafts Exhibition Society命名、参展者构成及变化。",
+    "clean第597—665行：英国海外声誉、Muthesius、出版／展览传播及德国机器路径。",
+    "clean第1717—1775行：比法通过出版、商业和展览的选择性接受。",
+    "clean第1921—1997行：美国机器／民主设计、女性组织、职业机会与阶级边界。"
+  ]
+}

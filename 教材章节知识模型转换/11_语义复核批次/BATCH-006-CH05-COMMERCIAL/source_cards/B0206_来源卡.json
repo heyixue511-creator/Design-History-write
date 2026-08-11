@@ -1,0 +1,141 @@
+{
+  "source_id": "B0206",
+  "corpus": "book",
+  "folder_name": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+  "material_type": "工业设计职业史专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001_clean.md",
+  "clean_source_sha256": "D16A73AB9A986F6A3D6ABE1AF33DD0E8CC7F4269B23CF221AA156A37DF59C5AE",
+  "duplicate_group": "与B0205、B0066、B0186共享美国设计职业对象；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 30,
+      "report_characters": 797206
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "5.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "consumer_engineering_concept"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "depression_economic_drive"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "artificial_obsolescence"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "behaviorism_in_marketing"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "designer_as_salesman"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "streamline_depression_psychology"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "streamline_click_moment"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "streamline_style_drift"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "streamline_media_transfer"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "functional_vs_style_debate"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "four_giants_profession"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_office_industrialization"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_profession_ethics"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumer_society_formation"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_ethics_controversy"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evidence_hierarchy_bias"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "图像中心主义：第一版依赖黑白照片，将三维物质文化还原为二维视觉文化，缺乏对象经验",
+    "纽约中心主义：集中于纽约设计师与机构，忽略芝加哥、底特律汽车设计部门与西海岸",
+    "男性中心主义：女性作为“被设计”的消费者被频繁讨论，女性设计师仅简短提及",
+    "精英中心主义：“四巨头”获得最多关注，包装设计师、工艺师、企业内部设计师被边缘化，须与匿名从业者材料并置",
+    "文化悲观主义的“上升→全盛→衰落”叙事弧带有1970年代幻灭感，已被后续研究部分修正",
+    "宏观经济数字（如1929—1932制造业净收入降2/3）为二手概括，引用时需对照原始统计",
+    "流线型解释虽成标准版本，仍是解释性建构；第七章“功能主义语义崩溃”反映的“功能vs风格”之争需与对立史学观点并置",
+    "知识涌现分析各报告（00—04）均为P4推演产物，只作语义路由使用，不构成B0206的原始证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第379行：战后设计师沦落为superficial model changes、artificial obsolescence与特许经营建筑——全书衰落叙事的收束定位",
+    "clean第1239—1241行：Dreyfuss曾为Geddes助手并参与其戏剧项目，1924年任Roseland舞厅设计顾问，1927年失业后赴欧——四巨头出身谱系",
+    "clean第1445—1449行：Calkins提出“消费工程师”概念、“prosperity lies in spending, not in saving”、商品分“those we use/those we use up”两类",
+    "clean第1450行：人为废弃核心定义——裙子加长比喻、Teague相机与Geddes金属床作为“产品外壳的愉悦处理”例证",
+    "clean第1451—1452行：Arens将Calkins主张发展为“consumer engineering”，并与Sheldon合著Consumer Engineering: A New Technique for Prosperity (1932)",
+    "clean第1454—1463行：Taylor《科学管理》(1911)生产工程学→消费工程学类比、消除“分销机器摩擦”、问卷+风格再设计两步法",
+    "clean第1467—1471行：Watson行为主义在JWT的应用（“Mr. and Mrs. Consumer”如“mice and monkeys”）、目标管理",
+    "clean第2687—2693行：1934年M-10,000与Burlington Zephyr在芝加哥世博会亮相引发“something clicked”瞬间",
+    "clean第2692—2693行：流线型从工程事实转为大众商品；飞艇“serene control”与列车意象",
+    "packet第八章：Loewy自认Princess Anne渡轮（1936）外壳不为减阻只为吸引眼球——功能伪装被撕开"
+  ]
+}

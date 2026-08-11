@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "教材知识建模来源卡",
+  "type": "object",
+  "required": ["source_id", "corpus", "folder_name", "material_type", "files", "review_status"],
+  "properties": {
+    "source_id": {"type": "string"},
+    "corpus": {"enum": ["book", "paper"]},
+    "folder_name": {"type": "string"},
+    "material_type": {"type": "string"},
+    "clean_source_path": {"type": ["string", "null"]},
+    "clean_source_sha256": {"type": ["string", "null"]},
+    "duplicate_group": {"type": ["string", "null"]},
+    "files": {"type": "array", "items": {"type": "object"}},
+    "report_structure": {"type": "object"},
+    "candidate_sections": {"type": "array", "items": {"type": "object"}},
+    "review_status": {"enum": ["machine_read_complete", "semantic_review_in_progress", "semantic_review_complete", "blocked"]},
+    "evidence_level": {"enum": ["V0", "V1", "V2", "V3", "V4"]},
+    "notes": {"type": "array", "items": {"type": "string"}
+  }
+}

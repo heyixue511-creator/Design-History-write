@@ -1,0 +1,117 @@
+{
+  "source_id": "B0454",
+  "corpus": "book",
+  "folder_name": "Wick：《Teaching at the Bauhaus》",
+  "material_type": "教学史专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Wick：《Teaching at the Bauhaus》.md",
+  "clean_source_sha256": "CC564758F985EC795849A56EBC88A763A517FE0FE05A150FC919194B1903C9B1",
+  "duplicate_group": "与B0182、B0216、B0282共享包豪斯教学档案；同一档案只计一份P0",
+  "files": [
+    {
+      "report_file_count": 21,
+      "report_characters": 169231
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "plurality_of_pedagogy"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "vorkurs_founding_1920"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "vorkurs_three_transformations"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "pedagogy_selective_survival"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "grundlehre_institutionalization"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "turn_1923"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "diaspora_north_america"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "reception_germany"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "vkhutemas_parallel"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_types"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "source_bias_limits"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "effect_evaluation_layering"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "作者自限“只处理必修课”（L1459-L1466），工作坊系统教学与大师傅（master of craft）角色着墨不足",
+    "Grunow和谐理论因“难以评估”被排除于个案之外（L1468），尽管其被Schreyer称为包豪斯工作的“永不枯竭之源”",
+    "德国接受史自承“仅是粗略草图”（L230，L6068），不构成全面呈现",
+    "多处档案证据不足处作者明言无法定论（Cizek与Itten关系L1904、Klee受聘原因L4547），相关命题不可升级为确定史实",
+    "女性教师与女性学生视角相对薄弱（Stölzl、Anni Albers篇幅有限），Grawe虽在第13章有自反性批评但整体仍未系统补足",
+    "教学成效评价多为当时人评价（Schneider、Hoffmann、Stelzer等）与接受史证据的转述，缺乏独立成效实证，引用时须区分主张与证据",
+    "第13章为Grawe博士论文浓缩，其“适应论”（越适应越成功）与接受等级化论点属解释框架，须与所引档案事实分层使用",
+    "与B0182、B0216、B0282共享包豪斯教学档案（Bauhaus-Archiv柏林等），同一档案只计一份P0；知识涌现分析为P4推演，仅作语义路由",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第246—250行：以Dexel“包豪斯风格是神话”句式解构“包豪斯教学法单一论”，确立复数、异质、动态的研究范式",
+    "clean第1111行：俄国Vkhutemas基础部（两年制、三循环：素描/平面与色彩/空间与体积）与包豪斯预备课程平行但更长更偏学校化；1926年减为一年，包豪斯则1924-25年延至两学期",
+    "clean第1457行：“What the masters do, they teach”（Huszár 1922）为全书方法论钥匙",
+    "clean第680、670、783行：1922-23年“艺术与技术：新的统一”口号标志转向；Gropius与Itten冲突以Itten 1923年离开告终",
+    "clean第1841行：Itten内容渗入德国学校（含秘密课程）而Albers原则罕被采纳、Moholy几乎未被采纳",
+    "clean第6646—6654、6883行：北美接受的是“教学方法”与预备课程形式，包豪斯整体（跨学科、社会乌托邦、性别与等级结构）被放弃；1938年MoMA展览为接受节点",
+    "clean第6883—6884行：在北美，预备课程从跨学科设计的预备变为特定专业的预备；Albers耶鲁四年计划与Moholy芝加哥四专业部均体现此固定化",
+    "clean第6699—6884行：北美接受三线——Gropius在哈佛（Hudnut实用主义框架）、Albers在黑山与耶鲁、Moholy在芝加哥（新包豪斯1937→设计学校1939→设计学院1944→并入IIT 1949）",
+    "clean第1251—1283行：Grundlehre在德绍时期制度化（1925课程表：基础实践+基础形式教学）",
+    "clean第6540行：战后经包豪斯成员延续至乌尔姆HfG等（Grundlehre 1953-55）"
+  ]
+}

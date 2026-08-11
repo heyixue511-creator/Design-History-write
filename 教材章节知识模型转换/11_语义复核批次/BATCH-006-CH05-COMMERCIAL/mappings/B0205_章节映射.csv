@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0205,5.3,A,V2,underconsumption_thesis_1930,Calkins 1930年会议将经济崩溃归因“消费不足”而非“生产过剩”，提出“消费工程”与“人为过时”，把泰勒制从工厂延伸至消费者心理,档案引文（会议演讲、Arens著作）可独立核查；经济归因属Meikle叙述框架的史学呈现,clean第1100行,ACCEPTED_AS_CORE_SOURCE
+B0205,5.3,A,V2,styling_as_sales_engineering,“styling是设计用于刺激需求的经济功能”：百货商店stylist（多为年轻女性）从选品转向产品再设计；Sinel/Loewy/Van Doren三人的销售导向言论,档案引文（Jordan Marsh高管、三人言论）可证当事人话语；stylist女性化与5.5职业衔接,clean第1104、1132行,ACCEPTED_AS_CORE_SOURCE
+B0205,5.4,A,V2,streamlining_three_metaphors,流线型三层隐喻：空气动力学功能→商业销售隐喻（“更快更有利地穿过销售阻力渠道”）→大萧条社会隐喻（社会进程须顺畅无摩擦）,档案引文（clean第1146行转引设计推广者言论及注释28）,核对clean第1146行引文与注释28原始出处,ACCEPTED_AS_CORE_SOURCE
+B0205,5.4,B,V2,streamlining_medium_migration,流线型从飞机、汽车、火车迁移至收音机、吸尘器、洗衣机等静止物件及店面、餐厅等环境——媒介迁移的完整链条,档案+叙述：clean第1138行列举迁移范围，“以不可抗拒的隐喻力量横扫其他现代性表达”,核对clean第1138行案例清单与教材5.4对应,ACCEPTED_AS_CORE_SOURCE
+B0205,5.4,B,V2,streamlining_failure_case,Chrysler Airflow（1934）因设计过度激进而销售失望，反证流线型的社会接受边界；GM/Ford随即将其降格为造型手段（“为视觉阻力而非风阻力设计”）,档案+叙述：clean第1193—1197行，含Klemin评语与Zephyr例证,核对Airflow销量数据的原始来源,ACCEPTED_AS_CORE_SOURCE
+B0205,5.5,A,V2,industrial_designer_origins,第一代工业设计师（Geddes、Teague、Loewy）多从广告插画与舞台设计跨界而来，由广告高管（Resor）牵线进入制造业——职业形成于广告业而非工业内部,档案+叙述：clean第1090行人物履历，Fortune杂志1934年报道佐证职业化进程,与B0206共享该对象，P0只计一份,ACCEPTED_AS_CORE_SOURCE
+B0205,5.5,B,V2,department_store_stylist,1930年代百货商店“stylist”（多为年轻女性、常为大学毕业生）从选品转向直接参与产品再设计，构成职业设计师的过渡形态,档案引文：clean第1104行Jordan Marsh与Kaufmann高管言论,核对clean第1104行引文及stylist与5.5的关系,ACCEPTED_AS_CORE_SOURCE
+B0205,5.7,B,V2,elite_vs_commercial_split_1934,1934年MoMA“Machine Art”展（Johnson）与Rockefeller Center“Industrial Arts Exposition”的对立确立精英现代主义与商业设计的公开分裂格局，战后演化为“Good Design”vs populuxe,Meikle叙述框架，辅以clean第1528—1534行战后延续证据,回查1934年双展史料,ACCEPTED_AS_CORE_SOURCE
+B0205,5.7,B,V2,designer_sales_ethics,设计师伦理立场谱系：Sinel蔑视大众（“Coney Island-minded”）、Loewy以“美丽的销售曲线”为美学观、Van Doren“设计的目标是销售——获利”,档案引文：clean第1132行三人言论,核对clean第1132行三人言论原文及各自出处,ACCEPTED_AS_CORE_SOURCE
+B0205,5.2,B,V2,consumption_culture_transition,Lynd《Middletown》（1929）揭示“从谋生到购买生活”（from making a living to buying a living）的消费文化转型，为美国大众消费体系的1920年代前提,Meikle叙述，以Middletown为章节导言,回查第三章导言段落原文,ACCEPTED_AS_CORE_SOURCE
+B0205,5.2,B,V2,art_deco_americanization,1925年巴黎博览会经Calkins等广告人转介进入美国，本地化为“skyscraper style”，完成从精英艺术到大众消费的过渡,档案引文：clean第975行Calkins观展评论；移民设计师贡献为叙述层,核对clean第975行及第三章Art Deco小节,ACCEPTED_AS_CORE_SOURCE
+B0205,5.6,B,V2,domestic_efficiency_movement,新家政学将泰勒制引入家庭（Christine Frederick、Mary Pattison“domestic engineering”），Hoosier厨房橱柜为“传统外观掩盖的功能效率”典型——科学管理进入厨房,Meikle叙述，非档案直接引文,回查第三章“新家政学与消除浪费”小节原文,ACCEPTED_AS_CORE_SOURCE
+B0205,1.2,C,V2,american_system_standardization,“美国体系”以机械化与标准化将奢侈品转化为大众可负担消费品（Whitney可互换零件、Terry/Jerome钟表），为商业现代性提供19世纪起源——衔接性背景映射,Meikle叙述框架（第一章），原书第一章为1790—1860时段,回查第一章原文，确认与教材1.2的对应强度,ACCEPTED_AS_CORE_SOURCE
+B0205,0.6,C,V2,narrative_framework_marking,Meikle通史叙述框架须显式标注：“生产—消费”双轴、经济逻辑驱动、反本质主义（对Kouwenhoven的修正）均为解释立场，与档案引文分层使用,方法论自述,每条映射命题均须回查clean原文引文支撑,ACCEPTED_AS_CORE_SOURCE
+B0205,0.6,D,V2,emergence_semantic_routing,包内知识涌现分析（五文件）为P4模型推演，仅作语义路由，不作为证据准入,P4推演产物,不参与命题证据链，仅用于发现候选关系,ACCEPTED_AS_CORE_SOURCE

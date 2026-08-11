@@ -1,0 +1,141 @@
+{
+  "source_id": "B0363",
+  "corpus": "book",
+  "folder_name": "Reyner Banham：《Theory and Design in the First Machine Age》，1960",
+  "material_type": "1960年出版的现代建筑与设计理论史专著，英语世界对“第一机器时代”理论史最早的系统性叙述之一，兼有批评文体与史料评注双重性质",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Reyner Banham：《Theory and Design in the First Machine Age》，1960_clean.md",
+  "clean_source_sha256": "29085CEF72EB83E9AF3FBD36D5E7EBC5908C2F2105473DB4DD583AFCC192E21E",
+  "duplicate_group": "与未来主义宣言专档（如B0027）、俄国构成主义来源（如B0277）及de Stijl、《走向新建筑》相关来源共享行动者与宣言原文：未来主义奠基宣言、Sant'Elia Messaggio/Manifesto、de Stijl宣言、Muthesius《Wo stehen wir?》、Vers une Architecture引文等为共享P0文本，同一宣言全库只计一份P0，本书引文按史料评注处理，不重复计件",
+  "files": [
+    {
+      "report_file_count": 30,
+      "report_characters": 130832
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "machine_age_mechanical_perception"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "futurism_manifesto_motion_politics"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "dada_montage_edge_evidence"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "russian_constructivism_international_reception"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "de_stijl_universal_order"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "exhibition_standardization_visual_education"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "transnational_avantgarde_network"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_concept_historicized"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "hero_lineage_to_relational_history"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "artifact_as_historical_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "image_archive_oral_digital_traces"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_bias_and_absentees"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_concept_competition_background"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "werkbund_enterprise_system"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "weimar_bauhaus_preliminary_course"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "bauhaus_1923_institutional_turn"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "1960年写作立场：作者站在“第二机器时代”（喷气时代、家电革命）回望，“第一/第二机器时代”二分与“跑赢技术”论是其命题而非时代共识，须作目的论与语境审计",
+    "谱系学/影响史框架本身含目的论风险：以“国际式形成”为终点倒叙1900—1930，各运动被组织进单一叙事线，即使作者自反，“必然走向国际式”的阅读效应仍是Banham建构",
+    "精英圈层视角：以建筑师—理论家—出版物为中心，社会史、经济史、使用史维度有限；作者自承第一机器时代影响集中于中上阶级，女性与大众接受基本缺席",
+    "地理覆盖偏西欧：美国仅以Wright接受形象与Fuller反证出场，俄国仅Lissitsky国际传播与Melnikov展馆，故不可当作全球设计史或俄国本土（生产主义/呼捷玛斯）来源",
+    "宣言、讲演等行动者文本（P0）被大量直引，能证明行动者主张，不能自动证明作品效果、工业采用或公众接受：Sant'Elia塔城从未建成，其国际声望“几乎全靠Marinetti推销”",
+    "传播与影响判断须谨慎：风格相似、同场展出（Weissenhof、1925巴黎展）或宣言互引不等于直接传播；作者本人多处自认“未必提出直接影响”",
+    "对Giedion等的史学批判本身是立场性写作：作者与Giedion同为叙述者，其反理性主义谱系同样是建构，引用其批判时须保留双方框架标签而非当作客观定论",
+    "知识涌现分析（Topic/Theme/枢纽节点度/涌现强度S）属P4语义推演模型，仅作语义路由与检索辅助，其命名、网络与“隐藏枢纽”不得写成Banham原著命题，亦非史实证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第110—124行：导言以电力入户、家电、合成化学与汽车界定“第二/第一机器时代”，注明写作于“喷气时代/清洁剂十年”",
+    "clean第141—153行：Marinetti短语“Man Multiplied by the Motor”；Pevsner先驱链“在格罗皮乌斯处断掉”；“未来主义动力学—学术保守主义”两极框架",
+    "clean第1132—1133行：第8章开头判定未来主义对现代设计理论的贡献是“意识形态与心态”而非形式方法；奠基宣言1909年2月20日刊于《费加罗报》",
+    "clean第1178—1186行：宣言第四条“速度之美”、赛车比萨莫色雷斯胜利女神更美、战争作为社会清洁剂、第十条“摧毁博物馆、图书馆与学院”",
+    "clean第1781—1784行：de Stijl跨越分水岭，把未来主义“私人、浪漫、反古典”的机器转写为“集体纪律、近古典”的机器美学；de Stijl被视为机器美学真正奠基者",
+    "clean第2722—2723行：《走向新建筑》“La maison est une machine à habiter”标题语与Manuel de l'Habitation生活纲领",
+    "clean第3159—3160行：Weissenhof展的国际一致性使Alfred H. Barr首次以“The International Style”命名成熟现代建筑",
+    "clean第3564—3572行：结论章——“功能主义”为1930年代误名，Sartoris 1932年米兰书名首用，勒·柯布西耶建议“Instead of Rational say Functional”，Sullivan口号为空泛顺口溜",
+    "clean第3674—3682行：国际式以Phileban立体与数学为象征，恰是“机器时代唯一不新”的方法论；1930年代初流线型车辆使象征联系断裂",
+    "clean第3696行：全书终局命题——“机器时代建筑”仅在“其纪念物建于机器时代并表达了对机器的姿态”的意义上成立"
+  ]
+}

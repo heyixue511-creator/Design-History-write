@@ -1,0 +1,107 @@
+{
+  "source_id": "B0383",
+  "corpus": "book",
+  "folder_name": "Ruskin, John：《The Stones of Venice》",
+  "material_type": "19世纪行动者原典、建筑批评、劳动伦理与文明史写作",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Ruskin, John：《The Stones of Venice》_clean.md",
+  "clean_source_sha256": "CE6C4506A5F203C85364E4D4D85EE97743B1E950667AD06C6A234594AFA0405A",
+  "duplicate_group": "Ruskin行动者文本组：后续选集或Morris研究可能重印《哥特的本质》；相同段落只计一份P0文本证据",
+  "files": [
+    {
+      "report_file_count": 46,
+      "report_characters": 110781
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "material_observation_moral_criticism_actor_method"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "primary_actor_text_measurement_and_argument"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "religious_teleology_racialized_geography_worker_and_ocr_bias"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "division_of_labour_judgement_and_execution"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "stone_structure_ornament_material_and_distance"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anonymous_workman_and_architect_control"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "architecture_decorative_art_workman_and_design_terms"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "nature_of_gothic_labour_freedom_and_consumer_duty"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "architecture_ornament_nature_and_total_environment"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "X",
+      "verification": "V2",
+      "role": "racialized_style_genealogy_without_transfer_chain"
+    },
+    {
+      "section_id": "15.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "workman_judgement_as_distant_participation_genealogy"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "本地数字文本只含第一、二卷，不能称为三卷《威尼斯之石》全本。",
+    "OCR损伤、希腊文、表格和图版缺失限制逐字引用、测量与视觉判断。",
+    "宗教活力等于艺术活力、民族道德直接化石化为风格等属于规范性目的论。",
+    "基督教优越、南北血统和非基督教文化判断带有19世纪宗教与种族化偏见。",
+    "以工人自由解释粗糙／变化并不能证明中世纪工人的法律、工资或实际自主状态。",
+    "对消费品的道德判断以作者规范立场为主，不能替代工人、消费者和企业行为证据。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1—15行：第一卷前言及作者对亲自考察、测量和图绘方法的说明。",
+    "clean第471—506行：建筑三类价值、行动／言说／外观与构造劳动的判断框架。",
+    "clean第2238—2260行：装饰材料、自然对象与形式处理的论述入口。",
+    "clean第6534—6575行：《哥特的本质》的章节位置与六种心智要素。",
+    "clean第6658—6685行：工人判断空间、劳动分工是人的分割，以及生产便利与人的代价。",
+    "clean第6686—6705行：作者把消费者选择、必要性、精确完成和劳动退化相连；这是规范论证而非行为统计。",
+    "clean第6738—6768行：主人参与艰难劳动、不完美与工人表达、变化性之间的论证。",
+    "clean第7313—7357行：形式与品质判断清单显示作者如何把精神论转为观察规则。"
+  ]
+}

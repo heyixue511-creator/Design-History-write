@@ -1,0 +1,116 @@
+{
+  "source_id": "B0219",
+  "corpus": "book",
+  "folder_name": "John A. Lent：《Comics Art in China》",
+  "material_type": "漫画艺术通史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John A. Lent：《Comics Art in China》.md",
+  "clean_source_sha256": "5C68E7C03ECE79A5C97E969E65851BC5E4C90D52A3D06ADB5169ED41ACD1ED4E",
+  "duplicate_group": "与B0162等海报/图像来源共享战时宣传图像对象（漫画传单、海报、壁画）时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 14,
+      "report_characters": 130978
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "6.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "wartime_propaganda_production"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cartoon_leaflet_content_analysis"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "cartoonist_oral_testimony_wartime"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "kmt_ccp_propaganda_comparison"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "print_capital_visual_public_sphere"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "shanghai_urban_consumption_culture"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "national_form_modern_form_debate"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "prehistory_cartoon_visual_media"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "east_asian_intermediary_japan"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "qing_antiimperialist_cartoons"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "cartoon_images_as_artifacts"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "oral_history_evidence_bias"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "作者自认叙述基调倾向中华人民共和国与共产党视角，国民党视角与港台漫画独立发展几乎不被讨论，构成系统性视角偏差",
+    "漫画图像只能证明供给与再现，不能证明受众接受：传单效果证据多为转引（如Kushner 2006转引美国新闻处报告），作者对传单“难以被农村受众快速领会”的评价属推断",
+    "中国大陆中心：香港、台湾漫画史仅作背景，跨地域比较不完整",
+    "“大师经典”叙事偏向：以名家和名作为组织核心，普通/业余创作覆盖不足",
+    "结论章仅约26行过于简洁；2000年后数字/网络漫画讨论薄弱",
+    "政治分期与漫画史关联（危机-调整循环、黄金时代制度条件）是作者的解释框架而非事实本身，映射教材时应作为框架命题而非独立证据",
+    "知识涌现分析（packet内“知识涌现分析”目录）是对九份分析报告的元分析推演，属P4知识涌现，仅作语义路由，不作原文证据使用",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第25、37行：First printing 2017；ISBN 9781496811745——版本信息核实",
+    "clean第108行：术语界定——cartoons/strips/xinmanhua/lianhuanhua/animation/caricature六类定义，“comic art”为统摄概念",
+    "clean第206行：清末民初石印等现代印刷技术进入、上海/香港/北京/天津漫画杂志、画报、党派报纸、连环画勃兴——6.3印刷资本证据",
+    "clean第325行：1899义和团时期海报尺寸反帝漫画、1910s漫画传单“勿为日本人所笑”（抵制日货）、二战传单宣传预告——6.7传单先例",
+    "clean第401–403行：1920s工会与中共以漫画宣传、1926年毛泽东农民运动讲习所“革命画”课程、1929年中央苏区墙画漫画——6.7供给证据",
+    "clean第547行：上海漫画1928–1930石印单张、邵洵美赞助、与三日报/上海画报的报系关系——6.4都市消费与出版网络证据",
+    "clean第888行：国民党宣传“组织涣散管理不善”vs共产党系统化；1938年国民党宣传部手册与投降通行证——6.7国共宣传对比",
+    "clean第968–1003行：1931年起传单宣传、1938年5月19日中国空军对日“人道轰炸”（宋美龄建议投传单）、31幅传单内容分析（L995来源、L997汉奸主题、L999战果清单、L1003格式特征）——6.7核心证据段",
+    "clean第738行：米谷《小二黑结婚》以水墨线描避开西方明暗法，符合毛泽东延安讲话主张——6.6民族形式",
+    "clean第156行：宋代《梅花喜神谱》为最早插图超越文字的印刷书——6.1前史"
+  ]
+}

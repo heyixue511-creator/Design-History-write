@@ -1,0 +1,137 @@
+{
+  "source_id": "B0269",
+  "corpus": "book",
+  "folder_name": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
+  "material_type": "行动者自著教学—理论文本（P0）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Laszlo Moholy-Nagy：《Vision in Motion》，1947_clean.md",
+  "clean_source_sha256": "62C66B760D94EC257F1BD09B320745207BA65F3C076356B534FC0322FB3B77C1",
+  "duplicate_group": "与B0291、B0277、B0007共享摄影、排版对象与行动者文本；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 15,
+      "report_characters": 158072
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "typography_advocacy"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "photography_new_vision"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "D",
+      "verification": "V2",
+      "role": "photogram_specific"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "exhibition_design"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "constructivism_international_transmission"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "soviet_avantgarde_narrative"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "transnational_network_account"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "world_culture_proposal"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "visual_education_program"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "artifacts_as_evidence_demo"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "actor_text_evidence_type"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "retrospective_bias_case"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "bauhaus_teacher_advocacy"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "bauhaus_method_transatlantic"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_education_curriculum"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "回顾性综合：1947年遗著整合包豪斯与芝加哥两个时期经验，叙事带自我辩护与教学宣传成分",
+    "clean版正文缺摄影专章（原书p.170-215对应内容未收录），物影照片/光调节器论述仅存索引页码条目，正文无法回查",
+    "全书约七成篇幅为文学前卫史（兰波—乔伊斯），摄影、展览设计等3.6主题的专论占比低",
+    "教学成效与学生接受无独立证据：学生作品由作者自选入书，属宣传性自证",
+    "“国际文化工作集会/世界政府之核”为乌托邦提案，非史实事件，不可作机构史证据",
+    "分析报告行号基于分析时旧文本，与clean行号存在偏移（本次复核已按clean重新定位）",
+    "部分实体生卒年、事件年份为分析报告外部知识补充，源文件未载明",
+    "知识涌现模型是P4推演：基于网络分析生成原书未显式呈现的新知识（如“拼贴政治学”“直接性辩证法”“医疗论证结构”），仅作语义路由参考，不作史料证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第69—77行：印刷史退化叙事（摇篮本→灰色文字块→阿波利奈尔表意诗→未来主义/达达排版→构成主义功能性排版→“回归新排版基础”、同时性须提炼到更高精度）",
+    "clean第73、91行：李西茨基为马雅可夫斯基诗集《为朗诵者呐喊》设计标志索引（tab-index），功能性排版范例",
+    "clean第79—80行：照相制版技术使排版从铅字转为“整页拼贴”（融合文案、绘图、照片、文件传真、手写）",
+    "clean第107—117行：兰波感官互通；“香水可以摄影”、光电管把可见性转为可听性，论证感官可转换是科学现实",
+    "clean第165、174行：达达“被判处死刑者的绞刑架幽默”与“首次要求积极参与而非被动欣赏”的参与诗学",
+    "clean第480行：儿童“天然的表达准备”（natural readiness）——对传统教育压抑创造力的批判",
+    "clean第752—767行：苏联先锋派兴衰回顾——proletcult、群众易懂的要求、哈尔科夫代表大会（1931）后实验艺术被清除",
+    "clean第1009行：电影编辑把不同时空拍摄的镜头“粘贴”成新实体——蒙太奇作为时间维度的拼贴",
+    "clean第1147—1148行：教育从“广播、电视、电影、报刊被动淹没耳目”转向工作坊、戏剧、研讨会、政治讨论中的积极参与",
+    "clean第1165—1184行：“国际文化工作集会”设想（含第1179行规划展览、戏剧、研讨会；第1181行“世界政府之核”）",
+    "clean第1683、1280行：索引页码条目photogram p.187-197、cameraless photography p.124、light modulator p.202-203——摄影专论在clean正文中不可回查",
+    "clean第1937—1956行：书末The New Vision第三版广告（包豪斯教育宣传、芝加哥设计学院工作），印证本书的自我宣传语境"
+  ]
+}

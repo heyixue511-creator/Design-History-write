@@ -1,0 +1,130 @@
+{
+  "source_id": "B0339",
+  "corpus": "book",
+  "folder_name": "Paul Greenhalgh：《Ephemeral Vistas The Expositions Universelles, Great Exhibition",
+  "material_type": "世界博览会比较史、帝国文化史与展示政治研究",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Paul Greenhalgh：《Ephemeral Vistas The Expositions Universelles, Great Exhibition.md",
+  "clean_source_sha256": "9462151F9F0C8D879C61D8582CDF1A812FAECBB60D6335E1090406D129F2C684",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 180197
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "institution_display_finance_and_ideology_framework"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "catalogue_report_finance_press_and_absence_reading"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "three_country_audience_agency_and_period_bias"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "great_exhibition_evolution_funding_ticket_and_public_viewing"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "cole_royal_commission_and_exhibition_governance"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "tickets_entertainment_and_mass_consumption_conditions"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exhibition_architecture_style_and_ideological_choice"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "colonial_classification_human_display_and_visibility"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exhibition_transfer_selection_and_reverse_appropriation_gap"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "interwar_exhibition_architecture_and_visual_regime"
+    },
+    {
+      "section_id": "5.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "1925_paris_exposition_and_art_deco_production"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "style_nationalism_consumption_and_exclusion_ethics"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "china_and_japan_at_world_fairs_as_external_view"
+    },
+    {
+      "section_id": "8.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "interwar_national_pavilions_before_cold_war"
+    },
+    {
+      "section_id": "15.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "colonial_display_as_historiography_of_knowledge_position"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "1988年的三国框架压低德国、日本、奥斯曼、中国、殖民地自身和拉丁美洲等路径。",
+    "主要分析展览发出何种信息，系统观众日记、民族志与行为材料不足，不能推出接受效果。",
+    "被展示者的主体声音稀少；作者在若干段落明确只能推测其感受，教材不得补写内心。",
+    "资金‘决定’内容、帝国衰落导致宣传增长等是研究者机制解释，须按具体事件补反例和中介。",
+    "人类展示章节包含历史种族主义语言；教材只最小限度说明制度机制，不复制侮辱性描述。",
+    "知识涌现报告的中心性、闭环和跨主题模型为P4重组，不得当作原书独立量化结论。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第28—46行：题名与作者信息确认研究范围为1851—1939年的国际博览会传统。",
+    "clean第181—187行：法国制造商反对国际化及Cole、Albert把未实现方案转入1851年伦敦的叙述。",
+    "clean第359—363行：四类资金、共同目标、皇家委员会、地方筹款及1851年财务数字。",
+    "clean第365—371行：作者把反革命解释、门票阶级筛选与同期评论并置；后者不能代表全部工人经验。",
+    "clean第583—587行：殖民物产组织、India／raw materials表述及glorify／domesticate双重展示目标。",
+    "clean第957—961行：作者明确以speculate处理被展示者内心，显示接受与主体经验不可知边界。",
+    "clean第1983—1987行：五届巴黎博览会女性作品比例、602名女性艺术家及总样本数字；OCR百分号须回页核定。"
+  ]
+}

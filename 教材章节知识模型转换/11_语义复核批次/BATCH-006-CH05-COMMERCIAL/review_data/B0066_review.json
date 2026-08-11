@@ -1,0 +1,56 @@
+{
+  "source_id": "B0066",
+  "title": "Founders of American Industrial Design",
+  "author": "Carroll Gantz",
+  "version": "McFarland & Company, Inc., Publishers（Jefferson, NC; London），2014年，14章",
+  "type": "工业设计职业史（先驱者集体传记编年史）",
+  "scope": "美国，1918—2014年（核心聚焦1930年代大萧条至二战前，兼及战后至21世纪初）",
+  "duplicate_group": "与B0206、B0205、B0186共享美国设计职业对象；同一对象只计一份P0",
+  "summary": "本书是作者Carroll Gantz（工业设计师、设计教育者、前IDSA主席）以编年体写成的美国工业设计奠基者集体传记史。全书以1925年巴黎装饰艺术博览会为起点，追踪约36位“机器设计师”（Teague、Loewy、Dreyfuss、Bel Geddes、Van Doren等）在大萧条时期如何将艺术与工业结合，使产品外观成为销售驱动力。核心命题有三：其一，美国工业设计是1930年代由多元背景先驱者在工业现场与工程师、制造商、消费者协作中“凭空创造”的新职业，而非欧洲包豪斯的移植；其二，1934年2月Fortune杂志匿名文章“Both Fish and Fowl”（作者George Nelson）首次在流行媒体确立“industrial design”一词并引爆行业；其三，MoMA“优良设计”的精英审美标准始终无法规范由市场成功定义的商业设计。书中完整梳理职业制度化进程：AUDAC（1927）→ADI（1938）→SID（1944，定义“为机器与大规模生产设计多种产品者”）→IDSA（1965三合一合并），并详述1941年纽约税务案、GG-1与Ford 1949等署名权争议、企业内部设计部门（GM艺术与色彩部等）、流线型运动、二战转型与战后繁荣。作者以从业者视角提供收费、客户关系、事务所管理的内部史，同时系统质疑“包豪斯发明工业设计”的主流叙事。",
+  "strengths": [
+    "作者为从业者兼学者（前IDSA主席），融合内部知识与行业档案（IDSA文件、Fortune原始文献、专利号），提供独特的“业内史”视角",
+    "首次将约36位先驱者整合入单一编年叙事，系统平反Dohner等被遗忘的贡献者，超越明星史",
+    "以专利号、销售额、收费标准等经验数据支撑叙事，GG-1（Dohner vs Loewy）、1949 Ford等设计归属争议有硬证据",
+    "对MoMA-Bauhaus主流叙事提出全书最系统的质疑，具有学术论辩性而非单纯行业史",
+    "职业组织史脉络完整（AUDAC→ADI→SID→IDSA 1965），会员标准、章程、教育大纲等制度化细节翔实",
+    "大量一手访谈与通信（与先驱者本人及其后代），时间跨度1918—2014覆盖战争、冷战文化外交与数字化",
+    "方法论自觉：整体分析报告明确披露其“实践vs理论”解释框架与默认立场，便于复核者定位偏见"
+  ],
+  "limits": [
+    "作者为业内人/前IDSA主席，持美国实践优先、反MoMA精英主义立场，属证据规则中的业内视角，须与档案材料及学术设计史（Pulos、Meikle、Flinchum）并置使用",
+    "“实践vs理论”二元对立存在简化风险，忽略美国设计自身的精英主义（SID排他性入会标准）与欧洲设计中的商业实践",
+    "以销量增长百分比为“成功”的唯一评价标准，忽略设计的文化、社会与环境维度（Papanek 1972批判被部分承认但最终回归商业主义）",
+    "名人偏重：叙事重心仍极度集中于Teague/Loewy/Dreyfuss/Bel Geddes四大明星",
+    "女性与种族维度缺失：Belle Kogan、Helen Dryden、Ann Swainson等女性先驱篇幅远少于男性，非洲裔设计师Charles Harrison仅在全书末尾数页被提及",
+    "美国中心视角：包豪斯关闭后欧洲设计几乎从叙事中消失，直到1950年代才以“竞争”形式回归",
+    "结构前重后轻：1930年代（Ch1-7）叙事密集，1950年代后（Ch11-14）明显压缩，后半部接近“设计师讣告汇编”",
+    "知识涌现模型为P4推演：本包中“知识涌现分析”部分属模型推演产物，仅作语义路由参考，不作史实证据"
+  ],
+  "checks": [
+    "clean第1281—1283行：1934年2月Fortune发表九页专文，首次在流行媒体使用“industrial design”一词（取代“industrial art”）；“Both Fish and Fowl”意指设计师既是艺术家又是商人",
+    "clean第1288—1289行：Fortune文章匿名发表，现知作者为建筑师George Nelson（26岁，1932年罗马奖得主）",
+    "clean第1301行：文章引用Sprague——“制造商未能通过新产品设计开辟额外需求是萧条持续的主因”，即销售工程的论证起点",
+    "clean第1302行：Nelson核心论点——效用与价格相同的两产品，外观更吸引购买者者胜出，此即“销售吸引力”标准",
+    "clean第1308—1314行：Bel Geddes的SGE炉灶案例——2周期限、$50,000预付版税、300页研究报告、组件由数百减至16，验证收费模式与设计方法论",
+    "clean第2681—2691行：1944年2月7日15位设计师会商组建新组织，将工业设计师定义为“成功为机器与大规模生产设计多种产品者”，SID由此成立",
+    "clean第2692—2699行：SID首届官员为Teague（主席）、Dreyfuss（副主席）、Loewy等",
+    "clean第2583行（Dohner）；clean第2626—2628行（ADI教育大纲）：职业形成伴随教育制度化——Carnegie Tech首设工业设计学位（1934），ADI 1944年发布四年制教育大纲",
+    "clean第1271—1281行（萧条背景）：1933年谷底制造商转向以新外观刺激消费",
+    "clean第1147行（芝加哥博览会展示）：流线型集中展示与工业设计师公共身份确立的媒介事件"
+  ],
+  "maps": [
+    ["5.5", "A", "fortune_1934_profession_naming", "1934年2月Fortune匿名文章（George Nelson撰）首次在流行媒体使用“industrial design”一词并引爆行业，是职业确立的关键节点", "文章匿名发表、作者归属为后世考证（现知Nelson）；“引爆”评价为Gantz叙述", "clean第1281—1289行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.5", "A", "professional_association_lineage", "职业制度化进程：AUDAC（1927）→ADI（1938）→SID（1944，定义“为机器与大规模生产设计多种产品者”）→IDSA（1965三合一合并）", "组织沿革以IDSA档案为据；SID排他性入会标准体现职业精英主义", "clean第2681—2699行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.5", "A", "design_education_institutionalization", "职业形成伴随教育制度化：Carnegie Tech首设工业设计学位（1934），ADI 1944年发布四年制教育大纲，Dohner被誉为“美国工业设计教育之父”", "教育史以ADI/SID公告与作者访谈为据，课程沿革可对照院校档案", "clean第2583行；clean第2626—2628行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.3", "A", "depression_sales_engineering", "大萧条催化工业设计：1933年谷底制造商转向以新外观刺激消费，Fortune文章引用Sprague将“未以设计开辟新需求”指为萧条持续主因，设计成为销售工程", "论证以Fortune原文为原始文献，“催化”因果判断为Gantz解释框架", "clean第1271—1281行；clean第1301行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.3", "B", "sales_appeal_standard", "“销售吸引力”成为设计评判标准：同质同价产品中外观更吸引购买者者胜出（Nelson），Gantz以销量增长作为评价设计成功的核心指标", "该标准为行业内部立场，忽略文化/社会/环境维度，须与Papanek式批判并置", "clean第1302行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.3", "B", "planned_obsolescence", "年度造型更新（GM Sloan首创）使汽车外观快速过时，Graham Blue Streak（1932）“使先前所有汽车设计瞬间过时”，是计划废止在汽车业的大规模实践", "案例细节出自作者叙述，“计划废止”概念表述须与Vance Packard（1957）批判文献对照", "Ch4分析报告行1160", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.4", "A", "streamlining_media_transfer", "流线型从空气动力学/生物学概念迁移为消费美学：Thompson、Jaray的航空研究经Bel Geddes的Horizons（1932）改造为关于未来的文化想象，成为美国原创现代设计语言", "流线型谱系属作者综合叙述，文化意义层面须以Meikle《Twentieth Century Limited》等学术专著补充", "Ch4分析报告行1145、1158；clean第1147行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.4", "B", "exposition_media_stage", "芝加哥“世纪进步”博览会（1933）是流线型集中展示与工业设计师公共身份确立的媒介事件：Teague福特圆形展厅、Dreyfuss Hotpoint平顶冰箱、Bel Geddes照明设计等集中亮相，设计师姓名成为销售卖点", "博览会叙事以作者描述为主，访客数据与展品清单可对照博览会官方档案", "Ch4分析报告行1147、1159", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.4", "B", "future_vision_media", "Bel Geddes的Horizons（1932）与Futurama（1939世博会）通过未来交通图景将工业设计塑造为媒介化的乐观主义技术想象", "“未建造但产生影响”的论断属作者评价，影响范围缺乏同期量化证据", "Ch4分析报告行1164；整体报告行425", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.7", "B", "design_ethics_controversy", "商业设计伦理争议：SID排他性入会标准体现职业精英主义；Packard《Hidden Persuaders》（1957）与Papanek《Design for the Real World》（1972）对商业设计的批判被Gantz承认部分有效性但最终回归商业主义立场", "争议叙述带作者明确立场（反精英审美、重市场），批判方的论证需另读Packard/Papanek原著", "整体报告行398—399、436", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.7", "B", "museum_vs_market", "MoMA“优良设计”（Good Design, 1932—1955）以精英审美规范商业设计的努力失败，工业设计由消费者购买行为与市场成功定义——“博物馆vs市场”之争贯穿全书", "该论断是Gantz最一致的价值立场，属论辩性命题而非中性史实，须与MoMA展览档案及学术批评并置", "整体报告行349、97", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.6", "A", "insider_bias_disclosure", "作者为业内人/前IDSA主席（Black & Decker设计总监、CMU教授），本书兼具内部知识与立场偏向：美国实践优先、反MoMA精英主义、先驱者英雄主义，须作证据偏差来源处理", "本书属职业史专著+人物叙事，须与匿名从业者材料、档案及外部学术史并置；P0计数受重复组约束", "clean第4717行；整体报告行347—351、355", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.6", "B", "idosa_archive_reliance", "史料以行业内部来源为主（IDSA文件与通讯、Fortune原始文献、设计师自述、访谈），专利文献为唯一“硬证据”类别，设计师自述部分须批判性使用", "内部史料有选择性留存风险，设计师自述（Teague 1940、Loewy 1951/1979等）自带宣传性", "整体报告行354—360", "ACCEPTED_AS_CORE_SOURCE"]
+  ]
+}

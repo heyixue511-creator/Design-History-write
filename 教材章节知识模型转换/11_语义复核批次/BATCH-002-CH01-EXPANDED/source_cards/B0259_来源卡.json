@@ -1,0 +1,95 @@
+{
+  "source_id": "B0259",
+  "corpus": "book",
+  "folder_name": "Kenneth Pomeranz：《The Great Divergence China, Europe, and the Making of the Modern World Economy》",
+  "material_type": "全球经济史与比较工业化研究专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Kenneth Pomeranz：《The Great Divergence China, Europe, and the Making of the Modern World Economy》_clean.md",
+  "clean_source_sha256": "F2AB111D7E056F895DF67E9FF46F3CAE2B4CAC1BC4196F68BAD8A1B6EBF92D68",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 14,
+      "report_characters": 128803
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "nonsynchronous_modernization_and_comparison"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "reciprocal_core_region_comparison"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "aggregate_data_and_core_region_selection_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "reciprocal_and_encompassing_global_history"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "shared_protoindustrial_growth"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "coal_land_constraint_and_global_resources"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "ecological_material_system"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "regional_divergence_and_contingency"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumption_similarity_and_global_goods"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "new_world_resources_and_coercive_exchange"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "1750年前中欧相似程度、生活水平和鬼田估算均存在持续争议。",
+    "中国数据的代表性、国家能力及欧洲内部差异处理受到批评。",
+    "宏观生态解释不能直接说明某项机器、形式或设计职业如何生成。",
+    "知识涌现报告对论证网络的命名只作研究假设，不作为原著命题。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第124—150行：互惠比较、核心区比较和1750年前相似性。",
+    "clean第173—186行：共同生态约束及化石燃料、新大陆资源造成的不连续。",
+    "clean第246—315行：消费、殖民、奴隶制、土地密集资源与煤共同进入解释。",
+    "clean第2590—2761行：奴隶制、新大陆资源与鬼田估算的机制和边界。"
+  ]
+}

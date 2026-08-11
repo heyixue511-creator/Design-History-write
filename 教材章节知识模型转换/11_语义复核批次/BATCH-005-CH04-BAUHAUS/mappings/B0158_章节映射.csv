@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0158,4.2,A,V2,vorkurs_institutionalization,初步课程1919年秋试行、1920年起为全体必修的六个月试读阶段，由伊顿独掌，不及格不得进入工坊,STAW/BA档案+Whitford叙述框架；同档案在B0182、B0282、B0464、B0216组内只计一份P0,clean第217—221、486—504行,ACCEPTED_AS_CORE_SOURCE
+B0158,4.2,A,V2,vorkurs_paradigm_shift,初步课程经历从伊顿表现主义—神秘主义版本向莫霍利-纳吉理性—技术版本的范式转换,1923年人事接任属档案史实；“范式转换”定性属Whitford叙述框架,clean第1138行（Moholy接任）、第1191行（彻底改造课程）,ACCEPTED_AS_CORE_SOURCE
+B0158,4.2,B,V2,dual_master_system,魏玛期双轨教学制（形式大师+手工大师）是教学制度根本特征，“画家教手艺”既为创造力源泉亦为制度缺陷,制度设置属档案史实；矛盾评价属Whitford框架,clean第601行试读期,ACCEPTED_AS_CORE_SOURCE
+B0158,4.3,A,V2,art_technology_new_unity,1923年包豪斯大展与格罗皮乌斯“艺术与技术——新的统一”演讲标志从手工艺浪漫主义向工业设计的公开转向,演讲与展览系档案史实；“决定性转向”评价属Whitford框架,clean第1304行、第1306—1308行,ACCEPTED_AS_CORE_SOURCE
+B0158,4.3,A,V2,doesburg_catalyst,凡·杜斯堡1921—1923年在魏玛的批评与教学动摇了伊顿支配地位，是转向的外部催化剂,催化剂判断属Whitford叙述框架；杜斯堡活动本身可回查档案,clean第11章（Going Dutch）起始段第1056行起,ACCEPTED_AS_CORE_SOURCE
+B0158,4.4,A,V2,dessau_institutional_reform,迁德绍后废除双轨制、设青年大师、成立建筑系并注册包豪斯有限公司，配套丛书出版,公司注册、建筑系设立等属档案史实,clean第1240行；packet第14章分章报告,ACCEPTED_AS_CORE_SOURCE
+B0158,4.4,A,V2,workshop_industrial_production,德绍工坊转向工业设计原型与批量生产，金属、家具、纺织工坊产出功能化产品,Whitford叙述框架叠加档案产品与订单记录,clean第1308行；第14—15章,ACCEPTED_AS_CORE_SOURCE
+B0158,4.5,A,V2,meyer_social_function,迈耶任内引入社会学与马克思主义政治理论课程、工坊转向大众需求批量生产、建筑系主导，经济成功与政治灾难并行,课程改革与收入翻倍系档案史实；“灾难种子”判断属Whitford框架,clean第44行、第1725—1729行,ACCEPTED_AS_CORE_SOURCE
+B0158,4.5,B,V2,mies_depoliticization,密斯以去政治化、纪律化、削减工坊改造包豪斯，性质由社会实验转向专业建筑学院,禁止政治活动系档案史实；“性质改变”评价属Whitford框架,clean第1802—1808行,ACCEPTED_AS_CORE_SOURCE
+B0158,4.6,A,V2,young_masters_replication,拜耶、布劳耶、谢珀、施密特、施托尔策等青年大师构成包豪斯教育体系的自我再生产,人事任命属档案史实；“自我更新”评价属Whitford框架,clean第15章（Young Masters）,ACCEPTED_AS_CORE_SOURCE
+B0158,4.6,B,V2,basic_course_replication,初步课程作为可复制制度单元经阿尔伯斯等路径延续（乌尔姆设计学院1950年代继承其精神）,乌尔姆延续属Whitford叙述；跨机构影响链属P4语义路由,clean第2065行（HfG Ulm）,ACCEPTED_AS_CORE_SOURCE
+B0158,4.7,A,V2,migration_after_1933,1933年4月11日柏林查封后师生流散英美，包豪斯理念随之国际化，纳粹压制反讽性促进其全球传播,Whitford叙述框架（Judgments章）；个体流散事实可回查档案,clean第29—31行；第17—18章,ACCEPTED_AS_CORE_SOURCE
+B0158,4.7,B,V2,weimar_republic_parallel,包豪斯生命史与魏玛共和国同寿同命运，政治经济周期与学校阶段精确对应,Whitford核心论题属叙述框架，非独立档案命题,clean第32—35行,ACCEPTED_AS_CORE_SOURCE
+B0158,0.6,A,V2,evidence_hierarchy_method,Whitford对回忆录分级使用（Muche/Schreyer不可靠、Nina Kandinsky稍可靠），以STAW/BA档案为事实骨架、报刊为外部舆论,其史料批判方法本身可直接引用；重复组共享档案只计一份P0,packet整体分析报告L022—L027,ACCEPTED_AS_CORE_SOURCE
+B0158,0.6,B,V2,source_evaluation_bias,Whitford立场偏温和中间派，对迈耶激进面向评价保守；1984年首版未纳入后续研究进展,来源偏差声明，供引用时校正,packet整体分析报告L003局限(2)(3),ACCEPTED_AS_CORE_SOURCE

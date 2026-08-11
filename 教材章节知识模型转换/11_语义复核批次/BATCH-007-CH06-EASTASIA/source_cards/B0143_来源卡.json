@@ -1,0 +1,135 @@
+{
+  "source_id": "B0143",
+  "corpus": "book",
+  "folder_name": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+  "material_type": "时尚文化理论专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》_clean.md",
+  "clean_source_sha256": "9FD3CCA06B90BF2AF3C120AF0AE768F6E234784F85FACF583D50900AB1C1724D",
+  "duplicate_group": "与B0080（Breward《The Culture of Fashion》）等时尚史来源共享“时尚/现代性”研究对象，同一对象只计一份P0；本包无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 20,
+      "report_characters": 186854
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "modernity_fashion_theory"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "ambiguity_double_face"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "urban_fashion_modernity"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "us_mass_consumption_fashion"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "gender_evidence_bias_reflection"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "department_store_desire_machinery"
+    },
+    {
+      "section_id": "9.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "youth_subculture_commercial_absorption"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "gendered_occupation_objects"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "postmodern_crisis_social_conditions"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "affluent_society_consumer_citizen_theory"
+    },
+    {
+      "section_id": "9.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "domestic_labor_family_ideology"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "urban_mechanical_perception"
+    },
+    {
+      "section_id": "11.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "punk_subculture_dress"
+    },
+    {
+      "section_id": "13.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "brand_system_globalization"
+    },
+    {
+      "section_id": "11.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "postmodern_global_diffusion"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "西方中心性：全书历史叙事与分析框架牢固以欧洲—北美为中心，非西方时尚体系缺乏系统处理",
+    "“现代性”概念松散：Perry Anderson批评其掩盖资本主义掠夺性与阶级斗争，Wilson意识到该批评但未完全解决",
+    "1985年初版对非二元性别与跨性别议题处理相对有限，2003年新版才经由酷儿理论有所弥补",
+    "个案史料多为二手转引与文学例证（左拉《妇女乐园》、波德莱尔、塞西尔·比顿），缺乏一手档案支撑，作史料引用时须与原始文献互证",
+    "上海/东亚仅一处转引性提及（上海茶馆探戈案例），不能直接充当中国在地史料，对6.4节仅提供理论机制",
+    "以西方“时装”为默认对象，传统服饰与现代时尚的区分虽有讨论但非重点，跨文化适用需谨慎",
+    "1985年初版对全球化、数字媒体与品牌资本主义的讨论缺失，仅靠2003年新增第12章弥补",
+    "知识涌现模型是P4推演：packet中“知识涌现分析”5个文件产出的命题均为机器推演，只作语义路由，不作为直接证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第240—241行：现代性被定义为城市社会（现代工业资本主义）的碰撞动力、变化渴求与强化感觉，时尚的歇斯底里与夸张表达它",
+    "clean第254—255行：“多重观看镜片”方法论自觉（斜视、散光局限）",
+    "clean第280—298行：服装产业依赖世界性女性廉价劳动剥削；女性在消费史中长期以“被观看者”出现而劳动者与生产者身份被遮蔽",
+    "clean第306行：上海茶馆探戈案例（东亚唯一转引性提及）",
+    "clean第759行：“铰链”命题（百货商店作为现代女性形象的塑造空间）",
+    "clean第808—809行：Perry Anderson批评“现代性”概念掩盖资本主义掠夺性",
+    "clean第816—817行：后现代讨论（Ch12，1985—2003）",
+    "clean第2320行：朋克案例（廉价俗气面料与“丑的美学”）",
+    "clean第278—282行：消费不仅是生产结束后的被动环节，时尚消费将个体建构为身份表演者",
+    "clean第3143行：全球化条件下时尚品牌成为资本主义矛盾的新形式"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "source_id": "B0158",
+  "corpus": "book",
+  "folder_name": "Frank Whitford：《Bauhaus》",
+  "material_type": "校史通史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Frank Whitford：《Bauhaus》_clean.md",
+  "clean_source_sha256": "DEF2DAC00CA4CB01896184F1A4CAD304332A9B4D65940162BD06C68169072166",
+  "duplicate_group": "与B0182、B0282、B0464、B0216共享包豪斯档案；同一档案只计一份P0",
+  "files": [
+    {
+      "report_file_count": 26,
+      "report_characters": 207888
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "vorkurs_institutionalization"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "vorkurs_paradigm_shift"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "dual_master_system"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "art_technology_new_unity"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "doesburg_catalyst"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dessau_institutional_reform"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "workshop_industrial_production"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "meyer_social_function"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "mies_depoliticization"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "young_masters_replication"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "basic_course_replication"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "migration_after_1933"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "weimar_republic_parallel"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evidence_hierarchy_method"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "source_evaluation_bias"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "篇幅中等（正文约200页），对包豪斯与苏联构成主义深入比较、女性学生在校经历等主题处理简略",
+    "写作立场偏“温和中间派”，对迈耶时期共产主义学生活动与激进面向评价偏保守",
+    "1984年首版，未纳入此后三十余年研究新进展（性别研究、后殖民视角、新档案）",
+    "部分细节依赖当事人回忆录且Whitford自注其不可靠，个别史实需档案复核",
+    "“与共和国同寿”、三阶段分期等结构框架属叙述性建构，不得当作独立档案命题直接引用",
+    "与B0182、B0282、B0464、B0216共享包豪斯档案，跨来源引用时同一档案只计一份P0",
+    "clean文本含OCR错乱（如第919行课程表表格乱码、第2494行索引错位），逐字引文需回查原书",
+    "知识涌现分析（约1159个L编号知识元构建语义网络的结构分析）属P4模型推演，仅作语义路由与线索发现，不作证据命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第8行：目录后开篇“The Bauhaus began life in 1919”，确认建校年份为全书叙述起点",
+    "clean第29—35行：1933年4月11日柏林警方依纳粹政府指令查封包豪斯；“The life-span of the Bauhaus was precisely that of the Weimar Republic”；施莱默1923年四周年引文",
+    "clean第44—45行：1928年初格罗皮乌斯交棒公开的马克思主义者汉内斯·迈耶；政治分歧致1930年迈耶辞职、密斯接任，1932年德绍迁柏林",
+    "clean第217—221行：Vorkurs（初步课程）1919年秋试行、一年后（1920）成为全体必修，并作为试读期——不及格不得进入工坊训练",
+    "clean第486—504行：格罗皮乌斯采纳伊顿提议设立六月初级课程，伊顿独掌课程与招生；批评者视为“洗脑”、辩护者视为解放创造性潜能",
+    "clean第1217行与1304行：1923年包豪斯展览主题“Art and Technology, a new unity”；格罗皮乌斯同名演讲“标志着一个摆脱手工艺浪漫主义与乌托邦梦想之人的公开登场”",
+    "clean第1306—1308行：演讲时德国经济濒临崩溃，1923年11月货币改革",
+    "clean第1240行：迁德绍后阿尔伯斯正式受任“青年大师”，接掌初步课程——迁校与青年大师制度衔接",
+    "clean第1725—1729行：格罗皮乌斯先找密斯（遭拒）后提名迈耶；学生代表警告“Hannes Meyer as director of the Bauhaus is a catastrophe”",
+    "clean第1802—1808行：1930年8月密斯接任；任务为去政治化、压制激进学生、引入“与包豪斯原初理念格格不入的威权主义”"
+  ]
+}

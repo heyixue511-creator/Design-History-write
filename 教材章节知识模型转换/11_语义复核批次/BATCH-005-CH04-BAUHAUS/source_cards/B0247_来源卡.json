@@ -1,0 +1,143 @@
+{
+  "source_id": "B0247",
+  "corpus": "book",
+  "folder_name": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
+  "material_type": "企业/工坊专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986_clean.md",
+  "clean_source_sha256": "71BB94624A66777370F313BBAF91D3CECC8A7061823A1B53A2ACB26BB3E8D939",
+  "duplicate_group": "与Werkbund/包豪斯来源共享维也纳行动者与对象时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 126085
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "workshop_system_comparison_antecedent"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "education_workshop_link"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "founder_split_dynamics"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "decline_liquidation_chronology"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "enterprise_workshop_antecedent"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "milchkuh_sponsorship_economy"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "jugendstil_vienna_inversion"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "gesamtkunstwerk_domestication"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "secession_workshop_institutional_link"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "international_branch_expansion"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "late_20c_canon_reception"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "artifact_visual_archive"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "rosemark_trademark_evidence"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "archive_oral_history_layering"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "production_vs_success_guard"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "counterfactual_interpretive_claim"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "对工坊与Deutscher Werkbund及包豪斯的系统比较着墨有限（分析报告自认的局限），比较关系需由教材层补充",
+    "产品实际市场价格、生产成本与销售数据的量化分析不足，经济史叙述以事件链为主",
+    "对女性艺术家虽有第四章专门段落，整体未充分挑战性别叙事框架",
+    "部分关键论断属于作者解释框架而非直接史实，如“80%工坊雇员出自工艺美术学校”及一战为“转折点而非终点”的反事实论证",
+    "工坊设立与产品存在不自动证明市场成功或审美改善，成功叙事须以财务危机史实校准（1906诉讼、1913负债、1926破产）",
+    "口述史来源（Primavesi之女等当事人后代）带有利害立场，须与档案分层使用；Moser借款金额细节（申请10万克朗实付5万）易被简化误引",
+    "与Werkbund/包豪斯来源共享维也纳行动者与对象时只计一份P0，避免重复计数",
+    "知识涌现分析（00_方法与规则至04_知识发现报告）为P4推演，仅作语义路由，不构成新增史料",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第542—543行：工坊1903年由Josef Hoffmann、Koloman Moser、Fritz Wärndorfer创立；“咖啡馆闲聊”起源说被标注为二手叙述，Kallir强调此前已充分准备",
+    "clean第547—548行：成立前提（Bahr 1899年呼吁、Meier-Graefe 1900年、Wiener Kunst im Hause 1901年雏形）与外部模式（Ashbee英国手工艺行会1902年Hoffmann参观、Vereinigte Werkstätten 1897、Dresdner Werkstätte 1898）",
+    "clean第552—558行：工坊纲领（work program，1905年正式公布）——追随Morris/Ruskin、“与公众、设计师、工匠建立密切联系”、功用优先、拉平纯艺术与应用艺术、与Gesamtkunstwerk合并",
+    "clean第559—563行：1903年10月迁入Neustiftgasse三层建筑；金/银/金属、装订、皮革、细木工、油漆间等车间各以颜色编码",
+    "clean第748—752行：“Milchkuh（奶牛）”隐喻——工坊以“先买后付”哲学负债经营，1906年Zuckerkandl与Brauner因Hohe Warte住宅费用起诉",
+    "clean第757—758行：Wärndorfer未经Moser同意向Ditha Mautner-Markhof借款10万克朗、实付5万克朗；Moser 1907年初辞职",
+    "clean第763—764行：1907年Wärndorfer卖棉纺厂注资、1909年银行止赎、1913年秋以150万克朗债务停摆、1914年清算重组为GmbH（Primavesi家族持大股）",
+    "clean第765—766行：1915年Otto Primavesi任管理总监，“又找到一头奶牛”",
+    "clean第794行：Primavesi给众多穷亲戚在工坊及自家工厂安排职位（均不合格），1925年Häusler被迫离开——管理层裙带问题",
+    "clean第273行：分离派内部工艺取向的“Stylists（Stilisten）”与画家“Naturalists”对立，1903年后其核心即维也纳工坊",
+    "clean第2506行：Rosemark（玫瑰标记）1903年注册为工坊第一个商标",
+    "clean第570行：产品归属存在无法确定的情况（Hoffmann/Moser合作为主时期）"
+  ]
+}

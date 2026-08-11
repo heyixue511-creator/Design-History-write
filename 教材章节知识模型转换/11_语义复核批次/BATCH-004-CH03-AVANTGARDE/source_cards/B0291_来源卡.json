@@ -1,0 +1,145 @@
+{
+  "source_id": "B0291",
+  "corpus": "book",
+  "folder_name": "Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997",
+  "material_type": "以乌托邦理想为线索的三位行动者（罗德琴科、利西茨基、莫霍利-纳吉）比较性设计史专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Margolin, Victor：The Struggle for Utopia：Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946, 1997_clean.md",
+  "clean_source_sha256": "798CBB54E1EE7A082B66627E2ACD7842EB7B294CC336058DF6121933F7FBB61B",
+  "duplicate_group": "与B0277、B0222、B0269共享行动者文本与机构档案；同一文本只计一份P0",
+  "files": [
+    {
+      "report_file_count": 19,
+      "report_characters": 833848
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "production_art_artist_constructor"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "workers_club_1925"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "vkhutemas_metfak_curriculum"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "rodchenko_advertising_typography"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "fifo_new_photography_exhibition"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "politics_of_form_rodchenko_moholy"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "typofoto_new_typography"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "transnational_avantgarde_network"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "bauhaus_model_transfer_chicago"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "machine_perception_urban_modernity"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "utopia_as_design_engine"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_regime_tension"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "comparative_framework_actors"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "evidence_bias_secondary_sources"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "vkhutemas_vkhtein_institution"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "bauhaus_contrast_reference"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "本包语料仅覆盖第3、5、6、7章及结论（前两章及原书第4章未含），对全书结构与“人物各自章节”的完整性判断受限",
+    "“协商”概念可能高估个体能动性，对体制暴力的系统性约束估计不足；缺乏协商失败案例（如被清洗者）的同等考察",
+    "视觉分析过度依赖Margolin自身阐释，缺少读者接受层面证据（如《苏联建设》外国读者如何解读不可考）",
+    "对莫霍利-纳吉后期教育实践的评价偏向辩护性叙述，其“直觉驱动”方法论的量产失败被相对淡化",
+    "设计乌托邦主张（乌托邦作为设计动力）是作者的分析框架而非史实描述，引用时须标注为Margolin命题",
+    "三人比较框架为作者建构（Margolin命题）：三人共享宣言、期刊与机构档案，与B0277、B0222、B0269重叠，同一行动者文本按规则只计一份P0，去重后本书新增内容主要在其比较论证与视觉解读",
+    "关键政治推断缺乏直接证据：如“肃反知识必已通过友人消失传达”（must have come）、罗德琴科对白海运河实情的知晓程度均无定论",
+    "知识涌现分析（生产艺术为全书隐藏概念源头、视觉亚文本为道德论证重心等七大发现）是P4基于46个知识元与约152条语义链接的模型推演，仅作语义路由之用，不作为史实证据采信",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第23—24行：罗德琴科的设计非审美事务，而是意识形态、理论与实践的合成；“目的+技术+材料”构成物体生产的政治过程（第3章核心论题）",
+    "clean第101—113行：1925年巴黎国际装饰艺术博览会工人俱乐部与Ruhlmann收藏家住宅、Le Corbusier新精神馆的对照，“无产阶级生活方式模型”的政治意义（第3章）",
+    "clean第189行：关键转折——“通过艺术形式而非工业生产”罗德琴科的物体理念才到达公众，模块化与理想用户的市场从未实现（第3章）",
+    "clean第747—764行：FiFo展（1929年斯图加特）由Stotz主持、莫霍利-纳吉任顾问并组织引子展“摄影发展走向何方”；核心论点“privileged the techniques of representation...over questions of what to photograph and why”（第5章）",
+    "clean第792—794行：Fedorov-Davydov为俄译本《绘画、摄影、电影》作序，肯定莫霍利拓展感知之功但斥其为形式主义、脱离社会需要（第5章）",
+    "clean第809行：唯物论者罗德琴科vs.唯心论者莫霍利-纳吉的理论公式（第5章）",
+    "clean第836行、第865—871行：聚焦《苏联建设》（USSR in Construction）为分析单元；“再现与现实的不协和”因期而异，1935-1939年肃反期不协和加剧（第6章）",
+    "clean第1009—1018行：白海运河特辑的囚犯劳工背景、Slavin文本将苦役叙述为改造；罗德琴科照片与其本人1936年发言均缺批判性（第6章）",
+    "clean第1115—1119行：利西茨基“史诗叙事”（epic narrative）的定义——历史纵深感与照片、蒙太奇、绘画、地图的整合框架（第6章）",
+    "clean第1219—1224行：马雅可夫斯基纪念特辑中1924年肖像的“独立与反抗”品质构成视觉亚文本，“既是胜利也是失败”（第6章）",
+    "clean第1262—1263行：结论定性——“为乌托邦而斗争成为为生存而奋斗，微小抵抗成为可接受的终点；这宜读作失败的希望而非悲剧”（第6章结语）",
+    "clean第1557行：1946年MOMA会议莫霍利-纳吉原话——“designing is not a profession, but...an attitude”（第7章）",
+    "clean第1596—1601行：结论——协商作为前卫生存策略的定义；“前卫无法改变社会制度，但能改变个体”（结论）",
+    "clean第1048行：证据边界自认——罗德琴科对白海运河工地实情的知晓程度“仍无答案”（第6章）"
+  ]
+}

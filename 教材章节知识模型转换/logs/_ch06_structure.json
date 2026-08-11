@@ -1,0 +1,1285 @@
+{
+ "6.1": {
+  "grades": {
+   "X": 2,
+   "C": 3,
+   "B": 4,
+   "A": 2,
+   "D": 1
+  },
+  "count": 12,
+  "items": [
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "A",
+    "verification": "V2",
+    "role": "craft_aesthetics_discipline_foundation",
+    "accepted_claim": "工艺美学作为中国设计学本土化奠基：“工艺美术是造物的美术，工艺美学是造物的美学”；六大基本特征与“适用”范畴构成概念前史的核心学科资源",
+    "evidence_boundary": "概念界定为作者建构（1981年田自秉首倡经作者体系化）；“适用”引王朝闻信为史料",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "A",
+    "verification": "V2",
+    "role": "naming_reform_and_concept_history",
+    "accepted_claim": "1998年学科目录“工艺美术”→“艺术设计”是20世纪中国重要历史事件；名词变迁折射产业结构调整与意识形态纠缠；“工艺美术”名词兴衰（百工→图案→美术工艺→工艺美术→设计艺术）",
+    "evidence_boundary": "I章L8-L24（观念史+政策文献：学科目录、毛泽东批示、轻工部沿革、清末出使大臣奏折）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "prehistory_cartoon_visual_media",
+    "accepted_claim": "宋代《梅花喜神谱》为最早插图超越文字的印刷书；明清年画、石刻、小说绣像中的讽刺与图像叙事传统",
+    "evidence_boundary": "早期史依赖二手文献（Clunas、Flath、Bo），“漫画前史”认定本身有争议（Bader 1941反对）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "spatial_transfer_chain",
+    "accepted_claim": "东亚转译空间链条：日本→香港→内地（朝仓直巳《艺术·设计的平面构成》90年代初从香港传入，与色彩/立体构成合称'三大构成'）",
+    "evidence_boundary": "转译路径双向（日本反向影响中国）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "three_schools_thought_resources",
+    "accepted_claim": "儒道互补为主的思想格局（官方工艺以儒家为主导、民间工艺多符合道家），并对墨家重点论述——墨子为“第一位工艺美学家”，“兼爱节用”功利主义工艺观；道家“技进乎道”“大巧若拙”与器用观",
+    "evidence_boundary": "三家思想解读含作者诠释（如对李泽厚评墨子的反驳）",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "B",
+    "verification": "V2",
+    "role": "pre_history_of_concept",
+    "accepted_claim": "概念前史：观念史方法论、D1/D2区分、设计反思两条路径（技术史/观念史）",
+    "evidence_boundary": "方法论框架为作者建构，哲学资源（科林伍德、洛夫乔伊）有据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0427",
+    "title": "多作者论文集（14章+编者导言，由1995年英国艺术史家协会年会“Objects, Histories and Interpretations”分组论文结集，作者为博物馆策展人与大学学者）",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chinese_art_category_british_construction",
+    "accepted_claim": "作为反例/背景：“中国艺术”在英国是19-20世纪被博物馆、学院与市场建构的分类话语（陶瓷部门霸权、义和团赔款资助讲座），与东亚自身的现代设计转译叙事不同轨",
+    "evidence_boundary": "本书证据限于英国档案与话语，不覆盖东亚内部转译，故不作6.x核心来源",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "C",
+    "verification": "V2",
+    "role": "three_constitutes_import",
+    "accepted_claim": "“三大构成”（平面、立体、色彩）源自包豪斯基础课，经香港吕立勋与日本两渠道传入中国，成为设计教育概念史环节",
+    "evidence_boundary": "教育史事实性叙述，映射为概念前史补充",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pattern_education_system",
+    "accepted_claim": "图案教育制度（1902年三江师范学堂、北平美术学校、杭州国立艺术院）作为概念前史与设计教育基础",
+    "evidence_boundary": "教育史实有据，“图案为中国设计观念主要思想资源”为作者概括",
+    "status": "ACCEPTED_AS_SUPPLEMENT"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "D",
+    "verification": "V2",
+    "role": "role_term_context",
+    "accepted_claim": "本书对“现代建筑/现代性/风格化”的术语界定属建筑域概念工作，与“图案/工艺美术/设计”语义变化不同对象域，仅方法论参照",
+    "evidence_boundary": "第1章L16–22",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0209",
+    "title": "学术专著（非洲史×全球史×消费文化研究交叉的专题研究，Prestholdt在西北大学博士研究基础上成书）",
+    "grade": "X",
+    "verification": "V2",
+    "role": "east_asian_translation_mismatch",
+    "accepted_claim": "东亚转译章节区域不符——本书为东非案例，虽有转译概念共性，不作为东亚章节来源",
+    "evidence_boundary": "排除——区域不符",
+    "status": "EXCLUDE_AS_REGION_MISMATCH"
+   },
+   {
+    "source_id": "B0463",
+    "title": "跨学科建筑史专著（建筑史×东方主义批判×人类学×文化研究），以六届世博会伊斯兰建筑表征为对象的开创性研究",
+    "grade": "X",
+    "verification": "V2",
+    "role": "east_asia_translation_excluded",
+    "accepted_claim": "本书聚焦中东与北非伊斯兰世界，与1895—1949东亚转译及中国现代设计无实质关联，不作为6.1—6.7的来源",
+    "evidence_boundary": "章节排除基于主题域不相交，非质量判断",
+    "status": "EXCLUDE_AS_OUT_OF_SCOPE"
+   }
+  ]
+ },
+ "6.2": {
+  "grades": {
+   "C": 5,
+   "A": 9,
+   "B": 5,
+   "D": 1
+  },
+  "count": 20,
+  "items": [
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "local_machine_manufacture",
+    "accepted_claim": "1895-1937中国印刷机器本土制造兴起（明精机器厂张金林等“工头资本家”），打破对外国设备依赖并降低内陆出版门槛",
+    "evidence_boundary": "企业个案+学徒口述史+海关贸易数据；口述为P0但有回忆偏差",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "technology_transfer_1807_1930",
+    "accepted_claim": "1807-1930凸版/平版/凹版技术谱系经传教士传入（土山湾1876→点石斋1877商业化），文化审美（书法）决定技术选择",
+    "evidence_boundary": "技术编年（19媒介21机器）为作者整理；传教士报告、美华书馆年报为P0档案；“文化决定技术”为作者命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "A",
+    "verification": "V2",
+    "role": "national_goods_movement",
+    "accepted_claim": "国货运动与近代工商业、孙中山实业思想及上海商业美术家群体（周柏生、徐咏青、郑曼陀、杭穉英）构成晚清—民国设计观念的基础",
+    "evidence_boundary": "近代史段落综合陈旭麓、李长莉等二手文献与方志辑录",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "A",
+    "verification": "V2",
+    "role": "late_qing_industry_shift",
+    "accepted_claim": "晚清“师夷长技以制夷”与洋务运动开启由传统手工艺向近代工业的转变，“具有近代形态的工艺美学或设计美学开始了它的萌芽”",
+    "evidence_boundary": "人物名单与奏议以原文为准；开启论断为作者判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "A",
+    "verification": "V2",
+    "role": "qiyi_lingqiao_and_qidao_debate",
+    "accepted_claim": "“奇技淫巧”与“器道之争”：保守派倭仁vs洋务派“师夷长技”，张之洞“中学为体，西学为用”；近代器用观从拒购轮船到接纳“工业文明之美”的转变",
+    "evidence_boundary": "器物接受史叙述（杜兰德小火车、慈禧汽车、飞机变展品）为作者论证材料",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "A",
+    "verification": "V2",
+    "role": "late_qing_industry_and_national_goods",
+    "accepted_claim": "晚清洋务运动重商思想—以工立国—实业救国构成中国现代设计观念的经济思想起点",
+    "evidence_boundary": "序言与第三章以经济思想史为叙述框架，属作者建构+档案史实（论著原文引证）分层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_idea_transfer_via_products",
+    "accepted_claim": "设计观念随技术/工业产品跨国转移而渗透（德国汽车飞机、美国汽车无线电、福特生产方式）",
+    "evidence_boundary": "转移史实有档案文献，'观念载体'命题为作者理论概括",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "A",
+    "verification": "V2",
+    "role": "expo_and_design_transfer",
+    "accepted_claim": "博览会作为设计观念输入与展示节点（1925年巴黎国际装饰艺术博览会、1929年费城世博会、1904年路易斯安那世博会）",
+    "evidence_boundary": "事件记录有据，影响程度评估为作者判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "A",
+    "verification": "V2",
+    "role": "national_brands_and_national_goods",
+    "accepted_claim": "国货/老品牌（永丰泰国货号、无敌牌缝纫机、百雀羚、双妹、金龙牌热水瓶、华生电扇）作为民族工业设计载体与国货意识表征",
+    "evidence_boundary": "品牌史料来自左旭初藏品研究及口述整理，清单为作者编排",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "B",
+    "verification": "V2",
+    "role": "western_technology_introduction",
+    "accepted_claim": "晚清工业背景下的技术传入（铅印、石印、机械装订、洋纸进口）与本土印刷业回应（商务印书馆、扫叶山房采用西法），双面印刷促成装订技术改革",
+    "evidence_boundary": "近人叙述，无注释体系",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "B",
+    "verification": "V2",
+    "role": "traditional_craft_artisans",
+    "accepted_claim": "工匠与技术家系：蔡伦、毕昇、王桢、胡正言（饵版拱花）、吴发祥构成技术传承链；明代资本主义萌芽期插图版画黄金时代、徽派刻工",
+    "evidence_boundary": "掌故化叙述与人物谱系框架；部分人物为传说性记载",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "jingshi_zhiyong_legacy",
+    "accepted_claim": "明末清初经世致用实学传统（黄宗羲、顾炎武、王夫之、方以智）为洋务运动与近代工艺观提供理论依据，同时乾嘉考据未根本改变重道轻器",
+    "evidence_boundary": "思想家论断以原著互证，作者评述与史实需区分",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "B",
+    "verification": "V2",
+    "role": "low_industrialization_strategy",
+    "accepted_claim": "低度工业化论争（方显廷、丁趾祥丝绸优先、高叔康改良手工业）塑造民国设计产业条件",
+    "evidence_boundary": "经济思想史原文引证可靠，与设计发展的关联为作者推论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "B",
+    "verification": "V2",
+    "role": "late_qing_industrialization",
+    "accepted_claim": "甲午战后实业救国与西艺教育（同文馆1862、福州船政学堂1866、张謇广设工艺学堂）为图案/工艺教育提供制度背景",
+    "evidence_boundary": "教育机构史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0175",
+    "title": "设计改革制度史、劳动文化史、帝国与博物馆研究",
+    "grade": "C",
+    "verification": "V2",
+    "role": "china_at_exhibition_as_british_classificatory_discourse",
+    "accepted_claim": "关于中国产品和劳动的展览评论可用于审查英国如何分类晚清物品",
+    "evidence_boundary": "这是外部凝视且常带浪费劳动判断，不能承担中国国货、生产或接受史",
+    "status": "CONTEXT_ONLY_WITH_CHINA_P0_GAP"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "qing_antiimperialist_cartoons",
+    "accepted_claim": "清末报刊漫画参与反帝与抵制外货宣传：义和团时期反帝海报漫画、1910s抵制日货传单",
+    "evidence_boundary": "仅零星涉及，非本书主题，证据单薄",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0339",
+    "title": "世界博览会比较史、帝国文化史与展示政治研究",
+    "grade": "C",
+    "verification": "V2",
+    "role": "china_and_japan_at_world_fairs_as_external_view",
+    "accepted_claim": "中国、日本等参展线索可用于发现晚清东亚博览会研究问题",
+    "evidence_boundary": "书中材料零散且主要从西方展览框架观察，不能承担中国国货意识史",
+    "status": "CONTEXT_ONLY_WITH_CHINA_P0_GAP"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "C",
+    "verification": "V2",
+    "role": "tech_journals_propagation",
+    "accepted_claim": "《格致汇编》（1876）重科学理性、《点石斋画报》（1884）重生活想象，分别从技术与艺术推广工艺与社会生活联系",
+    "evidence_boundary": "属章节例证性材料，非专论报刊史",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "C",
+    "verification": "V2",
+    "role": "industry_demand_design",
+    "accepted_claim": "上海工业化（1914—1928新开工厂1229家）催生广告与美术设计部门需求，传统手工向机器生产转变",
+    "evidence_boundary": "二手统计数据（转引刘建辉2003、夏燕靖2006）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "D",
+    "verification": "V2",
+    "role": "role_background_context",
+    "accepted_claim": "晚清工业与博览会不在本书叙事范围（起点1920年代末），仅19—20世纪之交列强建筑输入的背景段可作时空铺垫",
+    "evidence_boundary": "第2章L42–43、L115",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "6.3": {
+  "grades": {
+   "A": 11,
+   "B": 6,
+   "C": 6
+  },
+  "count": 23,
+  "items": [
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "lithography_first_tech_choice",
+    "accepted_claim": "石印（1876-1905）而非铅印成为机械印刷真正起点：文化审美（书法）决定技术采纳顺序（“文化决定了技术”），修正欧洲中心叙事",
+    "evidence_boundary": "“石印先行论”与“文化决定技术论”为作者命题；“石印黄金时代97家企业”为统计（作者整理）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "commercial_press_hub",
+    "accepted_claim": "商务印书馆为技术引进中枢：19种媒介中13种、21种印刷机中15种首次在沪使用，商务独占7媒介6机器“中国首次”",
+    "evidence_boundary": "作者统计（Table 1.1/1.2）+企业史个案；商务企业档案为P0，与B0469等共享商务对象时仅计一份",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "textbook_war_tripod",
+    "accepted_claim": "商务（1897）、中华（1912）、世界（1921）三足鼎立竞争教科书市场，与政权从共生走向党国规制（1912-1928自由竞争→1928-1937受管制共处）",
+    "evidence_boundary": "三家企业史+教育统计；金港堂1903年注资商务为企业史事实（档案P0），但“鼎”隐喻为国家关系阐释",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "print_capital_visual_public_sphere",
+    "accepted_claim": "石印等现代印刷技术推动清末民初漫画杂志、画报、党派报纸勃兴，上海形成漫画视觉公共领域",
+    "evidence_boundary": "印刷史细节为二手综述（Rea、Laing、Bevan），本书非原创档案研究",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "A",
+    "verification": "V2",
+    "role": "print_capital_press_advertising",
+    "accepted_claim": "《申报》广告业（史量才、张竹平广告设计组、1915年广告面积超新闻面积）与《点石斋画报》石印新闻画构成上海印刷资本的视觉公共领域",
+    "evidence_boundary": "作者叙述+近代报刊史料；广告面积数据可回查《申报》档案",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "A",
+    "verification": "V2",
+    "role": "calendar_poster_industry",
+    "accepted_claim": "月份牌画为附年历商业宣传画：屈臣氏最早，周慕桥成名作，郑曼陀“曼陀风”，杭穉英开中国最早现代广告公司，金雪尘李慕白画室合作——月份牌产业机制（画室合作、商标包装）",
+    "evidence_boundary": "图像实物（月份牌图版）与叙述分层；画家生卒、作品名录为掌故式叙述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "A",
+    "verification": "V2",
+    "role": "printing_tech_history",
+    "accepted_claim": "雕版工序（书样—反贴—镌刻—试印—刷印）、泥/木/金属活字、饵版拱花、笺纸工艺构成完整技术链条；《金刚经》年代考辨",
+    "evidence_boundary": "实物与版本学著录分层；“绝不是最早”为作者个人推断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "print_capital_journal_periodization",
+    "accepted_claim": "民国期刊设计四分期（1815—1949）与全流程分类：封面、版式、印刷装订各环节独立研究，期刊设计应区别于书籍设计",
+    "evidence_boundary": "Ch06专章系统研究，以作者自藏与馆藏实物考据为据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "A",
+    "verification": "V2",
+    "role": "visual_public_sphere_book_cover",
+    "accepted_claim": "书衣借书刊流通实现「艺术大眾化」，构成印刷媒介上的视觉公共场域（移动的美术馆隐喻）",
+    "evidence_boundary": "隐喻为作者表述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "A",
+    "verification": "V2",
+    "role": "print_capital_publishing_market",
+    "accepted_claim": "民初出版社（商务印书馆、开明书店等）借封面设计吸引读者以应对出版竞争，市场与封面流通度相关",
+    "evidence_boundary": "兼引钱君匋回忆与李欧梵",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "A",
+    "verification": "V2",
+    "role": "print_technology_transition",
+    "accepted_claim": "西方凸版/石印印刷技术传入使装帧由雕版线装过渡到铅印线装与双面印刷胶装，直排改横排、右翻改左翻",
+    "evidence_boundary": "印刷技术史细节",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "printing_working_class",
+    "accepted_claim": "印刷工人阶级形成，1925/1927年大规模罢工，1930年代茅盾《右第二章》《少年印刷工》首次以印刷工人为主角书写",
+    "evidence_boundary": "学徒口述（1958-1962采集）+文学文本分析；口述为回忆性证据，文学书写为表征证据而非产业史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "print_capital_and_press_advertising",
+    "accepted_claim": "鸦片战争后石版印刷传入香港，报刊广告成为近代广告最显著标志；《星岛日报》《明报》广告、50年代“4A”广告商会与中外广告公司并存",
+    "evidence_boundary": "印刷技术史与报刊广告史实层，多转引行业史",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "advertising_industry_growth",
+    "accepted_claim": "广告总开支1971年2亿港元、2004年447.07亿港元（增223.5倍），90年代广告公司近千家，“亚洲广告之都”，广告大赛体系",
+    "evidence_boundary": "统计数据无档案直接佐证，属引述数据层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "print_capital_eastern_miscellany",
+    "accepted_claim": "《东方杂志》四十年刊名字体史显示金石趣味（篆隶为主）占据主流，是碑学大兴的结果；1933年改宋体美术字、1934年遵令改篆书祥云",
+    "evidence_boundary": "个案逐年考据，不能外推为全部民国期刊总论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "print_capital_layout_innovation",
+    "accepted_claim": "民国期刊引入“花边”（Frame）与“插画”（Cut）概念，经历直排改横排（1915《科学》）、双页排版、复式页码等版式变革，并受苏联构成主义、日本杂志设计等国际风格影响",
+    "evidence_boundary": "以《图案法讲义》为设计观念一手证据，覆盖封面、内页、印刷装订全流程",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "B",
+    "verification": "V2",
+    "role": "publisher_institution",
+    "accepted_claim": "商务印书馆1897年始创于上海、开明书店等现代出版机构兴起并延揽图案人才，构成印刷资本机构基础",
+    "evidence_boundary": "机构史实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "gutenberg_analogy",
+    "accepted_claim": "“谷登堡在上海”为修辞性类比：中国在古登堡前已有千年雕版印刷文化，机械印刷革命以石印起步而非活字，须标注为类比而非史实对等",
+    "evidence_boundary": "书名隐喻+作者命题；引用时必须标注类比性质",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "yuefenpai_commercial_art",
+    "accepted_claim": "月份牌广告画（关蕙农“月份牌王”）为近代香港最早商品广告形式之一，中西商业美术交汇的香港侧证据",
+    "evidence_boundary": "与上海月份牌同一研究对象——本书仅作香港侧证据，P0与上海侧来源合并只计一次",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "book_design_and_print_craft",
+    "accepted_claim": "香港书籍设计“工业性复制”工艺（灰平衡、“平衡点”延长灰调阶度、特种纸张油墨），并批评大陆出版印刷业“群体性观念的偏错”",
+    "evidence_boundary": "行业工艺描述+作者论辩层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "C",
+    "verification": "V2",
+    "role": "book_design_industry",
+    "accepted_claim": "旧平装书装帧设计业：铅印传入后封面由单色转多色，出现专门书刊封面装帧设计艺术（李叔同、闻一多、鲁迅、丰子恺书衣设计），商务印书馆等出版机构印制",
+    "evidence_boundary": "叙述框架+人物名录；“设计手法与世界先进水平同步”为作者判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "C",
+    "verification": "V2",
+    "role": "visual_public_sphere_advertising",
+    "accepted_claim": "广告媒介与视觉传播（1932-34年上海广告牌4000平方米、霓虹灯广告、张光宇广告摄影术、月份牌远销全国）涉及视觉公共领域",
+    "evidence_boundary": "本书以观念史为主轴，印刷资本机制非其重点，仅局部关联",
+    "status": "ACCEPTED_AS_SUPPLEMENT"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_professionalization",
+    "accepted_claim": "「从图案到设计」专业化叙事：美术与设计（图案）专业分化前，商业美术在书籍装帧领域先完成开拓",
+    "evidence_boundary": "结论L372（P8命题）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   }
+  ]
+ },
+ "6.4": {
+  "grades": {
+   "B": 8,
+   "C": 4,
+   "A": 5
+  },
+  "count": 17,
+  "items": [
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "A",
+    "verification": "V2",
+    "role": "shanghai_urban_consumer_culture",
+    "accepted_claim": "五口通商后上海成最大商埠，租界洋商资本与民族资本汇聚“十里洋场万商云集”；市民文化兴起，月份牌画推波助澜",
+    "evidence_boundary": "作者叙述+常识性判断；“繁华不亚于伦敦纽约”为价值判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "A",
+    "verification": "V2",
+    "role": "calendar_poster_advertising",
+    "accepted_claim": "月份牌画为附年历商业宣传画（画家与广告公司个案）",
+    "evidence_boundary": "图像实物与叙述分层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "A",
+    "verification": "V2",
+    "role": "shanghai_urban_consumer_culture",
+    "accepted_claim": "上海都市消费文化：月份牌广告、电影、霓虹灯广告、云裳时装催生设计现代性",
+    "evidence_boundary": "个案深描（杭穉英、张光宇、周瘦鹃）支撑，概括性判断属作者",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "A",
+    "verification": "V2",
+    "role": "shanghai_urban_modernity",
+    "accepted_claim": "1920年代上海为世界级摩登都市，外滩建筑与南京路摩天楼体现新古典主义向装饰艺术的转变",
+    "evidence_boundary": "转引李欧梵、刘建辉",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "A",
+    "verification": "V2",
+    "role": "commercial_art_consumption",
+    "accepted_claim": "「商业美术」名词1925年前后出现，上海产业化催生广告与美术设计部门需求",
+    "evidence_boundary": "1914—1928上海新开工厂1229家（转引刘建辉2003）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "textbook_market_growth",
+    "accepted_claim": "教科书市场爆炸性增长：全国学生1905年10万→1937年1300万，学费支出2100万→7300万元，驱动上海出版消费经济",
+    "evidence_boundary": "教育统计为作者整理（次级统计），依赖政府审定制度分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bookseller_consumer_economy",
+    "accepted_claim": "文化街位于外滩金融区与南京路/广东路奢侈品街区之间，象征书业在上海消费经济中的暧昧位置（文化保守与文化转型前沿）",
+    "evidence_boundary": "正文空间分析+附录书店分布；都市消费语境为作者阐释层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "urban_fashion_modernity",
+    "accepted_claim": "时尚是现代都市生活的核心维度：百货商店创造“与外部世界完全分离的消费梦幻世界”，将购物建构为独立休闲与审美体验，是现代女性形象的塑造空间",
+    "evidence_boundary": "提供消费文化机制理论而非上海在地史料；上海仅一处转引（clean第306行），须与上海百货公司一手史料互证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "shanghai_urban_consumption_culture",
+    "accepted_claim": "上海漫画杂志（上海漫画1928–1930等）依托邵洵美等出版赞助人、都市读者市场与石印海报形式发展",
+    "evidence_boundary": "消费市场细节来自二手文献（Laing 2010、Bevan 2016），本书未做广告与销售数据分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "B",
+    "verification": "V2",
+    "role": "republican_material_culture",
+    "accepted_claim": "民国装裱业（含作假系统）、书信笺纸（诗婢家、《百花诗笺谱》《北平笺谱》）、六类广告形式多半首创于上海后蔓延至京津汉渝",
+    "evidence_boundary": "掌故式叙述为主；造假系统细节近口述性质材料",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "shanghai_consumer_culture",
+    "accepted_claim": "上海为早期最具资本主义色彩的城市：西式器物与生活方式渗入百姓日常，《嘉定县续志》等方志记录生活变迁；商业美术家自商业接触中成长",
+    "evidence_boundary": "上海仅为第一章近代史段落之一，非专论上海消费文化；方志引文为转引二手辑录",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "B",
+    "verification": "V2",
+    "role": "film_and_mass_entertainment",
+    "accepted_claim": "30年代电影作为大众娱乐“现代性”风向标（联华/明星公司、左翼影人、片单）",
+    "evidence_boundary": "电影史料翔实，“电影造梦”阐释为作者",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "B",
+    "verification": "V2",
+    "role": "urban_sensory_culture",
+    "accepted_claim": "《妇女杂志》封面等书衣以「东西混合的艺术语言」刻画上海感官世界（舞厅、娼妓、电影、好莱坞影星照）",
+    "evidence_boundary": "例证（《神女》《马路天使》《良友》《明星》等）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0079",
+    "title": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "visual_advertising_material",
+    "accepted_claim": "全书28幅图（印刷机、字体、厂房、广告、地图、肖像）与点石斋广告等视觉材料作为与文字同等重要的一手史料",
+    "evidence_boundary": "视觉材料清单+图像分析；广告/装帧图像与B0505/B0469书籍装帧对象可能有交集",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "shanghai_hong_kong_consumption_contrast",
+    "accepted_claim": "石汉瑞受20世纪20年代上海广告画影响、靳埭强中国银行CI等提供沪港都市消费文化对照的侧证",
+    "evidence_boundary": "本书非上海专论，仅作对照侧证（P1层）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0505",
+    "title": "移动的美术馆 20世纪初中国的书籍装帧设计与商业美术",
+    "grade": "C",
+    "verification": "V2",
+    "role": "semicolonial_modernity",
+    "accepted_claim": "上海半殖民地空间（租界、「魔都」「野蛮都市」）与摩登艺术追求并存，呈现都市现代性内部张力",
+    "evidence_boundary": "村松梢风/芥川龙之介转引；L299—301引文OCR错乱",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_spatial_evidence",
+    "accepted_claim": "上海都市消费文化的建筑空间载体：旅馆、公寓、银行、百货等新类型建筑实例（沙逊大厦、国际饭店、百老汇大厦等）",
+    "evidence_boundary": "第2章L115输入建筑类型清单",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "6.5": {
+  "grades": {
+   "A": 5,
+   "B": 9,
+   "C": 4
+  },
+  "count": 18,
+  "items": [
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "A",
+    "verification": "V2",
+    "role": "hong_kong_education_lineage",
+    "accepted_claim": "香港设计教育沿革：1955美专设计系→1960工业学院商业美术及设计系→1967理工专科学校→1981太古设计学院→1980正形设计学校；王无邪引包豪斯为教育先导，构成多层次教育体系",
+    "evidence_boundary": "教育史实层（院校沿革、人物履历）可核，包豪斯传播链为本书核心论述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "A",
+    "verification": "V2",
+    "role": "hong_kong_designer_lineage",
+    "accepted_claim": "石汉瑞（跨文化设计代表）、王无邪（设计教育开山）、靳埭强（中西融合旗手）、陈幼坚、李永铨、刘小康等23位设计师构成香港设计谱系",
+    "evidence_boundary": "人物谱系史实层；与B0517/B0492共享同一对象时P0只计一份",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "education_mediation_beijing_art_school",
+    "accepted_claim": "北京美术学校（1918）是中国近代第一个开设图案专业的国立美术学校，图案专业延续至1956年分设中央工艺美术学院，形成北京美术学校—国立北平艺专—中央工艺美术学院教育谱系",
+    "evidence_boundary": "Ch05专章，以七本图案法讲义（其中四本2010年新发现）的一手考证为据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "japan_intermediary",
+    "accepted_claim": "日本作为东亚中介：水谷武彦译'构成'自Gestaltung、高桥正人建立构成学科并'在教育制度上根本改革'、朝仓直巳'三大构成'经香港传入内地",
+    "evidence_boundary": "构成教育制度转译链条完整",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "hong_kong_second_intermediary",
+    "accepted_claim": "香港作为第二层中介：吕立勋1979年在中央工艺美院开'设计中国'讲座（王无邪构成理论）、1980年'设计捌拾'展、广州美院1986年设构成专业",
+    "evidence_boundary": "香港—内地教育中介证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "intercultural_design_practice",
+    "accepted_claim": "石汉瑞以异族眼光将文化融入设计、以国际主义美学表达当地文化，如Jade Creations珠宝（1972）、香港电话公司标志（1978）",
+    "evidence_boundary": "概念框架+作品个案，作品断代可核",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_institutions_and_awards",
+    "accepted_claim": "香港设计师协会（1972）、香港设计中心（2001，特区政府年资助2000万港币）、四大奖项（亚洲最具影响力/设计领袖/青年才俊/世界华人）构成制度化网络",
+    "evidence_boundary": "机构史实可核；协会成立年份以L9为1972年",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "creative_industry_policy",
+    "accepted_claim": "创意工业概念引英国政府定义，1999年《信报》、2000年香港艺术发展局《创意工业导论》、2002年特区政府咨询文件，香港进入创意工业时代",
+    "evidence_boundary": "概念转引+政策文件序列，属当代制度层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "education_mediation_pattern_curriculum",
+    "accepted_claim": "“图案法”自《北京美术学校学则》（1918）核准之日起即为核心课程，图案、绘画及其他美术类专业均须修习，对中国现代设计教育影响深远",
+    "evidence_boundary": "讲义实物与学则文献互证，覆盖1918—1922北京美术学校时期",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "education_downward",
+    "accepted_claim": "教育制度向下延伸：武井胜雄将基础训练实施于小学、1934年与川喜田炼七郎编《构成教育大系》、川喜田的'建筑工艺研究所'培养出龟仓雄策",
+    "evidence_boundary": "中小学构成教育为制度转译的纵深证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "education_institution_and_east_asian_mediation",
+    "accepted_claim": "1956年中央工艺美术学院建立使“工艺美术”概念深入人心；“意匠”源于日本转译；香港担当连接欧陆的“中介”角色；XI章论设计教育理想与生活互动",
+    "evidence_boundary": "I章L92-L99、XI章L244-L279（教育观念论述，非制度史专著）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "st_john_tongji_education_transfer",
+    "accepted_claim": "黄作燊1942年圣约翰大学建筑系引入包豪斯式教学体系，1952年并入同济，构成中国现代建筑教育制度转译起点",
+    "evidence_boundary": "毛其智、Kögel、殷正声三篇互证，但早期课程细节多赖口述与回忆",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hong_kong_design_education_transfer_mainland",
+    "accepted_claim": "香港设计教育经王无邪基础课模式与1979年广州美院讲学等事件向内地转移",
+    "evidence_boundary": "靳埭强口述为单源证据；事件可考但影响程度无独立评估",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "taiwan_japan_intermediary_education",
+    "accepted_claim": "台湾设计教育经日据时期殖民教育（姚村雄）与战后美国影响（王行恭）两条线接受包豪斯",
+    "evidence_boundary": "两篇视角有差异且编者未加按语；姚村雄有总督府规章、海报展档案支撑",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "east_asian_intermediary_japan",
+    "accepted_claim": "1920s–30s日本视觉元素与留日漫画家（丰子恺等）构成东亚中介环节，影响上海漫画与宣传画",
+    "evidence_boundary": "日本影响论述零散，未系统论证中介机制与教育制度关联",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "digital_and_postmodern_design",
+    "accepted_claim": "电脑美术字/数码字体使字体演变“非标准化、民主化”逆转，解构主义影响90年代设计；电脑引入1980年代",
+    "evidence_boundary": "行业性描述层，技术史判断较概括",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_education_evidence",
+    "accepted_claim": "留学网络与建筑教育实证：第一代建筑师留美以宾夕法尼亚大学学院派为主；柳士英留日；梁思成在清华引入包豪斯体系",
+    "evidence_boundary": "第1章L94、第3章L271、第4章L360–361",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0517",
+    "title": "靳埭强：《中国现代设计与包豪斯＝BAUHAUS CHINESE MODERN DESIGN》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "shantou_curriculum_reform",
+    "accepted_claim": "汕头大学长江艺术与设计学院以中国文化为本、心手合一的整体教学改革，超越三大构成引进",
+    "evidence_boundary": "靳埭强自述教学实践，教学报告性质、无独立评估",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   }
+  ]
+ },
+ "6.6": {
+  "grades": {
+   "B": 11,
+   "C": 6,
+   "A": 4
+  },
+  "count": 21,
+  "items": [
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "A",
+    "verification": "V2",
+    "role": "national_form_identity",
+    "accepted_claim": "中国平面设计民族特质“沉静而有内力”，汉字本位、书法即高级字体设计，雕版/装裱/饵版拱花为“完全中国化的独门艺术”，驳斥“中国平面设计源于西方”论",
+    "evidence_boundary": "强烈价值判断+中西比较论证；“中国是世界老大”等断语缺乏可比性论证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "A",
+    "verification": "V2",
+    "role": "national_form_jinshiwei",
+    "accepted_claim": "“金石味”（碑学趣味）通过文字设计进入印刷媒介与公共视觉文化，参与中国现代“民族性”建构；进步知识界与政府文化保守主义者几乎一致认可其为民族性重要表征",
+    "evidence_boundary": "Ch03专章，以《东方杂志》与钱君匋及其师友圈（鲁迅、闻一多、郑午昌）为中心",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "A",
+    "verification": "V2",
+    "role": "national_style_and_modern_form_debate",
+    "accepted_claim": "设计风格是民族的文化生存战略；“设计之道归于风格”，“道”含技术途径/风度格调/形而上体系三层；全球化下以国际语言“呈现”本土文化；风格自觉形成与自然形成两阶段",
+    "evidence_boundary": "XIII章L316-L349（风格论与跨文化比较）、前言L3",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "role_primary_evidence",
+    "accepted_claim": "民族形式与现代形式之争的完整史实链：苏联“社会主义内容、民族形式”口号输入→梁思成理论中国化→宫殿式/少数民族式/苏式三类型→第一次反浪费运动斥“复古主义”→十四字方针确立（1955）",
+    "evidence_boundary": "第4章L311–524；分章报告Ch04",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_form_modern_form_debate",
+    "accepted_claim": "延安文艺路线与民族形式：米谷《小二黑结婚》以水墨线描避开西方明暗法，符合毛泽东延安讲话主张",
+    "evidence_boundary": "案例单一，论证强度中等；民族形式之争非本书主题展开",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_form_debate",
+    "accepted_claim": "驳“香港现代设计是西方照抄翻版”论，主张“本色”为中国传统文化审美趣味，“具有中国特色的现代和后现代设计”；回归后“国家观念和民族意识昭然可见”",
+    "evidence_boundary": "作者立场性论辩层，构成民族形式之争的香港样本",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "B",
+    "verification": "V2",
+    "role": "art_nouveau_localization",
+    "accepted_claim": "新艺术运动经谢列特、穆卡海报传入，郑曼陀等将西方美女换成中国女子形成“曼陀风”，被纳入新艺术运动在中国的兴起与发展的世界语境",
+    "evidence_boundary": "作者判断框架；“绝不落后于任何先进国家”为价值判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "B",
+    "verification": "V2",
+    "role": "decline_narrative",
+    "accepted_claim": "“民国最后的辉煌—此后衰落”叙事：民国平面设计繁荣为史上最后辉煌，之后未再达世界一流水平；篆书等传统退出使用舞台",
+    "evidence_boundary": "个人价值判断，非实证结论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_form_hanwen_zhengkai",
+    "accepted_claim": "汉文正楷是文化民族主义的话语实践：1935年郑午昌呈请蒋介石确立楷书标准书体地位，既有利于印刷时代传承固有文化，又对现代中文字体设计现代化形成阻碍",
+    "evidence_boundary": "个案研究，两通指令影响因材料缺失采取“勾勒”式处理",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_form_modernity_identity",
+    "accepted_claim": "现代化不主动建构民族性，但会激发特定族群对文化认同的寻求；民族性往往通过回溯久远历史获得",
+    "evidence_boundary": "作者理论判断，属论文集观点而非定论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_form_ancient_heritage",
+    "accepted_claim": "敦煌千年艺术遗产的“再发现”影响中国现代设计与视觉文化；研究新中国“民族风格”（如北京十大建筑）不能越过古代艺术遗产的价值",
+    "evidence_boundary": "导论性论述（研究途径第一条），非专章研究",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "craft_vs_modern_debate",
+    "accepted_claim": "80年代“工艺美术”与“现代设计”之争：辛华泉《论构成》、杭间《对“工艺美术”的诘难》（1986《中国美术报》）、对比公式、Crafts改Design、“三股并列”（张道一），作者取“扬弃”立场",
+    "evidence_boundary": "论争史实可考（刊物原文），“扬弃”评价为作者立场；与民族形式/现代形式之争为平行论域",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_form_mural",
+    "accepted_claim": "首都机场壁画“民族新传统”（张仃“以线为基础”、中国重彩/水墨与传统工艺手法）与西方现代艺术（肖惠祥变形手法）的中西合璧，作为“文革”后视觉艺术首次真正中西合璧与当代设计起始点",
+    "evidence_boundary": "事件叙述基于袁运生/袁运甫口述与《人民日报》报道，“起始点”定论为作者判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "from_craft_to_design_transition",
+    "accepted_claim": "1998年学科目录“工艺美术”改称“艺术设计”；“工艺美术”与“设计艺术”不是截然分开的东西，而是中国设计的两个过程；传统工艺是“唤醒中国本土设计面向世界的重要源泉”",
+    "evidence_boundary": "“一个名词兴衰的背后”为作者史学解释，学科目录事实（1998年）可独立核验",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_form_vs_modern_form",
+    "accepted_claim": "民族形式与现代形式之争：80年代图案与“三大构成”论战、工艺美术vs工业设计两错误道路论、西化vs自主之争",
+    "evidence_boundary": "论争梳理为作者叙述，双方观点有脚注文献支撑",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "identity_and_national_symbols",
+    "accepted_claim": "香港区旗区徽（紫荆花五星）、城市形象飞龙标志（陈幼坚操刀，2001年推出）、凤凰卫视标志（彩陶凤鸟“喜相逢”）——设计史与政治认同直接连接",
+    "evidence_boundary": "个案描述层，作品与年份可核",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chinese_character_design",
+    "accepted_claim": "美术字分平面/立体/创意三类，汉字方块字表意与拉丁字母构词对比，“字骨”不变隐忧——汉字设计现代转型的民族形式面向",
+    "evidence_boundary": "行业描述层，与6.6民族形式议题相关",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0469",
+    "title": "刘小羊：《中国平面设计史论稿》，2016",
+    "grade": "C",
+    "verification": "V2",
+    "role": "japanese_reference_comparison",
+    "accepted_claim": "日本平面设计渊源于中国（绘卷、书道、水墨画、浮世绘），明治维新后转向西化，“模仿中的创造”反衬中国近代平面设计传承问题",
+    "evidence_boundary": "域外参照框架，附录性质；中日传播链为作者勾勒",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "C",
+    "verification": "V2",
+    "role": "decor_debate",
+    "accepted_claim": "装饰功罪之辩：卢斯“装饰即罪恶”到“装饰热”到“丑陋建筑评选”，作者强调装饰的启蒙价值与双面性",
+    "evidence_boundary": "散见第四章，非专节论述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modern_decorative_art_dilemma",
+    "accepted_claim": "近代装饰艺术：装饰的伦理、政治与救国维度，“艺术地生活”理想的艰难；装饰艺术运动经庞薰琹传入中国，但在产业薄弱与意识形态语境下沦为少数人的艺术趣味",
+    "evidence_boundary": "本章为专论性叙述，与6.6民族形式争论的对应为间接语义关联",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "C",
+    "verification": "V2",
+    "role": "liyu_daily_life_aesthetics",
+    "accepted_claim": "李渔工艺美学思想：生活日用美学的系统个案，“制体宜坚”、“取景在借”，为民族生活美学与日常器用设计思想提供传统资源",
+    "evidence_boundary": "本章为个案专论，与6.6的关联在于本土生活美学传统资源",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   }
+  ]
+ },
+ "6.7": {
+  "grades": {
+   "B": 5,
+   "A": 2,
+   "C": 3
+  },
+  "count": 10,
+  "items": [
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "wartime_propaganda_production",
+    "accepted_claim": "1930s–1949年中国漫画被全面“武器化”：救亡漫画宣传队、传单、报纸杂志、壁画、木刻、幻灯构成战时宣传生产体系",
+    "evidence_boundary": "漫画图像的供给与再现可证；宣传效果（如传单对日军士气）多为转引二手证据，不能证明接受",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "cartoon_leaflet_content_analysis",
+    "accepted_claim": "31幅反日漫画传单的内容分析：主题（日本暴行、帝国主义、汉奸）、战果清单、格式特征（单面单张、色块、单幅为主、绘制粗陋）",
+    "evidence_boundary": "样本以八路军/新四军来源为主（clean L995），国民党传单样本极少；图像学描述不等于传播效果",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "cartoonist_oral_testimony_wartime",
+    "accepted_claim": "救亡漫画宣传队五名队员（特伟、张仃、廖冰兄、韩尚义、麦非）的口述史记录战时漫画生产的组织与迁徙路线（沪→宁→汉→长→桂→渝）",
+    "evidence_boundary": "口述为回溯性记忆，存在版本分歧（宣传队解散原因麦非版vs特伟版），需交叉核对",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0219",
+    "title": "John A. Lent：《Comics Art in China》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "kmt_ccp_propaganda_comparison",
+    "accepted_claim": "国共两党战时漫画宣传策略对比：共产党系统组织化、国民党宣传“涣散低效”",
+    "evidence_boundary": "对比评价部分依赖国民党批评性二手文献，与作者自认的共产党视角偏向叠加",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "war_propaganda_poster_schema",
+    "accepted_claim": "中国宣传画作为画种的兴衰由其属性与历史语境决定；其“图式”（Schema）是视觉的范式或程式，支撑它的是话语和思想",
+    "evidence_boundary": "Ch10历时性画种研究，覆盖延安至毛泽东时代宣传画",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0472",
+    "title": "周博：《断裂与绵延：中国现代设计史研究》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "war_propaganda_yanan_style",
+    "accepted_claim": "延安设计样式是毛泽东时代形成的革命现代主义设计模式，延安美术设计创作萌芽对毛泽东时代设计具“原型”意义",
+    "evidence_boundary": "概念界定为主，非专章展开",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0492",
+    "title": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "nationalization_case",
+    "accepted_claim": "区域转译的民族化个案：柳宗理（水谷武彦学生、柳宗悦之子）将功能主义与民艺传统结合，蝴蝶凳1957年获米兰三年展金奖——'用就是美'",
+    "evidence_boundary": "个案性证据，不作普遍命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "C",
+    "verification": "V2",
+    "role": "wartime_propaganda_image",
+    "accepted_claim": "延安木刻、政治招贴/新年画传统构成“中国式”现代设计图像之源；桑塔格论政治招贴全文直引",
+    "evidence_boundary": "第一章图像现代性小节例证，非战争宣传史专论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "C",
+    "verification": "V2",
+    "role": "image_modernity_book",
+    "accepted_claim": "《新青年》中西混排书籍革命、鲁迅对木刻与书籍装帧的贡献、1992年深圳“平面设计在中国”展——平面设计最先与国际接轨",
+    "evidence_boundary": "以图像案例论证观念变迁，属叙述性证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_contextual_evidence",
+    "accepted_claim": "战争环境中的建筑与思想延续：1937–1949十一年战乱中现代建筑思想“深入”，战时反思与科学主义传播（2.3节）",
+    "evidence_boundary": "第2章L108–194，总纲L42–43",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ }
+}

@@ -1,0 +1,18 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0342,3.5,A,V2,symbiotic_origin,风格派1917—1919年由蒙德里安、范德莱克、胡萨尔、杜斯堡四画家共生发展而成，非蒙德里安一人之功；1917年10月创刊为起点,Overy叙事框架（Ch01 L4-11）+书信互证；与B0048共享蒙德里安对象，只计一份P0,clean L8、L10,ACCEPTED_AS_CORE_SOURCE
+B0342,3.5,B,V2,diagonal_conflict_elementarism,对角线之争：蒙德里安正交平衡（水平=大地、垂直=人类）vs杜斯堡反构图/元素主义（对角线=运动、机械生命），1925年决裂；元素主义=动态非还原论抽象,Overy叙事框架+行动者文本（De Stijl 1926-27元素主义文章）；与B0363可能共享元素主义对象，只计一份P0,clean L141、L1025、L1034-1035,ACCEPTED_AS_CORE_SOURCE
+B0342,3.5,B,V2,unity_in_diversity,「多样中的统一」（unity in diversity）源自Berlage楔石概念，贯穿绘画构图、家具结构、建筑立面与住宅社区，为合作美学思想基础,Overy叙事框架；原文回查事项须落实,clean L341、L730两行未在grep结果中出现，须另行核对,ACCEPTED_AS_CORE_SOURCE
+B0342,3.5,A,V2,machine_aesthetic,杜斯堡1921年创用「机器美学」概念（Bouwkundig Weekblad三文），1923-4年后自我修正转向空间-时间/第四维度,Overy转述杜斯堡文章（行动者文本之转引）；「似乎首创」为Overy推断，须回查Bouwkundig Weekblad原文核实,clean L991、L1020、L1030-1031,ACCEPTED_AS_CORE_SOURCE
+B0342,3.5,A,V2,red_blue_chair_schroeder,里特维尔德红蓝椅（约1918）与施罗德宅（1924，与施罗德夫人合作）为风格派三维/空间实现；红蓝椅有Wright/Berlage/Klaarhamer先例，修正「绝对全新」成说,Overy综合叙述+引Frampton/Giedion；与B0048/B0276/B0363共享红蓝椅、施罗德宅对象（同一对象只计一份P0）,clean L182、L190-191、L211、L266-276,ACCEPTED_AS_CORE_SOURCE
+B0342,4.7,A,V2,de_stijl_international_transmission,风格派经杂志、展览、包豪斯、俄国先锋派、法国（Rosenberg展/Aubette）跨国传播，成为现代主义正典建构的一环；「De Stijl was never really a group」,Overy综合叙述；De Stijl杂志传播记录为行动者文本,clean L1062、L1096-1129、L1213、L1437-1453,ACCEPTED_AS_CORE_SOURCE
+B0342,4.7,A,V2,reproduction_as_production,「复制即生产」：风格派身份与经典地位由杂志、展览、修复、商品化与历史写作持续建构（接受史/再生产史命题）,Overy末章元理论命题，引用时须标注为其观点,clean L1441、L1453-1454、L1467,ACCEPTED_AS_CORE_SOURCE
+B0342,4.7,B,V2,american_canonization,美国经典化机制：Dreier 1926购《Composition in White and Black》并更名《Clarification》、Barr 1936称杜斯堡如文艺复兴人物、MOMA 1952-3展Johnson论证,Overy叙事框架（Ch10）,clean L1415-1427,ACCEPTED_AS_CORE_SOURCE
+B0342,4.7,B,V2,historiography_canon,历史写作建构正典：Jaffé 1956首部专论（至1980s档案开放为标准之作）、Banham 1960《Theory and Design in the First Machine Age》给风格派中心位置,Overy叙事框架（Ch10）,clean L1428-1439,ACCEPTED_AS_CORE_SOURCE
+B0342,2.5,B,V2,prehistory_contrast,风格派前史对照：立体主义、未来主义、通神学、Ruskin/Morris工艺美术背景、Wright建筑先例（范特霍夫、威尔斯、奥德）,Overy叙事框架+二手研究（Blotkamp、Troy）,clean L12-15、L18、L326,ACCEPTED_AS_CORE_SOURCE
+B0342,2.5,C,V2,mondrian_prehistory,蒙德里安1912移居巴黎学立体主义，通神学（Schoenmaekers《造型数学原理》）为几何化精神根源，战后滞留荷兰发展「Pier and Ocean」系列,Overy叙事框架（Ch01）,clean L12-25,ACCEPTED_AS_CORE_SOURCE
+B0342,0.4,A,V2,schroeder_house_artifact,施罗德宅（1924-25）：里特维尔德首座完整建筑，施罗德夫人为共同设计者而非单纯客户，1923底始设计、1924末入住、1985年夫人去世后修复,档案（Rietveld-Schröder档案）+当事人访谈（Overy 1988、Troy 1983）；与B0276共享施罗德宅对象，只计一份P0,clean L605-624、L639-646,ACCEPTED_AS_CORE_SOURCE
+B0342,0.4,A,V2,schroeder_not_concrete,施罗德宅并非混凝土建造：里特维尔德原想用混凝土板（当时新技术）而未实现,档案实证修正成说,clean L646,ACCEPTED_AS_CORE_SOURCE
+B0342,0.4,B,V2,red_blue_chair_artifact,红蓝椅（1918原型）：并非绝对全新发明，Wright、Berlage、Klaarhamer有先例；1930s起以两版本量产，1971年Cassina获授权,档案（Rietveld-Schröder档案价目表）+评论史对照（Giedion vs后起评论者）；与B0048共享红蓝椅对象，只计一份P0,clean L190-196、L211-214、L217,ACCEPTED_AS_CORE_SOURCE
+B0342,0.6,A,V2,oud_correction,Oud从未任鹿特丹市建筑师——通行说法错误之纠正,档案修正成说（Oud档案）,clean L701,ACCEPTED_AS_CORE_SOURCE
+B0342,0.6,A,V2,aubette_correction,Aubette并非纳粹毁坏——早在1930年已被大改,档案修正成说,clean L1333,ACCEPTED_AS_CORE_SOURCE
+B0342,0.6,A,V2,reproduction_elided_production,复制即生产：风格派生产自始高度依赖复制（杂志插图、展览、修复、重建、商品化、历史写作），「reproduction is elided into production」,Overy理论框架（末章），行动者文本与作者理论化表述分层,clean L1440-1467,ACCEPTED_AS_CORE_SOURCE

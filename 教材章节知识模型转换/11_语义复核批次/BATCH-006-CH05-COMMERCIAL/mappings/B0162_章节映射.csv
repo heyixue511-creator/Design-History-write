@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0162,0.5,A,V2,poster_as_visual_evidence,原文明言“海报也是时代的记录”（record of the times），且革命海报“在塑造事件中扮演积极角色”——海报作为图像史料（图像证据）的定位有直接文本支持,“塑造事件”系作者修辞框架；记录内容（自由帽、三色标语）由图像自证,clean第32—41行,CONTEXT_ONLY
+B0162,0.5,B,V2,poster_evidence_boundary,海报可证生产端意图与时代符号（自由帽、“自由平等博爱”、巴士底狱符号商品化），不能证明大众如何接受,“大众观念”叙述来自Gallo社会史框架，须标注为作者判断,clean第36—41、67行,CONTEXT_ONLY
+B0162,0.5,C,V2,political_propaganda_poster_evidence,战争与极权时期海报（征兵、公债、纳粹/苏联宣传）可作为政治意识形态的图像史料,文本/图像自证其宣传内容；宣传效果为作者论断,clean第1721、1895、2342行,CONTEXT_ONLY
+B0162,2.4,B,V2,department_store_retail_media,百货商店（Crespin & Dufayel、Au Moine Saint-Martin、1920年Galeries Lafayette）以巨幅海报成为现代零售的广告媒介枢纽，“销售工厂”重构城市商业空间,案例集中于巴黎（1880s—1920s），英/美百货商店证据在本来源缺失,clean第422—445行,CONTEXT_ONLY
+B0162,2.4,C,V2,department_store_advertising_values,百货商店海报模特均为中产阶级装束、儿童为父母“小型复制品”——广告媒介衔接中传递中产阶级价值观与稳定性理想,“非自愿但有效地传播心态”系作者概括，无受众调查证据,clean第435—440、470行,CONTEXT_ONLY
+B0162,2.4,C,V2,department_store_competition_small_business,百货商店凭借广告能力挤压小商铺（“小商铺无力开展大规模广告”），广告媒介强化零售业集中,仅法国语境，作者单句判断,clean第428—429行,CONTEXT_ONLY
+B0162,5.2,C,V2,mass_consumption_advertising_expansion,19世纪末法国年广告支出近1亿法郎（其中报纸广告4000万）、1889年德国牧师收到13577份广告传单——广告成为大众消费体系的核心产业指标,统计数字引自作者，原始出处未单列；仅为法国/德国个案,clean第472—475行,CONTEXT_ONLY
+B0162,5.2,B,V2,advertising_behavior_norm_formation,广告通过海报“给人们提供可模仿的标准”、直接面向儿童将其作为“潜在顾客”，参与塑造消费行为规范（含改变家庭权威结构）,行为影响判断基于观察性叙述，非实验/调查证据,clean第1102、2048—2059行,CONTEXT_ONLY
+B0162,5.2,C,V2,counterculture_commercial_absorption,1960年代抗议海报与反文化被消费社会“资本化”（如Levi's摄影写实广告），异议被纳入商品体系——“海报成为时代的镜子”,第六章为作者1974年冷战视角的批判性分析，须批判性重读,clean第2465行,CONTEXT_ONLY
+B0162,5.3,C,V2,economic_crisis_advertising_cycle,经济危机十年周期（1847/1857/1866/1873/1882/1890）与1873—1895长期萧条中广告支出激增、竞争白热化，海报成为危机时代“销售工程”的视觉引擎,因果链为分章报告归纳的作者推演；“销售工程”系中文转述，原文无此术语,packet第484—486行；clean第470—476行,CONTEXT_ONLY
+B0162,5.3,B,V2,stability_ideal_in_crisis,“在不断变化的19世纪社会中，广告所肯定的理想是稳定性”——社会变动/危机语境下广告以稳定性为价值锚点,为作者概括性命题，佐证案例（守寡服装、儿童复制品）系图像分析,clean第470行,CONTEXT_ONLY
+B0162,5.3,C,V2,advertising_mirror_dissemination,广告“既反映了一种心态，又非自愿但有效地传播了这种心态”——转型时期广告兼具社会镜像与传播功能,“非自愿传播”为隐喻性判断，无传播效果测量,clean第434—435行,CONTEXT_ONLY

@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0228,3.4,A,V2,core_actor_tatlin_constructivism,塔特林是俄国构成主义核心行动者：从反浮雕（painterly relief/corner relief）到第三国际塔到Letatlin，构成主义实践的源头人物,反浮雕与塔多已毁/未建成，图像重建属作者方法；生平与机构任职（1919年自由画室负责人）为档案事实,回查clean L1548—1549、L2719—2735、L3154—3156,ACCEPTED_AS_CORE_SOURCE
+B0228,3.4,A,V2,faktura_construction_methodology,材料→faktura→构造是塔特林方法论的统一逻辑，也是构成主义理论的核心概念（'material and faktura lead to construction'）,faktura术语源自布尔留克、马尔科夫等同时代人，米尔纳将其理论化为具历史维度的文化概念，属分析框架,回查clean L828—833、L1548—1549、L1777,ACCEPTED_AS_CORE_SOURCE
+B0228,3.4,A,V2,third_international_monument,塔特林之塔（1919—1920）是构成主义进入公共领域的转捩点与标志形象：乌托邦的物质化模型、旋转大厅时间机器,委托来源、团队、展出时间出自普宁1920年小册子（档案性）；旋转周期/宇宙论对应含米尔纳阐释成分,回查clean L2719—2735、L2936—2946,ACCEPTED_AS_CORE_SOURCE
+B0228,3.4,A,V2,constructivism_multi_tendency,构成主义非单一运动：塔特林材料构成主义、罗德琴科/布里克生产主义、Inkhuk实验室构成主义、加博分支在1919—1925年分化竞争,Inkhuk会议记录与Arvatov报道为档案证据；「四种构成主义」框架为米尔纳综合,回查clean L3273—3303、L3416—3417,ACCEPTED_AS_CORE_SOURCE
+B0228,3.4,B,V2,production_art_and_institutions,塔特林的生产艺术转向（工人服装、炉具、Zangezi舞台）与Letatlin有机构成，显示生产主义路线内部张力,工厂轶事为Arvatov转述（回忆性质）；Letatlin「有机构成主义」解读为米尔纳评价,回查clean L3416—3420、L3758—3764,ACCEPTED_AS_CONTEXT_SOURCE
+B0228,3.4,B,V2,tatlin_malevich_divergence,0.10展览（1915年12月）中角落浮雕与黑色方块同场对峙，构成主义与至上主义从共同起点分道,展览事实可证（图录、Ogonek现场照片）；「came to blows」细节来自回忆材料,回查clean L1932—1933、L1951—1955,ACCEPTED_AS_CONTEXT_SOURCE
+B0228,3.7,A,V2,transnational_network_tower_dissemination,塔特林之塔经普宁小册子、乌曼斯基《俄国新艺术》、柏林Veshch/Broom、卡沙克著作传播，成为构成主义的国际标志形象,传播渠道为档案可证；「标志形象」判断含作者评价成分,回查clean L2719—2721、L2736—2737,ACCEPTED_AS_CORE_SOURCE
+B0228,3.7,B,V2,berlin_paris_russian_network,1913年塔特林西欧之旅：柏林Der Sturm、巴黎La Ruche俄裔圈，俄国先锋「在场」先于朝圣,网络描述部分依赖回忆录；毕加索工作室访问以「reportedly」限定,回查clean L1552—1553及其上下文,ACCEPTED_AS_CONTEXT_SOURCE
+B0228,3.1,B,V2,ww1_cultural_isolation_lens,一战（1914—1922）中断俄西交流，文化孤立作为「透镜」聚焦本土创新（'acted as a lens intensifying artistic innovation'）,交流中断史实可证；「透镜效应」为米尔纳分析隐喻,回查clean L1894、L1691附近,ACCEPTED_AS_CONTEXT_SOURCE
+B0228,0.4,B,V2,destroyed_works_photo_reconstruction,本书以约270幅图版与图纸重建已毁浮雕与未建成纪念碑（仅存模型照片），图文互证构成「人工物如何成为史料」的方法示范,重建属作者方法；Ogonek现场照片、0.10图录、普宁小册子封面为可证档案,回查clean L1949、L2738—2739、L1968—1969,ACCEPTED_AS_CONTEXT_SOURCE
+B0228,0.6,B,V2,anecdotal_evidence_boundary,毕加索工作室访问（reportedly）、马列维奇题字、塔特林晚年自述等被审慎限定使用，示范证据偏差的标注处理,回忆录属二手证据；米尔纳以「according to/reportedly」标注但未系统批判其偏差,回查clean L1552—1553、L3416,ACCEPTED_AS_CONTEXT_SOURCE
+B0228,4.6,B,V2,svomas_vkhutemas_lineage,自由画室（Svomas）于1920年11月29日演化为Vkhutemas，罗德琴科主持基础课；塔特林1919年任莫斯科自由画室负责人、后入Vkhutein，构成呼捷玛斯机构谱系的一环,本书以机构背景提及Vkhutemas而非论述主体；机构谱系事实可证,回查clean L2669、L3154、L3302—3303、L3702,ACCEPTED_AS_CONTEXT_SOURCE
+B0228,3.3,C,V2,dada_marginal_relevance,本书几乎不论达达；仅国际传播语境（Veshch/Broom、柏林网络）与达达圈存在时空重叠,达达不在本书范围，无实质命题支撑,回查clean L2719—2721（传播段落）,CONTEXT_ONLY
+B0228,3.6,C,V2,exhibition_stage_design,塔特林0.10/The Store布展、1925年巴黎国际装饰艺术展（第三版塔模型获金奖）、Zangezi与《事务》舞台设计属展览/舞台设计实践,1925年巴黎展为档案可证；舞台设计分析含作者解读；与「新摄影、新字体」主题关联弱,回查clean L2732、L3501（Zangezi照片）、L3499,CONTEXT_ONLY

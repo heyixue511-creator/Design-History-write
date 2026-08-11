@@ -1,0 +1,140 @@
+{
+  "source_id": "B0346",
+  "corpus": "book",
+  "folder_name": "Penny Sparke：《Italian Design 1870 to the Present》，1988",
+  "material_type": "英文原创的意大利设计通史专著（1980年代末设计史学科化时期的权威综合综述，正文6章+导言+结论，附Notes、Further Reading、Major Exhibitions、Index）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Penny Sparke：《Italian Design 1870 to the Present》，1988_clean.md",
+  "clean_source_sha256": "D320FC1B20C3D9210A186E2F2118B25FF28FC51BB4DBBECCE327DF01EAFCAF1A",
+  "duplicate_group": "无精确哈希重复；语义上与其他来源共享意大利案例与行动者：与未来主义宣言类来源（如B0027）共享Marinetti、Sant'Elia、Chiattone、Balla（本书为二手综述，宣言原文为一手）；与2.5/5.x装饰艺术与商业现代性来源共享Stile Liberty、Carlo Bugatti、流线型、工业设计职业（ADI、Compasso d'Oro）意大利案例；与战后设计史来源共享Olivetti、Sottsass、Memphis、反设计案例",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 127921
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "futurism_italian_avantgarde_context"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "war_urban_mechanical_perception_background"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "olivetti_visual_programme_exhibition_design"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "transnational_avantgarde_networks_italy"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "X",
+      "verification": "V2",
+      "role": "dada_montage_not_covered"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "X",
+      "verification": "V2",
+      "role": "constructivism_productionism_not_covered"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "X",
+      "verification": "V2",
+      "role": "de_stijl_universal_order_not_covered"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_as_italian_bid"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "relational_history_political_economy"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "evidence_bias_secondary_synthesis"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "concept_competition_rationalism_novecento"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "stile_liberty_italian_art_nouveau"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "canon_translation_italian_case"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "streamlining_italian_adaptation"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "industrial_design_profession_italy"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "时段下限1987年，未及1990年代后全球化、外包与数字设计",
+    "偏重“大师史”：建筑师—设计师名单反复出现，匿名生产者（submerged economy中的无名作坊）与女设计师着墨不足",
+    "消费端缺席：“消费不在意大利”的论断本身限制了本书对意大利本土大众消费文化的分析",
+    "未来主义仅约一节篇幅加图注，非专论；“通向法西斯”是后世史家判断而非宣言自述，需以宣言原文等一手文献补证",
+    "法西斯时期叙述须作历史语境转述：作者“Mussolini偏好新古典”是史实判断，但“法西斯风格”等表述含评价色彩，不得把政治立场写成美学评价",
+    "正文论证密度被大量图版说明切割，个别判断偏保守；意大利语术语与直接引语多，未附译文处依赖原文语境",
+    "P4知识涌现模型（隐藏枢纽C1—C8、潜在链接C9—C14、S值）均为相对强度排序而非统计度量，仅作语义路由，不构成本书断言",
+    "本书系二手综合史，依赖当代期刊与公司档案；“proto-design”等回顾性分类作者已自承存在历史方法问题，作为证据使用时须区分其叙述层与档案事实层",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第45行：导言开篇命题（Eco引文“意大利有设计哲学甚至意识形态”）",
+    "clean第62—64行：identified design定义与Eco三分法（identified/anonymous/non-conscious）",
+    "clean第147—148行：“艺术与工业的融合迟到”（与英、德、美比较）",
+    "clean第172行：“从作坊到工厂的演变从未完全完成”",
+    "clean第351—369行：未来主义专节——速度美学、Sant'Elia/Chiattone 1914年城市构想、Balla 1914年服装设计、“浪漫民族主义”通向法西斯、1920年代与法西斯关联",
+    "clean第370—374行：proto-design概念（1983年Annitrenta展命名、作者自承回顾性分类问题）",
+    "clean第388—401行：法西斯政治与autarchy、“production at any cost”、一战工业动员（Fiat 6000人增至30000人）",
+    "clean第507—553行：RATIONALISM专节——Gruppo Sette 1926年宣言、Mussolini 1931年参观罗马群展、IRI 1933年成立、1930s中期败给Novecento",
+    "clean第579—605行：NOVECENTO专节——1926年成立（Ponti/Lancia）、Ponti创办Domus（1928）、新古典被Mussolini青睐、理性主义作为战后训练场",
+    "clean第691行：法西斯时期开启的意识形态辩论作为战后设计遗产",
+    "clean第848—854行：“意大利线”与utility plus beauty、1951年第九届三年展“The Form of the Useful”",
+    "clean第1528—1530行：反设计出现（对“设计+先进资本主义+炫耀性消费”联盟的挑战）；第1584—1593行：工业二元制与81.8%企业少于5人、灵活专门化、submerged economy",
+    "clean第1893—1899行：第三意大利（托斯卡纳、艾米利亚-罗马涅、威内托）与灵活专门化",
+    "clean第2095—2098行：Memphis 1981年由Sottsass发起及其国际成员",
+    "clean第2231—2237行：设计商品化论断与Vespa停产作为时代终结标志"
+  ]
+}

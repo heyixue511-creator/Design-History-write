@@ -1,0 +1,10 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0049,0.3,A,V2,institutional_biography_network_and_mediation,人物行动须经合作网络、传播、庇护和行政装置转化为制度结果,传记的Cole中心性不能替代多主体制度史,补合作者、工匠、教师、公众与机构档案,ACCEPTED_AS_METHOD
+B0049,0.5,A,V2,diary_letters_blue_books_press_triangulation,日记、通信、政府报告和报刊可互相约束改革者自述与制度事件,日记的事务性和传主自我呈现造成系统性沉默,正式写作逐条返回档案号、页码、作者与日期,ACCEPTED_AS_SOURCE_METHOD
+B0049,0.6,A,V2,personality_empire_gender_and_public_bias,人格中心、帝国缺席、女性不足与公众接受断点必须成为证据审计项目,识别缺口不等于已经补足缺失主体,补帝国、性别、劳动、教育效果和观众材料,ACCEPTED_AS_EVIDENCE_AUDIT
+B0049,1.5,B,V2,reformer_artist_manufacturer_patron_and_administrator_network,Cole、Redgrave、Minton、艺术家、制造商、王室与部门共同形成制度行动者网络,网络关系不能自动确定具体对象的设计与制作责任,逐对象补图样、合同、工序、署名和机构记录,ACCEPTED_WITH_AUTHORSHIP_FOLLOWUP
+B0049,1.6,B,V2,art_manufactures_mediator_and_public_administrator_roles,Art Manufactures、文化中介、艺术行政和设计学校管理显示设计角色在19世纪中期的重组,这些角色不等同于20世纪职业工业设计师,补同期职位、章程、课程、工资和职业争论,ACCEPTED_WITH_CONCEPT_HISTORY_FOLLOWUP
+B0049,2.1,A,V2,great_exhibition_organization_design_reform_and_publicity,1851年博览会把国家竞争、产品判断、组织网络与公众传播汇聚为设计改革事件,人物传记不能独立证明参展对象来源、观众接受或全国性效果,补皇家委员会、目录、评审、对象、媒体和观众材料,ACCEPTED_AS_CORE_SOURCE
+B0049,2.2,A,V2,cole_school_museum_department_and_governance,博览会资本经部门任命、学校、收藏、博物馆和考核机制转化为南肯辛顿治理体系,设立和扩张不证明教学成效、产业采用或公共可达性,补预算、课程、学生作业、考试、就业、地方学校和工业记录,ACCEPTED_AS_CORE_SOURCE
+B0049,2.4,B,V2,guidebooks_press_exhibitions_and_public_pedagogy,导览手册、儿童书、报刊宣传和展览构成Cole面向公众的品味中介网络,传播供给不能证明消费欲望、购买或接受结果,补发行、价格、读者、销售、家庭使用和观众记录,ACCEPTED_WITH_AUDIENCE_GAP
+B0049,2.6,X,V2,cole_biography_without_colonial_analysis,不把该传记用于证明博览会的殖民分类、殖民者经验或帝国效果,书中帝国维度结构性不足，相关展览事实也以Cole为中心,改用殖民展览、来源社群和被展示者材料,EXCLUDE_AS_COLONIAL_CORE_SOURCE

@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0070,0.3,A,V2,enterprise_production_market_and_actor_method,设计史须把企业组织、生产选择、协作者、价格和市场纳入对象解释,企业档案不能完整呈现工人、家庭和消费者经验,补工人自述、家庭资本、消费者与对象使用材料,ACCEPTED_AS_METHOD
+B0070,0.5,A,V2,accounts_letters_partnership_wage_and_sales_records,账簿、合伙协议、书信、工资与销售记录可互证艺术家自述和企业行为,局部clean回查未完成全部数字、引注和档案号核定,回纸本页码、档案号、表格和计算过程,ACCEPTED_AS_SOURCE_METHOD
+B0070,0.6,A,V2,entrepreneur_worker_gender_consumer_and_visual_bias,企业家中心、工人中介、女性不足、消费者缺口与形式分析偏弱须进入审计,识别偏差不等于已经恢复沉默主体,补多主体劳动史、性别史、对象和使用史,ACCEPTED_AS_EVIDENCE_AUDIT
+B0070,1.3,A,V2,partnership_workflow_make_or_buy_and_control,合伙分工、图样转化、自产／外包和质量控制重组构思与制作权力,公司名称或Morris品牌不能自动确定逐件作者,逐对象补图样、工序、工资、合同与署名,ACCEPTED_WITH_AUTHORSHIP_FOLLOWUP
+B0070,1.4,B,V2,materials_dyes_printing_and_production_site,染料、印花、织造和生产地点的选择把材料性能、质量与企业成本相连,不是完整技术史，不能仅由经营叙述推出材料效果,补配方、样品、设备、工艺记录和物质检测,ACCEPTED_WITH_TECHNICAL_FOLLOWUP
+B0070,1.5,A,V2,collective_authorship_and_hidden_labour,艺术家、制图／放大、经理、工人和外部制造者共同完成产品，个人品牌遮蔽集体劳动,协作存在不等于权力平等或署名清楚,补对象级任务、工资、性别、署名和工场记录,ACCEPTED_AS_CORE_SOURCE
+B0070,1.6,A,V2,designer_craftsman_owner_manager_and_worker_roles,设计者、工匠、业主、经理、零售者与印刷者等角色在同一企业内交叠,不能把这些角色直接等同于20世纪职业工业设计师,补同期职位、合同、行业组织与职业称谓,ACCEPTED_AS_CONCEPT_HISTORY
+B0070,2.3,A,V2,socialist_ideal_enterprise_labour_and_price_contradiction,社会主义劳动伦理、高价手工商品、常规雇佣与市场生存构成工艺美术的核心张力,企业史不能单独解释莫里斯思想体系或工人的真实认同,与B0133、工人材料、工资比较和消费史对读,ACCEPTED_AS_CORE_SOURCE
+B0070,2.4,A,V2,middle_class_home_retail_pricing_and_market_creation,产品系列、零售、宣传、价格与中产家庭共同塑造Morris市场,销售和知名度不证明所有消费者的欲望、使用或接受,补订单、家庭清单、读者／顾客、使用和二手流通,ACCEPTED_AS_CORE_MARKET_SOURCE
+B0070,2.5,A,V2,total_interior_product_range_and_morris_look,跨家具、织物、壁纸、玻璃和室内装饰的产品体系形成可识别的整体环境,风格一致性不能抹去不同设计者、工序和用户改造,补具体室内、对象、委托、图像和使用材料,ACCEPTED_WITH_OBJECT_FOLLOWUP
+B0070,2.7,B,V2,american_distribution_and_transatlantic_market_transfer,代理、展览、订单与分销为工艺美术跨大西洋传播提供可检验的商业路径,市场接触不等于形式影响或地方接受,补美国代理、客户、评论、对象与地方再生产,ACCEPTED_WITH_TRANSFER_FOLLOWUP
+B0070,5.5,C,V2,design_enterprise_as_professionalization_prehistory,设计、制造、零售和品牌管理的结合可作职业工业设计形成的企业前史,19世纪工艺企业不能直接代表20世纪专业制度,补企业设计部门、职业协会、合同和教育材料,CONTEXT_ONLY_AS_PREHISTORY

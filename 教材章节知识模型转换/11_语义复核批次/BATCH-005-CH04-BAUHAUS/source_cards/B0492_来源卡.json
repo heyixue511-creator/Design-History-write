@@ -1,0 +1,142 @@
+{
+  "source_id": "B0492",
+  "corpus": "book",
+  "folder_name": "杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010",
+  "material_type": "文集/图录（东亚转译研究）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\杭间, 靳埭强, 胡恩威：《包豪斯道路：历史、遗泽、世界与中国》，2010.md",
+  "clean_source_sha256": "130125DEC441CF9870B7FAD5C9A5423B0AE12CE53F421FEE6F49299F47C9CA98",
+  "duplicate_group": "与B0517共享中国接受史对象（圣约翰建筑系、三大构成、工艺美术之辩、梁思成信等）；两者同源2010年'纪念包豪斯创立90周年暨中国现代艺术和设计发展研究系列活动'；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 69309
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "core_evidence"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "indirect_contact_early"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "canon_three_nodes"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "uniqueness_claim_editorial"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "three_constitutes_misreading"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "chen_zhifo_self_correction"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "japan_intermediary"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "hong_kong_second_intermediary"
+    },
+    {
+      "section_id": "6.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "education_downward"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "spatial_transfer_chain"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "nationalization_case"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "five_translations_model"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "museum_legacy_claim"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_layering_three_levels"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ocr_damage_note"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "translation_popularization"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "图录体例限制论证深度，缺乏统一理论框架；争议多为并列引述而非纵深论辩",
+    "编者立场与档案史实须分层：总序（许江）与杭间导言的价值判断（'比世界上任何国家都要独特'）属纪念性文献展立场，非经验实证结论",
+    "'包豪斯对中国的影响'类命题证据链多为间接：陈之佛1929年文仅有'Breuhaus'而无'Bauhaus'字样、系对日文资料汇编；庞薰琹是否到过德绍校本部未见于自传；雷圭元'早年与包豪斯的关系目前不详'——须防过度归因",
+    "源文件OCR损坏严重（L129邵大箴原文、L141、L159、L272等），个别文献著录有瑕疵，细节引用需回查原刊",
+    "文件行序与书页顺序不一致（乌尔姆正文分置L16–L36与L380–L392），系扫描拼合所致，须按内容主题归并阅读",
+    "台港部分篇幅小、证据密度与内地部分不对称，部分材料依赖王受之博客等转引",
+    "构成教育归因大量转引朝仓直巳等当事人自述，'三大构成'经香港传入内地的具体时间等流布细节需与B0517等交叉核验",
+    "知识涌现模型（01—04报告）为P4推演产物，仅作语义路由参考，不构成本书证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第7行：目录载'中国与包豪斯'第124页起，四段论分节（126初晤/134曲折/146误读与变体/164扬弃），台港170、参考文献186、后记190",
+    "clean第30行：乌尔姆章录艾舍《包豪斯与乌尔姆》：拒绝命名'乌尔姆包豪斯'、'包豪斯的遗产主要在博物馆里，而不在目前的技术与经济中'",
+    "clean第64行：'包豪斯的设计基础课程在日本发展成了体系严密的三大构成，并对亚洲——主要是东亚各国设计教育的发展起到了关键的作用'；水谷武彦最早译'构成'（自Gestaltung）",
+    "clean第83行：陈之佛1929年《现代表现派之美术工艺》——'并未出现包豪斯Bauhaus字样，仅有Breuhaus'，系对日文资料汇编——间接接受证据",
+    "clean第87行：庞薰琹1929年转赴柏林考察（'受包豪斯影响的建筑……屋顶采用了平顶'）；郑可1931年参观法国包豪斯学校设计展；雷圭元'早年与包豪斯的关系目前不详'",
+    "clean第95行：张光宇1932年《近代工艺美术》介绍'包浩斯'德绍校舍",
+    "clean第113行：1942年圣约翰大学建筑系成立，'一开始就引进了包豪斯的现代设计教育体系，成为中国现代主义建筑的摇篮'；黄作燊1937年成格罗皮乌斯第一个中国学生",
+    "clean第121行：梁思成1945年3月9日致梅贻琦信引原文：'今后课程宜参照德国Prof. Walter Gropius所创之Bauhaus方法，着重于实际方面，以工程地为实习场'——建筑教育正典化关键档案（含影印件）",
+    "clean第125行：1979年译介起点：里德《现代绘画简史》译'建筑者之家'、邵大箴音译'包浩斯学院'并注'抽象派社团'；1982年译名普及",
+    "clean第170行：扬弃段：《中国美术报》1986年第43期头版刊杭间《对「工艺美术」的诘难》引发大讨论；'三大构成'错觉机制、21世纪被扬弃",
+    "clean第180行：杭间导言：'比世界上任何国家都要独特，因为它是中国的设计界……追求民生改善和现代化的自己的历史'"
+  ]
+}

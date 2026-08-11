@@ -1,0 +1,123 @@
+{
+  "source_id": "B0187",
+  "corpus": "book",
+  "folder_name": "Herbert Spencer：《Pioneers of Modern Typography》，1969",
+  "material_type": "现代排版史专著（“先驱者群像”式观念史与设计史经典，作者为《Typographica》主编、实践者—史学家）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Herbert Spencer：《Pioneers of Modern Typography》，1969_clean.md",
+  "clean_source_sha256": "D8D9D2BBB3727ED3CF5F4DF5EC01E243E860A9C7B69FC4977E0CFD7F73B677EB",
+  "duplicate_group": "与B0027、B0121、B0277等共享期刊与排版对象（《De Stijl》《Merz》《Veshch》《Lef》《Typographische Mitteilungen》特刊、NKF与Berkel广告等）；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 19,
+      "report_characters": 155993
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "new_typography_advocacy"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "futurist_free_word_typography"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "futurism_fascism_link"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dada_photomontage_typography"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "merz_typography_theory"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "constructivist_production_art"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "lissitzky_proun_transmission"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "de_stijl_typographic_geometry"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "dutch_commercial_modernism"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "typographic_artifact_as_historical_source"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "evidence_types_manifesto_plate"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evidence_bias_teleological_canon"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "authors_value_judgment"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "地理偏重：英国与美国早期现代字体排印几乎未涉及（除《BLAST》与曼·雷外），叙事以欧陆为中心",
+    "伟人史观倾向：以12位杰出人物传记串联叙事，对印刷工业结构性变化（技术、经济、制度）关注较少",
+    "线性进步叙事：“被动vs主动”“对称vs非对称”“旧vs新”二元框架简化了历史复杂性",
+    "目的论审计：“先驱”谱系（未来主义→达达→风格派→构成主义→包豪斯→新字体）为作者1969年建构的叙事框架，须标注为Spencer命题，不得当作史料自身结论",
+    "政治维度薄弱：对法西斯主义与现代主义设计关系仅限奇肖尔德章节的Kulturbolschewismus指控，对斯大林体制压制苏联前卫几乎未展开",
+    "作者立场性判断：对奇肖尔德“法典化违背现代排版精神”的批评属价值判断，未充分承认其理论化在印刷行业传播中的历史合理性",
+    "系统性缺位：女性先驱（赫希、斯捷潘诺娃等仅简略提及）与印刷工业经济史维度基本缺失",
+    "知识涌现模型（222知识元网络、6条涌现命题如“法典化的结构必然性”）是P4推演，仅作语义路由参考，不作史实断言，须回原书文本验证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第76—77行：马里内蒂1909年宣言原话——“一页用三四栏和二十种不同字体，斜体表快速感知、粗体表尖叫”，未来主义自由词语排印起点",
+    "clean第119—122行：风格派矩形、原色与黑白灰构成非对称几何排版美学；《De Stijl》期刊版面是风格派原则的印刷体现；凡·杜斯堡元素主义（对角线）导致与蒙德里安决裂",
+    "clean第130—134行、330行：利西茨基以普隆（“绘画与建筑之间的换乘站”）综合至上主义与构成主义元素，成为俄国前卫思想渗透西欧的主要通道",
+    "clean第248—255行：达达以拼贴、蒙太奇与偶然性引入否定性创造；摄影蒙太奇从达达走向政治宣传与商业广告",
+    "clean第251—255行：兹瓦特（NKF）与斯赫伊特马（Berkel）将风格派与构成主义原则无妥协地应用于商业广告，摄影成为排印的平等伙伴而非装饰",
+    "clean第267—270行：对奇肖尔德“法典化”的批判（违背现代排版精神、损害活力与灵活性）与其传播功绩并存",
+    "clean第929行：罗钦科1921年与25位艺术家宣布放弃纯艺术转向生产艺术；《Pro Eto》摄影蒙太奇、《Lef》《Novi Lef》封面",
+    "clean第1023—1033行：奇肖尔德法典化批判与“皈依”叙事",
+    "clean第1091—1100行：施维特斯《Merz》第11期（1924）十条命题——排版是文本“压力与拉力”（Druck- und Zugspannungen）的表达、空白为正值、一切材料皆排版价值",
+    "图版页13—156（原书各章）：未来主义《Bif§zf+18》、达达期刊、风格派《De Stijl》整页、构成主义《Lef》封面、新字体《Typographische Mitteilungen》特刊等"
+  ]
+}

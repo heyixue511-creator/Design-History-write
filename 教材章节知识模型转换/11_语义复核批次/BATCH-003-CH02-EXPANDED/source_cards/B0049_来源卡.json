@@ -1,0 +1,93 @@
+{
+  "source_id": "B0049",
+  "corpus": "book",
+  "folder_name": "Bonython, Elizabeth; Burton, Anthony：The Great Exhibitor：The Life and Work of Henry Cole, 2003",
+  "material_type": "档案型人物传记、设计改革制度史与博物馆史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Bonython, Elizabeth; Burton, Anthony：The Great Exhibitor：The Life and Work of Henry Cole, 2003_clean.md",
+  "clean_source_sha256": "5117EA6C29A0D1EEAC7E4BBBDF777D25A7182BCF9807863F32C4FCC8B493339F",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 24,
+      "report_characters": 141774
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "institutional_biography_network_and_mediation"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "diary_letters_blue_books_press_triangulation"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "personality_empire_gender_and_public_bias"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "reformer_artist_manufacturer_patron_and_administrator_network"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_manufactures_mediator_and_public_administrator_roles"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "great_exhibition_organization_design_reform_and_publicity"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cole_school_museum_department_and_governance"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "guidebooks_press_exhibitions_and_public_pedagogy"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "X",
+      "verification": "V2",
+      "role": "cole_biography_without_colonial_analysis"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "以Cole人格统摄制度叙事，容易把合作者、普通公务员、教师、工匠与公众转化为传主行动环境。",
+    "依赖Cole事务性日记导致女性、私人生活和非精英主体结构性不足。",
+    "帝国与殖民地几乎不构成分析主轴，不能因涉及1851年展览就承担殖民分类史。",
+    "机构成立、展览参观或考试制度存在不能证明教育、产业和公众品味实际改善。",
+    "作者对Cole持批判性同情，部分制度后果和权力批判较含蓄，须与劳动史、帝国史和博物馆批判史对读。",
+    "报告中的中心性、三阶推动力等网络模型是P4二次分析，不得反写为原著的实证发现。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第8—15行：题名、封面说明及目录确认Part III为Art and Industry、Part IV为The Levers of Power。",
+    "clean第2165—2169行：法国消费品竞争、设计教育和1837年设计学校的同期问题链。",
+    "clean第3217—3222行：作者把博览会后的英国商品质量／价格与美观判断、Cole后续制度道路相连。",
+    "clean第3284—3290行：Cole与Redgrave的角色划分及1852年Department of Practical Art设立和任命条件。",
+    "clean第3334—3339行：地方委员会、按考试结果向教师付酬及节约公共开支的制度逻辑。",
+    "clean第4277—4285行：作者区分Cole在elementary education payment by results中的幕后作用，并呈现教育史批评。"
+  ]
+}

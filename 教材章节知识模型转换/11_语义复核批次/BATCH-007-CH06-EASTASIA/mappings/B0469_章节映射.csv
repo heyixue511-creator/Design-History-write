@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0469,6.6,A,V2,national_form_identity,中国平面设计民族特质“沉静而有内力”，汉字本位、书法即高级字体设计，雕版/装裱/饵版拱花为“完全中国化的独门艺术”，驳斥“中国平面设计源于西方”论,强烈价值判断+中西比较论证；“中国是世界老大”等断语缺乏可比性论证,回查clean L3、L8、L915断语式判断的论证链条,ACCEPTED_AS_CORE_SOURCE
+B0469,6.6,B,V2,art_nouveau_localization,新艺术运动经谢列特、穆卡海报传入，郑曼陀等将西方美女换成中国女子形成“曼陀风”，被纳入新艺术运动在中国的兴起与发展的世界语境,作者判断框架；“绝不落后于任何先进国家”为价值判断,回查clean L951—952、L1086新艺术运动关联论述,ACCEPTED_AS_CORE_SOURCE
+B0469,6.6,B,V2,decline_narrative,“民国最后的辉煌—此后衰落”叙事：民国平面设计繁荣为史上最后辉煌，之后未再达世界一流水平；篆书等传统退出使用舞台,个人价值判断，非实证结论,回查clean L1086断语与1949年后设计史实对照,ACCEPTED_AS_CORE_SOURCE
+B0469,6.6,C,V2,japanese_reference_comparison,日本平面设计渊源于中国（绘卷、书道、水墨画、浮世绘），明治维新后转向西化，“模仿中的创造”反衬中国近代平面设计传承问题,域外参照框架，附录性质；中日传播链为作者勾勒,回查clean L1086—1214附录中日比较论述,ACCEPTED_AS_CORE_SOURCE
+B0469,6.3,A,V2,print_capital_press_advertising,《申报》广告业（史量才、张竹平广告设计组、1915年广告面积超新闻面积）与《点石斋画报》石印新闻画构成上海印刷资本的视觉公共领域,作者叙述+近代报刊史料；广告面积数据可回查《申报》档案,回查clean L915、L946相关段落,ACCEPTED_AS_CORE_SOURCE
+B0469,6.3,A,V2,calendar_poster_industry,月份牌画为附年历商业宣传画：屈臣氏最早，周慕桥成名作，郑曼陀“曼陀风”，杭穉英开中国最早现代广告公司，金雪尘李慕白画室合作——月份牌产业机制（画室合作、商标包装）,图像实物（月份牌图版）与叙述分层；画家生卒、作品名录为掌故式叙述,回查clean L930、L935、L938、L956—969,ACCEPTED_AS_CORE_SOURCE
+B0469,6.3,A,V2,printing_tech_history,雕版工序（书样—反贴—镌刻—试印—刷印）、泥/木/金属活字、饵版拱花、笺纸工艺构成完整技术链条；《金刚经》年代考辨,实物与版本学著录分层；“绝不是最早”为作者个人推断,回查clean L751、L770—771、L890—906,ACCEPTED_AS_CORE_SOURCE
+B0469,6.3,C,V2,book_design_industry,旧平装书装帧设计业：铅印传入后封面由单色转多色，出现专门书刊封面装帧设计艺术（李叔同、闻一多、鲁迅、丰子恺书衣设计），商务印书馆等出版机构印制,叙述框架+人物名录；“设计手法与世界先进水平同步”为作者判断,回查clean L972—1032,ACCEPTED_AS_CORE_SOURCE
+B0469,6.4,A,V2,shanghai_urban_consumer_culture,五口通商后上海成最大商埠，租界洋商资本与民族资本汇聚“十里洋场万商云集”；市民文化兴起，月份牌画推波助澜,作者叙述+常识性判断；“繁华不亚于伦敦纽约”为价值判断,回查clean L915、L946,ACCEPTED_AS_CORE_SOURCE
+B0469,6.4,A,V2,calendar_poster_advertising,月份牌画为附年历商业宣传画（画家与广告公司个案）,图像实物与叙述分层,回查clean L930—969,ACCEPTED_AS_CORE_SOURCE
+B0469,6.4,B,V2,republican_material_culture,民国装裱业（含作假系统）、书信笺纸（诗婢家、《百花诗笺谱》《北平笺谱》）、六类广告形式多半首创于上海后蔓延至京津汉渝,掌故式叙述为主；造假系统细节近口述性质材料,回查clean L1034—1086,ACCEPTED_AS_CORE_SOURCE
+B0469,6.2,B,V2,western_technology_introduction,晚清工业背景下的技术传入（铅印、石印、机械装订、洋纸进口）与本土印刷业回应（商务印书馆、扫叶山房采用西法），双面印刷促成装订技术改革,近人叙述，无注释体系,回查clean L915、L972,ACCEPTED_AS_CORE_SOURCE
+B0469,6.2,B,V2,traditional_craft_artisans,工匠与技术家系：蔡伦、毕昇、王桢、胡正言（饵版拱花）、吴发祥构成技术传承链；明代资本主义萌芽期插图版画黄金时代、徽派刻工,掌故化叙述与人物谱系框架；部分人物为传说性记载,回查clean L200、L797—828,ACCEPTED_AS_CORE_SOURCE
+B0469,0.4,A,V2,artifact_material_evidence,以人工物为史料：甲骨、金文鼎彝、睡虎地秦简、马王堆帛书、西汉纸（灞桥纸）、《乙瑛碑》《曹全碑》等碑帖、济南刘家功夫针铺广告铜版构成实物证据链,出土实物与传世碑帖分层、实物优先；灞桥纸等年代结论为作者辨伪推断,回查clean L238、L267、L323、L353、L786,ACCEPTED_AS_CORE_SOURCE
+B0469,0.5,A,V2,evidence_hierarchy,证据类型四类并用：出土实物、传世碑帖、古典文献（《说文解字》《梦溪笔谈》《天工开物》）、近人研究（徐邦达、启功、郑振铎、戈公振），对蔡伦造纸等旧说逐条辨伪存疑,无注释体系、转引旧说未加考证；辨伪结论为作者个人推断,回查clean L84、L353、L416—417,ACCEPTED_AS_CORE_SOURCE

@@ -1,0 +1,60 @@
+{
+  "source_id": "B0415",
+  "title": "Design After Modernism: Beyond the Object",
+  "author": "John Thackara (ed.)",
+  "version": "Thames and Hudson, London / New York, 1988 年首版（美国版 Thames and Hudson Inc., New York，LCCN 87-51020），244 页，17 章+Preface+Contributors+Index",
+  "type": "论文集（后现代设计批评）",
+  "scope": "1980 年代英美法设计理论界；以英欧美为中心论述现代性（19 世纪至当代）、城市建筑、产品工艺与消费文化、技术软件四个领域，间涉日本案例，非西方视角薄弱",
+  "duplicate_group": "无精确哈希重复（packet 核实）；与分析基准 00-book 源文本为同一书目对象的不同版本（分析行号与 clean 行号基本一致），共享对象组内无其他书目",
+  "summary": "本书是 1988 年英国设计批评家约翰·萨卡拉主编的跨学科设计理论文集，以『设计超越物体（Beyond the Object）』为纲领：编者在前言断言传统意义上的『设计』无论实践还是理论都已失效，设计的对象应从有形产品转向系统、软件、过程与体验；设计不是中性工具，而是被商业与政治利益支配的规划活动。17 章按现代性、城市、产品、技术四部分组织：Berman 重建 19 世纪辩证现代主义传统；Frampton 提出批判的地域主义；Alexander 以树与半格论证自然城市；Fuller 反佩夫斯纳为装饰与自然美学辩护；Bolton 批判建筑沦为广告符号生产；Baudrillard 分析模型/系列的物体系与个性化意识形态；Cooley 批判手脑分离与 CAD 去技能化并倡导人本中心系统；Mitchell 论证『产品即幻象』、设计即过程；Jones 提出软技术（Softecnica）与过程思维。文集是 1980 年代设计理论『后现代转向』的第一批综合回应，把后现代论争从建筑扩展到产品、工艺、消费文化与软件领域，预示 1990 年代交互设计与设计文化研究。各章独立署名、立场分裂，编者自认不提供统一世界观。",
+  "strengths": [
+    "1988 年时点的第一手后现代设计转向文献，编者导言系统界定后现代状况、现代主义的非历史化误置与『抵抗的后现代主义』立场",
+    "17 章跨学科覆盖（哲学、建筑、工艺、消费文化、软件理论），首次将后现代议题系统带入产品设计与软件设计领域",
+    "贡献多个持久概念：批判的地域主义、树/半格、模型/系列、Softecnica、设计=过程、人本中心系统，均为后世常引",
+    "保留 1980 年代英国设计文化的一手观察（York、Coates、Dormer、Dona），含产业数据与田野材料",
+    "编者导言本身即高质量的后现代设计研究综述，附 56 条参考文献，文献谱系完整（Jameson、Habermas、Foster、Berman 等）",
+    "分析报告含 17 章逐章报告、专项报告与实体总索引，证据行号完整可回溯；知识涌现分析给出基于文本语义链接的命题与网络",
+    "各章论证方法多元（文本细读、集合论、符号学、技术史、现象学），适合多角度教学引用"
+  ],
+  "limits": [
+    "文集体裁使立场分裂：对现代主义，Berman 主张复兴、Fuller 主张超越、Bolton 主张批判，全书无统一论证框架，编者自认不提供统一世界观",
+    "主编导言与各章均为独立作者命题，不能把编者导言当作全书统一结论，也不能把单章观点当作集体共识",
+    "部分章节时效性强：1980 年代撒切尔英国语境、日本技术优势、具体品牌与商店案例已过时，其中数据不可沿用",
+    "性别议题仅 Dona 一章正面展开，非西方与全球南方视角基本缺席，覆盖不均衡",
+    "对软件与交互设计的讨论停留在概念层面，未预见 1990 年代后交互设计与用户研究的展开",
+    "引用体系不统一：半数章节（Ch04/05/08/10/11/12/13/14）无正式参考文献列表；OCR 存在个别误字（如 L1399 HERMAN 应为 Berman）",
+    "部分概念（微观美学、远程游牧者、叙事建筑）属宣言式随笔命题，论辩色彩强于论证严谨性，转引二手材料较多",
+    "知识涌现模型是 P4 推演：元命题、命题 A-E 与候选链接 C1-C7 基于文本语义链接的涌现计算，为分析工具产物而非作者本意或学术共识，仅作语义路由参考"
+  ],
+  "checks": [
+    "clean 第209—211行：前言核心命题——『if this book has a point, this is it: traditional notions of design are, both practically and theoretically, defunct』（设计概念失效）",
+    "clean 第229行：Ch01 章题『Beyond the object in design』（编辑框架核心，设计超越物体）",
+    "clean 第257行：设计被推销为 neutral tool——『design is promoted not as a force for good, but as a neutral tool』",
+    "clean 第1419行：Berman 现代性定义——『To be modern is to live a life of paradox and contradiction』",
+    "clean 第3012—3014行与第3046—3048行：Alexander 半格公理与复杂度论证（20 元素半格可含超 100 万子集）",
+    "clean 第5060行：Fuller 反装饰命题——『the destruction of ornament within the Modernist movement was one of the cultural crimes of our age』",
+    "clean 第5607行：Fuller 功能主义批判——『form follows function, since function itself is a derivative of values and beliefs』",
+    "clean 第7566—7567行：Baudrillard 物体系——『The status of the modern object is dominated by the opposition of the unique object to the mass-produced object — of the model to the series』",
+    "clean 第8838行：Cooley 手脑分离——『a separation of hand and brain, of manual and intellectual work』",
+    "clean 第9267—9269行：ESPRIT 计划建造『the world first Human Centred Computer Integrated Manufacturing』（人本中心系统）",
+    "clean 第9673行：Mitchell 核心命题——『The Product as a solely physical entity is an illusion of the mechanistic era』",
+    "clean 第9722行：Jones Softecnica 定义——『Softecnica, the soft technologies, or some of them』",
+    "clean 第10117行：Jones 过程思维收束——『It is ourselves, not our words, that are the real purpose of designing』"
+  ],
+  "maps": [
+    ["11.1", "A", "postmodern_condition_and_critique_of_modernism", "1988 年论文集以编者导言系统引入后现代状况（历史感丧失、交流狂喜）并批判现代主义被非历史化误置，确立『设计超越物体』纲领", "编者导言为编辑框架，17 章各自独立署名，非全书统一结论", "clean L209-211、L257、L289-341 区域；回查 Contributors（L10229 起）核实各章作者", "ACCEPTED_AS_CORE_SOURCE"],
+    ["11.1", "A", "design_turn_from_object_to_process", "设计对象从物体转向系统、软件、过程与体验（第三产业化、软件设计、过程思维）——全书核心涌现命题", "命题由 Ch01+Ch16+Ch17 跨章合成（P4 命题 A），单独章节只表达侧面", "clean L400-403 区域、L9673、L10041-10042", "ACCEPTED_AS_CORE_SOURCE"],
+    ["11.1", "B", "postmodernism_of_resistance_stance", "编者采纳 Foster『抵抗的后现代主义』作为本书立场——对官方现代主义与文化 laisser faire 的批判实践", "1988 年时点编辑立场，为转引 Foster 理论并加以应用", "clean L365-381 区域；索引 L10736 出现该术语", "ACCEPTED_AS_CORE_SOURCE"],
+    ["11.1", "B", "critical_regionalism", "Frampton 提出批判的地域主义：在霸权力量边缘以触觉、场所与建构抵抗全球资本——后现代建筑抵抗理论", "Frampton 独立署名章节，1988 年时点该理论系统论述文本之一", "clean L2316-2455 区域（含 L2455 Five points for architecture of resistance）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["11.1", "B", "decoration_and_natural_aesthetics_after_modernism", "Fuller 反佩夫斯纳正典：为装饰辩护，『形式追随功能』是价值衍生物，分形与 biophilia 作为后现代美学来源", "Fuller 独立命题，与 Berman 复兴现代主义立场相左（文集张力，不视为共识）", "clean L5060、L5607、L5799-5844 区域", "ACCEPTED_AS_CORE_SOURCE"],
+    ["11.1", "B", "consumer_object_semiotics_model_series", "Baudrillard 模型/系列与边缘差异：消费社会个性化的意识形态批判，后现代消费文化分析", "1968 年《物体系》英译节选（英译者 Penny Sparke），非 1988 年原创文本", "clean L7566-7567、L7717、L7814-7815", "ACCEPTED_AS_CORE_SOURCE"],
+    ["11.1", "C", "british_postmodern_design_culture_observation", "York 反设计/文化出口（软件理论、朋克视频风格）与 Coates 街头叙事建筑——1980s 英国后现代设计文化一手观察", "论辩与随笔色彩浓、时效性强，属文化批评而非系统理论", "clean L7116 区域、L4246-4424 区域", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["11.1", "C", "softecnica_and_process_thinking", "Jones 软技术（Softecnica）与过程思维：从产品思维转向情境、协作与持续设计——后现代设计方法论收束", "Jones 独立随笔体命题，为全书正文最后一章，呼应编者导言", "clean L9722、L10041-10042、L10117", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["7.4", "B", "critique_of_scientific_design_limits", "Cooley 等批评科学化理性化设计方法（CAD 去技能化、规则系统、手脑分离传统、功能主义）的局限，主张直觉、隐性知识与人性化技术", "各章为行动者/学者命题，直接批判科学化设计方法，但全书未点名乌尔姆，仅构成对乌尔姆科学化设计传统的间接批判资源", "clean L8838-9032、L9067-9068、L9127-9248", "ACCEPTED_AS_CORE_SOURCE"],
+    ["7.4", "C", "design_methods_movement_legacy", "Alexander 树/半格（设计方法运动结构论代表）与 Jones 对设计方法运动的自我反思（弃方法为死路）——设计方法论史材料", "Alexander 章为 1965 年论文重印；与乌尔姆科学化设计方法为平行传统而非直接论述", "clean L3012-3048、L10080-10099 区域", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["15.1", "B", "critical_and_participatory_design_prehistory", "Bolton 呼吁后现代主义成为『对立实践』、Mitchell 主张设计=人人参与的持续过程、Cooley 人本中心系统——批判性/参与式设计思想前史", "1988 年时点尚无『批判设计』『推测设计』术语（后者 1990s 后由 RCA 传统提出），本书仅作思想资源而非直接谱系", "clean L4017-4044、L9675-9682、L9298-9306", "ACCEPTED_AS_CORE_SOURCE"],
+    ["12.x", "B", "design_as_political_and_social_responsibility", "设计不是中性工具而是被商业政治利益支配的规划活动；Bolton 批判公司对再现的控制；Cooley 主张技术人性化——设计责任命题", "命题分布于编者导言与各章，非系统化设计伦理论述", "clean L257-279、L4017-4044、L9298-9306", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.2", "B", "modernity_experience_and_stages", "Berman 定义现代性为生命体验模式（空间时间、自我他人），现代化/现代主义三分与三阶段分期——现代性概念底盘", "Berman 章为其 1983 年著作的摘编；OCR 章首署名误作 HERMAN，Contributors 确认为 Marshall Berman", "clean L1419、L1447-1499 区域；Contributors L10295-10301", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.2", "C", "postmodern_condition_definition_via_citations", "编者转引 Jameson（历史感丧失）与 Baudrillard（交流狂喜）界定后现代状况——教材『后现代主义设计』背景定义", "为综述性转引而非原创理论，引用须以 Ch01 引文标注为据", "clean L289-314 区域", "ACCEPTED_AS_SUPPORTING_SOURCE"]
+  ]
+}

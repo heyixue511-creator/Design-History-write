@@ -1,0 +1,147 @@
+{
+  "source_id": "B0342",
+  "corpus": "book",
+  "folder_name": "Paul Overy：《De Stijl》，1991",
+  "material_type": "风格派通史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Paul Overy：《De Stijl》，1991_clean.md",
+  "clean_source_sha256": "06679ECB43DFF4B024E42145A575148FD98CBA8E69D083D7B0CCB97DEC4836C8",
+  "duplicate_group": "与B0048、B0276、B0363共享风格派对象（红蓝椅、施罗德宅、蒙德里安、杜斯堡等）；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 102513
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "symbiotic_origin"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "diagonal_conflict_elementarism"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "unity_in_diversity"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "machine_aesthetic"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "red_blue_chair_schroeder"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "de_stijl_international_transmission"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "reproduction_as_production"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "american_canonization"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "historiography_canon"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "prehistory_contrast"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "mondrian_prehistory"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "schroeder_house_artifact"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "schroeder_not_concrete"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "red_blue_chair_artifact"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "oud_correction"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "aubette_correction"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "reproduction_elided_production"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "主题式十章结构导致时序与人物叙述碎片化（Oud、Rietveld分散于多章）",
+    "对蒙德里安后期（1930s—1940s）与风格派关系着墨有限",
+    "World of Art通识书定位使其依赖二手研究（作者自述），档案考订深度受篇幅限制",
+    "「再生产」理论视角至末章才系统展开，前文缺乏呼应铺垫",
+    "clean基准行号为OCR清洗文本自身编号而非印刷本页码，引用须按章名与图版号回查",
+    "叙事框架系作者综合叙述，行动者文本经转写/翻译，须与De Stijl期刊原文分层核对",
+    "与B0048、B0276、B0363共享风格派对象（红蓝椅、施罗德宅、蒙德里安等），同一对象只计一份P0，避免跨源重复计数",
+    "末章「复制即生产」元视角与「风格派作为国际与荷兰双重现象被不断生产再生产」的知识涌现模型属P4推演，仅作语义路由，不作事实断言",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1—11行：开篇破题——风格派绘画流行印象实为蒙德里安1920s晚期风格；1917—1919四画家「共生」发展（L10）",
+    "clean第61—62行：创刊号1917年10月，范德莱克《Composition 1917 No.5》为创刊号唯一刊载的绘画",
+    "clean第141行：对角线之争——1925年杜斯堡以反构图与元素主义对抗新造型正交平衡，二人疏远",
+    "clean第190—196行：红蓝椅先例之争——Giedion视为绝对全新，后起评论者指出Wright、Berlage、Klaarhamer先例",
+    "clean第212—214行：红蓝椅量产史——曾认为1971年Cassina获授权后才量产，后于Rietveld-Schröder档案发现彩蜡笔价目表（廉价与精良两版本）",
+    "clean第605—624行：施罗德宅——施罗德夫人为共同设计者而非单纯客户，1923底始设计、1924末入住、1985年其去世后修复",
+    "clean第701行：Oud从未任鹿特丹市建筑师（通行错误说法之纠正）",
+    "clean第1333行：Aubette并非纳粹毁坏，早在1930年已大改",
+    "clean第1440—1467行：「复制即生产」理论——风格派生产自始高度依赖复制（杂志插图、展览、修复、重建、商品化、历史写作）",
+    "clean第1415—1427行：美国经典化机制——Dreier 1926购《Composition in White and Black》并更名《Clarification》、Barr 1936《Cubism and Abstract Art》、MOMA 1952-3展"
+  ]
+}

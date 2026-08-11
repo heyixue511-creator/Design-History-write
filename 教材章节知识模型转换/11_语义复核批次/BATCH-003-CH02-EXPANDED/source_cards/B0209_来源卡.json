@@ -1,0 +1,142 @@
+{
+  "source_id": "B0209",
+  "corpus": "book",
+  "folder_name": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+  "material_type": "学术专著（非洲史×全球史×消费文化研究交叉的专题研究，Prestholdt在西北大学博士研究基础上成书）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》_clean.md",
+  "clean_source_sha256": "7B821F343361C68CD36276254A51D75F9125A471F3AE36B42E446B1EDEF1E35A",
+  "duplicate_group": "与B0181（Guy《Woven Cargoes》印度棉布贸易）共享merekani/kaniki/kisutu等印度洋棉布对象与棉布贸易档案，同一贸易档案只计一份P0；与B0305（McKendrick消费革命）共享“消费需求塑造生产”主题，但时段（18世纪英国vs19世纪东非）与区域不同，互补不重复；与B0082（Pinney《Camera Indica》）仅在“19世纪照片作为史料”上有弱交集，对象不同，风险低。建议棉布—贸易链证据以本书与B0181任一为主来源即可",
+  "files": [
+    {
+      "report_file_count": 15,
+      "report_characters": 140753
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "consumer_spec_as_design_constraint"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "alternative_modernity_and_coevalness"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "relational_history_from_margins"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "artifacts_as_historical_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "images_as_taxonomic_construction"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "archival_absences_of_colonial_consumers"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "circulation_translation_asymmetric_entanglement"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "global_material_systems_cotton_brass"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "anonymous_consumers_shaping_products"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "X",
+      "verification": "V2",
+      "role": "exhibition_culture_indirect_reference"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "X",
+      "verification": "V2",
+      "role": "museums_schools_state_governance"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "social_logics_of_desire_and_credit"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "colonial_taxonomy_outside_fairgrounds"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "trade_networks_local_modernities"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "X",
+      "verification": "V2",
+      "role": "east_asian_translation_mismatch"
+    },
+    {
+      "section_id": "8.1",
+      "grade": "X",
+      "verification": "V2",
+      "role": "cold_war_design_mismatch"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "史料以外国观察者（英美旅行者、传教士、领事）记录为主，东非消费者与被奴役者自述稀缺，仅斯瓦希里诗歌与法庭记录间接可及",
+    "进口数据、商店/目录类证据能证明供给、定价与观看条件，不能单独证明欲望被成功塑造、个体购买动机或家庭使用结果",
+    "“东非需求刺激塞勒姆/孟买工业化”的因果强度缺乏充分量化证据，作者自认贸易数据分散且不完整",
+    "不能把欧洲/殖民档案中的物质—种族分类（turbaned Arab、semi-civilized）当作非洲社会自我分类——本书批判此点，教学中须防止反向误用",
+    "钟表、手帕、kanga等“驯化”意义的解读属作者命题性重构，证据边界是西方观察者描述与图像而非本地文本",
+    "个案均为沿海商业中心（穆察穆杜/蒙巴萨/桑给巴尔），内陆消费文化未展开，女性与奴隶声音尤其稀缺",
+    "以英语史料为主，法语（科摩罗、马达加斯加）与德语（坦噶尼喀）档案未充分利用",
+    "知识涌现报告中的KU/SL/KE/KD编码、语义网络与枢纽计算是P4层级的推演模型，仅作语义路由，不得写成原著命题或引用依据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第118行：桑给巴尔男子持手机明信片的“反讽”——Zanzibaris在电话发明后几乎立即开始购买，电信消费史已逾一个世纪（导论开篇案例）",
+    "clean第175—177行：domestication定义（使熟悉/可用、控制、带入私密空间）；东非对全球流通商品的驯化揭示塑造其全球关系的消费需求文化逻辑",
+    "clean第202—207行：导论预告Ch3——19世纪贸易条件常对东非有利；美到印多国商人竞争象牙/丁香/皮革/柯巴胶；东非人有巨大选择自由；东非需求塑造Salem与Bombay生产并刺激两地纺织工业化",
+    "clean第301—307行：similitude定义——全球关系中通过宣称相似影响更强行动者感知与政策的策略；区别于Bhabha殖民模仿（无需颠覆、不限于殖民环境、是政治边缘的策略）",
+    "clean第510—513行：Ch2核心命题——需求根植于地方自我定义与社会需要；蒙巴萨“需求的民族志”（ethnography of material needs）",
+    "clean第552—577行：蒙巴萨欲望的本地语汇——moyo/kijoyo/nia/roho心理官能塑造并约束欲望；passúa moyo（“撕裂心”）布高价流行，展示情感—物—需求关系",
+    "clean第943—971行：Ch3需求链（东非消费者→商队领袖→桑给巴尔代理→外国厂商）；整船退货、样品先行、黄铜丝规格（线径/圈径/包装/光泽）决定价值",
+    "clean第1438—1442行：钟表的驯化——桑给巴尔时钟不按欧洲时间，按日出计时的Zanzibari time并每十天调校；Barghash将欧洲钟表适配本地时间感知",
+    "clean第1549行：symbolic subjection定义（把人制成象征以展示占有者能力）与“空白石板”（blank slate）话语——英国人道主义修辞的持续线索",
+    "clean第1993—2016行：semi-civilized作为文明/野蛮之间的中位范畴，维多利亚分析家用以解释东非消费、经济与婚姻的多样性（Speer领事以“缺乏清单”定义桑给巴尔，作者指出其与事实不符）",
+    "clean第2176—2228行：结论三个元命题——当代全球性有无数被遗忘的先例（电报vs互联网的时间—空间压缩比较）；意义脆弱且易跨界转移；全球性从不单维或单向，不能理解为从西方扩散到“其余”的单一“全球化”；殖民主义首次给予欧洲决定性贸易优势"
+  ]
+}

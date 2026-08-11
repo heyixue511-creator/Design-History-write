@@ -1,0 +1,44 @@
+{
+  "source_id": "B0149",
+  "corpus": "book",
+  "folder_name": "Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008",
+  "material_type": "edited_volume_on_guilds_skills_and_innovation",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008_clean.md",
+  "clean_source_sha256": "61A45AAEC2B9EDEC84B3FFB0A80FBDF45842B439C3DF8696B3CE22F7CC118342",
+  "duplicate_group": null,
+  "files": [{"report_file_count": 20, "report_characters": 182397, "packet_characters": 186521}],
+  "report_structure": {
+    "overall_report": 1,
+    "introduction_and_chapter_reports": 12,
+    "special_entity_index": 1,
+    "knowledge_emergence_files": 5,
+    "review_basis": "overall_report_relevant_chapters_and_clean_text_spot_checks"
+  },
+  "candidate_sections": [
+    {"section_id": "0.3", "grade": "B", "verification": "V2", "role": "revisionist_institutional_history"},
+    {"section_id": "0.6", "grade": "B", "verification": "V2", "role": "gender_geography_and_counterexample_gaps"},
+    {"section_id": "1.1", "grade": "A", "verification": "V2", "role": "apprenticeship_tacit_knowledge_and_workshops"},
+    {"section_id": "1.3", "grade": "B", "verification": "V2", "role": "subcontracting_and_coordination_of_specialized_skills"},
+    {"section_id": "1.5", "grade": "B", "verification": "V2", "role": "collective_incremental_innovation"},
+    {"section_id": "1.6", "grade": "C", "verification": "V2", "role": "prehistory_of_professional_specialization"},
+    {"section_id": "1.7", "grade": "A", "verification": "V2", "role": "conditional_and_regional_institutional_variation"},
+    {"section_id": "2.2", "grade": "B", "verification": "V2", "role": "institutional_training_prehistory"},
+    {"section_id": "2.7", "grade": "C", "verification": "V2", "role": "skilled_labor_mobility_context"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "The edited volume is a guild-revisionist intervention; it does not prove that guilds were uniformly innovative or optimal.",
+    "Rules must be distinguished from enforcement and everyday practice.",
+    "The case geography is concentrated in central and western Europe and the volume lacks a sustained gender analysis.",
+    "Knowledge-emergence labels such as the skill-mobility-diffusion triad are routing hypotheses, not quotations from the book.",
+    "Clean text was spot-checked only; archival references and quantitative claims remain unverified."
+  ],
+  "original_spot_checks": [
+    "clean lines 57-80: the introduction identifies apprenticeship, subcontracting, labor mobility and tacit knowledge as mechanisms.",
+    "clean lines 103-132: apprenticeship attrition, family training and subcontracting complicate a single formal model.",
+    "clean lines 150-165: tacit knowledge, collective sharing and resistance to private monopoly are separated.",
+    "clean lines 189-226: guild responses to technology are conditional and Ogilvie's rent-seeking counterexample is retained.",
+    "clean lines 258-262: the editors deny that guilds were an optimal or universally growth-promoting solution."
+  ]
+}

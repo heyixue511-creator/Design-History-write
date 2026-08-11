@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0282,4.2,A,V2,manifesto_1919,1919包豪斯宣言确立“一切创造活动的终极目标是建造”与拆除艺术工匠之墙的理想，附教学计划与入学要求,宣言文本为可证档案史实；其理念实现程度须以制度史佐证，不可直接推定,clean第78—91行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.2,A,V2,vorkurs_dual_master_system,双师制（形式大师+工艺大师）与初步课程（Vorkurs）为包豪斯基础教学制度，系不断试错改革的产物而非预先设计的完美方案,制度结构可证；教学成效不可自动推定,clean第1573、1663行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.2,B,V2,women_textile_workshop_gender,纺织工坊几乎全为女性而建筑部门几乎全为男性，女性处境被记录但未获深入性别政治分析,社会构成事实可证；性别政治解释需另寻文献（如Baumhoff）,packet L010、L017.2,ACCEPTED_WITH_CAVEAT
+B0282,4.3,A,V2,turn_1923_art_technology,1923年口号由“艺术与手工艺统一”转为“艺术与技术统一”，Technik替换Handwerk标志从行会式生产到工业原型设计的范式转移,口号文本为可证史实；“范式转移”属Droste解释框架,clean第578行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.3,A,V2,exhibition_1923_political_pressure,1923年展览系1922.6政府贷款附带条件催生，格罗皮乌斯认为日期过早但被迫屈服；号角屋为仓促上马的示范项目,贷款条件与展期为可证制度事实；“被迫早产”评价属解释,packet 04章L005—L006,ACCEPTED_AS_CORE_SOURCE
+B0282,4.3,A,V2,moholy_nagy_replaces_itten,1923莫霍利-纳吉接替伊顿主持初步课程，构成主义-理性主义-技术取向取代表现主义-神秘主义-手工艺取向,人事更替为可证事实；“转向最明确信号”评价属解释,packet 04章L007,ACCEPTED_AS_CORE_SOURCE
+B0282,4.4,A,V2,dessau_reorganization_curriculum,迁德绍后课程体系重组：初步课程由Albers与Moholy合授并保持全年制；康定斯基形式理论为第二学期以上必修,课程表为可证制度文献,clean第1573、1663行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.4,A,V2,bauhaus_ltd_founding,迁德绍后方成立Bauhaus Ltd（有限责任公司）作为销售与授权经营主体，包豪斯由教育机构兼为经济主体,公司设立为可证制度史实,clean第1284行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.4,A,V2,workshop_production_industry,德绍工坊生产与工业界授权合作：Polytex纺织、Rasch壁纸、耶拿玻璃等授权合同构成产品市场化路径,授权合同为档案制度事实；产品市场成效不可推定,clean第2384行（授权协议延续）,ACCEPTED_AS_CORE_SOURCE
+B0282,4.5,A,V2,meyer_directorship_social_function,迈耶任期（1928—1930）由“工业设计学院”转向社会功能主义：引入社会学经济学心理学课程、“人民需求而非奢侈需求”、整合室内装修工坊,课程改革与口号为可证；解职因果Droste保留模糊，不得断言,clean第1804、1843、1946、2203行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.5,A,V2,mies_depoliticization_1930,密斯1930继任后去政治化：清党开除激进学生、1930.9.9大师委员会决议关闭学院重开、限定包豪斯目的为手工艺技术与艺术训练,1930.9.9决议与课程表为档案史实；“美学至上”评价属解释,clean第2284—2296、2356行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.5,A,V2,bauhaus_closing_1932_1933,1932.9纳粹坚持下德绍包豪斯关闭（社民党弃权、仅共产党代表赞成），1933年柏林包豪斯被搜查并最终关闭,市政投票与关闭命令为可证史实,clean第2253—2254、2671行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.6,A,V2,bauhaus_books_publications,包豪斯书籍与期刊（1925年起德绍出版）作为理念自我复制与对外传播的制度载体，多数卷册由大师自撰,出版物目录为可证制度事实；传播成效不可推定,clean第1532—1535行,ACCEPTED_AS_CORE_SOURCE
+B0282,4.7,A,V2,weimar_to_dessau_migration,1925年魏玛→德绍迁徙：1924.12.26新闻稿解除图林根州合同、德绍社民党政府提供实质邀请（市长Hesse）、1925.4.1正式开学并启用临时校舍,迁徙动因与时间节点为可证制度史实,clean第1261、1313—1330、1679行,ACCEPTED_AS_CORE_SOURCE
+B0282,0.6,B,V2,archival_evidence_tiering,档案史实与Droste解释框架分层使用；本书与B0182、B0158、B0464、B0216共享包豪斯档案，同一档案只计一份P0,单源档案事实不因多书引用而累积P0,packet重复组说明,ACCEPTED_AS_CORE_SOURCE
+B0282,0.6,C,V2,teaching_outcome_not_inferable,课程/工坊/产量数据仅可证制度事实，教学成效（学生能力塑造、理念实现度）不可自动推定,本书学生经验叙述本身边缘化，更不宜据此推定教学成效,packet L017.1,ACCEPTED_WITH_CAVEAT

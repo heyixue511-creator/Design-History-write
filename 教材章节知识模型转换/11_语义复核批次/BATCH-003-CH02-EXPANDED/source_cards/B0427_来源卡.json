@@ -1,0 +1,141 @@
+{
+  "source_id": "B0427",
+  "corpus": "book",
+  "folder_name": "Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》",
+  "material_type": "多作者论文集（14章+编者导言，由1995年英国艺术史家协会年会“Objects, Histories and Interpretations”分组论文结集，作者为博物馆策展人与大学学者）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》.md",
+  "clean_source_sha256": "409950F150CC781832F66F2846B5A1010C0458A2CD868498CC69327E2A012070",
+  "duplicate_group": "与B0049（Henry Cole传）、B0339（Greenhalgh世界博览会）、B0463（Çelik东方展示）、B0175（Grand Designs帝国博物馆）共享1851年博览会、1886年殖民与印度展览会、南肯辛顿/V&A及帝国博物馆档案；对象层面Gwalior门楼、毛利会堂（Hinemihi/Mataatua）、Lang刚果摄影、比利时象牙雕塑若在其他来源出现只计一份P0；本书不含Benin青铜",
+  "files": [
+    {
+      "report_file_count": 22,
+      "report_characters": 132565
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "colonial_taxonomy_imperial_exhibition"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "social_life_of_things_object_biography"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "museum_school_state_governance"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evidence_bias_absent_makers"
+    },
+    {
+      "section_id": "12.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "restitution_community_participation"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "cross_border_transfer_colonial_objects"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "entanglement_asymmetry_model"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "visual_archival_oral_evidence"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "relational_history_object_networks"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "concept_competition_art_category"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "great_exhibition_indian_court"
+    },
+    {
+      "section_id": "8.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "soviet_decorative_art_domestication"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "pattern_authority_colonial_design_education"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "art_nouveau_colonial_propaganda"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ruskinian_anti_industrial_colonial"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "chinese_art_category_british_construction"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "文集框架：14章为独立个案，各章理论立场与证据类型不一，不能把主编导言或任何单章结论当作全书统一命题",
+    "编者自认“不追求完整覆盖”（clean L253），地理覆盖不均衡（缺拉美、东南亚），中国部分只论英国侧接受而不及东亚自身",
+    "大量证据来自组织者话语（官方指南、报刊、策展人自述），不能由此直接推出观众或来源社群的实际接受；观众反应证据稀缺（仅门票争论、抗议等零星记录）",
+    "部分章节是当事人自述（Poovaya-Smith的策展实践、Hooper-Greenhill与Allen的毛利叙事），立场性强，须与其他证据交叉验证",
+    "成书于1990年代，理论（后殖民批评）与材料（苏联档案未及后开放成果）均有时效性",
+    "人类展示与历史种族主义材料（1886展人种模型、优生学摄影、伪毛利村落、象牙宣传）只应在说明制度机制与批判史时最小限度转述，不得当作中性史实",
+    "风格相似、同场展出或名人接触（如Jones与印度纹样、Kipling与Ram Singh、Leopold与象牙）不能直接推出“影响”；混杂性、驯化、拜物等是作者理论判断而非史料事实",
+    "P4知识涌现报告中的知识元命名、语义链接网络、枢纽与涌现强度等模型是分析层推演，仅作语义路由，不得写成原著命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第225—227行：导言提出五问（殖民权力对原住民文化生产的影响、殖民物件如何展示等），AAH 1995年会选址南肯辛顿——“本身就是一座令人敬畏的殖民机构”",
+    "clean第271—273行：Richards“帝国档案”引述与“三维帝国档案”命题；物从边缘到中心的迁移改变其意义；三阶段分期（1851-约1870说教、约1870-1885学院式帝国主义、约1885-世纪末流行帝国主义必胜主义）",
+    "clean第394—405行：1886年殖民与印度展览会的人种模型（身体翻模）、“Indian Palace”混杂建筑与Durbar Hall——“官方殖民物件的终极范例”",
+    "clean第437—445行：Ch3核心命题“中国被视为可市场化商品”；鸦片战争（1839-42）、南京条约（1842.8.29）、ILN创刊及其中国图像承袭Nieuhof（1665/1669）",
+    "clean第596—604行：乾隆宝座1901年八国联军掠取、1922年以£2250入馆；Stewart纪念品理论——“帝国纪念品成为慰藉的拜物”",
+    "clean第697—713行：Gwalior门楼——Clarke 1881年委托、Major Keith救助2000名工匠的动机、Scindia赠送、1886年展“首次也是最后一次”恰当展示、此后被遮蔽",
+    "clean第995—1005行：苏联“驯化”命题（拒不服从的乌兹别克被化为迷人家居图像）、aziatshchina贬义、Lomonosov瓷厂家居装饰的政治功能",
+    "clean第1250—1254行：毛利“taonga须被谈话（korero）环绕”vs西方艺术品观（“作品被照料：它不照料我们”）；尼采透视主义——“每种视角实际产生一个不同的对象”",
+    "clean第1455—1461、1489—1499行：Mataatua剥夺（雕师抗议、多数沉默、无转让文书、妇女威胁藏匿ridgepole、1882年南肯辛顿accession 422-1882）与1996年怀唐伊法庭建议归还、雕刻送回Whakatane",
+    "clean第1772—1788行：Lang的九十套头部/肩部“科学”肖像程序、“殖民模拟话语使照片作为纯科学文献失效”；“A Parisienne of the Mangbetu Tribe”标题显示说明文字支配图像"
+  ]
+}

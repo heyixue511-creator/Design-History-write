@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0219,6.7,A,V2,wartime_propaganda_production,1930s–1949年中国漫画被全面“武器化”：救亡漫画宣传队、传单、报纸杂志、壁画、木刻、幻灯构成战时宣传生产体系,漫画图像的供给与再现可证；宣传效果（如传单对日军士气）多为转引二手证据，不能证明接受,核对clean L774–1004宣传队与传单段、L1220抗战主题总结,ACCEPTED_AS_CORE_SOURCE
+B0219,6.7,A,V2,cartoon_leaflet_content_analysis,31幅反日漫画传单的内容分析：主题（日本暴行、帝国主义、汉奸）、战果清单、格式特征（单面单张、色块、单幅为主、绘制粗陋）,样本以八路军/新四军来源为主（clean L995），国民党传单样本极少；图像学描述不等于传播效果,核对clean L995–1003,ACCEPTED_AS_CORE_SOURCE
+B0219,6.7,B,V2,cartoonist_oral_testimony_wartime,救亡漫画宣传队五名队员（特伟、张仃、廖冰兄、韩尚义、麦非）的口述史记录战时漫画生产的组织与迁徙路线（沪→宁→汉→长→桂→渝）,口述为回溯性记忆，存在版本分歧（宣传队解散原因麦非版vs特伟版），需交叉核对,核对packet第三章分析报告L812–L866,ACCEPTED_AS_CORE_SOURCE
+B0219,6.7,B,V2,kmt_ccp_propaganda_comparison,国共两党战时漫画宣传策略对比：共产党系统组织化、国民党宣传“涣散低效”,对比评价部分依赖国民党批评性二手文献，与作者自认的共产党视角偏向叠加,核对clean L888、L987,ACCEPTED_AS_CORE_SOURCE
+B0219,6.3,A,V2,print_capital_visual_public_sphere,石印等现代印刷技术推动清末民初漫画杂志、画报、党派报纸勃兴，上海形成漫画视觉公共领域,印刷史细节为二手综述（Rea、Laing、Bevan），本书非原创档案研究,核对clean L206、L216、L547,ACCEPTED_AS_CORE_SOURCE
+B0219,6.4,B,V2,shanghai_urban_consumption_culture,上海漫画杂志（上海漫画1928–1930等）依托邵洵美等出版赞助人、都市读者市场与石印海报形式发展,消费市场细节来自二手文献（Laing 2010、Bevan 2016），本书未做广告与销售数据分析,核对clean L547,ACCEPTED_AS_CORE_SOURCE
+B0219,6.6,B,V2,national_form_modern_form_debate,延安文艺路线与民族形式：米谷《小二黑结婚》以水墨线描避开西方明暗法，符合毛泽东延安讲话主张,案例单一，论证强度中等；民族形式之争非本书主题展开,核对clean L738,ACCEPTED_AS_CORE_SOURCE
+B0219,6.1,B,V2,prehistory_cartoon_visual_media,宋代《梅花喜神谱》为最早插图超越文字的印刷书；明清年画、石刻、小说绣像中的讽刺与图像叙事传统,早期史依赖二手文献（Clunas、Flath、Bo），“漫画前史”认定本身有争议（Bader 1941反对）,核对clean L136、L156、L162、L166,ACCEPTED_AS_CORE_SOURCE
+B0219,6.5,C,V2,east_asian_intermediary_japan,1920s–30s日本视觉元素与留日漫画家（丰子恺等）构成东亚中介环节，影响上海漫画与宣传画,日本影响论述零散，未系统论证中介机制与教育制度关联,核对clean L643、L715,ACCEPTED_AS_CORE_SOURCE
+B0219,6.2,C,V2,qing_antiimperialist_cartoons,清末报刊漫画参与反帝与抵制外货宣传：义和团时期反帝海报漫画、1910s抵制日货传单,仅零星涉及，非本书主题，证据单薄,核对clean L325,ACCEPTED_AS_CORE_SOURCE
+B0219,0.4,B,V2,cartoon_images_as_artifacts,漫画传单、杂志封面、壁画等漫画图像作为人工物史料，可证战时宣传图像的供给、题材与再现惯例,图像不能证明受众接受与理解（作者自评传单“难以快速领会”属推断）,核对clean L995–1003、packet第四章31幅传单分析,ACCEPTED_AS_CORE_SOURCE
+B0219,0.6,A,V2,oral_history_evidence_bias,作者显性自认叙述倾向共产党/大陆视角、口述史“有陷阱不能讲述全部故事”，受访者以大陆从业者为主,偏差已由作者声明并试图以批判性评估与并置异见弥补；国民党视角与港台独立发展仍缺失,核对clean L102–L103附近及第四章分析报告口述段,ACCEPTED_AS_CORE_SOURCE

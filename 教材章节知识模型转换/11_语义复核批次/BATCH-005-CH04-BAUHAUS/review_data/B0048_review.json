@@ -1,0 +1,59 @@
+{
+  "source_id": "B0048",
+  "title": "De Stijl: The Formative Years, 1917-1922",
+  "author": "Carel Blotkamp et al.（多作者，八位乌特勒支大学艺术史研究生，Blotkamp主编）",
+  "version": "MIT Press，1986（英文译本；荷兰文原版De Beginjaren van De Stijl 1917-1922，1982）",
+  "type": "多作者专史",
+  "scope": "荷兰风格派形成期1917—1922（导言+九位艺术家专章：van Doesburg、Mondrian、Huszár、Oud、van der Leck、Wils、van 't Hoff、Vantongerloo、Rietveld）",
+  "duplicate_group": "与B0276、B0363共享风格派对象与文本；同一对象只计一份P0",
+  "summary": "本书是风格派形成期（1917—1922）的集体学术专著，由八位乌特勒支大学艺术史研究生在Blotkamp指导下分章执笔，基于1981年入藏海牙Rijksdienst Beeldende Kunst的van Doesburg遗存书信等档案。全书核心是修正主义命题：De Stijl并非紧密艺术团体而是一份期刊及松散供稿人网络——成员地理分散、从未有过全员展览或三人以上同时聚会，凝聚力主要靠van Doesburg作为独任编辑的居中通信维系。第二个核心论点是1922年前后的根本断裂：此前Mondrian、van Doesburg、Oud三方主导，此后van Doesburg一人独大、刊物国际化；van der Leck、Wils、van 't Hoff、Vantongerloo在此之前已先后退出，1922年Oud与van Doesburg决裂。各章以书信为P0主干证据，重构每位艺术家的风格前史、创作演变与退出因果，并推翻多项流行定论：Mondrian并非教条主义者（1917—1919大量使用调弱色，纯原色迟至1920年后）；对角线之争远比想象复杂；Rietveld红蓝椅着色版本应迟至约1923年而非1918年；1918年11月四语宣言的强烈外部一致印象仅覆盖最宽泛表述，Oud、van der Leck拒绝签名，Huszár反对Vantongerloo署名。本书对教材3.5节（风格派与普遍秩序）提供核心补证，对4.7、4.2、4.3节提供van Doesburg动态原理、化名策略及与包豪斯接触的史料。",
+  "strengths": [
+    "档案驱动：以1981年入藏海牙Rijksdienst Beeldende Kunst的van Doesburg遗存书信为核心P0史料，辅以Fondation Custodia与NDB建筑档案，史料精度远超此前综述",
+    "修正主义立场明确：系统解构“风格派铁板一块”刻板印象，严格区分期刊De stijl（斜体）与群体De Stijl（正体）",
+    "时期聚焦：严格限定1917—1922形成期并论证1922断裂点，避免将1922年后定型观念回溯投射到早期",
+    "个案分离式多作者写作：九位艺术家独立成章、尊重个体差异，以书信引文重建成员间分歧与退出因果链",
+    "断代考证严谨：红蓝椅着色年代（约1923而非1918）、Mondrian调弱色时期、Huszár作品年代考订均以作品、照片、书信与行政档案交叉验证",
+    "材料类型多样：书信、De stijl期刊文本、市政档案、展览图录、同时代期刊评论并用，跨绘画、雕塑、建筑与室内设计",
+    "对教材价值高：提供风格派内部异质性、宣言签署分歧、成员逐一退出机制等3.5节当前仅7条映射所急需的系统补证"
+  ],
+  "limits": [
+    "以van Doesburg遗存书信为主干材料，可能系统性强化van Doesburg中心叙事，弱化其他成员（如Mondrian、Huszár）的自我表述视角",
+    "多作者合著结构下各章立场与证据类型不一：主编Blotkamp的导言框架不等于全书统一结论，引用时须标注具体章次作者",
+    "严格限定1917—1922形成期，切断各艺术家后期发展解释（Mondrian成熟期、Rietveld施罗德住宅等），不可直接外推",
+    "国际维度处理简略：与包豪斯、俄国构成主义的关系因时期限定仅零星提及",
+    "英译本译者未具名，术语翻译惯例（如beeldende译作plastic）及引文还原需对照1982年荷兰文原版",
+    "导言部分事实陈述（成员地理分布、宣言细节）以确立性语气呈现而未逐一标注出处，属导论特权式引用",
+    "红蓝椅断代等修正结论部分依赖“无证据即不存在”的排除式论证（Spangen样板房、Elling住宅无着色椅记录），与B0276、B0363共享对象时须合并核对、同一对象只计一份P0",
+    "知识涌现模型（如风格派与包豪斯相互影响路径、国际网络演化推演）为P4推演产物，仅作语义路由，不作史料断言"
+  ],
+  "checks": [
+    "clean第156行：1918年11月四语宣言，几乎所有成员签名，开头“There is an old and a new consciousness of time”（导言核心引文）",
+    "clean第623、647行：1917年上半年De stijl创立；1917年10月首期编辑序言中van Doesburg提出艺术家“双重使命”（教育公众+创造纯粹视觉艺术）",
+    "clean第8024—8032行：红蓝椅着色版本应晚于文献所述；1919年9月De stijl首次刊载未着色版本照片，VANK年刊（1921）、Merz（1923）均未提鲜艳色彩；Spangen样板房与Elling住宅均无着色椅证据（Küper断代论证）",
+    "clean第3286行：Huszár单色版画可能直接受其魏玛之行所见Bauhaus版画启发",
+    "clean第4196—4198行、第5181行、第7031—7032行、第6592—6597行：宣言签署分歧——Oud、van der Leck拒绝签名，Huszár反对Vantongerloo署名",
+    "clean第964行：杜斯堡1921年5月移居魏玛，远程完成Oud的Spangen住宅群及Drachten项目色彩方案",
+    "clean第3243—3245行：杜斯堡与包豪斯管理层存在严重冲突；Huszár 1922年8月访魏玛后撰德文反包豪斯文章（De stijl 1922年9月号）",
+    "clean第980行：1922年春杜斯堡与van Eesteren在魏玛会面，一年后开始密集合作（Maison d'Artiste模型）",
+    "clean第2797—2799行、第489行：Huszár 1916年彩玻设计为De Stijl形式语言的前史起点，直接影响了杜斯堡1917年彩玻",
+    "clean第1311行：蒙德里安与杜斯堡经由书信维持对话并渐生分歧（对角线、建筑中时间因素）；1918年12月信显示其对宣言的温和立场"
+  ],
+  "maps": [
+    ["3.5", "A", "journal_not_group_thesis", "De Stijl并非紧密艺术团体而是一份期刊及松散供稿人网络：成员地理分散、从未有全员展览或三人以上聚会，凝聚力靠van Doesburg居中通信维系", "以1981年入藏van Doesburg书信为核心P0；“网络而非团体”为Blotkamp主编框架，各章叙事口径不一需分章引用", "clean第623、647行；packet 01章L303—L304", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.5", "A", "break_1922", "1922年为根本断裂点：此前后Mondrian、van Doesburg、Oud三方主导，此后van Doesburg一人独大、刊物国际化；van der Leck、Wils、van 't Hoff、Vantongerloo先后退出，1922年Oud决裂", "各章退出因果为档案重建；“1922断裂”为全书核心论点", "packet核心论点2", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.5", "A", "manifesto_1918_disunity", "1918年11月四语宣言制造强烈外部一致印象，但共识仅限最宽泛表述（新旧时间意识）；Oud、van der Leck拒绝签名，Huszár反对Vantongerloo署名", "P0：宣言文本+致Kok/Oud/Mondrian书信；各章叙事口径不一需分章引用", "clean第156行、第4196—4198行、第5181行、第7031—7032行、第6592—6597行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.5", "B", "doesburg_centrifuge", "van Doesburg既是风格派推动力也是离心力：冲动性格使他快速吸收他人灵感又逐一与几乎所有合作者决裂", "P0：致Kok、致Oud书信为主干；此为Blotkamp执笔章解读框架", "packet 02章论题三；clean第806行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.5", "B", "mondrian_not_doctrinaire", "Mondrian远非教条主义者：1917—1919年大量使用调弱色（粉、浅蓝、灰）并作理论辩护，纯原色迟至1920年后", "P0：Hoek章作品年代考证+书信；对教材“三原色教条”刻板印象构成反证", "packet核心论点6", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.5", "B", "diagonal_debate_complex", "对角线之争比流行叙述复杂：Mondrian 1918年曾尝试“完全菱形构图”并知识性认可斜线方案，最终抵制部分源于与van der Leck的决裂（旋转画布避嫌）", "P0：Mondrian书信+Hoek章视觉分析", "packet核心论点5", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.7", "B", "doesburg_bauhaus_contact", "De Stijl与包豪斯接触史：战后De Stijl对包豪斯持批判态度；van Doesburg与包豪斯管理层冲突；1923年Rietveld受邀参加Bauhauswoche但未寄作品", "1923年事件超出本书1917—1922核心时段；与B0276、B0363共享对象只计一份P0", "clean第166行、第3244—3245行、第8123—8133行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.2", "B", "dynamic_principle_philosophy", "van Doesburg吸收第四维度与相对论形成“动态原理”，与Mondrian“静态-永恒”世界观对立，是1922年前后分裂的哲学根源", "P0：1919年6月致Oud信（莱顿长谈报告）为核心文献；本书时期限内论证充分", "packet 02章论题四", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.3", "B", "doesburg_pseudonyms", "van Doesburg以化名I.K. Bonset（1920年5月起）与Aldo Camini（1921年7月起）在De stijl发表达达主义诗歌散文，既表达动态世界观也是对Mondrian的“神秘化”策略（Kok、Oud早已知情）", "P0：De stijl期刊文本+书信；化名动机考证属本书重要发现", "packet 02章论题三", "ACCEPTED_AS_CORE_SOURCE"],
+    ["2.5", "B", "prehistory_case_starts", "风格派前史与个案起点：van der Leck 1916年以三原色+黑白“通过还原到达抽象”（doorbeelding）；Rietveld红蓝椅着色版本迟至约1923年而非1918年", "P0：Küper章断代考证（作品、照片、信件、Spangen样板房缺证）；与B0276/B0363共享红蓝椅对象只计一份P0", "clean第7839行、第8024—8032行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.3", "B", "network_spatial_sociology", "De Stijl成员关系网络结构：地理分散（Laren、Leiden、Voorburg、Huis ter Heide等），以van Doesburg为唯一编辑的通信网络维系关系", "P0：导言空间社会学论证+各章书信档案（1981年入藏遗稿）", "clean第3877行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.4", "B", "artifact_dating_evidence", "人工物史料：van Doesburg彩色玻璃窗（1917）、De Vonk室内（1918）、Villa Henny（1914—16）、De Lange别墅色彩方案、Spangen样板房家具套装（1920）、红蓝椅断代等作为精确断代证据", "P0：作品实物+市政档案+照片+De stijl刊载记录交叉验证", "clean第8027—8032行；packet 05/07/10章", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.6", "B", "doesburg_centric_bias", "证据偏差警示：以van Doesburg遗存书信为主干可能强化其中心叙事；多作者合著结构下各章立场与证据类型不一，主编框架不等于全书统一结论", "本书方法论自我反思；复核时须按章次标注作者", "packet 00章L002、L006", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.5", "C", "united_front_external_image", "“团结一致”公共形象部分由外部敌意评论强化：Mieras（Bouwkundig weekblad 1917）、Wichman（La revue du feu 1919）、Westheim（Das kunstblatt 1923）、Joostens讽刺画制造“统一战线”表象", "导论论点，引用同时代期刊作外视角证据，非严格引文", "clean第176行", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.7", "D", "semantic_router", "风格派与包豪斯影响路径推演（如Huszár单色版画受魏玛Bauhaus版画启发、与Moholy-Nagy/Forbat的关联）仅作语义路由", "P4知识涌现推演，非本书形成期1917—1922直接论证", "clean第3286—3288行", "ACCEPTED_AS_SEMANTIC_ROUTE"],
+    ["3.5", "X", "rietveld_contact_myth", "Rietveld与De Stijl核心成员实际接触远少于与乌特勒支本地艺术家圈的接触；“红蓝椅1918年即着色”为流行误传", "Küper章颠覆流行定论，与B0276、B0363共享Rietveld对象时须合并核对、同一对象只计一份P0", "clean第8024—8032行、第7839行", "ACCEPTED_WITH_CONFLICT_NOTE"]
+  ]
+}

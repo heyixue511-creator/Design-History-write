@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0291,3.4,A,V2,production_art_artist_constructor,生产艺术与艺术家-构造者：罗德琴科在VKhUTEMAS/Metfak将设计定义为目的+技术+材料的政治过程，材料与构造方式承载共产主义价值,教学制度与设计项目为史实；“艺术家-构造者”作为概念重构属Margolin命题；Brik、Arvatov、Stepanova原文可回B0222、B0277交叉印证,clean第23—24行；clean第189行,ACCEPTED_AS_CORE_SOURCE
+B0291,3.4,A,V2,workers_club_1925,1925年巴黎世博会罗德琴科工人俱乐部：以简洁、硬质、红黑白灰的集体主义空间对抗Ruhlmann等资产阶级内饰，作为无产阶级生活方式模型,展品与Kogan序言为史实；视觉-政治对立解读为Margolin论证；与B0277（Lodder）材料重叠,clean第101—113行,ACCEPTED_AS_CORE_SOURCE
+B0291,3.4,B,V2,vkhutemas_metfak_curriculum,VKhUTEMAS/Metfak教学：Stroganov应用艺术学校遗产的改造、多功能家具与Bykov模块化售货亭、理想用户预设,制度沿革可靠；教学成效评估（理想用户无市场）含Margolin判断；呼捷玛斯本体回B0277、B0222,clean第12—18行；clean第42—47行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0291,3.4,B,V2,rodchenko_advertising_typography,罗德琴科平面与广告设计（Lef/Novyi Lef封面、Kino-fot、Mosselprom与Rezinotrest广告、马雅可夫斯基书籍）：产品呈现为行动工具,“行动修辞学”（rhetoric of action）为Margolin建构概念；作品、客户为史实,clean第335行；clean第192行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0291,3.6,A,V2,fifo_new_photography_exhibition,1929年斯图加特FiFo展与新摄影运动：莫霍利-纳吉任顾问并组织“摄影发展走向何方”引子展，Stotz策展、Tschichold参与选片,展览史实可靠；“技术优先于题材”为核心论点；与B0269可互证莫霍利理论,clean第747—764行；clean第770行,ACCEPTED_AS_CORE_SOURCE
+B0291,3.6,B,V2,politics_of_form_rodchenko_moholy,形式的政治：唯物论罗德琴科vs.唯心论莫霍利-纳吉的摄影观差异，被两国“形式主义”标签系统性误读,唯物/唯心对照为Margolin建构的比较命题（非史实陈述）；Fedorov-Davydov序与Roh前言为一手文献,clean第809行；clean第792—794行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0291,3.6,B,V2,typofoto_new_typography,新字体排印与typofoto：莫霍利-纳吉《绘画、摄影、电影》、Tschichold新排版推广、FiFo中书籍设计应用,本书对“新字体”为背景性论述，主体回B0222、B0269；FiFo中Heartfield封面被纳入技术范畴而非政治解读为Margolin论点,clean第762行；clean第775行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0291,3.7,A,V2,transnational_avantgarde_network,跨国先锋网络：利西茨基柏林时期（Veshch、G杂志、Düsseldorf大会）、苏联-德国双向流通、莫霍利经伦敦至芝加哥的机构移植,人物流动与刊物为史实；“协商”作为统一解释框架为Margolin命题；与B0222、B0276重叠,clean第1596—1601行；clean第836行,ACCEPTED_AS_CORE_SOURCE
+B0291,3.7,B,V2,bauhaus_model_transfer_chicago,包豪斯模式跨国移植：莫霍利-纳吉1937年新包豪斯、School of Design、Institute of Design，与Paepcke、Bayer、Gropius、洛克菲勒基金会的博弈,美国阶段基于档案（Paepcke募捐信、Stevens报告、商业期刊报道）可靠；“设计不是职业而是态度”为莫霍利原话,clean第1557行；clean第1587—1589行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0291,3.1,C,V2,machine_perception_urban_modernity,战争、都市与机械感知：新摄影与机械观看在魏玛都市现代性中的嵌入（一战与革命背景在原书前两章，不在本包语料）,本书对该主题为背景性论述，机械感知经由新摄影话语间接呈现；直接证据有限,clean第670行；clean第747行,CONTEXT_ONLY
+B0291,0.2,B,V2,utopia_as_design_engine,乌托邦作为设计动力：三位行动者以艺术实践追求乌托邦理想，并与政治-经济现实持续协商,设计乌托邦主张是Margolin分析框架而非史实描述，引用须标注为命题；“协商”谱系（Bürger、Poggioli、Fitzpatrick）见专项报告,clean第1592—1597行；clean第1262—1263行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0291,0.2,B,V2,modernity_regime_tension,现代性与体制张力：苏联社会主义、魏玛资本主义、美国商业体制三种语境下前卫理想的差异化命运,体制对照为本书核心论证结构；个体能动性评估含作者判断，系统性暴力约束可能被低估,clean第865—871行；clean第1286行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0291,0.3,C,V2,comparative_framework_actors,关系史：三位行动者的比较框架（人物比较是作者建构的Margolin命题，非史料本身呈现的关系）,三人共享宣言、期刊与机构档案，与B0277、B0222、B0269重叠；同一行动者文本只计一份P0,clean第809行；clean第1262—1263行,CONTEXT_ONLY
+B0291,0.6,C,V2,evidence_bias_secondary_sources,证据偏差：依赖Khan-Magomedov传记、Lissitzky-Küppers回忆录等二手文献；对设计师肃反认知的推断（must have come）无直接证据,引用第6章心理-政治推断时须标注推测性质；clean第1048行作者自认罗德琴科知晓程度未答,clean第1048行,CONTEXT_ONLY
+B0291,4.6,B,V2,vkhutemas_vkhtein_institution,呼捷玛斯（VKhUTEMAS/VKhUTEIN）：罗德琴科任Metfak副系主任、Dermetfak教学、1930年关闭；与包豪斯的平行关系,制度史实与B0277、B0222交叉印证；“艺术家-构造者”教学成效评估为Margolin重构，未量产不等于失败是其重估命题,clean第10—11行；clean第353—357行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0291,4.2,C,V2,bauhaus_contrast_reference,包豪斯：Breuer钢管椅作为罗德琴科木质家具的平行参照、Gropius对莫霍利的支持、新包豪斯作为移植产物,本书包豪斯内容为对照与移植语境而非系统史述；魏玛包豪斯本体回B0222、B0269,clean第384行；clean第1286行,CONTEXT_ONLY

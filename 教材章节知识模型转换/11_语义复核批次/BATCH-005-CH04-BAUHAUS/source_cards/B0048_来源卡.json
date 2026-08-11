@@ -1,0 +1,141 @@
+{
+  "source_id": "B0048",
+  "corpus": "book",
+  "folder_name": "Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986",
+  "material_type": "多作者专史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Blotkamp, Carel; et al.：De Stijl：The Formative Years, 1917-1922, 1986_clean.md",
+  "clean_source_sha256": "C0E23A2567BD0EA2CD0A8B6B86C441D972EC20AE433EEE569CFB8E6618D733D5",
+  "duplicate_group": "与B0276、B0363共享风格派对象与文本；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 162262
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "journal_not_group_thesis"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "break_1922"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "manifesto_1918_disunity"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "doesburg_centrifuge"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "mondrian_not_doctrinaire"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "diagonal_debate_complex"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "doesburg_bauhaus_contact"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "dynamic_principle_philosophy"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "doesburg_pseudonyms"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "prehistory_case_starts"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "network_spatial_sociology"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "artifact_dating_evidence"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "doesburg_centric_bias"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "united_front_external_image"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "D",
+      "verification": "V2",
+      "role": "semantic_router"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "X",
+      "verification": "V2",
+      "role": "rietveld_contact_myth"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "以van Doesburg遗存书信为主干材料，可能系统性强化van Doesburg中心叙事，弱化其他成员（如Mondrian、Huszár）的自我表述视角",
+    "多作者合著结构下各章立场与证据类型不一：主编Blotkamp的导言框架不等于全书统一结论，引用时须标注具体章次作者",
+    "严格限定1917—1922形成期，切断各艺术家后期发展解释（Mondrian成熟期、Rietveld施罗德住宅等），不可直接外推",
+    "国际维度处理简略：与包豪斯、俄国构成主义的关系因时期限定仅零星提及",
+    "英译本译者未具名，术语翻译惯例（如beeldende译作plastic）及引文还原需对照1982年荷兰文原版",
+    "导言部分事实陈述（成员地理分布、宣言细节）以确立性语气呈现而未逐一标注出处，属导论特权式引用",
+    "红蓝椅断代等修正结论部分依赖“无证据即不存在”的排除式论证（Spangen样板房、Elling住宅无着色椅记录），与B0276、B0363共享对象时须合并核对、同一对象只计一份P0",
+    "知识涌现模型（如风格派与包豪斯相互影响路径、国际网络演化推演）为P4推演产物，仅作语义路由，不作史料断言",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第156行：1918年11月四语宣言，几乎所有成员签名，开头“There is an old and a new consciousness of time”（导言核心引文）",
+    "clean第623、647行：1917年上半年De stijl创立；1917年10月首期编辑序言中van Doesburg提出艺术家“双重使命”（教育公众+创造纯粹视觉艺术）",
+    "clean第8024—8032行：红蓝椅着色版本应晚于文献所述；1919年9月De stijl首次刊载未着色版本照片，VANK年刊（1921）、Merz（1923）均未提鲜艳色彩；Spangen样板房与Elling住宅均无着色椅证据（Küper断代论证）",
+    "clean第3286行：Huszár单色版画可能直接受其魏玛之行所见Bauhaus版画启发",
+    "clean第4196—4198行、第5181行、第7031—7032行、第6592—6597行：宣言签署分歧——Oud、van der Leck拒绝签名，Huszár反对Vantongerloo署名",
+    "clean第964行：杜斯堡1921年5月移居魏玛，远程完成Oud的Spangen住宅群及Drachten项目色彩方案",
+    "clean第3243—3245行：杜斯堡与包豪斯管理层存在严重冲突；Huszár 1922年8月访魏玛后撰德文反包豪斯文章（De stijl 1922年9月号）",
+    "clean第980行：1922年春杜斯堡与van Eesteren在魏玛会面，一年后开始密集合作（Maison d'Artiste模型）",
+    "clean第2797—2799行、第489行：Huszár 1916年彩玻设计为De Stijl形式语言的前史起点，直接影响了杜斯堡1917年彩玻",
+    "clean第1311行：蒙德里安与杜斯堡经由书信维持对话并渐生分歧（对角线、建筑中时间因素）；1918年12月信显示其对宣言的温和立场"
+  ]
+}

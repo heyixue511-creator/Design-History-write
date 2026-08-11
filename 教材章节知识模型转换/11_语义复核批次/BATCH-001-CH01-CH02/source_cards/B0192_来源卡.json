@@ -1,0 +1,97 @@
+{
+  "source_id": "B0192",
+  "corpus": "book",
+  "folder_name": "Hounshell：《From the American system to mass production, 1800-1932 the developmen",
+  "material_type": "美国制造技术史与企业史学术专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Hounshell：《From the American system to mass production, 1800-1932 the developmen.md",
+  "clean_source_sha256": "ADB2A49A3F0BE8F26A7736E40408CF0F7AEA3ED09CB4AEEF438AACB3EE828C4F",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 139781
+    }
+  ],
+  "report_structure": {
+    "report_file_count": 16,
+    "report_characters": 139781,
+    "review_basis": "overall_and_relevant_chapter_reports_plus_knowledge_discovery_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "revisionist_anti_hero_technology_history"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "artifact_test_of_interchangeability"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "mobile_mechanics_and_distributed_knowledge"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "interchangeability_flow_and_scale"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "gauges_specs_and_process_control"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "machine_tool_material_process_system"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "distributed_manufacturing_authorship"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "american_and_european_methods_uneven_diffusion"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "great_exhibition_technology_observation"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "marketing_production_and_market_segmentation"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "案例偏行业领导企业，对中小失败企业和工人经验覆盖较少。",
+    "美国路径不能代表欧洲、亚洲或殖民地制造系统。",
+    "1903年后的福特与GM材料超出第一编截止1914的部分须严格分期。",
+    "制造协调不等于产品外观设计，图样与设计职位仍需另证。",
+    "Clean原文仅作关键段落定位；未完成全篇、版次、图版、注释和所引P0材料核验。"
+  ],
+  "original_spot_checks": [
+    "clean第522—530行：大规模生产与美国体制不同，互换性依赖军械部长期投入。",
+    "clean第536—546行：Singer和McCormick技术扩散不平滑，营销可先于制造优势。",
+    "clean第546行：Singer仍依赖手工修配，与‘大规模生产中没有修配工’判准对照。",
+    "clean第433—435行：过剩后GM以年度车型和分层市场推动灵活大规模生产。"
+  ]
+}

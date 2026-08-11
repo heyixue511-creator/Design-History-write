@@ -1,0 +1,129 @@
+{
+  "source_id": "B0464",
+  "corpus": "book",
+  "folder_name": "Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》",
+  "material_type": "观念—政治史研究（以“理念与政治的倒转”为总纲的包豪斯思想史叙事）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》.md",
+  "clean_source_sha256": "1C14C6AF4BD1E1F46796AE7DB72BA205BF2C7D67B79A8A96B17EE86EA95FCDAA",
+  "duplicate_group": "与B0182、B0282、B0158共享包豪斯档案；同一档案只计一份P0",
+  "files": [
+    {
+      "report_file_count": 24,
+      "report_characters": 126997
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "institutional_turn_1923_exhibition"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "weimar_parliament_struggle"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "gropius_resignation_1928"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "meyer_directorship"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "mies_tenure_and_1933_closure"
+    },
+    {
+      "section_id": "4.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "artists_role_in_ouster"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "weimar_dual_system"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "preliminary_course_vorkurs"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dessau_production_programme"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "dessau_institutional_transition"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "bauhaus_vkhutemas_comparison"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "evidence_bias_inversion_thesis"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "evidence_bias_1923_exhibition"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "evidence_bias_meyer_evaluation"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "强叙事干预：“倒转论”为全称命题（“一切创始理念都被倒转”），个别推断依赖反证（如1923展览“自我动员说”无直接文件）",
+    "“Bauhaus idea”概念无独立定义，以同一概念解释成败，存在循环论证风险",
+    "政治语境分析含明确作者立场（如将Meyer的“人民”修辞与纳粹Volks-修辞类比），引用时须区分史实与解释",
+    "对女性成员（Stölzl、Brandt、Grunow、Reich）着墨有限，未形成完整分析线索",
+    "1995年英译未据1990s新档案修订，个别史实细节（如Meyer在苏联的活动）已被后续研究补充",
+    "结构上前9章与后7章轻重不一，Ch12-13人物线索时有交叉重复",
+    "与B0182、B0282、B0158共享包豪斯档案，同一档案只计一份P0，证据增量须去重评估",
+    "知识涌现分析（00-04，含语义链接网络与涌现命题P1-P6）为P4推演，仅作语义路由，不直接作为史实证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第131—149行：引言——1919年4月包豪斯在魏玛建校；写作于1989年春；“一切创始理念最终被倒转为对立面”总纲命题",
+    "clean第427—469行：魏玛政治斗争——Free Union会议与Gross事件；Gropius“像Cerberus一样看守”排除政治；Thedy分裂与议会拨款博弈；Kapp暴动纪念碑；“政治不可避免”",
+    "clean第579—585行：Itten时代“时间即政治”——Feininger书信、Itten与Gropius时间态度差异、1921年2月7日/3月15日工坊再分配",
+    "clean第857—895行：1923展览缘起考证——Feininger 1922年10月5日信；Scheidig/Hüter“政府强令说”；Gropius 1922年9月15日备忘录、迄今无政府指令文件；日期系Gropius自定之推断；议会筹款与党派辩论",
+    "clean第903—1007行：1923展览与“新的统一”——展览日期8月15日—9月30日；口号“哲学上的荒谬加深裂痕”；“政治策略/外交口号”；Bauhaus Week与CIAM前史",
+    "clean第1191—1217行：德绍纲领与艺术家裂痕——《Bauhaus Dessau — Principles of Bauhaus Production》全文；Kandinsky 1926年12月反纲领；1926年10月1日大学地位；工资捐争议与Klee/Kandinsky拒绝",
+    "clean第1265—1283行：Gropius辞职——1928年2月4日辞职信指定Meyer；Kuhr“灾难”演讲；Moholy/Bayer/Breuer离校、3月28日离开；“信仰的时代结束了”",
+    "clean第1468—1520行：Meyer评传结论——宣言对读“英雄vs蚂蚁”；“误读历史时刻”；Hesse/Grote调查与“我是理论马克思主义者”；Maldonado-Gropius论战；艺术家群体在解职中的作用；Kállai“未兑现的承诺”",
+    "clean第1570—1604行：包豪斯vs VKhUTEMAS——“走了截然相反的路”；制度差异（战败国防御vs胜利革命官方艺术）；材料决定论钢vs木；设计动机游戏vs必需",
+    "clean第1669—1689行：结语“自由主义的乌托邦”——管状家具与自由主义生活方式；“自由主义本质上是乌托邦”"
+  ]
+}

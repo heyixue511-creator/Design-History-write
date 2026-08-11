@@ -1,0 +1,9 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0411,2.4,A,V2,gothic_revival_art_industry_debate,1836年政府特别委员会与设计学校体系、帕金《对比》与哥特复兴、1851年博览会‘艺术与工业联合’——英国对工业化的制度化美学反应链,事件与文献为可核实史实；‘拒绝工业革命’统摄框架与‘迈向莫里斯’评价为作者命题,clean第40—42、56—58、70—72行,ACCEPTED_AS_CORE_SOURCE
+B0411,2.5,A,V2,pre_artnouveau_continuity,本书以‘工艺美术运动及其之后’收束，将莫里斯—新艺术—包豪斯置于同一‘进步’连续体，是2.5前史叙事的经典文献,‘连续性’本身即佩夫斯纳目的论建构；新艺术、包豪斯部分仅简述,clean第134—136行,ACCEPTED_AS_CORE_SOURCE
+B0411,2.3,B,V2,ruskin_morris_labor_ethic_link,罗斯金（七盏明灯、威尼斯之石）与莫里斯（红屋、1861公司）的劳动伦理与诚实材料主张构成工艺美术思想的行动者链条,行动者立场为P0文本事实；‘伦理→运动’因果为作者编排,clean第88—90、104—106行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0411,2.4,B,V2,exhibition_1851_art_industry_union,1851年万国博览会作为‘艺术与工业联合’的制度化舞台：水晶宫、评审话语与展品结构,组织史实可查；‘博览会失败→工艺美术转向’的因果判断为作者命题,clean第70—72行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0411,2.4,B,V2,design_school_state_system,1846年前后政府设计学校体系的建立是国家介入设计教育的早期制度史实,设立动机（提升出口竞争力）与成效（作者判断‘不足’）须区分,clean第40—42行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0411,2.3,C,V2,art_workers_guild_institutionalization,1882年世纪行会、1888年艺术与工艺展览协会等工艺美术制度化节点,组织年份可查；协会影响力叙述为二手综合,clean第118—120行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0411,0.6,A,V2,teleological_historiography_sample,本书是目的论历史书写的典型样本：英雄史观（帕金→罗斯金→莫里斯）、进步评价与‘拒绝工业革命’统摄框架，可作0.6史学方法审计的教学案例,作者在序言自述写作动机与立场，框架可识别；引用其史实时须剥离框架,clean第8—10、148—150行,ACCEPTED_AS_CORE_SOURCE
+B0411,0.5,C,V2,secondary_vs_primary_evidence,本书为二手论著：行动者文本（帕金、罗斯金、莫里斯著作）为一手，佩夫斯纳的判断为二手解释,引用须回溯至行动者原典；本书不可作为行动者立场的独立来源,clean第56—58、88—90行引文段落,CONTEXT_ONLY

@@ -1,0 +1,110 @@
+{
+  "source_id": "B0328",
+  "corpus": "book",
+  "folder_name": "Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New",
+  "material_type": "设计社会史与设计政治经济学经典专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New.md",
+  "clean_source_sha256": "F367A99EDD11F960FDE12204F42F8CC50B34B7D12D575BC032E1785D71EFD58E",
+  "duplicate_group": "VGRP002",
+  "files": [
+    {
+      "report_file_count": 19,
+      "report_characters": 198814
+    }
+  ],
+  "report_structure": {
+    "report_file_count": 19,
+    "report_characters": 198814,
+    "review_basis": "overall_and_relevant_chapter_reports_plus_knowledge_discovery_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_political_economy_method"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "objects_as_materialized_social_claims"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "designer_canon_and_missing_consumers"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anti_technological_determinism"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_as_production_instruction"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "wedgwood_material_and_organization"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "anonymous_design_and_entrepreneurial_power"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_concept_and_professional_specialization"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "great_exhibition_design_reform_context"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "schools_committees_and_copyright"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "catalogues_variety_and_social_differentiation"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "oriental_goods_in_reform_discourse"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "英国中心且手稿成于1980年前后，后续劳动史、消费史和全球史需补充。",
+    "目录与广告可证明企业如何分类消费者，不能直接证明消费者接受了这些意义。",
+    "‘设计物化意识形态’是研究者解释，须同委托、生产、传播和使用证据分层。",
+    "对工人和非欧美行动者的直接声音不均衡。",
+    "Clean原文仅作关键段落定位；未完成全篇、版次、图版、注释和所引P0材料核验。"
+  ],
+  "original_spot_checks": [
+    "clean第90行：批评设计史只连接眼睛而切断思想与利润。",
+    "clean第460、501—503行：Wedgwood制模者、精确指令与劳动分工。",
+    "clean第509—515行：Queensware形式变化不能归因于机械革命。",
+    "clean第574—588、699—824行：机器无独立决定作用，应考察资本—劳动关系。",
+    "clean第1278、1306行：产品差异化服务市场，但目录只呈现制造者的社会图景。"
+  ]
+}

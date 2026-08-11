@@ -1,0 +1,12 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0013,3.4,A,V2,core_primary_source,罗德琴科是俄国构成主义从纯艺术转向生产艺术与摄影的典型个案：1921年三色单色画终结架上绘画，1923年起以蒙太奇与摄影进入大众传播,家族专史，作者为罗德琴科之孙，具档案优势与辩护偏向；作品分期以家族档案为准,clean第245行、第583—585行、第3638—3641行,ACCEPTED_AS_CORE_SOURCE
+B0013,3.4,A,V2,rodchenko_photography_periodization,罗德琴科摄影分期1924—1954：1924座机肖像与静物→1925便携相机户外系列→1928徕卡→1930s纪实（白海运河、体育检阅）,分期依据作者家族档案与附录图版技术目录；设备与年代对应为本书考订结论,clean第81行、第587—590行、第5865—5866行,ACCEPTED_AS_CORE_SOURCE
+B0013,3.4,A,V2,constructivism_as_working_method,对罗德琴科而言构成主义不是风格标签，而是适用于任何媒介的“艺术家的劳动方法”（生产艺术），摄影是其构成主义方法的媒介延伸,属作者论述与罗德琴科自述的立场判断，非可独立验证的事实陈述,clean第583—585行、第603—604行,ACCEPTED_AS_CORE_SOURCE
+B0013,3.6,A,V2,new_photography_angles,罗德琴科“从下向上/从上向下”极端视角是1920年代新摄影的核心实践，俄国称“Rodchenko foreshortening”；他批判传统平视“腹脐摄影”,引文为罗德琴科自述（转引自家族档案）；视觉效果须回图版核验，clean文本无图像,clean第137行、第636—641行,ACCEPTED_AS_CORE_SOURCE
+B0013,3.6,A,V2,photomontage_visual_communication,罗德琴科将摄影蒙太奇发展为书籍、期刊、海报的视觉传播系统：马雅可夫斯基《关于此》（1923）、维尔托夫《电影眼》海报（1924）、沙吉尼扬《Mess-Mend》（1924）,图版编号、年代与工艺（石印5000份等）以本书图注为准；构图判断须回图版,clean第1641—1653行、第1686—1705行、第1712—1720行,ACCEPTED_AS_CORE_SOURCE
+B0013,3.6,A,V2,photography_as_art_theory,罗德琴科1934年《摄影——艺术》主张摄影挣脱辅助地位、“值得作为今日之艺术”，是苏联新摄影独立地位的理论纲领,为艺术家宣言性文本，反映其立场而非客观事实；该文1971年才在《苏联摄影》首刊,clean第22—33行、第922—924行,ACCEPTED_AS_CORE_SOURCE
+B0013,3.6,B,V2,photography_propaganda_ambivalence,1930年代罗德琴科纪实摄影（白海运河、《苏联在建设中》）处于纪实与宣传的模糊地带：审查下拍摄、底片全交检，作者承认其未提政治犯,白海运河的古拉格背景本书明载；囚犯规模等具体数据本书未提供，须外部史料补证,clean第856—870行、第909—917行、第3137—3156行,CONTEXT_ONLY
+B0013,3.3,B,V2,soviet_photomontage_lineage,罗德琴科蒙太奇自1922年Kino-Fot杂志拼贴实验起步，1923年经典蒙太奇成熟，构成苏联构成主义蒙太奇与达达蒙太奇并置参照的重要一脉,本书只述苏联脉络、未涉及达达；与达达的关系须另据3.3章其他来源建立,clean第245行、第253—254行、第1553—1600行,CONTEXT_ONLY
+B0013,0.4,B,V2,photographs_as_historical_artifacts,本书展示照片作为人工物的史料生成机制：图版附相机/镜头/底片/出版展览史，记录已消失建筑，且作者自述修正过个别年代,技术数据来自家族档案与作者考订；照片内容判断须回图版实物,clean第5995行、第2704行、第3560行起附录,CONTEXT_ONLY
+B0013,0.5,B,V2,photographs_as_object_evidence,摄影作品属对象证据：clean文本仅含文字描述与三语图注，视觉属性（角度、构图、光影、色调）必须以图版实物为准，文字不可替代图像,clean版无内嵌图像，对象证据核验须回纸质版图版；此为本书证据使用的固有边界,clean第1646—1653行、第3137—3156行等图版条目均无图像,CONTEXT_ONLY
+B0013,0.6,B,V2,family_archive_bias_case,本书是亲属视角与家族档案型证据的典型样本：作者为罗德琴科之孙，具一手档案优势，同时对争议（白海运河政治犯、性格负面面）持温和辩护语调,辩护性在原文可查（clean第913—917行）；作为证据偏差教学案例价值高，引用时须标注视角与立场,clean第909—917行,CONTEXT_ONLY

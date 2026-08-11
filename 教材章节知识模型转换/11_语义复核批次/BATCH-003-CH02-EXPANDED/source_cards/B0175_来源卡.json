@@ -1,0 +1,134 @@
+{
+  "source_id": "B0175",
+  "corpus": "book",
+  "folder_name": "Grand Designs Labor, Empire, and the Museum in Victorian Culture",
+  "material_type": "设计改革制度史、劳动文化史、帝国与博物馆研究",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Grand Designs Labor, Empire, and the Museum in Victorian Culture.md",
+  "clean_source_sha256": "E7DA79AC5E40C0C670836A9CBC4926CB21EDE0DB96371995AAA7FA278B35BCCD",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 14,
+      "report_characters": 180414
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "social_cultural_institutional_and_market_history"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "archives_catalogues_ledgers_press_literature_and_worker_voice"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "british_institution_worker_gender_empire_and_object_bias"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "drawing_copyright_originality_replication_and_control"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "artisan_manufacturer_trader_consumer_and_state_actors"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "industrial_artist_design_reform_skill_and_taste_concepts"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "great_exhibition_labour_print_culture_and_global_goods"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_school_museum_consumer_pedagogy_and_spatial_governance"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "labour_skill_and_market_before_arts_crafts"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "consumer_will_taste_pedagogy_market_and_public_dispute"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ornamental_art_museum_and_taste_principles"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "imperial_goods_indian_labour_and_museum_classification"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "calico_copying_india_britain_trade_and_reproduction"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "early_design_school_administration_and_industrial_artist"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "china_at_exhibition_as_british_classificatory_discourse"
+    },
+    {
+      "section_id": "15.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "contested_museum_imperial_archive_and_labour_agency"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "全书以英国制度形成期为主，不能代表世界博览会、整个帝国或欧洲设计改革的全部路径。",
+    "工人声音虽被恢复，仍多经公开演说、报刊和改革话语中介，日常劳动经验不完整。",
+    "消费性别分析主要以男性气质修辞和不完整商业账簿展开，女性购买、制作和家庭劳动仍需补充。",
+    "帝国劳动重点集中印度；非洲、加勒比、中国等地区多为缺口或英国表述对象。",
+    "讽刺文学、漫画和期刊是话语行动证据，不能直接证明现实行为或普遍社会效果。",
+    "知识涌现报告提出的五态文化资本、同构和递归模型为P4解释，须与原书论证分开。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第23—33行：作者、题名、Duke University Press与2007年版权信息。",
+    "clean第221—227行：作者明确修正exhibitionary complex与imperial archive，主张劳动、贸易和市场行动者的中心作用。",
+    "clean第299—305行：Haydon、议会调查、公开讲演及‘milk jug／heroic limb’的课程论证语境。",
+    "clean第878—882行：Cole把consumer will与装饰艺术博物馆的消费教育联系起来，并说明开放、巡展和摄影传播。",
+    "clean第1163—1169行：Bethnal Green藏品等级、王室开幕、工人可达性修辞与当地居民被排除的并置。"
+  ]
+}

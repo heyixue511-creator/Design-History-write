@@ -1,0 +1,131 @@
+{
+  "source_id": "B0222",
+  "corpus": "book",
+  "folder_name": "John E. Bowlt (ed.)：《Russian Art of the Avant-Garde Theory and Criticism 1902-1934》，1976",
+  "material_type": "行动者理论文集（P0汇编）：48篇1902—1934年俄国先锋派理论与批评文本的英译选集，附编者导论、逐篇传记简介、考据注释与双语书目",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John E. Bowlt (ed.)：《Russian Art of the Avant-Garde Theory and Criticism 1902-1934》，1976_clean.md",
+  "clean_source_sha256": "91B92CF192051A5A3795CF5D89626495D12DBBA57AD99B6F611074ED10B22687",
+  "duplicate_group": "与B0277、B0228、B0276、B0291共享宣言原文与机构档案；同一行动者文本只计一份P0",
+  "files": [
+    {
+      "report_file_count": 13,
+      "report_characters": 190821
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "constructivism_production_art_actor_texts"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "constructivism_internal_split"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "new_photography_snapshot"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "proun_spatial_design"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "russian_futurism_politicized"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "machine_and_city_perception"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "transnational_network_evidence"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "russian_modernity_claim"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "relational_history_debates"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "actor_texts_as_primary_sources"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "translation_selection_bias"
+    },
+    {
+      "section_id": "4.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "vkhutemas_education_context"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "D",
+      "verification": "V2",
+      "role": "dada_montage_marginal"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "D",
+      "verification": "V2",
+      "role": "de_stijl_absence"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "全部文本为英译二手层，俄文原文关键概念（faktura、tektonika、bespredmetnoe等）须回查原文核验",
+    "多篇为节选（Gan、Chernikhov、Filonov标[Extracts]），全文语境需依赖书末书目",
+    "编者选择与编排具主观性：以莫斯科-彼得格勒为中心、以绘画为中心，地域与性别维度未获独立论述框架",
+    "俄语书目B部与部分俄文图注OCR损坏不可读",
+    "行动者文本只能证明行动者主张，不能自动证明作品效果、公众接受或社会史事实",
+    "与B0277、B0228、B0276、B0291共享宣言原文与机构档案，同一行动者文本只计一份P0，引用须去重",
+    "编者层评述（如对Realistic Manifesto影响有限的判断）与行动者正文须区分使用，不可混为原始主张",
+    "知识涌现分析（EI赋值、涌现事件、反事实场景、被压制路径）为P4模型推演，仅作语义路由参考，不得作为史料证据直接引用",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第745—746行：Kandinsky《Content and Form》内在必然性定义——形式本质由内在必然性决定，内在必然性是艺术唯一不变法则",
+    "clean第1096行：Shevchenko《Neoprimitivism》核心宣言句——大地与自然已不再以惯常意义存在，已被转为地基与沥青",
+    "clean第1292行：Goncharova 1913年展览前言——拂去西方尘土、走向万艺之源东方（东西轴心命题）",
+    "clean第1829行：Larionov/Goncharova《Rayonists and Futurists: A Manifesto》——辐射主义指各物体反射射线交叉所生的空间形式",
+    "clean第2224行：Malevich《From Cubism and Futurism to Suprematism》关键段落",
+    "clean第3565—3668行：Gabo/Pevsner《Realistic Manifesto》——反对艺术功利化、坚持艺术独立价值",
+    "clean第4144—4239行：Brik《From Pictures to Textile Prints》——架上绘画与资本主义文化形态同朽、印花布成为创作中心",
+    "clean第4242—4326行：Rodchenko《Against the Synthetic Portrait, For the Snapshot》——Photograph and be photographed!",
+    "clean第2798—2813行：Lissitzky《Suprematism in World Reconstruction》Proun作为二维至三维形式的中间点",
+    "clean第3231—3286行：Shterenberg《Our Task》（Svomas校长）",
+    "clean第4445—4677行：AKhRR vs. OST/October争论文本",
+    "clean第5586—5593行：Tatlin是否参展1915年展览的辨正注释"
+  ]
+}

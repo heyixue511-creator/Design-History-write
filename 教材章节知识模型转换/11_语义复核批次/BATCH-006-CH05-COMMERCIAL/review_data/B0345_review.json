@@ -1,0 +1,55 @@
+{
+  "source_id": "B0345",
+  "title": "An Introduction to Design and Culture 1900 to the Present",
+  "author": "Penny Sparke",
+  "version": "Routledge，第三版（2013，据分析报告核实）",
+  "type": "设计文化通史",
+  "scope": "1900至今（Part1现代性1900-1939、Part2后现代性1940至今），十章镜像结构；案例以英美欧日意斯堪的纳维亚为主，第三版增补中国、日本、数字技术、可持续议题",
+  "duplicate_group": "与B0400/B0401为同书多资产（版本关系待判定）；与B0346等Sparke著作共享对象时只计一份P0",
+  "summary": "本书是英语世界使用最广的设计文化导论之一（1986首版，本卡为2013第三版），以“设计是二十世纪文化的枢纽”为总纲，把设计史从“英雄史”重写为“消费—技术—身份”三角中的文化史。全书以“现代性（1900-1939）/后现代性（1940至今）”双幕组织十章（每章两节，Part1/Part2五对镜像），依次处理：消费现代性（Veblen炫耀性消费、百货/广告/包装制度、女性消费者）、技术冲击（泰勒制、流水线、电木/铝/人造丝）、工业设计师职业生成（Morris至包豪斯再到Loewy等美国咨询设计师）、现代主义霸权（功能主义、国际风格）、身份设计（世博会、公司识别、极权挪用）、消费后现代性（Baudrillard/Bourdieu理论化）、技术-设计新联盟、设计师文化（明星化、设计思维）、后现代主义（波普/孟菲斯）与全球化身份重设（国家品牌、可持续伦理）。核心理论框架为“现代主义（Ch4霸权话语）vs商业现代性（流线型/咨询设计/美国商业体系）”的二分（分析性标注，原文以streamlining、modernistic、commercial system呈现）。第三版新增全球语境、可持续性与设计伦理转向，是其最强的当代价值命题。",
+  "strengths": [
+    "以“设计与文化互构”框架整合1900至今约120年设计史，Part1/Part2五对镜像章使现代性/后现代性对照清晰，导论兼教科书定位下教学性极强",
+    "消费文化理论谱系系统引入（Veblen→Galbraith→Packard→Baudrillard→Bourdieu→Bauman），使设计史与文化研究、消费社会学接轨",
+    "Ch3以职业社会史进路考察咨询设计师职业生成（Loewy、Teague、Dreyfuss、Bel Geddes），用自传、Meikle/Pulos等二手研究祛魅明星叙事，兼具可读性与机制分析",
+    "性别视角贯穿全书（女性被建构为消费者、女性设计师被正史遮蔽、家务技术与泰勒制入家庭），在同代教科书中少见",
+    "第三版更新及时：全球语境（中国、日本）、可持续/社会创新（Papanek谱系）、数字技术、设计思维，反映学科2000年后伦理转向",
+    "理论-案例互证与跨国比较扎实：美（商业咨询）、德（艺术-工业联盟）、英（国家干预）、北欧（社会改良）、意（文化工业）、日（战后吸收）诸模式对照"
+  ],
+  "limits": [
+    "欧洲/英语中心：非洲、拉美、印度基本缺席，中国仅以制造外包/国家项目身份出现（Foxconn/鸟巢案例），作者自认“全球语境”实为“欧美日”语境",
+    "理论密度不均：Ch6.2/Ch9.2理论过密（Baudrillard、Jameson、Lyotard），Ch2/Ch7偏技术叙述，章节间阅读坡度不一致",
+    "二手依赖为主：绝大多数论据来自设计史/文化研究二手文献，一手档案研究少（符合导论定位，但原创史料贡献有限）",
+    "时段界定张力：“postmodernity 1940 to the present”把1940-1960归入后现代，与Ch6“现代性之梦”（战后现代性延续）存在未充分澄清的矛盾",
+    "“现代主义vs商业现代性”二分框架为分析性标注：原文无commercial modernity字样，须以streamlining、modernistic、“intrinsic components of the American commercial system”等原词回查",
+    "OCR噪声：clean版存在识别错字，语义可还原，但精确行号引用需复核",
+    "本卡命题为P4知识涌现推演——由分析报告与clean原文语义核对推断生成，非原文逐字断言，仅作语义路由与命题组织之用，未经逐页原文全量复核"
+  ],
+  "checks": [
+    "clean第582行：现代工业设计师需技术+文化背景+公众意识三重资质，其职责是“creating sales”（创造销售）——职业定义的关键引文",
+    "clean第586行：两次大战之间“consultant designer for industry”概念成熟——Ch3.2职业生成的时间锚点",
+    "clean第604行：美国咨询设计师多数实际时间投入redesign项目，而非通史印象中的流线型未来愿景——修正性证据",
+    "clean第607行：咨询设计师成为“美国商业系统的内在组成部分”——商业现代性归属的直接原文证据",
+    "clean第617行：设计师文化（设计师名字为对象/形象/环境附加价值）随第一代美国咨询设计师诞生",
+    "clean第622行：Bel Geddes以消费者细分设计Philco四种收音机——市场细分案例",
+    "clean第450、485、928行：流线型是商业现代性风格：1930年代普及（塑料模具工艺）、从汽车造型扩展到家电办公机具直至建筑",
+    "clean第1413、1425、1453行：美国咨询设计模式战后向英（Keith Murray、CoID）、瑞典（Kåge、Sason）、意大利、日本扩散",
+    "clean第1632-1633行：战后“美国化”——营销导向设计、咨询设计职业与流线型风格一同跨越大西洋",
+    "clean第118-121、162-164行：商业设计的伦理争议——从Papanek到可持续、包容性、社会创新"
+  ],
+  "maps": [
+    ["5.5", "A", "consultant_designer_profession", "两次大战之间“consultant designer for industry”概念成熟：设计师职责是“creating sales”，需技术+文化+公众意识三重资质；美国咨询设计师多数时间投入redesign项目", "职业定义与时间锚点为原文引文（clean第582、586、604行）；“多数时间投入redesign”为修正性证据", "回查Ch3.2（clean L582-607）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.5", "A", "designer_culture_emergence", "设计师文化（设计师名字为对象/形象/环境附加价值）随第一代美国咨询设计师诞生，后经明星化、设计思维演进", "Ch3/Ch8双章互证，属通史框架性命题", "回查Ch8设计师文化成熟段与Foster《Design and Crime》批判的对应", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.5", "A", "international_diffusion", "美国咨询设计模式战后向英（Keith Murray、CoID）、瑞典（Kåge、Sason）、意大利、日本扩散，各国设计促进机构介入", "各国案例为通史综述，细节深度不一（英瑞较实、日较略）", "回查各国设计促进机构成立史实", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.5", "A", "gender_correction", "女性设计师（Gray、Perriand、Reich、Cooper）被正史遮蔽，本书以Anscombe《A Woman's Touch》等补写——职业史的性别修正命题", "补写依赖女性设计史二手文献（Anscombe、Kirkham、Callen）", "回查Kirkham主编《Women Designers in the USA》相关章节", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.2", "A", "consumption_as_modernity_engine", "消费是现代性的发动机：Veblen炫耀性消费→百货商店/邮购/广告/包装制度→中产女性消费者与品味扩张", "理论以Veblen为纲、制度案例依赖Miller《Bon Marche》、Strasser等消费史二手文献", "回查百货商店/广告制度的一手档案来源", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.2", "B", "american_consumer_system", "美国大众消费体系：JWT等广告公司引入心理学、好莱坞输出美国生活方式影像、汽车大众化、消费信贷", "通史综合，美英法制度对照为二手综述", "回查JWT心理广告史料与Gartman《Auto Opium》论证", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.2", "B", "streamlining_commercial_modernity", "流线型是商业现代性风格：1930年代普及（塑料模具工艺）、从汽车造型扩展到家电办公机具直至建筑；与Ch4现代主义霸权构成二分", "“商业现代性”为分析性标注，原文以streamlining/modernistic呈现；流线型起源与商业挪用之辨需回查", "回查流线型从航空/汽车向家电扩散的档案案例（Meikle）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.3", "B", "styling_and_planned_obsolescence", "造型（styling）是“美国对艺术问题的回答”：GM Harley Earl企业造型部与年款换型/计划性过时把设计纳入销售工程", "Earl/GM案例为二手转述；计划性过时的因果权重是通史争议点", "回查GM造型部史（Earl档案）与计划性过时批评文献", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.3", "B", "advertising_desire_engineering", "广告从信息传递转向欲望制造：市场研究与消费者心理学（JWT）、包装品牌化使“产品变为品牌”；Bel Geddes按市场细分设计Philco四种收音机", "广告转型论据自Marchand《Advertising the American Dream》、Ewen等二手文献", "回查Philco案例原始出处（Bel Geddes档案）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.7", "B", "design_ethics_turn", "商业设计的伦理争议：从Papanek《Design for the Real World》到可持续、包容性、社会创新，21世纪设计被重新定义为“社会-环境责任”", "第三版新增的最强价值命题；伦理转向为作者立场性论述，非档案事实", "回查Papanek原文与Design Council可持续案例（2012网络档案）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.7", "B", "celebrity_designer_critique", "对设计师明星化与消费主义合谋持保留：引Foster《Design and Crime》批判，承认塑料等新材料“解放与浪费”并存", "批判性综述，属通史解释框架而非档案证据", "回查Foster《Design and Crime》论点与本书Ch8.2对应段落", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.2", "B", "modernity_concept_dualism", "现代性=工业化城市化消费化的社会文化条件（1900-1939），以消费为首要体验途径；Sparke“现代主义vs商业现代性”二分框架须标注为分析性框架", "二分框架为语义复核层标注，原文无该术语；Part1/Part2时段划分是本书结构事实", "回查Ch1/Ch4对照段落以确认二分在原文的呈现方式", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.3", "B", "design_history_deheroization", "关系史转向：设计史应“去英雄化”，从天才设计师转向消费与日常物质文化；设计是生产-消费-身份的中介环节", "学科史综述（Pevsner/Giedion/Banham谱系），属方法论声明", "回查Introduction对1980年代设计史转向的论述原文", "ACCEPTED_AS_CORE_SOURCE"],
+    ["5.2", "B", "americanization_of_europe", "战后“美国化”：营销导向设计、咨询设计职业与流线型风格一同跨越大西洋，影响欧洲物质文化；与斯堪的纳维亚/意大利/日本的地方抵抗构成拉锯", "美国化叙事为通史综合（引Masson & Thorburn），地方抵抗案例较简", "回查De Grazia美国化研究与本卡5.2的对应", "ACCEPTED_AS_CORE_SOURCE"]
+  ]
+}

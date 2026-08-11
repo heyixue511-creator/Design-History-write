@@ -1,0 +1,135 @@
+{
+  "source_id": "B0205",
+  "corpus": "book",
+  "folder_name": "Jeffrey L. Meikle：《Design in the USA》",
+  "material_type": "美国设计通史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jeffrey L. Meikle：《Design in the USA》.md",
+  "clean_source_sha256": "CC94447FD4FB5BD6D574B908D49A2E04B1D5A10A808E412C092C3691083F1D4C",
+  "duplicate_group": "与B0206、B0066、B0186共享美国设计职业对象；同一对象只计一份P0（5.5职业形成类命题须与B0206《Twentieth Century Limited》去重后计P0）",
+  "files": [
+    {
+      "report_file_count": 13,
+      "report_characters": 160670
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "5.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "underconsumption_thesis_1930"
+    },
+    {
+      "section_id": "5.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "styling_as_sales_engineering"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "streamlining_three_metaphors"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "streamlining_medium_migration"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "streamlining_failure_case"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "industrial_designer_origins"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "department_store_stylist"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "elite_vs_commercial_split_1934"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "designer_sales_ethics"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumption_culture_transition"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_deco_americanization"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "domestic_efficiency_movement"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "american_system_standardization"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "narrative_framework_marking"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "D",
+      "verification": "V2",
+      "role": "emergence_semantic_routing"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Meikle的“生产—消费”双轴、经济逻辑驱动、反本质主义均是其解释性叙述框架，非档案本身，映射命题时必须标注",
+    "对非裔、原住民和亚裔美国人设计传统关注不足，“美国设计”的覆盖存在族群盲区",
+    "工人阶级消费者的能动性虽有提及但未充分展开，消费主体偏中产家庭",
+    "第四章至第五章精英设计（MoMA/Herman Miller）与大众设计（populuxe）的叙述比例略有失衡",
+    "部分案例细节依赖二手学术著作与展览图录，需与B0206等专题档案交叉验证",
+    "与B0206、B0066、B0186共享美国设计职业对象（Loewy、Dreyfuss、Teague等），P0只计一份，职业史命题不得重复计权",
+    "数字化与“非物质化”结论部分（第五章）推演性强，档案证据密度低于1918—1940部分",
+    "知识涌现分析（包内五文件）为P4模型推演，仅作语义路由，不构成证据准入",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第925行：Fuller Dymaxion汽车（1933）在芝加哥进步世纪博览会展出，“大萧条艰难岁月中流行的技术乌托邦消遣”",
+    "clean第975行：Calkins（1868—1964）评价1925年巴黎博览会“new art”“diabolically clever”，Art Deco引入美国的广告人视角",
+    "clean第1090行：Geddes、Teague、Loewy均出身广告插画/舞台设计，J. Walter Thompson总裁Resor 1928—29年向Geddes介绍客户",
+    "clean第1100行：Calkins 1930年会议将经济崩溃归因“under-consumption”而非“over-production”；消费工程师“清除商品流通障碍”、制造“artificial obsolescence”、“繁荣在于消费而非储蓄”；Arens《Consumer Engineering: A New Technique for Prosperity》",
+    "clean第1104行：百货商店“stylist”兴起——Jordan Marsh高管1929年称“百货商店是今天的博物馆”，stylist多为年轻女性并趋近设计师职能",
+    "clean第1132行：Sinel视大众为“Coney Island-minded”；Loewy称美国设计师的美学观是“一条向上飙升的美丽销售曲线”；Van Doren“设计的目标是销售——获利”",
+    "clean第1138行：流线型从飞机、汽车、火车迁移至收音机、吸尘器、洗衣机等静止物件及店面、餐厅等环境",
+    "clean第1146行：流线型三层隐喻（空气动力学功能→商业销售隐喻→大萧条社会隐喻）",
+    "clean第1193—1197行：Chrysler Airflow（1934）因设计过度激进而销售失望；GM/Ford随即将其降格为造型手段",
+    "clean第1528—1534行：战后“Good Design”vs populuxe对立延续"
+  ]
+}

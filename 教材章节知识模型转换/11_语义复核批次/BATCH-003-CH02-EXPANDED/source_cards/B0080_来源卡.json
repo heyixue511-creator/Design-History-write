@@ -1,0 +1,143 @@
+{
+  "source_id": "B0080",
+  "corpus": "book",
+  "folder_name": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+  "material_type": "时尚文化史、设计史与物质文化方法论",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995_clean.md",
+  "clean_source_sha256": "F1170F76C2057084CABCC3A2D6A40D77E33F94F83944362BC643D9FCA5A382BC",
+  "duplicate_group": "时尚文化史组：与消费史、亚文化研究及选集共享部分理论和案例；同一引文、图像或案例不重复计证",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 169468
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "fashion_historiography_and_anti_linear_periodization"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "form_production_consumption_identity_and_media_method"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "objects_images_ads_magazines_literature_and_archives"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "england_visual_production_class_gender_identity_and_contemporary_bias"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "cotton_aniline_steel_support_and_clothing_materials"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "tailors_seamstresses_retailers_media_and_wearers"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "fashion_designer_and_gendered_design_history"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "shops_department_stores_media_credit_and_active_consumers"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "aesthetic_dress_gender_body_and_lifestyle"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "indian_cotton_oriental_taste_and_british_consumption"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "indian_textiles_trade_retail_and_identity_translation"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "mass_fashion_advertising_ready_made_and_retail"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "gendered_body_clothing_home_and_efficiency"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumer_society_youth_media_and_fashion"
+    },
+    {
+      "section_id": "11.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "punk_retail_media_subculture_and_commercial_absorption"
+    },
+    {
+      "section_id": "12.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "fashion_gender_body_labour_and_design_history_critique"
+    },
+    {
+      "section_id": "13.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "designer_lifestyle_media_and_brand_system_prehistory"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "地理重心为英格兰，欧洲大陆与非西方地区主要作为影响或商品来源出现。",
+    "服装构造、纺织技术、工场组织、裁缝与缝纫工劳动的系统性不足。",
+    "图像与服装形态丰富，但本地OCR乱码、图注错位和图片可用性限制视觉核验。",
+    "第七章依赖1990年代新闻与行业话语，距离当代事件过近且已明显过时。",
+    "服装能参与形成差异，但不能由表象直接推断穿着者身份、意图、性取向或政治立场。",
+    "P4报告的弧线、网络与综合命题不得当作原著独立实证发现。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1—13行：版本、题名、1994编目与1995重印信息及七章结构。",
+    "clean第50—79行：对裙摆史的辩证评价、设计史性别偏向、多学科框架与核心命题。",
+    "clean第1329—1345行：对工业革命／消费革命宏大解释的警惕。",
+    "clean第1435—1478行：印度棉布、商业与消费前史，以及反对仓库—百货—购物中心无缝进化。",
+    "clean第1510—1545行：反涓滴证据与贫困群体消费形成自身身份的解释。",
+    "clean第1938—1992行：百货商店、阶级市场、裁缝系统、成衣与劳动条件。",
+    "clean第2274—2295行：后现代、街头风格、第三世界文化等被商业拼贴后政治意义可能流失的判断。",
+    "clean第2488—2505行：朋克零售、亚文化与1980年代市场化生活方式之间的区分。"
+  ]
+}

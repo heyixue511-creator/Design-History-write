@@ -1,0 +1,9 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0388,7.6,A,V2,scandinavian_design_as_invented_category,‘斯堪的纳维亚设计’是被发明、表演与制度化的范畴而非先在地域实体（编者导言L213），为7.6提供制度即建构的元叙事框架,范畴建构为作者方法论命题；机构史实（协会、奖项、展会年份）仍需档案侧来源,clean第213行,ACCEPTED_AS_CORE_SOURCE
+B0388,7.6,A,V2,coffee_table_genre_critique,图录体裁（hagiographic and mythopoeic，L127）批判：颂歌式叙述强化统一北欧设计身份神话（L141），是B0076等图录的审计标尺,体裁批判命题清晰；对具体图录的判断须对照该书文本,clean第127、141行,ACCEPTED_AS_CORE_SOURCE
+B0388,7.6,B,V2,swedish_daily_beauty_deconstruction,Rehnberg对‘vackrare vardagsvara’（美好日常生活）口号与瑞典消费史的考古式解构：口号是精英话语而非大众现实,解构判断为作者命题；口号文本本身为史实,clean第305—312行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0388,7.6,B,V2,danish_modern_exceptionism_critique,Heller以局外人视角批判丹麦现代家具的例外主义叙事（‘Danish modern is a myth’）,批判判断为作者命题；丹麦家具制度史实仍需档案侧,clean第420—435行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0388,7.6,B,V2,museumification_and_branding_critique,Bøe以1990年代挪威设计博物馆化与品牌化为个案，批判设计史与机构展览的相互建构,个案分析为作者命题；博物馆事件为史实,clean第510—525行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0388,7.6,C,V2,oslo_design_city_brand_critique,Kristoffersen对奥斯陆‘设计城市’品牌战略的批判：品牌政治生产地域设计范畴,品牌战略事件为史实；‘范畴生产’分析为作者命题,clean第605—620行,ACCEPTED_AS_SUPPORTING_SOURCE
+B0388,0.6,A,V2,historiographical_self_audit_method,本书整体提供设计史书写的自我审计工具包：范畴发明、叙事建构、博物馆制度批判、品牌政治——可直接服务0.6证据偏差与史学方法教学,方法论命题为作者框架；各章为独立署名论文,clean第213行及全章,ACCEPTED_AS_CORE_SOURCE
+B0388,0.6,B,V2,national_identity_narrative_critique,Wiener对‘瑞典式优雅’与国家构建关系的拆解：设计风格被征用为国家认同叙事,拆解判断为作者命题；风格—国家关联史实可查,clean第700—712行,ACCEPTED_AS_SUPPORTING_SOURCE

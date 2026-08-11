@@ -1,0 +1,141 @@
+{
+  "source_id": "B0216",
+  "corpus": "book",
+  "folder_name": "Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》",
+  "material_type": "行动者自著教学文本（P0）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Johannes Itten：《Design and Form The Basic Course at the Bauhaus and Later》_clean.md",
+  "clean_source_sha256": "239FA5C3B64049EDE251F319D7882846A37EE16D62BFDEE8CD5489887B1C81CA",
+  "duplicate_group": "与B0182、B0282、B0454共享包豪斯教学档案；同一档案只计一份P0",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 97828
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "vorkurs_founder"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "vorkurs_three_tasks"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "contrast_theory_core"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "experience_perception_practice"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "materials_texture_sensory"
+    },
+    {
+      "section_id": "4.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "body_morning_exercises"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "itten_departure_1923"
+    },
+    {
+      "section_id": "4.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "tension_art_technology"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "vorkurs_diffusion"
+    },
+    {
+      "section_id": "4.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "replicable_method_toolkit"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "modernity_individual_formation"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "eastern_resource_modernity"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "primary_actor_teaching_text"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "retrospective_self_account"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "selection_bias_student_work"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "duplicate_group_p0_single"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "1963年首版为离校40年后的回顾性自述，记忆重构与自我辩护不可避免；“普遍主义年代”之辩与对1923包豪斯书籍图注“misleading or incomplete”的抱怨均显示立场性",
+    "P0证据边界：能证明其教学主张与教学方法安排，不能自动证明教学成效或学生接受；全书无独立学生评价、毕业追踪或对照数据",
+    "制度-政治维度薄弱：1919-1923包豪斯内部政治、财政危机及1923年转向的完整背景仅一笔带过，离校原因只给伊顿单方版本",
+    "非严格学术著作：无注释体系，引用（Gropius宣言、老子语录、Spengler）以教学示范为目的而非考据",
+    "学生作品200余幅由作者自选并自注评语，存在选择性呈现与幸存者偏差；“fantastic handicraftsmanship”等描述有美化倾向",
+    "文本瑕疵：色彩章正文在clean版重复两遍（L440-497），Index为OCR压缩行，个别字符有识别噪声，影响行号引用的精确性",
+    "与自著《The Art of Color》（1961）分工导致本书色彩部分仅为提纲式重述，单读本书无法完整评估其色彩理论",
+    "知识涌现模型将本书关联教材章节的涌现命题（如0.2现代性跨文化维度、4.6可复制制度判断）标为P4推演：系基于本书语义网络的解释性推断，不作为P0直接证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第106—110行：伊顿向Gropius提议临时录取一学期、命名Basic Course、1919年秋亲自负责、Gropius放手——Vorkurs创立主张的核心证据（4.2）",
+    "clean第111—119行：基础课程三任务（解放创造、职业选择、构图原理），L120“One term was set aside”说明学期制安排",
+    "clean第230—231行：1923年分析课后Gropius称无法再向政府负责其教学法，伊顿主动辞职——4.3转向的一手叙述",
+    "clean第243行：材料来源声明，覆盖维也纳、魏玛、柏林、克雷费尔德、苏黎世六机构学生作品",
+    "clean第262—267行：六机构年表（Kunstschule Wien 1917-1919、Bauhaus Weimar 1919-1923、Itten College Berlin 1926-1934、Krefeld 1932-1938等）",
+    "clean第249—250行：自限声明“not intended to offer a systematic syllabus...describe the essence of my methods”——4.6可复制性判断须以此为前提",
+    "clean第244—245行：抱怨1923包豪斯书籍未经其合作、图注“misleading or incomplete”——回顾性自述的自我辩护证据（0.6）",
+    "clean第251—254行：1918年首届学生展览引老子“三十辐共一毂”语录——东方资源进入教学纲领的证据（0.2）",
+    "clean第503—509行：“知道描述属性的词语还不够”、柠檬静物分食轶事——材质感官教学主张与“本质”概念",
+    "clean第1119—1128行：封底出版说明概述成书背景与伊顿生平，L1120确认其受Gropius之邀组织基础课程"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "source_id": "B0485",
+  "corpus": "book",
+  "folder_name": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+  "material_type": "中国设计思想史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018_clean.md",
+  "clean_source_sha256": "2ECB68C723D54AA401BAE6A0972E066038B175F1C8457739A26EC3A3B431A265",
+  "duplicate_group": "与B0500/B0472等共享中国设计史对象（工艺美术—现代设计变迁、改革开放设计、国货与近代设计）；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 17,
+      "report_characters": 80489
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "modernity_enlightenment_rescue"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "life_enlightenment_mediation"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "national_goods_movement"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "tech_journals_propagation"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "shanghai_consumer_culture"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "craft_vs_modern_debate"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "national_form_mural"
+    },
+    {
+      "section_id": "6.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "decor_debate"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "wartime_propaganda_image"
+    },
+    {
+      "section_id": "6.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "image_modernity_book"
+    },
+    {
+      "section_id": "10.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "prc_crafts_discourse"
+    },
+    {
+      "section_id": "10.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "reform_era_restart"
+    },
+    {
+      "section_id": "6.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "three_constitutes_import"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "当代史“身在其中”的亲历者立场：作者自承某些判断会随时间更新，部分历史评价带亲历者温度而未必完全客观",
+    "以“问题”为纲导致对具体设计师作品的风格分析相对薄弱，设计门类覆盖不均衡（平面设计与工业设计着墨最多，服装、动画、交互等不足）",
+    "产业数据多依赖二手统计（宏观政策文献、产业报告），微观实证弱于宏观判断",
+    "clean版部分超长行存在OCR乱码与内容缺损，个别段落无法完整解读，影响逐字复核",
+    "“现代性=启蒙+救亡”“三大主体”等框架为作者建构的分析模型，属思想史叙述而非档案史实本身",
+    "叙事与论说交织的散文式语体及大量当事人直引，使事实陈述与作者评价的边界在个别段落不够清晰",
+    "“生活启蒙—名词变迁—社会转型”因果链是作者基于案例深描与理论资源的逻辑推演，而非实证统计验证，属P4层级知识涌现，仅作语义路由，不作P0级事实断言",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第51行：第一章开篇“1978年改革开放以后，当中国人又一次可以放眼观察西方设计的时候……既感到新奇又有点不以为然”",
+    "clean第54行：“现代设计”三层含义（非时间概念、现代化国家整体设计、各国时间不一致）、中国现代化三阶段（19世纪后半叶—20世纪中叶/1949年后/1978年后）",
+    "clean第57行：第一章近代史——国货运动与孙中山引文、李长莉上海器物清单、上海商业美术家（周柏生、徐咏青、郑曼陀、杭穉英等）",
+    "clean第63—66行：1949年后“工艺美术”话语主导——毛泽东手工业改造思想、中央工艺美术学院1956年建院、《工艺美术通讯》上庞薰琹/陈之佛/张道一/郑可的定义、1950-70年代设计“名存实亡”判断",
+    "clean第69行：图像现代性——延安木刻、政治招贴/新年画传统、桑塔格论政治招贴全文直引、《新青年》中西混排书籍革命、鲁迅对木刻与书籍装帧的贡献",
+    "clean第90行：首都机场壁画“民族新传统”（张仃“以线为基础”）与西方现代艺术（肖惠祥变形手法）的中西合璧，作为“文革”后视觉艺术首次真正中西合璧与当代设计起始点",
+    "clean第93行：王家树—于光远“生活美”通信全文入书；“生活启蒙”命题提出",
+    "clean第110行：80年代“工艺美术”与“现代设计”之争——辛华泉《论构成》、杭间《对“工艺美术”的诘难》（1986《中国美术报》）、对比公式、Crafts改Design、“三股并列”（张道一）",
+    "clean第113、118行：1998年教育部目录更名“艺术设计”、1995年广州会议、1999年中央工艺美院并入清华大学",
+    "clean第107行：“三大构成”（平面、立体、色彩）源自包豪斯基础课，经香港吕立勋与日本两渠道传入中国",
+    "clean第210-299行：附录「中国现代设计35年事记（1978年以来）」"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "source_id": "B0145",
+  "corpus": "book",
+  "folder_name": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+  "material_type": "展览图录式研究",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》.md",
+  "clean_source_sha256": "D016D787D78EFC9DB4D04927917FF8CD422EE9CB963FC7CAC816B7B6635952D3",
+  "duplicate_group": "与广告/家电史来源共享对象（Maytag/Bendix/Royal/AT&T/Underwood广告图像、Vanek家务时间统计、Cowan/Schor二手研究），对象级P0只计一份；本书的文本分析主张与广告图像再现不重复计",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 203286
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "5.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "appliance_streamlining"
+    },
+    {
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "telephone_design_history"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "scientific_management_office"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "housework_time_paradox"
+    },
+    {
+      "section_id": "5.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "female_consumer_as_purchasing_agent"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumer_economy_rise"
+    },
+    {
+      "section_id": "9.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "appliance_efficiency_promise_labor"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "clerical_work_feminization"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "secretary_defined_by_gender_machines"
+    },
+    {
+      "section_id": "9.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "corporate_identity_gender_encoding"
+    },
+    {
+      "section_id": "12.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "feminist_design_critique_stance"
+    },
+    {
+      "section_id": "12.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "mechanical_bride_commodity_fetishism"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "gendered_evidence_bias"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "artifact_material_history"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "种族与阶级维度虽有涉及（非裔洗衣女工、华裔洗衣店），但总体上以中产阶级白人女性经验为中心",
+    "广告图像证据只能证明供给与再现，不能证明购买动机、使用结果或消费者真实态度；“解放”叙事的解构依赖广告话语与二手时间数据的间接推断",
+    "对男性气质建构关注不足，性别二元分析可能简化复杂身份",
+    "对1990年代之后数字技术（个人电脑、互联网）仅作展望性讨论，未深入分析",
+    "家务时间数据（Vanek 52→55小时）与职业比例统计均依赖二手调查与转述，非本书原始实证",
+    "性别分析框架（Rubin性/性别系统、商品拜物教整合、Cowan/Schor归因）为Lupton命题与理论移植，作为论证框架而非实证结论",
+    "部分器物形态叙事依据厂商广告、产品目录与设计师自述（van Doren、Lippincott），属于组织者话语，需与独立史料交叉核验",
+    "知识模型对“远程办公、键盘去性别化、1990年秘书仍99%为女性”等书中展望性论断的采纳属于P4知识涌现推演，非书中实证结论",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第136行：展览导言定位——洗衣设备、电话、打字机在美国家庭/办公室性别差异中的中心地位；设计、营销、使用与想象四重过程",
+    "clean第173—175行：总论点——劳动性别分工是现代家庭与办公室核心特征；自我是社会产品；已婚女性作为家庭首席购买代理人",
+    "clean第195—199行：19世纪消费经济兴起；广告与1920s末兴起的现代工业设计以女性为首要对象；Lippincott 1947称90%消费者是女性",
+    "clean第223行：商品拜物教——Eureka吸尘器广告承诺“heart desires”；Marx商品拜物概念；Hoover品牌名独立于功能提升商品价值",
+    "clean第327行：Vanek 1965—66全国调查——就业妻子家务26小时/周 vs 非就业55小时；非就业妻子从1920s每周52小时升至1960s中55小时；Hochschild“第二班”与“休闲差”",
+    "clean第355行：Maytag流线型谱系（1922 Model 80→1930s系列）",
+    "clean第468—489、515行：电话工业设计史与性别营销——AT&T广告将女接线员塑造为人机情感界面",
+    "clean第626、634行：文书工作1890—1920年从男性转向女性主导（打字/速记女性占比60%→90%）",
+    "clean第672—712行：打字机1868—1970年代形态演变（开放架构→Noiseless→流线型Underwood→IBM Executive/Selectric→文字处理终端）",
+    "clean第767—771行：泰勒科学管理于1910s—20s应用于办公室（Galloway 1919等）；L形桌推销（Deskey/Globe-Wernicke）"
+  ]
+}

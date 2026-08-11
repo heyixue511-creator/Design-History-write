@@ -1,0 +1,141 @@
+{
+  "source_id": "B0199",
+  "corpus": "book",
+  "folder_name": "James：《Picture this World War I posters and visual culture》",
+  "material_type": "跨学科论文集（edited volume）：11位学者（历史学、文学、艺术史、美国研究）对一战海报的语境化、跨国比较研究，含绪论、11章、尾声与参考文献",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\James：《Picture this World War I posters and visual culture》.md",
+  "clean_source_sha256": "1DD84D8C8638839EB9C9853D78CA7E6D8D4702F9359337A68E31021A55D36BBF",
+  "duplicate_group": "DUP0001：与B0343为同一文本精确哈希重复，只计一个独立书目实体；与B0007蒙太奇、B0220海报史共享海报对象（如基钦纳海报、鲁波克、ROSTA）时只计一份P0，不重复计证",
+  "files": [
+    {
+      "report_file_count": 20,
+      "report_characters": 167617
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "posters_as_home_front_mobilization"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "total_war_poster_sign_instrument"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "enemy_image_distance_violence"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "gendered_mobilization_rhetoric"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "poster_image_picture_duality"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "poster_archive_provenance"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "contextual_reading_method"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "government_archive_reconstruction"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "propaganda_goal_vs_result"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "poster_distorting_mirror_evidence"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "poster_audience_reception_limits"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "futurist_war_poster_engagement"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "avantgarde_invented_tradition"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "vernacular_appropriation_text_image"
+    },
+    {
+      "section_id": "3.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "lubok_rostra_lineage"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "advertising_poster_prehistory"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "论文集性质：各章方法、证据密度不均，俄罗斯仅一章，澳大利亚、意大利等参战国缺席，跨国覆盖面有限",
+    "接受证据总体薄弱：本书自认无法精确测量海报接受与效果；观众侧证据依赖档案幸存材料（USFA回信、报刊评论），样本偏斜",
+    "图像细读须区分作者解读与可证内容：如“Amazon Warrior是穿女装的男人”“遇难少女否认男性脆弱”为James的阐释命题，非图像本身可证事实",
+    "战争宣传材料（匈人形象、暴行叙事、招募话语）均为组织者/宣传者话语，转述时必须标注话语身份；部分效果性引文出自广告业行业自述，不能当作客观效果证据",
+    "结构性判断存在方法论争议：Winter“海报反映而非制造共识”与Albrinck“海报作为强制工具”对立，主编有意保留张力，教材引用须注明立场双方",
+    "部分有效性论证是推断性的：第4章以战后自由市场广告延续反推战时策略“有效性”，属长时段推断而非直接证据",
+    "成书于2009年，数字档案与在线海报图像仅提及而未系统利用，0.5“数字痕迹”关联有限",
+    "知识涌现分析（P4模型）为推演性语义路由，仅作映射参考，不构成独立证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第270行：绪论——“It was in part by looking at posters that citizens learned to see themselves as members of the home front”（海报建构后方的核心命题；结合266行“first total war”）",
+    "clean第272行：绪论——“These Janus-faced images look back to nineteenth-century empires and forward to modern bureaucratic nation-states”（雅努斯面孔），并含都市公共空间“arena of signs”论述",
+    "clean第314行：绪论——“Posters belong to something of a twilight zone of evidence”（证据的暮光地带）",
+    "clean第327行：绪论转述Goebel——“the same iconography carried fundamentally different meanings”与“Iconographic evidence examined in isolation can be misleading”",
+    "clean第339行：绪论转述Albrinck——海报应读作“proposed arguments for patriotic behavior”而非接受证据（与2587行第10章正文互证）",
+    "clean第474行：第1章Winter正文——“In wartime, images overwhelm words”",
+    "clean第700行：第2章Gullace——距战场越远（澳大利亚、美国）海报暴力渲染越强，英国“tended to be tamer”",
+    "clean第786行：第3章Goebel章首——同一骑士图像学在英德承载根本不同意义；907行结语",
+    "clean第2119行：第8章Nedd——“as soon as we retreated from Galicia, the lubki became reserved and then grew silent”（加利西亚撤退后鲁波克海报失宠；2026行Hobsbawm“invented traditions”为理论锚点）",
+    "clean第2423行：第9章James——“The multiplicity and contradictoriness of the posters have a surplus effect that is liberating for women”（与2291行、2368行USFA女性“not only viewers but also distributors, exhibitors, and makers”互证）"
+  ]
+}

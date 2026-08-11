@@ -1,0 +1,7 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0001,2.4,A,V2,core_framework_and_mechanism,固定价格、自由进入、免除购买义务、广告展示与服务共同改变消费实践,不能单独证明具体商店史实或不同群体的实际体验,回查期刊版次页码及Miller/Bowlby/Leach/Hower等被引原文,ACCEPTED_WITH_LIMITS
+B0001,2.6,C,V2,limited_context,商店展示以东方和巴黎意象组织异域性与时尚权威,不能替代世界博览会或殖民分类制度研究,补博览会档案展陈目录与殖民治理研究,CONTEXT_ONLY
+B0001,9.1,C,V2,long_duration_prehistory,19世纪零售制度可作为战后消费社会的长时段前史,不能支持1945年后的收入零售广告和耐用消费品事实,补战后统计政策行业和企业材料,CONTEXT_ONLY
+B0001,9.3,C,V2,gendered_consumption_prehistory,女性被同时表述为家庭采购者和易受诱惑消费者,女性主体材料不足且不支持战后职业结构,补女性日记消费记录劳动史和战后职业统计,CONTEXT_ONLY
+B0001,1.5,X,V2,gap_flag,无,几乎不处理生产劳动分工和设计责任,另寻工厂记录技术图纸劳动史和企业档案,EXCLUDED
+

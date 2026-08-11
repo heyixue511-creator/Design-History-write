@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0006,0.3,B,V2,retail_enterprise_media_production_and_style_method,商店史可把零售空间、媒体、生产、品牌、跨境流通和风格运动连接起来,企业人格化可能把结构与多行动者压缩为创始人意志,补机构、工人、生产者、顾客与竞争者材料,ACCEPTED_AS_ENTERPRISE_METHOD_CASE
+B0006,0.5,B,V2,corporate_magazine_family_archive_interview_and_press,公司内刊、家族材料、采访、馆藏和报刊可相互定位企业事件,无完整书目且资料接近企业，当前只能作路由与有限转述,返回公司档案、广告、目录、合同、账簿和报刊原件,ACCEPTED_WITH_PROVENANCE_FOLLOWUP
+B0006,0.6,A,V2,corporate_commemoration_founder_worker_gender_colonial_and_audience_bias,纪念性企业叙事、创始人中心、工人／女性／殖民生产者缺口和受众效果断点须进入审计,企业材料丰富不等于独立验证,补独立商业史、劳动史、殖民贸易与消费者材料,ACCEPTED_AS_EVIDENCE_AUDIT
+B0006,1.3,A,V2,import_dye_print_machine_block_and_brand_control,进口坯料、英国染印、机器适配、木版工艺、品牌标记和诉讼共同组织构思—制作—控制,企业品牌不能自动确定逐件设计者与生产者,补样本、配方、图样、订单、工序、合同和诉讼卷宗,ACCEPTED_AS_CORE_PRODUCTION_CASE
+B0006,1.4,A,V2,silk_cotton_dye_water_print_and_metal_material_system,丝、棉、染料、水质、木版、机器织造及金属合金说明材料供应如何限定产品,‘东方秘密’和性能主张多为企业／作者叙述，未做物质核验,补来源地生产、贸易、配方、样本检测和环境记录,ACCEPTED_WITH_TECHNICAL_COLONIAL_FOLLOWUP
+B0006,1.5,A,V2,anonymous_designers_suppliers_workers_and_corporate_authorship,匿名设计政策、外部设计师、供应商、工坊与品牌共同制造企业作者制,匿名并不表示无作者，后世归属也需对象级证据,补设计簿、订单、工资、样品、印记和个人档案,ACCEPTED_AS_CORE_AUTHORSHIP_CASE
+B0006,1.6,B,V2,buyer_manager_designer_consultant_and_window_roles,采购者、部门经理、外部设计师、设计顾问和橱窗设计等角色展示零售设计职业分化,百年叙事跨期，不能把后期职位倒投到19世纪,逐期补职位、合同、职责、薪酬和职业组织,ACCEPTED_AS_ROLE_HISTORY
+B0006,2.3,B,V2,morris_liberty_machine_craft_and_affordability_contrast,Liberty与Morris在机器、手工、价格和大众可及性上的差异可构成工艺美术内部比较,作者的二元对比可能简化两者混合生产和实际顾客结构,与B0070、B0348、账簿、工艺和顾客材料互证,ACCEPTED_WITH_COMPARATIVE_AUDIT
+B0006,2.4,A,V2,shop_window_catalogue_display_brand_and_consumer_mediation,店铺、橱窗、目录、剧场、展览、命名、奖项和代理共同构成现代消费者的中介条件,供给、曝光和评论不能证明消费者被动接受或欲望被成功制造,补销售、价格、信用、顾客记录、家庭清单与使用材料,ACCEPTED_AS_CORE_RETAIL_SOURCE
+B0006,2.5,A,V2,aestheticism_art_nouveau_fashion_interior_and_product_system,织物、服装、家具、室内、珠宝和金属器把唯美主义与新艺术组织为商业化生活方式,运动命名、品牌归属和设计者身份存在企业叙事与后见之明,补对象、设计簿、委托、展览、评论、住宅与使用史,ACCEPTED_AS_CORE_SOURCE_WITH_OBJECT_GAP
+B0006,2.6,B,V2,oriental_warehouse_colonial_merchandising_and_classification,Oriental Warehouse、商品命名和进口分类可显示英国零售如何消费性地组织亚洲物品,不能用来代表日本、中国、印度等生产者自我分类或殖民经验,补来源地工匠、贸易、采购、殖民制度和地方消费材料,ACCEPTED_AS_BRITISH_RETAIL_DISCOURSE_ONLY
+B0006,2.7,A,V2,asia_britain_paris_trade_translation_and_reproduction,进口、英国改制、巴黎分店、代理、仿冒与地方生产构成选择—翻译—再生产链,‘东方影响’不能由风格相似或企业宣传单向推出,补贸易、人员、合同、样本、生产者和接收方材料,ACCEPTED_WITH_TRANSFER_FOLLOWUP
+B0006,5.1,B,V2,liberty_between_art_nouveau_and_art_deco_revival,Liberty产品、巴黎时尚合作与后来的历史复兴可补装饰艺术商业谱系,本书并非1925巴黎博览会或Art Deco核心研究,补展览、对象、设计师、生产和同期评论,ACCEPTED_AS_COMMERCIAL_CONTEXT
+B0006,5.5,B,V2,retail_design_consultant_brand_and_anonymous_professionalization,企业内部设计顾问、匿名设计和品牌控制可补商业设计职业化路径,企业职位史不等于行业总体职业制度,补合同、薪酬、组织、教育和行业比较,ACCEPTED_AS_ENTERPRISE_ROLE_CASE

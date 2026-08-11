@@ -1,0 +1,13 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0409,5.2,A,V2,us_fordist_distribution_circuit,美国福特主义分配回路（大众生产—大众分配—大众消费一体化，重造从企业设计生产管理到店铺陈列的整个商业机制）为美国大众消费体系提供制度性解释,美国侧描述服务于美欧比较框架而非美国本土叙事；作者自陈“福特主义”术语有时代错置之嫌；分期付款与企业实验室未展开,clean L42-47,ACCEPTED_AS_CORE_SOURCE
+B0409,5.2,A,V2,advertising_marketing_professionalization,美国全国性广告重新定义市场（市场＝可被营销信息触达的潜在无限消费者）并催生营销管理科学,广告论述属“美国化”背景侧，无广告创意/设计内容；依赖统计式营销“科学”话语,clean L45；L56；L58,ACCEPTED_AS_CORE_SOURCE
+B0409,5.2,B,V2,chain_retail_one_price_store,连锁店与一元价格店（按价格档陈列、明码标价、高周转低毛利）及美欧监管差异（Woolworth 759家欧洲子公司为个案）,欧洲视角的连锁零售之争，属“被管理的美国化”叙事；美国本土连锁史非本文对象,clean L129-130；L173,ACCEPTED_AS_CORE_SOURCE
+B0409,2.4,B,V2,department_store_comparison,百货商店作为美国分配革命支柱之一；一元价格店“与百货店无本质区别、为何无同样抵制”的反诘,仅两处点到百货商店，非分析主体；属衔接性证据,clean L44；L129,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0409,5.3,C,V2,marketing_science_sales_engineering,1930s危机中“分配成本占总成本比例上升”的关切与营销、广告专业化呼应设计/营销被赋予刺激需求经济功能的语境,文中无“销售工程”术语；营销科学论述属美国侧背景，与设计职业关联间接,clean L45；L56,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0409,9.1,B,V2,consumer_sovereignty_vs_citizenship,消费者主权（美国：高收入＋竞争实现形式选择自由）与消费公民权（欧洲：社会参与、再分配与政治组织权利）的概念史对照,概念史基于美欧改革者话语，非制度实证；欧洲“消费公民权”为理想型概括,clean L149-151,ACCEPTED_AS_CORE_SOURCE
+B0409,9.1,B,V2,mass_consumption_diffusion,1950s-60s大众消费加速的社会转型：人口增长、城市化、新家庭、收入上升、信用可及、新性别角色；“单一阶级市场”迹象,欧洲侧扩散证据；耐用消费品仅泛指，未按品类展开,clean L184；L204,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0409,9.1,B,V2,one_class_market_durables,1960s末耐用消费品扩散跨越阶级与地区的“单一阶级市场”迹象,作者自陈“购物曲线上扬”乐观判断未注出处,clean L204-205,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0409,9.2,D,V2,household_credit_gender_roles,文中女性仅以主妇/侍女/女主人配角出现，家庭账本与零用钱购物未展开，与厨房家电/家庭劳动主题仅边缘相关,性别维度薄弱，作者未作专门分析，仅作边界性提及,clean L86-87；L146,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0409,9.3,D,V2,gender_consumption_roles,小零售商顾客每日购物、常赊账、几乎不看广告暗示性别化的日常购买分工,仅背景性提及，无性别分析，不作为9.3主证据,clean L79,ACCEPTED_AS_SUPPLEMENTARY_SOURCE
+B0409,0.6,A,V2,evidence_bias_icc_statistics,证据偏差：美欧统计数据丰瘠对照；ICC以“客观与分析式攻击”用数字制造“市场”表面；欧洲统计偏见——法国重农倾向统计谷物价格与出口、德国为保护Mittelstand统计零售商、豁免资产阶级而深挖工人家庭预算,数据来源单一（ICC与官方统计）；作者自承欧洲数据稀薄，部分份额数字系估算,clean L27-28；L34-35,ACCEPTED_AS_CORE_SOURCE
+B0409,0.6,A,V2,anthology_framework_bias,文集层面：美欧比较与“选择性接受—变形”框架为编者建构，多作者各章立场不一；clean仅含de Grazia单章，不得将文集主旨等同于单章结论,单章报告与整体报告并存，须以“文件标题即证据边界”处理,packet：Ch01说明（L548）；整体报告L161,ACCEPTED_AS_SUPPLEMENTARY_SOURCE

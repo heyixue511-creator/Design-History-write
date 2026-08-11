@@ -1,0 +1,84 @@
+{
+  "source_id": "B0234",
+  "corpus": "book",
+  "folder_name": "Jonathan M. Woodham：《Dictionary of Modern Design》",
+  "material_type": "工具书（现代设计词典）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jonathan M. Woodham：《Dictionary of Modern Design》_clean.md",
+  "clean_source_sha256": "8D51D129DD30B2B58E2B53225E2F91CA4B1DC68B091870AED632E7BDC905A478",
+  "duplicate_group": "与B0235（同作者《Twentieth Century Design》1997）为同作者版本族：共享CoID、MoMA Good Design、HfG Ulm、G-mark等条目对象，词典条目可互证但各自独立计源；通用史实与B0101/B0102重复只计一份",
+  "files": [
+    {
+      "report_file_count": 34,
+      "report_characters": 196944
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "7.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "coid_dict_entry"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "good_design_dict_entry"
+    },
+    {
+      "section_id": "7.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "hfg_ulm_dict_entry"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "g_mark_dict_entry"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "rat_fuer_formgebung_dict_entry"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "braun_rams_dict_entries"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "reference_work_evidence_role"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "工具书体裁：条目为简明综合，无深度论证，不能承担核心命题证据，只能承担快速参照与术语锚定",
+    "二手综合：条目史实（年份、职位）为编者综合，个别条目可能沿用过时或有误的通行说法，正式引用须交叉验证",
+    "评价性表述（‘influential’‘seminal’‘leading’）为编者判断，不可作为史实引用",
+    "条目选择有编选主观性：覆盖以欧美为中心，非西方条目相对少",
+    "2004年出版：21世纪初之后的发展未覆盖",
+    "体例限制：条目间交叉引用虽规范，但无系统注释，深度回查依赖外部文献",
+    "知识涌现模型为P4推演：分析报告中的实体网络与主题聚类仅作语义路由参考",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第10—15行：前言——词典范围界定（现代设计：19世纪中叶至当代，以欧美日为主）与体例说明",
+    "clean第120—128行：CoID条目——1944年成立、职能（促进工业设计、教育消费者品味）、1956年Haymarket设计中心、1972年更名Design Council",
+    "clean第200—210行：Good Design条目——1940s—50s话语、MoMA Good Design展（1950—55）、Kaufmann Jr.角色",
+    "clean第280—290行：HfG Ulm条目——1953年建校、Max Bill首任校长、Maldonado继任、1968年关闭、科学化设计方法",
+    "clean第340—350行：G-Mark条目——1957年通产省设立、优良设计奖、日本设计振兴",
+    "clean第400—410行：Rat für Formgebung条目——1953年成立、Gute Form展览、德国设计委员会职能",
+    "clean第450—460行：Braun条目——1921年成立、1950s与Rams合作、SK4、理性产品美学",
+    "clean第500—510行：Dieter Rams条目——1932年生、1955年入Braun、1961年任设计总监、‘少而好’（less but better）原则"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0086,0.4,A,V2,textile_object_as_multilayer_evidence,纤维捻向织纹幅宽接缝染层和磨损可提出生产贸易与使用问题,纺织物不是自足文本且对象归属与年代须互证,补对象检验、馆藏史、考古、口述和贸易记录,ACCEPTED_WITH_LIMITS
+B0086,0.5,A,V2,triangulation_of_material_linguistic_and_archival_sources,技术分析可同考古语言植物口述和书面档案形成多链互证,不同证据尺度和不确定性不能被合并抹平,逐项记录证据类型、定位、置信和冲突,ACCEPTED_AS_METHOD
+B0086,0.6,A,V2,museum_archive_and_silent_labor_bias,收藏与殖民档案会错置地点并压低女性乡村与被奴役劳动者的可见性,恢复缺席主体仍需主体证据不能只靠形式推断,补来源社群、劳动身份、征集史和地方档案,ACCEPTED_AS_EVIDENCE_AUDIT
+B0086,0.7,A,V2,local_objects_and_global_networks,地方纺织对象可连接跨撒哈拉、大西洋、印度洋和化学工业网络,连接不等于单向传播或同质全球化,建立接触、选择、制作、交易和使用链,ACCEPTED_WITH_CAUSAL_LIMIT
+B0086,1.1,A,V2,distributed_textile_knowledge,纺纱织造染色裁缝与刺绣知识分布在家庭、性别化工序、作坊和贸易网络中,性别分工并非固定且地区技术复合体差异显著,补工具、工序、训练、劳动和对象材料,ACCEPTED_WITH_LIMITS
+B0086,1.4,A,V2,fiber_loom_dye_and_pattern_system,纤维、织机、纱线、染料与图案技术共同限定纺织形式,部分早期材料与染料证据只达推测层级,补材料检测、考古断代与技术复原,ACCEPTED_WITH_VERIFICATION_GAP
+B0086,1.5,B,V2,anonymous_artisan_and_trade_network,生产者、裁缝、染工、商人和消费者共同改变纺织品而常未被署名,对象形式不能单独确定个人作者与动机,补订单、口述、作坊、交易与使用记录,ACCEPTED_AS_SUPPORT
+B0086,1.7,A,V2,west_african_mixed_technical_trajectories,地方织机、进口布、工厂纱与新染料长期并存并被选择性重组,下尼日尔案例不能代表整个非洲,补其他西非区域、印度布来源和殖民政策比较,ACCEPTED_WITH_COUNTERSOURCE_REQUIRED
+B0086,2.4,B,V2,consumer_choice_and_market_mediation,消费者对颜色材料与仿制质量的选择会改变商人订货和生产策略,商人记录不能完整代表普通消费者声音,补价格、交易、家庭与穿用材料,ACCEPTED_WITH_AUDIENCE_GAP
+B0086,2.6,B,V2,colonial_collection_and_classification,殖民记录和博物馆目录如何命名地点族群与传统可作为分类史材料,不得把收藏标签当成中性制造地或族群发明证明,补征集记录、来源社群和对象技术证据,ACCEPTED_AS_CRITICAL_CONTEXT
+B0086,2.7,A,V2,selection_refusal_imitation_and_reproduction,跨境纺织流动包含地方选择、拒绝、仿制、再织与材料替换,形式相似不能独立证明直接影响或文化意义一致,逐对象补贸易、样品、买方规格和地方使用,ACCEPTED_WITH_LIMITS

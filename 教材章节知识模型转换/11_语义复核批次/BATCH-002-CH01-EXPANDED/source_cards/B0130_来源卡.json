@@ -1,0 +1,95 @@
+{
+  "source_id": "B0130",
+  "corpus": "book",
+  "folder_name": "Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》",
+  "material_type": "奥斯曼制造业、劳动史与区域经济史专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》_clean.md",
+  "clean_source_sha256": "7D791B4EDAA0CD357AA8127AE60AC10E286AFFC258169E2DF18852FFDC5C8A3B",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 15,
+      "report_characters": 136853
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "decline_paradigm_and_bottom_up_manufacturing_history"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "women_children_and_consular_archive_bias"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "household_workshop_and_putting_out_knowledge"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "hand_machine_imported_yarn_and_scale"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "putting_out_and_gendered_division_of_labor"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cotton_yarn_dyes_and_material_substitution"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "distributed_actors_in_ottoman_manufacturing"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "ottoman_regional_mixed_production"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "domestic_market_and_demand"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "imports_local_adaptation_and_regional_modernity"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "领事报告是外部观察者材料，且量化口径不稳；1914高于1800的总量判断仍需核计算链。",
+    "制造业存续部分依赖女性、儿童和极低工资，不能用‘活力’遮蔽劳动代价。",
+    "巴勒斯坦、阿拉伯半岛、埃及及资本积累问题覆盖不足。",
+    "本书不是纹样作者、设计职业或消费者接受史，相关外推须降级。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第85—114行：作者提出衰退、适应、重组并要求计入乡村、家庭和非行会生产。",
+    "clean第319—387行：区分绝对产量增长与相对全球地位下降。",
+    "clean第563—694行：进口机纱、女性儿童劳动、外放网络与手纺的区域差异。",
+    "clean第1394—1433行：织造、印花、刺绣的性别与城乡组织并不遵循单一模式。"
+  ]
+}

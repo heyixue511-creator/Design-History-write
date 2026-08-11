@@ -1,0 +1,1282 @@
+{
+ "5.1": {
+  "grades": {
+   "B": 4,
+   "A": 4,
+   "C": 8,
+   "D": 1
+  },
+  "count": 17,
+  "items": [
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "art_deco_interior_dimension",
+    "accepted_claim": "1925年巴黎博览会的Art Deco房间布置确立室内设计的装饰现代性：Ruhlmann大沙龙与百货公司展厅为风格制度化节点",
+    "evidence_boundary": "clean第803-877行、第868行；Massey对位叙事框架须标注",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "art_deco_core_survey",
+    "accepted_claim": "Art Deco是“现代的但非现代主义的”风格综合体：以装饰、表面、材料、速度意象与消费文化回应现代世界，介于传统主义与激进现代主义之间",
+    "evidence_boundary": "五部分框架与“modern but not Modernist”为编者核心命题；40章多作者各章立场不一须按章归因",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "exposition_1925_defining_event",
+    "accepted_claim": "1925年巴黎国际现代装饰与工业艺术博览会确立Art Deco为“定义性事件”：其评审标准（“现代灵感与真正原创”）与Ruhlmann Hôtel du Collectionneur大沙龙为风格立名；名称加入“industriels”宣告艺术-工业联盟",
+    "evidence_boundary": "博览会制度与展品为档案可证；“定义性事件”地位为编者评价",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0339",
+    "title": "世界博览会比较史、帝国文化史与展示政治研究",
+    "grade": "A",
+    "verification": "V2",
+    "role": "1925_paris_exposition_and_art_deco_production",
+    "accepted_claim": "1925年巴黎博览会是装饰艺术命名、国家竞争、展馆和消费风格交汇的核心事件",
+    "evidence_boundary": "不能把博览会单独写成Art Deco的唯一来源或全球同步起点",
+    "status": "ACCEPTED_AS_CORE_CONTEXT"
+   },
+   {
+    "source_id": "B0006",
+    "title": "企业百年史、零售文化史、时尚与装饰艺术传播史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "liberty_between_art_nouveau_and_art_deco_revival",
+    "accepted_claim": "Liberty产品、巴黎时尚合作与后来的历史复兴可补装饰艺术商业谱系",
+    "evidence_boundary": "本书并非1925巴黎博览会或Art Deco核心研究",
+    "status": "ACCEPTED_AS_COMMERCIAL_CONTEXT"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "art_deco_department_store_commercialization",
+    "accepted_claim": "巴黎百货公司（Bon Marché的Pomone 1923、Galeries Lafayette的La Maîtrise 1921）设立室内装饰部门，以1925年博览会Art Deco房间布置展示，构成风格商业化渠道",
+    "evidence_boundary": "clean第875—877行；Waring & Gillow的Modern Art Department（1928）细节在packet报告，clean行号待回查",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "family_resemblance_style_definition",
+    "accepted_claim": "Art Deco非单一本质风格，编者以Wittgenstein“家族相似性”为异质性辩护；术语本身为后设建构",
+    "evidence_boundary": "家族相似性为编者方法论立场；Greif与Wilson对术语适用性存在争议",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0338",
+    "title": "新艺术运动国际展览图录、专题论文集与物质文化史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "art_nouveau_decline_and_art_deco_transition_problem",
+    "accepted_claim": "1910年前后新艺术的商品化、退出与多条后继路径可作为装饰艺术前史问题",
+    "evidence_boundary": "风格缺席不等于生产停止，不能建立新艺术自动进化为Art Deco的单线",
+    "status": "ACCEPTED_AS_TRANSITION_CONTEXT"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "C",
+    "verification": "V2",
+    "role": "esprit_nouveau_counterposition",
+    "accepted_claim": "1925年博览会对位案例：Le Corbusier新精神馆以批量生产家具（Thonet弯木椅）挑战博览会的民族主义与装饰导向并引发丑闻",
+    "evidence_boundary": "现代主义方批评视角，与5.1主叙述构成对位，等级C",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "supplement_source",
+    "accepted_claim": "1925年巴黎国际装饰艺术与现代工业博览会的组织理念、四大呈现方式与“原创性”唯一规定",
+    "evidence_boundary": "图册式总览，转述博览会官方组织文本，无脚注；为5.1节补充性概览而非核心专史",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "exhibition_core",
+    "accepted_claim": "展览名称加入“industriels”宣告艺术创造与工业传播的合作，艺术-工业联盟为1925纲领成就",
+    "evidence_boundary": "引文与转述源自博览会官方文本与作者立论，无独立史料标注",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernity_definition",
+    "accepted_claim": "“现代性”＝形式服从需要与技术、复兴传统逻辑而非模仿传统形貌；区别于时尚与流行",
+    "evidence_boundary": "作者立场性论断，属“运动当事人自我镜像”文本，需与批判性研究对照",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "material_tech",
+    "accepted_claim": "钢筋混凝土为现代建筑物质基础，其整一性导出直线、水平线、细柱无柱头的形式语言",
+    "evidence_boundary": "技术史叙述集中但无引用体系",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "hygiene_interior",
+    "accepted_claim": "卫生观念重塑室内设计：去帷幔、平滑表面、无檐口家具、大玻璃窗、金属床架",
+    "evidence_boundary": "家具板块论点，非博览会制度记录",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "regional_colonial",
+    "accepted_claim": "外省参与与殖民艺术纳入叙事，主张在传统与“现代”间取“转化式借鉴”而非复制臣服",
+    "evidence_boundary": "以1925年当时观察口吻呈现，非当代批判性殖民研究",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critic_quotes",
+    "accepted_claim": "保留当时艺评家大量引文（Sedeyn、Sarfatti、Wettergren、van der Burch、Guerin），具二手文献汇编价值",
+    "evidence_boundary": "引文无出处可复核，用作修辞性支撑",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "D",
+    "verification": "V2",
+    "role": "role_art_nouveau_rejection",
+    "accepted_claim": "记录style moderne与art nouveau在法国家具市场被拒斥、历史主义拼贴主导",
+    "evidence_boundary": "非装饰艺术专题，属背景性证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   }
+  ]
+ },
+ "5.2": {
+  "grades": {
+   "B": 10,
+   "C": 3,
+   "A": 3,
+   "D": 1
+  },
+  "count": 17,
+  "items": [
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "consumption_as_modernity_engine",
+    "accepted_claim": "消费是现代性的发动机：Veblen炫耀性消费→百货商店/邮购/广告/包装制度→中产女性消费者与品味扩张",
+    "evidence_boundary": "理论以Veblen为纲、制度案例依赖Miller《Bon Marche》、Strasser等消费史二手文献",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "A",
+    "verification": "V2",
+    "role": "us_fordist_distribution_circuit",
+    "accepted_claim": "美国福特主义分配回路（大众生产—大众分配—大众消费一体化，重造从企业设计生产管理到店铺陈列的整个商业机制）为美国大众消费体系提供制度性解释",
+    "evidence_boundary": "美国侧描述服务于美欧比较框架而非美国本土叙事；作者自陈“福特主义”术语有时代错置之嫌；分期付款与企业实验室未展开",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "A",
+    "verification": "V2",
+    "role": "advertising_marketing_professionalization",
+    "accepted_claim": "美国全国性广告重新定义市场（市场＝可被营销信息触达的潜在无限消费者）并催生营销管理科学",
+    "evidence_boundary": "广告论述属“美国化”背景侧，无广告创意/设计内容；依赖统计式营销“科学”话语",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0080",
+    "title": "时尚文化史、设计史与物质文化方法论",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mass_fashion_advertising_ready_made_and_retail",
+    "accepted_claim": "成衣、广告、杂志和分层零售可补大众消费体系的服装个案",
+    "evidence_boundary": "英国时尚史不能承担美国消费制度的核心叙事",
+    "status": "ACCEPTED_AS_COMPARATIVE_CASE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "female_consumer_as_purchasing_agent",
+    "accepted_claim": "已婚女性作为家庭首席购买代理人，是消费经济与工业设计的主要目标（Lippincott 1947“90%消费者为女性”）",
+    "evidence_boundary": "Lippincott引文与广告证据可证供给端定位，不能证明女性实际购买决策",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "B",
+    "verification": "V2",
+    "role": "advertising_behavior_norm_formation",
+    "accepted_claim": "广告通过海报“给人们提供可模仿的标准”、直接面向儿童将其作为“潜在顾客”，参与塑造消费行为规范（含改变家庭权威结构）",
+    "evidence_boundary": "行为影响判断基于观察性叙述，非实验/调查证据",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "consumption_culture_transition",
+    "accepted_claim": "Lynd《Middletown》（1929）揭示“从谋生到购买生活”（from making a living to buying a living）的消费文化转型，为美国大众消费体系的1920年代前提",
+    "evidence_boundary": "Meikle叙述，以Middletown为章节导言",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "art_deco_americanization",
+    "accepted_claim": "1925年巴黎博览会经Calkins等广告人转介进入美国，本地化为“skyscraper style”，完成从精英艺术到大众消费的过渡",
+    "evidence_boundary": "档案引文：clean第975行Calkins观展评论；移民设计师贡献为叙述层",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "consumer_society_formation",
+    "accepted_claim": "1920年代消费社会形成：市场饱和、外观竞争与Calkins预言构成工业设计诞生的经济土壤",
+    "evidence_boundary": "第一章语境铺设，非系统消费经济史",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "american_consumer_system",
+    "accepted_claim": "美国大众消费体系：JWT等广告公司引入心理学、好莱坞输出美国生活方式影像、汽车大众化、消费信贷",
+    "evidence_boundary": "通史综合，美英法制度对照为二手综述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "streamlining_commercial_modernity",
+    "accepted_claim": "流线型是商业现代性风格：1930年代普及（塑料模具工艺）、从汽车造型扩展到家电办公机具直至建筑；与Ch4现代主义霸权构成二分",
+    "evidence_boundary": "“商业现代性”为分析性标注，原文以streamlining/modernistic呈现；流线型起源与商业挪用之辨需回查",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "americanization_of_europe",
+    "accepted_claim": "战后“美国化”：营销导向设计、咨询设计职业与流线型风格一同跨越大西洋，影响欧洲物质文化；与斯堪的纳维亚/意大利/日本的地方抵抗构成拉锯",
+    "evidence_boundary": "美国化叙事为通史综合（引Masson & Thorburn），地方抵抗案例较简",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "B",
+    "verification": "V2",
+    "role": "chain_retail_one_price_store",
+    "accepted_claim": "连锁店与一元价格店（按价格档陈列、明码标价、高周转低毛利）及美欧监管差异（Woolworth 759家欧洲子公司为个案）",
+    "evidence_boundary": "欧洲视角的连锁零售之争，属“被管理的美国化”叙事；美国本土连锁史非本文对象",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "C",
+    "verification": "V2",
+    "role": "mass_consumption_advertising_expansion",
+    "accepted_claim": "19世纪末法国年广告支出近1亿法郎（其中报纸广告4000万）、1889年德国牧师收到13577份广告传单——广告成为大众消费体系的核心产业指标",
+    "evidence_boundary": "统计数字引自作者，原始出处未单列；仅为法国/德国个案",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "C",
+    "verification": "V2",
+    "role": "counterculture_commercial_absorption",
+    "accepted_claim": "1960年代抗议海报与反文化被消费社会“资本化”（如Levi's摄影写实广告），异议被纳入商品体系——“海报成为时代的镜子”",
+    "evidence_boundary": "第六章为作者1974年冷战视角的批判性分析，须批判性重读",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_comparative_reference",
+    "accepted_claim": "法国19世纪消费以趣味与阶级区分为核心、信用零售（abonnement）与百货商店为共享机制，可作美式大众消费体系的对照命题",
+    "evidence_boundary": "本书未系统比较美国，对照为分析性命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "D",
+    "verification": "V2",
+    "role": "role_mass_consumption",
+    "accepted_claim": "结语“大众风格体制”与“公民—消费者”为美式消费社会的法国前史参照",
+    "evidence_boundary": "属前瞻性结论，非经验证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   }
+  ]
+ },
+ "5.3": {
+  "grades": {
+   "C": 4,
+   "B": 7,
+   "A": 7
+  },
+  "count": 18,
+  "items": [
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "A",
+    "verification": "V2",
+    "role": "depression_sales_engineering",
+    "accepted_claim": "大萧条催化工业设计：1933年谷底制造商转向以新外观刺激消费，Fortune文章引用Sprague将“未以设计开辟新需求”指为萧条持续主因，设计成为销售工程",
+    "evidence_boundary": "论证以Fortune原文为原始文献，“催化”因果判断为Gantz解释框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "underconsumption_thesis_1930",
+    "accepted_claim": "Calkins 1930年会议将经济崩溃归因“消费不足”而非“生产过剩”，提出“消费工程”与“人为过时”，把泰勒制从工厂延伸至消费者心理",
+    "evidence_boundary": "档案引文（会议演讲、Arens著作）可独立核查；经济归因属Meikle叙述框架的史学呈现",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "styling_as_sales_engineering",
+    "accepted_claim": "“styling是设计用于刺激需求的经济功能”：百货商店stylist（多为年轻女性）从选品转向产品再设计；Sinel/Loewy/Van Doren三人的销售导向言论",
+    "evidence_boundary": "档案引文（Jordan Marsh高管、三人言论）可证当事人话语；stylist女性化与5.5职业衔接",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "consumer_engineering_concept",
+    "accepted_claim": "消费工程学（Sheldon & Arens 1932）将Taylor生产工程学类比移植到消费端，以消除分销摩擦、制造可预测消费为目标，是“销售工程”的核心理论文本",
+    "evidence_boundary": "第四章细读；属当时行业宣言文本而非学术评估，引用须标注当事人立场",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "depression_economic_drive",
+    "accepted_claim": "大萧条（1929—1932）下“过度生产vs消费不足”之争使消费不足论成商业共识，工业设计被包装为经济复苏手段",
+    "evidence_boundary": "宏观数字为二手概括，需对照经济史统计",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artificial_obsolescence",
+    "accepted_claim": "Calkins“使用品vs消耗品”分类与Sheldon/Arens“progressive waste, creative waste”语义翻转：耐用品人为淘汰被重构为效率核心",
+    "evidence_boundary": "当事人主张原文引用；Meikle持批判性分析立场",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "behaviorism_in_marketing",
+    "accepted_claim": "Watson行为主义在J. Walter Thompson的商业应用将消费者还原为刺激-反应对象（“mice and monkeys”），与消费工程学合流",
+    "evidence_boundary": "企业广告代理背景+当事人文本；Watson个人经历细节以Meikle注释为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "contract_interiors_postwar",
+    "accepted_claim": "战后“合同室内设计”（contract interiors，商业而非住宅用途）兴起：SOM与Knoll Planning Unit基于Miesian美学（简单几何但昂贵饰面）承担企业合同室内",
+    "evidence_boundary": "clean第1310行、第1377行；销售工程维度与5.4营销工具条目互补",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "sales_appeal_standard",
+    "accepted_claim": "“销售吸引力”成为设计评判标准：同质同价产品中外观更吸引购买者者胜出（Nelson），Gantz以销量增长作为评价设计成功的核心指标",
+    "evidence_boundary": "该标准为行业内部立场，忽略文化/社会/环境维度，须与Papanek式批判并置",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "planned_obsolescence",
+    "accepted_claim": "年度造型更新（GM Sloan首创）使汽车外观快速过时，Graham Blue Streak（1932）“使先前所有汽车设计瞬间过时”，是计划废止在汽车业的大规模实践",
+    "evidence_boundary": "案例细节出自作者叙述，“计划废止”概念表述须与Vance Packard（1957）批判文献对照",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "B",
+    "verification": "V2",
+    "role": "stability_ideal_in_crisis",
+    "accepted_claim": "“在不断变化的19世纪社会中，广告所肯定的理想是稳定性”——社会变动/危机语境下广告以稳定性为价值锚点",
+    "evidence_boundary": "为作者概括性命题，佐证案例（守寡服装、儿童复制品）系图像分析",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "designer_as_salesman",
+    "accepted_claim": "萧条期设计师自我推销：Geddes公关式方法（产品如舞台演员）、Teague邮件营销、Loewy/Dreyfuss早期挣扎",
+    "evidence_boundary": "传记性叙事，须与匿名从业者材料并置",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "styling_and_planned_obsolescence",
+    "accepted_claim": "造型（styling）是“美国对艺术问题的回答”：GM Harley Earl企业造型部与年款换型/计划性过时把设计纳入销售工程",
+    "evidence_boundary": "Earl/GM案例为二手转述；计划性过时的因果权重是通史争议点",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "advertising_desire_engineering",
+    "accepted_claim": "广告从信息传递转向欲望制造：市场研究与消费者心理学（JWT）、包装品牌化使“产品变为品牌”；Bel Geddes按市场细分设计Philco四种收音机",
+    "evidence_boundary": "广告转型论据自Marchand《Advertising the American Dream》、Ewen等二手文献",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "C",
+    "verification": "V2",
+    "role": "economic_crisis_advertising_cycle",
+    "accepted_claim": "经济危机十年周期（1847/1857/1866/1873/1882/1890）与1873—1895长期萧条中广告支出激增、竞争白热化，海报成为危机时代“销售工程”的视觉引擎",
+    "evidence_boundary": "因果链为分章报告归纳的作者推演；“销售工程”系中文转述，原文无此术语",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0162",
+    "title": "Gallo, Max：The Poster in History, 1974",
+    "grade": "C",
+    "verification": "V2",
+    "role": "advertising_mirror_dissemination",
+    "accepted_claim": "广告“既反映了一种心态，又非自愿但有效地传播了这种心态”——转型时期广告兼具社会镜像与传播功能",
+    "evidence_boundary": "“非自愿传播”为隐喻性判断，无传播效果测量",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0305",
+    "title": "经典消费史、商业化史、经济—政治—社会史合著",
+    "grade": "C",
+    "verification": "V2",
+    "role": "advertising_display_and_branding_prehistory",
+    "accepted_claim": "广告、陈列、品牌与市场细分可作为20世纪大众传媒商业设计的长时段前史",
+    "evidence_boundary": "18世纪材料不能证明20世纪媒体制度和受众效果",
+    "status": "CONTEXT_ONLY_AS_PREHISTORY"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "C",
+    "verification": "V2",
+    "role": "marketing_science_sales_engineering",
+    "accepted_claim": "1930s危机中“分配成本占总成本比例上升”的关切与营销、广告专业化呼应设计/营销被赋予刺激需求经济功能的语境",
+    "evidence_boundary": "文中无“销售工程”术语；营销科学论述属美国侧背景，与设计职业关联间接",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   }
+  ]
+ },
+ "5.4": {
+  "grades": {
+   "B": 12,
+   "A": 10,
+   "D": 2
+  },
+  "count": 24,
+  "items": [
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "streamlining_definition_medium_transfer",
+    "accepted_claim": "流线型（美国Moderne）1930年代在美国兴起：Art Deco垂直线让位于水平线，融合Art Deco、国际风格与法国Moderne；始于运输风格，迁移至厨房电器、办公设备等一切设计领域",
+    "evidence_boundary": "clean第977—978行、第988行、第996行；媒介迁移命题的核心段落",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "streamlining_commercial_interior",
+    "accepted_claim": "流线型商业室内典范：Radio City Music Hall（1933，Donald Deskey）为流线型应用于商业室内（娱乐场所）的精品案例",
+    "evidence_boundary": "clean第1005行；商业室内实例证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "A",
+    "verification": "V2",
+    "role": "streamlining_media_transfer",
+    "accepted_claim": "流线型从空气动力学/生物学概念迁移为消费美学：Thompson、Jaray的航空研究经Bel Geddes的Horizons（1932）改造为关于未来的文化想象，成为美国原创现代设计语言",
+    "evidence_boundary": "流线型谱系属作者综合叙述，文化意义层面须以Meikle《Twentieth Century Limited》等学术专著补充",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "streamline_moderne_american_phase",
+    "accepted_claim": "Streamline Moderne/streamlining为1930年代美国主导的圆润流线风格，从交通工具（Chrysler Airflow、Burlington Zephyr、DC3）扩散至一切商品，是Art Deco美国化第二阶段",
+    "evidence_boundary": "Ch34（Maffei）为单章论证；“流线化”与Art Deco的关系有Gebhard等术语争议",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "styling_and_obsolescence_mechanism",
+    "accepted_claim": "styling（风格化）通过款式更新制造消费欲望与“风格性过时”（Calkins、Consumer Engineering）；工业设计师（Loewy、Bel Geddes、Teague、Dreyfuss）成为新职业",
+    "evidence_boundary": "该机制主要依据美国1930s理论文献，属辩护方与批判方并置的话语证据，缺乏量化消费数据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "appliance_streamlining",
+    "accepted_claim": "洗衣机、熨斗、打字机等家电与办公机器的流线型设计史：Maytag谱系（1922 Model 80→1930s）、Underwood流线型（1930s）、形态序列的历时分析",
+    "evidence_boundary": "形态序列依据厂商广告与产品照片（Warshaw Collection等），为组织者话语；解读含Lupton分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "streamlining_three_metaphors",
+    "accepted_claim": "流线型三层隐喻：空气动力学功能→商业销售隐喻（“更快更有利地穿过销售阻力渠道”）→大萧条社会隐喻（社会进程须顺畅无摩擦）",
+    "evidence_boundary": "档案引文（clean第1146行转引设计推广者言论及注释28）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "streamline_depression_psychology",
+    "accepted_claim": "流线型是美国大萧条特有的心理产物：速度、平滑、控制的视觉语言为公众提供安全感，而非欧洲国际风格的进口",
+    "evidence_boundary": "Meikle标准解释，领域共识但仍是史学建构，须标注为解释性命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "streamline_click_moment",
+    "accepted_claim": "1934年M-10,000与Burlington Zephyr在芝加哥世博会亮相引发“something clicked”瞬间，流线型从工程事实转为大众商品",
+    "evidence_boundary": "Business Week 1940年回顾为当时媒体文本，属媒体证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "streamline_style_drift",
+    "accepted_claim": "流线型从空气动力学漂移为纯风格化：Loewy自认Princess Anne渡轮（1936）外壳不为减阻只为吸引眼球——功能伪装被撕开",
+    "evidence_boundary": "设计师自述（Loewy）与Meikle分析并置；为“功能vs风格”争论关键证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hollywood_moderne_media_diffusion",
+    "accepted_claim": "好莱坞电影工业充分运用Moderne与流线型的光滑镜面表面，将风格植入全球大众意识；Cedric Gibbons自1925年博览会归来后为MGM设计《Grand Hotel》（1932）布景",
+    "evidence_boundary": "电影媒介证据属大众传播层，等级B",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "streamlining_marketing_tool",
+    "accepted_claim": "1929年股灾后设计被首次系统性认知为营销工具（销售工程逻辑）：工业设计师（Dreyfuss、Loewy、Teague）获得近乎电影明星地位",
+    "evidence_boundary": "clean中“marketing tool”原文行号未直接核验（约L985—995区域），须回查确认",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "exposition_media_stage",
+    "accepted_claim": "芝加哥“世纪进步”博览会（1933）是流线型集中展示与工业设计师公共身份确立的媒介事件：Teague福特圆形展厅、Dreyfuss Hotpoint平顶冰箱、Bel Geddes照明设计等集中亮相，设计师姓名成为销售卖点",
+    "evidence_boundary": "博览会叙事以作者描述为主，访客数据与展品清单可对照博览会官方档案",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "future_vision_media",
+    "accepted_claim": "Bel Geddes的Horizons（1932）与Futurama（1939世博会）通过未来交通图景将工业设计塑造为媒介化的乐观主义技术想象",
+    "evidence_boundary": "“未建造但产生影响”的论断属作者评价，影响范围缺乏同期量化证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "streamline_as_decorative_reinvention",
+    "accepted_claim": "流线化允许“不借助装饰而重造装饰”，是Art Deco装饰逻辑在美国的延续而非断裂；“既安详又动力”",
+    "evidence_boundary": "延续性命题为编者与Maffei立场；Giedion等批判方视其为“declining art décoratif approach”",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "telephone_design_history",
+    "accepted_claim": "电话工业设计史与性别营销：AT&T广告将女接线员塑造为人机情感界面；家庭电话从理性家务工具转向女性社交消费",
+    "evidence_boundary": "广告图像可证再现策略；电话形态分析依据博物馆藏品照片，购买动机不可证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "streamlining_critique",
+    "accepted_claim": "Dreyfuss以“由内而外”批评装饰性流线型（“流线型化不会移动的冰箱”），区分cleaninglining与streamlining",
+    "evidence_boundary": "属行动者对行业流线型风潮的批评立场，非流线型运动的正面史料",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "streamlining_medium_migration",
+    "accepted_claim": "流线型从飞机、汽车、火车迁移至收音机、吸尘器、洗衣机等静止物件及店面、餐厅等环境——媒介迁移的完整链条",
+    "evidence_boundary": "档案+叙述：clean第1138行列举迁移范围，“以不可抗拒的隐喻力量横扫其他现代性表达”",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "streamlining_failure_case",
+    "accepted_claim": "Chrysler Airflow（1934）因设计过度激进而销售失望，反证流线型的社会接受边界；GM/Ford随即将其降格为造型手段（“为视觉阻力而非风阻力设计”）",
+    "evidence_boundary": "档案+叙述：clean第1193—1197行，含Klemin评语与Zephyr例证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "streamline_media_transfer",
+    "accepted_claim": "流线型作为“无限可扩展”形式语言从火车迁移至巴士（Greyhound）、家电（Dreyfuss Hoover 150）、卷笔刀（Loewy）、建筑（PSFS/McGraw-Hill）",
+    "evidence_boundary": "案例目录式证据，部分依赖插图证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "functional_vs_style_debate",
+    "accepted_claim": "第七章功能主义语义崩溃与第八章风格化转折构成“功能vs风格”史学争论的一侧立场",
+    "evidence_boundary": "Meikle单方论证，须与B0066等对立观点并置",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0346",
+    "title": "Penny Sparke：《Italian Design 1870 to the Present》，1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "streamlining_italian_adaptation",
+    "accepted_claim": "流线型的跨国迁移与意大利改造：Fiat 1500（1935）仿Chrysler Airflow、Pininfarina为Lancia Aprilia设计翼形车身、Breda机车采用克制版流线型；战后意大利人把美国流线型简化、去装饰化",
+    "evidence_boundary": "作者明确指出意大利对美式流线型的改造而非照搬，符合“风格相似不等于影响”的边界；流线型叙述分散于多章无专节，须跨段拼接",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "D",
+    "verification": "V2",
+    "role": "contrast_reference",
+    "accepted_claim": "以“直线胜曲线”清算1900年新艺术，直线与水平线统治1925样式，可作流线型前史对照",
+    "evidence_boundary": "本书未系统讨论流线型（streamline），仅“直线/水平线”形式命题可对照",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "D",
+    "verification": "V2",
+    "role": "furniture_geometry",
+    "accepted_claim": "家具“敏感严整”的简洁曲线与计算比例，相似于钢筋混凝土建筑的简单几何",
+    "evidence_boundary": "L1173单点对照，家具板块语境，无流线型术语",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "5.5": {
+  "grades": {
+   "B": 8,
+   "C": 2,
+   "A": 14
+  },
+  "count": 24,
+  "items": [
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "interior_decorator_women_profession",
+    "accepted_claim": "室内装饰是少数由女性主导并卓越取胜的职业：Candace Wheeler 1877年创立纽约装饰艺术协会为女性提供职业教育与手工艺出路，置于妇女争取经济独立语境",
+    "evidence_boundary": "clean第1090行；Wheeler 1895年文章细节在packet报告",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "good_taste_historicism_profession",
+    "accepted_claim": "“好品味”标准与历史范本绑定：Wharton与Codman《The Decoration of Houses》（1897）将“自然好品味”等同于文艺复兴以降英意法范本；装饰师因研究过去风格并身处同一社交圈而拥有品味权威，该标准贯穿20世纪职业",
+    "evidence_boundary": "clean第1099行、第1108—1109行；“好品味”的阶级再生产功能为分析层命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "A",
+    "verification": "V2",
+    "role": "de_wolfe_professional_model",
+    "accepted_claim": "Elsie de Wolfe建立可复制的职业模式：Irving Place改造（1897-98）、《The House in Good Taste》（1913）、Colony Club（1905）为装饰师设计的首个公共室内",
+    "evidence_boundary": "clean第1112行、第1119—1129行、第1145行；Frick住宅10%佣金财务证据在packet 05报告，clean行号待回查",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "A",
+    "verification": "V2",
+    "role": "fortune_1934_profession_naming",
+    "accepted_claim": "1934年2月Fortune匿名文章（George Nelson撰）首次在流行媒体使用“industrial design”一词并引爆行业，是职业确立的关键节点",
+    "evidence_boundary": "文章匿名发表、作者归属为后世考证（现知Nelson）；“引爆”评价为Gantz叙述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "A",
+    "verification": "V2",
+    "role": "professional_association_lineage",
+    "accepted_claim": "职业制度化进程：AUDAC（1927）→ADI（1938）→SID（1944，定义“为机器与大规模生产设计多种产品者”）→IDSA（1965三合一合并）",
+    "evidence_boundary": "组织沿革以IDSA档案为据；SID排他性入会标准体现职业精英主义",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_education_institutionalization",
+    "accepted_claim": "职业形成伴随教育制度化：Carnegie Tech首设工业设计学位（1934），ADI 1944年发布四年制教育大纲，Dohner被誉为“美国工业设计教育之父”",
+    "evidence_boundary": "教育史以ADI/SID公告与作者访谈为据，课程沿革可对照院校档案",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "profession_formation_1929",
+    "accepted_claim": "有声电影冲击百老汇（1927）→1929年于580 Fifth Avenue开设工业设计事务所，构成美国工业设计职业形成的行动者自述证据",
+    "evidence_boundary": "自传叙事含自我辩护；“四巨头”地位与行业影响需外部史料佐证",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "inside_out_design_principle",
+    "accepted_claim": "“诚实的设计应由内而外，而非由外而内”，反对表面装饰化，界定职业方法论核心",
+    "evidence_boundary": "属Dreyfuss职业主张（P0），不代表行业共识",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "industrial_designer_origins",
+    "accepted_claim": "第一代工业设计师（Geddes、Teague、Loewy）多从广告插画与舞台设计跨界而来，由广告高管（Resor）牵线进入制造业——职业形成于广告业而非工业内部",
+    "evidence_boundary": "档案+叙述：clean第1090行人物履历，Fortune杂志1934年报道佐证职业化进程",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "A",
+    "verification": "V2",
+    "role": "four_giants_profession",
+    "accepted_claim": "Teague（古典保守）、Geddes（戏剧性）、Dreyfuss（伦理克制）、Loewy（商业主义）以舞台、广告、工程背景进入设计，确立职业身份",
+    "evidence_boundary": "传记叙事，须与匿名从业者并置避免精英中心偏差",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "consultant_designer_profession",
+    "accepted_claim": "两次大战之间“consultant designer for industry”概念成熟：设计师职责是“creating sales”，需技术+文化+公众意识三重资质；美国咨询设计师多数时间投入redesign项目",
+    "evidence_boundary": "职业定义与时间锚点为原文引文（clean第582、586、604行）；“多数时间投入redesign”为修正性证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "designer_culture_emergence",
+    "accepted_claim": "设计师文化（设计师名字为对象/形象/环境附加价值）随第一代美国咨询设计师诞生，后经明星化、设计思维演进",
+    "evidence_boundary": "Ch3/Ch8双章互证，属通史框架性命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "international_diffusion",
+    "accepted_claim": "美国咨询设计模式战后向英（Keith Murray、CoID）、瑞典（Kåge、Sason）、意大利、日本扩散，各国设计促进机构介入",
+    "evidence_boundary": "各国案例为通史综述，细节深度不一（英瑞较实、日较略）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "gender_correction",
+    "accepted_claim": "女性设计师（Gray、Perriand、Reich、Cooper）被正史遮蔽，本书以Anscombe《A Woman's Touch》等补写——职业史的性别修正命题",
+    "evidence_boundary": "补写依赖女性设计史二手文献（Anscombe、Kirkham、Callen）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0006",
+    "title": "企业百年史、零售文化史、时尚与装饰艺术传播史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "retail_design_consultant_brand_and_anonymous_professionalization",
+    "accepted_claim": "企业内部设计顾问、匿名设计和品牌控制可补商业设计职业化路径",
+    "evidence_boundary": "企业职位史不等于行业总体职业制度",
+    "status": "ACCEPTED_AS_ENTERPRISE_ROLE_CASE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "silent_salesman_concept",
+    "accepted_claim": "“优良工业设计是无声推销员”，设计作为大萧条后差异化竞争手段的职业功能观",
+    "evidence_boundary": "行动者对设计商业功能的自我表述",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "sid_founding_1944",
+    "accepted_claim": "1944年与Teague周末讨论发起、Loewy参与，成立工业设计师协会（SID）",
+    "evidence_boundary": "Dreyfuss自称“帮助组织”，SID/IDSA正式缘起需对照组织史料",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "department_store_stylist",
+    "accepted_claim": "1930年代百货商店“stylist”（多为年轻女性、常为大学毕业生）从选品转向直接参与产品再设计，构成职业设计师的过渡形态",
+    "evidence_boundary": "档案引文：clean第1104行Jordan Marsh与Kaufmann高管言论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_office_industrialization",
+    "accepted_claim": "设计办公室“工业化”：Taylor式科学管理与团队分工的“设计工厂”形态及其悖论",
+    "evidence_boundary": "以Meikle二手分析为主",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_profession_ethics",
+    "accepted_claim": "四巨头的职业伦理光谱：Dreyfuss伦理克制vs Loewy商业主义，构成职业伦理的早期形态",
+    "evidence_boundary": "设计师自述与Meikle诠释并置",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0346",
+    "title": "Penny Sparke：《Italian Design 1870 to the Present》，1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "industrial_design_profession_italy",
+    "accepted_claim": "工业设计职业的意大利形成路径：“industrial design”与“consultant designer”概念自美国输入后被建筑师传统改造为较少商业化的实践；战后建筑师因建筑项目匮乏转行产品设计；ADI（1956）与Compasso d'Oro（1954）构成职业制度",
+    "evidence_boundary": "本书提供与美国职业史相对的意大利对照案例；设计师叙述偏“大师史”，匿名从业者缺席",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0348",
+    "title": "档案型印刷史、书籍设计生产史、企业史与接受史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "book_designer_and_commercial_print_professionalization",
+    "accepted_claim": "全要素协调与商业印刷接受可作为平面／书籍设计职业化的具体前史",
+    "evidence_boundary": "私人出版社不能替代20世纪职业组织、教育和企业职位史",
+    "status": "ACCEPTED_AS_PROFESSIONALIZATION_PREHISTORY"
+   },
+   {
+    "source_id": "B0070",
+    "title": "设计企业史、商业史与生产组织史",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_enterprise_as_professionalization_prehistory",
+    "accepted_claim": "设计、制造、零售和品牌管理的结合可作职业工业设计形成的企业前史",
+    "evidence_boundary": "19世纪工艺企业不能直接代表20世纪专业制度",
+    "status": "CONTEXT_ONLY_AS_PREHISTORY"
+   },
+   {
+    "source_id": "B0175",
+    "title": "设计改革制度史、劳动文化史、帝国与博物馆研究",
+    "grade": "C",
+    "verification": "V2",
+    "role": "early_design_school_administration_and_industrial_artist",
+    "accepted_claim": "设计学校、工业艺术家和艺术行政可作为20世纪工业设计职业制度化的前史",
+    "evidence_boundary": "19世纪角色不能直接等同于20世纪工业设计职业",
+    "status": "CONTEXT_ONLY_AS_PREHISTORY"
+   }
+  ]
+ },
+ "5.6": {
+  "grades": {
+   "B": 5,
+   "A": 5
+  },
+  "count": 10,
+  "items": [
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "scientific_management_office",
+    "accepted_claim": "泰勒科学管理于1910s—20s应用于办公室：文书劳动拆分、Larkin Building桌椅限制移动以提效、时间-动作研究推销L形桌（Deskey/Globe-Wernicke）",
+    "evidence_boundary": "科学管理文本（Galloway 1919等）与Deskey目录为组织者话语，可证设计意图与供给",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "housework_time_paradox",
+    "accepted_claim": "省力家电未减少非就业主妇家务时间：Vanek数据1920s每周52小时升至1960s中55小时；就业妻子26小时；Hochschild“第二班”",
+    "evidence_boundary": "Vanek 1965—66全国调查为二手统计（Lupton转述）；广告“解放”话语与数据并置构成悖论，购买动机不可证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "anthropometry_percentile_partners",
+    "accepted_claim": "Dreyfuss事务所以Joe/Josephine百分位人体测量图（“极端值而非平均值”，覆盖2.5—97.5百分位）将人体测量学系统引入工业设计方法",
+    "evidence_boundary": "自述其事务所方法与实践，不能证明人体测量法在行业中的普及程度",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "machine_fit_person_principle",
+    "accepted_claim": "“最高效的机器是围绕人而建造的”，设计应使机器适配人而非将人塞进机器（human engineering）",
+    "evidence_boundary": "属Dreyfuss的方法论主张（理念证据），不自动证明产品成效",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "five_senses_design_framework",
+    "accepted_claim": "视、听、触、嗅、色觉五感被纳入设计考量（视力表、分贝、色彩心理、气味扩散）",
+    "evidence_boundary": "自述其事务所研究框架，样本与方法未披露",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0052",
+    "title": "维多利亚物质文化史、技术—消费—展览综合史",
+    "grade": "B",
+    "verification": "V2",
+    "role": "household_management_taste_gender_and_efficiency_prehistory",
+    "accepted_claim": "家务管理、家庭道德和品味指南是20世纪家务效率制度的19世纪前史",
+    "evidence_boundary": "不含完整人体测量、科学管理或厨房设计链",
+    "status": "ACCEPTED_AS_DOMESTIC_PREHISTORY"
+   },
+   {
+    "source_id": "B0080",
+    "title": "时尚文化史、设计史与物质文化方法论",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gendered_body_clothing_home_and_efficiency",
+    "accepted_claim": "服装、身体规范、家务与性别领域可校正效率史只写标准人体的倾向",
+    "evidence_boundary": "不是人体测量、厨房或科学管理专史",
+    "status": "ACCEPTED_AS_GENDERED_BODY_CONTEXT"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "household_efficiency_cases",
+    "accepted_claim": "熨斗作为手臂延伸、打字机眩光、吸尘器手柄等家务与办公效率案例体现“家务与效率”主题",
+    "evidence_boundary": "案例成效（如“如今已普及”）为自述，无独立验证",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "anthropometric_data_catalog",
+    "accepted_claim": "手柄直径0.5—1.25英寸、脚刹35磅、左撇子6—9%等“设计常数库”数据",
+    "evidence_boundary": "数据来源、样本规模与统计方法未透明，不可作为独立科学数据引用",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "domestic_efficiency_movement",
+    "accepted_claim": "新家政学将泰勒制引入家庭（Christine Frederick、Mary Pattison“domestic engineering”），Hoosier厨房橱柜为“传统外观掩盖的功能效率”典型——科学管理进入厨房",
+    "evidence_boundary": "Meikle叙述，非档案直接引文",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   }
+  ]
+ },
+ "5.7": {
+  "grades": {
+   "B": 10,
+   "C": 1
+  },
+  "count": 11,
+  "items": [
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_ethics_controversy",
+    "accepted_claim": "商业设计伦理争议：SID排他性入会标准体现职业精英主义；Packard《Hidden Persuaders》（1957）与Papanek《Design for the Real World》（1972）对商业设计的批判被Gantz承认部分有效性但最终回归商业主义立场",
+    "evidence_boundary": "争议叙述带作者明确立场（反精英审美、重市场），批判方的论证需另读Packard/Papanek原著",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0066",
+    "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "museum_vs_market",
+    "accepted_claim": "MoMA“优良设计”（Good Design, 1932—1955）以精英审美规范商业设计的努力失败，工业设计由消费者购买行为与市场成功定义——“博物馆vs市场”之争贯穿全书",
+    "evidence_boundary": "该论断是Gantz最一致的价值立场，属论辩性命题而非中性史实，须与MoMA展览档案及学术批评并置",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "profession_code_of_ethics",
+    "accepted_claim": "SID“严格的伦理准则”与高门槛会员制，构成商业设计伦理制度化的行动者证据",
+    "evidence_boundary": "伦理成效为自述；“给职业尊严”属价值判断",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "commercial_design_critique",
+    "accepted_claim": "第9章批判汽车工业“蒸汽压路机式推广”、第14章公开收费模式，触及商业设计的伦理争议",
+    "evidence_boundary": "批判立场与“透明化先例”为行动者观点",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "elite_vs_commercial_split_1934",
+    "accepted_claim": "1934年MoMA“Machine Art”展（Johnson）与Rockefeller Center“Industrial Arts Exposition”的对立确立精英现代主义与商业设计的公开分裂格局，战后演化为“Good Design”vs populuxe",
+    "evidence_boundary": "Meikle叙述框架，辅以clean第1528—1534行战后延续证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0205",
+    "title": "Jeffrey L. Meikle：《Design in the USA》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "designer_sales_ethics",
+    "accepted_claim": "设计师伦理立场谱系：Sinel蔑视大众（“Coney Island-minded”）、Loewy以“美丽的销售曲线”为美学观、Van Doren“设计的目标是销售——获利”",
+    "evidence_boundary": "档案引文：clean第1132行三人言论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0206",
+    "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_ethics_controversy",
+    "accepted_claim": "消费工程学操纵逻辑（消费者成“机器齿轮”、Mussolini/Lenin隐喻）暴露商业设计伦理争议及“人为废弃”同谋问题",
+    "evidence_boundary": "当事人极端修辞原文引用，Meikle批判性分析；属伦理争议史证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0339",
+    "title": "世界博览会比较史、帝国文化史与展示政治研究",
+    "grade": "B",
+    "verification": "V2",
+    "role": "style_nationalism_consumption_and_exclusion_ethics",
+    "accepted_claim": "风格选择、国家宣传、大众消费与边缘排除之间的关系可构成商业设计伦理争议",
+    "evidence_boundary": "历史展览批判不能直接回答当代职业伦理",
+    "status": "ACCEPTED_AS_HISTORICAL_ETHICS_CONTEXT"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_ethics_turn",
+    "accepted_claim": "商业设计的伦理争议：从Papanek《Design for the Real World》到可持续、包容性、社会创新，21世纪设计被重新定义为“社会-环境责任”",
+    "evidence_boundary": "第三版新增的最强价值命题；伦理转向为作者立场性论述，非档案事实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0345",
+    "title": "Penny Sparke：《An Introduction to Design and Culture 1900 to the Present》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "celebrity_designer_critique",
+    "accepted_claim": "对设计师明星化与消费主义合谋持保留：引Foster《Design and Crime》批判，承认塑料等新材料“解放与浪费”并存",
+    "evidence_boundary": "批判性综述，属通史解释框架而非档案证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ethics_market_tension_unresolved",
+    "accepted_claim": "“当市场要求坏设计时设计师怎么办”的伦理困境未获系统性回答，对汽车工业的批判以自嘲收场",
+    "evidence_boundary": "复核者基于文本的解读性判断，非原文陈述",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   }
+  ]
+ }
+}

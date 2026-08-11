@@ -1,0 +1,16 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0168,0.2,B,V2,modernist_genealogy_and_periodization_case,‘从莫里斯到格罗皮乌斯’可作为需要批判的设计史分期范式,该谱系是1971年史学建构，不是自然发生的历史进程,补反目的论研究、区域断裂和未实现路径,ACCEPTED_AS_HISTORIOGRAPHY_CASE
+B0168,0.3,A,V2,ideas_institutions_practice_and_transfer_method,思想、学校、组织、实践和跨国中介须共同解释运动形成与转译,谱系框架可能把后见之明写成前定方向,以同时期传播文件和反例约束,ACCEPTED_AS_METHOD_WITH_TELEOLOGY_AUDIT
+B0168,0.5,B,V2,actor_texts_objects_and_institutional_sources,行动者文本、学校和组织材料可追踪理想的表述与传播,当前仅V2且未完成全书引文页码与图像核验,回原版、档案、课程、组织记录和对象,ACCEPTED_WITH_P0_FOLLOWUP
+B0168,0.6,A,V2,teleology_national_gender_colonial_and_machine_bias,现代主义目的论、国别本质化、女性／殖民缺口与反机器简化须进入审计,批判偏差不能替代新的地区和劳动证据,补企业史、性别史、殖民史、区域史与技术史,ACCEPTED_AS_EVIDENCE_AUDIT
+B0168,2.1,B,V2,great_exhibition_and_design_reform_context,博览会后的设计改革为工艺美术论争提供国家竞争与审美治理背景,不是1851年展览组织、对象或观众史的核心来源,与B0049、B0339、B0175及官方材料对读,ACCEPTED_AS_CONTEXT
+B0168,2.2,A,V2,schools_working_mens_college_and_central_school,设计学校、Working Men's College与Central School连接思想、教学和工艺实践,学校存在或名师任职不证明教学成效与学生去向,补课程、作业、招生、师生、就业和官方档案,ACCEPTED_AS_INSTITUTIONAL_SOURCE
+B0168,2.3,A,V2,pugin_ruskin_morris_ashbee_labour_ethics_genealogy,Pugin—Ruskin—Morris—Ashbee的劳动、社会与艺术命题构成运动内部既连续又分歧的谱系,不能把多位作者压缩成单一反工业立场,逐文本区分作者、年代、对象、机器观与政治条件,ACCEPTED_AS_CORE_SOURCE
+B0168,2.4,B,V2,elite_market_and_democratic_ideal_contradiction,民主改革理想与昂贵、精英化产品市场之间存在结构张力,作者的总体判断不能替代企业价格、顾客与使用证据,与B0070、销售账簿、家庭清单和消费者材料对读,ACCEPTED_WITH_MARKET_FOLLOWUP
+B0168,2.5,A,V2,architecture_interior_craft_and_total_environment,建筑、家具、室内与手工艺的统一构成工艺美术到整体环境设计的重要路径,风格和原则谱系不能确定具体对象作者、制作和使用,补对象、图纸、工场、委托、室内与使用材料,ACCEPTED_WITH_OBJECT_FOLLOWUP
+B0168,2.7,A,V2,britain_germany_scandinavia_translation_route,出版、教育者、组织和改革讨论形成英国观念向德国及北欧转译的候选链,相似性、继承宣称或后世评价不等于直接因果影响,补翻译、书信、旅行、课程、组织会议和地方再生产,ACCEPTED_WITH_TRANSFER_FOLLOWUP
+B0168,4.1,A,V2,arts_crafts_to_werkbund_translation_prehistory,工艺美术关于质量、机器、教育和社会改革的争论构成Werkbund形成的跨国前史,不能据此写成英国模式单向造成Werkbund,补Muthesius、Werkbund档案、德国企业和论争原文,ACCEPTED_AS_CORE_PREHISTORY
+B0168,4.2,B,V2,central_school_and_bauhaus_genealogy_claim,Central School和工艺教育可作为包豪斯课程谱系的待证线索,该书的连续谱系带有后见之明，不能独立证明包豪斯制度来源,补包豪斯课程、师生、书信、旅行和直接引用,ACCEPTED_WITH_DIRECT_TRANSFER_GAP
+B0168,4.6,B,V2,school_workshop_industry_transmission_comparison,学校—工场—产业关系可与呼捷玛斯及其他设计教育制度比较,英国和德国材料不能替代苏联学校的治理、课程和学生项目,补呼捷玛斯P0课程、招生、工作室、治理与作品档案,ACCEPTED_AS_COMPARATIVE_CONTEXT
+B0168,4.7,A,V2,canonical_migration_selection_and_reframing,跨国传播是选择、改写和制度适配，不应简化为风格影响,作者自身仍有英国源头到大陆完成的目的论,补接收方行动者、翻译差异、拒绝与失败案例,ACCEPTED_WITH_HISTORIOGRAPHIC_LIMIT
+B0168,7.6,C,V2,scandinavian_arts_crafts_genealogy,北欧工艺—工业关系可获得19世纪末至20世纪初的谱系入口,1971年概括过旧，不能承担战后北欧福利、工业或消费史,补北欧本地语言研究、企业、政策、劳动和战后对象,CONTEXT_ONLY

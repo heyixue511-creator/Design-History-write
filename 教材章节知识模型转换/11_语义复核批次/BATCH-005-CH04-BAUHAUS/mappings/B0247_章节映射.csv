@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0247,4.4,A,V2,workshop_system_comparison_antecedent,维也纳工坊的工场组织（多工种车间、颜色编码管理、Morris/Ruskin纲领）是德绍工坊制度比较的“前史”参照,工坊制度与包豪斯工坊制度是平行比较而非传承证据，本书不含包豪斯直接关联，比较命题由教材层建立,clean第559—563行、第552—558行,ACCEPTED_AS_CORE_SOURCE
+B0247,4.4,A,V2,education_workshop_link,工艺美术学校（Kunstgewerbeschule）的教育网络是工坊人员供给的制度基础，Moser/Hoffmann首班毕业生组成Wiener Kunst im Hause雏形,“80%工坊雇员出自该校”百分比数据未在本次抽查中于原文核实，仅确认教育-工坊链条本身,clean第547行；grep“80%”核实比例,ACCEPTED_AS_CORE_SOURCE
+B0247,4.4,A,V2,founder_split_dynamics,1907年Moser退出（财务、创作、个人身份三重原因）改变工坊管理结构，标志创始双人组时代终结,借款金额易被简化：申请10万克朗、实付5万克朗；Moser离职信为直接引语可作证据,clean第757—760行,ACCEPTED_AS_CORE_SOURCE
+B0247,4.4,A,V2,decline_liquidation_chronology,1913年150万克朗债务停摆、1914年清算重组为GmbH、1926年Primavesi之死、1932年终局清算构成工坊制度衰落的时间链,1926—1932年细节主要来自分析报告与年表，本次抽查覆盖至1915年,clean第763—766行；clean第3146行（1926年）、第3170行（1932年）,ACCEPTED_AS_CORE_SOURCE
+B0247,4.1,A,V2,enterprise_workshop_antecedent,维也纳工坊是“企业型工坊”前史样本：三位创始人组合（设计师+设计师+金主）、1904年柏林公开亮相、1914年公司化重组,Kallir明确工坊非自给自足商业企业，企业“成功”命题须与财务危机史实并置,clean第542—543行、第552—553行、第764行,ACCEPTED_AS_CORE_SOURCE
+B0247,4.1,B,V2,milchkuh_sponsorship_economy,“Milchkuh”（奶牛）私人赞助制度是工坊经济基础，一战摧毁此基础（帝国解体、工业基地丧失、恶性通胀）导致其衰落,赞助-衰落因果链为Kallir的强解释框架，经济数据量化不足，因果强度应降级表述,clean第748行、第763—766行,ACCEPTED_AS_CORE_SOURCE
+B0247,2.5,A,V2,jugendstil_vienna_inversion,维也纳语境对新艺术的独特颠倒——“维也纳人赋予拟人或植物形态以装饰特征”而非相反——解释其从新艺术迅速转向严峻几何,此为Kallir阐释性论点，作为风格史命题引用时标注作者判断,clean第273行,ACCEPTED_AS_CORE_SOURCE
+B0247,2.5,A,V2,gesamtkunstwerk_domestication,Gesamtkunstwerk从瓦格纳舞台转译为家庭空间（Bahr“房间像管弦乐队”）是维也纳工坊设计哲学核心，也是从唯美主义到新艺术语境的关键命题,概念阐释为主；Bahr引文在源文件中仅出现一次，不得称“反复引用”,clean第455行附近；第一章,ACCEPTED_AS_CORE_SOURCE
+B0247,2.5,A,V2,secession_workshop_institutional_link,分离派三大制度支柱（展览、博物馆、Ver Sacrum）与1897年分裂为工坊提供组织前提，工坊是分离派工艺取向者的制度延续,分离派与工坊的人员/机构承继明确，但两组织为不同法人实体，不混同为同一来源,clean第273行,ACCEPTED_AS_CORE_SOURCE
+B0247,4.7,B,V2,international_branch_expansion,1920年代工坊向Zürich、New York、Berlin开设国际分支并参加国际博览会，是战后区域转译与迁徙的尝试,分支经营成效未量化，Häusler改革失败说明转译不成功,clean第二章“THE FALL”部分,ACCEPTED_AS_CORE_SOURCE
+B0247,4.7,C,V2,late_20c_canon_reception,1980年代中期后现代复兴中Gwathmey Siegel等美国建筑师引用工坊几何母题，Kallir指出其将产品从Gesamtkunstwerk语境剥离的悖论,属接受史内容，主要来自引言/序言分析报告，为本书边缘议题,引言与序言分析报告对应原文,ACCEPTED_AS_CORE_SOURCE
+B0247,0.4,A,V2,artifact_visual_archive,250幅插图（55幅彩色）及家具、金属、玻璃、陶瓷、时装、纺织、平面艺术的产品门类叙述构成人工物史料档案,插图为图录性质，图注信息以原书为准；产品归属存在无法确定归属的情况,clean第570行；各章产品图注,ACCEPTED_AS_CORE_SOURCE
+B0247,0.4,A,V2,rosemark_trademark_evidence,Rosemark（玫瑰标记）1903年注册为工坊第一个商标，“WW”标志与设计师/工匠姓名缩写并置，是工坊企业化与品牌运作的人工物证据,商标制度证明品牌意识，不证明市场成功或产品质量,clean第2506行,ACCEPTED_AS_CORE_SOURCE
+B0247,0.6,A,V2,archive_oral_history_layering,企业档案史实（财务、诉讼、重组日期）与作者叙述框架、当事人后代口述（Primavesi之女“只想让艺术家做想做的事”）必须分层使用,口述回忆带利害立场（如Primavesi亲属雇用问题），档案事实优先,clean第794行,ACCEPTED_AS_CORE_SOURCE
+B0247,0.6,A,V2,production_vs_success_guard,工坊设立与产品生产不自动证明市场成功或审美改善——1906年诉讼、1909年止赎、1913年150万克朗负债、1926年破产构成反向证据链,本书经济史叙述即为此校准器，引用成功叙事时必须并置财务危机史实,clean第749—752行、第763—764行,ACCEPTED_AS_CORE_SOURCE
+B0247,0.6,B,V2,counterfactual_interpretive_claim,Kallir修正主义论点——一战是“切断发展进程的剧烈转折”而非自然终点，若战前条件持续工坊可能转向工业生产——属反事实推演,反事实判断是作者解释框架，非史实；作为史学观点引用时须标明出处层级,clean第二章“THE FALL”部分,ACCEPTED_AS_CORE_SOURCE

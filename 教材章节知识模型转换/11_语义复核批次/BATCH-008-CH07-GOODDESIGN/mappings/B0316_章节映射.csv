@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0316,7.1,A,V2,wartime_radar_system_integration,雷达—火控系统集成是战时技术—制度共构的核心史实：SCR-584 雷达、M-9 电指挥仪与 VT 引信组合实现防空火控自动化，并催生系统集成者角色,系统装备与战绩数据为档案史实；自动化最光辉时刻为作者框架命题,clean第39、71、174-184行：SCR-584标准化、1942盲射测试、Anzio与V-1战绩,ACCEPTED_AS_CORE_SOURCE
+B0316,7.1,A,V2,radar_operator_as_technician,雷达操作者从战场士兵被重构为阅读与操纵表征的技师（XT-1封闭控制车、PPI虚拟地图、pip matching），构成战时数字化感知与人机界面的原型,XT-1/PPI/操作者定义为档案史实；类似于今天与计算机交互为作者类比,clean第31-37行：pip matching、锥形扫描、XT-1封闭、PPI,ACCEPTED_AS_CORE_SOURCE
+B0316,7.1,A,V2,system_integrator_institutional_role,系统集成者（Getting 八项职责与七项特权）证明系统思维同时是制度安排，是系统工程制度化与战后系统承包商（RAND、MITRE、TRW）的起源,职责/特权清单出自1945.3档案；战后机构延续为作者推断,clean第116-152行：系统集成者职责与特权清单,ACCEPTED_AS_CORE_SOURCE
+B0316,7.1,B,V2,human_servomechanism_automation_justification,人的局限（判断失误、战斗狂热、反应迟缓、信息超载）被用作自动化合法性的论证资源，与人的伺服机构角色互为表里,Getting 致 Furer 四论点（1945.4.26）为档案史实；自动化也是对人的控制为作者分析命题,clean第158-168行：四论点清单、雷达信息负担与复员关联,ACCEPTED_AS_CORE_SOURCE
+B0316,7.1,B,V2,noise_system_holism,噪声使系统不可分解，系统大于部件之和（Hazen 1945）作为系统思维认识论命题产生于战时火控经验,T-10误差研究、Weaver信号/噪声类比为档案史实；信息一般量仅一句暗示,clean第65-69、196-200行：噪声、Weaver类比、Hazen命题、章末information,ACCEPTED_AS_CORE_SOURCE
+B0316,7.1,B,V2,tizard_mission_rad_lab,Tizard Mission（1940.9）腔磁控管转让与 MIT 辐射实验室建立是战时美英技术转移与雷达工业化的关键史实,事件与机构为档案史实；路径选择器式因果判断为P4推演，仅作路由参考,clean第27行：Tizard Mission、磁控管、Rad Lab成立,ACCEPTED_AS_CORE_SOURCE
+B0316,7.1,B,V2,postwar_knowledge_institutionalization,Rad Lab Series 27 卷与 Theory of Servomechanisms（James-Nichols-Phillips）将战时雷达/伺服知识教材化，构成战时技术和平转用的文献通道,1947-48出版物为档案史实；转用叙事须区分直接技术延续与知识扩散,clean第192、194行：Rad Lab Series、Getting引言,ACCEPTED_AS_CORE_SOURCE
+B0316,7.1,B,V2,mark56_digital_interface,Mark 56 全集成火控系统（Svoboda四杆计算机、Librascope弹道计算机、舱内操作台）是战时数字化人机界面的档案史实,1943设计/1947交付/从未实战为档案史实；其战后数字界面源头地位需谨慎表述,clean第105、112、114行：Mark 56技术构成、交付与服役,ACCEPTED_AS_CORE_SOURCE
+B0316,7.1,C,V2,automated_battlefield_seams,V-1对抗展示自动化战场的原型及其接缝：BTL报告揭示搜索/跟踪不可兼得、多源数据超载、手动跟踪不可替代,BTL欧洲评估（1944.7-8）为档案史实；自动化战场雏形为作者框架命题,clean第184、186行：BTL批评与集成建议,ACCEPTED_AS_CONTEXT_SOURCE
+B0316,7.1,C,V2,naval_buord_institutional_inertia,BuOrd分解式采办与保密承包商网络无法整合雷达与火控，显示军事采办制度对技术整合的阻碍,27种设计仅3种普及等为档案史实；保守评价部分依赖作者判断,clean第77-81行：stepchild叙事,ACCEPTED_AS_CONTEXT_SOURCE
+B0316,7.1,D,V2,civilian_conversion_inference,战时系统集成与自动化经验向民用（信息论、计算机）扩散仅为作者推断，本书不提供民用影响证据,民用影响在文本中仅以 information 一词暗示,clean第200行：章末information暗示,CONTEXT_ONLY
+B0316,7.3,C,V2,postwar_us_system_contracting_background,系统集成者到战后系统承包商的制度脉络是美国战后科技转民用（Good Design 体系之外）的制度背景,本书不涉及MoMA/Good Design/中产消费，仅提供战时制度起源,clean第116、192行：系统集成者角色与战后制度化,CONTEXT_ONLY
+B0316,7.7,X,V2,japan_reconstruction_not_covered,本书无日本内容，不适用于日本战后设计重建（7.7）,无任何日本史料；仅可作转用叙事的对照参照,无回查事项,EXCLUDE_AS_NOT_COVERED
+B0316,0.5,B,V2,evidence_types_archive_oral_history,OSRD档案、口述史（Getting 1996采访等）、Rad Lab Series技术出版物与作战报告展示战时军事技术证据的类型与证明力,本书为0.5正面案例；注意其民用证据缺位,clean第202行起NOTES：52条注释的史料构成,ACCEPTED_AS_CORE_SOURCE
+B0316,0.6,B,V2,institutional_bias_absent_actors,本书以辐射实验室/Getting为中心的视角体现机构偏差：BTL竞争方案与海军承包商逻辑着墨较少，前线炮手等缺席者无声音,为分析报告明确的叙事局限；可作证据偏差教学案例,clean第101、103、184行：7.6保密、BTL竞争、批评报告,ACCEPTED_AS_CORE_SOURCE
+B0316,0.2,D,V2,modernity_automation_dimension,自动化与系统思维可作为现代性技术维度的例证材料，但本书不讨论现代性概念本身,文本无现代性理论框架，仅间接关联,clean第11、200行：导言框架与章末信息暗示,CONTEXT_ONLY

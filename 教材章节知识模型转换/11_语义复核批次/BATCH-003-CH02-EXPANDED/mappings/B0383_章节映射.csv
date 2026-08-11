@@ -1,0 +1,12 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0383,0.3,B,V2,material_observation_moral_criticism_actor_method,现场、构造、装饰和历史文献如何被19世纪批评者组织为文明判断，可作史学案例,规范性道德推演不能升级为现代经验方法,与现代建筑史、劳动史、宗教史和物质分析对读,ACCEPTED_AS_ACTOR_METHOD_CASE
+B0383,0.5,A,V2,primary_actor_text_measurement_and_argument,Ruskin原文可证明其本人如何表述建筑、劳动、工艺和消费责任,本地只含两卷且OCR／图版不完整，当前仍为V2,核定纸本版次、卷页、图版、上下文和第三卷范围,ACCEPTED_AS_P0_ACTOR_TEXT_WITH_VERSION_LIMIT
+B0383,0.6,A,V2,religious_teleology_racialized_geography_worker_and_ocr_bias,宗教目的论、民族／地理本质化、工人证据缺口和数字本残损须进入审计,指出偏见不等于否定其历史影响，也不等于接受其结论,补同时代反对意见、劳动档案、地区研究与完整版本,ACCEPTED_AS_EVIDENCE_AUDIT
+B0383,1.3,A,V2,division_of_labour_judgement_and_execution,‘被分割的是人而非劳动’说明同期批评者如何理解构思、判断与重复执行的分离,不能据此证明所有工厂或中世纪工场的真实劳动关系,补工厂账目、工资、工时、技术、工人和行业材料,ACCEPTED_AS_CORE_ACTOR_ARGUMENT
+B0383,1.4,B,V2,stone_structure_ornament_material_and_distance,石材、构造、荷载、装饰取材与观看距离显示材料系统如何约束形式判断,图版缺失且测量未复核，不能直接采用具体视觉或数字结论,补扫描图版、建筑实测、修复记录和现代技术史,ACCEPTED_WITH_VISUAL_TECHNICAL_GAP
+B0383,1.5,B,V2,anonymous_workman_and_architect_control,工人的判断、变化与不完美被用来反对建筑师对制作的完全控制,这是Ruskin的伦理解释，不是匿名工人的自述或作者权事实,补工匠姓名、合同、工资、工场规制和制作痕迹,ACCEPTED_AS_ACTOR_CRITIQUE
+B0383,1.6,B,V2,architecture_decorative_art_workman_and_design_terms,architecture、ornament、design、workman等同期用法可补设计概念的19世纪语境,不能直接对应现代设计师职业分类,补同期词典、学校、企业和行业称谓,ACCEPTED_AS_CONCEPT_HISTORY_SUPPORT
+B0383,2.3,A,V2,nature_of_gothic_labour_freedom_and_consumer_duty,工人自由、不完美、劳动分工和消费者责任构成Ruskin劳动伦理的核心行动者文本,哥特形式不证明工人实际自由，宗教优越论不进入教材事实陈述,与Morris、企业史、劳动档案、批评者和对象材料对读,ACCEPTED_AS_CORE_P0_ACTOR_SOURCE
+B0383,2.5,B,V2,architecture_ornament_nature_and_total_environment,构造、装饰、自然形式和建筑整体的关系构成工艺美术总体环境的重要思想前史,不等于唯美主义、新艺术或具体室内的生产与使用史,补对象、室内、委托、工场、图像和用户材料,ACCEPTED_AS_INTELLECTUAL_PREHISTORY
+B0383,2.7,X,V2,racialized_style_genealogy_without_transfer_chain,不使用其希腊／阿拉伯／拜占庭／哥特‘血统’叙述证明跨境影响或地方现代性,地理—宗教本质化且缺贸易、人员、翻译、制作与接收方证据,改用跨区域建筑史、贸易、工匠迁移和地方档案,EXCLUDE_AS_TRANSFER_CORE_SOURCE
+B0383,15.4,C,V2,workman_judgement_as_distant_participation_genealogy,工人判断空间可作为参与式设计与劳动民主讨论的远距离思想谱系,19世纪规范论不能替代当代参与机制、权力与效果证据,补当代理论、项目、参与者和效果评估,CONTEXT_ONLY_AS_GENEALOGY

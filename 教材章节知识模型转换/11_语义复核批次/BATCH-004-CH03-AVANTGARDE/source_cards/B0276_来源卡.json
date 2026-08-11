@@ -1,0 +1,105 @@
+{
+  "source_id": "B0276",
+  "corpus": "book",
+  "folder_name": "Lissitzky, El; Arp, Hans (eds.)：Die Kunstismen = The Isms of Art, 1990",
+  "material_type": "同代“主义”分类手册（P0行动者文献：各条目为行动者自我定义，但“主义”分类本身是编者的回顾性建构，1924年回望1914—1924）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Lissitzky, El; Arp, Hans (eds.)：Die Kunstismen = The Isms of Art, 1990_clean.md",
+  "clean_source_sha256": "99A67BC95302DAF9E5B21FAC161B5A84CCB8016CEA2B439A1272F7A2FE9C2813",
+  "duplicate_group": "与B0121（达达）、B0277（俄国构成主义）、B0222（俄国前卫）、B0007（蒙太奇）共享行动者文本与对象；同一对象只计一份P0，本书条目在教材中宜作“行动者自我定义”对照而非独立证据链",
+  "files": [
+    {
+      "report_file_count": 25,
+      "report_characters": 197681
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "3.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "lissitzky_editor_proun_constructivism_self_classification"
+    },
+    {
+      "section_id": "3.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "ism_taxonomy_and_neoplasticism_standard_phrase"
+    },
+    {
+      "section_id": "3.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dada_self_definition_by_arp"
+    },
+    {
+      "section_id": "3.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "trilingual_publishing_plate_network"
+    },
+    {
+      "section_id": "3.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "futurism_boccioni_self_definition"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "plate_system_as_visual_artifact_archive"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "contemporary_ism_manual_as_evidence_type"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "editorial_bias_and_absences"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "lissitzky_book_typography_and_grid"
+    },
+    {
+      "section_id": "3.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "war_death_marks_and_urban_dynamism"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "首版年份：封面与版权页印1924（年份序列顶端），实际1925年1月由Eugen Rentsch发行；分析报告沿用“1924年初版”系封面年份，引用须以1925为准",
+    "“主义”分类是编纂者的分类行为而非客观历史分期：序列位置、篇幅分配、匿名与否、讽刺语气均隐含价值判断，不得把条目当作各运动的等权官方定义",
+    "条目为压缩到1—3句的自我定义，无历史语境与文献出处（仅署名），运动内部分歧被抹平（如构成主义条目匿名，未呈现塔特林-罗德琴科生产主义与加博路线的争论）",
+    "三语版本存在刻意不对等，跨语言引用须注明版本；部分英语译文带翻译腔，不可当作标准英语文本",
+    "clean底本中图版为文字列表与占位，图像视觉证据须回原书核对；OCR存在排版噪声",
+    "1990年重印本新增的后记与注释不属于1925年原版，引用时须区分1925正文与1990学术框架，避免时代错置",
+    "与B0121、B0277、B0222、B0007共享达达、构成主义、蒙太奇及李西茨基/阿尔普文本等对象：同一对象只计一份P0，本书条目宜作行动者自我定义对照而非独立证据链",
+    "知识涌现模型（127知识元/486链接的EI、GEM等计算）是P4推演：其结论（如“自我经典化装置”“讽刺梯度的统计显著性”“俄德过度表征”）须经clean原文行号回查与人工核验后才能进入教材表述，不得直接引用其数值",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1行：三语标题、1924—1914递减年份、Eugen Rentsch Verlag 1924/Reprint 1990 Lars Müller——版本双重时间性",
+    "clean第2—24行：艺术家-作品索引约76条，国籍缩写、†死亡标记（Boccioni、Marc、Popowa、Rosanowa）、作品年份——图版系统与跨国名单",
+    "clean第26—38行：SCHRIFTEN书目14种（Boccioni、Tzara、Huelsenbeck、Kandinsky、Lissitzky《Überwindung der Kunst》、Malewitsch、Mondrian、Ozenfant-Jeanneret、Schwitters、Punin塔特林专论等）",
+    "clean第39—42行：马列维奇总纲德语版——“Die Gegenwart ist die Zeit der Analysen…das System der Einheit aufzubauen”，署名MALEWITSCH",
+    "clean第44—54行：KUBISMUS（阿波利奈尔）与FUTURISMUS（薄丘尼“废除静止与静态、姿态是动态感觉本身的永恒化”）——3.2核心条目",
+    "clean第56—57行与第99—101行：表现主义“从立体主义与未来主义剁碎的德意志神秘牛排”、形而上画派“用三条牛尾丈量无限”——匿名讽刺定义",
+    "clean第163—168行：DADAISMUS阿尔普自我定义（“魔幻排便/给维纳斯灌肠/拉奥孔退场/将肯定与否定推至荒谬/为了无所谓而破坏”）——3.3核心",
+    "clean第175—176行与第213—214行：NEOPLASTIZISMUS蒙德里安“水平-垂直分割矩形获得宁静、宇宙与个体的二元平衡”——3.5核心",
+    "clean第220—233行：PROUN“从绘画到建筑的换乘站”（李西茨基）＋KONSTRUKTIVISMUS“技术棱镜、直接工作在铁木玻璃、数学与艺术边界不可确定”（匿名）——3.4核心",
+    "clean第284—316行：1990年后记与Anmerkungen（Avantgarde概念史、Rodrigues 1825、《MERZ》8/9期Nasci、Buch neuer Künstler 1922）——1990学术框架"
+  ]
+}

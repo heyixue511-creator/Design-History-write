@@ -1,0 +1,90 @@
+{
+  "source_id": "B0040",
+  "corpus": "book",
+  "folder_name": "Beckert, Sven：Empire of Cotton：A Global History, 2014",
+  "material_type": "全球商品史与资本主义史学术专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Beckert, Sven：Empire of Cotton：A Global History, 2014_clean.md",
+  "clean_source_sha256": "874E5FABC564C7CE8944AEC2DF6599CF05E79BD074C0D71317665F9407D81A44",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 99,
+      "report_characters": 1198814
+    }
+  ],
+  "report_structure": {
+    "report_file_count": 99,
+    "report_characters": 1198814,
+    "review_basis": "overall_and_relevant_chapter_reports_plus_knowledge_discovery_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "recover_coerced_and_displaced_labor"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "multiple_preindustrial_cotton_worlds"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "machines_states_and_scale"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "labor_control_and_process_separation"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cotton_material_supply_chain"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "hidden_labor_and_merchant_state_network"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "uneven_regional_industrialization"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumption_trade_and_production"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "cotton_crossborder_political_economy"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "战争资本主义是作者的解释概念，需同技术、生态、人口和区域研究对话。",
+    "宏观全球叙事仍以欧洲／北大西洋行动者为因果枢纽，中国及若干区域较薄。",
+    "对纹样、设计职业、消费现场和对象形式的材料不足，不能代替设计史专门研究。",
+    "知识涌现报告的‘暴力隐形化’等属于后续分析假设，不是原著明示命题。",
+    "Clean原文仅作关键段落定位；未完成全篇、版次、图版、注释和所引P0材料核验。"
+  ],
+  "original_spot_checks": [
+    "clean第66—72行：帝国扩张、奴隶劳动、机器和工资劳动被置于同一全球生产体系。",
+    "clean第123—147行：作者界定战争资本主义及其与工业资本主义的关系。",
+    "clean第89行及上下文：棉花在1000—1900年作为重要制造业的宏观判断，仍须核作者依据。"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "source_id": "B0235",
+  "corpus": "book",
+  "folder_name": "Jonathan M. Woodham：《Twentieth Century Design》",
+  "material_type": "20世纪设计通史（单卷本通论）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jonathan M. Woodham：《Twentieth Century Design》_clean.md",
+  "clean_source_sha256": "EDEE859CF28AB7D495CD4768C971F87CB01112FA81A91197CCE01949D8C5BFC0",
+  "duplicate_group": "与B0234（同作者《Dictionary of Modern Design》，OUP 2004）共享CoID、MoMA Good Design、HfG Ulm、G-mark等条目对象，词典条目可互证但各自独立计源；与B0101/B0102重复的通用史实（如包豪斯、Utility等通行叙述）只计一份",
+  "files": [
+    {
+      "report_file_count": 39,
+      "report_characters": 1272482
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "7.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "council_of_industrial_design_establishment"
+    },
+    {
+      "section_id": "7.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "britain_can_make_it_1946"
+    },
+    {
+      "section_id": "7.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "festival_of_britain_1951"
+    },
+    {
+      "section_id": "7.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "good_design_label_britain"
+    },
+    {
+      "section_id": "7.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "council_for_art_and_industry_predecessor"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "moma_good_design_exhibitions"
+    },
+    {
+      "section_id": "7.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "us_postwar_consumer_boom"
+    },
+    {
+      "section_id": "7.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "hfg_ulm_curriculum_closure"
+    },
+    {
+      "section_id": "7.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "ulm_braun_design_link"
+    },
+    {
+      "section_id": "7.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "rat_fuer_formgebung_braun"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "g_mark_miti_design_promotion"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "japanese_inhouse_design_system"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "japan_design_myth_debunking"
+    },
+    {
+      "section_id": "7.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "us_occupation_design_influence"
+    },
+    {
+      "section_id": "7.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "wartime_control_and_peacetime_conversion"
+    },
+    {
+      "section_id": "7.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "nordic_design_institutional_base"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "secondary_synthesis_narrative"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "source_bias_corporate_discourse"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "institutional_self_myth_making"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "二手综合叙述：通史性质决定具体数字（拨款、销量、人数、年份）与判断须回查原注，不得直接作一手证据使用",
+    "西方中心：作者自认以西方工业化世界为中心，日本仅第5、6章，中国仅一处提及，殖民与后殖民设计政治未处理",
+    "1997年初版，未覆盖1990年代后期以来的设计发展，部分评价反映1990年代中期学科状态",
+    "clean原文为OCR文本，存在标题残缺与个别专名/数字讹误（如Twentiet esign、UIm、1,594等），引用须对照原书",
+    "日本章节依赖企业史与二手来源，Woodham明示松下1951年访美后设立所谓日本首个设计部门之说带传闻维度，各公司设计部门设立年份须逐条回查",
+    "分析报告指出原稿DIA/DWB会员数据曾颠倒（应为DWB 3,000、DIA 820），使用实体索引中的数字须谨慎核对",
+    "机构推广活动（CoID、MITI、Rat für Formgebung）不等于设计实际普及，映射命题不得将制度史实直接外推为工业采用或公众接受",
+    "知识涌现模型（五条跨章线索、NEP计算、隐含链接等）为P4推演，仅作语义路由参考，本复核全部映射等级由语义证据独立裁定，未采用其任何章节指派",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第17行：版权页确认© Jonathan M. Woodham 1997，First published 1997 by Oxford University Press，平装ISBN 0-19-284204-8",
+    "clean第25行：目录确认十章结构与Oxford History of Art系列定位，第5章Reconstruction and Affluence、第6章Multinational Corporations and Global Products、第7章Design Promotion, Profession, and Management",
+    "clean第1290行：1944年末Hugh Dalton爵士设立CoID，主席为纺织实业家Thomas Barlow爵士",
+    "clean第1295、1306行：BCMI 1946展览由CoID组织、伦敦举行；1951年英国节中CoID在主任Gordon Russell领导下遴选伦敦、格拉斯哥、阿尔斯特主要展场全部展品",
+    "clean第1908行：CoID 1944年伦敦成立，初始拨款55,000英镑，为预期中的战后出口运动做准备",
+    "clean第1774、1778行：Kaufmann于1950—1955年在MoMA举办年度Good Design展，1951年展由MoMA与芝加哥Merchandise Mart合作（艺术与商业利益结合）",
+    "clean第1794—1795行：Good Design在欧洲制度化——CoID 1944年成立、德国Rat für Formgebung经1951年议会授权于1953年成立；CoID 1957年启动Good Design Award Scheme，1956年开设Haymarket设计中心",
+    "clean第1977、2013—2014行：HfG Ulm教学1953年开始、1968年关闭（副标题1953—1969）；巴登-符腾堡州政府令其与低级别工程学院合并，师生为保地位与自主选择关闭",
+    "clean第1933、1941、1948行：G-Mark由通产省设计促进委员会1957年设立（东芝电饭煲为首批获奖者之一）；MITI 1959年设设计部门；JIDPO 1969年仿照英国CoID成立",
+    "clean第1186—1187行：MoMA 1942年Useful Objects in Wartime展；Woodham指出MoMA品味制造者所传教条与Utility准则类似，同样未能俘获日常消费者的想象",
+    "clean第1617行：第6章评价困境原文——若证据权重来自设计行业自身则成问题，因设计顾问与设计媒体日益需要说服商界相信设计的经济作用",
+    "clean第1885行：Council for Art and Industry的1937年报告《Design and the Designer in Industry》出版一年后，5,000册印量仅售出1,594册，佐证国家推广影响力有限"
+  ]
+}

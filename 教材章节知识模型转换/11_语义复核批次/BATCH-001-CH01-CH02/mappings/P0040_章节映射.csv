@@ -1,0 +1,9 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0040,0.5,A,V2,archive_publication_plate_chain,日记、草稿、图版、印刷与版次材料可重建设计知识出版链,文章复述不能替代未直接核验的档案和首版图版,回Cole日记、RIBA草稿、V&A预备图及首版,ACCEPTED_WITH_PRIMARY_FOLLOWUP
+P0040,0.6,B,V2,authority_and_infallibility_rhetoric,所谓科学和自然原则也可构成知识权威修辞，应审查其排除与等级化效果,这是Jespersen借用Wihl形成的解释，不是Jones自称,补后殖民研究、来源社群与反向接受,ACCEPTED_AS_INTERPRETATION
+P0040,0.7,B,V2,global_coverage_and_context_loss,《语法》的全球覆盖通过抽离语境、重绘和网格化形成,覆盖广不等于去殖民或关系史；形式并置不证明传播,补对象原境、采集与地方史,ACCEPTED_WITH_LIMITS
+P0040,1.6,A,V2,grammar_originality_and_design_theory,37条命题构成19世纪装饰设计理论与原创性争论的核心文本,论文支持的是理论和处理的原创性，不是所有图样由Jones原创,分别核命题、图版来源、协作者和后期作品,ACCEPTED_WITH_ATTRIBUTION_LIMIT
+P0040,2.1,B,V2,crystal_palace_origin_context,Cole圈、Crystal Palace与设计改革网络参与了该书的生成,不能由成书史替代1851博览会完整历史,补Cole档案、展览目录和同期批评,ACCEPTED_AS_POSTHISTORY
+P0040,2.2,A,V2,design_reform_publication_and_teaching,《语法》把改革机构、教学原则、彩色复制和设计实践连接起来,传播广与教育有效是不同命题，后者尚缺使用证据,补学校借阅、课程、学生作业和事务所使用记录,ACCEPTED_WITH_OUTCOME_GAP
+P0040,2.6,B,V2,plate_selection_and_global_classification,图版来源比例、重绘和编排可解释非欧洲装饰如何进入英国设计知识系统,作者的‘视觉学术无可挑剔’属评价且未处理全部殖民语境,补采集史、原对象与来源社群材料,ACCEPTED_WITH_COUNTERSOURCE_REQUIRED
+P0040,2.7,B,V2,precedent_to_new_design,从旧例提取原则并生成新设计是Jones体系所宣称的转译机制,不能由Templeton地毯个案证明普遍有效或文化上互惠,补具体对象、图版、委托和接收史,ACCEPTED_AS_SUPPORT

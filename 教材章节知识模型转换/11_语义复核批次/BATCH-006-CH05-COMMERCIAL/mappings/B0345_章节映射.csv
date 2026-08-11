@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0345,5.5,A,V2,consultant_designer_profession,两次大战之间“consultant designer for industry”概念成熟：设计师职责是“creating sales”，需技术+文化+公众意识三重资质；美国咨询设计师多数时间投入redesign项目,职业定义与时间锚点为原文引文（clean第582、586、604行）；“多数时间投入redesign”为修正性证据,回查Ch3.2（clean L582-607）,ACCEPTED_AS_CORE_SOURCE
+B0345,5.5,A,V2,designer_culture_emergence,设计师文化（设计师名字为对象/形象/环境附加价值）随第一代美国咨询设计师诞生，后经明星化、设计思维演进,Ch3/Ch8双章互证，属通史框架性命题,回查Ch8设计师文化成熟段与Foster《Design and Crime》批判的对应,ACCEPTED_AS_CORE_SOURCE
+B0345,5.5,A,V2,international_diffusion,美国咨询设计模式战后向英（Keith Murray、CoID）、瑞典（Kåge、Sason）、意大利、日本扩散，各国设计促进机构介入,各国案例为通史综述，细节深度不一（英瑞较实、日较略）,回查各国设计促进机构成立史实,ACCEPTED_AS_CORE_SOURCE
+B0345,5.5,A,V2,gender_correction,女性设计师（Gray、Perriand、Reich、Cooper）被正史遮蔽，本书以Anscombe《A Woman's Touch》等补写——职业史的性别修正命题,补写依赖女性设计史二手文献（Anscombe、Kirkham、Callen）,回查Kirkham主编《Women Designers in the USA》相关章节,ACCEPTED_AS_CORE_SOURCE
+B0345,5.2,A,V2,consumption_as_modernity_engine,消费是现代性的发动机：Veblen炫耀性消费→百货商店/邮购/广告/包装制度→中产女性消费者与品味扩张,理论以Veblen为纲、制度案例依赖Miller《Bon Marche》、Strasser等消费史二手文献,回查百货商店/广告制度的一手档案来源,ACCEPTED_AS_CORE_SOURCE
+B0345,5.2,B,V2,american_consumer_system,美国大众消费体系：JWT等广告公司引入心理学、好莱坞输出美国生活方式影像、汽车大众化、消费信贷,通史综合，美英法制度对照为二手综述,回查JWT心理广告史料与Gartman《Auto Opium》论证,ACCEPTED_AS_CORE_SOURCE
+B0345,5.2,B,V2,streamlining_commercial_modernity,流线型是商业现代性风格：1930年代普及（塑料模具工艺）、从汽车造型扩展到家电办公机具直至建筑；与Ch4现代主义霸权构成二分,“商业现代性”为分析性标注，原文以streamlining/modernistic呈现；流线型起源与商业挪用之辨需回查,回查流线型从航空/汽车向家电扩散的档案案例（Meikle）,ACCEPTED_AS_CORE_SOURCE
+B0345,5.3,B,V2,styling_and_planned_obsolescence,造型（styling）是“美国对艺术问题的回答”：GM Harley Earl企业造型部与年款换型/计划性过时把设计纳入销售工程,Earl/GM案例为二手转述；计划性过时的因果权重是通史争议点,回查GM造型部史（Earl档案）与计划性过时批评文献,ACCEPTED_AS_CORE_SOURCE
+B0345,5.3,B,V2,advertising_desire_engineering,广告从信息传递转向欲望制造：市场研究与消费者心理学（JWT）、包装品牌化使“产品变为品牌”；Bel Geddes按市场细分设计Philco四种收音机,广告转型论据自Marchand《Advertising the American Dream》、Ewen等二手文献,回查Philco案例原始出处（Bel Geddes档案）,ACCEPTED_AS_CORE_SOURCE
+B0345,5.7,B,V2,design_ethics_turn,商业设计的伦理争议：从Papanek《Design for the Real World》到可持续、包容性、社会创新，21世纪设计被重新定义为“社会-环境责任”,第三版新增的最强价值命题；伦理转向为作者立场性论述，非档案事实,回查Papanek原文与Design Council可持续案例（2012网络档案）,ACCEPTED_AS_CORE_SOURCE
+B0345,5.7,B,V2,celebrity_designer_critique,对设计师明星化与消费主义合谋持保留：引Foster《Design and Crime》批判，承认塑料等新材料“解放与浪费”并存,批判性综述，属通史解释框架而非档案证据,回查Foster《Design and Crime》论点与本书Ch8.2对应段落,ACCEPTED_AS_CORE_SOURCE
+B0345,0.2,B,V2,modernity_concept_dualism,现代性=工业化城市化消费化的社会文化条件（1900-1939），以消费为首要体验途径；Sparke“现代主义vs商业现代性”二分框架须标注为分析性框架,二分框架为语义复核层标注，原文无该术语；Part1/Part2时段划分是本书结构事实,回查Ch1/Ch4对照段落以确认二分在原文的呈现方式,ACCEPTED_AS_CORE_SOURCE
+B0345,0.3,B,V2,design_history_deheroization,关系史转向：设计史应“去英雄化”，从天才设计师转向消费与日常物质文化；设计是生产-消费-身份的中介环节,学科史综述（Pevsner/Giedion/Banham谱系），属方法论声明,回查Introduction对1980年代设计史转向的论述原文,ACCEPTED_AS_CORE_SOURCE
+B0345,5.2,B,V2,americanization_of_europe,战后“美国化”：营销导向设计、咨询设计职业与流线型风格一同跨越大西洋，影响欧洲物质文化；与斯堪的纳维亚/意大利/日本的地方抵抗构成拉锯,美国化叙事为通史综合（引Masson & Thorburn），地方抵抗案例较简,回查De Grazia美国化研究与本卡5.2的对应,ACCEPTED_AS_CORE_SOURCE

@@ -1,0 +1,15 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0035,0.2,B,V2,aestheticism_as_contested_modern_design_prehistory,唯美主义可被视为维多利亚现代设计改革的一种自觉实践,不得把作者的前史框架写成通向新艺术或功能主义的必然阶段,与较新唯美主义、新艺术及多线现代性研究对读,ACCEPTED_AS_HISTORIOGRAPHIC_POSITION
+B0035,0.3,A,V2,cross_media_form_social_and_commercial_history,跨媒介对象须同制度、商业、传播与社会话语共同解释,运动的情绪／氛围统一性是作者分析概念，不是对象自然具有的属性,逐对象核对制作、销售、使用和反例,ACCEPTED_AS_METHOD
+B0035,0.5,A,V2,periodicals_hearings_catalogues_memoirs_archives_and_objects,期刊、听证、目录、回忆、讲演、档案与实物可形成互证链,讽刺、广告和回忆录各有立场与记忆偏差，图版仍须返回原件,核定版次、页码、图版、档案号与传播范围,ACCEPTED_AS_SOURCE_METHOD
+B0035,0.6,A,V2,museum_survival_class_gender_empire_and_media_bias,精英藏品、签名对象、媒体讽刺和英国中心造成系统性可见性偏差,作者识别普通商品并不等于保存与使用缺口已经补齐,补销售、家庭清单、工人、女性、来源社会与普通对象,ACCEPTED_AS_EVIDENCE_AUDIT
+B0035,1.5,B,V2,art_industry_signed_workers_and_distributed_authorship,艺术陶瓷、印刷和商业制造显示设计、制作、签名、企业与销售的分工,署名不等于全部作者权，女性劳动与工资／职位材料不足,补工厂账册、工序、工资、商标、订单和对象标记,ACCEPTED_AS_ACTOR_SUPPORT
+B0035,1.6,B,V2,art_prefix_aesthetic_designer_and_commercial_category,‘art’前缀、审美家和专业设计者说明艺术制造与设计身份的概念竞争,标签的商业扩散不能证明职业制度已经稳定,补行业名录、职位、学校、协会、目录和合同,ACCEPTED_AS_CONCEPT_HISTORY_SUPPORT
+B0035,2.3,B,V2,social_mission_labour_ethics_and_market_conversion,社会改良、劳动伦理、工业框架手工与高价／奢侈化形成内在张力,社会使命多由设计者与评论者陈述，不能证明劳动或大众生活实际改善,与工资、价格、产量、劳动者和消费者材料互证,ACCEPTED_AS_REFORM_CONTEXT
+B0035,2.4,B,V2,liberty_catalogues_art_industry_and_taste_marketing,Liberty、商业目录和‘art’标签显示商店如何分类并营销审美生活方式,不是百货制度、信用或消费者接受的完整研究,与B0006、B0305及销售／顾客材料对读,ACCEPTED_AS_AESTHETIC_RETAIL_SUPPORT
+B0035,2.5,A,V2,aesthetic_movement_total_interior_fashion_print_and_art_nouveau_prehistory,建筑、室内、家具、服装、陶瓷与印刷共同构成唯美主义整体环境,‘Art Nouveau序曲’是作者中心命题，形式相似不自动证明直接传播,逐案例补接触、展览、出版、交易、制造与地方改写,ACCEPTED_AS_CORE_SOURCE_WITH_TELEOLOGY_AUDIT
+B0035,2.6,X,V2,british_aesthetic_history_without_colonial_experience,不以该书证明殖民分类、殖民生产者经验或帝国展示效果,日本与其他外来物主要从英国收藏、展示和消费端出现,改用殖民档案、贸易强制、来源社群和被展示者材料,EXCLUDE_AS_COLONIAL_CORE_SOURCE
+B0035,2.7,A,V2,japanese_goods_prints_textiles_exhibitions_retail_and_redesign,日本物品经贸易、展览、收藏、商店、印刷和英国再设计形成多环节传播链,‘影响’仍以英国接收端为主，1850年代优先权和直接传播须回P0核定,补日方生产／出口、外交、贸易、设计者接触和地方使用,ACCEPTED_AS_CORE_TRANSFER_SOURCE_WITH_SOURCE_SIDE_GAP
+B0035,3.6,B,V2,childrens_books_cards_colour_printing_and_typography_prehistory,童书、贺卡、套色印刷与版面不对称构成现代平面传播的19世纪前史,不是先锋排版或大众媒体制度的完整专史，图像尚未逐件复核,补印刷工序、出版档案、版本、发行、读者和实际图版,ACCEPTED_AS_GRAPHIC_PREHISTORY
+B0035,11.6,C,V2,satire_media_typing_and_style_commercialization_prehistory,讽刺媒体、类型化人物与商业标签可作为亚文化被媒介化和市场化的长时段比较,审美运动不是20世纪亚文化，媒体退场不等于实践消失,只作比较并补参与者、场景、传播、消费和反例,CONTEXT_ONLY
+B0035,12.6,B,V2,women_craft_workers_fashion_and_signature_visibility,女性陶艺者、刺绣者、服装参与者与签名制度显示性别化设计劳动的可见与遮蔽,零散人物不能代表女性劳动结构或实际职业改善,补工资、职位、训练、家庭劳动、企业档案和女性自述,ACCEPTED_AS_GENDERED_LABOUR_SUPPORT

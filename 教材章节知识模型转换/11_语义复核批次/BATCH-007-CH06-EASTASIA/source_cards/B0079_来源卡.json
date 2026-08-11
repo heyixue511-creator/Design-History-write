@@ -1,0 +1,129 @@
+{
+  "source_id": "B0079",
+  "corpus": "book",
+  "folder_name": "Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》",
+  "material_type": "印刷史专史（企业档案驱动）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》.md",
+  "clean_source_sha256": "E93109DA0EFF6CE8500524EABACF913BCF0FD2D1429EE1278772E25A0FCF93D4",
+  "duplicate_group": "与B0505/B0469等共享上海印刷/书籍装帧对象（商务印书馆、石印书、点石斋图像、书籍装帧图像材料）；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 13,
+      "report_characters": 136183
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "6.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "lithography_first_tech_choice"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "commercial_press_hub"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "textbook_war_tripod"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "printing_working_class"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "gutenberg_analogy"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "textbook_market_growth"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "bookseller_consumer_economy"
+    },
+    {
+      "section_id": "6.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "visual_advertising_material"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "local_machine_manufacture"
+    },
+    {
+      "section_id": "6.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "technology_transfer_1807_1930"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "production_to_consumption_chain"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "archive_evidence_types"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evidence_bias_awareness"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "institutional_innovation_timing"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "“印刷资本主义”概念的操作化仍有模糊地带：“机械化”作为区分标准缺乏刚性边界，石印是否达到所需机械化程度全书未给出明确判据",
+    "工人/底层视角不均衡：第三章学徒口述丰富，但第二章石印业工人几乎无声，第四章编译所编辑/校对/装订工人付之阙如",
+    "国家角色因果分析偏晚：清廷1904年《公司律》与版权法出现“先有企业实践后有国家立法”的时间错位，作者注意到但未充分展开",
+    "日本因素分散而不系统：金港堂1903年注资商务印书馆为重要发现，但被安置在企业史小节，未作为中日印刷技术-资本互动独立框架展开",
+    "“文化街”作为空间范畴半途而废：福州路多次出现但缺乏独立的城市空间政治分析",
+    "数据依赖存在单边来源风险：部分统计依赖企业自报与海关数据；1932年日军轰炸摧毁宝山路总厂与东方图书馆导致企业档案残缺",
+    "概念边界与修辞类比须标注：“谷登堡在上海”为书名性修辞类比（中国在谷登堡前已有千年雕版文化），“文化决定了技术”为作者命题而非档案事实",
+    "知识涌现模型（P4推演）：“知识涌现分析”四份报告对知识元语义、语链网络与涌现计算的内容属于P4推演，仅作语义路由",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第256行：商务印书馆《辞源》1915年出版；谷登堡谱系与对比（“谷登堡在上海”类比）",
+    "clean第268行：谷登堡修辞类比与中国雕版文化千年传统的对比",
+    "clean第356行：文化街（福州路）位于外滩金融区与南京路/广东路奢侈品街区之间，象征书业在上海消费经济中的暧昧位置",
+    "clean第163行：土山湾石印机图（1876）；点石斋1877年商业化",
+    "clean第145、171行：插图目录（印刷机、字体、厂房、广告、地图、肖像）",
+    "clean第908-910行：商务印书馆为技术引进中枢——19种媒介中13种、21种印刷机中15种首次在沪使用",
+    "clean第1875-1880行：教科书市场爆炸性增长——全国学生1905年10万→1937年1300万，学费支出2100万→7300万元",
+    "clean第2349-2376行：印刷工人阶级形成与罢工（1925/1927年），茅盾《右第二章》《少年印刷工》首次以印刷工人为主角书写",
+    "clean第385-402行：生产-中介-消费完整产业链（铸字→排版→印刷→装订→编辑→发行→零售→消费）",
+    "clean第908-910行：金港堂1903年注资商务印书馆（企业史事实）"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0492,4.7,A,V2,core_evidence,包豪斯在中国的接受是选择性重组：四段论（初晤—曲折—误读变体—扬弃），核心是'中国的设计界追求民生改善与现代化的自己的历史',档案（梁思成信、四定方案）与编者导言分层使用,回查clean第83—180行原文引述,ACCEPTED_AS_CORE_SOURCE
+B0492,4.7,A,V2,indirect_contact_early,中国最早经日本、法国间接渠道接触包豪斯：陈之佛文无Bauhaus字样仅Breuhaus、庞薰琹柏林考察、郑可1931年参观,属间接接触证据，不构成直接影响命题,回查clean第83、87行,ACCEPTED_AS_CORE_SOURCE
+B0492,4.7,A,V2,canon_three_nodes,正典建构三节点：圣约翰建筑系1942年引进包豪斯体系、同济文远楼1953年、梁思成1945年信倡Bauhaus方法并改革清华教学,建筑教育领域的制度转译证据充分,回查clean第113、117、121行,ACCEPTED_AS_CORE_SOURCE
+B0492,4.7,B,V2,uniqueness_claim_editorial,'包豪斯与中国的关系比世界上任何国家都要独特'是编者（杭间导言）立场命题，属纪念文献展的价值判断,仅作编者立场引用，不得当作档案事实,核对clean第180行上下文,ACCEPTED_AS_CORE_SOURCE
+B0492,4.7,B,V2,three_constitutes_misreading,'三大构成'系日本构成教育的中国化形态，被误认为包豪斯基础课（康定斯基/伊顿先入华造成错觉），21世纪被扬弃——转译中的概念错位典型案例,'既非出自包豪斯，又背离了现代设计艺术的要求',回查clean第170行,ACCEPTED_AS_CORE_SOURCE
+B0492,4.7,B,V2,chen_zhifo_self_correction,陈之佛接受证据链的自我修正：张道一称其'介绍包豪斯'，但原文无Bauhaus字样、系对日文资料汇编——证明接受史须区分直接接触与间接汇编,分析报告已如实标注此矛盾,核对clean第83行'作者附记',ACCEPTED_AS_CORE_SOURCE
+B0492,6.5,A,V2,japan_intermediary,日本作为东亚中介：水谷武彦译'构成'自Gestaltung、高桥正人建立构成学科并'在教育制度上根本改革'、朝仓直巳'三大构成'经香港传入内地,构成教育制度转译链条完整,回查clean第64行,ACCEPTED_AS_CORE_SOURCE
+B0492,6.5,A,V2,hong_kong_second_intermediary,香港作为第二层中介：吕立勋1979年在中央工艺美院开'设计中国'讲座（王无邪构成理论）、1980年'设计捌拾'展、广州美院1986年设构成专业,香港—内地教育中介证据,回查clean第64行细节,ACCEPTED_AS_CORE_SOURCE
+B0492,6.5,B,V2,education_downward,教育制度向下延伸：武井胜雄将基础训练实施于小学、1934年与川喜田炼七郎编《构成教育大系》、川喜田的'建筑工艺研究所'培养出龟仓雄策,中小学构成教育为制度转译的纵深证据,核对clean第64、68行,ACCEPTED_AS_CORE_SOURCE
+B0492,6.1,B,V2,spatial_transfer_chain,东亚转译空间链条：日本→香港→内地（朝仓直巳《艺术·设计的平面构成》90年代初从香港传入，与色彩/立体构成合称'三大构成'）,转译路径双向（日本反向影响中国）,回查clean第64、170行,ACCEPTED_AS_CORE_SOURCE
+B0492,6.7,B,V2,nationalization_case,区域转译的民族化个案：柳宗理（水谷武彦学生、柳宗悦之子）将功能主义与民艺传统结合，蝴蝶凳1957年获米兰三年展金奖——'用就是美',个案性证据，不作普遍命题,核对clean第64行附近L73,ACCEPTED_AS_CORE_SOURCE
+B0492,0.7,B,V2,five_translations_model,全球接受的不对称模型：乌尔姆科技融合并'与包豪斯保持距离'、美国去政治化演变为国际主义风格'背离初衷'、东德视作社会主义理想、日本构成化、中国扬弃——同一遗产五种转译,转译与不对称的全球案例集,回查clean第30行艾舍引文,ACCEPTED_AS_CORE_SOURCE
+B0492,0.7,B,V2,museum_legacy_claim,'包豪斯的遗产主要在博物馆里，而不在目前的技术与经济中'（艾舍1987）——遗产存在于各国转译路径而非复制的编者立场支撑,属乌尔姆当事人观点转引，非本书结论,核对clean第30行转引链,ACCEPTED_AS_CORE_SOURCE
+B0492,0.6,B,V2,evidence_layering_three_levels,证据分层规则示范：编者/主编立场（许江总序、杭间导言）与档案史料（梁思成信影印、四定方案、718厂档案、座谈会文件）须分层；直接接触、制度转译、正典建构三级证据边界清晰,各段证据类型不同须分别标注,回查clean第113、121行与第180行,ACCEPTED_AS_CORE_SOURCE
+B0492,0.6,C,V2,ocr_damage_note,部分一手文献OCR损坏严重（clean第129行邵大箴原文乱码等），细节引用须回查原刊；个别转引著录有瑕疵（克雷格年份）,OCR损伤为实证；分析报告已如实标注,回查clean第129行原刊（《世界美术》1979）,ACCEPTED_AS_CORE_SOURCE
+B0492,4.7,B,V2,translation_popularization,70—80年代误读变体期的译介普及：1979年里德'建筑者之家'、邵大箴'包浩斯学院'、1982年译名定型（阳太阳、迟轲、奚传绩等），构成正典化的文本层证据,译名演变即正典建构的术语考古证据,回查clean第125行,ACCEPTED_AS_CORE_SOURCE

@@ -1,0 +1,17 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0182,4.2,A,V2,preliminary_course_archive,魏玛包豪斯以预备课程（Vorkurs）为必修入口、先于并独立于工坊教学；Kandinsky/Klee/Itten体系构成其理论谱系,档案证明课程制度设计（章程、课程表、注册统计）与行动者主张，不能自动证明教学成效或学生接受,clean第2237—2238行（章程第4条）、第3277—3278行（不可免除）、第454行、第302行,ACCEPTED_AS_CORE_SOURCE
+B0182,4.2,A,V2,manifesto_evidence,1919年宣言确立“回到手工艺”与综合艺术理想，其“社会主义大教堂”表述在1923年重印时引发政治攻击,宣言是意图文献而非实践记录；攻击事件本身由Wingler导引说明（编者层）,clean第52—54行（导引与销毁）、第101—107行（宣言正文）,ACCEPTED_AS_CORE_SOURCE
+B0182,4.2,B,V2,enrollment_statistics,截至报告期有526名学生自1919年10月注册、27名学徒正开始预备课程,注册统计出自内部报告，口径以原文为准，不可外推为培养成效,clean第864—865行,ACCEPTED_AS_SUPPLEMENTARY
+B0182,4.3,A,V2,exhibition_shift,1923年“艺术与技术——新的统一”口号与首届包豪斯展览标志制度转向；Haus am Horn作为实验住宅展示工坊协作,口号是行动者主张；展览与住宅的完成度与效果评价须以同期媒体及审计文献为界（审计明言簿记不足）,clean第540行、第192行、第132—138行（Am Horn）、第992行（审计）,ACCEPTED_AS_CORE_SOURCE
+B0182,4.3,A,V2,political_crisis_1924,1924年图林根州议会右翼党团以“小质询”攻击包豪斯，预算削减与大师合同终止导致1925年解散迁校,议会记录与公开信证明制度冲突与行动者立场；“文化布尔什维克主义”等指控是修辞而非事实陈述,clean第798—800行、第840行（Small Question）、第850行、第1165行（解散公开信）,ACCEPTED_AS_CORE_SOURCE
+B0182,4.4,A,V2,dessau_statute_1927,1927年德绍章程确立机构归属（德绍市）、课程序列（预备课程+工坊教学+形式教学）与入学要求（预备课程为不可或缺前提）,章程是制度规范文本，证明制度意图与结构设计，不证明执行情况,clean第2219—2296行（第2226、2237—2238、2243行）,ACCEPTED_AS_CORE_SOURCE
+B0182,4.4,A,V2,workshop_system,德绍工坊体系（金属、纺织等）以“培养创造性人才”为目标，工坊教学与形式教学构成主课程,工坊章程与招生文件证明制度目标；产品成效需以产品目录与销售档案为据,clean第1736—1743行（金属工坊）、第2238行,ACCEPTED_AS_CORE_SOURCE
+B0182,4.5,A,V2,meyer_functionalism,Meyer提出“建造=功能×经济”“一切艺术是构图因而不合目的”，将建筑定义为生物过程与社会事业,宣言文本证明行动者主张；其教学成效与校内接受度须另觅学生记录；Wingler导引对Meyer持负面评价（编者层）,clean第3378—3385行（《Building》及导引第3380行）,ACCEPTED_AS_CORE_SOURCE
+B0182,4.5,A,V2,school_politics_1930,1930年共产学生传单要求废除预备课程；Meyer自称解散学生共产党小组后仍因政治指控被解职,传单与Meyer自述均为行动者文献，可证明立场与事件进程；解职原因各说并存,clean第4235—4249行（传单）、第4023—4024行（Meyer自述）、第8975行（解职时间）,ACCEPTED_AS_CORE_SOURCE
+B0182,4.5,B,V2,libel_verdict,德绍地方法院判决Buchlein诽谤罪成立（§185，罚500帝国马克）,判决书是司法档案，仅证明该案事实，不构成对包豪斯声誉的一般性背书,clean第2505—2507行,ACCEPTED_AS_SUPPLEMENTARY
+B0182,4.6,A,V2,curriculum_institution,1929年招生文件显示建筑系9学期制：预备课程（不可免除）→工坊→建筑教学→建筑工作室，结业获包豪斯文凭，构成可复制的课程制度,课程表证明制度设计；“复制”成效（毕业生去向、后续院校采纳）需跨来源验证,clean第3262—3294行,ACCEPTED_AS_CORE_SOURCE
+B0182,4.6,B,V2,dissolution_contract,密斯与德绍市离职协议处理解散后的名称权利与合同终止合法性,合同文本证明制度收尾安排；双方对解散责任与合法性的主张并存,clean第4587行、第4090行（名称权利条款）,ACCEPTED_AS_SUPPLEMENTARY
+B0182,4.6,B,V2,berlin_epilogue,柏林包豪斯1932年秋以“独立教学与研究机构”恢复，1933年4月被搜查，7月20日密斯通知盖世太保解散,通知、警方记录与行政档案证明事件进程；“纳粹压力下自行解散”的定性混合行动者表述与编者叙述,clean第9730行、第9771行（搜查）、第4942行（解散通知）、第4973行（盖世太保回函）,ACCEPTED_AS_SUPPLEMENTARY
+B0182,4.7,A,V2,chicago_transfer,1937年芝加哥新包豪斯以Moholy-Nagy为总监、Gropius为顾问，首学期36名学生；后经School of Design延续为Institute of Design,新包豪斯文献（prospectus、校长签名页）证明制度创办与人事；延续性表述含Wingler 1969年正典化导引（编者层）,clean第5003行、第5068行、第5107行、第5022行,ACCEPTED_AS_CORE_SOURCE
+B0182,4.7,B,V2,canonization_framework,Wingler将芝加哥延续表述为“包豪斯智识遗产在美国复兴并结出果实”，并以三次更名的叙事组织文献,该表述是该档案集的1969年正典化框架，属编者层判断，须与档案事实分离标注,clean第5022—5024行（导引与档案存放说明）、第5032行,ACCEPTED_AS_SUPPLEMENTARY
+B0182,0.4,A,V2,documentary_materiality,本书以档案汇编形态呈现史料：每件文献标注出处（LW/BD/PA）、首刊标记（First publication）与捐赠来源，并说明档案存放地,档案位置与首刊标注是元数据证据，证明文献的物质来源与编纂层级，不改变文献内容本身的效力,clean第6行、第5012行、第5024行、第4942行,ACCEPTED_AS_CORE_SOURCE

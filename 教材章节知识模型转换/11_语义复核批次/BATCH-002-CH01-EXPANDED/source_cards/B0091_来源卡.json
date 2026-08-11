@@ -1,0 +1,120 @@
+{
+  "source_id": "B0091",
+  "corpus": "book",
+  "folder_name": "Crawford, Alan：《C.R. Ashbee architect, designer romantic socialist》",
+  "material_type": "档案型设计师传记、工艺企业史与接受史专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Crawford, Alan：《C.R. Ashbee architect, designer romantic socialist》_clean.md",
+  "clean_source_sha256": "FF449FD9A98058A30B275AEA3D2B35D49C6DAEA93BC63CC8335F34CE982634E2",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 47,
+      "report_characters": 1628266
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "contextual_biography_institution_enterprise_and_object"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "diary_minutes_finance_catalogue_drawing_triangulation"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "biographical_worker_gender_attribution_and_empire_bias"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "school_guild_apprenticeship_and_workshop_knowledge"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "committee_board_profit_sharing_and_design_control"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "documented_and_uncertain_collective_authorship"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "school_guild_designer_craftsman_director_and_company_roles"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "technical_education_school_policy_and_funding"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "arts_crafts_labour_ethic_tested_by_enterprise"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "shop_commissions_stock_retail_competition_and_market"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "architecture_furniture_metalwork_printing_and_place"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "empire_travel_and_craft_revival_as_actor_history"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "britain_us_germany_austria_and_local_translation"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "工人经验大多仍经Ashbee、会议记录或传记作者中介，普通成员自述不均。",
+    "Janet虽重要，妻子、女儿、女工和当地女性仍不是持续分析主体。",
+    "1985年的同情性传记和Pevsner论辩需要较新工艺美术、劳动、性别与帝国研究校正。",
+    "‘Guild失败’必须区分有限公司清算、共同体延续、个人工场和长期地方影响。",
+    "跨国活动和殖民工艺复兴不能从Ashbee观点外推为当地社会的真实需求。",
+    "大量图版虽为论证组成部分，但当前只做文本局部回查，视觉判断未达V3。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第543、658行：1888年6月23日正式开幕，首年约80名学生及课程教师。",
+    "clean第600—625行：Adams的制衡作用、委员会、利润分享、资本积累、合作制控制权与规模变化。",
+    "clean第813—843行：Technical Instruction Act、whiskey money及制造／商业关联的资助资格问题。",
+    "clean第1350—1355行：1898年有限公司、劳动董事、工资扣款及3,864股分布。",
+    "clean第1658—1664行：迁址住房、工资争论及22赞成／11反对／1未记录的投票。",
+    "clean第2127—2157行：1906年亏损、融资、库存、市场比较及Crawford对Ashbee外因解释的反驳。",
+    "clean第2158—2165行：清算后离开者与约12名留守工匠的分散经营。",
+    "clean第3038—3044行：办公室档案缺失、多数产品不能确证归属，1903目录另列11名Guildsmen设计。",
+    "clean第1742—1743、4875—4876行：妻子被忽略与Annie Power、两名Press wives参与装订工场。"
+  ]
+}

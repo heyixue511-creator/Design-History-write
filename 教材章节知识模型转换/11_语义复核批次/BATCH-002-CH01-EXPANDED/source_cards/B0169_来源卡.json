@@ -1,0 +1,129 @@
+{
+  "source_id": "B0169",
+  "corpus": "book",
+  "folder_name": "Giorgio Riello：《Cotton The Fabric That Made the Modern World》",
+  "material_type": "全球棉花史、物质文化史与工业化研究专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Giorgio Riello：《Cotton The Fabric That Made the Modern World》_clean.md",
+  "clean_source_sha256": "D1D7A30FCA64170C92ABF61EA11D26D77000079AAF630BE6A021DD34F6F858C9",
+  "duplicate_group": null,
+  "files": [
+    {
+      "report_file_count": 20,
+      "report_characters": 167336
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_relevant_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "long_duration_cotton_systems"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "commodity_chain_global_history_method"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "textiles_archives_statistics_and_images"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "multisource_cotton_evidence_chain"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "company_archive_slave_labor_and_audience_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cotton_as_connected_and_coercive_global_history"
+    },
+    {
+      "section_id": "1.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "indian_workshops_finishing_and_distributed_skill"
+    },
+    {
+      "section_id": "1.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "mechanisation_quality_scale_and_supply"
+    },
+    {
+      "section_id": "1.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "finishing_division_commissioning_and_design_rights"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "cotton_fiber_dyes_land_and_plantation_system"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "distributed_product_and_process_innovation"
+    },
+    {
+      "section_id": "1.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "india_europe_ottoman_and_atlantic_mixed_trajectories"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "customisation_consumption_and_company_mediation"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "slavery_colonial_trade_and_classification"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "learning_imitation_reworking_and_market_selection"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "全书以欧洲与南亚为中心，中国、非洲和波斯等地的一手材料与劳动者视角不均衡。",
+    "‘离心／向心体系’和大分流长时段模型需要同B0259、B0334及区域研究保持争论关系。",
+    "东印度公司档案中的消费者偏好和生产者行为经过商人中介，不能代替消费者与工匠主体材料。",
+    "奴隶劳动、殖民关税与去工业化结论需要种植园账簿、劳动者材料、政策档案和反方研究复核。",
+    "图版、产量、价格、土地反事实与专利／设计保护的法律细节尚未逐项核验。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1228—1240、1429—1458行：印度优势被定位于后整理质量而非更高纺织生产率，且印染包含高度细分工序。",
+    "clean第1643—1660行：公司订货、白底偏好和消费失败推动定制与新的印花技术，但生产者和消费者没有直接接触。",
+    "clean第2312—2334、2399—2408行：书面编码不足以转移复杂工艺；亚美尼亚工匠和开放技术网络承载默会知识，欧洲又进行再实验。",
+    "clean第2598—2608行：作者拒绝把奴隶制与工业化写成直线单因关系，同时确认种植园对扩张性棉花供给的重要性。",
+    "clean第2787—2815、2878—2892行：技术既改变产量也改变质量，英国例外论受到全球联系与比较的校正。",
+    "clean第2980—3025行：印花设计保护、工厂不稳定性、劳动—资本—土地重组与机器采用被置于同一机制链。",
+    "clean第3401—3471行：英国棉纱／棉布进入亚洲与印度去工业化存在时序和解释争论，地方工匠也发生适应。"
+  ]
+}

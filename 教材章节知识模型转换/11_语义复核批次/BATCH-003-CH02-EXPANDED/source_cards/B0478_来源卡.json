@@ -1,0 +1,103 @@
+{
+  "source_id": "B0478",
+  "corpus": "book",
+  "folder_name": "大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013",
+  "material_type": "中译本通史教科书（现代设计史教材，六卷十六章，覆盖1700—2010年欧美与东亚设计）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\大卫·瑞兹曼 (David Raizman)：《现代设计史（第2版）》，2013_clean.md",
+  "clean_source_sha256": "25FE74B70635C386B6B8F1ADCA5E2A87CA098C87FC91884DDFAE03549E5D9C02",
+  "duplicate_group": "VGRP004-TRANSLATION；与B0101同一版次知识内容；重复命题不得独立计证",
+  "files": [
+    {
+      "report_file_count": 24,
+      "report_characters": 87636
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit",
+    "version_relation": "VGRP004-TRANSLATION：B0101（2010英文第二版，Laurence King）的中文译本；重合命题只计一个独立书目实体；本卡只承担译本独立价值与翻译风险审计"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "translation_terminology_reference"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "chronology_chinese_version"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "transliteration_inconsistency"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "translators_afterword_context"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "X",
+      "verification": "V2",
+      "role": "appendix_not_translation_additions"
+    },
+    {
+      "section_id": "0.8",
+      "grade": "C",
+      "verification": "V2",
+      "role": "translation_structure_mapping"
+    },
+    {
+      "section_id": "0.8",
+      "grade": "C",
+      "verification": "V2",
+      "role": "translator_added_notes"
+    },
+    {
+      "section_id": "0.8",
+      "grade": "X",
+      "verification": "V2",
+      "role": "translation_not_independent_evidence"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "X",
+      "verification": "V2",
+      "role": "erroneous_royal_society_year"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "X",
+      "verification": "V2",
+      "role": "emergence_models_not_source_propositions"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "与B0101（2010英文第二版）为同一版次知识内容，全部16章命题重合，不得作为独立互证来源",
+    "「1873年被选为皇家学会会员」与韦奇伍德生卒年（1730—1795）矛盾，疑为1773/1783之误，错误源于原书还是排印未定，引用前须对照英文原版及史料",
+    "人名音译不统一（「扬·茨池侯德」与「扬·奇肖尔德」并用）且部分译名偏离大陆通用译名（勒·科比西埃/勒·柯布西耶、密斯·范·德·罗厄/密斯·凡·德·罗、德意志工匠联盟/德意志制造联盟），引用时须附原文统一",
+    "中译本未增补中文参考文献；书末拓展阅读、精选书目、注释为英文原版内容直接收录，对中文读者的检索价值有限",
+    "clean版存在OCR/印刷噪声：书名页「现代设计史 第2版)Design」及推荐语人名乱码，超长行（第十四章末至第十六章内容合并）使该区行号定位精度下降",
+    "个别术语译法为本书自创（如「国有制造业」对应state-owned manufactory、「美与实用的和谐」对应fitness of purpose），跨译本对照易混淆；个别措辞偏差（大事年表称弗里丹《女性的奥秘》为「小说」）",
+    "P4知识涌现分析中的命名、网络、枢纽、S值等模型系对分析报告的二次推演，只作语义路由，不得写成原著命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1行：CIP与版权页确认中国人民大学出版社2012.12、ISBN 978-7-300-16760-2、若斓达·昂与李昶译、2007年11月第1版/2013年1月第2版第1次印刷、定价288元；同段含作者序译文（第2版由5部分改6部分、扩充参考书目与大事年表、当代设计比重加大）",
+    "clean第6—7行：前言「产品、技术与进步」译文，含赫伯特·西蒙1969年设计定义（「行动方案」）与库珀·休伊特2006国家设计周；第9—10行「设计师和设计的发展」提出「设计与制作的分离出现于18世纪」",
+    "clean第13行：中文目录完整列出六卷十六章及各节标题与页码，章题与英文第二版一一对应，无删节合并；第六卷标题译作「发展、抗拒和多元化」",
+    "clean第39行：中文注释[1]法国新艺术运动、[2]衬线，系术语解释性说明（中译本阅读辅助）；该注释因OCR分页位于第二章标题之前，页脚归属需核实体书",
+    "clean第46行：韦奇伍德段含「他于1873年被选为皇家学会（英国国家科学院）会员」，与生卒年1730—1795矛盾，疑为1773/1783之误",
+    "clean第566—573行：中文大事年表，自1654路易十四加冕至2010年iPad，含2008年北京奥运「设计中国」展等条目；L573末尾过渡到「附 录」英文部分",
+    "clean第578行起：英文「Suggestions for Further Reading」（拓展阅读）为原版内容直接收录，注释为英文Notes，全卷未见中文参考文献增补",
+    "clean第1753—1754行：译后记——译者若斓达·昂自述第一版翻译缘起（王栩宁博士提议）、第二版与李昶合作完成、感谢出版社黄海飞，2012仲夏作于悉尼，并提及王澍获普利兹克奖"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_id": "B0363",
+  "title": "Theory and Design in the First Machine Age",
+  "author": "Reyner Banham",
+  "version": "The Architectural Press, London, 1960；美国版由 Praeger Publishers Inc., New York 出版（据分析报告核实；clean版含作者1957年后书目增补说明）",
+  "type": "1960年出版的现代建筑与设计理论史专著，英语世界对“第一机器时代”理论史最早的系统性叙述之一，兼有批评文体与史料评注双重性质",
+  "scope": "1900—1930年西欧（法、英、德、意、荷）前卫建筑理论与设计：未来主义、de Stijl、表现主义、纯净主义—勒·柯布西耶、柏林学派与包豪斯直至“国际式”形成；作者站在1950年代末“第二机器时代”（喷气时代、家电革命）回望该时段",
+  "duplicate_group": "与未来主义宣言专档（如B0027）、俄国构成主义来源（如B0277）及de Stijl、《走向新建筑》相关来源共享行动者与宣言原文：未来主义奠基宣言、Sant'Elia Messaggio/Manifesto、de Stijl宣言、Muthesius《Wo stehen wir?》、Vers une Architecture引文等为共享P0文本，同一宣言全库只计一份P0，本书引文按史料评注处理，不重复计件",
+  "summary": "本书是英国建筑史家雷纳·班纳姆1960年出版的现代建筑理论史经典，以1900—1930年欧洲前卫建筑理论与设计为对象，把“未来主义动力学”与“学院理性主义”设为两极，系统重构“第一机器时代”的理论—设计网络：从Guadet元素构图、Choisy技术理性主义、英国自由式与Muthesius类型论、Loos装饰批判，到未来主义宣言与Sant'Elia新城、de Stijl机器美学与Elementarism、纯净主义—勒·柯布西耶《走向新建筑》、柏林学派与包豪斯，最后以巴塞罗那德国馆与萨伏伊别墅检验“国际式”。核心命题：国际式是象征性语言而非功能决定论的产物，“功能主义”是1930年代外来辩护者的误名；第一机器时代建筑师并未真正理解技术，其建筑只是“在机器时代建造并表达了对机器的姿态”。教材价值：为3.1机械感知、3.2未来主义、3.5风格派、3.7跨国先锋网络及0.3关系史、4.1—4.3制造联盟与包豪斯提供高密度一手史料与批判性框架；宣言直引、作品细读与反例祛魅（Fagus照片选择、Sant'Elia作者归属考）亦是史料教学范本。边界：本书站在1950年代末“第二机器时代”回望，其“第一/第二机器时代”分期、未来主义—国际式谱系与“跑赢技术”论均为Banham命题，须作1960年语境与目的论审计；精英圈层与西欧中心视角、以建筑师—出版物为中心的结构需在使用时标注。",
+  "strengths": [
+    "系统重建1900—1930年欧洲现代建筑理论网络，首次把未来主义、de Stijl、表现主义、纯净主义纳入统一问题史，“两极谱系”框架清晰",
+    "史料制度严格：宣言、演讲、著作原文直引（法、德、意、荷多语）并逐句评注，各Part前设书目、脚注只注次要来源",
+    "对流行神话的系统祛魅：Fagus“现代主义第一栋建筑”依赖照片选择与私人关系、“功能主义=国际式”为误名、“新建筑由钢筋混凝土造成”为倒果为因",
+    "跨国传播/接受史方法成熟：Wright经Berlage/Ashbee进入荷兰、Marinetti 1917年文件传入de Stijl、van Doesburg巡回与杜塞尔多夫大会，构成“跨国先锋网络”的机制性叙述",
+    "文本考据意识突出：Messaggio与Manifesto逐条差分考作者归属、对van Doesburg 1927年历史改写的反驳",
+    "以建筑作品检验理论：Barcelona Pavilion与Villa Savoye的符号学细读、Fuller Dymaxion的技术反证，坚持“理论—设计”并读",
+    "结论的批判性史学立场（国际式=象征性语言、Phileban立体与数学=机器时代“唯一不新”的方法论）成为后来设计史与建筑批评的经典范式"
+  ],
+  "limits": [
+    "1960年写作立场：作者站在“第二机器时代”（喷气时代、家电革命）回望，“第一/第二机器时代”二分与“跑赢技术”论是其命题而非时代共识，须作目的论与语境审计",
+    "谱系学/影响史框架本身含目的论风险：以“国际式形成”为终点倒叙1900—1930，各运动被组织进单一叙事线，即使作者自反，“必然走向国际式”的阅读效应仍是Banham建构",
+    "精英圈层视角：以建筑师—理论家—出版物为中心，社会史、经济史、使用史维度有限；作者自承第一机器时代影响集中于中上阶级，女性与大众接受基本缺席",
+    "地理覆盖偏西欧：美国仅以Wright接受形象与Fuller反证出场，俄国仅Lissitsky国际传播与Melnikov展馆，故不可当作全球设计史或俄国本土（生产主义/呼捷玛斯）来源",
+    "宣言、讲演等行动者文本（P0）被大量直引，能证明行动者主张，不能自动证明作品效果、工业采用或公众接受：Sant'Elia塔城从未建成，其国际声望“几乎全靠Marinetti推销”",
+    "传播与影响判断须谨慎：风格相似、同场展出（Weissenhof、1925巴黎展）或宣言互引不等于直接传播；作者本人多处自认“未必提出直接影响”",
+    "对Giedion等的史学批判本身是立场性写作：作者与Giedion同为叙述者，其反理性主义谱系同样是建构，引用其批判时须保留双方框架标签而非当作客观定论",
+    "知识涌现分析（Topic/Theme/枢纽节点度/涌现强度S）属P4语义推演模型，仅作语义路由与检索辅助，其命名、网络与“隐藏枢纽”不得写成Banham原著命题，亦非史实证据"
+  ],
+  "checks": [
+    "clean第110—124行：导言以电力入户、家电、合成化学与汽车界定“第二/第一机器时代”，注明写作于“喷气时代/清洁剂十年”",
+    "clean第141—153行：Marinetti短语“Man Multiplied by the Motor”；Pevsner先驱链“在格罗皮乌斯处断掉”；“未来主义动力学—学术保守主义”两极框架",
+    "clean第1132—1133行：第8章开头判定未来主义对现代设计理论的贡献是“意识形态与心态”而非形式方法；奠基宣言1909年2月20日刊于《费加罗报》",
+    "clean第1178—1186行：宣言第四条“速度之美”、赛车比萨莫色雷斯胜利女神更美、战争作为社会清洁剂、第十条“摧毁博物馆、图书馆与学院”",
+    "clean第1781—1784行：de Stijl跨越分水岭，把未来主义“私人、浪漫、反古典”的机器转写为“集体纪律、近古典”的机器美学；de Stijl被视为机器美学真正奠基者",
+    "clean第2722—2723行：《走向新建筑》“La maison est une machine à habiter”标题语与Manuel de l'Habitation生活纲领",
+    "clean第3159—3160行：Weissenhof展的国际一致性使Alfred H. Barr首次以“The International Style”命名成熟现代建筑",
+    "clean第3564—3572行：结论章——“功能主义”为1930年代误名，Sartoris 1932年米兰书名首用，勒·柯布西耶建议“Instead of Rational say Functional”，Sullivan口号为空泛顺口溜",
+    "clean第3674—3682行：国际式以Phileban立体与数学为象征，恰是“机器时代唯一不新”的方法论；1930年代初流线型车辆使象征联系断裂",
+    "clean第3696行：全书终局命题——“机器时代建筑”仅在“其纪念物建于机器时代并表达了对机器的姿态”的意义上成立"
+  ],
+  "maps": [
+    ["3.1", "A", "machine_age_mechanical_perception", "机械化都市与速度经验（电力入户、汽车驾驶、米兰工业化骤变）构成前卫艺术—设计的新感性，未来主义战争净化论为其政治底色（均以Banham的“第一/第二机器时代”框架表述）", "以机械感知与都市经验为主体，战争维度仅见于宣言表态，本书非战争史研究；“第一机器时代”分期是Banham 1960年命题", "回查导言L110-133的两时代界定与米兰“旧运河—新电车”对照", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.2", "A", "futurism_manifesto_motion_politics", "未来主义以宣言形式把“速度—机器—都市”铸成新文化价值，并从文学姿态扩展为绘画/雕塑/建筑理论（奠基宣言→技术宣言→Sant'Elia建筑宣言），其战争政治与反传统姿态构成教材3.2的核心史料", "宣言文本（P0）证明行动者主张，不证明作品效果与公众接受；Sant'Elia建筑多未建成，国际声望“几乎全靠Marinetti推销”", "回查Ch8-10逐句解读与Messaggio/Manifesto作者归属差分", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.3", "C", "dada_montage_edge_evidence", "达达在本书仅以边缘角色出场：de Stijl的Bonset/Camini假名成员、Duchamp现成品逻辑、Barcelona Pavilion的Dada式不谐，可作达达与抽象运动交集的补充证据", "蒙太奇（摄影蒙太奇）在本书基本缺席，达达无专章，不能作为达达运动主体史料", "回查L2115-2117、L2373-2375、L3608-3609", "CONTEXT_ONLY"],
+    ["3.4", "C", "russian_constructivism_international_reception", "构成主义以Lissitsky的Proun、构成主义国际（1922杜塞尔多夫大会）与Melnikov展馆等“国际传播”形态进入本书叙述，可作3.4的接受史补充", "均为西欧接受视角，俄国本土构成主义—生产主义（Lef、罗琴科、呼捷玛斯）不在本书范围", "回查L2118、L2201-2215（Proun）、L2222-2228（大会）、L2471-2478（Melnikov馆）", "CONTEXT_ONLY"],
+    ["3.5", "A", "de_stijl_universal_order", "风格派把抽象绘画哲学转写为建筑—设计理论：“机器=精神纪律”的机器美学、Elementarism元素空间观、Mondriaan新造型主义与Rietveld椅/施罗德宅，构成教材3.5的核心史料", "本书聚焦理论文本与少量建筑家具，成员关系与后期史以Jaffé等二手文献与访谈为据", "回查Ch12与Ch14：机器美学L1781-1784、Elementarism L2139-2154", "ACCEPTED_AS_CORE_SOURCE"],
+    ["3.6", "C", "exhibition_standardization_visual_education", "展览事件（1925巴黎装饰艺术展、1927 Weissenhof、1929巴塞罗那馆）、DIN-Format标准化与Moholy视觉—摄影教育提供3.6的零散材料", "新摄影、新字体非本书主题；展览仅作事件出场，无展览设计本身的系统分析", "回查L2466-2478（1925展）、L854-855（DIN）、L3463-3563（Moholy视觉教育）", "CONTEXT_ONLY"],
+    ["3.7", "A", "transnational_avantgarde_network", "1900—1930欧洲前卫构成跨国网络：Wright经Berlage/Ashbee进入荷兰、未来主义文件经Marinetti传入de Stijl、van Doesburg巡回与杜塞尔多夫大会、Lissitsky传教士角色，是教材3.7的机制性史料", "网络以人物中介与印刷媒介（de Stijl、L'Esprit Nouveau、G）为线索，非完整的机构与资金网络史", "回查L1663-1718（Wright接受）、L1553与L1808-1810（Marinetti文件）、L2108-2228（巡回与大会）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.2", "B", "modernity_concept_historicized", "以“第一/第二机器时代”二分及“机器美学/象征性语言”分析，示范“现代性”如何在1960年被历史化表述，可作为现代性概念教学的经典案例", "分期与“跑赢技术”论属Banham 1960年史学建构，引用须标注框架而非当作中性定义", "回查L110-133、L3670-3672（加速变化）、L3696-3700", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["0.3", "A", "hero_lineage_to_relational_history", "本书是对Pevsner英雄谱系的直接修正——“链条在格罗皮乌斯处断掉”、机器时代美学由“别处别人”创制，并以跨国关系网络替代单一先驱链，是“从英雄谱系到关系史”的范例文本", "作者仍以“人物—著作—作品”组织叙事，关系史化程度有限；其对Giedion的批判同样是立场性建构", "回查L147-150、L3438-3461（Giedion方法论批判）、L3667", "ACCEPTED_AS_CORE_SOURCE"],
+    ["0.4", "B", "artifact_as_historical_evidence", "人工物（Fagus、Barcelona Pavilion、Villa Savoye）被当作检验理论主张的证据而非风格标本，示范“人工物如何成为史料”，含照片选择对证据效力的影响", "以建筑作品与家具为主，日用工业品史料有限（Dymaxion为少数例外）", "回查L859-863（Fagus祛魅）、L3586-3636（两建筑检验）、L3655-3666（Dymaxion）", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["0.5", "B", "image_archive_oral_digital_traces", "图像证据偏差（“敌对性照片选择”改变建筑现代性观感）、档案考据（Messaggio/Manifesto归属）、回忆录与访谈为0.5的史料类型提供案例", "无数字痕迹维度；口述仅作辅证，作者对回忆录可信度保留态度", "回查L859-860、L1516-1534、L1210、L1742-1745、L2180-2188", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["0.6", "B", "evidence_bias_and_absentees", "本书自陈视野限于中上阶级、未来主义反女权与家庭电气化女性点到即止，本身即“证据偏差与缺席者”的案例文本；照片选择与归属考据展示偏差机制", "作者未系统处理缺席者问题，精英视角是其史学限度的暴露而非自觉方法", "回查L127-133、L859-860、L1516-1534", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["1.6", "C", "design_concept_competition_background", "Muthesius的“质量/形式/类型”话语（Werkbund）与1925年巴黎装饰艺术展提供“设计”概念竞争与“装饰艺术”定位的背景材料", "本书未系统比较“工业艺术/装饰艺术/设计”三概念，装饰艺术仅作现代主义对照出场", "回查L762、L813-816（Muthesius）、L2466-2478（1925展）", "CONTEXT_ONLY"],
+    ["4.1", "A", "werkbund_enterprise_system", "德意志制造联盟成立（1907）、Behrens受聘AEG、Muthesius类型论（Wo stehen wir?）与工厂美学（Fagus、AEG涡轮机厂房）是教材“改革联盟与企业系统”的直接史料", "以Muthesius文本与建筑作品为主；联盟内部争论（van de Velde 1914“类型或个性”）有记录，但企业经济机制未展开", "回查Ch5-6（L716-958）、Wo stehen wir?（L766-832）、DIN-Format（L854-855）", "ACCEPTED_AS_CORE_SOURCE"],
+    ["4.2", "B", "weimar_bauhaus_preliminary_course", "魏玛包豪斯（1919-1923）：两校合并、1919宣言、Itten初步课程（Vorkurs）与“做中学”，作为“魏玛包豪斯与基础课程”的关键机制材料", "Banham视角批判（早期包豪斯“机器缺席”令人惊讶），教学细读以Gropius《Idee und Aufbau》文本为主", "回查L3164-3304、L3205-3216（Vorkurs）", "ACCEPTED_AS_SUPPORTING_SOURCE"],
+    ["4.3", "B", "bauhaus_1923_institutional_turn", "1923年制度转向：Itten离校、Moholy加入、Art and Technology展与Am Horn宅、“机器为现代设计媒介”转向，直接对应“1923年的制度转向”", "作者指出转向中Formlehre内容实为学院式（Blanc式），引用转向叙事须连同其批判一并呈现", "回查L3219-3269（Idee und Aufbau）、L3284-3306（转型与迁德绍）", "ACCEPTED_AS_SUPPORTING_SOURCE"]
+  ]
+}

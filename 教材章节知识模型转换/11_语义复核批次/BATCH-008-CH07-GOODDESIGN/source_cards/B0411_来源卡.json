@@ -1,0 +1,93 @@
+{
+  "source_id": "B0411",
+  "corpus": "book",
+  "folder_name": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
+  "material_type": "史学论著（艺术史学家专题研究）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》.md",
+  "clean_source_sha256": "D67B7C081F6CF5CF02003A0059B6D98109F26EE02677754840E87208AD07234A",
+  "duplicate_group": "与B0168（《Pioneers of Modern Design》1968修订版）为同作者作品：重复覆盖工艺美术运动谱系与目的论叙事框架，同一论证体系不重复计证；共享对象（哥特复兴、罗斯金、莫里斯）另见于B0383/B0133等，同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 21,
+      "report_characters": 62215
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "gothic_revival_art_industry_debate"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "pre_artnouveau_continuity"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "ruskin_morris_labor_ethic_link"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "exhibition_1851_art_industry_union"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_school_state_system"
+    },
+    {
+      "section_id": "2.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "art_workers_guild_institutionalization"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "teleological_historiography_sample"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "secondary_vs_primary_evidence"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "目的论框架：全书以‘通向工艺美术运动与莫里斯’为叙事终点，早期工业反应被评价为‘不足/准备’，进步史观贯穿，须作作者框架审计",
+    "英雄史观：以帕金、罗斯金、莫里斯为‘伟大人物’枢纽，无名行动者、女工/消费者、殖民经济基础缺席",
+    "单一国家重心：以英国为主，法国、德国仅作参照，未覆盖其他工业国家的美学反应，比较结论不可外推",
+    "二手综合：本书为二手学术论著，其引用的行动者文本才是一手；佩夫斯纳的判断（如‘英国美学的倒退’）是作者命题而非事实",
+    "1951年时点局限：战后重建语境塑造其‘工业化失败论’基调，部分诊断（如对美国的比较）反映冷战初期立场",
+    "覆盖止于1900年前后：对20世纪设计发展仅一笔带过，不承担20世纪命题",
+    "叙述基于图像与文献的选择性呈现：图版与案例（如博览会建筑）由作者选择，其代表性未经系统论证",
+    "知识涌现模型为P4推演：分析报告中的谱系网络、主题聚类与‘拒绝工业革命’核心命题识别仅作语义路由参考，作者立场须以原书文本为准",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第8—10行：序言自述——作者1920—1930年代在德意志的观察、对英国工业艺术状况的比较兴趣与本书写作动机",
+    "clean第22—24行：本书主题定义——工业革命的美学反应：浪漫主义、哥特复兴、现实主义三种方式（1840—1870年代）",
+    "clean第40—42行：1836年政府特别委员会（Select Committee on Arts and Manufactures）与艺术学校/设计学校设立、1846年体系形成",
+    "clean第56—58行：帕金《对比》（1836）与哥特复兴纲领、1841年《尖拱建筑的真实原理》",
+    "clean第70—72行：1851年万国博览会组织——帕克斯顿水晶宫、评审制度与‘艺术与工业联合’话语",
+    "clean第88—90行：罗斯金《建筑的七盏明灯》（1849）、《威尼斯之石》（1851—53）与‘真理’、‘劳动’伦理",
+    "clean第104—106行：莫里斯转向——1859年红屋、1861年莫里斯·马歇尔·福克纳公司成立、设计原则（诚实材料、手工艺）",
+    "clean第118—120行：工艺美术运动组织化——1888年艺术与工艺展览协会、与1882年世纪行会等",
+    "clean第134—136行：结语——‘工艺美术运动及其之后’：莫里斯遗产对20世纪初（新艺术、包豪斯前史）的传递",
+    "clean第148—150行：作者对‘进步’的界定与对工业资本主义的总体批判立场（‘工业革命是美学灾难’判断）"
+  ]
+}

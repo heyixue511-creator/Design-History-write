@@ -1,0 +1,156 @@
+{
+  "source_id": "B0338",
+  "corpus": "book",
+  "folder_name": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
+  "material_type": "新艺术运动国际展览图录、专题论文集与物质文化史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Paul Greenhalgh：《Art Nouveau 1890-1914》_clean.md",
+  "clean_source_sha256": "FFA88C3E0ECF5D80B3272754ECDDF443A29FD585F1E80E99E9EE9BA3326726FA",
+  "duplicate_group": "新艺术综合图录组：与唯美主义、工艺美术、维也纳及各城市专史共享人物与对象；同一图版、展品、引文和博览会数据不重复计证",
+  "files": [
+    {
+      "report_file_count": 38,
+      "report_characters": 209842
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "art_nouveau_modernity_periodization_and_multiple_endings"
+    },
+    {
+      "section_id": "0.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "meaning_material_city_and_institution_matrix"
+    },
+    {
+      "section_id": "0.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "objects_as_material_visual_and_exhibition_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "catalogue_periodicals_manifestos_archives_and_bibliography"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "curatorial_masterpiece_city_gender_colonial_and_survival_bias"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "multi_center_local_adaptation_with_asymmetric_networks"
+    },
+    {
+      "section_id": "1.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "paper_wood_textile_ceramic_glass_metal_jewellery_material_systems"
+    },
+    {
+      "section_id": "1.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "designers_firms_workshops_publishers_and_makers"
+    },
+    {
+      "section_id": "1.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "art_nouveau_naming_ensemblier_and_design_categories"
+    },
+    {
+      "section_id": "2.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "international_exhibition_sequence_after_1851"
+    },
+    {
+      "section_id": "2.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "museums_schools_state_agencies_and_design_quality"
+    },
+    {
+      "section_id": "2.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "bing_liberty_department_stores_publicity_and_consumption_machine"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "art_nouveau_meaning_material_city_and_total_environment"
+    },
+    {
+      "section_id": "2.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "world_fairs_imperial_taxonomy_and_colonial_display_context"
+    },
+    {
+      "section_id": "2.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "japan_islam_trade_collecting_exhibitions_publications_and_local_representation"
+    },
+    {
+      "section_id": "3.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "paper_periodicals_posters_typography_and_international_visual_network"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_nouveau_to_werkbund_aeg_and_standardization_prehistory"
+    },
+    {
+      "section_id": "5.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "art_nouveau_decline_and_art_deco_transition_problem"
+    },
+    {
+      "section_id": "12.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "gendered_representation_new_woman_and_missing_female_producers"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "展览图录优先保存、可借展、具名和视觉突出的作品，普通产品与失败对象不足。",
+    "十三座城市和欧美重心不能代表全球；殖民地与来源社会多作为视觉资源或展览背景。",
+    "‘现代性’是统摄性解释，可能压平宗教、民族、商业与反现代实践的差异。",
+    "女性身体表征材料较强，女性设计生产者、工坊劳动和组织权力仍偏弱。",
+    "观众人数、影响、首创、风格诞生和终结等强判断须回统计口径、同期材料和较新研究。",
+    "知识涌现报告的中心性、移除实验和假设均为P4解释性建模，不能作为原著量化事实。",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第2—18行：书目分类、2000年V&A／Abrams出版与版权信息。",
+    "clean第57—61行：30章五部分目录、注释、书目、展览对象清单与索引。",
+    "clean第177—210行：矛盾定义史、现代性统一框架及‘第一个自觉国际尝试’命题。",
+    "clean第338—370行：1893—95首阶段、Beardsley、Horta、van de Velde与Bing。",
+    "clean第424—445行：1902都灵、商品化与展示—营销—传播机器。",
+    "clean第454—500行：国家机构、博览会传播、殖民展示空间与1910—11缺席。",
+    "clean第500行：作者明确否定第一次世界大战直接杀死新艺术的简化解释。",
+    "clean第1575—1653行：Orient and Occident章的问题、贸易／博览会／Bing网络和西方再现。",
+    "clean第1314—1437行：女性劳动、‘新女性’、身体图像、厌女与雌雄同体表征。"
+  ]
+}

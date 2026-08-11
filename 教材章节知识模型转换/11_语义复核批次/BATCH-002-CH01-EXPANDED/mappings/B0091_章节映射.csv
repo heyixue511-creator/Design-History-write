@@ -1,0 +1,14 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0091,0.3,A,V2,contextual_biography_institution_enterprise_and_object,个人思想、制度、企业、作品与接受史需相互校验而非写成单一名家生平,传记结构仍以Ashbee为中心且作品部分与生平部分有所分离,补工人、女性、地方、企业和对象级材料,ACCEPTED_AS_METHOD
+B0091,0.5,A,V2,diary_minutes_finance_catalogue_drawing_triangulation,日记、会议记录、财务、公司文件、目录和图纸可交叉约束传主自述,材料存续不均且不同材料的沉默不能视为事件不存在,逐项记录出处、日期、作者、保存缺口和冲突,ACCEPTED_AS_SOURCE_METHOD
+B0091,0.6,A,V2,biographical_worker_gender_attribution_and_empire_bias,传主中心、工人中介、性别不均、归属推定和帝国视角均须进入审计,Crawford公开局限不等于已消除这些偏差,补成员自述、妇女家属、地方档案、来源社群和较新研究,ACCEPTED_AS_EVIDENCE_AUDIT
+B0091,1.1,A,V2,school_guild_apprenticeship_and_workshop_knowledge,School与Guild把课程、学徒、工场生产和共同体理想并置为制度实验,招生和课程存在不等于学习效果且控制权未完全交给工人,补学生作业、考核、就业、工资和成员材料,ACCEPTED_WITH_INSTITUTIONAL_FOLLOWUP
+B0091,1.3,A,V2,committee_board_profit_sharing_and_design_control,委员会、董事会、劳动董事、利润分享和资本份额具体重组了决策权,制度条款不等于实际平等运行且Ashbee权威长期存在,补会议表决、账簿、劳动争议和具体项目流程,ACCEPTED_WITH_MECHANISM_FOLLOWUP
+B0091,1.5,A,V2,documented_and_uncertain_collective_authorship,多数Guild产品不能牢靠归于Ashbee，工匠、助理与共同设计必须逐件区分,作者仍为叙述便利作出部分归属推定,按签名图、目录、工场记录和对象痕迹分级归属,ACCEPTED_WITH_AUTHORSHIP_CAUTION
+B0091,1.6,A,V2,school_guild_designer_craftsman_director_and_company_roles,School、Guild、Hon. Director、craftsman、designer与limited company展示职业和组织称谓竞争,角色名称不自动说明技能边界、控制权或现代设计师身份,补章程、职位、工资、课程和同期用语,ACCEPTED_WITH_CONCEPT_HISTORY_FOLLOWUP
+B0091,2.2,A,V2,technical_education_school_policy_and_funding,School资助争议显示技术教育法律、公共拨款和生产联系如何界定制度合法性,不能把关闭只归于个人阻挠或法律单因,补LCC报告、申请、检查、预算、课程与学生结果,ACCEPTED_WITH_POLICY_FOLLOWUP
+B0091,2.3,A,V2,arts_crafts_labour_ethic_tested_by_enterprise,Guild把满意劳动理想置于合作制、工资、订单、管理和资本的实际检验中,共同体叙事不能遮蔽权力不对称、奢侈品市场与成员分歧,与成员材料、账簿、工时、客户和同业比较互证,ACCEPTED_AS_CORE_CASE
+B0091,2.4,A,V2,shop_commissions_stock_retail_competition_and_market,商店、委托、广告、库存、价格、零售竞争和客户距离共同影响Guild生存,Crawford的市场解释仍须回完整账簿且购买不等于使用接受,补销售、成本、退货、客户书信和消费记录,ACCEPTED_WITH_MARKET_FOLLOWUP
+B0091,2.5,B,V2,architecture_furniture_metalwork_printing_and_place,建筑、家具、金属、珠宝、印刷和场所被纳入跨媒介工艺实践,视觉与风格判断未逐图核验且归属不一,补完整图版、对象、委托、制作和使用情境,ACCEPTED_WITH_OBJECT_FOLLOWUP
+B0091,2.6,C,V2,empire_travel_and_craft_revival_as_actor_history,Ashbee在南非、开罗与耶路撒冷等活动可用于研究英国工艺改革与帝国治理的接触,传主规划和复兴话语不能代表当地需求或文化连续性,补地方档案、当地行动者、委托、劳动和来源社群材料,CONTEXT_ONLY_WITH_COLONIAL_AUDIT
+B0091,2.7,B,V2,britain_us_germany_austria_and_local_translation,展览、出版、旅行、个人网络和工场比较显示工艺思想跨境流动并被重新解释,名人接触或形式相似不能证明直接影响和广泛接受,补书信、展览目录、销售、评论、教学与地方实践,ACCEPTED_WITH_TRANSFER_FOLLOWUP

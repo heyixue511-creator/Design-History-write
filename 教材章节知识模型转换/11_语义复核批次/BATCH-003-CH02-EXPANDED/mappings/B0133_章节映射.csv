@@ -1,0 +1,12 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0133,0.3,A,V2,political_intellectual_biography_and_reconstruction,思想史可把文学、讲演、组织行动和历史条件相互校验，并公开说明重构过程,重构的体系不能归为行动者亲自完成的单一理论,逐命题注明莫里斯原文或Thompson解释,ACCEPTED_AS_METHOD
+B0133,0.5,A,V2,works_letters_press_and_socialist_archives,作品、书信、讲演、报刊和组织档案可追踪概念在不同时期的变化,当前V2抽查未完成所有引文、档案和版次核定,回莫里斯原集、同期报刊、组织档案和实际页码,ACCEPTED_AS_SOURCE_METHOD
+B0133,0.6,A,V2,author_commitment_morris_center_gender_worker_and_version_bias,作者政治承诺、莫里斯中心、家庭／女性／工人缺口和1955／1976层次须进入审计,作者自我反思不消除这些限制,补企业史、劳动史、女性与家庭材料及不同版本对照,ACCEPTED_AS_EVIDENCE_AUDIT
+B0133,1.6,B,V2,art_architecture_decorative_art_and_worker_artist_concepts,莫里斯对建筑、装饰艺术、艺术家与工人的区分可用于19世纪设计概念史,政治思想传记不能独立说明行业职位和职业制度,补同期职位、企业、学校与行业组织材料,ACCEPTED_AS_CONCEPT_HISTORY_SUPPORT
+B0133,2.3,A,V2,morris_labour_capitalism_socialism_and_utopian_desire,莫里斯把艺术—劳动问题指向利润生产、阶级关系、使用价值和欲望教育，构成工艺美术政治的核心解释,‘必要与欲望’是Thompson重构；莫里斯政治不能代表企业实际劳动关系,与莫里斯原文、B0070、工人材料和反对者文献对读,ACCEPTED_AS_CORE_INTERPRETATION
+B0133,2.4,C,V2,use_profit_luxury_and_consumption_critique,使用、利润、奢侈与社会必要之间的关系可为消费批判提供思想背景,不含百货、广告、信用或消费者行为的充分材料,补零售制度、价格、广告、消费者与家庭使用材料,CONTEXT_ONLY
+B0133,2.5,B,V2,architecture_as_total_art_and_life_framework,建筑作为关联装饰艺术、劳动与生活的总体框架可解释整体环境理想,思想框架不能替代具体室内、对象、作者和使用史,补图纸、对象、委托、工场、家庭和视觉核验,ACCEPTED_WITH_OBJECT_FOLLOWUP
+B0133,2.6,C,V2,anti_imperial_politics_without_display_history,莫里斯的反帝国政治可提示工艺美术与帝国的内部矛盾,本书不能承担世界博览会分类、殖民物质流动或被殖民者经验,补展览、贸易、殖民档案和来源社会材料,CONTEXT_ONLY_NOT_COLONIAL_CORE
+B0133,2.7,C,V2,ideas_translation_without_material_transfer_chain,莫里斯文本的国际传播可作为思想转译入口,不等于棉布、陶瓷、纹样或日本主义的物质迁移机制,补翻译、出版、旅行、贸易、对象和地方生产,CONTEXT_ONLY
+B0133,11.5,C,V2,anti_capitalist_design_critique_prehistory,对资本主义劳动、商品和欲望的批判可作为战后设计批评的长时段前史,不能用19世纪思想直接证明战后反设计运动的组织、对象或接受,补战后行动者文本、团体、对象和政治语境,CONTEXT_ONLY_AS_PREHISTORY
+B0133,15.5,C,V2,necessity_desire_and_utopian_imagination_genealogy,必要、欲望与乌托邦想象可作为当代转型设计讨论的一条思想谱系,不能把Thompson重构当作当代设计方法或文明尺度结论,补当代理论、实践、参与者和效果研究,CONTEXT_ONLY_AS_GENEALOGY

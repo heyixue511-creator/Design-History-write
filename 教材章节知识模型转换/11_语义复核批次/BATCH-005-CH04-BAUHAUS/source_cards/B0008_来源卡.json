@@ -1,0 +1,137 @@
+{
+  "source_id": "B0008",
+  "corpus": "book",
+  "folder_name": "Adolf Loos：《Ornament and Crime》，2019",
+  "material_type": "行动者文集（P0汇编）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Adolf Loos：《Ornament and Crime》，2019_clean.md",
+  "clean_source_sha256": "A691AE664319F9C4CE8DBA45B13DDD947BBCDCDCADBC27038B0DA3E12F5AAF81",
+  "duplicate_group": "本包无精确哈希重复；与4.1/2.5来源共享Loos文本时只计一份P0（Loos为唯一行动者作者，Masheck后记与编辑层不计入P0重复）",
+  "files": [
+    {
+      "report_file_count": 32,
+      "report_characters": 163464
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "4.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "modernist_canon_actor"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "canon_influence_claim"
+    },
+    {
+      "section_id": "4.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "canon_actor_self_positioning"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "craft_education_critic"
+    },
+    {
+      "section_id": "4.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "english_modernity_model"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "secession_critic"
+    },
+    {
+      "section_id": "2.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "decor_crime_thesis"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "modernity_definition"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernity_gender_bias"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "actor_text_evidence"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "editorial_layer"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "evolutionary_discourse_bias"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "rhetoric_bias"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "translation_bias"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "X",
+      "verification": "V2",
+      "role": "p4_knowledge_emergence"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "英译本非德文原典，Ornament（中性拉丁词源）与Schmuck（日耳曼词源）等语词辨析依赖译者与后记转述，存在翻译层损耗",
+    "论辩性新闻体含大量反讽夸张（如“毒死建筑师”、“纹身者即潜在罪犯”），不可按字面当作事实陈述或政策主张，修辞层与主张层须区分",
+    "种族/进化论话语（巴布亚人、纹身与犯罪、Haeckel重演论）仅作为历史立场转述，能证明Loos主张过该立场，不能证明其科学性，亦不得作为当代种族观依据",
+    "行动者文本只能证明Loos的主张与自我定位，不能自动证明其社会影响、对包豪斯/Le Corbusier的因果作用，影响判断需独立接受史证据",
+    "Masheck后记属编辑层二手学术层，其“语境化辩护”（如“目标从来不是非欧洲种族”）是辩护性解读而非客观事实，须与原文层区分",
+    "接受史判断（Pevsner/Giedion正典化、后殖民批评、性别偏见）出自分析报告而非本包原文，未经独立核验",
+    "出版年与文章年代存在争议（1908 vs. 1909），正文标题标1908而后记依Christopher Long重订为1909，引用年代信息须注明依据层",
+    "知识涌现模型（P4推演）仅作语义路由，不构成来源证据，其命题未经本包原文核验，不得进入教材命题证据链",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "clean第1658—1677行：《装饰与罪恶》正文开篇——胚胎重演论（两岁如巴布亚人、八岁如伏尔泰）、第1677行核心公式“文化的进化=去除实用物品的装饰”",
+    "clean第1670—1671行：监狱中80%囚犯有纹身、未入狱纹身者是“潜在罪犯或退化贵族”（Lombroso犯罪人类学借用）",
+    "clean第656—669行：《波将金城》——凯瑟琳宠臣波将金村喻体、第660行“我们要谈的波将金城是我们亲爱的维也纳”、第663行“冒充”",
+    "clean第1144行：覆盖原则（The Principle of Cladding）——覆盖材料不得冒充被覆盖材料，每种材料有自身形式语言",
+    "clean第2004、2028行：对分离派与青年风格的装饰批判——斥其以新装饰替换旧装饰",
+    "clean第1678—1687行：路斯自我定位——“我们克服了装饰，我们挣扎着到达了无装饰”、“世界没有感谢我”",
+    "clean第2426—2432行：Masheck后记——1908/1909年代重订（依Christopher Long）、Lombroso借用溯源",
+    "clean第2516行：后记将路斯文化进化论归于Haeckel生物发生律（胚胎重演论）并区分于社会达尔文主义",
+    "clean第31—39行：1897—98年以英国工艺运动简洁美学为参照批评奥地利应用艺术学校",
+    "clean第50—51行：“革命必须来自底层——作坊”",
+    "clean第1080行起：The Principle of Cladding、第660行起The Potemkin City",
+    "clean第782—792行：Ladies' Fashion（1898）——女性时尚=向男性感官诉求"
+  ]
+}
