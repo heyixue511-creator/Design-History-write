@@ -1,0 +1,57 @@
+{
+  "source_id": "B0174",
+  "corpus": "book",
+  "folder_name": "Graham Pullin：《Design Meets Disability》，2009",
+  "material_type": "残障设计研究（设计-残障对话）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Graham Pullin：《Design Meets Disability》，2009_clean.md",
+  "duplicate_group": "与B0138/B0460（通用设计）共享残障设计对象；本书为批判侧（美学/身份），与制度侧互补",
+  "files": [
+    {
+      "report_file_count": 14,
+      "report_characters": 5960
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "12.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "disability_social_model_design"
+    },
+    {
+      "section_id": "12.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "inclusive_design_critique"
+    },
+    {
+      "section_id": "12.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "critical_design_disability"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Pullin（邓迪大学交互设计教授，前IDEO高级设计师、BIME设计师），MIT Press 2009",
+    "核心命题：残障设计不应被隔离在主流设计文化之外，应吸收时尚/产品/家具/交互/图形各领域的审美敏感性与方法论；主流设计亦可从残障语境获得灵感——'设计遇见残障'双向对话",
+    "张力模型（VIEW 1-7）：探索vs解决、简单vs通用、身份vs能力、挑衅vs敏感、感受vs测试、表达vs信息",
+    "对通用设计/包容性设计话语的建设性批评：'为所有人设计'可能导致平庸化；引入简单性、轻盈感、共鸣等美学品质",
+    "WHO ICF框架与社会模式转向；'Deaf with capital D vs. deaf with little d'身份多样性",
+    "最早系统将批判性设计（Dunne & Raby）引入残障设计讨论的著作之一",
+    "限度：对社会模式依赖略显乐观（结构性障碍讨论不足）；设计师样本以欧美白人中产为主；理论系统化程度低于案例丰富性",
+    "本书为残障设计批判侧主源（B级）：对12.5承担社会模型与包容性设计批评",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "VIEW 2：Apple iPod——简单性与通用性张力；批判'万能飞行潜艇'式包容性设计",
+    "VIEW 3：WHO ICF框架——'残障'定义的语境性；Deaf with capital D",
+    "VIEW 4：批判性设计（Dunne & Raby）引入残障设计及其伦理争议",
+    "VIEW 6：AAC辅助沟通——Stephen Hawking、Art Honeyman案例——沟通是表达与身份建构",
+    "VIEW 7：'假设性会面'——与Philippe Starck、Jasper Morrison等设计师的设计推演"
+  ]
+}

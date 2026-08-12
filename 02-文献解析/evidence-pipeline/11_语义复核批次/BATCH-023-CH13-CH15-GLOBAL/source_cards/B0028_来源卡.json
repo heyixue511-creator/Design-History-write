@@ -1,0 +1,59 @@
+{
+  "source_id": "B0028",
+  "corpus": "book",
+  "folder_name": "Appadurai, Arjun (ed.)：The Social Life of Things：Commodities in Cultural Perspective, 1986",
+  "material_type": "物质文化理论文集（物的社会生命）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Appadurai, Arjun (ed.)：The Social Life of Things：Commodities in Cultural Perspective, 1986_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 16985
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "2.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "commodity_ecumene_crosscultural_flow"
+    },
+    {
+      "section_id": "13.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "social_life_of_brands"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "social_regulation_of_demand"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Arjun Appadurai 主编，《The Social Life of Things: Commodities in Cultural Perspective》（1986，Cambridge University Press），经济人类学/物质文化研究跨学科论文集（10篇论文：5位社会人类学家+1位考古学家+4位社会史学家）",
+    "核心命题：商品如同人一样具有'社会生命'——并非只存在于现代资本主义经济中的静态物品，而是在不同社会和历史语境中经历进入和退出商品状态（commodity state）的动态过程",
+    "方法论上的拜物教（methodological fetishism）：追随物本身的运动轨迹——'物的形式、用途和轨迹中铭刻着它们的意义'",
+    "商品情境三维度：商品阶段（commodity phase）、商品候选资格（commodity candidacy，界定可交换性的符号/分类/道德标准）、商品语境（commodity context）",
+    "关键概念：价值体制（regimes of value，不预设完整文化共识）、价值锦标赛（tournaments of value，库拉圈、艺术品拍卖）、路径与偏轨（paths and diversions）、被围封的商品（enclaved commodities）、商品普世圈（commodity ecumene，联结生产者/分配者/消费者的跨文化关系网络）、终端商品（terminal commodities，彻底去商品化）",
+    "Kopytoff'物的文化传记'：商品化（commoditization）与独特化（singularization）的持续张力——所有经济扩张商品化范围、所有文化抵制商品化；毕加索绘画与人体器官为例",
+    "案例：库拉圈、所罗门群岛丧葬物品、Muria Gonds'显眼的节俭'（Gell）、史前欧洲黄金威望（Renfrew）、中世纪圣物贸易（Geary）、东方地毯真实性（Spooner）、阿拉伯茶（Cassanelli）、法国大革命前后布料观念（Reddy）、印度布料政治经济学与斯瓦德西/国货（Bayly）",
+    "对礼物与商品、资本主义与前资本主义经济的传统二元对立提出根本性挑战",
+    "奢侈品作为'消费寄存器'（register of consumption）：对精英的限制、获取复杂性、符号学精湛性、时尚调节、与身体人格的关联",
+    "影响：物质文化研究、消费研究、全球化的'物'转向的理论基石",
+    "clean原文存在；未完成全篇、版次、数字和引注核验；文集各章命题按'分析报告综合'承担。"
+  ],
+  "original_spot_checks": [
+    "导论：商品情境三维度与价值体制",
+    "导论：方法论拜物教",
+    "Kopytoff：商品化vs独特化",
+    "Gell：显眼的节俭",
+    "Bayly：斯瓦德西与商品抵抗的语言"
+  ]
+}

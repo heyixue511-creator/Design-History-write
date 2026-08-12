@@ -1,0 +1,46 @@
+{
+  "source_id": "B0306",
+  "corpus": "book",
+  "folder_name": "Meggs, Philip B.; Purvis, Alston W.：Meggs' History of Graphic Design, 2016",
+  "material_type": "平面设计通史（权威教材）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Meggs, Philip B.; Purvis, Alston W.：Meggs' History of Graphic Design, 2016_clean.md",
+  "duplicate_group": "与B0364（Hollis）、B0009（Weill）、B0214（Drucker）构成平面设计史参照组：同一通用史实只计一份P0",
+  "files": [
+    {
+      "report_file_count": 24,
+      "report_characters": 9183
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "information_age_graphic_design"
+    },
+    {
+      "section_id": "11.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "postmodern_graphic_textbook"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Meggs创始、Purvis续修（自第四版），Wiley 2016第六版；英语世界首部系统平面设计通史（1983初版），学科奠基教材",
+    "五部分24章：Prologue（史前至中世纪）→Graphic Renaissance（1450—18世纪末）→Industrial Revolution→Modernist Era（1890s—二战后）→Age of Information（1950s—2010s）",
+    "第六版新增：motion graphics、design for the built environment、digital type design、portable devices、interactive media",
+    "学科地位：定义'什么是值得记录的平面设计'（学科界定性）；全球设计院校标准教材",
+    "本书为平面设计史权威教材（C级）：对11.7承担信息时代平面设计表述（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Part 5 Age of Information（Ch18-24）：1950年代至2010年代——后现代/数字时代",
+    "第六版新增motion graphics、digital type design、interactive media",
+    "1983年初版至今六版——学科基础设施演化"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "source_id": "B0215",
+  "corpus": "book",
+  "folder_name": "Johanna Drucker：《The Visible Word Experimental Typography and Modern Art, 1909-1923》，1994",
+  "material_type": "实验排版与现代艺术专著（物质性理论）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Johanna Drucker：《The Visible Word Experimental Typography and Modern Art, 1909-1923》，1994_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 7,
+      "report_characters": 9539
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "experimental_typography_modern_art"
+    },
+    {
+      "section_id": "C.0",
+      "grade": "C",
+      "verification": "V2",
+      "role": "materiality_analysis_model"
+    },
+    {
+      "section_id": "16.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "marked_text_language_authority"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Johanna Drucker，《The Visible Word: Experimental Typography and Modern Art, 1909-1923》（1994，芝加哥大学出版社）——跨学科艺术史与文学批评专著",
+    "研究对象：1909至1923年间欧洲先锋派（Futurism/Dada/Cubism）的实验性排版实践；1923年（Zdanevich《Ledentu》、Lissitzky/Mayakovsky《For the Voice》、Marinetti'St. Unique'问世、Tzara《煤气心》上演至Dada'死亡'）被视为实验排版的高峰与终结之点",
+    "核心论点：早期现代主义艺术家通过排版实验将'物质性'（materiality）置于其表征实践的核心——排版不是装饰、不是'包装'，而是意义生产的内在组成部分；而20世纪中期的现代主义批评（文学中的New Criticism——重符号所指、重文本自足；视觉艺术中的High Modernism——重视觉纯粹性、排斥语言关联）却系统性地遮蔽、曲解了这一实践——两者共同构建了一套对立性定义（视觉在场 vs. 文学缺席），使排版实验（同时兼具视觉与语言维度）成为理论盲点",
+    "学科领域交叉：艺术史（未来主义/达达主义/立体主义视觉艺术实践）、文学批评（Apollinaire/Marinetti/Tzara/Zdanevich先锋派诗歌的排版实验）、符号学与语言学（Saussure/Peirce符号学理论延伸至Derrida与Kristeva的解构与符号分析）、书籍史与印刷史（Gutenberg以来的印刷传统、19世纪广告排版、商业印刷技术）、批评史与史学史（20世纪批评理论的演变为元分析对象）",
+    "物质性概念三层结构：①物理物质性（physical materiality）——纸张/油墨/字模/印刷技术的物理属性（耐久性/尺度/反射率/色彩饱和度/触觉品质）；②符号物质性（semiotic materiality）——能指在差异系统中的运作（字体的选择/字号/版面空间分布/斜体正体交替——这些视觉差异产生符号学意义上的区分价值）；③社会-历史物质性（socio-historical materiality）——物质形式所承载的生产条件/制度框架/文化编码（石碑铭文与打字机备忘录在文化等级中的不同位置）",
+    "方法论贡献：以物质性为核心的解释模型——反对将视觉与语言对立（视觉=在场/充盈，语言=缺席/替代），主张物质性是符号活动不可约化的维度；主体性与历史性（historical specificity）必须被纳入对物质性的分析；排版作为一种'被标记的文本'（marked text），通过视觉形式的操控揭示了语言权威的建构性",
+    "学术对话对象：Rosenblum（1973）'Picasso and the Typography of Cubism'——Drucker称此文为'landmark article'，但此前该领域几乎空白；Spencer、Bohn等排版史编纂者——Drucker的工作超越其描述性编年，转向理论建构；Perloff、Janacek、Hubert等后来者——Drucker提及这些后来者的研究使该领域不再荒芜；Derrida（对'书写形而上'的批判）与Kristeva（'符号性/象征性'的区分分析）作为理论资源",
+    "价值：排版研究从描述性编年转向理论建构的标志性著作——物质性分析模型对设计史/视觉文化研究有方法论辐射",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：研究范围与术语",
+    "第1章：符号学、物质性与排版实践",
+    "第3章：四位诗人案例分析（Marinetti/Apollinaire/Zdanevich/Tzara）",
+    "第4章：排版实验的消亡（New Criticism与High Modernism的遮蔽）",
+    "物质性三层结构（物理/符号/社会-历史）"
+  ]
+}

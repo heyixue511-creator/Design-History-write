@@ -1,0 +1,75 @@
+{
+  "source_id": "B0431",
+  "corpus": "book",
+  "folder_name": "Vance Packard：《The Waste Makers》，1960",
+  "material_type": "消费社会批判（调查性著作）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Vance Packard：《The Waste Makers》，1960_clean.md",
+  "duplicate_group": "与B0206（Meikle消费工程）、B0376（Marchand广告）共享计划报废/广告批判对象；本书为5.7批判原典之一（P0缺口补证），同一批判对象只计一份",
+  "files": [
+    {
+      "report_file_count": 28,
+      "report_characters": 5300
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "9.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "planned_obsolescence_typology"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "saturation_growthmanship"
+    },
+    {
+      "section_id": "9.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "quality_decline_home_products"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "packard_critique_original"
+    },
+    {
+      "section_id": "12.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "resource_depletion_warning"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "credit_consumer_sovereignty"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Packard消费社会批判三部曲之二（《Hidden Persuaders》1957、《The Waste Makers》1960、《The Status Seekers》1959）；本版为Longmans 1961英国版",
+    "核心论点：美国经济是'被强制喂食的社会'（force-fed society），依赖消费不断扩张；营销者系统培养浪费、轻率与纵欲，耗尽资源、腐化公共生活、改变国民性格",
+    "关键概念：计划报废三类型（功能/质量/欲望，L696-702）、抛弃精神（throwaway spirit）、增长主义（Growthmanship）、强迫消费（Victor Lebow）、动态报废（汽车年度改型）",
+    "结构：四部分25章——困境→九大策略→代价→五条出路",
+    "材料：报刊（WSJ、Time、Advertising Age等）、政府文件（FTC命令、参议院报告）、专业期刊、一手访谈；'不设反派'立场（社会性合谋）",
+    "限度：数据依赖当时报刊缺乏系统统计验证；对资本结构批判止于现象层面；建议部分偏个人主义改良",
+    "本书为5.7批判原典（Packard）的补证：补入后5.7可评估升级准入；同时是9.1消费社会批判的A级来源",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L696-702：计划报废三类型（功能/质量/欲望）",
+    "L501-671：'Progress Through the Throwaway Spirit'——抛弃精神",
+    "L268-338：增长主义（Growthmanship）批判",
+    "L1484-1601：'Fashion Lines for the Kitchen'——厨房用品时装化",
+    "L2405-2675：资源枯竭（金属、石油、水、木、粮）",
+    "L1819-1986：信贷消费与'永不还清'（Selling on the Never-Never）"
+  ]
+}

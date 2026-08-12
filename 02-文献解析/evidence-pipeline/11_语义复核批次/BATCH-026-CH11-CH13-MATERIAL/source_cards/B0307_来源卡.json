@@ -1,0 +1,60 @@
+{
+  "source_id": "B0307",
+  "corpus": "book",
+  "folder_name": "Michael Braungart, William McDonough：《Cradle to cradle remaking the way we make things》",
+  "material_type": "可持续设计经典（摇篮到摇篮）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Michael Braungart, William McDonough：《Cradle to cradle remaking the way we make things》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 11554
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "12.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "cradle_to_cradle_waste_food"
+    },
+    {
+      "section_id": "12.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "substitution_trap_critique"
+    },
+    {
+      "section_id": "16.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "nutrient_cycles_industry"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Michael Braungart & William McDonough，《Cradle to Cradle: Remaking the Way We Make Things》（2002初版，2008再版含Braungart第一人称导论），可持续设计经典",
+    "核心概念：'摇篮到摇篮'——废物即养分（waste = food）；将人类置于与其他生物相同的'物种图景'；追求'有益'而非'减少危害'",
+    "'减少危害'（less bad）语言批判：'零排放、零足迹、减少、回避、最小化——这种内疚语言非常流行'；'更多控制（减少危害）不等于做好事'——以'打孩子三次代替五次不是保护孩子'、'少用车不是保护环境'的比喻揭示其逻辑缺陷",
+    "'归还法则'（law of return）：追溯至早期农业社会——农民试图归还从土地取走的东西——'他只是知道这是正确的事'",
+    "成分替代的陷阱：欧盟石棉禁令被锑硫化物（更强致癌物）替代、电视机无铅焊料（锡银铜镍铋）稀缺且有毒——'铅是完美的技术养分，现在它被妖魔化了'——对'一刀切'环保立法的尖锐批判",
+    "荷兰模式与'支撑文化'：'在荷兰如果你不支持你的邻居你会淹死'——C2C成功不仅靠技术方案还需文化心理适配；荷兰环境部采购标准、40%天然气利润分配",
+    "对'尊重多样性'的修正：'尊重远远不够，除非我们积极支持多样性，否则它将消失'——从被动尊重到主动支持",
+    "从伦理问题到实用问题：'不要将温室效应等问题变成伦理问题；要把它变成生活质量问题'——非道德化立场（'让我们不要愚蠢'而非'要有道德'）",
+    "产业案例：Desso（荷兰地毯）、Van Gansewinkel（废物管理）、Orangebox（办公家具）、Hewlett-Packard、Philips",
+    "收束比喻：克努特国王（无法命令潮汐→学会冲浪）；'摇篮到摇篮像好的园艺——不是关于拯救地球，而是关于学会在地球上繁荣'",
+    "影响：可持续设计/循环经济的思想源头之一；2002-2008英译本售出近30万册",
+    "clean原文存在（1011731字节大文件）；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：'减少危害'语言批判",
+    "导论：成分替代陷阱（石棉/铅焊料案例）",
+    "导论：荷兰模式与支撑文化",
+    "导论：'尊重远远不够'修正",
+    "导论：'学会在地球上繁荣'收束"
+  ]
+}

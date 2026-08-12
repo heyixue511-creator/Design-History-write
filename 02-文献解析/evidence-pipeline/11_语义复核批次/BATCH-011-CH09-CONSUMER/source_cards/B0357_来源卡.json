@@ -1,0 +1,56 @@
+{
+  "source_id": "B0357",
+  "corpus": "book",
+  "folder_name": "Rachel Davies-Cooper, Mike Press：《The Design Agenda》，1995",
+  "material_type": "设计管理（英国设计管理纲领）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Rachel Davies-Cooper, Mike Press：《The Design Agenda》，1995_clean.md",
+  "duplicate_group": "与B0180（Julier设计文化）共享企业形象/设计管理对象；与B0401等通史共享企业案例（Philips、Sony）时对象级去重",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 3747
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "9.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "corporate_design_strategy"
+    },
+    {
+      "section_id": "9.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_management_matrix"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_value_economy_culture"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Cooper（Salford大学）与Press（Staffordshire大学），Wiley 1995；英国设计管理纲领性入门著作（7章+Resource Guide）",
+    "核心论点：设计是连接经济与文化的桥梁；设计必须被战略化、组织化、诊断化管理；每家公司都需要一份'设计议程'",
+    "关键概念：design management、silent design、Total Design、design maturity、sign-value、corporate identity、design audit、设计管理矩阵（三层次×九职能）",
+    "材料：企业案例（Apple、Xerox、Philips、Sony、B&O、Prudential）、实证研究（DIG 221家、Strathclyde 369家）、政策文献（Corfield、Fairhead、MITI）",
+    "历史地位：Open University/Design Innovation Group共同体；1980年代设计管理实证研究到1990年代教育制度化的桥梁",
+    "限度：案例数据集中于1980年代；英国中心视角；全球南方与性别议题不足；设计史处理为概述性叙事",
+    "本书为设计管理侧证据：对9.5承担企业设计战略与组织化传播（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L47-48：'设计必须被证明是重要的经济与文化资源'",
+    "L73、L983：设计是连接经济与文化的桥梁",
+    "L500：design maturity（设计成熟度）",
+    "L815、L1713：corporate identity（企业形象）",
+    "L2996：设计管理矩阵（三层次×九职能）"
+  ]
+}

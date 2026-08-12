@@ -1,0 +1,56 @@
+{
+  "source_id": "B0180",
+  "corpus": "book",
+  "folder_name": "Guy Julier：《The Culture of Design》，2000",
+  "material_type": "设计文化理论（当代设计研究）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Guy Julier：《The Culture of Design》，2000_clean.md",
+  "duplicate_group": "VGRP008-EDITION：与B0242（2018版资产）为同一著作不同版次，只计一个独立书目实体；重合命题不独立计证，B0242承担新版增量；版本差异须返回原书核实",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 9270
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "9.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "design_culture_triangle"
+    },
+    {
+      "section_id": "9.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "corporate_identity_communication"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "problem_processing"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Julier（布莱顿大学），SAGE 2000；设计文化理论著作（导论+12章）",
+    "核心概念：设计文化（design culture）——'几乎完全由差异化策略驱动的文化特定实践'；生产—设计师—消费三角模型（Figure I.1）",
+    "核心论题：设计从'问题解决'（problem-solving）转向'问题处理'（problem-processing）、从多学科转向跨学科；现有学术话语未能跟进实践变革",
+    "案例选择原则：主流案例（非'好设计'典范）、知名度高、作者亲身体验；不评判好坏、性别议题融入主流（分析伦理约定）",
+    "与B0242版本族（VGRP008）：B0180为2000首版，B0242为2018版资产（packet识别2000首版文本）；版本差异须返回原书核实",
+    "方法：跨学科综合（人类学Miller、地理学Jackson/Thrift、文化研究du Gay、经济社会学Lash/Urry）＋批评广告中心主义（Nike案例）",
+    "本书对9.5承担企业形象系统化的分析框架（三角模型）；Ch9企业身份的内部沟通为9.5核心章节",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L13：'Design culture is not fixed, homogeneous or homogenizing; rather it embraces a complex matrix of human activities, perceptions and articulations.'——设计文化定义",
+    "L7：设计从'问题解决'到'问题处理'、从多学科到跨学科",
+    "L10：Nike案例——广告中心主义批评（Goldman & Papson 1998）",
+    "L19：Ch9预告——企业身份的内部沟通",
+    "L20：'only by understanding the current state of design culture can we then begin to look at routes towards its ethical and practical amelioration'"
+  ]
+}

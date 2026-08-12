@@ -1,0 +1,57 @@
+{
+  "source_id": "B0426",
+  "corpus": "book",
+  "folder_name": "Tim Brown：《Change by Design How Design Thinking Transforms Organizations and Inspires Innovation》",
+  "material_type": "设计思维主流叙事标志性文本（IDEO）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Tim Brown：《Change by Design How Design Thinking Transforms Organizations and Inspires Innovation》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 3942
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "15.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_thinking_mainstream_narrative"
+    },
+    {
+      "section_id": "13.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_thinking_corporation"
+    },
+    {
+      "section_id": "C.0",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_thinking_genealogy"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Tim Brown（蒂姆·布朗，IDEO公司CEO兼总裁），《Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation》（2009年8月，Harper Business/HarperCollins e-books；Barry Katz协助文本；clean版2764行：正文十章+引言）",
+    "定位：2000年代末'设计思维'运动产业化的标志性文本——把设计思维从设计界术语推广为全球商业、教育、公共部门通用的创新话语",
+    "核心论点：设计思维是强大、有效、普遍可及的创新方法——设计思维是'把人的可欲性、技术的可行性、商业的活力整合起来'的创新方法（三大创新空间：灵感/构想/实施；约束三角：可欲性/可行性/活力）；'设计已经太大，不能只留给设计师'——人人——从CEO到护士到学生——都可习得并应用它",
+    "十章结构：引言（设计思维的力量）→Getting Under Your Skin（方法总论：三空间/约束/简报/团队/文化）→Converting Need into Demand（人本方法：洞察/观察/同理心）→A Mental Matrix（思维工具：发散/收敛、分析/综合、乐观、头脑风暴、视觉思维、Post-it）→Building to Think（原型化：产品/服务/虚拟/组织原型）→Returning to the Surface（体验设计：体验经济/参与/体验蓝图）→Spreading the Message（讲故事：第四维度/思想政治/meme）→Design Thinking Meets the Corporation（组织应用：创新组合管理/组织转型/授人以渔）→The New Social Contract（社会契约：服务转向/大系统TSA/可持续）→Design Activism（社会创新：极端用户/Aravind/IDE/Acumen/教育）→Designing Tomorrow—Today（行动建议：组织/个人清单、设计人生）",
+    "关键概念：三大创新空间（灵感/构想/实施）、约束三角（可欲性/可行性/活力）、人本三工具（洞察/观察/同理心）、心智矩阵（发散/收敛、分析/综合）、'用手思考'（原型化）、体验经济与体验蓝图、讲故事与'第四维度'、创新组合与Ways to Grow矩阵、参与式社会契约、设计行动主义与极端用户、'人生即原型'",
+    "方法：归纳式案例论证（IDEO三十年一手项目档案——故事即证据）、框架化（三空间/矩阵/蓝图）、历史叙事、对比论证、反例界定；行文内嵌引用（Drucker/Pink/Martin等）而非学术脚注",
+    "历史地位：设计思维运动产业化的标志性文本——与Simon《The Sciences of the Artificial》、Buchanan《Wicked Problems in Design Thinking》、Martin《The Design of Business》构成1960-2010年代'设计思维/设计研究'演进的关键环节；为2010年代后的服务设计、社会创新与设计管理话语提供了奠基性框架",
+    "限度（含作者自嘲）：IDEO单源案例存在成功者偏差（L86自嘲）；'设计思维'概念边界模糊、未严格操作化；部分技术语境（MySpace/Second Life/Android早期）已过时；社会公益章节对制度性约束着墨有限；索引页码与电子文本不对应",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "引言：'设计已经太大，不能只留给设计师'",
+    "L33/L172：三大创新空间与约束三角",
+    "L422-423：人本三工具（洞察/观察/同理心）",
+    "L938-960：'用手思考'原型化",
+    "第7章：设计思维进入公司管理"
+  ]
+}

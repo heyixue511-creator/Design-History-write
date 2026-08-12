@@ -1,0 +1,62 @@
+{
+  "source_id": "B0202",
+  "corpus": "book",
+  "folder_name": "Jean Baudrillard：《The Consumer Society Myths and Structures》，1970",
+  "material_type": "消费社会理论（符号学批判）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jean Baudrillard：《The Consumer Society Myths and Structures》，1970_clean.md",
+  "duplicate_group": "与B0203（《The System of Objects》1968）为同一作者姊妹篇，共享物体系理论对象；与B0431（Packard）、B0409（de Grazia）共享消费社会批判主题时理论层互补",
+  "files": [
+    {
+      "report_file_count": 17,
+      "report_characters": 4475
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "9.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "sign_code_consumption_theory"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "structural_penury_growth"
+    },
+    {
+      "section_id": "9.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "consumption_as_social_control"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "consumer_society_theory"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Baudrillard《La société de consommation》(1970)，Sage英译1998（Ritzer导论）；与《物体系》(1968)为姊妹篇",
+    "核心论题：消费不是个体需求的满足，而是主动的、集体性的社会关系模式——符号的差异化生产与交换；需求是系统生产出来的",
+    "关键概念：符码（code）、差异逻辑、最小边际差异（SMD）、结构匮乏（structural penury）、消费生产力、货物崇拜、拟像/仿真",
+    "理论资源：结构主义语言学（索绪尔）、列维-斯特劳斯、马克思主义、涂尔干、凡勃伦、加尔布雷思（批判其真实/虚假需求二分）",
+    "方法：结构分析优先于经验描述；功能分析；类比与隐喻推理；概念倒转（'丰裕'即'匮乏'）",
+    "限度：理论多元未整合；原始社会浪漫化；对消费主体能动性扁平化；历史细节缺乏",
+    "本书为消费理论原典：对9.1承担符号学批判框架（A级）；与Packard（实证批判）互补",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L003：'消费不是个体对物品使用价值的满足行为，而是一种主动的、集体性的社会关系模式'——核心论题",
+    "L004：消费的根本驱动力是差异符码而非个体需求",
+    "L006：结构匮乏——增长社会不可消除的结构性贫困",
+    "L1294-1309、L1472-1486：萨林斯与列维-斯特劳斯人类学参照",
+    "结论：'消费社会不需要魔鬼契约——它自己就是自己的神话'"
+  ]
+}

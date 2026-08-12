@@ -1,0 +1,58 @@
+{
+  "source_id": "B0126",
+  "corpus": "book",
+  "folder_name": "Donald A. Norman：《Emotional Design Why We Love (Or Hate) Everyday Things》",
+  "material_type": "情感化设计理论著作（三层加工模型）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Donald A. Norman：《Emotional Design Why We Love (Or Hate) Everyday Things》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 10,
+      "report_characters": 18651
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "16.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "emotion_three_levels"
+    },
+    {
+      "section_id": "9.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "emotional_consumption_brand"
+    },
+    {
+      "section_id": "14.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "attractive_things_work_better"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Donald A. Norman（认知科学家/可用性工程先驱/曾任苹果副总裁/Nielsen Norman Group联合创始人），《Emotional Design: Why We Love (Or Hate) Everyday Things》（2004，Basic Books）——对其早年功能主义设计观的自我修正与重大拓展",
+    "核心论点：情感非但不是理性的对立面，反而是认知不可分割的组成部分——'有吸引力的事物确实更好用'（Attractive Things Work Better）这一反直觉命题",
+    "三层加工模型（与Andrew Ortony、William Revelle共同提出）：本能层（visceral——前意识自动反应，感官信息驱动，跨文化稳定）；行为层（behavioral——使用的愉悦与效能：功能/性能/可用性，'心流'发生地）；反思层（reflective——意识、自我认同、文化意义、长期关系、记忆）——三层次交互冲突（过山车：本能恐惧vs反思征服自豪）",
+    "正向情感拓宽/负向情感聚焦（Isen研究）：正向情感下神经递质拓宽大脑加工（'见森林'），负向聚焦细节（'见树木'）——设计推论：愉悦产品使人更宽容小缺陷；高压情境（核电站控制室）需特殊设计",
+    "吸引力-可用性效应：Kurosu & Kashimura（1995日本）ATM实验+Tractinsky（1997以色列）跨文化重复——功能相同但布局更美观的ATM被评为更易用（三层模型解释：美观外观→正向情感→拓宽思维→更易找到替代方案）",
+    "Affect（感受——一般性判断系统，可意识或潜意识）vs emotion（情感——意识体验，含原因归因与对象识别）区分",
+    "结构：三个茶壶序章→第一部分'事物的意义'（2章）→第二部分'设计实践'（5章：三层设计策略/趣味与游戏/人场所物/情感机器/机器人的未来）→尾声'我们都是设计师'（个性化vs定制化——情感依附的真正来源）",
+    "情感机器（第6-7章）：自主机器人何以需要情感、Kismet/Eliza情感交互系统、MIT'情感计算'（Affective Computing）、阿西莫夫机器人四定律分析",
+    "与前作关系：《The Design of Everyday Things》（1988）的'情感补篇'——当年设计师批评'若按诺曼的处方行事，设计将全都可用但也会全都丑陋'是学术转向的核心动力",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "序章：三个茶壶",
+    "第1章：ATM实验与三层模型初步框架",
+    "第3章：三层设计策略",
+    "第6章：情感机器与Affective Computing",
+    "尾声：个性化vs定制化"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "source_id": "B0075",
+  "corpus": "book",
+  "folder_name": "Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999",
+  "material_type": "20世纪设计百科全书（图录式工具书）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999_clean.md",
+  "duplicate_group": "与B0076（Fiell北欧图录）为同一作者不同书；与B0238（Gura）、B0346（Sparke意大利）共享孟菲斯/波普对象时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 13254
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "memphis_pop_entries"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_vs_styling"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Charlotte & Peter Fiell，TASCHEN 1999，约768页；20世纪设计百科全览（A-Z词条），涵盖家具、产品、纺织、玻璃、陶瓷、金属器皿、平面设计，地理集中于欧洲北美",
+    "约122个词条（Aalto至Zsolnay），聚焦设计师/运动/院校/制造企业/核心概念；粗体交叉引用",
+    "前言核心框架：20世纪设计史本质是多元辩论——功能主义vs反理性主义、实用vs奢华、简约vs装饰、工业技术vs手工艺传统",
+    "词条含孟菲斯（Memphis）、波普设计（Pop）等后现代对象——图录式证据",
+    "方法立场：不倡导单一设计理论或意识形态，呈现多元性",
+    "本书为图录式工具书（C级）：对11.5承担孟菲斯/波普词条证据、11.1承担'设计vs造型'区分",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "前言：'设计vs造型（styling）'区分",
+    "20世纪设计史本质是多元辩论框架",
+    "词条：Memphis、波普设计等后现代对象",
+    "约122个词条A-Z编排，交叉引用"
+  ]
+}

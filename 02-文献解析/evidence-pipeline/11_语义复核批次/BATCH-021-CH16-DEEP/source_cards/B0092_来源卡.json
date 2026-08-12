@@ -1,0 +1,57 @@
+{
+  "source_id": "B0092",
+  "corpus": "book",
+  "folder_name": "Criticality：《and Its Discontents》",
+  "material_type": "建筑理论论争（批判vs后批判）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Criticality：《and Its Discontents》_clean.md",
+  "duplicate_group": "与B0024/B0026（Dunne&Raby）、B0415（Design After Modernism）共享批判性设计谱系；本文为'后批判'论争主源",
+  "files": [
+    {
+      "report_file_count": 10,
+      "report_characters": 0
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "15.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "critical_postcritical_debate"
+    },
+    {
+      "section_id": "15.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "tafuri_legacy"
+    },
+    {
+      "section_id": "15.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "projective_pragmatism"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "George Baird（多伦多大学建筑教授），《'Criticality' and Its Discontents》（2004，Harvard Design Magazine'Stocktaking 2004'专题）",
+    "论争主线：21世纪初美国建筑理论界'批判vs后批判'之争——'批判性'（Eisenman-Hays路线）vs'后批判/投射性'（Speaks、Somol&Whiting）",
+    "Speaks 2002年Architectural Record发文为对批判性的第一次正面挑战；Somol&Whiting《Notes around the Doppler Effect》（Perspecta 33, 2002）为后批判阵营最富理论深度纲领文本",
+    "Tafuri思想遗产的引力：双方均未真正摆脱——'闺房中的建筑'（architecture in the boudoir）蔑称；Tafuri 1994去世",
+    "核心概念：post-Utopian pragmatism（后乌托邦实用主义，荷兰）、the provisional/ephemeral（Sylvia Lavin）、the diagrammatic/atmospheric（Somol&Whiting投射性三特征）、'the real fake vs the fake real'（Hickey）",
+    "事件：Koolhaas 1994 CCA发言（最早先兆）、MoMA实用主义研讨会2000、IAUS与Oppositions创立（Eisenman，约1973-74）",
+    "Baird立场：审慎中道——警示'投射性建筑'若无'投射性理论'支撑将沦为'仅仅是实用主义'",
+    "本文为批判性设计谱系（C级）：对15.1承担批判性/后批判论争",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Speaks 2002年Architectural Record发文——对批判性第一次正面挑战",
+    "Somol&Whiting'多普勒效应'文（Perspecta 33, 2002）",
+    "Tafuri'闺房中的建筑'与Socialpolitik",
+    "Koolhaas 1994 CCA发言",
+    "Hickey《Beau Monde》展览（2002, SITE Santa Fe）"
+  ]
+}

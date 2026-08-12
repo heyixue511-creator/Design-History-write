@@ -1,0 +1,64 @@
+{
+  "source_id": "B0032",
+  "corpus": "book",
+  "folder_name": "Arturo Escobar：《Designs for the Pluriverse Radical Interdependence, Autonomy, and the Making of Worlds》，2018",
+  "material_type": "本体论设计/去殖民设计理论",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Arturo Escobar：《Designs for the Pluriverse Radical Interdependence, Autonomy, and the Making of Worlds》，2018_clean.md",
+  "duplicate_group": "与B0151（Manzini）、B0230（Thackara）共享社会创新/过渡设计对象；与P0013（Tonkinwise）、P0032（Kossoff）为同一过渡设计学术共同体",
+  "files": [
+    {
+      "report_file_count": 12,
+      "report_characters": 12597
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "12.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "autonomous_design_communal"
+    },
+    {
+      "section_id": "12.7",
+      "grade": "A",
+      "verification": "V2",
+      "role": "pluriverse_justice"
+    },
+    {
+      "section_id": "12.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "ontological_design_critique"
+    },
+    {
+      "section_id": "15.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "decolonial_design"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Escobar（北卡罗来纳大学教堂山分校人类学家，哥伦比亚裔），Duke UP 2018；基于与哥伦比亚太平洋雨林非洲裔社群（PCN）三十年参与式行动研究",
+    "核心论点：现代设计深陷父权制资本主义现代性的二元论本体论（个体、真实、科学、经济四大信念），系统制造不可持续性与'去未来化'（defuturing）；呼吁以关系性（relationality）为基础的本体论设计",
+    "三个核心框架：本体论设计（'我们设计工具，工具反过来设计我们'——Design designs）、过渡设计（design for transitions）、自主性设计（autonomous design，以公社性与自主性为核心）",
+    "多元宇宙（pluriverse）：借用萨帕塔口号'一个能容纳许多世界的世界'（Queremos un mundo donde quepan muchos mundos）——对'单一世界世界'（OWW）的根本挑战",
+    "自主性设计五项原则：承认社群是自身知识的实践者、设计学习系统、问题陈述与解决方案的辩证等",
+    "案例：哥伦比亚北考卡Nasa/Misak原住民'生命计划'、La Toma妇女大游行（2014，440公里抗议）、萨帕塔自治实践、考卡河谷过渡想象练习",
+    "与Papanek（批判继承）、Manzini（对话）、CMU过渡设计团队、Fry/Willis（去未来化）、Illich（共生性）深度对话",
+    "本书为去殖民/本体论设计主源：对12.7承担自主性设计与多元宇宙（A级）、15.6承担去殖民设计（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L245-246：'设计设计'（Design designs）——我们设计世界，世界反过来设计我们",
+    "L420：萨帕塔口号——'我们想要一个能容纳许多世界的世界'",
+    "L1556-1557：关系性——'没有任何东西先于构成它的关系而存在'",
+    "L2767-2796：自主性设计五项原则",
+    "L1155-1166：La Toma妇女2014年440公里抗议游行",
+    "L432、L1780-1791：去未来化（defuturing）与创未来（futuring）"
+  ]
+}

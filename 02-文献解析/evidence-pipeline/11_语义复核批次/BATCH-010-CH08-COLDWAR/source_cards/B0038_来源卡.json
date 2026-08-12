@@ -1,0 +1,61 @@
+{
+  "source_id": "B0038",
+  "corpus": "book",
+  "folder_name": "Bauer, Arnold J：《Goods, power, history Latin Americas material culture》",
+  "material_type": "拉美物质文化通史（五百年）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Bauer, Arnold J：《Goods, power, history Latin Americas material culture》_clean.md",
+  "duplicate_group": "与B0303（墨西哥世博会）、B0463（东方展示）共享殖民权力与物质文化主题时对象级去重；本书为拉美物质文化主源",
+  "files": [
+    {
+      "report_file_count": 26,
+      "report_characters": 12848
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "8.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "civilizing_goods_latin_america"
+    },
+    {
+      "section_id": "8.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "developing_goods_import_substitution"
+    },
+    {
+      "section_id": "8.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "modernization_elite_self_alienation"
+    },
+    {
+      "section_id": "0.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "hybridity_foreign_dominance"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Bauer（加州大学戴维斯分校），Cambridge UP 2001，New Approaches to the Americas丛书；拉美物质文化五百年通史（前哥伦布—全球化）",
+    "核心概念：文明化物品（civilizing goods）、buena policía、reparto de mercancías（强制摊派）、mestizaje、extranjerización（自我异化）、crecer hacia adentro（内向型发展）",
+    "六阶段：前哥伦布→接触期→殖民成熟期→第一次自由主义（1870-1920现代化物品）→内向型发展（1930-1970发展物品）→新自由主义全球化（全球物品）",
+    "核心论点：拉美物质文化是抵抗、挪用、协商与混合的杂糅产物，但外来元素始终占主导；消费是身份、权力与归属的政治行为",
+    "方法：年鉴学派长时段＋人类学（Douglas）＋微观案例（San José de Gracia、Huaylas）＋自反性",
+    "本书为拉美物质文化主源（A级）：对8.6承担发展主义与现代化项目的物质文化侧；设计史对象证据须与区域档案互证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L9、L11：文明化物品概念——殖民/后殖民权力引入、旨在改造被征服者物质生活的物品",
+    "L114-115：reparto de mercancías——18世纪强制摊派贸易，'强迫消费'案例；1780年Tupac Amaru起义导火索",
+    "L171-178：CEPAL'向内发展'与进口替代工业化（1930-1970）",
+    "L150-164：extranjerización——精英文化自我异化（1910年墨西哥独立百年庆典无一道本土菜肴）",
+    "L188-191、L218-219：玉米饼从手工到机械化（Maseca面粉）——全球资本对日常生活的渗透"
+  ]
+}

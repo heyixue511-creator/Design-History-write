@@ -1,0 +1,56 @@
+{
+  "source_id": "B0120",
+  "corpus": "book",
+  "folder_name": "Deyan Sudjic：《The Language of Things Understanding the World of Desirable Objects》，2008",
+  "material_type": "设计批判（当代物质文化诊断）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Deyan Sudjic：《The Language of Things Understanding the World of Desirable Objects》，2008_clean.md",
+  "duplicate_group": "与B0202/B0203（Baudrillard）、B0431（Packard）共享消费批判对象；本书为当代设计批评侧（博物馆馆长视角）",
+  "files": [
+    {
+      "report_file_count": 14,
+      "report_characters": 15615
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "design_as_desire_language"
+    },
+    {
+      "section_id": "9.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "fashion_as_industry_model"
+    },
+    {
+      "section_id": "9.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "designed_desire_gender_class"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Sudjic（伦敦设计博物馆馆长2006—2020），Allen Lane 2008／W.W. Norton 2009，208页",
+    "核心论断：后机械时代设计不再是工程师解决功能问题的工具，而是被资本征用的'叙事语言'——通过色彩、材质、造型、声音、气味操纵身份、性别、阶级、民族性与'奢侈'感知",
+    "五章结构：语言（Helvetica、2CV/甲壳虫、太空舱）、设计原型（Anglepoise台灯）、奢侈（Chippendale→Selfridges镶钻笔记本）、时尚（Armani剧场、川久保玲、迷彩）、艺术（MoMA收藏Bell 47D1、Marc Newson Lockheed Lounge百万美元）",
+    "结语：2008年金融危机（雷曼倒闭）——'一切坚固的东西都烟消云散了'；消费与节约的钟摆运动",
+    "方法：第一人称反思性写作（'剥离自己的欲望以暴露它'）＋格言式压缩＋修辞并置（Morris vs Loewy、Rietveld vs Newson）",
+    "本书为设计批评侧证据（博物馆馆长/评论家视角）：对9.1承担消费欲望批判（B级）；设计史事实（案例）须与专史互校",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "引言：希思罗机场冲动购买黑色MacBook——'世界淹没在物品中'诊断",
+    "Ch1：Helvetica'中立性'、2CV与甲壳虫'民族性'差异、苏联/美国太空舱造型",
+    "Ch2：Anglepoise台灯从汽车工程师技术方案到'原型灯'的文化象征",
+    "Ch3：库哈斯'稳定性即奢侈'命题；宾利在大众旗下以'英国性'返祖",
+    "Ch4：川久保玲/三宅一生逆转'西方定义现代性'单向流动",
+    "结语：Icesave银行（Helvetica果冻色视觉）冻结30万储户40亿英镑"
+  ]
+}

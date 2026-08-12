@@ -1,0 +1,61 @@
+{
+  "source_id": "B0314",
+  "corpus": "book",
+  "folder_name": "Mildred S. Friedman, Joseph Giovannini：《Graphic Design in America A Visual Language History》，1989",
+  "material_type": "美国平面设计史展览图录兼论文集",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Mildred S. Friedman, Joseph Giovannini：《Graphic Design in America A Visual Language History》，1989_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 8,
+      "report_characters": 5684
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "graphic_design_america_visual_language"
+    },
+    {
+      "section_id": "C.0",
+      "grade": "C",
+      "verification": "V2",
+      "role": "multivocal_design_history_method"
+    },
+    {
+      "section_id": "9.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "corporate_identity_early_critique"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Mildred S. Friedman（主编）、Joseph Giovannini（参与编纂），《Graphic Design in America: A Visual Language History》（1989，Walker Art Center与Harry N. Abrams, Inc.合作出版）——配合同名展览'Graphic Design in America: A Visual Language History'编撰的大型学术图录兼论文集",
+    "定位：并非传统意义上的线性叙事设计史教材，而是一部多声部、多体例的综合文本——三大部分：①十二篇设计师个人档案（profile essays）——以第三人称介绍配第一人称自述的形式呈现（双声道结构）；②七篇主题性学术论文——覆盖技术变迁、社会政治、欧洲影响、商业设计、抗议海报、公共福利设计等领域；③一套视觉图版（Plates）——按照'环境中的设计''大众媒体设计''政府与商业设计'三大类别组织案例",
+    "核心学术贡献：是美国平面设计史学科形成期的关键文献之一——首次以博物馆展览与学术出版联动的形式，将'graphic design'定义为一门具有独立视觉语言的学科——与Philip Meggs 1983年的《A History of Graphic Design》几乎同期问世，但采用完全不同的方法论——Meggs追求百科全书式的通史叙事，本书则坚持案例研究、多声部并置与反思性批评",
+    "时间跨度：从1829年（Andrew Jackson总统任期）至1989年（出版当年），以四年总统任期周期为时间网格（'presidential grid'）将美国设计史锚定于政治史之上——这一方法论本身即是全书最具原创性的史学实验",
+    "核心论题：①平面设计的职业化——从19世纪末的商业艺术家到20世纪中后期的'graphic designer'这一职业身份的建构过程；②现代主义的美国化——欧洲先锋派（Bauhaus/构成主义/新Typography）如何被引入、转化并在美国商业与制度语境中本土化；③技术与设计的互动——从Gutenberg金属活字到照相排版再到数字桌面出版，技术变革如何重塑设计实践；④设计与公共领域——设计从纯粹商业服务向社会福利、政治抗议等公共功能的拓展；⑤个人风格vs体系化设计——Push Pin的折衷主义、Lubalin的表现性typography与瑞士国际主义的体系化之间的张力；⑥高雅文化与大众文化的边界消融——Pop Art、vernacular design的兴起对现代主义纯粹性的挑战",
+    "方法论特征：①Lupton/Miller撰写的'A Time Line of American Graphic Design, 1829-1989'——不仅是一篇时间线，更是对时间线作为一种'知识组织形式'的深刻批判——线性结构本身即是一种意识形态：它将历史呈现为朝向当代价值的'有机进步'，遮蔽了历史的断裂性、矛盾性与多元性；②整体拒绝单一叙事权威——将历史呈现为'散布于多种制度与话语之中'（diffused among a number of institutions and discourses）——与后现代史学（如Foucault的知识考古学、Hayden White的元史学）高度呼应；③第一人称口述的大量使用——12篇设计师档案全部包含设计师本人的第一人称叙述，这在当时的设计史出版物中极为罕见，为后世口述设计史奠定了坚实基础",
+    "作者群：横跨设计实践者与学术研究者两个领域——论文作者包括Ellen Lupton（Cooper Union策展人）、J. Abbott Miller（设计史学者）、Neil Harris（芝加哥大学历史学教授）、Estelle Jussim（媒介史学者）、Maud Lavin（文化批评家）、Lorraine Wild（CalArts教授/设计师）、David Kunzle（UCLA艺术史教授）、Joseph Giovannini（建筑评论家）",
+    "被收录设计师代表美国现代平面设计的三代谱系：第一代欧洲流亡者（Moholy-Nagy, Bayer, Brodovitch的精神传人如Rand, Lionni）；战后第二代（Bass, Glaser, Chermayeff, Thompson）；新兴第三代（Greiman, Kalman, Greenberg兄弟）——女性设计师的收录（Cipe Pineles, April Greiman）在当时具有突破性意义",
+    "历史语境（1989年）：桌面出版（desktop publishing）革命刚刚开始，Macintosh于1984年发布，PostScript和激光打印机正在改变设计行业；冷战即将结束；后现代主义在建筑和设计领域的辩论正酣——本书敏锐地捕捉了这一转折时刻——Greiman的数码设计实验、Giovannini对'graphics的零度写作'的批评，都直接回应了这一语境",
+    "展览背景：'Graphic Design in America'展由Walker Art Center组织，是美国首次由大型博物馆举办的平面设计史回顾展——展览的组织分类（环境中的设计/大众媒体设计/政府与商业设计）至今仍影响着设计史的分类框架",
+    "知识贡献六方面：①建立了美国平面设计史的第一个博物馆级学术叙事；②开创了设计史中'双声道'（第三人称评述+第一人称自述）的写作模式；③提出并实践了对时间线文体的元批判；④将政治史（总统任期）作为设计史的时间框架；⑤在女性设计师、少数族裔议题、政治海报等边缘领域的开拓性收录；⑥对'corporate identity'进行了早期的批判性分析（Maud Lavin的论文）",
+    "限度：受展览框架所限，对某些领域（如美国原住民的设计传统、非裔美国人的设计贡献、美国南方设计）关注不足；少数族裔仅在'Black Markets, Black Power'等少数章节中出现；过度集中于纽约-洛杉矶-芝加哥等大都会的设计生态",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L004：'presidential grid'时间网格",
+    "L006：双声道结构（第三人称+第一人称）",
+    "L009：Lupton/Miller时间线元批判",
+    "L013：三代设计师谱系与女性收录",
+    "L016：六方面知识贡献"
+  ]
+}

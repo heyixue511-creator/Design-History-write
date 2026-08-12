@@ -1,0 +1,63 @@
+{
+  "source_id": "B0138",
+  "corpus": "book",
+  "folder_name": "Edward Steinfeld, Jordana Maisel：《Universal Design Creating Inclusive Environments》，2012",
+  "material_type": "通用设计系统性教科书",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Edward Steinfeld, Jordana Maisel：《Universal Design Creating Inclusive Environments》，2012_clean.md",
+  "duplicate_group": "与B0460（Preiser/Ostroff手册）、B0174（Pullin残障）共享通用设计对象；本书为教科书侧、B0460为手册侧，互补使用",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 15328
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "12.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "universal_design_process_definition"
+    },
+    {
+      "section_id": "12.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "barrier_social_construction"
+    },
+    {
+      "section_id": "12.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "eight_goals_alternative"
+    },
+    {
+      "section_id": "12.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "beneficiary_populations"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Steinfeld/Maisel（纽约州立大学布法罗分校IDeA中心），Wiley 2012；通用设计领域第一部系统性教科书（NIDRR/RERC资助）",
+    "新定义：通用设计是'一个通过改善人类表现（human performance）、健康与福祉（health and wellness）以及社会参与（social participation），使多样化人群获得能力和赋权的过程'——从Mace 1985'产品/环境'定义转向过程性定义",
+    "从无障碍合规到创新扩散：通用设计不是无障碍法规升级版，而是设计创新范式（Rogers五阶段扩散模型）",
+    "障碍的社会建构：障碍是普遍人类经验与社会心理建构（Goffman污名理论），非物理特征本身——同一物理特征可同时是障碍与促进器",
+    "从七原则到八目标：八项通用设计目标（Body Fit, Comfort, Awareness, Understanding, Wellness, Social Integration, Personalization, Cultural Appropriateness）替代有九大缺陷的七原则",
+    "受益人口八大类：极端体型者、照护者、心理社会条件者、依赖酒精/药物者、文化少数群体、中低收入者、流离失所者、受虐待者——远超残疾群体",
+    "三大知识支柱：人类表现（人体测量/生物力学/感知/认知）、健康与福祉（伤害预防/疾病防控/心理健康）、社会参与（互动/资源获取/减少隔离/设计参与）",
+    "本书为通用设计教科书主源：对12.5承担新定义与障碍社会模型（A级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch2：通用设计新定义（Steinfeld-Maisel 2012版vs Mace 1985版）",
+    "Ch1：障碍的社会建构——Goffman污名理论、社会空间秩序",
+    "Ch4：七原则九大缺陷批判与八项目标替代",
+    "Ch3：八大受益人群分类——人口统计学商业案例",
+    "Ch5：人类表现四维度（人体测量/生物力学/感知/认知）"
+  ]
+}

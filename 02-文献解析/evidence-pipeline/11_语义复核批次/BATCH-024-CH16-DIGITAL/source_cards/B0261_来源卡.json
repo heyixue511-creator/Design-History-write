@@ -1,0 +1,50 @@
+{
+  "source_id": "B0261",
+  "corpus": "book",
+  "folder_name": "Kevin Lynch：《The Image of the City》，1960",
+  "material_type": "城市设计经典（城市意象五元素）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Kevin Lynch：《The Image of the City》，1960_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 8,
+      "report_characters": 7349
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "13.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "city_imageability_five_elements"
+    },
+    {
+      "section_id": "11.4",
+      "grade": "C",
+      "verification": "V2",
+      "role": "legibility_public_image"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Kevin Lynch（MIT城市与区域研究中心教授），《The Image of the City》（1960，MIT Press/哈佛大学出版社），城市设计、环境心理学与城市规划交叉领域开创性著作",
+    "核心功能：首次将'可意象性'（imageability）与'可读性'（legibility）确立为城市设计核心评价标准；提出城市意象五元素理论（路径paths/边界edges/区域districts/节点nodes/标志物landmarks）；建立实证方法论（田野勘察+居民访谈+认知地图）",
+    "核心论题：城市环境的视觉品质不仅关乎审美，更直接影响居民的定向能力、情感安全与生活质量——'可读性'是衡量城市品质的关键维度",
+    "关键论点：①环境意象是观察者与环境双向互动的产物；②公共意象（不同个体间显著的意象共识，可被规划者操作）；③五元素是对城市意象内容的普适性分类；④形式与意义的可分离性（规划分析阶段可暂悬意义，优先关注'同一性'与'结构'）；⑤开放式秩序（城市需要可进一步发展的开放秩序而非封闭终极形态）；⑥意象发展三阶段（大尺度区域→路径结构→小标志物）",
+    "三城比较：波士顿（意象强烈但方向混乱——Common'五边形右角'）、泽西城（意象贫乏——居民象征性依赖纽约天际线）、洛杉矶（网格匿名化——百老汇活动浓度使其成为线性区域）；佛罗伦萨为高可意象性典范",
+    "材料：波士顿30人/泽西城15人/洛杉矶15人深度访谈与认知草图、系统步行勘察、照片识别测试（波士顿）、跨文化定向系统文献（波利尼西亚导航等）、脑损伤病例",
+    "影响：城市认知研究范式奠基；'seeing的教育'与物理环境改造的双螺旋展望",
+    "clean原文存在（8813行源文件）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第一章：可读性与环境意象定义",
+    "第二章：三城比较研究",
+    "第三章：五元素体系",
+    "第四章：城市形态设计应用",
+    "附录A：跨文化定向系统综述"
+  ]
+}

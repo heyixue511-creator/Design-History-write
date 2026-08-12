@@ -1,0 +1,68 @@
+{
+  "source_id": "B0238",
+  "corpus": "book",
+  "folder_name": "Judith Gura：《Postmodern Design Complete》，2017",
+  "material_type": "后现代设计百科全书",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Judith Gura：《Postmodern Design Complete》，2017_clean.md",
+  "duplicate_group": "与B0372/B0373（Venturi）、B0071（Jencks）、B0346（Sparke意大利）共享后现代设计对象；同一对象（Memphis、Venturi住宅、AT&T大楼）只计一份P0",
+  "files": [
+    {
+      "report_file_count": 18,
+      "report_characters": 3565
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "memphis_objects_narrative"
+    },
+    {
+      "section_id": "11.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "double_coding_venturi_jencks"
+    },
+    {
+      "section_id": "11.3",
+      "grade": "A",
+      "verification": "V2",
+      "role": "italian_radical_design"
+    },
+    {
+      "section_id": "11.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "postmodern_revival_global"
+    },
+    {
+      "section_id": "11.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "pop_consumer_images"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Gura主编，Thames & Hudson 2017；后现代主义设计百科全书式著作，Jencks撰Foreword、Scott Brown撰Afterword",
+    "三层结构：主题论文＋54位设计师词条＋11个案例研究；六大领域（建筑、家具/产品、平面、室内、编辑设计、收藏）",
+    "核心论题：后现代主义定义困境（'最具挑衅性、最具争议、最多样化且最不被理解的二十世纪设计术语'）；双重编码（Double Coding）机制；现代主义的'忠诚反对派'；意大利vs美国两大策源地；复兴论（1990s退隐、21世纪重生）",
+    "关键对象：Carlton Room Divider（Sottsass/Memphis 1981）、Casablanca Sideboard、Portland Building（Graves 1982）、AT&T Building（Johnson 1984）、Pruitt-Igoe拆除（1972）、Strada Novissima（1980）、Memphis米兰首展（1981）",
+    "团体：Memphis（1980-88）、Studio Alchimia（1979-92）、Archizoom、Superstudio、Global Tools、New York Five",
+    "限度：以建筑家具为核心（时装/电影涉猎少）；地理覆盖以欧美日为中心；'Complete'书名过于雄心勃勃（作者自认）",
+    "本书为后现代设计百科全书主源：对11.3（意大利激进A）、11.4（双重编码A）、11.5（孟菲斯A）、11.7（全球传播B）承担核心证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L001-006：Sottsass、Venturi、Scott Brown、Graves、Jencks、Mendini人物核心层",
+    "L004：Carlton Room Divider（Sottsass/Memphis 1981）——对象叙事化代表作",
+    "L006：1972年Pruitt-Igoe拆除（Jencks定为现代主义死亡日）；1981年Memphis米兰首展",
+    "双重编码：作品同时向精英和大众说话（Venturi/Jencks）",
+    "意大利激进（Studio Alchimia、Archizoom、Superstudio、Global Tools）vs 美国历史主义（Venturi）"
+  ]
+}

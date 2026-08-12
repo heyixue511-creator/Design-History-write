@@ -1,0 +1,57 @@
+{
+  "source_id": "B0381",
+  "corpus": "book",
+  "folder_name": "Rudolf Arnheim：《Visual Thinking》",
+  "material_type": "视觉思维理论经典（知觉-思维统一）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Rudolf Arnheim：《Visual Thinking》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 19,
+      "report_characters": 4287
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "16.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "visual_thinking_cognition"
+    },
+    {
+      "section_id": "C.0",
+      "grade": "C",
+      "verification": "V2",
+      "role": "visual_literacy_foundation"
+    },
+    {
+      "section_id": "0.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "image_three_functions"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Rudolf Arnheim（1904-2007，哈佛大学艺术心理学荣休教授），《Visual Thinking》（1969，University of California Press，16章）——格式塔心理学根基上的视觉认知经典",
+    "核心论点：知觉与思维不是两种分离的能力——'Visual perception is visual thinking'（视觉知觉即视觉思维）；'一切思维在本质上是知觉性的'",
+    "关键命题：①感知本身执行抽象（原初抽象——概念是结构本质而非属性集合的'类型论'）；②思维以意象为媒介；③语言、数学、科学、艺术都是意象的不同组织方式；④语言只是思维的辅助标记（语言辅助论）——反驳语言决定论；⑤教育必须重建'知觉—思维'统一体",
+    "结构：成见考古（感知低等论历史）→知觉即认知立论→记忆/意象/概念成形→图画/符号/记号的图像三分功能→抽象三误读破斥（'抽象=抽离/概括/取样'）→类型论抽象观→数学即纯形状→语言辅助论→艺术/科学模型/教育应用",
+    "关键概念：视觉概念/范畴、纯形状、图画/符号/记号（pictures/symbols/signs）、容器概念vs类型、静态/动态概念、原初抽象、模态/非模态补全、图-底与场、直觉/理智认知、结构骨架、功能价值",
+    "方法：格式塔心理学（'场过程'/'从整体到成分'）；'先破后立'论证结构；材料含哲学史原典（Plato至Wittgenstein）、心理学实验、神经生理学、科学史（Kepler/Galileo/Newton/Einstein）、艺术史与儿童画",
+    "历史地位：与Gombrich《Art and Illusion》（1960）并列为1960年代视觉认知研究里程碑；'视觉素养'（visual literacy）、信息设计、科学可视化与设计思维研究的奠基文献之一（Alberto Cairo等直接引其论点）",
+    "限度：'场过程'缺神经机制实证；对符号计算认知模型回应薄弱（'机器不能拓扑思维'）；语言论存在张力；文化/社会维度处理简略",
+    "clean原文存在（7383行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1：感知低等论成见考古",
+    "Ch2：'Visual perception is visual thinking'",
+    "Ch8：图画/符号/记号三分",
+    "Ch9-10：抽象三误读与类型论",
+    "Ch16：视觉素养与教育纲领"
+  ]
+}

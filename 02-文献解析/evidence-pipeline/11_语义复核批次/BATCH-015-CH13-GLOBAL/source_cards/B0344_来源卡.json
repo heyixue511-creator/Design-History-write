@@ -1,0 +1,49 @@
+{
+  "source_id": "B0344",
+  "corpus": "book",
+  "folder_name": "Penny Sparke：《A century of design design pioneers of the 20th century》",
+  "material_type": "20世纪设计先驱通史（图录式）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Penny Sparke：《A century of design design pioneers of the 20th century》_clean.md",
+  "duplicate_group": "与B0345/B0401（Sparke设计文化导论）为同一作者不同书；与B0075（Fiell）、B0238（Gura）共享20世纪设计对象时只计一份P0",
+  "files": [
+    {
+      "report_file_count": 14,
+      "report_characters": 4259
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "memphis_superdesigner"
+    },
+    {
+      "section_id": "13.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "modernism_dual_track"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Sparke（金斯顿大学设计史教授），Mitchell Beazley 1998；约272页，约60位20世纪设计先驱（人物条目式）",
+    "现代主义双轨论：'一个明显进步、一个更历史化与保守'的两面（L21）——保守现代主义（Art Deco、瑞典/英国传统）比激进分支更持续影响日常",
+    "六章：新世纪（技术信仰/新艺术）→保守现代主义（Art Deco/斯堪的纳维亚）→进步现代主义（机器美学/包豪斯/美国工业设计）→新现代主义（战后国家身份）→行动与反应（1960s消费主义/现代主义危机）→走向千禧（后现代/Memphis/超级设计师时代）",
+    "关键判断：美国consumer styling（Earl）与'good design'对立（L93）；1981 Memphis使设计'摆脱现代主义束缚'进入'设计师十年'（L95）",
+    "材料技术线：弯曲木→钢管→模压胶合板→塑料→电子技术",
+    "本书为20世纪设计通史（C级）：对11.5承担Memphis/后现代表述、13.7承担超级设计师时代",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L21：现代主义双轨论——'一个明显进步、一个更历史化与保守'",
+    "L43：机器隐喻——功能主义认为'物体外形由内部结构决定'",
+    "L93：美国consumer styling（Earl）与'good design'对立",
+    "L95：1981 Memphis使设计'摆脱现代主义束缚'进入'设计师十年'",
+    "L59：战后国家身份——有机现代主义vs新功能主义双风格"
+  ]
+}

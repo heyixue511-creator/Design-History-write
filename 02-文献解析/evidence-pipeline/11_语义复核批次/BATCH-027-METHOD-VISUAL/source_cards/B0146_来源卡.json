@@ -1,0 +1,56 @@
+{
+  "source_id": "B0146",
+  "corpus": "book",
+  "folder_name": "Ellen Lupton：《Thinking with Type》，2004",
+  "material_type": "排版设计教学著作（第二版）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Ellen Lupton：《Thinking with Type》，2004_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 8,
+      "report_characters": 17881
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "9.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "typography_pedagogy_three_blocks"
+    },
+    {
+      "section_id": "11.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "type_narrative_postmodern"
+    },
+    {
+      "section_id": "C.0",
+      "grade": "C",
+      "verification": "V2",
+      "role": "design_education_contemporary"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Ellen Lupton（1963-，美国平面设计师/策展人/作者/教育者，马里兰艺术学院MICA设计系教授，Cooper Union校友，巴尔的摩大学传播设计博士2008；长期担任纽约Cooper Hewitt国立设计博物馆当代设计策展人；著有《Design Writing Research》《Graphic Design: The New Basics》——当代美国设计教育领域最具声望的声音之一），《Thinking with Type: A Critical Guide for Designers, Writers, Editors, & Students》（2004初版；第二版约2010，Princeton Architectural Press，约224页）",
+    "定位：以排版设计为核心、融合设计理论与实用技术手册功能的教材类著作——'a handbook designed for the hands'",
+    "结构：以'字母'（Letter）、'文本'（Text）、'网格'（Grid）三个渐次展开的范畴组织——从微观字母形态学到宏观空间系统设计的认知链条",
+    "三板块内容：字母（类型解剖学/字号/比例/分类体系/字体家族与超级家族/大小写/混搭/数字/标点/装饰字符/手绘字/标识与品牌字/屏幕字体/位图字体/字体设计/字体格式/字体授权）；文本（间距/行距/对齐/字偶距/字间距/层级体系/竖排文本/放大首字母/段落标记/说明文字——融入错误与所有权/线性阅读与用户理论批判性史论）；网格（网格作为框架/空间分割/网格作为程序与表格/黄金分割/单栏多栏模块化网格/数据表格）",
+    "每板块'史论—规范—实践—禁忌'四层嵌套：历史叙事短文（essay）+演示页面（demonstration pages）+练习项目（exercises）+Type Crime警示框（以诙谐口吻指出常见排版错误）",
+    "字体史叙事：人文主义与身体/启蒙运动与抽象/怪物字体/改革与革命/字体作为程序（Type as Program）/字体作为叙事（Type as Narrative）/回归工作——现代主义与后现代字体理论的批判性史述",
+    "影响：当代排版设计教育的基础教材——'用户'概念批判与数字排版技术（屏幕字体/字体授权）纳入教学",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Letter板块：类型解剖与字体家族",
+    "Text板块：'Birth of the User'用户理论批判",
+    "Grid板块：网格作为程序与表格",
+    "Type Crime警示框",
+    "字体史叙事：Type as Program/Type as Narrative"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_id": "B0203",
+  "corpus": "book",
+  "folder_name": "Jean Baudrillard：《The System Of Objects》，1968",
+  "material_type": "物体系理论（符号学批判）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jean Baudrillard：《The System Of Objects》，1968_clean.md",
+  "duplicate_group": "与B0202（《The Consumer Society》1970）为同一作者姊妹篇，共享符号消费理论对象；同一理论命题只计一份",
+  "files": [
+    {
+      "report_file_count": 17,
+      "report_characters": 6453
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "9.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "object_as_sign"
+    },
+    {
+      "section_id": "9.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "model_series_functionality"
+    },
+    {
+      "section_id": "9.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "credit_advertising_system"
+    },
+    {
+      "section_id": "0.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "theory_resource"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Baudrillard博士论文《Le Système des objets》(1968, Gallimard)，Verso英译1996（James Benedict）；'物'理论奠基文本",
+    "三大核心命题：物=符号（'要成为消费的对象，物必须先成为符号'）；功能性=系统可整合性；消费=符号的系统性操控（建立在'缺乏'之上）",
+    "四部分架构：功能系统（设计+氛围）→非功能系统（古董+收藏）→元功能/功能失调系统（小玩意+机器人）→社会-意识形态系统（模型/系列+信用+广告）",
+    "关键概念：功能性、氛围、自然性、模型/系列、边际差异、个性化、计划性淘汰、信用、圣诞老人逻辑、地位符码",
+    "方法：符号学等价、精神分析深层解读、悖论式揭露（'解放=新奴役'）、'圣诞老人逻辑'（参与结构分析）",
+    "限度：经验材料限于法国中产高端文本；精神分析适用边界；论证不可证伪性；历史转型模糊",
+    "本书与《消费社会》(1970)互补：前者物体系、后者社会结构；对9.1承担符号学框架（A级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "'To become an object of consumption, an object must first become a sign.'——物=符号核心命题",
+    "'功能性在根本上不适于适应一个目标，而适于适应一个秩序或系统'——功能性定义",
+    "Ch7：模型/系列=消费的永续动力；计划性淘汰三重机制",
+    "Ch8：信用='不仅是金融安排，而是社会基本维度，一种新伦理系统'",
+    "Ch9：圣诞老人逻辑——广告=寓言逻辑，非命题逻辑"
+  ]
+}

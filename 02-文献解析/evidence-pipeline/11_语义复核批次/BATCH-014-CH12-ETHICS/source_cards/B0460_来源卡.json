@@ -1,0 +1,55 @@
+{
+  "source_id": "B0460",
+  "corpus": "book",
+  "folder_name": "Wolfgang F. E. Preiser, Elaine Ostroff：《Universal Design Handbook》，2001",
+  "material_type": "通用设计手册（69章国际权威手册）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Wolfgang F. E. Preiser, Elaine Ostroff：《Universal Design Handbook》，2001_clean.md",
+  "duplicate_group": "与B0138（Steinfeld/Maisel教科书）为通用设计互补双源（手册侧/教科书侧）；与B0174（Pullin）共享残障设计对象；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 70,
+      "report_characters": 6820
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "12.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "universal_design_handbook_global"
+    },
+    {
+      "section_id": "12.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "compliance_paradox_evolution"
+    },
+    {
+      "section_id": "12.5",
+      "grade": "C",
+      "verification": "V2",
+      "role": "majority_world"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Preiser（辛辛那提大学）与Ostroff（Adaptive Environments Center）主编，McGraw-Hill 2001；69章10大部分，献词给Ron Mace（通用设计术语创造者）",
+    "通用设计运动第一代国际权威手册：以美国民权传统为骨、全球老龄化为脉、七项原则为概念内核",
+    "覆盖：七项原则（Ch10）、联合国标准规则（Ch11）、美国无障碍法规（Ch12）、跨国实践（意大利/法国/荷兰/挪威/日本/以色列/加拿大/巴西/澳洲）、住房/产品/交通/ICT/Web等分领域",
+    "三大知识涌现：'利他→自利'动机翻转、'合规→通用→悖论→充分'制度演替模型、'电子路缘坡道'跨媒介不变式",
+    "五组结构性张力：合规/通用、标准/批判、普遍/个体、发达/发展中、法律/道德——本身构成思想史知识",
+    "本书为通用设计手册主源（B级）：对12.5承担制度与标准侧、跨国比较；教科书侧以B0138为准",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch10：七项原则（Connell et al. 1997）",
+    "Ch11：联合国标准规则",
+    "Ch5：多数世界（Majority World）——发展中经济现实检验",
+    "Ch17：日本老龄化与标准",
+    "知识涌现：'合规→通用→悖论→充分'制度演替模型"
+  ]
+}

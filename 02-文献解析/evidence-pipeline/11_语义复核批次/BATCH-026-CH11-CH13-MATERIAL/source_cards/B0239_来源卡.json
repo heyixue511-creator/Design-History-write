@@ -1,0 +1,56 @@
+{
+  "source_id": "B0239",
+  "corpus": "book",
+  "folder_name": "Judith Williamson：《Decoding advertisements ideology and meaning in advertising》",
+  "material_type": "广告符号学经典（意识形态与意义）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Judith Williamson：《Decoding advertisements ideology and meaning in advertising》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 9,
+      "report_characters": 5521
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "9.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "advertising_meaning_structure"
+    },
+    {
+      "section_id": "13.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "advertising_meta_system_branding"
+    },
+    {
+      "section_id": "13.6",
+      "grade": "C",
+      "verification": "V2",
+      "role": "interpellation_consumer_subject"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Judith Williamson，《Decoding Advertisements: Ideology and Meaning in Advertising》（1978，Marion Boyars，London & New York；第十五印次序言2002），广告文化研究经典",
+    "定位：一本关于广告'如何意指'（how ads mean）的书——聚焦广告的形式结构如何承载意识形态功能；符号学+马克思主义意识形态理论+拉康精神分析三元融合",
+    "中心命题：广告不仅传递信息、劝诱购买，更是一套意义创造的结构（structure of meaning）——将人与物、符号与指涉物置入可互换的符号交换系统，既创造产品差异也建构消费者主体身份——服务于意识形态再生产",
+    "核心命题：①广告的形式即意识形态（形式看似'中性'实则承担意义转移与意识形态遮蔽）；②广告是元系统（meta-system）——从已有指涉系统（自然/科学/历史/时间/魔法）'窃取'意义转移到产品——不同符号系统之间的翻译器；③差异即意义——产品间本无天然差异，广告挪用社会文化中既有差异关系（Catherine Deneuve vs Margaux Hemingway）创造产品差异——品牌化的符号学基础；④消费者既是意义创造者也是被创者——'召唤'（interpellation，阿尔都塞）机制建构'自由选择'的主体；⑤广告的指涉系统是'被掏空'的系统；⑥广告具有超强'回收'（recuperation）能力——批评可被吸收为素材",
+    "方法：约116幅广告图片（A1-A116）的细致形式分析（色彩/构图/空间透视/双关/省略/图文关系）——'从案例中归纳理论'",
+    "结构：第一部分'广告-工作'（Advertising-Work，承弗洛伊德'梦工作'：符号的货币/符号向某人言说/待破译的符号）+ 第二部分'意识形态城堡'指涉系统（自然/魔法/时间叙事历史）+ 结论（回收机制）",
+    "历史地位：1970年代英国文化研究（伯明翰学派）在广告分析领域的标志性成果",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：广告如何意指",
+    "Ch1：符号的货币——意义转移",
+    "Ch2：召唤机制与主体建构",
+    "Ch4-7：自然/魔法/时间指涉系统",
+    "Ch8：回收机制与意识形态效应"
+  ]
+}

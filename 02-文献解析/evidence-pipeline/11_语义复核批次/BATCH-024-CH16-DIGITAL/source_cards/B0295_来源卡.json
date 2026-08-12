@@ -1,0 +1,59 @@
+{
+  "source_id": "B0295",
+  "corpus": "book",
+  "folder_name": "Marshall McLuhan：《The Gutenberg Galaxy The Making of Typographic Man》",
+  "material_type": "媒介理论经典（谷登堡星汉）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Marshall McLuhan：《The Gutenberg Galaxy The Making of Typographic Man》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [
+    {
+      "report_file_count": 9,
+      "report_characters": 9493
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "gutenberg_galaxy_media_theory"
+    },
+    {
+      "section_id": "6.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "print_culture_visual_bias"
+    },
+    {
+      "section_id": "16.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "electronic_reversal_global_village"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Marshall McLuhan，《The Gutenberg Galaxy: The Making of Typographic Man》（1962），媒介理论奠基经典（'媒介即讯息'论点的形成性著作）",
+    "核心论题：拼音字母的发明与印刷术的推广，通过将一种感官（视觉）提升至超常强度，打破了人类感官之间的原始比率（ratio），导致社会组织的线性化、个体化与非部落化（detribalization）",
+    "方法论：'马赛克/场域方法'（mosaic/field approach）——'以观察代判断'（diagnosis and description must precede valuation and therapy）；历史因果不能通过线性叙事揭示，因为各要素同时互动",
+    "技术是感官的延伸：延伸某一感官即等同于'摘除'其他感官的功能（Claude Bernard实验医学类比）；拼音字母是唯一具有'非部落化'力量的文字系统（象形/意符文字不具备）",
+    "《李尔王》作为'工作模型'：印刷文化通过感官分离与专门化导致'从角色世界到职位世界'（from roles to jobs）的转型；Lear的分割王国对应印刷时代中央集权与功能专门化",
+    "跨文化验证：非洲非文字社会（Carothers研究）——声音世界（动态/个人指向/魔力）vs 视觉世界（静态/中性）——'正如他们面对拼音字母时的反应，我们也曾如此'",
+    "电子时代逆转：电子媒介正在逆转印刷文化的效应，重新'部落化'人类为'地球村'（global village），创造新的听觉空间",
+    "子论题：历史书写本身是印刷文化的产物（'定点透视'式线性叙事无法捕捉多元素同时互动）；地图（墨卡托投影）是视觉空间均匀化的象征；技术发明者并非其效果的最佳判断者（Theuth/Thamus寓言）",
+    "材料策略：'去语境化—再语境化'——文学文本作为'实验数据'、跨领域并置（物理学/神经科学/人类学）、转引实证调查",
+    "限度：类比论证跨度大、经验证据转引性质、'primitive'等表述带时代话语局限",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Prologue：马赛克方法与感官比率",
+    "Prologue：Parry-Lord口头诗歌研究类比",
+    "《李尔王》解读：从角色世界到职位世界",
+    "非洲非文字社会比较（Carothers）",
+    "'银河重构'：地球村与电子逆转"
+  ]
+}

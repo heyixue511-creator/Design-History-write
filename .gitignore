@@ -1,0 +1,13 @@
+# 工具会话历史
+.specstory/
+
+# 编辑器元数据
+.reasonix/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时文件
+*.tmp
+*.bak

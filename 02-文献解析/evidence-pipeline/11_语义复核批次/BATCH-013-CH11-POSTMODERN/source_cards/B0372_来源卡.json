@@ -1,0 +1,63 @@
+{
+  "source_id": "B0372",
+  "corpus": "book",
+  "folder_name": "Robert Venturi, Denise Scott Brown, Steven Izenour：《Learning from Las Vegas The Forgotten Symbolism of Architectural Form》，1972",
+  "material_type": "建筑理论（后现代奠基宣言）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Robert Venturi, Denise Scott Brown, Steven Izenour：《Learning from Las Vegas The Forgotten Symbolism of Architectural Form》，1972_clean.md",
+  "duplicate_group": "与B0373（Venturi C&C）为同一作者姊妹篇（形式—象征）；与B0071（Jencks）、B0238（Gura）共享后现代建筑对象；同一对象只计一份P0",
+  "files": [
+    {
+      "report_file_count": 17,
+      "report_characters": 4152
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "11.4",
+      "grade": "A",
+      "verification": "V2",
+      "role": "decorated_shed_vs_duck"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "learning_from_existing_landscape"
+    },
+    {
+      "section_id": "11.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "symbolism_analysis"
+    },
+    {
+      "section_id": "11.1",
+      "grade": "C",
+      "verification": "V2",
+      "role": "urban_sprawl_vs_megastructure"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Venturi/Scott Brown/Izenour，MIT Press 1972初版／1977修订版；1968年耶鲁工作室拉斯维加斯田野研究成果",
+    "核心论点：学习现存景观（含商业乡土）是建筑师的革命方式（L133-134）；建筑是'空间中的象征'（symbol in space）而非纯粹'空间中的形式'；拉斯维加斯是通信系统",
+    "关键范畴：鸭子（duck，整体象征化的雕塑建筑）vs 装饰棚（decorated shed，常规棚屋+独立附加装饰）；'丑陋而平凡'（U&O）vs'英雄而原创'（H&O）；外延/内涵、纹章/面相",
+    "批判：现代主义的'未被承认的象征主义'（否认装饰却使整楼成为装饰）；反对总体设计（'Total design comes to mean total control'）",
+    "方法：工作室研究（1968耶鲁，十二主题五阶段）；比较法（Guild House vs Crawford Manor；罗马vs拉斯维加斯）；Nolli地图移植",
+    "限度：宣言的自我辩护性；'非判断'声称与实际立场的张力；对商业消费主义环境后果处理不足（作者自陈）",
+    "本书为后现代建筑理论奠基文本之二（P0行动者理论）：对11.4承担鸭子/装饰棚范畴（A级）、11.1承担商业乡土正名（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L133-134：'学习现存景观即革命'——方法论宣言",
+    "L207-226：建筑是'空间中的象征'而非'空间中的形式'；拉斯维加斯是通信系统",
+    "L918：'the duck is seldom relevant today, although it pervades Modern architecture'",
+    "L994-995：主张U&O的装饰棚象征主义",
+    "L1513：'Total design comes to mean total control'",
+    "L1648-1649：'学习大众文化技术≠赞同其内容'；建筑师作为'弄臣'"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "source_id": "B0258",
+  "corpus": "book",
+  "folder_name": "Kenneth Frampton：《Modern Architecture A Critical History》，1980",
+  "material_type": "现代建筑批判史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Kenneth Frampton：《Modern Architecture A Critical History》，1980_clean.md",
+  "duplicate_group": "与B0272（Pevsner）、B0002（Banham）共享现代运动历史书写对象；本书为'批判的历史'范式主源",
+  "files": [
+    {
+      "report_file_count": 16,
+      "report_characters": 0
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "C.0",
+      "grade": "B",
+      "verification": "V2",
+      "role": "critical_history_method"
+    },
+    {
+      "section_id": "C.0",
+      "grade": "C",
+      "verification": "V2",
+      "role": "critical_regionalism"
+    },
+    {
+      "section_id": "C.0",
+      "grade": "C",
+      "verification": "V2",
+      "role": "globalization_agenda"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Frampton（哥伦比亚大学建筑学教授），初版1980（分析基于第五版2020印刷本）；建筑史里程碑著作",
+    "核心价值：建立'批判性'的历史认知方式——在历史叙述中同时进行价值判断、在事实描述中同时展开理论反思",
+    "结构：Part I预备性技术（1750-1939）；Part II一部批判的历史（1836-1967）；Part III批判性转型（1925-90）；Part IV世界建筑与现代运动；Afterword全球化时代的建筑",
+    "理论制高点：批判的地域主义（Critical Regionalism）——现代建筑与文化认同",
+    "Afterword六主题框架：地形学、形态学、可持续性、材料性、栖息地、公民形式",
+    "核心张力：既'现代的'（维护现代运动启蒙理想）又'批判的'（揭示局限与矛盾）；既'西方的'又'世界的'（尝试突破西方中心视野）",
+    "限度：构造学（tectonics）本体论强调可能忽视空间经验、社会使用、象征意义；亚太与非洲部分深度不足（作者自认）",
+    "本书为建筑史范式参照（B级）：对C.0承担批判历史方法参照",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L014：'批判的'历史认知方式——价值判断与理论反思",
+    "Part III第5章：批判的地域主义——理论制高点",
+    "Afterword：全球化六主题（地形学/形态学/可持续性/材料性/栖息地/公民形式）",
+    "第14章：包豪斯——一种理念的演进",
+    "Part IV：世界建筑与现代运动（含亚太）"
+  ]
+}

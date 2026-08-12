@@ -1,0 +1,105 @@
+{
+  "source_id": "B0099",
+  "corpus": "book",
+  "folder_name": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+  "material_type": "论文集（东欧社会主义日常生活空间）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002_clean.md",
+  "duplicate_group": "与B0100（Crowley《Warsaw》）共享华沙室内对象（M2/M3标准公寓、Ty i Ja杂志）；与P0062（Reid论文）共享苏联日常生活对象；同一档案（RGAE、GAGS、PPA、RGALI等）只计一份P0",
+  "files": [
+    {
+      "report_file_count": 20,
+      "report_characters": 17909
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "8.1",
+      "grade": "A",
+      "verification": "V2",
+      "role": "pioneer_palace_children_space"
+    },
+    {
+      "section_id": "8.1",
+      "grade": "B",
+      "verification": "V2",
+      "role": "everyday_ideological_tension"
+    },
+    {
+      "section_id": "8.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "kommunalka_public_privacy"
+    },
+    {
+      "section_id": "8.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "dacha_private_publicness"
+    },
+    {
+      "section_id": "8.2",
+      "grade": "A",
+      "verification": "V2",
+      "role": "chata_privatized_citizenship"
+    },
+    {
+      "section_id": "8.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "warsaw_interiors_private_spaces"
+    },
+    {
+      "section_id": "8.2",
+      "grade": "B",
+      "verification": "V2",
+      "role": "shortage_economy_appropriation"
+    },
+    {
+      "section_id": "8.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "sevastopol_local_vs_central"
+    },
+    {
+      "section_id": "8.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "monument_politics_hungary"
+    },
+    {
+      "section_id": "8.3",
+      "grade": "C",
+      "verification": "V2",
+      "role": "expo92_soviet_pavilion_satire"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "totalitarianism_model_critique"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "本书为2002年Berg出版论文集，源于1998年V&A研讨会，导论+10篇专题论文，覆盖苏联与东欧（塞瓦斯托波尔、加里宁格勒、莫斯科、圣彼得堡、布达佩斯、柏林、莱比锡、华沙、布拉格、里加）",
+    "核心贡献：将'日常生活'从冷战'极权主义模型'的被动受害叙事中解放，揭示社会主义空间中行动者的空间能动性；'公共隐私'（Gerasimova）与'私人公共性'（Lovell）为本书核心概念",
+    "环境决定论悖论：社会主义政权以物质空间塑造'新人'，反而催生消解政权合法性的日常实践（dacha私有财产冲动、chata私有化公民身份、公共公寓人际疏离）",
+    "理论资源：Winner、Lefebvre、de Certeau、Bourdieu、Benjamin；反极权主义与反冷战二元论为全书方法论立场",
+    "材料层级：官方生产层（规划方案、政治局记录、宣传材料）＋民间回应层（访谈、回忆录、地下出版物、流行杂志读者来信）＋批判分析层（当代艺术反讽作品）",
+    "史料为多国档案（RGAE、GAGS、GA RF、MOL、BFL、PPA、RGALI、Libri Prohibiti等）与田野调查（Gerasimova 38次深度访谈）；本书是8.1—8.3的核心P1来源",
+    "与B0100（Warsaw）为同一作者群的姊妹研究：华沙室内对象（M2/M3公寓、《Ty i Ja》杂志）在两书中重叠，只计一份P0",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论以Bulatov《Krasikov Street》(1976/77)为出发点：列宁形象从广告牌跨步而出、行人浑然不觉——意识形态铭刻与日常漠视的张力",
+    "Gerasimova：1931年列宁格勒人均居住面积6.7平方米；1989年公共公寓居民仍占全市人口23.8%——短缺经济与公共隐私的量化锚点",
+    "Bren：chata文化培育'私人化的公民身份'，公民退入消费主义私域；流浪运动因保留集体性与美国文化符号遭持续压制",
+    "Reid：莫斯科先锋宫1962年6月1日赫鲁晓夫剪彩，'儿童共和国'理念取代斯大林式纪念碑性；建筑师Pokrovskii团队",
+    "Crowley：华沙M2/M3标准公寓与《Ty i Ja》杂志1960年代家居竞赛——解冻时期'为私人发声'",
+    "Svede：1992年塞维利亚Expo92苏联馆竞赛——拉脱维亚方案以农民棺材（zarks）形态嵌入，评审两次宣布竞赛无效后方案仍胜出"
+  ]
+}

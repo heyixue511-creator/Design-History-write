@@ -1,0 +1,56 @@
+{
+  "source_id": "B0011",
+  "corpus": "book",
+  "folder_name": "Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》",
+  "material_type": "交互设计经典（目标导向设计）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》_clean.md",
+  "duplicate_group": "与B0087（情境化设计）、B0096（Saffer）、B0184（Interaction Design教材）共享交互设计方法对象；同一方法/案例只计一份P0",
+  "files": [
+    {
+      "report_file_count": 26,
+      "report_characters": 22502
+    }
+  ],
+  "report_structure": {
+    "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
+  },
+  "candidate_sections": [
+    {
+      "section_id": "14.3",
+      "grade": "B",
+      "verification": "V2",
+      "role": "goal_directed_design"
+    },
+    {
+      "section_id": "14.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "interaction_design_principles"
+    },
+    {
+      "section_id": "14.2",
+      "grade": "C",
+      "verification": "V2",
+      "role": "interaction_design_history"
+    }
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Cooper/Reimann/Cronin/Noessel，Wiley 2014第四版（第一版1995）；交互设计领域权威经典",
+    "核心方法论：目标导向设计（Goal-Directed Design）——设计研究→人物模型（Personas）→场景剧本→需求定义→框架→细化",
+    "人物模型：'基于真实用户行为数据的合成原型'（Cooper 1998《The Inmates Are Running the Asylum》首次提出）；三种目标（终极/体验/人生）",
+    "设计研究：民族志访谈（借鉴人类学）；在Beyer/Holtzblatt情境调查基础上改进（缩短访谈时间、2-3人精干团队、优先识别目标）",
+    "设计原则：数字礼仪、优化中间用户、消除负担性工作（Excise）、隐喻与习惯用法、错误预防",
+    "核心前提：以用户轻松达成目标方式设计数字产品→满意/高效/商业成功；设计未被视为基础性平等一环是产品难用根源",
+    "本书为交互设计经典（B级）：对14.3承担目标导向设计与人物模型、14.6承担设计原则",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1：数字产品失败四原因——优先次序错位、忽视真实用户、利益冲突、缺设计流程",
+    "Ch2：民族志访谈方法——情境调查改进",
+    "Ch3：人物模型（Personas）与三种目标（终极/体验/人生）",
+    "Ch8：消除负担性工作（Excise）",
+    "第二部分：数字礼仪、隐喻与习惯用法、错误预防"
+  ]
+}
