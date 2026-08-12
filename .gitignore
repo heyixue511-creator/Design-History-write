@@ -4,6 +4,9 @@
 # 编辑器元数据
 .reasonix/
 
+# IDE 配置
+.vscode/
+
 # Python 缓存
 __pycache__/
 *.pyc
