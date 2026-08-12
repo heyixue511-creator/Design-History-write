@@ -1,0 +1,35 @@
+{
+  "source_id": "B0404",
+  "corpus": "book",
+  "folder_name": "Stephen J. Eskilson：《Graphic Design A New History》，2007",
+  "material_type": "平面设计通史教科书",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Stephen J. Eskilson：《Graphic Design A New History》，2007_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 17, "report_characters": 3667}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.6", "grade": "B", "verification": "V2", "role": "international_style_corporate_identity"},
+    {"section_id": "11.7", "grade": "B", "verification": "V2", "role": "modernism_plural_narratives"},
+    {"section_id": "11.6", "grade": "C", "verification": "V2", "role": "postmodern_grunge_digital"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Stephen J. Eskilson（美国东伊利诺伊大学艺术史与设计史教授），《Graphic Design: A New History》（2007，Yale University Press；分析所据为含2011版权标记的后印次）",
+    "定位：从15世纪古腾堡活字印刷写到21世纪初Web 2.0的平面设计通史教科书；以'技术、政治、经济与审美互动'为分析框架，编年与区域双轴展开",
+    "核心论点：平面设计史是技术、政治、经济与审美持续互动、彼此塑造的历史；'现代主义'不是单一叙事，而是多元甚至对立的路线集合；设计史必须包含被主流叙事忽略的声音",
+    "元概念'去政治化'：构成主义在包豪斯被剥离政治→经MoMA输入美国→在瑞士风格中完成中立化→又被后现代主义'重新政治化'——全书最具解释力的分析变量",
+    "章节：字体起源→19世纪工业化印刷与设计职业诞生→Art Nouveau国际谱系→Sachplakat/一战宣传/达达→现代艺术进入设计→De Stijl与俄国构成主义→包豪斯与新排版→美国现代主义与二战（纳粹宣传对照）→国际主义风格胜利与企业识别（Enron伦理）→后现代主义多路径→当代设计（grunge/数字美学/Web/全球图形/公民设计）",
+    "方法：编年+区域双轴、风格谱系、个案深描、语境化、批判性审视；约460幅作品图注",
+    "历史地位：Meggs式通史传统之后的修正史书写——注入社会史/文化研究视角，对女性、少数族裔、街头艺术、动漫的收纳使其成为21世纪初'包容性设计史'代表作",
+    "限度：通史深度受限；西方中心结构犹存（拉美/非洲/中东缺席）；企业识别与当代设计章偏重概述",
+    "clean原文存在（9191行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：字体技术史与技术-社会框架",
+    "Ch5：De Stijl与俄国构成主义两场'设计革命'",
+    "Ch8：国际主义风格胜利与企业识别",
+    "Ch9：后现代主义多路径谱系",
+    "Ch10：grunge/数字美学/Web/公民设计"
+  ]
+}

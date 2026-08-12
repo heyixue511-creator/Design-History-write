@@ -1,0 +1,36 @@
+{
+  "source_id": "B0018",
+  "corpus": "book",
+  "folder_name": "Alla Kholmatova：《Design Systems》",
+  "material_type": "设计系统实用指南",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Alla Kholmatova：《Design Systems》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 12, "report_characters": 18544}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.6", "grade": "B", "verification": "V2", "role": "design_system_definition"},
+    {"section_id": "14.6", "grade": "C", "verification": "V2", "role": "system_parameters_conway"},
+    {"section_id": "14.2", "grade": "C", "verification": "V2", "role": "pattern_language_origin"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Alla Kholmatova，《Design Systems: A practical guide to creating design languages for digital products》（2017，Smashing Media AG；序言Ethan Marcotte，审阅Karen McGrane/Jeremy Keith）",
+    "定义：设计系统是'一套互联的模式和共享实践，被有机组织以服务于数字产品的目的'——不仅是模式库（pattern library）或工具集",
+    "两个核心维度：设计模式（design patterns）——功能性模式（functional patterns：按钮/表单/菜单等界面模块，'界面的有形构建块'）+ 感知性模式（perceptual patterns：色彩/字体/图标风格等品牌美学）；共享实践（shared practices）——团队如何创建、捕获、共享和使用模式",
+    "核心观点：'模式演化，行为长存'（Patterns Evolve, Behaviors Remain）——以FutureLearn三年界面演化为例",
+    "研究基础：FutureLearn主案例 + Airbnb、Atlassian、Eurostar、Sipgate、TED五家公司深度调研",
+    "共享语言：命名模式的原则（基于隐喻、有个性、传达目的——FutureLearn的'Minions''Boss''Whisperbox'为例）、协作命名（collaborative naming）鼓励跨学科参与；Christopher Alexander模式语言为理论资源",
+    "系统参数三维度：规则严格程度（Strict vs. Loose）、部件模块化程度（Modular vs. Integrated）、组织集中化程度（Centralized vs. Distributed）——Airbnb（严格/模块化/集中化）与TED（松散/分散化）两极案例；康威定律（Conway's Law）：组织沟通结构制约设计系统形态",
+    "结论：'适合你的系统是你能管理其负面影响的那个系统，而非他人的系统'",
+    "设计原则四品质：真实可信、实用可操作、有立场、可关联且易记（TED'永恒而非前沿'、Airbnb'统一、通用、标志性、对话性'、Salesforce'清晰-效率-一致-美观'）",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第1章：设计系统定义与模式起源",
+    "第3章：功能性模式与'模式演化，行为长存'",
+    "第5章：共享语言与命名",
+    "第6章：系统参数三维度与康威定律",
+    "第8-9章：系统化三步法"
+  ]
+}

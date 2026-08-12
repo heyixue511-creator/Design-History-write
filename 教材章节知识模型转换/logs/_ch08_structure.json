@@ -2,11 +2,11 @@
  "8.1": {
   "grades": {
    "X": 1,
-   "C": 2,
+   "C": 3,
    "A": 1,
    "B": 4
   },
-  "count": 8,
+  "count": 9,
   "items": [
    {
     "source_id": "B0099",
@@ -77,6 +77,16 @@
     "accepted_claim": "1937年前后的国家馆对峙可作为战后冷战展览竞争的前史",
     "evidence_boundary": "止于1939年，不能证明冷战制度、观众或生活方式传播",
     "status": "CONTEXT_ONLY_AS_PREHISTORY"
+   },
+   {
+    "source_id": "B0437",
+    "title": "Victoria E. Bonnell：《Iconography of Power Soviet Political Posters under Lenin and Stalin》，1997",
+    "grade": "C",
+    "verification": "V2",
+    "role": "posters_ideological_competition",
+    "accepted_claim": "战后苏联海报把宣传推向'完成性'——一个与艰难现实脱节的'神圣秩序'：海报作为意识形态建构的竞争性装置——8.1冷战展览与生活方式竞争（宣传侧，弱-中支撑）",
+    "evidence_boundary": "作者专著（1997）；Ch6",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0209",
@@ -191,10 +201,10 @@
  },
  "8.3": {
   "grades": {
-   "B": 11,
-   "C": 2
+   "B": 13,
+   "C": 3
   },
-  "count": 13,
+  "count": 16,
   "items": [
    {
     "source_id": "B0099",
@@ -297,6 +307,26 @@
     "status": "ACCEPTED_AS_KEY_SOURCE"
    },
    {
+    "source_id": "B0437",
+    "title": "Victoria E. Bonnell：《Iconography of Power Soviet Political Posters under Lenin and Stalin》，1997",
+    "grade": "B",
+    "verification": "V2",
+    "role": "soviet_political_posters",
+    "accepted_claim": "苏联政治海报（1917-1953）：布尔什维克的'夺权'同时也是'夺义'——通过被发明的传统与'视觉词汇-句法'系统把官方意识形态植入文盲与半文盲人口；海报是权力合法化的生产性装置而非现实的镜像；'神圣中心'三次转移（无产阶级→乡村农民→领袖斯大林）——8.3苏联及社会主义现代主义（宣传图像侧）",
+    "evidence_boundary": "作者专著（1997）；1022张海报数据库",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0044",
+    "title": "M. J. Golec：《Cold War Modern Design 1945-1970 Fear and Fashion in the Cold War Posters of the Cold War》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "cold_war_design_competition",
+    "accepted_claim": "冷战设计（1945-1970）：'设计不是冷战的边缘方面，而是——无论物质上还是理论上——对未来的竞争的中心'（V&A《Cold War Modern》目录序言）；'冷战设计统一于现代性'；设计'既在语境中、也作为语境'（位置性分析框架）",
+    "evidence_boundary": "8.3 苏联及社会主义现代主义（宣传/意识形态竞争侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "P0062",
     "title": "Susan E. Reid：《Repenser le Dégel： Versions du socialisme, influences internationales et société soviétique》，2005",
     "grade": "B",
@@ -324,6 +354,16 @@
     "role": "propaganda_media_decline",
     "accepted_claim": "宣传画作为媒介的衰亡：1984年后《中国出版年鉴》停止收录宣传画章节、新华书店政治印刷品消失、电子媒介替代——社会主义视觉动员的制度转型",
     "evidence_boundary": "媒介衰亡为作者论证（1995年时点）；电视机普及等数据未独立核验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0433",
+    "title": "Victor Margolin：《World History of Design World War I to World War II》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "dictatorship_designs",
+    "accepted_claim": "独裁政权与设计：意大利/德国/苏联/葡萄牙（1922-1940）设计策略各异；第二次世界大战（1939-1945）中的设计动员（Ch27/Ch37）",
+    "evidence_boundary": "8.3 战争宣传与海报",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]

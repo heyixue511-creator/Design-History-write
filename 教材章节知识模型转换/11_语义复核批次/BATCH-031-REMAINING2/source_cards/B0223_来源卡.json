@@ -1,0 +1,35 @@
+{
+  "source_id": "B0223",
+  "corpus": "book",
+  "folder_name": "John F. Pile, Judith Gura：《A History of Interior Design》",
+  "material_type": "室内设计通史（第四版）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John F. Pile, Judith Gura：《A History of Interior Design》_clean.md",
+  "duplicate_group": "无精确哈希重复（B0229为第五版独立条目）",
+  "files": [{"report_file_count": 39, "report_characters": 1524558}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "interior_design_history_survey"},
+    {"section_id": "2.5", "grade": "C", "verification": "V2", "role": "aesthetic_arts_crafts_interiors"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "modernism_interiors"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "John F. Pile（1923-2007）原著 & Judith Gura 修订，《A History of Interior Design》（第四版，2014，John Wiley & Sons, Inc., Hoboken；22章+序言+Glossary+Bibliography+Index）——以室内空间为对象、以建筑史/装饰艺术史/家具史交叉地带为方法论的全球设计通史",
+    "序言自陈目标：'deliver in one volume of reasonable size a basic survey of six thousand years of personal and public space'——单卷本合理篇幅覆盖六千年个人与公共空间",
+    "六大历史板块：①古代世界（Ch1-4：史前庇护所→埃及/美索不达米亚/前哥伦布美洲→希腊罗马→早期基督教/拜占庭/罗马式→伊斯兰与亚洲传统）；②中世纪至近代早期欧洲（Ch5-9：哥特式→意大利文艺复兴→巴洛克与洛可可→低地国家与英国）；③美洲殖民地与工业革命（Ch10-11）；④19世纪与世纪之交（Ch12-15：维多利亚→美学运动/艺术与手工艺→新艺术与维也纳分离派→折衷主义与'第一位专业装饰师'Elsie de Wolfe）；⑤现代主义的兴起与传播（Ch16-20：Wright与欧洲四先驱Gropius/Mies/Le Corbusier→Art Deco与工业设计→欧洲传播→美国现代主义→全盛期）；⑥后现代与当代（Ch21-22：国际风格之后/高技派/解构主义→21世纪新竞技场：可持续性/全球化/数字技术/设计-艺术）",
+    "核心论点：①室内设计是文明的物质载体（'In the modern world, human life experience is largely played out in interior spaces'——室内空间是社会关系/政治权力/宗教信仰/文化价值的物质化表达）；②风格演进由多重力量驱动（技术/政治/经济/宗教/思想交织，避免单一因果解释）；③室内设计史是建筑史、装饰艺术史与家具史的交叉地带（'Interior design is a field with unclear boundaries'——将模糊性转化为方法论优势，每章整合建筑空间/装饰表面/家具器物/机械设备四个层面）",
+    "五个转折点：罗马帝国基督教化（313 CE）/文艺复兴人文主义（c.1400）/工业革命（c.1760-1840——铁/玻璃/钢新材料与水晶宫1851技术美学宣言）/包豪斯与现代主义（1919-1933——'形式追随功能'切断历史风格关联）/后现代转向（c.1970s——Venturi《Complexity and Contradiction》挑战现代主义）",
+    "文本特色：图像与文字高度互证（每章以代表性图像开篇，图注承担论证功能）；INSIGHT专栏插入一手文献摘录（Vasari/Saint-Simon/Bernier/Ruskin/Wright/Le Corbusier/Tugendhat夫妇）",
+    "学科贡献：①为室内设计专业提供历史合法性（追溯'室内设计师'从建筑附属角色到独立职业de Wolfe再到21世纪'社会责任实践者'的演进）；②确立'建筑空间—家具器物—装饰表面'三层分析框架成为结构模板；③第四章对伊斯兰与亚洲传统的纳入预示21世纪全球设计史书写的去中心化转向（执行并不彻底）",
+    "限度：西方中心主义（非西方传统仅集中第四章，中/日/印后续章节几乎消失）；性别失衡（女性设计师严重缺席）；政治经济维度薄弱（种植园宅邸与奴隶劳动/殖民掠夺/工业剥削未被批判性讨论）；现代主义目的论（历史指向现代主义的teleology）；当代部分单薄",
+    "clean原文存在（约11600行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "序言：'six thousand years of personal and public space'",
+    "Ch13-15：美学运动/艺术与手工艺/Elsie de Wolfe",
+    "Ch16-19：Wright与欧洲四先驱/Art Deco",
+    "Ch21-22：后现代/高技派/解构/21世纪",
+    "五个转折点与三层分析框架"
+  ]
+}

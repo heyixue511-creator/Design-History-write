@@ -1,0 +1,34 @@
+{
+  "source_id": "B0438",
+  "corpus": "book",
+  "folder_name": "Walker, John A., Design History and the History of Design, 1989",
+  "material_type": "设计史学方法论导论",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Walker, John A., Design History and the History of Design, 1989.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 13, "report_characters": 3737}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_history_methodology"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "production_to_consumption_turn"},
+    {"section_id": "12.6", "grade": "C", "verification": "V2", "role": "feminism_as_politics"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "John A. Walker（特邀Judy Attfield撰第11章），《Design History and the History of Design》（1989，Pluto Press，伦敦，255页：9章+Conclusion+特邀章+Bibliography+Index）——面向高年级本科生与研究生的设计史学科导论",
+    "开篇区分'设计史'（design history，学科）与'设计的历史'（the history of design，对象）；依次处理：界定研究对象（'design'一词的多义与历史）、工艺与设计之别、设计师/设计物品/设计过程/设计制度是否构成正当研究对象、生产—消费总体模型、历史书写的一般问题（叙事、分期、因果、历史主义）、设计史的诸种方法论（材料技术法、比较法、内容分析、类型学、民族史、人类学、社会史、结构主义/符号学）、风格/风格化/生活方式、消费/接受/趣味",
+    "核心论点：①设计史是'关于设计史写作的写作'（元话语），必须保持对自身的反思；②设计史的对象应置于'社会中的设计'总体模型中理解，而非单一实体；③设计史的方法论必然多元，但必须批判性地选择——作者倾向唯物主义/社会史；④设计史应从'生产中心'转向'消费—接受—趣味—性别'——风格的意义由使用者的生活方式而非设计师意图决定；⑤女性主义不是设计史的一种方法论而是政治，要求重构学科（Attfield：'形式/女性 服从 功能/男性'）",
+    "关键概念：design history/the history of design、problematic、症候式阅读、元话语、家族相似、作者论、生产—消费模型、基础/上层建筑、共时/历时、分期、历史主义（四义）、类型学、结构主义/符号学、社会史、风格/风格化/生活方式、接受理论、趣味、垃圾理论、性别/父权制",
+    "方法：概念辨析、定义—批评循环、比较、个案深描、正反论证、图式化模型（Figure 1/2、Prague prism）；材料含实物、档案（Silver Studio/Sanderson）、口述史、图像、统计",
+    "历史地位：1989年时点为设计史学科提供了最早的系统性方法论导论之一——与Conway《Design History: a Students' Handbook》（1987）构成互补（初级/高级）；预示并参与了1990年代设计史的文化转向与社会史深化",
+    "限度（作者自认）：综合未必成功、大量议题未解决；英国/伦敦中心主义明显；部分方法论（内容分析、计量时尚史）点到即止",
+    "clean原文存在（10614行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第1章：学科/对象二分与元话语",
+    "第2章：界定'design'概念",
+    "第5章：生产-消费总体模型",
+    "第7章：方法论目录（社会史/符号学等）",
+    "第9/11章：消费转向与女性主义批判"
+  ]
+}

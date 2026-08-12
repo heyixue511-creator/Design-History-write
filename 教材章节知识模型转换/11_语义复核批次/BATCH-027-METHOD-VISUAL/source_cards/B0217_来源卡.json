@@ -1,0 +1,37 @@
+{
+  "source_id": "B0217",
+  "corpus": "book",
+  "folder_name": "Johannes Itten：《The Art of Color》，1961",
+  "material_type": "色彩理论经典（包豪斯色彩教学）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Johannes Itten：《The Art of Color》，1961.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 10, "report_characters": 4856}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "4.2", "grade": "B", "verification": "V2", "role": "bauhaus_color_vorkurs"},
+    {"section_id": "4.2", "grade": "C", "verification": "V2", "role": "twelve_hue_contrast_system"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "objective_rules_subjective_experience"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Johannes Itten（约翰内斯·伊顿，1888-1967，瑞士画家/设计师/色彩理论家，现代艺术教育重要奠基人之一；1919-1923年任教包豪斯并主持基础课程Vorkurs；后在柏林、克雷费尔德、苏黎世继续艺术教育），《The Art of Color》（德语原名Kunst der Farbe，1961，Otto Maier Verlag Ravensburg；1973新版John Wiley & Sons美国版，译Ernst van Haagen；副标题'the subjective experience and objective rationale of color'；含28幅彩色图版Plates I-XXVIII）",
+    "定位：毕生色彩研究的集大成之作——既是教科书式系统著作，也是画家立足于绘画实践的直觉经验总结；1961年出版正值战后现代主义设计教育体系化与包豪斯传统被重新发掘推广的关键年代",
+    "核心命题：客观法则与主观体验的统一——'从书本和老师那里学习，如同乘马车旅行……到达大路尽头的人将离开马车，徒步前行。知识的价值是工具性的——客观法则（色相环/对比法则/和谐原理）是'马车'，最终目标是直觉的解放'",
+    "色彩美学三进路：印象（Impression——视觉上，基于观察自然的印象主义传统）、表现（Expression——情感上，基于心理感受的表现主义传统）、构造（Construction——象征上，基于符号体系的构造主义传统）；'没有视觉准确性和情感力量的象征主义不过是贫瘠的形式主义；没有象征真实和情感力量的视觉印象效果不过是平庸的模仿自然主义'",
+    "十二色相环：从三原色（黄红蓝）出发构建包含间色和复色的十二色相环，并通过Runge色球扩展为三维体系——普遍适用的色彩分类坐标",
+    "七种色彩对比：冷暖对比、明暗对比、饱和度对比、补色对比、同时对比、色相对比、面积对比——全书最实用的理论贡献",
+    "色彩和谐：从主观的'愉悦/不愉悦'移向客观的生理学原理（Ewald Hering理论）——当一组色彩的混合产生中性灰时它们便是和谐的——以互补色关系为核心",
+    "理论谱系：深受歌德（Goethe）、龙格（Runge）、贝措尔德（Bezold）、谢弗勒尔（Chevreul）和赫策尔（Hölzel）影响——融合德国唯心主义传统与现代心理学、生理学成果",
+    "结构：引言（三进路/历史纵览）→主观色调→色彩设计理论（十二色相环/七种对比）→色彩球体与色彩星→形式与色彩→色彩印象理论（固有色彩/光源色/阴影/反射）→色彩表现（各色心理与象征）→构图（方向/平衡/同时性模式/渗透）→后记（规则与直觉/艺术与人性）",
+    "方法：经验归纳（大量课堂实验）+历史权威（从古埃及到现代派美术史纵览）+逻辑演绎（从色彩物理学牛顿光谱到生理学残像现象到心理学色彩表达）",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "引言：色彩美学三进路",
+    "SUBJECTIVE TIMBRE：主观色调课堂实验",
+    "THEORY OF COLOR DESIGN：十二色相环与七种对比",
+    "COLOR SPHERE：Runge色球三维体系",
+    "POSTSCRIPT：'规则是马车，最终目标是直觉的解放'"
+  ]
+}

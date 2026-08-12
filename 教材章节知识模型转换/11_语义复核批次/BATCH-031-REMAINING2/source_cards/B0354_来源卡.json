@@ -1,0 +1,34 @@
+{
+  "source_id": "B0354",
+  "corpus": "book",
+  "folder_name": "Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14",
+  "material_type": "现代设计史奠基文本（Pioneers of Modern Design）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 15, "report_characters": 95224}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "pevsner_modern_movement_narrative"},
+    {"section_id": "2.7", "grade": "C", "verification": "V2", "role": "art_nouveau_survey"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "pevsner_teleology_critique_target"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Nikolaus Pevsner（1902-1983），《Pioneers of Modern Design: From William Morris to Walter Gropius》——初版1936（Faber and Faber，原名《Pioneers of the Modern Movement》）；第二版1949（纽约现代艺术博物馆MoMA）；本Pelican修订版1960（Penguin Books）；正文7章（L405-1409）+三个前言+图版列表148幅+章注释+人名年代表+索引",
+    "核心命题：莫里斯与格罗皮乌斯之间的阶段构成一个历史单元（L485）；'新风格，即我们世纪真正而合法的风格，到1914年已经达成'（L483）——现代设计运动（Modern Movement）并非无源之水，而是由1851年水晶宫大展暴露的维多利亚趣味危机出发",
+    "三条源流：①威廉·莫里斯与Arts and Crafts（艺术与手工艺运动）；②大陆Art Nouveau（新艺术运动）；③十九世纪工程师的钢铁与混凝土建筑——在1914年一战前夕达到成熟（贝伦斯AEG透平机厂/格罗皮乌斯法古斯工厂/科隆Werkbund展示范工厂为标志）",
+    "关键概念：Sachlichkeit（客观务实性，L465）、Maschinenstil（机器风格，L465）、Typisierung（标准化，L477）、艺术即'人在劳动中的愉悦之表达'（L419）、'装饰即罪恶'（Loos，L1541注释63）、有机装饰（Sullivan，L447）",
+    "七章结构：①Theories of Art from Morris to Gropius（理论纲领：从莫里斯到格罗皮乌斯的艺术理论史）；②From 1851 to Morris and the Arts and Crafts（1851大展与莫里斯、手工艺复兴）；③1890 in Painting（1890年前后绘画革命：塞尚/高更/凡·高/蒙克）；④Art Nouveau（新艺术运动：起源/各国形态/评价）；⑤Engineering and Architecture in the Nineteenth Century（工程师传统：铁/钢/混凝土建筑史）；⑥England 1890-1914（英国：沃伊齐/麦金托什与领导权失落）；⑦The Modern Movement before 1914（美/法/德/奥的现代运动，止于格罗皮乌斯1914）",
+    "史学地位：现代设计史学科的奠基文本之一——确立'从莫里斯到格罗皮乌斯'的现代运动叙事（Pevsner范式），与Giedion《Space, Time and Architecture》、Hitchcock-Johnson《The International Style》共同构成现代建筑/设计史的正统谱系；同时也是其后女性主义/后殖民/后现代史学（包括B0152 Fallan方法论批判、B0088 Wrede所指'标准现代建筑史忽略俄国先锋'）的批判对象",
+    "版本沿革：1936 Faber首版→1949 MoMA二版→1960 Pelican修订版（L42-50）；三个前言记录版本修订与学术立场演变",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L483-485：'新风格到1914年已经达成'与历史单元命题",
+    "L465：Sachlichkeit/Maschinenstil",
+    "L888/L1034：三条源流",
+    "第4章：Art Nouveau起源与各国形态",
+    "第6章：英国1890-1914与领导权失落"
+  ]
+}

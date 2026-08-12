@@ -1,0 +1,40 @@
+{
+  "source_id": "P0009",
+  "corpus": "paper",
+  "folder_name": "Brew, Angela：The Nature of Research：Inquiry into Academic Contexts, 2001",
+  "material_type": "研究性质认识论专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Brew, Angela：The Nature of Research：Inquiry into Academic Contexts, 2001_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 4702}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "research_contested_space"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "knowledge_crisis_mode12"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Angela Brew（悉尼大学教学与学习研究所，HERDSA主席），《The Nature of Research: Inquiry in Academic Contexts》（2001首版，RoutledgeFalmer/Taylor & Francis；2002电子版；ISBN 0-415-21406-8等）——学术专著（研究专著+批评论著+文献化实验文体）",
+    "起点：'学术研究处于危机之中'（L15）——政府接管研究议程、学者被迫发表或灭亡、研究丧失为社会定义知识的权威",
+    "经验基础：对57名资深研究者（现象图析学分析）的经验研究（L323）+多学科文献综合",
+    "核心论点①：研究占据'竞争空间'（contested space，L131-157）——多重语境与议程互相拉锯",
+    "核心论点②：研究者对研究的观念存在四种质性变体（L315-321）：domino（多米诺——研究是累积的知识链条）、trading（交易——研究是交换与承认的货币）、layer（层次——研究是分层建构的意义）、journey（旅程——研究是个人成长与发现的旅程）",
+    "核心论点③：传统实证主义规则松动，需要项目内部生成的新规则（L681-689）——作者示范三条：look again（再看）、relevance（相关性）、unbending intent（不屈的意图）（L713-773）",
+    "核心论点④：知识危机——知识生产去中心化（Mode 1/2，L815——Mode 2是应用语境中的知识生产），知识应从产品转向过程（L1203-1219）",
+    "核心论点⑤：'谁的问题被研究是权力问题'（L1057）；存在系统性的研究禁忌（L1089-1107）",
+    "核心论点⑥：经济理性主义把研究商品化（L1271-1279），与研究的发现性与转变性本质冲突（L1403-1425）",
+    "核心论点⑦：研究应更像学习、更像教学，最终'教人生活'（L1451/L1635/L2055-2061）——通过发展重视过程、个人参与、伦理内嵌与社会责任的新研究形式收回研究议程（L17/L201），教会社会如何在超级复杂的不确定世界中生活（L2059）",
+    "核心论点⑧：研究即话语——语言、隐喻与叙事维系权力（L1743-1749/L1835-1855）；改变语言才能改变实践（L1859-1861）",
+    "关键概念：contested space、四种研究变体、scholarship五变体（准备/新知/整合/争议/质量）、Mode 1/2知识、performativity、economic rationalism、falsifiability、paradigm、experiential research、三条新规则、禁忌、范式窃观、超级复杂性、宏大叙事、话语、真理即生成、转变、智慧",
+    "结构：引言+Part I（研究的内语境——什么是研究/scholarship/规则/知识观/问题选择/新认知方式）+Part II（研究的外语境——商品化/学习/教学/话语/未来）",
+    "价值：研究认识论的跨学科批判——为设计研究/设计博士教育提供'研究性质'的反思框架",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L15：学术研究危机起点",
+    "L131-157：竞争空间",
+    "L315-321：四种研究变体（domino/trading/layer/journey）",
+    "L681-773：三条新规则",
+    "L1057：'谁的问题被研究是权力问题'"
+  ]
+}

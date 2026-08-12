@@ -1,0 +1,36 @@
+{
+  "source_id": "P0042",
+  "corpus": "paper",
+  "folder_name": "Lucy Kimbell：《Rethinking Design Thinking： Part II》，2012",
+  "material_type": "设计思维实践理论重思论文（Part II）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Lucy Kimbell：《Rethinking Design Thinking： Part II》，2012_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 3476}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.5", "grade": "B", "verification": "V2", "role": "design_as_practice"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "practice_three_contributions"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_after_design"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Lucy Kimbell（牛津Saïd商学院副研究员、杨基金会社会设计主管），《Rethinking Design Thinking: Part II》，Design and Culture 4(2)（2012, pp.129-148）——Part I（2011）的续篇",
+    "主旨：调用人类学与科学技术研究（STS）资源，主张把设计专长与活动理解为'在实践中被物质性地与话语性地构成的'——提出一对分析概念：design-as-practice（设计即实践）与designs-in-practice（实践中的设计）",
+    "核心转向：把设计从'脱离身体的、非历史的设计思维'转向'情境化的、偶然的、由专业设计师与设计参与者承载的实践集合'",
+    "三个贡献：①设计是情境化的地方性成就（situated local accomplishment）；②物体（objects）参与构成实践（sociomaterial/intra-action，Barad）；③去中心化设计师（de-centring designers——设计 after design、co-designers）",
+    "三个批评（承接Part I）：思维/行动二元论、理想化忽视多样性、设计师中心主义",
+    "方法：理论综述（四方面）→概念建构→两幕戒烟服务设计民族志演示（作者自建民族志：参与观察+影像）→讨论与三个贡献→启示与局限；权威精引（Reckwitz 2002/Schatzki 2001/Barad 2007）；开篇Gehry事务所轶事",
+    "关键概念：design-as-practice、designs-in-practice（相互建构）、sociomaterial、intra-action、nexus、technology-in-practice、design after design、co-designers",
+    "作者自述限度：概念未充分检验；依赖实验性本体论/认识论",
+    "影响：设计思维批判的实践理论纲领——与Part I（P0043，已复核）构成姊妹篇",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L36/L48：design-as-practice与designs-in-practice",
+    "L54-72：实践理论综述",
+    "L88-116：戒烟服务两幕民族志",
+    "L126-130：三个贡献",
+    "L120：三个批评（承接Part I）"
+  ]
+}

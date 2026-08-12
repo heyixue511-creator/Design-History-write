@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0035,16.5,B,V2,cultural_probes_reception_history,文化探针（cultural probes）自1999年Gaver团队提出以来在HCI的采纳与改造史：五种采纳方式（材料包/数据收集/参与性/感性/引证）vs五个被遗留的原初特征（颠覆/丰富说明/不确定性即资产/设计师立场/探索与速写）；'方法保留、方法论剥离'诊断——16.5交互设计方法（探针方法史）,作者元研究（CHI'07）；约90篇论文检索,00_整体分析报告（核心论点/五分类）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0035,14.3,C,V2,probes_as_hci_method,探针作为HCI数据收集与参与性方法：'discount probes'（打折探针）与probes-as-recipe把解释性研究打包为客观方法的倾向——14.3HCI与设计方法（参与式方法侧）,作者元研究（CHI'07）；采纳分类,00_整体分析报告（五分类/方法脱节）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0035,15.1,C,V2,probes_epistemology_openness,探针问题的认识论性质：不确定性即资产、解释的开放性——探针提供知识生产的替代叙述（个体间参与式互动）——与反思性HCI/批判性设计议程相通——15.1从产品批评到批判性对象（弱支撑）,作者元研究（CHI'07）；结论,00_整体分析报告（核心论点）,ACCEPTED_AS_SUPPORTING_SOURCE

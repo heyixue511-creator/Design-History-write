@@ -1,0 +1,34 @@
+{
+  "source_id": "B0185",
+  "corpus": "book",
+  "folder_name": "Heller：《Paul Rand》",
+  "material_type": "Paul Rand 设计家传记（美国平面设计史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Heller：《Paul Rand》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 5103}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.5", "grade": "B", "verification": "V2", "role": "rand_corporate_identity"},
+    {"section_id": "9.5", "grade": "C", "verification": "V2", "role": "play_instinct_method"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "european_modernism_americanized"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Steven Heller（1950-，美国平面设计史学家/作家/艺术总监，《纽约时报书评》艺术总监逾三十年，SVA联合创办MFA设计批评项目，著作逾100部），《Paul Rand》（1999精装/2000平装，Phaidon Press；前言Armin Hofmann，导言George Lois，专题论文Jessica Helfand'Paul Rand: The Modern Professor'）——设计史专著/设计批评/人物传记",
+    "传主：Paul Rand（1914-1996）——美国平面设计核心人物",
+    "结构：多声部、多体例合成专著——Routes（早年生涯）→Advertising（广告生涯：Weintraub代理公司时期1941-1955）→Publishing（出版设计：杂志封面/书籍护封/Direction杂志）→Corporate Identity（企业识别：IBM/Westinghouse/ABC/UPS）→Paul Rand: Author（著书立说）→The Modern Professor（耶鲁及布里斯托教学）",
+    "核心论题：①欧洲现代主义在美国的本土化——Rand是将苏联构成主义、荷兰风格派、德国包豪斯的视觉语言引入美国商业艺术的关键渠道；②商业设计作为文化实践——广告与平面设计不仅是商业服务更是具有文化意义的创造性活动，'好设计即好生意'（good design is good business）；③'游戏本能'（Play Instinct）作为设计方法——Rand从约束与限制中激发创造力，而非从完全自由中寻求原创性；④设计教育的现代化——Rand在耶鲁和布里斯托的教学实践构成美国平面设计教育从工艺导向向原则导向转变的关键环节",
+    "方法：深度访谈为核心（直接引用Rand本人回忆逾40处，访谈前同事/朋友/学生/IBM内部人员数十位关键证人——兼具第一人称亲切感与多视角历史厚度）；作品分析（约300幅图片——形式分析与内容分析双重解读但避免过度理论化）；双线叙事（个人史与产业史并行：1930年代大萧条、1939年纽约世界博览会、战后企业扩张、创意革命）；多声部评说嵌入（PM杂志/American Artist的Percy Seitlin/Moholy-Nagy在AD杂志的对话）",
+    "叙事策略：整体上是一本致敬性专著（圣徒传基调、强调Rand的天才/先驱性/不可替代性，批评性审视相对有限）；'孤胆英雄'叙事（Rand被塑造为单枪匹马对抗平庸商业文化的斗士）",
+    "学术贡献：为Rand研究提供迄今最完整的作品图录、年表和文献索引——基础史料价值",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch4：Corporate Identity——IBM/Westinghouse/ABC/UPS企业识别",
+    "Ch2：Weintraub广告公司时期",
+    "Ch3：出版设计与'游戏本能'",
+    "Ch6：耶鲁教学（Helfand专题论文）",
+    "核心论题：'好设计即好生意'与欧洲现代主义本土化"
+  ]
+}

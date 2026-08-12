@@ -1,0 +1,35 @@
+{
+  "source_id": "B0233",
+  "corpus": "book",
+  "folder_name": "JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme",
+  "material_type": "设计研究认识论论文（Research through Design）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 5552}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "rtd_autonomous_paradigm"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "design_paradigm_recontextualizes_science"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_ability_anthropological"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Wolfgang Jonas，《Design Research and its Meaning to the Methodological Development of the Discipline》（约2006，会议/论文集章节）——设计研究认识论与方法论基础的理论性论文",
+    "核心命题：'通过设计的研究'（Research through Design, RTD）为设计学科提供认识论概念基础，使其有可能发展出真正自主的设计研究范式——这一范式是设计方法论发展的前提条件",
+    "写作语境：2006年前后'practice-based PhD'与'研究通过设计'合法性争论高峰期——回应Frayling（1993）、Findeli（1998）、Friedman（2002）、Schneider（2006）、Cross（1999/2001）",
+    "三层次贡献：①对'设计研究三分类'（about/for/through）术语混乱的系统澄清；②将RTD锚定于进化认识论与控制论（Riedl/Luhmann/von Foerster德语传统）；③提出设计范式对科学范式的'重新语境化'（re-contextualizing）关系——科学研究应嵌入设计过程逻辑，而非相反",
+    "论证结构：命题提出→学科危机诊断（'短期意识形态替代长期理论建设'）→概念澄清→人类学奠基（设计能力作为人的本质特征）→进化认识论（知识生产普遍模式=行动-反思循环）→进化机制操作化（变异-选择-再稳定化，hypercyclic generic design process model）→范式结论",
+    "作者自限：'I am not aiming at grand new theory designs, but at the clarification of inconsistencies'——澄清整合而非全新体系",
+    "方法：文献引证与批判性辨析、概念谱系学、自然科学类比与隐喻迁移（进化论/控制论/自创生系统）、系统理论框架（Luhmann社会进化三分法）、过程模型建构",
+    "价值：RTD/设计研究范式论争的关键介入文本——设计学科自主知识生产论证",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "§1：核心假设（RTD为设计学科认识论基础）",
+    "§4：about/for/through三分类澄清",
+    "§5：设计能力作为人的本质特征",
+    "§6-7：进化认识论与变异-选择-再稳定化",
+    "§9：设计范式重新语境化科学范式"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "source_id": "B0433",
+  "corpus": "book",
+  "folder_name": "Victor Margolin：《World History of Design World War I to World War II》",
+  "material_type": "世界设计史三卷本巨著（第二卷）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Victor Margolin：《World History of Design World War I to World War II》_clean.md",
+  "duplicate_group": "无精确哈希重复（B0288为卷三/B0461为卷二另一条目）",
+  "files": [{"report_file_count": 26, "report_characters": 108365}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "world_history_design_vol2"},
+    {"section_id": "3.4", "grade": "C", "verification": "V2", "role": "soviet_design_revolution"},
+    {"section_id": "8.3", "grade": "C", "verification": "V2", "role": "dictatorship_designs"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Victor Margolin（芝加哥大学设计史荣休教授、Design Issues 期刊创始人），《World History of Design, Volume 2: World War I to World War II》（2015，Bloomsbury Academic；ISBN HB 978-1-4725-6651-5；clean版25782行）——马格林两卷本世界设计史第二卷，覆盖从第一次世界大战爆发前至第二次世界大战结束（约1900-1945）的世界设计发展",
+    "结构：以国家/地区为经、以设计领域（产品/家具/陶瓷/玻璃/图形/印刷/广告/运输/建筑内装/展览等）为纬，18章——①苏维埃俄国设计（1905-1928）；②魏玛德国（1918-1933）；③法国（1918-1939）；④英国（1918-1939）；⑤西欧与南欧诸国；⑥中欧与东欧诸国；⑦斯堪的纳维亚诸国（1917-1945）；⑧意大利、德国、苏联与葡萄牙的独裁政权时期（1922-1940）；⑨美国（1917-1941）；⑩⑪拉丁美洲两组；⑫英联邦国家；⑬近东与中东；⑭殖民地：非洲（1900-1945）；⑮殖民地：印度、香港与缅甸；⑯亚洲：中国与暹罗；⑰亚洲：日本及其殖民地与领土；⑱第二次世界大战（1939-1945）",
+    "核心论点：①设计史是全球性的、多中心的——'世界设计史'应超越西方中心论（L25768-25777），覆盖拉美、非洲、中东、亚洲等传统被忽视地区；②现代性的'斑驳'（spotty）传播——欧洲现代化进程不均，德国/美国最激进，其他国家零星接受（L703-705）；③独裁政权与设计的关系无单一模式——法西斯意大利、纳粹德国、斯大林苏联、萨拉查葡萄牙各有不同设计策略（L8229-8246）；④殖民主义对'设计'的制约——殖民经济以原料换制成品，抑制本土工业化与设计职业（L19092-19100/L12734）",
+    "关键概念：Suprematism、Constructivism、production art、New Typography（Elementare Typographie）、Sachplakat、Art Deco、Neues Bauen、Functionalism、streamlining（流线型）、folkhemmet、mingei（民艺）、ISOTYPE、Utility Scheme、progressive obsolescence、planned obsolescence、Modernism and Archaism（Heskett，L8238）",
+    "价值：马格林世界设计史体系的第二卷——与卷三（B0288，2015，覆盖1945年后）及方法论宣言（B0284，2005）构成完整体系；本卷承担1900-1945区间的全球多中心设计史实证",
+    "clean原文存在（25782行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L25768-25777：全球多中心设计史主张",
+    "L703-705：现代性'斑驳'传播",
+    "L8229-8246：独裁政权设计的多元模式",
+    "L19092-19100：殖民主义对设计的制约",
+    "Ch20：苏维埃俄国设计1905-1928"
+  ]
+}

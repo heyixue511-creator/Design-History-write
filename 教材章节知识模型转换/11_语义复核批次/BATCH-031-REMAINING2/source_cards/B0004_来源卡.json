@@ -1,0 +1,33 @@
+{
+  "source_id": "B0004",
+  "corpus": "book",
+  "folder_name": "Adam, Peter：Eileen Gray：Architect, Designer, 1987",
+  "material_type": "人物传记兼作品全集（Monograph & Catalogue Raisonné）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Adam, Peter：Eileen Gray：Architect, Designer, 1987_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 18, "report_characters": 194849}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.3", "grade": "B", "verification": "V2", "role": "gray_female_modernist_rediscovery"},
+    {"section_id": "5.1", "grade": "C", "verification": "V2", "role": "gray_lacquer_artdeco"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "gray_E1027_modernism"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Peter Adam，《Eileen Gray: Architect, Designer》（1987，Harry N. Abrams, Inc., New York）——迄今关于爱尔兰裔设计师与建筑师艾琳·格雷（Eileen Gray, 1878-1976）最权威、最全面的传记性专著，兼作品全集（Catalogue Raisonné）",
+    "生平主线：家族起源与爱尔兰童年→伦敦斯莱德美术学院（Slade School of Fine Arts）与巴黎朱利安学院（Académie Julian）求学→一战前后在巴黎以漆艺成名→1920年代由家具和室内设计转向建筑自学的决定性转折→法国南部两座现代主义经典住宅：E.1027海边住宅（1926-29）与Tempe à Pailla自宅→二战后文化中心设计等晚期创作",
+    "全书四大板块：①编年生平叙事（第一至十一章）；②作品图录（按家具类型：屏风与门/沙发与床/桌子/书柜与柜子/灯具/镜子/杂项）；③展览与文献信息（个展列表/重要群展如MoMA/参考文献/作品出处Provenance）；④大量原始草图、模型照片、家具图录与法语/荷兰语原始文献",
+    "史学价值：女性现代主义设计师重新发现的代表性个案——格雷从装饰艺术漆艺师到现代主义建筑师的跨界轨迹，挑战'现代主义=男性叙事'的正统史观；与Kirkham的蕾·伊姆斯修正（B0335）、9.3'谁设计/谁使用/谁被代表'议题直接相关",
+    "关键作品：E.1027海边住宅（与Jean Badovici合作，1926-29）——现代主义建筑经典，后遭Le Corbusier在墙上绘制壁画（其争议本身成为现代主义所有权与性别政治的史料）；Tempe à Pailla自宅（1931-34）；巴黎Rue de Lota公寓室内（1919）——'棕榈木椅'等漆艺家具代表作",
+    "限度：传记体裁（1987年，格雷1976年去世后11年出版）；对格雷晚年与声誉重建（1970年代重新发现）的叙述较简；依赖访谈与档案，部分年代细节存在争议",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "斯莱德美术学院与朱利安学院求学",
+    "一战前后巴黎漆艺成名",
+    "E.1027海边住宅（1926-29）",
+    "Tempe à Pailla自宅（1931-34）",
+    "作品图录与展览信息板块"
+  ]
+}

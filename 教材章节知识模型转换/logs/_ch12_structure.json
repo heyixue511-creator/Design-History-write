@@ -1,11 +1,11 @@
 {
  "12.1": {
   "grades": {
-   "C": 2,
+   "C": 3,
    "A": 1,
    "B": 12
   },
-  "count": 15,
+  "count": 16,
   "items": [
    {
     "source_id": "B0427",
@@ -156,15 +156,25 @@
     "accepted_claim": "市中心绅士化使公共空间不再无条件开放，凸显城市伦理冲突（无家可归者议题）",
     "evidence_boundary": "第7章案例（曼哈顿1980s）；伦理维度隐含于公共空间论述",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0400",
+    "title": "Sparke, Penny：《An introduction to design and culture 1900 to the present》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_practice_21c",
+    "accepted_claim": "第三版对21世纪设计实践语境的更新：设计在消费、技术、职业、理论、身份五个层面的文化角色（十章两时段框架的当代延伸）",
+    "evidence_boundary": "12.1 设计实践与职业（当代语境侧）",
+    "status": ""
    }
   ]
  },
  "12.2": {
   "grades": {
-   "C": 3,
+   "C": 4,
    "A": 2
   },
-  "count": 5,
+  "count": 6,
   "items": [
    {
     "source_id": "B0434",
@@ -197,6 +207,16 @@
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    },
    {
+    "source_id": "B0160",
+    "title": "Fuad-Luke：《The eco-design handbook a complete sourcebook for the home and office》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "designers_save_the_earth",
+    "accepted_claim": "'设计师拯救地球'：设计师作为变革催化剂的独特作用（Papanek谱系延续）；'设计以满足真实需求而非短暂时尚需求'——12.2帕帕奈克与真实世界（弱-中支撑）",
+    "evidence_boundary": "作者手册（2002）；导论/十四点宣言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0181",
     "title": "Guy, John：Woven Cargoes：Indian Textiles in the East, 1998",
     "grade": "C",
@@ -220,11 +240,11 @@
  },
  "12.3": {
   "grades": {
-   "C": 4,
-   "B": 5,
+   "C": 8,
+   "B": 9,
    "A": 1
   },
-  "count": 10,
+  "count": 18,
   "items": [
    {
     "source_id": "B0420",
@@ -257,6 +277,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0160",
+    "title": "Fuad-Luke：《The eco-design handbook a complete sourcebook for the home and office》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "eco_pluralism_green_design_history",
+    "accepted_claim": "生态设计百年谱系（工艺美术运动→现代主义→有机设计→Fuller→Papanek 1971→1980s绿色消费者→1990s LCA与SPD）；生态多元主义（eco-pluralism）——反对单一教条式可持续设计范式，主张从'微小改良'到'产品完全非物质化'的整个谱系都有生态价值——12.3环境设计与生命周期（生态设计谱系侧）",
+    "evidence_boundary": "作者手册（2002）；绿色设计简史/生态多元主义",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0230",
     "title": "John Thackara：《In the Bubble Designing in a Complex World》，2005",
     "grade": "B",
@@ -264,6 +294,26 @@
     "role": "design_mindfulness_sustainability",
     "accepted_claim": "设计正念（design mindfulness）七项原则与五资本模型：从\"为人们设计\"转向\"与人们一起设计\"、从产品到服务——可持续设计的理论奠基",
     "evidence_boundary": "作者理论（2005）；'正念'为规范性框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0251",
+    "title": "Kate Fletcher：《Sustainable Fashion and Textiles Design Journeys》，2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "slow_fashion_sustainable_textiles",
+    "accepted_claim": "'慢时尚'（Slow Fashion）概念的系统阐述（后成为可持续时尚运动核心话语）：材料多样性、伦理制造、'少洗更珍惜'使用伦理、零废弃循环时间观、对'快速的欲望满足'的批判——生命周期四阶段（原材料/生产制造/消费者使用/废弃处置）的隐性叙事——12.3环境设计与生命周期（可持续时尚侧）",
+    "evidence_boundary": "作者专著（2008）；八章双层结构",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0307",
+    "title": "Michael Braungart, William McDonough：《Cradle to cradle remaking the way we make things》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "cradle_to_cradle_waste_food",
+    "accepted_claim": "'摇篮到摇篮'（Cradle to Cradle）：废物即养分（waste = food）、追求'有益'而非'减少危害'；对'零排放、零足迹、减少、最小化'内疚语言的批判（'更多控制不等于做好事'）——从'拯救地球'到'学会在地球上繁荣'——12.3环境设计与生命周期",
+    "evidence_boundary": "作者经典（2002/2008）；归还法则与导论",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -287,6 +337,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "P0015",
+    "title": "Cameron Tonkinwise：《Is Design Finished？ Dematerialisation and Changing Things》，2004",
+    "grade": "B",
+    "verification": "V2",
+    "role": "planned_obsolescence_ontology",
+    "accepted_claim": "计划性报废是'制造完成之物'的存在论后果而非市场失灵：现代设计之本质是制造完成之物，完成性注定物之短命、可弃与可量化——'可处置耐用品'悖论；不可持续之源是流量（throughput）而非存量——12.3环境设计与生命周期（哲学批判侧）",
+    "evidence_boundary": "作者论文（2004）；海德格尔本体论框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0052",
     "title": "Briggs, Asa：《Victorian things》",
     "grade": "C",
@@ -307,6 +367,26 @@
     "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
    },
    {
+    "source_id": "B0160",
+    "title": "Fuad-Luke：《The eco-design handbook a complete sourcebook for the home and office》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "lifecycle_strategies",
+    "accepted_claim": "产品生命周期五阶段生态设计策略清单（预生产/制造/运输分销/使用功能/废弃处置）与生物圈/科技圈材料数据库（隐含能/可回收性标注）——生命周期分析（LCA）的操作化——12.3环境设计与生命周期（方法侧）",
+    "evidence_boundary": "作者手册（2002）；第三/四部分",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0251",
+    "title": "Kate Fletcher：《Sustainable Fashion and Textiles Design Journeys》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "improvement_to_change_ecology",
+    "accepted_claim": "从'改进'（doing things better）到'变革'（doing different things）的双重逻辑：改进策略在现有商业模式内运行，变革策略挑战系统基本假设与权力结构；以生态学为隐喻来源（多样性/反馈回路/产业生态学/仿生学）——'没有单一画框的方法'——12.3环境设计与生命周期（方法侧）",
+    "evidence_boundary": "作者专著（2008）；跨学科整合",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0273",
     "title": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
     "grade": "C",
@@ -317,6 +397,16 @@
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    },
    {
+    "source_id": "B0307",
+    "title": "Michael Braungart, William McDonough：《Cradle to cradle remaking the way we make things》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "substitution_trap_critique",
+    "accepted_claim": "成分替代的陷阱：欧盟石棉禁令被锑硫化物（更强致癌物）替代、无铅焊料稀缺且有毒——'禁止=进步'的颠覆；环保立法需考察替代物全系统影响——12.3环境设计的反例性批判",
+    "evidence_boundary": "作者经典（2002/2008）；导论案例链",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0418",
     "title": "The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis",
     "grade": "C",
@@ -325,15 +415,47 @@
     "accepted_claim": "持存（Sustainment）、去未来化（Defuturing）与\"终结之后的设计\"：非可持续是结构性条件——环境设计的哲学批判",
     "evidence_boundary": "哲学论文选（2019）；与B0110（Fry）同一圈层重复命题只计一份P0",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0012",
+    "title": "Buchanan：《Discovering design explorations in design studies》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "manzini_habitable_world",
+    "accepted_claim": "设计师的终极责任是'制造可居住的世界'：'人工物的生态学'（借贝特森意识理论）主张从'作为生产的做'转向'作为再生产的做'——12.3环境设计与生命周期（生态设计理论侧，弱-中支撑）",
+    "evidence_boundary": "编者文集（1995）；Manzini章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "12.4": {
   "grades": {
-   "B": 2
+   "B": 4,
+   "A": 1,
+   "C": 2
   },
-  "count": 2,
+  "count": 7,
   "items": [
+   {
+    "source_id": "B0210",
+    "title": "Joan Greenbaum, Morten Kyng (eds.)：《Design at Work Cooperative Design of Computer Systems》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "cooperative_design_paradigm",
+    "accepted_claim": "计算机系统设计必须以工作实践为出发点，通过设计者与使用者的全程合作将'使用者'从被动研究对象转变为能动的'人类行动者'；批判系统开发的理性主义/笛卡尔传统——斯堪的纳维亚'集体资源方法'的总结与北美参与式设计的起点——12.4参与式设计的北欧传统",
+    "evidence_boundary": "主编文集（1991）；UTOPIA项目等案例",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0210",
+    "title": "Joan Greenbaum, Morten Kyng (eds.)：《Design at Work Cooperative Design of Computer Systems》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_as_political_process",
+    "accepted_claim": "'设计过程是一个政治过程，包含冲突'：管理者的命令与使用者需求相悖、不同用户群体需求不同、设计师代表自身利益；定制权（tailoring）的分配涉及组织权力——12.4工作场所民主与共同设计",
+    "evidence_boundary": "主编文集（1991）；Ch1与Ch11论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
    {
     "source_id": "B0347",
     "title": "Personas, Participatory Design and Product Development An Infrastructure for Engagement",
@@ -353,6 +475,36 @@
     "accepted_claim": "persona作为\"参与的基础设施\"：商业产品开发中参与式设计的结构性/规模性障碍与persona方案（须由数据奠基、随数据演化）——参与式设计的规模转化",
     "evidence_boundary": "微软单一组织经验（作者自认限度）；'定型与反定型'困境未解决",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0386",
+    "title": "Sanders：《Co-creation and the new landscapes of design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "co_creation_user_partner",
+    "accepted_claim": "共同创造（co-creation）理论：设计研究正从'以用户为中心'（用户即被试，美国驱动）向'共同设计'（用户即伙伴，北欧引领）演进；用户=自身经验的专家（expert of his/her experience）、研究者=促进者、设计师=生成式思维提供者与形式赋予者——'用户即伙伴'范式的当代表述",
+    "evidence_boundary": "12.4 参与式设计的北欧传统（当代理论）",
+    "status": ""
+   },
+   {
+    "source_id": "B0386",
+    "title": "Sanders：《Co-creation and the new landscapes of design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "participatory_design_40years",
+    "accepted_claim": "参与式设计四十年历史：自1970年代北欧'集体资源方法'以来，co-creation/co-design实践已有近四十年传统而非新现象——共同创造历史的权威梳理",
+    "evidence_boundary": "12.4 参与式设计的北欧传统（历史侧）",
+    "status": ""
+   },
+   {
+    "source_id": "P0020",
+    "title": "Design and the Construction of Publics -- DiSalvo, Carl -- Design Issues, #1, 25",
+    "grade": "C",
+    "verification": "V2",
+    "role": "public_construction_civic_participation",
+    "accepted_claim": "公众建构战术中的草根形态（Preemptive Media《Zapped!》RFID意识项目与2004加州学校RFID提案事件）展示非专业公民团体以设计式手段参与公共议题——参与式设计从工作场所民主扩展到公民/公共议题的当代形态",
+    "evidence_boundary": "公民以设计手段介入公共争议的案例路径",
+    "status": "参与式设计的当代扩展（草根/公民参与侧）"
    }
   ]
  },
@@ -488,11 +640,11 @@
  },
  "12.6": {
   "grades": {
-   "B": 3,
+   "B": 4,
    "A": 3,
-   "C": 6
+   "C": 8
   },
-  "count": 12,
+  "count": 15,
   "items": [
    {
     "source_id": "B0080",
@@ -535,6 +687,16 @@
     "status": "ACCEPTED_AS_GENDERED_LABOUR_SUPPORT"
    },
    {
+    "source_id": "B0036",
+    "title": "Attfield：《A View from the interior feminism, women, and design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "feminist_design_history",
+    "accepted_claim": "设计并非性别中立的审美活动而是深刻嵌入社会性别关系的文化实践：父权制通过性别分工（男性设计者vs女性执行者）、领域限制与价值贬低系统性地边缘化女性；女性主义设计史要根本改变设计史的问题框架与认识论基础——12.6女性主义设计批评",
+    "evidence_boundary": "编者文集（1989）；15章案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0338",
     "title": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
     "grade": "B",
@@ -553,6 +715,16 @@
     "accepted_claim": "女性协会、家庭工业、慈善工艺和职业训练显示性别与阶级共同塑造设计劳动",
     "evidence_boundary": "富裕赞助者、受训设计者和贫困制作妇女不能合并成统一女性经验",
     "status": "ACCEPTED_AS_GENDERED_LABOUR_SUPPORT"
+   },
+   {
+    "source_id": "B0036",
+    "title": "Attfield：《A View from the interior feminism, women, and design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "women_designers_producers_consumers",
+    "accepted_claim": "女性作为设计师/生产者/消费者的多重路径：Marion Dorn纺织品专业发展、Susie Cooper自创公司与阶级交叉、女性建筑师在RIBA的抗争；1950s'设计师主妇'的反规训文化生产——12.6女性主义设计批评（案例侧）",
+    "evidence_boundary": "编者文集（1989）；Part II-IV",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0183",
@@ -605,6 +777,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0438",
+    "title": "Walker, John A., Design History and the History of Design, 1989",
+    "grade": "C",
+    "verification": "V2",
+    "role": "feminism_as_politics",
+    "accepted_claim": "女性主义不是设计史的一种方法论而是政治，要求重构学科（Attfield第11章：'形式/女性 服从 功能/男性'）——12.6女性主义设计批评（与B0036呼应）",
+    "evidence_boundary": "作者导论（1989）；特邀章Attfield",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0440",
     "title": "Walker：《Design History and the History of Design》",
     "grade": "C",
@@ -618,11 +800,11 @@
  },
  "12.7": {
   "grades": {
-   "C": 6,
+   "C": 8,
    "A": 4,
    "B": 3
   },
-  "count": 13,
+  "count": 15,
   "items": [
    {
     "source_id": "B0032",
@@ -752,6 +934,26 @@
     "role": "sharing_not_buying",
     "accepted_claim": "分享而非购买（Sharing not Buying）替代方案与购前十问——社会创新的早期表述",
     "evidence_boundary": "行动者方案（1995）；替代方案的实施证据缺",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0034",
+    "title": "Horst W. J. Rittel; Melvin M. Webber：《Dilemmas in a General Theory of Planning》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pluralism_no_common_welfare",
+    "accepted_claim": "多元社会中不存在统一的公共福利（社会-福利函数不可得）；专家是政治博弈的参与者、'规划是政治的组成部分'——决策权与利益冲突的社会创新语境——12.7社会创新、社区设计与正义",
+    "evidence_boundary": "作者论文（1973）；第四节社会语境",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0064",
+    "title": "Terry Irwin：《Transition Design： A Proposal for a New Area of Design Practice, Study, and Research》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "wicked_problems_century",
+    "accepted_claim": "转型设计针对的21世纪wicked problems（气候变化、生物多样性丧失、资源枯竭、贫富差距）——社会创新与社区设计的系统语境——12.7社会创新、社区设计与正义（弱支撑）",
+    "evidence_boundary": "作者纲领论文（2015）；引言",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]

@@ -1,0 +1,39 @@
+{
+  "source_id": "B0127",
+  "corpus": "book",
+  "folder_name": "Donald A. Norman：《The Design of Everyday Things》",
+  "material_type": "交互设计奠基经典（以用户为中心的设计）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Donald A. Norman：《The Design of Everyday Things》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 13241}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.5", "grade": "A", "verification": "V2", "role": "user_centered_design_principles"},
+    {"section_id": "14.2", "grade": "B", "verification": "V2", "role": "visibility_mapping_feedback"},
+    {"section_id": "14.3", "grade": "C", "verification": "V2", "role": "seven_design_principles"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Donald A. Norman（认知心理学家），《The Design of Everyday Things》（精装版原名The Psychology of Everyday Things，1988，Basic Books；平装1990，Doubleday/Currency）——'以用户为中心的设计'开创性著作",
+    "核心追问：为何人类能驾驭航天器却不会用一扇门/水龙头/微波炉——问题不在人'笨'，而在设计未能提供正确的可见性（visibility）、反馈（feedback）、自然映射（natural mapping）与概念模型（conceptual model）",
+    "可供性（affordance）：物品的知觉和实际属性，主要用于确定物品'如何使用'——当可供性被善用时，用户一看便知怎样操作（承Gibson生态知觉概念引入设计学）",
+    "执行鸿沟（Gulf of Execution）与评估鸿沟（Gulf of Evaluation）：意图与允许操作之间的差距、物理状态与用户期望之间的诠释差距——优秀设计将二者降至最小",
+    "行动的七个阶段模型：目标→意图→动作序列→执行→感知→解释→评估",
+    "失误（slips）与错误（mistakes）六类型：capture/description/data-driven/associative activation/loss-of-activation/mode errors——'为错误而设计'",
+    "四类约束：物理、语义、文化、逻辑约束——将无限操作可能缩减为'唯一正确的动作'",
+    "强迫功能（forcing functions）：互锁（interlocks）、锁定（lockins）、锁定阻止（lockouts）",
+    "分布式认知：'精确行为可由不精确的知识支撑'——知识在脑中vs在世界中；三种记忆（任意/有意义/基于解释）",
+    "设计挑战：审美优先于好用、设计师不是典型用户（Wozniak万能遥控器40页说明书案例）、功能蔓延（creeping featurism——功能翻倍复杂度增四倍）、'虚假形象的崇拜'",
+    "七条设计原则：①善用外部知识与头脑知识；②简化任务结构；③使事物可见；④建立正确映射；⑤利用约束力量；⑥为错误而设计；⑦万不得已时标准化；三种心理模型（设计模型/用户模型/系统形象）",
+    "历史地位：设计学入门经典、认知科学应用于现实世界的典范；号召从'基于技术'到'基于用户'的设计范式转换",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第一章：可见性/可供性/映射/反馈核心概念",
+    "第二章：行动七阶段与两个鸿沟",
+    "第三章：知识在脑中vs世界中",
+    "第五章：失误六类型与强迫功能",
+    "第七章：七条设计原则"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source_id": "B0422",
+  "corpus": "book",
+  "folder_name": "Patricia Anderson：《The printed image and the transformation of popular culture, 1790-1860》",
+  "material_type": "印刷图像与大众文化史研究（Clarendon 1991）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\The printed image and the transformation of popular culture, 1790-1860 (Anderson.md",
+  "duplicate_group": null,
+  "files": {"file_count": 16, "total_characters": 105567},
+  "report_structure": {"file_count": 16, "total_characters": 105567},
+  "candidate_sections": ["6.3", "11.2"],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": "四份插图周刊个案（Penny Magazine 等）：印刷图像凭图像对文盲/非文盲双重可达性成为第一种定期持续的大众传播媒介；大众文化源于'同意'协商（葛兰西霸权框架）而非社会控制；高雅艺术1845年后加速退出工人阶级视觉经验。",
+  "original_spot_checks": "综合入口+整体分析报告通读；章节结构核验"
+}

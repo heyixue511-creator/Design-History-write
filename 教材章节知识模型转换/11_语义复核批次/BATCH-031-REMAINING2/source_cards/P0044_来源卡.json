@@ -1,0 +1,32 @@
+{
+  "source_id": "P0044",
+  "corpus": "paper",
+  "folder_name": "M. J. Golec：《Cold War Modern Design 1945-1970 Fear and Fashion in the Cold War Posters of the Cold War》",
+  "material_type": "书评（review，Journal of Design History）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\M. J. Golec：《Cold War Modern Design 1945-1970 Fear and Fashion in the Cold War Posters of the Cold War》_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 62200}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "cold_war_design_competition"},
+    {"section_id": "9.1", "grade": "C", "verification": "V2", "role": "kitchen_battlefield_consumption"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Michael J. Golec（芝加哥艺术学院艺术史、理论与批评系设计史副教授），书评（Journal of Design History，DOI 10.1093/jdh/epp032，Advance Access 2009年10月7日；clean版117行）——评论V&A三卷本《Cold War Modern》系列：Crowley & Pavitt编《Cold War Modern: Design 1945-1970》（2008，336pp）/Pavitt《Fear and Fashion in the Cold War》（2008，128pp）/Crowley《Posters of the Cold War》（2008，112pp）",
+    "被评展览：'Cold War Modern: Design 1945-1970'，伦敦维多利亚与阿尔伯特博物馆，2008.9.25-2009.1.11",
+    "核心命题（引目录序言）：'设计不是冷战的边缘方面，而是——无论物质上还是理论上——对未来的竞争的中心'（L7-8）",
+    "方法论立论：以Benjamin《Author as Producer》的'态度vs位置'之问为起点，经Foucault'furrowed'、行动者网络理论（Callon/Latour）与Zizek马桶三段论，确立'位置性'（positionality）分析框架——设计'既在语境中、也作为语境'，'对象与意识形态合一'（L24-44）",
+    "案例验证：厨房战场（Kitchen Debate）、家具宣传、掩体之家、地球飞船（Whole Earth）、IBM馆、Expo 70、Picasso形式主义、革命形象等——推崇目录引入东方阵营视角（莫斯科美国国家展览会1959的苏联公众批评），提出'冷战设计统一于现代性'的命题（L45-67）",
+    "批评：目录冗余、编辑导言过长、配套书相互重复——总体肯定其对设计史批判学术的贡献，以'设计在其时代的物质与话语生产中的位置是什么？'开放收束（L68-81）",
+    "等级限制：书评体裁，按纪律限B级（B级上限）",
+    "clean原文存在（117行小文件）；未完成全篇、引注核验。"
+  ],
+  "original_spot_checks": [
+    "L7-8：'设计是对未来的竞争的中心'命题",
+    "L24-44：位置性分析框架（Benjamin/Foucault/ANT/Zizek）",
+    "L45-67：厨房战场/IBM馆/Expo 70案例与东方阵营视角",
+    "L68-81：批评与开放收束"
+  ]
+}

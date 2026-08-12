@@ -1,11 +1,11 @@
 {
  "15.1": {
   "grades": {
-   "B": 4,
-   "C": 7,
+   "B": 5,
+   "C": 9,
    "A": 4
   },
-  "count": 15,
+  "count": 18,
   "items": [
    {
     "source_id": "B0023",
@@ -75,6 +75,16 @@
     "role": "performative_object_category",
     "accepted_claim": "'施为性物件'（Performative Object）范畴：人工制品通过功能的特定操作在社会情境中引发有意识的反思与互动——'功能中断'（打破常规行动预案→觉察）与'功能主题化'（提供替代行动方案→反思）双重机制——对象如何制造陌生化与价值冲突——15.1从产品批评到批判性对象",
     "evidence_boundary": "作者理论建构（2004）；Social Cups/Libation Cups案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0391",
+    "title": "SEAGO, ALEX, AND ANTHONY DUNNE. New Methods in Art and Design Research The Objec",
+    "grade": "B",
+    "verification": "V2",
+    "role": "object_as_discourse",
+    "accepted_claim": "'对象作为话语/物质理论文本'（The Object as Discourse/material critical theory）：Dunne'后最优对象'（post-optimal object）与'反功能'（parafunctionality）——把电子对象发展为批判性'话语'——批判性设计/思辨设计的概念源头（Dunne & Raby《Design Noir》《Speculative Everything》承此延长线）——15.1从产品批评到批判性对象",
+    "evidence_boundary": "作者论文（1996）；RCA三个博士案例",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -156,17 +166,37 @@
     "accepted_claim": "PO与普通设计品、艺术物、仪式物的区分标准基于功能特征（而非语境特征）：破杯=仅有中断无主题化的反例——批判性对象的分类学——15.1批判性对象的界定方法",
     "evidence_boundary": "作者理论建构（2004）；比较分析",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0359",
+    "title": "Ratto：《Critical Making Conceptual and Material Studies in Technology and Social Life》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critical_making_vs_critical_design",
+    "accepted_claim": "批判性制作与批判设计（critical design）划界：强调物质参与中的共享建构与反思对话，而非批判性对象的展示——批判性设计谱系的物质实践分支——15.1从产品批评到批判性对象",
+    "evidence_boundary": "作者奠基论文；Ch03划界论述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0035",
+    "title": "How HCI interprets the probes -- Kirsten Boehner; Janet Vertesi; Phoebe Sengers;",
+    "grade": "C",
+    "verification": "V2",
+    "role": "probes_epistemology_openness",
+    "accepted_claim": "探针问题的认识论性质：不确定性即资产、解释的开放性——探针提供知识生产的替代叙述（个体间参与式互动）——与反思性HCI/批判性设计议程相通——15.1从产品批评到批判性对象（弱支撑）",
+    "evidence_boundary": "作者元研究（CHI'07）；结论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "15.2": {
   "grades": {
-   "C": 3,
-   "B": 5,
+   "C": 6,
+   "B": 6,
    "A": 2,
    "X": 1
   },
-  "count": 11,
+  "count": 15,
   "items": [
    {
     "source_id": "B0024",
@@ -219,6 +249,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0109",
+    "title": "Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_fiction_strategy",
+    "accepted_claim": "设计虚构（Design Fiction）是设计研究新策略：系统性质疑和去建构自明之物、向新的可能未来超越、以人工物/界面/装置/表演将争议与视角具体物质化；'asking how the world could be instead of discussing how the world is'；'在乌托邦与现实之间找到恰当焦点'——15.2设计虚构与推测设计",
+    "evidence_boundary": "作者论文（约2010）；Bleecker叙事原型/Dunne批判性设计谱系",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0301",
     "title": "Matt Malpass：《Critical Design in Context History, Theory, and Practices》",
     "grade": "B",
@@ -249,6 +289,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0109",
+    "title": "Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim",
+    "grade": "C",
+    "verification": "V2",
+    "role": "research_as_design_epistemology",
+    "accepted_claim": "'作为设计的研究'（Research as Design）：设计研究不解释'世界之所是'而想象创造'世界之所可能'（Simon）；设计者的认知方式（designerly way of knowing）是构建实验系统、参与集体争议的基础能力——设计虚构的认识论基础——15.2推测设计方法论",
+    "evidence_boundary": "作者论文（约2010）；Simon/Knorr Cetina/Rheinberger理论资源",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "P0004",
     "title": "Alternatives：《exploring information appliances through Bill Gaver; Heather Marti",
     "grade": "C",
@@ -259,6 +309,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "P0020",
+    "title": "Design and the Construction of Publics -- DiSalvo, Carl -- Design Issues, #1, 25",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critical_design_for_debate",
+    "accepted_claim": "以《Is This Your Future?》展览为投射战术核心案例——预测性/规范性情境与'为辩论而设计'（Design for Debate）与思辨设计方法同谱系：用虚构未来后果使当前问题可见",
+    "evidence_boundary": "批判性设计作为公众辩论工具的案例证据",
+    "status": "设计虚构与推测设计的批评功能侧"
+   },
+   {
     "source_id": "P0029",
     "title": "Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu",
     "grade": "C",
@@ -266,6 +326,16 @@
     "role": "design_exploration_third_vertex",
     "accepted_claim": "design exploration是同时代多数研究模型忽视的第三端：'What if?'、美学、挑衅（provoke）、超越（transcendence）的正当性——与批判设计/推测设计（Dunne & Raby）同思想系谱——15.2推测设计的方法论正当性论证",
     "evidence_boundary": "作者论文（约2004）；设计探索区界定",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0037",
+    "title": "HUNT J. Prototyping the social Temporality and speculative futures at the inters",
+    "grade": "C",
+    "verification": "V2",
+    "role": "prototyping_the_social",
+    "accepted_claim": "思辨性/批判性/实验性设计作为'与当下的接合'（engagement with the present）：质疑文化传统而非解决问题与开发产品——以全球危机重申社会转型的紧迫性——15.2设计虚构与推测设计（推测设计的社会意图侧；源文件为残缺片段，等级上限C）",
+    "evidence_boundary": "作者论文（片段，约10%篇幅）；L15-22",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -282,11 +352,11 @@
  },
  "15.3": {
   "grades": {
-   "B": 3,
+   "B": 4,
    "C": 1,
    "A": 2
   },
-  "count": 6,
+  "count": 7,
   "items": [
    {
     "source_id": "B0301",
@@ -329,6 +399,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0426",
+    "title": "Tim Brown：《Change by Design How Design Thinking Transforms Organizations and Inspires Innovation》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_thinking_mainstream_narrative",
+    "accepted_claim": "设计思维主流商业化叙事的标志性文本（IDEO CEO）：'设计已经太大，不能只留给设计师'；设计思维是'把人的可欲性、技术的可行性、商业的活力整合起来'的创新方法——人人皆可习得应用——15.3对推测设计的反批评（设计思维去政治化商业化的正面表述——作为批判对象与对照系）",
+    "evidence_boundary": "作者著作（2009）；IDEO三十年项目档案",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "P0014",
     "title": "Cameron Tonkinwise：《How We Intend to Future： Review of Speculative Everything》，2014",
     "grade": "B",
@@ -352,10 +432,41 @@
  },
  "15.4": {
   "grades": {
-   "C": 1
+   "C": 3,
+   "B": 2
   },
-  "count": 1,
+  "count": 5,
   "items": [
+   {
+    "source_id": "B0359",
+    "title": "Ratto：《Critical Making Conceptual and Material Studies in Technology and Social Life》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "critical_making_practice",
+    "accepted_claim": "'批判性制作'（critical making）以共享建构过程（而非最终对象）为分析场所：文献编译→联合建构原型→迭代反思对话三阶段方法；明确的理论-技术映射与参与者投资是有效双条件；终极目标是把技术-社会关系从'matter of fact'转化为'matter of concern'——批判实践的组织形式——15.4对抗性设计与公共争议的实践侧",
+    "evidence_boundary": "作者奠基论文；伦敦/阿姆斯特丹两工作坊对照案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0020",
+    "title": "Design and the Construction of Publics -- DiSalvo, Carl -- Design Issues, #1, 25",
+    "grade": "B",
+    "verification": "V2",
+    "role": "constructed_publics_projection_tracing",
+    "accepted_claim": "公众不是先验存在的大众而是由问题召唤、围绕问题成形并受间接后果影响而存在的实体：设计可通过'投射'（以设计形式表征问题可能的未来后果，案例Dunne&Raby《Is This Your Future?》）与'追踪'（揭示并传达塑造问题的材料/行动/概念与价值网络，案例《Zapped!》）两种战术参与公众的建构——为'设计如何组织而非消除政治冲突'提供可操作框架",
+    "evidence_boundary": "公众是设计政治的首要对象",
+    "status": "15.4"
+   },
+   {
+    "source_id": "B0208",
+    "title": "Jenny L. Davis：《How Artifacts Afford The Power and Politics of Everyday Things》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "politics_of_affordances",
+    "accepted_claim": "技术具有政治性：'if left unchecked",
+    "evidence_boundary": " technologies will arc toward privilege and normality'——框架与对抗性设计等五种方法配对——15.4对抗性设计与公共争议（弱-中支撑）",
+    "status": "00_整体分析报告（核心论题4/方法论对接）"
+   },
    {
     "source_id": "B0383",
     "title": "Ruskin, John：《The Stones of Venice》",
@@ -365,16 +476,37 @@
     "accepted_claim": "工人判断空间可作为参与式设计与劳动民主讨论的远距离思想谱系",
     "evidence_boundary": "19世纪规范论不能替代当代参与机制、权力与效果证据",
     "status": "CONTEXT_ONLY_AS_GENEALOGY"
+   },
+   {
+    "source_id": "P0010",
+    "title": "Bruno Latour (as Jim Johnson)：《Mixing Humans and Nonhumans Together： The Sociology of a Door-Closer》，1988",
+    "grade": "C",
+    "verification": "V2",
+    "role": "technology_politics_artifact",
+    "accepted_claim": "物具有政治与道德：门童/弹簧/交警等'中尉'（lieutenant）把价值秩序委派给技术物执行——技术政治性命题（Winner谱系）为对抗性设计提供'物如何承载权力'的分析起点",
+    "evidence_boundary": "中尉/处方政治后果段（L124-128/L288-313）",
+    "status": "对抗性设计（物承载权力的理论侧）"
    }
   ]
  },
  "15.5": {
   "grades": {
-   "B": 4,
-   "C": 1
+   "B": 10,
+   "C": 4,
+   "A": 1
   },
-  "count": 5,
+  "count": 15,
   "items": [
+   {
+    "source_id": "P0064",
+    "title": "Terry Irwin：《Transition Design： A Proposal for a New Area of Design Practice, Study, and Research》，2015",
+    "grade": "A",
+    "verification": "V2",
+    "role": "transition_design_framework",
+    "accepted_claim": "转型设计（Transition Design）作为设计实践/研究与学习的新领域：以'愿景—变革理论—心态姿态—新设计方式'四领域框架介入21世纪棘手问题；服务设计→社会创新设计→转型设计的连续统；长时程（the long now）、多尺度、连接型方法——15.5转型设计与系统时间尺度的纲领文献",
+    "evidence_boundary": "作者纲领论文（2015）；CMU学位建制",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
    {
     "source_id": "B0102",
     "title": "David Raizman：《History of Modern Design》，2023",
@@ -384,6 +516,16 @@
     "accepted_claim": "第16章将COVID-19作为设计的历史事件：设计师参与防护装备、信息图表与疫苗监测，但「contributed but did not own change」，并揭示全球供应链脆弱与本地化生产需求",
     "evidence_boundary": "证据边界为clean第6702—6704、7798—7809行（Part VI引言与第16章COVID小节）；事件仍在展开，时效性强",
     "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   },
+   {
+    "source_id": "B0255",
+    "title": "Kees Dorst：《Frame Innovation Create New Thinking by Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "frame_creation_nine_steps",
+    "accepted_claim": "框架创造（Frame Creation）：当代社会核心问题具有四重属性（开放性/错综性/动态性/网络化），传统问题解决方法系统性失败——九步框架创造方法作为可跨领域迁移的替代方案——15.5转型设计与系统时间尺度的核心方法（与P0026论文构成方法体系）",
+    "evidence_boundary": "作者专著（2015）；19个案例研究",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "P0005",
@@ -416,6 +558,66 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "P0026",
+    "title": "Dorst, Kees：The Core of Design Thinking and Its Application, 2011",
+    "grade": "B",
+    "verification": "V2",
+    "role": "abduction2_frame_creation",
+    "accepted_claim": "设计思维核心是开放溯因（Abduction-2）：仅知价值、须并行创造'事物'与'工作原则'的开放推理；专家设计师以'框架创造'（面对核心悖论→探索主题→新框架浮现）回应——复杂问题的设计推理基础——15.5转型设计与系统时间尺度",
+    "evidence_boundary": "作者论文（2011）；Designing Out Crime案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0034",
+    "title": "Horst W. J. Rittel; Melvin M. Webber：《Dilemmas in a General Theory of Planning》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "wicked_problems_ten_attributes",
+    "accepted_claim": "社会政策问题是'wicked'（棘手）问题而非科学可解的'tame'问题：十条属性（无确定表述、无停止规则、非真非假、一锤子买卖、本质独特、互为症状、规划者无权犯错等）——设计面向长期系统变迁的理论基座——15.5转型设计与系统时间尺度",
+    "evidence_boundary": "作者论文（1973）；十条属性清单",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0042",
+    "title": "Lucy Kimbell：《Rethinking Design Thinking： Part II》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_as_practice",
+    "accepted_claim": "'设计即实践'（design-as-practice）与'实践中的设计'（designs-in-practice）：把设计从'脱离身体的、非历史的设计思维'转向'情境化的、偶然的、由专业设计师与设计参与者承载的实践集合'（STS/人类学资源）——15.5转型设计的实践理论基础",
+    "evidence_boundary": "作者论文（2012）；Design and Culture 4(2)",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0043",
+    "title": "Lucy Kimbell：《Rethinking Design Thinking： Part I》，2011",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_thinking_triple_critique",
+    "accepted_claim": "design thinking 三重批评：①思维/行动二元论割裂设计与世界；②忽视设计专业与制度的历史性多样；③设计师中心论预设设计师为主要行动者——应以实践理论把设计理解为情境化与偶然性的实践集合——15.5转型设计的批判视角",
+    "evidence_boundary": "作者论文（2011）；Design and Culture 3(3)",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0058",
+    "title": "Richard Buchanan：《Wicked Problems in Design Thinking》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "wicked_problems_design_thinking",
+    "accepted_claim": "设计问题是不确定因而'棘手'的：设计没有固有主题（'没有关于特殊物的科学'）——Buchanan系统引入Rittel棘手问题理论并给出'为什么'的原创解答——15.5转型设计与系统时间尺度的理论基座",
+    "evidence_boundary": "作者论文（1992）；第四节",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0109",
+    "title": "Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim",
+    "grade": "C",
+    "verification": "V2",
+    "role": "collective_experiments_society",
+    "accepted_claim": "当代社会本质上是集体实验场（科学与社会的边界模糊、金融危机为例）；设计研究与设计实践应在集体争议与实验中发挥积极核心作用——15.5转型设计与系统尺度的实验性（弱支撑）",
+    "evidence_boundary": "作者论文（约2010）；集体实验论题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0133",
     "title": "E. P. Thompson：《William Morris romantic to revolutionary》",
     "grade": "C",
@@ -424,16 +626,36 @@
     "accepted_claim": "必要、欲望与乌托邦想象可作为当代转型设计讨论的一条思想谱系",
     "evidence_boundary": "不能把Thompson重构当作当代设计方法或文明尺度结论",
     "status": "CONTEXT_ONLY_AS_GENEALOGY"
+   },
+   {
+    "source_id": "P0015",
+    "title": "Cameron Tonkinwise：《Is Design Finished？ Dematerialisation and Changing Things》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pss_product_temporality",
+    "accepted_claim": "PSS（产品-服务系统）必须处理'物之时间性'：'面向产品的服务'延长使用期，'再物质化成为去物质化策略'；设计'未完成之物'与'连续设计'——15.5转型设计的服务系统维度",
+    "evidence_boundary": "作者论文（2004）；L137",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0064",
+    "title": "Terry Irwin：《Transition Design： A Proposal for a New Area of Design Practice, Study, and Research》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "cosmopolitan_localism_vision",
+    "accepted_claim": "'世界主义地方主义'（cosmopolitan localism）作为转型愿景内容：地方实践与全球意识的连接——与Manzini社会创新设计呼应——15.5转型设计的愿景维度",
+    "evidence_boundary": "作者纲领论文（2015）；Vision节",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "15.6": {
   "grades": {
-   "C": 2,
-   "B": 3,
+   "C": 7,
+   "B": 5,
    "A": 2
   },
-  "count": 7,
+  "count": 14,
   "items": [
    {
     "source_id": "B0140",
@@ -476,6 +698,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0424",
+    "title": "Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "problematization_knowledge_critique",
+    "accepted_claim": "以'问题化'为总方法的知识批判：把分类、语言、翻译、知识机构等概念从'答案'改写为'问题'，解构欧洲中心知识秩序（结构性无知、学科批判、翻译伦理），为非西方知识与他者保留认知正义的位置——15.6去殖民设计与知识位置",
+    "evidence_boundary": "特刊编者与26章词条（2006）；Ch10/Ch04/Ch26",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "P0005",
     "title": "Anne-Marie Willis：《Ontological Designing》，2006",
     "grade": "B",
@@ -483,6 +715,26 @@
     "role": "ontological_design_politics",
     "accepted_claim": "本体论设计\"携带着一种政治\"：针对当代生态不可持续语境的设计活动方式论证——15.6知识位置",
     "evidence_boundary": "作者论证（2006）；政治维度的落实以实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0045",
+    "title": "Madina Tlostanova, Redi Koobak：《Border thinking and disidentification Postcolonial and postsocialist feminist dialogues》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "border_thinking_knowledge_coloniality",
+    "accepted_claim": "'边界思考'（border thinking）作为认识论层去殖民工具：知识殖民性（coloniality of knowledge）使非西方他者被'认识论消灭或挪用'；从被支配者位置出发的解构要求认识论脱钩与地缘/身体政治自觉——谁有权命名问题与代表知识的去殖民追问——15.6去殖民设计与知识位置",
+    "evidence_boundary": "作者论文（2016）；传记-认识论论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0063",
+    "title": "Calhoun：《Critical social theory culture, history, and the challenge of difference》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "difference_incommensurability",
+    "accepted_claim": "'差异是好的'——但对差异的强调不能滑向相对主义（软相对主义实则在拒绝对他者进行严肃判断）；翻译的不可通约性可通过'相互改变'（而非翻译或元语言）达成理解；理论必须是复调的话语——15.6去殖民设计与知识位置（差异/不可通约性理论侧，弱-中支撑）",
+    "evidence_boundary": "作者专著（1995）；第3章",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -496,6 +748,16 @@
     "status": "CONTEXT_ONLY_AS_HISTORIOGRAPHY"
    },
    {
+    "source_id": "B0290",
+    "title": "Margolin, Victor; Buchanan, Richard (eds.)：The Idea of Design：A Design Issues Reader, 1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_culture_power_global",
+    "accepted_claim": "设计、文化与权力：Ghose边缘-中心模型、Fry'权力的地理学：设计史与边缘性'批判、Hirano日本现代化个人叙述——亚洲与拉丁美洲声音进入设计话语——15.6去殖民设计与知识位置（弱-中支撑）",
+    "evidence_boundary": "编者文集（1995）；Part III",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0339",
     "title": "Paul Greenhalgh：《Ephemeral Vistas The Expositions Universelles, Great Exhibition",
     "grade": "C",
@@ -504,15 +766,45 @@
     "accepted_claim": "对分类、可见性与帝国展示的批判可作为去殖民设计史的史学前提",
     "evidence_boundary": "1988年博览会史不是当代去殖民设计理论或实践证据",
     "status": "CONTEXT_ONLY_AS_HISTORIOGRAPHY"
+   },
+   {
+    "source_id": "B0412",
+    "title": "Teal Triggs：《Graphic Design History Past, Present, and Future》，2011",
+    "grade": "C",
+    "verification": "V2",
+    "role": "whose_history_global",
+    "accepted_claim": "'谁的历史？'（whose history is it?）作为核心政治问题：通过全球案例（南非Siyazama项目本土图形传统、新加坡多族裔主义与国家建设）扩展平面设计史边界——15.6去殖民设计与知识位置（弱-中支撑）",
+    "evidence_boundary": "作者导言（2011）；L026-032",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0031",
+    "title": "Frampton, Kenneth：Towards a Critical Regionalism：Six Points for an Architecture of Resistance, 1983",
+    "grade": "C",
+    "verification": "V2",
+    "role": "regional_resistance_universal_civilization",
+    "accepted_claim": "'如何变得现代而又回归源头'悖论（Ricoeur）：普遍文明通过优化技术与土地投机压倒地方文化——地方化抵抗作为去殖民知识位置的建筑学表达（案例集中于欧美谱系、后发展国家问题未展开为限度）——15.6知识位置与去殖民（弱支撑）",
+    "evidence_boundary": "作者论文（1983）；第1-2点诊断",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0045",
+    "title": "Madina Tlostanova, Redi Koobak：《Border thinking and disidentification Postcolonial and postsocialist feminist dialogues》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "disidentification_practice",
+    "accepted_claim": "'去认同'（disidentification）作为实践层工具：与主导意识形态'共事又对抗'的第三种模式——新德里轮奸案三层分析（种姓政治/施暴者话语/媒体-国族话语）示范其多层操作性；'支配者也使用去认同'的自反洞见——15.6知识位置与代表权",
+    "evidence_boundary": "作者论文（2016）；德里案案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "15.7": {
   "grades": {
-   "C": 1,
-   "B": 1
+   "C": 5,
+   "B": 2
   },
-  "count": 2,
+  "count": 7,
   "items": [
    {
     "source_id": "B0024",
@@ -525,6 +817,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "P0030",
+    "title": "Foucault, Michel：Of Other Spaces：Utopias and Heterotopias, 1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "heterotopia_six_principles",
+    "accepted_claim": "异托邦（heterotopia）是真实存在的'反场所'：与一切场所相关却表征、对抗、颠倒它们；按六原则运作（危机/偏离、功能变异、并置不相容空间、异时性、开启/关闭、幻觉/补偿）——多元空间与地方世界建构的理论工具——15.7多元世界与自主性",
+    "evidence_boundary": "作者演讲（1967/1984）；六原则框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0017",
     "title": "Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》",
     "grade": "C",
@@ -532,6 +834,46 @@
     "role": "design_anthropology_global",
     "accepted_claim": "后数字时代的\"非物设计\"（物联网、移动金融）与去殖民语境中的设计实践——15.7多元世界的人类学侧",
     "evidence_boundary": "章节案例（2018）；案例成效以原项目为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0063",
+    "title": "Calhoun：《Critical social theory culture, history, and the challenge of difference》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critical_theory_four_criteria",
+    "accepted_claim": "批判理论四重标准：对当代社会世界的批判性参与（去自然化）/对自身活动历史文化条件的批判性说明/对建构性范畴的持续再检查/与其他解释性工作的批判性对话——批判理论作为多元世界对话的方法框架——15.7多元世界与自主性（弱支撑）",
+    "evidence_boundary": "作者专著（1995）；第1章L457-464",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0424",
+    "title": "Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "translation_untranslatability",
+    "accepted_claim": "跨语际知识：翻译伦理与'不可译性'承认概念的不完全通约；'中国翻译'词条涉及非西方知识的跨语际命运——15.7多元世界与不可通约性（弱支撑）",
+    "evidence_boundary": "特刊词条（2006）；Ch04",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0045",
+    "title": "Madina Tlostanova, Redi Koobak：《Border thinking and disidentification Postcolonial and postsocialist feminist dialogues》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "opacity_pluriversality",
+    "accepted_claim": "跨国对话伦理：'不透明权'（right to opacity）承认差异的不可通约；'多元宇宙性'（pluriversality）主张水平横向的、不同但平等的对话而非统一叙事——15.7多元世界与自主性",
+    "evidence_boundary": "作者论文（2016）；Glissant/Ortiz理论资源",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0049",
+    "title": "Nigel Thrift：《Non-Representational Theory： Space, Politics, Affect》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "non_representational_world",
+    "accepted_claim": "非表征理论：以实践、事件、情感（affect）、具身性和物的能动性取代以'表征—意义—文本'为核心的传统框架——以效果性理解世界（'不是what而是how'）——后表征/具身世界建构的理论资源——15.7多元世界与自主性（弱-中支撑）",
+    "evidence_boundary": "作者专著（2008）；七项要旨",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]

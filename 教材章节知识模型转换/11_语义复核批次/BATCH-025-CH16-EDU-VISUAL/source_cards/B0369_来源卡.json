@@ -1,0 +1,35 @@
+{
+  "source_id": "B0369",
+  "corpus": "book",
+  "folder_name": "Robert Bringhurst：《The Elements of Typographic Style》，1992",
+  "material_type": "西文排印奠基手册（排印'圣经'）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Robert Bringhurst：《The Elements of Typographic Style》，1992_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 16, "report_characters": 3305}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.6", "grade": "B", "verification": "V2", "role": "typographic_style_grammar"},
+    {"section_id": "11.7", "grade": "C", "verification": "V2", "role": "type_history_as_art_history"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "typographic_craft_manual"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Robert Bringhurst，《The Elements of Typographic Style》（version 3.0 第三版扩展修订版；©1992/1996/2004，Hartley & Marks，温哥华），当代西文排印的奠基性手册兼文化沉思录",
+    "核心论点：排印是'赋予人类语言以耐久可见形态'的技艺；须尊崇内容；兼具视觉意义与历史意义；原则基于人体结构与心灵解剖；排印是'理想化书写'与'表演艺术'",
+    "结构（编号规则条文1.1.1…11.1）：理念（Ch1）→参数细则（Ch2-5：节奏与比例/和谐与对位/结构装置/非字母符号）→字体选择（Ch6）→字母与印刷技术史（Ch7）→页面塑形（Ch8）→数字技术现状（Ch9：OpenType/Unicode）→字体打磨与伦理（Ch10）→字体谱系（Ch11）",
+    "关键概念：颜色、em度量、行长、行距、字距调整、旧式数字、小型大写、连字、黄金分割、斐波那契字级、Unicode、字形/字符之别、伦理次序、字体谱系",
+    "方法：规则条文化+散文论证；音乐/舞蹈/建筑/生物学多重类比；历史谱系学（艺术史分期与字体重刻史双线）；数学论证（黄金分割/斐波那契/页面比例表）；实物史料（冲模/矩阵/古版书/手稿）",
+    "伦理-文化批判：ASCII狭隘性、商业阉割、多元文字权利",
+    "历史地位：英语世界当代排印'圣经'级文本——'Strunk & White式'手册传统在排印领域的继承与超越；系统建立'字体史=艺术史'分期范式",
+    "限度：以拉丁字母为中心（东亚表意文字仅边缘涉及）；大量判断依赖作者个人趣味；OCR希腊文/公式区识别损伤",
+    "clean原文存在（6924行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1：排印理念与'赋予人类语言以耐久可见形态'",
+    "Ch2：节奏与比例参数",
+    "Ch8：页面塑形与黄金分割",
+    "Ch9：数字技术现状",
+    "Ch10：字体打磨与伦理次序"
+  ]
+}

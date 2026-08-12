@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0200,14.3,B,V2,hci_pattern_language_framework,模式语言能够且应当扩展为跨学科形式框架：统一表达HCI设计、软件工程和应用领域三个维度的设计经验；'模式概念在建筑中的本意比在软件设计中更自然地适用于界面设计'——HCI设计模式方法论奠基——14.3HCI与设计方法的汇合,作者专著（2001）；跨学科模式框架,00_整体分析报告（核心命题）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0200,14.6,B,V2,unified_pattern_format,三领域模式语言遵循统一格式（name/ranking/illustration/problem/forces/examples/solution/diagram/context/references）使跨学科沟通成为可能；模式语言作为动态设计工具嵌入可用性工程生命周期——14.6设计系统与平台规模化的模式语言基础,作者专著（2001）；第3章/第5章,00_整体分析报告（统一命题）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0200,14.2,C,V2,interactive_music_pattern_language,交互式音乐展品模式语言实例（WorldBeat系统、Interactive Fugue）：17个HCI模式+11个音乐领域模式以类Alexandrian格式书写——界面模式的领域化实践——14.2图形用户界面与交互范式,作者专著（2001）；第4章,00_整体分析报告（实例示范）,ACCEPTED_AS_SUPPORTING_SOURCE

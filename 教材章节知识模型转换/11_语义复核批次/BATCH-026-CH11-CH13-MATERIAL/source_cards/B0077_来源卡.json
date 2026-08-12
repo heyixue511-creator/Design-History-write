@@ -1,0 +1,36 @@
+{
+  "source_id": "B0077",
+  "corpus": "book",
+  "folder_name": "Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar",
+  "material_type": "企业形象设计方法论著作（C&G自述）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 12681}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.5", "grade": "B", "verification": "V2", "role": "trademark_three_criteria"},
+    {"section_id": "9.5", "grade": "C", "verification": "V2", "role": "trademark_as_vessel"},
+    {"section_id": "13.2", "grade": "C", "verification": "V2", "role": "cross_scale_identity_system"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Ivan Chermayeff、Tom Geismar、Sagi Haviv（Chermayeff & Geismar设计事务所合伙人），《Identify: Basic Principles of Identity Design in the Iconic Trademarks of Chermayeff & Geismar》（2011，Print Publishing/F+W Media；前言Steven Heller，序言Isaac Mizrahi）",
+    "定位：事务所对其商标设计理念与方法的系统自述——以1960年起为Chase Manhattan Bank设计的蓝色八角形抽象标志为起点，四十余个经典案例（美国国会图书馆、NBC、PBS、Mobil Oil、Showtime、史密森尼学会、National Geographic）",
+    "三标准：恰当（appropriate）——在形式和概念上与客户及行业相关但不必然表达具体内容；简洁（simple）——概念上聚焦单一'故事'、形式不复杂；可记忆（memorable）——简洁与独特之间的连续体，理想是'经过短暂观看后能凭记忆画出该标志'",
+    "核心论点二：商标是'容器'（vessel）而非'图解'——'a successful trademark as a vessel that can hold the associations relevant to the company or organization rather than actually illustrate them'——Chase高管最初反对抽象符号但采纳后迅速认同（'人们会将正面联想转移到最简单抽象的设'）",
+    "核心论点三：科学与艺术结合——调研阶段是'科学'（'海绵式'吸收信息）、概念探索是'艺术'（直觉探索）",
+    "核心论点四：手绘优先于计算机——'Sketching by hand gives a designer an immediacy of artistic expression...'；'the computer's preprogrammed functions often just get in the way'——手绘→扫描→数字化→打印→描摹→再扫描循环",
+    "五阶段流程：海绵式调研→策略推导→手绘草图探索→协作评审→应用测试",
+    "跨尺度检验：好的商标必须经得起从巨型建筑立面到手机浏览器图标的检验",
+    "价值：美国战后现代主义标志设计的权威一手方法论（C&G事务所自述）",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "行198-230：导论方法论（海绵式调研/三标准/手绘）",
+    "行214-220：'容器'定义与可记忆性",
+    "行436-437：Chase八角形案例",
+    "行208-209：手绘优先论证",
+    "前言：Steven Heller的战后现代主义谱系定位"
+  ]
+}

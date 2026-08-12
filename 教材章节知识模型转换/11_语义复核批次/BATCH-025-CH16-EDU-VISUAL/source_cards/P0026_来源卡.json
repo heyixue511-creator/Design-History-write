@@ -1,0 +1,37 @@
+{
+  "source_id": "P0026",
+  "corpus": "paper",
+  "folder_name": "Dorst, Kees：The Core of Design Thinking and Its Application, 2011",
+  "material_type": "设计思维核心理论论文（框架创造）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Dorst, Kees：The Core of Design Thinking and Its Application, 2011_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 4132}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.5", "grade": "B", "verification": "V2", "role": "abduction2_frame_creation"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "organizational_adoption_levels"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "design_thinking_debate"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Kees Dorst（悉尼科技大学/埃因霍温理工大学），《The Core of 'Design Thinking' and Its Application》（2011，Elsevier）",
+    "核心论点：设计思维的核心不是笼统的创造性态度，而是开放溯因（Abduction-2）所要求的、以框架创造为标志的特定推理与专业实践",
+    "推理方程 WHAT + HOW → VALUE：区分演绎、归纳与溯因两型——Abduction-1（封闭常规问题解决）与 Abduction-2（仅知价值、须并行创造'事物'与'工作原则'的开放推理）——Abduction-2 是设计的核心挑战",
+    "有经验设计师以'框架'（frame）回应挑战：设计推理是从价值倒推框定、转入 Abduction-1 补全、再以演绎检验的混合流程",
+    "框架创造（frame creation）：面对'核心悖论'，专家设计师在更广问题情境中探索'主题'（现象学意义），新框架从主题中浮现",
+    "案例：Designing Out Crime 娱乐区项目——'把治安问题当作组织音乐节'的类比式框架创造",
+    "组织吸纳设计实践的五级路径：最高级是主题调查与框架创造能力的组织内化；与管理文献的 entrepreneuring（Steyaert 2007）与 effectuation（Sarasvathy 2008）对接",
+    "谱系：上承 Rowe (1987) 术语开创与 Schön (1983) 框定传统；与 Dorst & Cross (2001) 共同演化模型构成姊妹篇（共同演化抽象为 Abduction-2 双未知并行创造）",
+    "回应'设计思维已死'论争：具体实践而非标签才是设计对世界的贡献",
+    "限度：作者自认'部分回答'与'简短论文'；案例单一；组织级结论缺乏实证（逻辑推演）；未讨论框架创造失败判据与框架伦理",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L31-51：推理方程与Abduction-1/2",
+    "L56-66：框架与混合推理流程",
+    "L105-129：核心悖论/主题/框架创造",
+    "L132-163：娱乐区案例",
+    "L170-182：组织吸纳五级路径"
+  ]
+}

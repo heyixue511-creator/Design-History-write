@@ -2,12 +2,12 @@
  "6.1": {
   "grades": {
    "X": 2,
-   "C": 3,
+   "C": 4,
    "B": 4,
    "A": 2,
    "D": 1
   },
-  "count": 12,
+  "count": 13,
   "items": [
    {
     "source_id": "B0493",
@@ -68,6 +68,16 @@
     "accepted_claim": "概念前史：观念史方法论、D1/D2区分、设计反思两条路径（技术史/观念史）",
     "evidence_boundary": "方法论框架为作者建构，哲学资源（科林伍德、洛夫乔伊）有据",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0089",
+    "title": "Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "late_ming_taste_discourse",
+    "accepted_claim": "晚明鉴赏话语是中国设计批评与品味机制的深层前史：《长物志》分类体系（室庐/花木/水石/书画/几榻/器具）+雅/俗、古/旧、赏鉴/好事词汇学——'品味'作为社会区隔机制（Bourdieu区隔理论的中国应用）——6.1概念前史",
+    "evidence_boundary": "作者研究（1991）；《长物志》《遵生八笺》文本分析",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0427",
@@ -345,10 +355,10 @@
  "6.3": {
   "grades": {
    "A": 11,
-   "B": 6,
-   "C": 6
+   "B": 7,
+   "C": 7
   },
-  "count": 23,
+  "count": 25,
   "items": [
    {
     "source_id": "B0079",
@@ -471,6 +481,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0422",
+    "title": "The printed image and the transformation of popular culture, 1790-1860 (Anderson",
+    "grade": "B",
+    "verification": "V2",
+    "role": "printed_image_first_mass_media",
+    "accepted_claim": "印刷图像是第一种'定期、持续的大众传播媒介'：凭借对文盲与非文盲的双重可达性（Penny Magazine 1832起四份插图周刊的个案），图像媒介在大众文化形成中先于并强于文字——印刷资本创造视觉公共领域的机制实证",
+    "evidence_boundary": "1790-1860英国插图周刊个案",
+    "status": "印刷资本与视觉公共领域（图像作为大众传播媒介）"
+   },
+   {
     "source_id": "B0465",
     "title": "万长林：《香港平面设计史》，2012",
     "grade": "B",
@@ -529,6 +549,16 @@
     "accepted_claim": "“谷登堡在上海”为修辞性类比：中国在古登堡前已有千年雕版印刷文化，机械印刷革命以石印起步而非活字，须标注为类比而非史实对等",
     "evidence_boundary": "书名隐喻+作者命题；引用时必须标注类比性质",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0295",
+    "title": "Marshall McLuhan：《The Gutenberg Galaxy The Making of Typographic Man》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "print_culture_visual_bias",
+    "accepted_claim": "印刷文化具有视觉偏向：拼音文字将词语从声音魔力中抽象为'视觉静物'，开启自由思考可能；地图/线性空间观念是印刷文化视觉偏向的产物——印刷资本时代的感知基础理论——6.3印刷资本与视觉公共领域（理论背景侧）",
+    "evidence_boundary": "作者著作（1962）；非洲比较与地图案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0465",
@@ -765,10 +795,10 @@
  "6.5": {
   "grades": {
    "A": 5,
-   "B": 9,
-   "C": 4
+   "B": 10,
+   "C": 5
   },
-  "count": 18,
+  "count": 20,
   "items": [
    {
     "source_id": "B0465",
@@ -819,6 +849,16 @@
     "accepted_claim": "香港作为第二层中介：吕立勋1979年在中央工艺美院开'设计中国'讲座（王无邪构成理论）、1980年'设计捌拾'展、广州美院1986年设构成专业",
     "evidence_boundary": "香港—内地教育中介证据",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0197",
+    "title": "James H. Fraser, Steven Heller：《Japanese Modern Graphic Design Between the Wars》，1996",
+    "grade": "B",
+    "verification": "V2",
+    "role": "japanese_modernism_translation",
+    "accepted_claim": "日本两次大战间商业平面设计对西方现代主义（构成主义、包豪斯、新摄影）的吸收与转化：留欧设计师中介（Natori、Hara、Yamawaki）、Kōga杂志、Nippon Kōbō——东亚转译的日本侧",
+    "evidence_boundary": "时段1924—1941；'日本现代主义'形成为作者论证；档案缺失（二战轰炸）为作者自认史料局限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0465",
@@ -911,6 +951,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0164",
+    "title": "Gennifer Weisenfeld.：《Mavo Japanese Artists and the Avant-Garde, 1905-1931》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "japanese_art_institution_critique",
+    "accepted_claim": "Mavo对'画坛'（gadan）的精准批判揭示现代日本美术制度（文展/帝展/二科会/东京美术学校）的等级化与排斥性——'纯艺术'（fine art）体制的建构性——6.5教育制度与东亚中介（日本制度侧，弱-中支撑）",
+    "evidence_boundary": "作者专著（2002）；制度批判主线",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0219",
     "title": "John A. Lent：《Comics Art in China》",
     "grade": "C",
@@ -954,11 +1004,11 @@
  },
  "6.6": {
   "grades": {
-   "B": 11,
+   "B": 12,
    "C": 6,
    "A": 4
   },
-  "count": 21,
+  "count": 22,
   "items": [
    {
     "source_id": "B0469",
@@ -999,6 +1049,16 @@
     "accepted_claim": "民族形式与现代形式之争的完整史实链：苏联“社会主义内容、民族形式”口号输入→梁思成理论中国化→宫殿式/少数民族式/苏式三类型→第一次反浪费运动斥“复古主义”→十四字方针确立（1955）",
     "evidence_boundary": "第4章L311–524；分章报告Ch04",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0103",
+    "title": "Dennis P. Doordan：《Design History An Anthology》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "chinese_modern_design_review",
+    "accepted_claim": "中国现代设计回顾（Ch16）：'设计意识'概念——将中国经验纳入设计史英语叙事——6.6中国设计史",
+    "evidence_boundary": "案例研究（1995）；回顾性论述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0219",

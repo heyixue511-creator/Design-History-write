@@ -1,0 +1,34 @@
+{
+  "source_id": "P0037",
+  "corpus": "paper",
+  "folder_name": "HUNT J. Prototyping the social Temporality and speculative futures at the inters",
+  "material_type": "推测设计×人类学论文（残缺片段）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\HUNT J. Prototyping the social Temporality and speculative futures at the inters_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 3824}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.2", "grade": "C", "verification": "V2", "role": "prototyping_the_social"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "design_ethnography_temporal_gap"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jamer Hunt，《Prototyping the Social: Temporality and Speculative Futures at the Intersection of Design and Culture》——【文本残缺披露】源文件仅为论文开头片段（clean版23行：摘要L1-2、作者/标题L4-5、引言L7-23），正文在L23'What does all this mean for the contested space at the'处截断——全套分析基于该片段撰写，凡涉及全文主体与结论处均如实标注'片段不可得'",
+    "可识别内容：论文以'时间性'为棱镜考察设计与人类学（民族志）两种实践的关系",
+    "现象诊断：'Understanding the user'成为企业口号，设计咨询公司与宝洁、英特尔等大公司争相雇用文化人类学家（L5-L8）；设计内部亦兴起设计民族志、共同设计、参与式设计、设计探针等方法潮（L9）",
+    "批判：作者批评这种'未加问题化'的挪用（L10-L11），将其诊断为产业需求与博士人才过剩之间的'霰弹枪婚姻'（shotgun marriage，L12）——被忽视的深层差异：两种实践依据'略不可通约的时间框架'配置方法，产生既揭示问题又生成新方向的断裂（disjuncture，L13-L14）",
+    "研究计划：聚焦各实践中'与当下的接合'（engagement with the present），考察思辨性/批判性/实验性设计——质疑文化传统而非解决问题与开发产品（L15-L17）",
+    "紧迫性：以全球危机清单（全球变暖、人口过剩、水与食物短缺、经济不平等、'美国生活方式'）重申社会转型的紧迫性（L18-L22）",
+    "关键概念：temporal frameworks、disjuncture、engagement with the present、speculative/critical/experimental design、shotgun marriage、contested space、'hands-off' sensibility、'more is more' mentality",
+    "等级说明：因文本残缺（约10%篇幅），映射等级上限C，仅承担片段可证的命题",
+    "clean原文存在但残缺；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L5-12：商业联姻现象与霰弹枪婚姻诊断",
+    "L13-14：时间框架不可通约与断裂生成性",
+    "L15-17：思辨/批判/实验性设计与'与当下的接合'",
+    "L18-22：全球危机清单与社会转型紧迫性",
+    "L23：竞争性空间设问（截断处）"
+  ]
+}

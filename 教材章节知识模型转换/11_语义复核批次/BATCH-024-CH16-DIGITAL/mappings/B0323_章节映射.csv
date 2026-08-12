@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0323,14.4,B,V2,web_usability_economics,'在Web上用户先体验可用性后付费'（users experience usability first and pay later）：与先付费后体验的传统产品形成根本性倒置——Web可用性决定商业成败；79%用户扫描而非阅读、'简洁性永远胜于复杂性'——14.4网络、网页与移动交互（网页可用性工程）,作者著作（1999）；约400名用户测试实证,00_整体分析报告（元论题、二级论题）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0323,16.3,C,V2,content_primacy_scanning,内容中心论（'Content is number one'）：一切设计只是内容的背景；页面内容须为扫描式阅读优化（79%用户不逐字阅读）——16.3信息呈现与内容设计（弱-中支撑）,作者著作（1999）；第3章内容设计,00_整体分析报告（二级论题3/6）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0323,14.3,C,V2,usability_testing_methods,Web可用性方法进入专业流程：可用性测试、启发式评估、成本-收益分析、折扣可用性工程——将设计问题转化为可测量指标——14.3HCI与设计方法的汇合,作者著作（1999）；方法论特征,00_整体分析报告（L4方法论）,ACCEPTED_AS_SUPPORTING_SOURCE

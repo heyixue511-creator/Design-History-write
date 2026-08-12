@@ -1,0 +1,31 @@
+{
+  "source_id": "B0312",
+  "corpus": "book",
+  "folder_name": "Mihaly Csikszentmihalyi：《Creativity》",
+  "material_type": "创造力心理学学术著作（实证访谈研究）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Mihaly Csikszentmihalyi：《Creativity》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 3143, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.4", "grade": "B", "verification": "V2", "role": "creativity_system_model"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "flow_theory_design_research_resource"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Mihaly Csikszentmihalyi（时任芝加哥大学心理学系教授），《Creativity: Flow and the Psychology of Discovery and Invention》（《创造力：心流与发现和发明的心理学》）——基于1990-1995年间对91位卓越创造性个体（自然科学/文学/艺术/商业/政治/社会活动领域诺贝尔奖得主及同等成就者）的深度访谈——以'系统模型'为核心理论框架重新解释'创造性'现象",
+    "核心论点：创造力并非发生在个体头脑内部的孤立现象，而是'域'（domain，文化中的符号规则系统）、'场'（field，判断创新价值的守门人群体）与'个人'（person）三者交互作用的系统涌现——反例：冷核聚变被个人宣称但未被场接受，不是'创造力'；前例：孟德尔生前未被承认，半世纪后因英国遗传学家的认可而'变'为创造性的",
+    "创造性人格十大悖论：精力充沛/安静、聪明/天真、嬉戏/自律、幻想/现实、外向/内向、谦卑/骄傲、男性化/女性化、传统/叛逆、激情/客观、痛苦/快乐",
+    "创作过程：五阶段（准备-酝酿-洞察-评估-精制）但实际递归而非线性；创造力持续的根本动力是内在动机——心流体验（flow）：目标清晰、即时反馈、挑战与技能平衡、行动与意识融合、忘我、时间感扭曲、自成目的性（autotelic）",
+    "全书14章三大部分：①第1-6章建立系统模型并分析创作过程/人格特征/心流体验；②第7-9章追溯创造性个体生命周期（童年/成熟期/晚年）；③第10-14章领域个案与文化宏观反思（文字/生命科学/社会创新/文化制作/个人创造力提升）",
+    "学术语境：心流理论在创造力领域的延伸——与《Flow: The Optimal Experience》(1990)、《The Evolving Self》(1993)构成三部曲；对设计研究的意义：系统模型（域-场-人）为设计创造力/设计评价提供社会学-心理学框架",
+    "clean原文存在；未完成全篇核验。"
+  ],
+  "original_spot_checks": [
+    "系统模型：域-场-人三要素交互",
+    "创造性人格十大悖论",
+    "五阶段创作过程与心流条件",
+    "孟德尔/冷核聚变反例"
+  ]
+}

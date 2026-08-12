@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0117,14.4,B,V2,mobile_pattern_language,移动交互设计模式语言：'移动'从物理属性重新定义为交互属性（小/便携/连网/可交互/情境感知）；76个跨平台通用交互模式（页面-组件-输入输出三板块）——超越OS与设备形态的移动交互规律——14.4网络、网页与移动交互,作者参考书（2011）；数十款设备实地调查,00_整体分析报告（L1核心论点）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0117,14.2,C,V2,norman_model_patterns,Norman交互模型（映射/示能性/反馈/约束）作为信息揭示模式的理论基础；渐进式信息披露策略——14.2图形用户界面与交互范式（理论应用侧）,作者参考书（2011）；第4章,00_整体分析报告（L4）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0117,14.6,C,V2,pattern_format_antipatterns,模式六段式统一格式（Problem/Solution/Variations/Interaction Details/Presentation Details/Antipatterns）保证跨模式可比性；'模式不是模板'——设计对话的起点而非终点——14.6设计系统与平台规模化的模式规范,作者参考书（2011）；六段式格式与L3,00_整体分析报告（L3/L1）,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,32 @@
+{
+  "source_id": "B0386",
+  "corpus": "book",
+  "folder_name": "Sanders：《Co-creation and the new landscapes of design》",
+  "material_type": "参与式设计/共同创造理论论文（CoDesign 2008）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Sanders：《Co-creation and the new landscapes of design》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 1291, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.4", "grade": "B", "verification": "V2", "role": "co_creation_user_partner"},
+    {"section_id": "12.4", "grade": "C", "verification": "V2", "role": "participatory_design_40years"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "design_research_blur"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Elizabeth B.-N. Sanders（MakeTools, LLC, Columbus, OH, USA）& Pieter Jan Stappers（ID-StudioLab, Faculty of Industrial Design Engineering, Delft University of Technology），《Co-creation and the new landscapes of design》，CoDesign: International Journal of CoCreation in Design and the Arts 4(1), 5-18（2008；DOI: 10.1080/15710880701875068；收稿2007-09-01，终稿2007-12-09）——参与式设计/共同创造理论综述论文",
+    "核心命题：①演进——设计研究正从'以用户为中心'（user-centred）向'共同设计'（co-designing）演进，同时改变设计实践与设计教育（L41）；②两路径——'用户即被试'主要由美国驱动、'用户即伙伴'由北欧引领，二者正在相互影响（L47）；③术语界定——co-creation ⊃ co-design（co-design是co-creation在完整设计过程中的特定实例，L54）；④历史——共同创造实践已有近四十年历史（参与式设计），非新现象（L65）；⑤角色——用户=自身经验的专家（expert of his/her experience，L125）、研究者=促进者（L142）、设计师=工具/生成式思维的提供者与形式赋予者（L167-171）；⑥范式——设计正从'设计产品类别'转向'为人/社会的目的而设计'，催生新设计学科（交互/服务/转型设计，L105-112）；⑦教育——共同设计将改变'设计什么/如何设计/谁来设计'（L116/L179）",
+    "历史脉络：追溯参与式设计自1970年代北欧'集体资源方法'以来的四十年历史（L65）；商业界co-creation代表人物（Prahalad & Ramaswamy/Piller/von Hippel/Seybold，L81-85）；解释思想为何迟迟未产生冲击（专家心态/消费主义/学术孤立/技术-经验关系复杂化，L93-99）",
+    "关键概念：co-creation、co-design、collective creativity（集体创造性）、user-centred design、participatory design、user as subject / user as partner、fuzzy front end（模糊前端）、expert of his/her experience、four levels of creativity（doing/adapting/making/creating，L129-132）、lead users/lead customers、mass customisation、interaction/service/transformation design、design for a purpose、generative design thinking（生成式设计思维）、design/research blur（设计与研究的模糊化，L181）",
+    "价值：参与式设计/共同创造的权威理论综述——'用户即伙伴'范式的当代表述；12.4参与式设计北欧传统的直接理论延伸",
+    "clean原文存在（253行小文件）；未完成全篇核验。"
+  ],
+  "original_spot_checks": [
+    "L41：user-centred→co-designing演进",
+    "L47：'用户即被试'vs'用户即伙伴'两路径",
+    "L54：co-creation/co-design术语界定",
+    "L65：参与式设计四十年历史",
+    "L125/L142/L167：三角色重构"
+  ]
+}

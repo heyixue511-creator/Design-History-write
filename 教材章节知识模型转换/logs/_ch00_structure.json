@@ -1,12 +1,12 @@
 {
  "0.1": {
   "grades": {
-   "C": 7,
+   "C": 19,
    "B": 4,
    "A": 5,
    "X": 2
   },
-  "count": 18,
+  "count": 30,
   "items": [
    {
     "source_id": "B0059",
@@ -159,6 +159,86 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0233",
+    "title": "JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_ability_anthropological",
+    "accepted_claim": "设计能力作为人的本质特征（人类学奠基）：知识生产的普遍模式=行动-反思循环——'设计'概念的人类学定义侧——0.1'设计'是对象、活动还是制度（弱支撑）",
+    "evidence_boundary": "作者论文（约2006）；§5",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0257",
+    "title": "Ken Friedman：《Theory construction in design research criteria approaches, and methods》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_goal_directed_process",
+    "accepted_claim": "设计是目标导向的过程（Simon定义）：'设计行动方案以将现存境况转变为更优境况'——将设计从'个人天赋''艺术直觉'中抽离锚定于解决问题框架——0.1'设计'是对象、活动还是制度（定义侧）",
+    "evidence_boundary": "作者纲领论文（2003）；§1",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0270",
+    "title": "Lawson, Bryan; Dorst, Kees：Design Expertise, 2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_activity_classification",
+    "accepted_claim": "设计活动五类别（Formulating/Representing/Moving/Evaluating/Managing）在四层级（Project/Process/Practice/Profession）上运作，依赖三种思维类型（Convention/Situation/Strategy-based）——设计活动的操作化分类——0.1'设计'是对象、活动还是制度（分类侧，弱-中支撑）",
+    "evidence_boundary": "作者著作（2009）；第1-2章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0271",
+    "title": "Lawson, Bryan：How Designers Think：The Design Process Demystified, 2005",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_learnable_skill",
+    "accepted_claim": "设计是一种可学习技能而非神秘天赋（高尔夫/长笛类比）；设计本质上是规范性活动而非描述性活动（与科学区别）",
+    "evidence_boundary": "0.1 '设计'是对象、活动还是制度（技能/活动侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0286",
+    "title": "Margolin, Victor, Design in History, 2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_pervasive_marginal_paradox",
+    "accepted_claim": "设计本体悖论：pervasive presence（无处不在）与 marginality（历史学共同体中的边缘地位）并存——设计的定义边界被过度窄化（限于消费品）",
+    "evidence_boundary": "0.1 设计概念与边界（本体论侧）",
+    "status": ""
+   },
+   {
+    "source_id": "B0308",
+    "title": "Michael Polanyi：《The tacit dimension》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "tacit_skill_tools",
+    "accepted_claim": "工具使用的默会维度：探针与盲人手杖案例——感觉从手掌移向工具尖端（from-to结构与意义外向移置）；设计/技能知识包含不可言说成分",
+    "evidence_boundary": "0.1 '设计'是对象、活动还是制度（活动/技能侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0324",
+    "title": "Nigel Cross：《Design Thinking Understanding How Designers Think and Work》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_thinking_concept_distinction",
+    "accepted_claim": "'设计思考'概念的双重区分：学术原义（源自设计过程/推理/认知研究）vs商业管理流行简化版本——概念辨析作为'设计'定义的组成部分——0.1'设计'是对象、活动还是制度（弱支撑）",
+    "evidence_boundary": "作者著作（2023第二版）；导论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0398",
+    "title": "Sparke, Penny, An Introduction to Design and Culture, 1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "identity_core_concept",
+    "accepted_claim": "'身份/认同'作为贯通设计史的核心概念——设计从'对象时代'走向'体验时代'；设计是文化实际建构过程的一部分",
+    "evidence_boundary": "0.1 设计概念与边界（身份/认同侧）",
+    "status": ""
+   },
+   {
     "source_id": "B0418",
     "title": "The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis",
     "grade": "C",
@@ -166,6 +246,46 @@
     "role": "design_philosophy_discipline",
     "accepted_claim": "设计哲学作为区别于设计思维/设计研究的批判性事业：为设计领域提供哲学转向的文本网络——学科界定资源",
     "evidence_boundary": "编者定位（2019）；'设计哲学'学科地位仍在形成中（作者自认）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0011",
+    "title": "Buchanan, Richard：Design Research and the New Learning, 2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "formal_definition_design",
+    "accepted_claim": "设计的正式定义：'设计是构想、规划与制作产品的、服务于人完成其个体与集体目的的人之活动'（亚里士多德四因解析）——0.1'设计'是对象、活动还是制度（定义侧）",
+    "evidence_boundary": "作者论文（2001）；L108",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0018",
+    "title": "Cross, Nigel：Designerly Ways of Knowing, 2006",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_ability_four_features",
+    "accepted_claim": "设计能力四特征：解决界定不良问题、方案聚焦、溯因/并置思维、非言语建模——'设计'概念的操作化定义——0.1'设计'是对象、活动还是制度（弱支撑）",
+    "evidence_boundary": "作者著作（2006）；第2章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0042",
+    "title": "Lucy Kimbell：《Rethinking Design Thinking： Part II》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_after_design",
+    "accepted_claim": "'设计 after design'与'共同设计者'（co-designers）概念：设计主体的扩展——0.1'设计'是对象、活动还是制度（弱支撑）",
+    "evidence_boundary": "作者论文（2012）；概念建构",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0052",
+    "title": "Reed Benhamou：《By Design Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons (review)》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_as_old_as_humanity",
+    "accepted_claim": "设计活动与人类同龄：'情境'（situation）是设计分析的关键词——设计可能制造我们只能被动扮演的剧本（situation design）——0.1'设计'是对象、活动还是制度（定义侧，弱支撑）",
+    "evidence_boundary": "书评（2005）；情境设计例证",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -194,11 +314,11 @@
   "grades": {
    "A": 16,
    "B": 34,
-   "C": 17,
+   "C": 18,
    "D": 1,
    "X": 1
   },
-  "count": 69,
+  "count": 70,
   "items": [
    {
     "source_id": "B0008",
@@ -791,6 +911,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0288",
+    "title": "Margolin, Victor, World History of Design, Volume 1, 2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_as_human_activity_time",
+    "accepted_claim": "设计即人类基本活动：不是18世纪的发明而是进化过程的一部分；功能导向与目的性（设计的结果'总是被人们用作特定的目的'）；借鉴Julier'设计文化'框架将设计嵌入社会体系——0.2现代性、现代化、现代主义与当代性（设计时间性侧，弱-中支撑）",
+    "evidence_boundary": "作者巨著（2015）；L007",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0394",
     "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
     "grade": "C",
@@ -896,9 +1026,9 @@
   "grades": {
    "A": 29,
    "B": 30,
-   "C": 3
+   "C": 5
   },
-  "count": 62,
+  "count": 64,
   "items": [
    {
     "source_id": "B0005",
@@ -1501,6 +1631,16 @@
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    },
    {
+    "source_id": "B0179",
+    "title": "Guy Julier：《From Visual Culture to Design Culture》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "relational_analysis",
+    "accepted_claim": "设计文化研究作为关系性分析：关注人造物之间、人造物与系统之间、设计与流通/实践之间的联结，而非孤立的'观看'——关系性/系统性/生成性三大特征——0.3从英雄谱系到关系史（方法论侧）",
+    "evidence_boundary": "作者立场论文（2006）；结论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0277",
     "title": "Lodder：《Russian constructivism》",
     "grade": "C",
@@ -1509,6 +1649,16 @@
     "accepted_claim": "洛德以INkhUK会议记录、VKhUTEMAS档案（TsGALI fond 681）、IZO行政记录与集体辩论组织叙事，并以“非功利主义构成”术语重建概念史，可作从英雄谱系向档案—关系书写的早期范例",
     "evidence_boundary": "本书仍是运动中心叙事（塔特林为枢纽），人物传记速写附录保留英雄谱系痕迹；“关系史”是后出范式，不得反推为本书自觉实践",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0285",
+    "title": "Margolin, Victor, Design History or Design Studies, 1992",
+    "grade": "C",
+    "verification": "V2",
+    "role": "discipline_to_field",
+    "accepted_claim": "从'学科'到'场域'、从'设计史'到'设计研究'的术语转换：借助Geertz'模糊文类'论与艺术史转型先例——'设计'无法被固定分类（Maldonado/Deforge）——0.3从英雄谱系到关系史（方法论侧）",
+    "evidence_boundary": "作者纲领论文（1992）；第五部分",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0291",
@@ -1527,9 +1677,9 @@
    "B": 23,
    "A": 20,
    "X": 1,
-   "C": 4
+   "C": 7
   },
-  "count": 48,
+  "count": 51,
   "items": [
    {
     "source_id": "B0060",
@@ -1992,6 +2142,16 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0311",
+    "title": "Mihaly Csikszentmihalyi, Eugene Halton：《The Meaning of Things Domestic Symbols and the Self》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "household_objects_evidence",
+    "accepted_claim": "家庭物品作为实证证据的方法示范：芝加哥82个家庭315人三代比较的居室访谈（1974-1979）——物的意义/自我建构的民族志方法——0.4人工物如何成为史料（实证方法侧）",
+    "evidence_boundary": "作者经典（1981）；方法论自述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0452",
     "title": "Wichmann：《Japonisme the Japanese influence on Western art since 1858》",
     "grade": "C",
@@ -2000,6 +2160,26 @@
     "accepted_claim": "刀镡、梳饰、染型纸、和服、陶瓷等器物被本书作为艺术史证据系统使用，显示人工物可承担史料功能",
     "evidence_boundary": "器物证据服务于欧洲艺术史叙事，不涉及人工物史料学的理论讨论",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0456",
+    "title": "William S. Peterson：《A bibliography of the Kelmscott Press》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "descriptive_bibliography_method",
+    "accepted_claim": "描述书目方法论：以Cockerell《Annotated List》为基础、遵循Bowers《描述书目原理》配页公式规则、每书至少核对四馆藏本、保守认定撤页——书目著录作为设计史'物证'史料方法的示范",
+    "evidence_boundary": "方法论述（引言第14节）",
+    "status": "人工物如何成为史料（描述书目作为物证方法）"
+   },
+   {
+    "source_id": "P0038",
+    "title": "Igor Kopytoff：《The Cultural Biography of Things： Commoditization as Process》，1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "cultural_biography_method",
+    "accepted_claim": "'物的文化传记'方法：把商品化看作'成为的过程'而非'全有或全无的状态'——追踪物从生产到消费的生涯（奴隶制过程论原型）——0.4人工物如何成为史料（方法论侧）",
+    "evidence_boundary": "作者论文（1986）；Appadurai文集章节",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0097",
@@ -2017,10 +2197,10 @@
   "grades": {
    "B": 29,
    "A": 33,
-   "C": 17,
+   "C": 20,
    "X": 1
   },
-  "count": 80,
+  "count": 83,
   "items": [
    {
     "source_id": "B0008",
@@ -2783,6 +2963,26 @@
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    },
    {
+    "source_id": "B0379",
+    "title": "Rudolf Arnheim：《Art and Visual Perception A Psychology of the Creative Eye》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "visual_evidence_analysis",
+    "accepted_claim": "图像知觉的心理学基础：中心透视的象征学、视觉形式的意义生成——图像证据能证明什么的知觉分析框架——0.5图像、档案、口述与数字痕迹（弱支撑）",
+    "evidence_boundary": "作者经典（1954/1974）；V章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0381",
+    "title": "Rudolf Arnheim：《Visual Thinking》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "image_three_functions",
+    "accepted_claim": "图画/符号/记号的图像三分功能与双重刻度：图像如何承载认知功能——图像证据能证明什么的分类框架——0.5图像、档案、口述与数字痕迹（弱支撑）",
+    "evidence_boundary": "作者经典（1969）；Ch8",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0411",
     "title": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
     "grade": "C",
@@ -2811,6 +3011,16 @@
     "accepted_claim": "知识涌现（P4中日传承链、印刷资本/视觉公共领域关联）属知识涌现分析推演，仅作语义路由",
     "evidence_boundary": "clean无「印刷资本」「视觉公共领域」字样",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0049",
+    "title": "Nigel Thrift：《Non-Representational Theory： Space, Politics, Affect》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "qualculation_digital_traces",
+    "accepted_claim": "'质性计算'（qualculation）：计算普遍化后从'量化'进入'质化'阶段——计算成为背景性生成力量——数字痕迹的分析范式——0.5图像、档案、口述与数字痕迹（弱支撑）",
+    "evidence_boundary": "作者专著（2008）；L1546",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0478",
@@ -4250,10 +4460,10 @@
   "grades": {
    "A": 9,
    "X": 1,
-   "B": 16,
+   "B": 18,
    "C": 8
   },
-  "count": 34,
+  "count": 36,
   "items": [
    {
     "source_id": "B0005",
@@ -4413,6 +4623,26 @@
     "role": "globalization_call_section12",
     "accepted_claim": "设计史全球化转向的学科纲领：“设计史今天最紧迫的问题是全球化”；Section 12“地方/区域/国家/全球”专门板块的开设——0.7三种全球模型的学科纲领文本",
     "evidence_boundary": "呼吁性文本（编者导言），全球设计史实践成果须另以专门文献支撑",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0284",
+    "title": "Margolin, Victor, A World History of Design and the History of the World, 2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "world_design_history_manifesto",
+    "accepted_claim": "世界设计史方法论宣言：诊断既有设计史叙事四大局限（地理局限/定义局限/风格中心主义/人物中心主义）；三项前提性主张（所有文化都生产基本的物质与视觉器物/工业革命后设计与现代化力量互动/二十世纪后半叶设计的全球化扩散）——2015年《World History of Design》巨著的方法论纲领——0.7全球设计史的三种模型",
+    "evidence_boundary": "作者纲领论文（2005）；JDH 18(3)",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0288",
+    "title": "Margolin, Victor, World History of Design, Volume 1, 2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "global_design_history_practice",
+    "accepted_claim": "全球设计史的实践示范：跨学科研究方法（考古学/艺术史/科技史/经济史/政治史/军事史/语言学/人类学）、多语种文献（法/西/葡/意/德）、中国日本印度非洲伊斯兰拉美等区域纳入——'以各地设计的自身价值审视'——0.7全球设计史的三种模型（实践侧）",
+    "evidence_boundary": "作者巨著（2015）；L005/L008",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {

@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0071,16.1,B,V2,social_construction_of_technology,技术非自主力量：技术制品的内容（设计、性能、成败）由相关社会群体的意义协商建构——解释弹性、闭合、稳定化概念；研究技术即是研究社会——AI/算法技术的社会建构批判视角——16.1从规则系统到机器学习系统（技术决定论批判侧）,编者文集（1987/2012）；SCOT纲领与自行车等案例,00_整体分析报告（核心论点/关键概念）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0071,16.6,C,V2,seamless_web_infrastructure,'无缝之网'（seamless web）：技术与科学、经济、政治、社会交织不可分——大型技术系统的异质工程、系统动量、反向突出点（Hughes LTS框架）——基础设施的系统性分析工具——16.6隐形劳动与行星基础设施,编者文集（1987/2012）；Hughes电力系统案例,00_整体分析报告（LTS纲领/反向突出点）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0071,14.1,C,V2,technological_systems_momentum,大型技术系统的历史研究：技术风格、系统动量、技术范式/轨迹——设计对象从孤立制品扩展为技术系统的演进视角——14.1从计算工具到软件媒介,编者文集（1987/2012）；Part II-III中层概念,00_整体分析报告（技术风格/动量）,ACCEPTED_AS_SUPPORTING_SOURCE

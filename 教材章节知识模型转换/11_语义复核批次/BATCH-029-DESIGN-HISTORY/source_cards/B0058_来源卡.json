@@ -1,0 +1,31 @@
+{
+  "source_id": "B0058",
+  "corpus": "book",
+  "folder_name": "Buchanan, Richard; Margolin, Victor (eds.), Discovering Design, 1995",
+  "material_type": "设计研究文集（与B0432内容重复条目）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Buchanan, Richard; Margolin, Victor (eds.), Discovering Design, 1995.md",
+  "duplicate_group": "与B0432（Design Discourse 1989）为同一书双条目",
+  "files": [{"report_file_count": 22, "report_characters": 15826}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "buckley_made_in_patriarchy"},
+    {"section_id": "11.7", "grade": "C", "verification": "V2", "role": "selle_no_kitsch"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "【重复处置披露】本条目folder_name为'Buchanan, Richard; Margolin, Victor (eds.), Discovering Design, 1995'，但report-book分析内容实为《Design Discourse: History, Theory, Criticism》（1989，Margolin编，芝加哥大学出版社，308页，20篇论文，全部源自Design Issues第1-3卷1984-1986）——与B0432（已复核）为同一书双条目",
+    "按'重复组只计一份P0'惯例：B0432承担该书的主映射（design_studies_discipline_manifesto C.0B、writing_design_history_reconstruction C.0C、modernism_end_declaration 11.7C）；本卡仅承担差异化命题（B0432映射未覆盖的章节）",
+    "差异化命题①Buckley'父权制中的制造'（Made in Patriarchy）：设计史的书写本身即父权制实践——通过将'创新/实验=现代主义=专业=男性'与'传统/手工=工艺=非专业=女性'对位，将女性的设计实践（刺绣、编织等）系统性排除在历史叙事之外；拒绝仅以列举'知名女性'修补既有叙述，而主张对历史书写的基本范畴（专业/业余、大批量生产/手工、交换价值/使用价值、性别分工）进行根本性重构",
+    "差异化命题②Selle'没有媚俗，只有设计'（There is No Kitsch, There is Only Design）：'媚俗'（kitsch）概念本身是资产阶级文化划定边界的意识形态工具（挪用Bourdieu社会区隔理论）；大众消费品的'日常之美'早已实现了任何先锋派所未能达到的文化民主化——'自上而下的沉默文化革命'已经发生，大众用户以不可剥夺的主体性重新定义了设计的意义、用途与审美",
+    "其余内容（导论设计研究作为新学科、Buchanan设计即修辞、Kinross中立性修辞、Lupton Isotype批判、Dilnot设计史状态、Vitta物之文化、Branzi宏大叙事瓦解、Morgantini心智的假体、Moles综合担保等）见B0432来源卡与映射",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Buckley：'父权制中的制造'（L1648-1688）",
+    "Selle：'没有媚俗只有设计'（L2764-3209）",
+    "Dilnot：设计史的经典建构（L12141-12219）",
+    "Kinross：'信息无修辞纯属白日梦'",
+    "Lupton：'感知对解释的遮蔽'（Isotype批判）"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "source_id": "B0284",
+  "corpus": "book",
+  "folder_name": "Margolin, Victor, A World History of Design and the History of the World, 2005",
+  "material_type": "世界设计史方法论宣言论文",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Margolin, Victor, A World History of Design and the History of the World, 2005.md",
+  "duplicate_group": "无精确哈希重复（B0288/B0433/B0461为Margolin世界史多卷本独立条目）",
+  "files": [{"report_file_count": 8, "report_characters": 5695}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "0.7", "grade": "B", "verification": "V2", "role": "world_design_history_manifesto"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_history_world_history_dialogue"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "four_limitations_diagnosis"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Victor Margolin（1941-2019，伊利诺伊大学芝加哥分校艺术史系教授，国际设计史研究领军人物），《A World History of Design and the History of the World》，Journal of Design History 18(3)（2005，pp.235-243，9页；DOI: 10.1093/jdh/epi043）——学术期刊纲领性方法论论文",
+    "定位：Margolin学术生涯中具有纲领性质的论文——其毕生致力于推动设计史的全球化与学科化，核心关怀包括：①突破以西欧和北美为中心的'现代设计史'叙事范式；②将设计史嵌入更广阔的社会、政治、经济史脉络中；③建立设计史与世界史之间的方法论对话——本文集中体现了这三个关怀，是其2015年两卷本巨著《World History of Design》（Bloomsbury, 2015）的方法论宣言",
+    "学科史位置：发表于2005年，处于设计史学科从'国别/区域史'转向'全球史'的关键节点——1999年至2004年间，国际设计史会议从巴塞罗那经哈瓦那、伊斯坦布尔、瓜达拉哈拉，标志着非西方设计史研究的兴起——Margolin此文既是这一趋势的理论回应，也是对设计史方法论的一次系统反思",
+    "三大贡献：①诊断性贡献——系统诊断了既有设计史叙事的四大局限：地理局限（限于工业化地区）、定义局限（将设计等同于工业大规模生产）、风格中心主义（以风格分期代替社会分析）、人物中心主义（以个体设计师为主角，忽视制度性力量）；②建构性贡献——提出了世界设计史的三项前提性主张：所有文化都生产基本的物质与视觉器物；工业革命后设计与现代化力量互动；二十世纪后半叶设计的全球化扩散；③跨学科贡献——通过将设计史与世界史（McNeill/Mazlish/Wallerstein）、社会史（Hobsbawm）、文化研究（Pieterse）等方法论传统对接，为设计史争取了在更大学术框架中的合法性",
+    "论证结构：'诊断—比较—建构'三段论式——引言（问题提出）→第一部分：世界史的理论资源（'他山之石'——世界史的起源与理论谱系）→第二部分：设计史的问题诊断（'自我审视'——设计史的奠基文本批判+相关学科的比较参照）→第三部分：建设性方案（'出路规划'——重新定义'设计'/纳入政治经济维度/纳入种族与性别维度/三项前提性主张）",
+    "论证推进方式：累积性论证而非线性演绎——通过不断叠加分析维度（学科传统→世界史资源→相关学科参照→政治经济→种族→性别）来增强论证力量——每一层分析都指向同一结论：设计史需要突破既有边界、嵌入世界史",
+    "价值：Margolin世界设计史巨著的方法论纲领——0.7全球设计史三种模型的权威理论表述之一",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L016：四大局限诊断（地理/定义/风格中心/人物中心）",
+    "L017：三项前提性主张",
+    "L018：跨学科对话（McNeill/Mazlish/Wallerstein/Hobsbawm/Pieterse）",
+    "L020-021：诊断-比较-建构三段结构",
+    "L022：累积性论证方式"
+  ]
+}

@@ -231,12 +231,12 @@
  },
  "7.3": {
   "grades": {
-   "C": 3,
+   "C": 4,
    "D": 1,
    "A": 3,
-   "B": 9
+   "B": 10
   },
-  "count": 16,
+  "count": 18,
   "items": [
    {
     "source_id": "B0186",
@@ -297,6 +297,16 @@
     "accepted_claim": "战后美国消费繁荣（Levittown郊区住宅、家电、汽车造型与Fortune 1953—1954系列）构成Good Design体系的消费语境",
     "evidence_boundary": "Woodham引Friedan批判美国梦的性别代价；MoMA战时展教条与Utility类似亦未俘获日常消费者",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0335",
+    "title": "Pat Kirkham：《Charles And Ray Eames Designers of the Twentieth Century》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "eames_postwar_american_design",
+    "accepted_claim": "伊姆斯夫妇作为MoMA支持的战后美国现代设计核心：胶合板模压家具、Eames House（1949）、'Good Design'语境下的企业与中产消费；'多元现代主义'——同时吸收机器美学与有机现代主义两条矛盾线索（Kirkham 1995）",
+    "evidence_boundary": "7.3 美国'Good Design'体系（MoMA/企业与中产消费）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0394",
@@ -389,6 +399,16 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0473",
+    "title": "周博：《现代设计伦理思想史》，2014",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postwar_ethics_good_design",
+    "accepted_claim": "战后设计伦理话语的觉醒与\"优良设计\"语境（60年代社会经验、有机设计传统）——Good Design话语的伦理侧背景",
+    "evidence_boundary": "思想史梳理（2014年中国学术视角）；制度史实以第七章档案侧为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0076",
     "title": "Charlotte Fiell, Peter Fiell：《Scandinavian Design》，2002",
     "grade": "D",
@@ -402,11 +422,11 @@
  },
  "7.4": {
   "grades": {
-   "B": 3,
+   "B": 4,
    "A": 2,
    "C": 4
   },
-  "count": 9,
+  "count": 10,
   "items": [
    {
     "source_id": "B0235",
@@ -437,6 +457,16 @@
     "accepted_claim": "HfG Ulm条目：1953年建校、Bill/Maldonado、1968年关闭、科学化设计方法",
     "evidence_boundary": "条目史实可快速参照；‘影响’评价为编者判断",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0331",
+    "title": "Otl Aicher：《The World as Design》，1991",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hfg_civilization_culture",
+    "accepted_claim": "乌尔姆设计学院（HfG）理念：'设计的文明文化'vs'艺术的文化'——将设计从艺术中分离、创造力转向日常生活与工业产品（'counter-art",
+    "evidence_boundary": " the work of civilization'）；反法西斯的设计教育与'回到事物本身'的现实主义转向——7.4乌尔姆设计学院（从包豪斯遗产转向方法/系统/科学化）",
+    "status": "00_整体分析报告（核心论题1-3）"
    },
    {
     "source_id": "B0415",
@@ -503,9 +533,9 @@
  "7.5": {
   "grades": {
    "B": 5,
-   "C": 1
+   "C": 2
   },
-  "count": 6,
+  "count": 7,
   "items": [
    {
     "source_id": "B0234",
@@ -566,6 +596,16 @@
     "accepted_claim": "联邦德国企业设计行动者陈述（跨章）：Rams以Braun实践阐述“省略不重要之物”的减法哲学——7.5布劳恩/拉姆斯线的行动者原典（与B0235/B0503二手叙述互校）",
     "evidence_boundary": "行动者自述（P0性质）；十原则完整版本须与Rams后续文本核对",
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0331",
+    "title": "Otl Aicher：《The World as Design》，1991",
+    "grade": "C",
+    "verification": "V2",
+    "role": "workshop_model_braun",
+    "accepted_claim": "联邦德国企业设计：Braun/Lufthansa合作案例与'工场'（workshop）模式——中小型企业最适合产生原创设计、'圆桌'讨论作为设计决策理想形式——7.5联邦德国企业设计（布劳恩/视觉统一）",
+    "evidence_boundary": "作者文集（1991）；工场概念",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },

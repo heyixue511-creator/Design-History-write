@@ -1,0 +1,34 @@
+{
+  "source_id": "P0057",
+  "corpus": "paper",
+  "folder_name": "Richard Buchanan：《Declaration by Design Rhetoric, Argument, and Demonstration in Design Practice》",
+  "material_type": "设计修辞理论经典论文（设计即修辞）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Richard Buchanan：《Declaration by Design Rhetoric, Argument, and Demonstration in Design Practice》_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 4899}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_as_rhetoric"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "architectonic_art_quadrivium"},
+    {"section_id": "11.7", "grade": "C", "verification": "V2", "role": "postmodern_communication_confusion"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Richard Buchanan，《Declaration by Design: Rhetoric, Argument, and Demonstration in Design Practice》，Design Issues 2(1)（Spring 1985, pp.4-22，MIT Press）——设计修辞理论经典",
+    "开篇命题：'通信'（communication）是设计研究中最可能居于中心的思想，但整个设计大领域（工业设计/产品设计/建筑/城市规划）缺乏统一的修辞理论",
+    "两大需求理由：①20世纪技术日益重要而技术被误认为'应用科学'，使人类价值失去引导技术的希望；②后现代设计概念（朋克、Memphis、Arquitectonica）令公众批评与设计沟通陷入混乱",
+    "五步论证：①设计即修辞——技术本质上是关乎'或然'（contingent）而非'必然'的实践审议艺术，技术专家是'以物说服'的修辞家；②设计论证三要素——技术推理（logos）/品格（ethos）/情感（pathos），以13幅图的产品案例逐一演示；③设计论证的目的——设计物最接近展示性/演示性修辞，以'存在即宣言'的方式断言实际生活态度；④设计是现代的建筑术艺术（architectonic art），修辞是思想的建筑术艺术，通过物之修辞可重新发现'现代四艺'（quadrivium）",
+    "关键概念：Communication、Rhetoric、Design argument、Technological reasoning（logos）、Ethos、Pathos、Mechanical/human premises、Rhetoric of things、Demonstrative rhetoric、Declaration、Architectonic art、Quadrivium、Amplification、Kitsch/Camp/Avant-garde",
+    "核心论点：技术推理由机械前提与人的前提合成——人的前提是说服的真正来源",
+    "影响：'设计即修辞'命题成为设计研究经典——与Buchanan《Wicked Problems in Design Thinking》（1992）、《Branzi's Dilemma》构成设计理论的修辞学转向",
+    "clean原文为源文件；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L31-53：通信中心论与两大需求理由",
+    "L57-99：设计即修辞论证",
+    "L101-225：logos/ethos/pathos三要素",
+    "L227-257：演示性修辞与'存在即宣言'",
+    "L259-273：建筑术艺术与现代四艺"
+  ]
+}

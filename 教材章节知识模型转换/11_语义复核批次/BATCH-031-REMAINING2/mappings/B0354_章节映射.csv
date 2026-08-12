@@ -1,0 +1,4 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0354,C.0,A,V2,pevsner_modern_movement_narrative,现代设计史奠基文本：'从莫里斯到格罗皮乌斯是一个历史单元'（L485）——现代设计运动由1851水晶宫危机出发，经莫里斯与Arts and Crafts/Art Nouveau/十九世纪工程师钢铁建筑三条源流，到1914年一战前夕成熟（'新风格，即我们世纪真正而合法的风格，到1914年已经达成'L483）；Sachlichkeit/Maschinenstil/Typisierung概念,C.0 结语章（现代运动叙事范式/史学谱系）,Pevsner范式——与Giedion/Hitchcock-Johnson构成正统谱系；是女性主义/后殖民/后现代史学（B0152/B0088）的批判对象,ACCEPTED_AS_CORE_SOURCE
+B0354,2.7,C,V2,art_nouveau_survey,新艺术运动（Art Nouveau）的起源、各国形态与评价（第4章）；英国1890-1914（沃伊齐/麦金托什与领导权失落，第6章）——现代运动源流之一,2.7 从唯美主义到新艺术（新艺术运动侧）,为2.7提供Pevsner的新艺术叙事框架,ACCEPTED_AS_SUPPORTING_SOURCE
+B0354,11.1,C,V2,pevsner_teleology_critique_target,Pevsner现代主义目的论（'历史指向现代主义'的历史单元叙事）——后现代/后殖民史学批判的靶心之一：现代主义史学的目的论预设,11.1 现代主义危机的社会条件（史学批判侧）,为11.1提供目的论叙事被批判的史学背景,ACCEPTED_AS_SUPPORTING_SOURCE

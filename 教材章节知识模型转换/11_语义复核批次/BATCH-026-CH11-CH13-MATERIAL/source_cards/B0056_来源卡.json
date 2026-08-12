@@ -1,0 +1,36 @@
+{
+  "source_id": "B0056",
+  "corpus": "book",
+  "folder_name": "BUCHANAN, RICHARD. Branzi",
+  "material_type": "设计理论论文（布兰齐困境）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\BUCHANAN, RICHARD. Branzi.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 10, "report_characters": 11853}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.3", "grade": "B", "verification": "V2", "role": "branzi_dilemma"},
+    {"section_id": "11.3", "grade": "C", "verification": "V2", "role": "tribalization_prediction"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "third_fourth_order_design"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Richard Buchanan，《Branzi's Dilemma: Design in Contemporary Culture》，会议论文/学术演讲（'设计中的愉悦与责任'国际会议）——以意大利设计师Andrea Branzi为透镜的当代文化设计理论",
+    "布兰齐困境：在共享意识形态（现代主义的'意识形态降落伞'）消失后，个体如何找到身份认同与道德目标的根本两难——当代设计的结构性条件",
+    "两种危险替代方案：①退向个人编码与部落主义（价值相对主义与部落权力斗争）；②以新意识形态取代旧现代主义（Branzi'第二现代性'——将现代性视为人工文化系统，布坎南直言感到'痛苦'，认为无异于将文化降格为商业调味品）",
+    "第三条道路：文化不是意识形态而是活动——词源回溯至cultivation（培育）：'在追寻理解与指导行动的价值观的过程中，不断进行秩序化、失序化与再秩序化的活动'",
+    "关键概念：Branzi's Dilemma、Ideological Parachute（意识形态降落伞）、Weak Identity（弱认同）、Second Modernity（第二现代性）、Culture as Cultivation（文化即培育）、Deliberation（审议）、善/用/义/悦四目的（Good/Useful/Just/Pleasurable——'本质上被争议'）、Tradition of the New（新之传统，Rosenberg）、Tribalization（部落化）、Mediated Middle（被中介的中间地带）",
+    "三阶设计（战略规划）与四阶设计（系统性整合/组织学习）：设计的重心从物转向行动与思想；设计咨询公司分化出三阶与四阶形态；以质量管理运动、流程再造为例证",
+    "结语宣言：为'置于其直接情境中的个体'设计'个人路径'（personal pathways）——而非普世受众/国民群体/市场细分/消费者",
+    "方法：修辞学分析（设计理论化为四大'修辞常项'）、矩阵与图示法（四幅矩阵图）、概念史分析（culture→cultivation）、案例辨析（流程再造）、辩证法运思（'二难—否定—三元超越'）",
+    "价值：Branzi（Archizoom创始人、意大利激进设计理论核心人物）思想的关键二手阐释——11.3节理论侧",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L15-17：意识形态降落伞失效",
+    "L22-27：第二现代性与'痛苦'批判",
+    "L37-39：部落化预言",
+    "L66：文化即培育定义",
+    "L92-108：三阶/四阶设计与流程再造案例"
+  ]
+}

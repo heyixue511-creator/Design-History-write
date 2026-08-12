@@ -1,0 +1,37 @@
+{
+  "source_id": "P0058",
+  "corpus": "paper",
+  "folder_name": "Richard Buchanan：《Wicked Problems in Design Thinking》",
+  "material_type": "设计研究奠基文献（设计思维/wicked problems）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Richard Buchanan：《Wicked Problems in Design Thinking》_paged_clean.md",
+  "duplicate_group": "无精确哈希重复（与B0453为同一论文双条目，仅选P0058）",
+  "files": [{"report_file_count": 9, "report_characters": 4081}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_as_new_liberal_art"},
+    {"section_id": "15.5", "grade": "B", "verification": "V2", "role": "wicked_problems_design_thinking"},
+    {"section_id": "16.1", "grade": "C", "verification": "V2", "role": "design_four_areas"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Richard Buchanan，《Wicked Problems in Design Thinking》，Design Issues 8(2)（Spring 1992, pp.5-21，MIT Press）；源自1990年10月法国贡比涅技术大学设计研究研讨会报告",
+    "核心论点：设计既不能还原为美术、自然科学或社会科学，也不应被看作任何学科的'应用'版本——应被承认为'技术文化的新自由艺术'（a new liberal art of technological culture）",
+    "哲学奠基：杜威的'意向性操作'（intentional operations）与技术观——技术作为实验性思维的技艺",
+    "设计四领域论：符号（symbolic and visual communications）、物（material objects）、行动（activities and organized services）、思想（complex systems or environments for living, learning, working）——设计对象从平面延伸到行动与思想",
+    "布置学说（doctrine of placements）：以'布置'（placements）替代'范畴'（categories）作为认知工具——设计思维整合不同学科知识的认知策略",
+    "棘手问题理论：引介并推进Rittel——回答'为什么设计问题是不确定、因而棘手的'——因为设计没有固有主题（quasi-subject matter）、'没有关于特殊物的科学'（science of the particular）",
+    "计划即论证（the plan is an argument）：三模态论（possible/necessary/contingent）与'不可能性模态'（modality of impossibility）",
+    "结论宣言：设计的共同思维学科正在改变文化（technologia/neoteric arts）",
+    "影响：将'棘手问题'系统引入设计思维研究并给出Rittel未回答的'为什么'的原创解答——设计研究标准术语的源头文献",
+    "限度：OCR文本拼写噪音与个别破损行；概念密度高",
+    "clean原文为源文件；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L23-43：设计是新自由艺术宣言",
+    "L45-77：杜威意向性操作",
+    "L79-173：四领域与布置学说",
+    "L175-285：棘手问题与主题学说",
+    "L287-311：计划即论证与三模态"
+  ]
+}

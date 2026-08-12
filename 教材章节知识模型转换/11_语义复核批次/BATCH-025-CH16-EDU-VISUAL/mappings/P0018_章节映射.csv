@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0018,C.0,A,V2,designerly_ways_of_knowing,存在设计师特有的认知方式（designerly ways of knowing）——设计作为独立学科的公理性基础：设计既不是应用科学也不是神秘艺术而是'人类智力的最高形式之一'；'第三文化'命题；知识三来源（people/processes/products）与研究三分类（epistemology/praxiology/phenomenology）——设计研究奠基文本（与Simon/Schön并列第三条路线）——C.0设计史学科基础,作者著作（2006）；二十年研究计划汇编,00_整体分析报告（核心命题/第7章）,ACCEPTED_AS_CORE_SOURCE
+P0018,16.1,C,V2,can_machines_design,'机器能否设计'追问：设计思维研究与人工智能的关系（第3章，自然智能vs人工设计智能）——设计认知作为AI时代设计研究的参照——16.1从规则系统到机器学习系统（弱-中支撑）,作者著作（2006）；第3章,00_整体分析报告（第3章）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0018,0.1,C,V2,design_ability_four_features,设计能力四特征：解决界定不良问题、方案聚焦、溯因/并置思维、非言语建模——'设计'概念的操作化定义——0.1'设计'是对象、活动还是制度（弱支撑）,作者著作（2006）；第2章,00_整体分析报告（第2章）,ACCEPTED_AS_SUPPORTING_SOURCE

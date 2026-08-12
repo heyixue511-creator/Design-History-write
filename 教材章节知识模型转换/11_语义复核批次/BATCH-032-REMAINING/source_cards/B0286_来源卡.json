@@ -1,0 +1,28 @@
+{
+  "source_id": "B0286",
+  "corpus": "book",
+  "folder_name": "Margolin, Victor, Design in History, 2009",
+  "material_type": "学科纲领论文（Design Issues Vol.25 No.2, 2009 春季, pp.94-105）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Margolin, Victor, Design in History, 2009_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 5137, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "margolin_design_history_manifesto"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_pervasive_marginal_paradox"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Victor Margolin，《Design in History》（Design Issues Vol.25 No.2, 2009春季, pp.94-105, MIT Press；DOI/稳定URL http://www.jstor.org/stable/20627808）——第17届装饰艺术与设计年度研讨会（Cooper-Hewitt国家设计博物馆，纽约，2008年4月3日）主旨演讲修订稿——设计史学科反思性与纲领性论文（disciplinary manifesto）",
+    "核心论题：设计在当代社会生活中无处不在（pervasive presence），却在历史学家的共同体内处于边缘地位（marginality）——此悖论不能归咎于设计作为研究对象的局限性，而应归因于设计史家'过于狭隘地构想设计'（conceive design too narrowly）——设计史家需要'文化转向'（cultural shift），将设计的理解从消费品领域拓展到军事硬件、城市基础设施、监控技术、界面设计、可持续实践等更广阔的人工物世界，并主动与其他历史学分支展开协作研究",
+    "论证结构：①先行者示范（第1-3节）：技术史家（Hughes/Noble/Mumford）与历史学家中的'设计书写者'（Braudel/Meikle/Blaszczyk/Marchand）已成功将设计/技术/物质文化整合进更大的社会历史叙事；②对照批判：设计史家未能跟进技术史、劳工史、商业史的发展；③纲领呼吁（第4节）：以Thomas Kuhn关于科学史学科边缘化的类比，论证设计史需主动改变自身——提出冷战研究、军事硬件史、可持续设计史等具体方向",
+    "学科语境：承接1984年Dilnot《设计史现状》以来的制度性成就（期刊/学术出版/多代研究者/多语种工作），诊断智识层面的自我隔离——与B0152（Fallan方法论）、B0288/B0433（马格林世界史体系）构成Margolin群的学科反思文本",
+    "clean原文存在；未完成全篇核验。"
+  ],
+  "original_spot_checks": [
+    "核心论题：pervasive presence vs marginality 悖论",
+    "第1-3节：先行者示范（Hughes/Braudel/Meikle等）",
+    "第4节：Kuhn类比与冷战研究/军事硬件史/可持续设计史方向"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "B0323",
+  "corpus": "book",
+  "folder_name": "Nielsen：《Designing Web usability》",
+  "material_type": "Web 可用性经典著作",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Nielsen：《Designing Web usability》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 11, "report_characters": 5256}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.4", "grade": "B", "verification": "V2", "role": "web_usability_economics"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "content_primacy_scanning"},
+    {"section_id": "14.3", "grade": "C", "verification": "V2", "role": "usability_testing_methods"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jakob Nielsen（Nielsen Norman Group联合创始人，'折扣可用性工程'运动创始人，Alertbox专栏作者），《Designing Web Usability: The Practice of Simplicity》（1999年12月，New Riders Publishing，约420页）",
+    "元论题：在Web上，用户体验可用性先于付费（'users experience usability first and pay later'）——与传统产品（先付费后体验）和传统软件（支持中心缓冲）的根本性倒置——Web可用性决定商业成败",
+    "二级论题：①简洁至上（'Simplicity always wins over complexity, especially on the Web where every three bytes saved is a millisecond less download time'）；②用户控制（用户在Web上根本性地控制导航）；③内容中心（'Content is number one'，一切设计只是背景）；④工程方法优于艺术方法；⑤跨平台不可预测（WYSIWYG已死，百倍屏幕差异/千倍带宽差异）；⑥扫描而非阅读（79%用户扫描页面而非逐字阅读）",
+    "HOME-RUN模型：High-quality content + Often updated + Minimal download time + Ease of use = HOME；+ Relevant + Unique + Net-centric = HOME RUN",
+    "方法论：可用性测试（约400名用户观察数百网站）、成本-收益分析（将可用性问题量化为经济成本）、启发式评估、国际检查、实地研究；对比实验（Nebraska旅游文本五种写法对照，效果从0%到124%）",
+    "结构：页面设计→内容设计→网站设计→内联网→可访问性（Ch6，面向残障用户）→国际化（Ch7）→未来预测→简洁性结论",
+    "与Tufte数据墨水原则对话；'反Mac界面'（Anti-Mac）原则；信息觅食（Information Foraging）理论",
+    "历史地位：1999-2000年Web可用性运动的标志性文本；Nielsen's十项启发式评估的Web版推广者",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "引言：'users experience usability first and pay later'",
+    "第2章：页面设计与响应时间",
+    "第3章：内容中心与扫描式阅读",
+    "第6章：残障用户可访问性",
+    "第9章：HOME-RUN模型与简洁性"
+  ]
+}

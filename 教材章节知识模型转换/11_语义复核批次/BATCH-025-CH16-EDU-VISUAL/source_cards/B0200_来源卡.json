@@ -1,0 +1,35 @@
+{
+  "source_id": "B0200",
+  "corpus": "book",
+  "folder_name": "Jan Borchers：《A Pattern Approach to Interaction Design》",
+  "material_type": "HCI 设计模式领域第一本专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jan Borchers：《A Pattern Approach to Interaction Design》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 21660}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.3", "grade": "B", "verification": "V2", "role": "hci_pattern_language_framework"},
+    {"section_id": "14.6", "grade": "B", "verification": "V2", "role": "unified_pattern_format"},
+    {"section_id": "14.2", "grade": "C", "verification": "V2", "role": "interactive_music_pattern_language"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jan Borchers（时任斯坦福大学研究员），《A Pattern Approach to Interaction Design》（2001，Wiley，Wiley Series in Software Design Patterns），HCI设计模式领域第一本专著",
+    "学科谱系位置：Christopher Alexander建筑模式语言 × GoF软件工程模式 × HCI/交互设计方法论演进——三者交叉点上开创性地建立完备的跨学科模式框架",
+    "核心命题：模式语言能够且应当扩展为跨学科形式框架，统一表达HCI设计、软件工程和应用领域（Application Domain）三个维度的设计经验，解决跨学科团队沟通障碍与设计经验流失",
+    "子命题：①迁移命题——'模式概念在建筑中的本意比在软件设计中更自然地适用于界面设计'；②扩展命题——模式方法可扩展至应用领域（将领域专家工作知识结构化表达为模式，原创贡献）；③统一命题——三领域模式语言遵循统一格式（name, ranking, illustration, problem, forces, examples, solution, diagram, context, references）",
+    "实例：第4章三套模式语言——音乐领域（11个）、HCI（17个）、软件（4个）——全部类Alexandrian格式；WorldBeat系统、Interactive Fugue、Personal Orchestra案例",
+    "验证：需求对照、同行评审、系统评估、教学实验、后续项目重用、出版同行评审、工具设计（PET）七维度",
+    "共同体建设：作者组织1997-2000年该领域关键研讨会（CHI'97、ChiliPLoP'99、INTERACT'99、CHI 2000）——HCI模式学术共同体奠基文献",
+    "影响：上承Alexander《The Timeless Way of Building》（1979）与GoF《Design Patterns》（1995），下启Tidwell/van Welie等后续HCI模式研究",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch2：建筑模式→软件模式→HCI模式历史演进",
+    "Ch3：跨学科模式框架",
+    "Ch4：三套模式语言实例",
+    "Ch5：七维度验证",
+    "p.30：'模式概念更自然地适用于界面设计'"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "source_id": "P0018",
+  "corpus": "paper",
+  "folder_name": "Cross, Nigel：Designerly Ways of Knowing, 2006",
+  "material_type": "设计研究奠基著作（设计师式认知方式）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Cross, Nigel：Designerly Ways of Knowing, 2006_paged_clean.md",
+  "duplicate_group": "无精确哈希重复（与P0019为同名双条目，仅选P0018）",
+  "files": [{"report_file_count": 9, "report_characters": 4990}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "designerly_ways_of_knowing"},
+    {"section_id": "16.1", "grade": "C", "verification": "V2", "role": "can_machines_design"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_ability_four_features"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Nigel Cross（英国开放大学设计研究教授），《Designerly Ways of Knowing》（2006，Springer-Verlag London；作者约二十年研究计划1979-1998年论文/演讲的选集汇编与修订）",
+    "核心命题：存在设计师特有的认知方式（designerly ways of knowing），它是设计作为独立学科的公理性基础；设计既不是应用科学，也不是神秘艺术，而是'人类智力的最高形式之一'",
+    "第1章：科学、人文之外的'第三文化'（design）；经Peters教育三标准论证设计通识教育的内在价值；学科纲领（试金石理论touch-stone theory）",
+    "第2章：设计能力四特征（解决界定不良问题ill-defined/wicked problems、方案聚焦solution-focused strategy、溯因/并置思维abductive/appositional reasoning、非言语建模modelling/codes）；普遍性；可损伤性（裂脑证据）；智能地位（Gardner六标准）；培育（教育/开放大学）",
+    "第4章：Delft协议研究'tray'单案例解剖创造性跳跃——'不是跳跃而是架桥'（bridging）；五程序建模",
+    "第5章：Scheinman/Grange/Murray三案例提炼创造性策略三层模型",
+    "第6章：跨域综述设计认知三方面（问题形成/方案生成/过程策略）；问题框定、协同演化（co-evolution）、固着（fixation）、机会主义",
+    "第7章：澄清scientific design/design science/science of design三概念；'设计作为跨学科的学科'；知识三来源（people/processes/products）与研究三分类（design epistemology/praxiology/phenomenology）",
+    "历史地位：与Simon《The Sciences of the Artificial》（1969）、Schön《The Reflective Practitioner》（1983）并列为设计研究奠基性文本——'以经验证据确立设计认知独立性'的第三条路线",
+    "限度（作者自陈）：设计智能证据'not proven'；单案例与小样本外推需谨慎；协议分析弱于捕捉非言语思维；AI讨论止于1990s判断",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第1章：第三文化与试金石理论",
+    "第2章：设计能力四特征与Gardner检验",
+    "第4章：'不是跳跃而是架桥'",
+    "第7章：三概念澄清与知识三来源",
+    "L1440-1494：设计作为独立学科"
+  ]
+}

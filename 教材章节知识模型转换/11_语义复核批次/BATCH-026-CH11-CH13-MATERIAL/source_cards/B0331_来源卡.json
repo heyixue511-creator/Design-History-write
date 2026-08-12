@@ -1,0 +1,38 @@
+{
+  "source_id": "B0331",
+  "corpus": "book",
+  "folder_name": "Otl Aicher：《The World as Design》，1991",
+  "material_type": "设计哲学文集（乌尔姆核心人物Aicher）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Otl Aicher：《The World as Design》，1991.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 8125}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "7.4", "grade": "B", "verification": "V2", "role": "hfg_civilization_culture"},
+    {"section_id": "7.5", "grade": "C", "verification": "V2", "role": "workshop_model_braun"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "postmodern_critique_ethics"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Otl Aicher，《The World as Design》（德语原版1991；英译版2015，导言Wolfgang Jean Stock），乌尔姆设计学院（HfG）核心人物、创始人之一的设计哲学文集",
+    "核心命题：'世界作为设计'（the world as design）——'the modern world is defined by its design condition. modern civilization is one that is made by man, and therefore designed. the quality of the designs is the quality of the world'",
+    "'设计的文明文化'（civilization culture）vs'艺术的文化'：HfG的根本创新在于将设计从艺术中分离出来，将创造力转向日常生活和工业产品——'it was about counter-art, the work of civilization'——明确区别于包豪斯'将艺术扩展到日常生活'的路径",
+    "反法西斯的设计教育：HfG的教育概念将反法西斯态度与民主希望相结合——图形设计成为社会沟通、产品设计促进日常生活的'人化'",
+    "现实主义的转向：战后一代设计师必须'回到事物本身'（get back to matters, to things, to products, to the street, to the everyday, to people）",
+    "设计的道德维度：'aesthetics without ethics tend towards deception'（美学若无伦理则倾向欺骗）——伦理与美学不可分割",
+    "个人自主vs国家管控：Aicher从HfG被国家关闭的经历出发，对福利国家/授权国家（provider state/authorization state）的双重批判——国家通过提供保障来换取控制权",
+    "'工场'（workshop）模式：中小型企业最适合产生原创设计（可管理性/较少异化）；'圆桌'讨论是设计决策的理想形式；'可替代方案引导'（guidance by alternatives）方法",
+    "对后现代主义的批判：Post-Modernism从艺术和时尚借用的形式主义'退化为随机性和浪费'，顶峰是'无法使用的有用物品'",
+    "HfG历史：1957年Max Bill离职（艺术课程之争）、1960年代初'理论家vs.实践者'之争；Aicher对学院理论主义的批判立场",
+    "实践案例：Braun、Lufthansa合作（Aicher主导视觉统一）",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导言：'设计的文明文化'命题",
+    "导言：'回到事物本身'现实主义转向",
+    "导言：'美学若无伦理则倾向欺骗'",
+    "导言：'工场'模式与圆桌决策",
+    "导言：对后现代主义的批判"
+  ]
+}

@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0011,C.0,B,V2,design_research_program,设计研究纲领：设计自文艺复兴以来被大学排斥，在知识碎片化当代成为'新学问'（'曾经的新学问如今成了旧学问，曾经的旧学问如今成了新学问'）；四秩序框架（符号/物/行动/思想→图形/工业/交互/环境设计）使产品概念从'物'扩展至服务与系统——C.0设计研究方法论,作者论文（2001）；Design Issues 17(4),00_整体分析报告（核心论点1-2/四秩序）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0011,0.1,C,V2,formal_definition_design,设计的正式定义：'设计是构想、规划与制作产品的、服务于人完成其个体与集体目的的人之活动'（亚里士多德四因解析）——0.1'设计'是对象、活动还是制度（定义侧）,作者论文（2001）；L108,00_整体分析报告（正式定义）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0011,C.0,C,V2,integrative_design_knowledge,设计知识是'进入他域、携成果返回'的整合性原理，不可还原为任何既有学科；设计研究分临床/应用/基础三类，基础研究最困难也最关乎领域未来——C.0设计知识论,作者论文（2001）；L233-287,00_整体分析报告（设计知识论/研究类型学）,ACCEPTED_AS_SUPPORTING_SOURCE

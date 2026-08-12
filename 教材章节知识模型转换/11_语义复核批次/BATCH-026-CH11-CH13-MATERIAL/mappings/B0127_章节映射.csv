@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0127,16.5,A,V2,user_centered_design_principles,以用户为中心的设计开创性框架：可见性、反馈、自然映射、概念模型四要素；执行鸿沟与评估鸿沟揭示意图与操作、状态与期望之间的断裂；'为错误而设计'（失误六类型与强迫功能）——交互设计理论基座（与Gibson可供性/情境行动并列）——16.5自动化界面与人的控制权,作者经典（1988）；七章论证体系,00_整体分析报告（核心概念/七条原则）,ACCEPTED_AS_CORE_SOURCE
+B0127,14.2,B,V2,visibility_mapping_feedback,GUI交互范式的理论基础：可见性让可能的操作一目了然、自然映射（方向盘顺时针=右转）、反馈回传动作结果、四类约束缩减操作可能——14.2图形用户界面与交互范式,作者经典（1988）；第一至四章,00_整体分析报告（核心概念）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0127,14.3,C,V2,seven_design_principles,七条设计原则（善用外部知识/简化任务结构/使事物可见/正确映射/利用约束/为错误设计/万不得已标准化）与三种心理模型（设计模型/用户模型/系统形象）——用户中心设计的可操作方法——14.3HCI与设计方法的汇合,作者经典（1988）；第七章,00_整体分析报告（七条原则）,ACCEPTED_AS_SUPPORTING_SOURCE

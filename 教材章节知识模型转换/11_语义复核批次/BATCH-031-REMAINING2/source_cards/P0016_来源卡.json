@@ -1,0 +1,32 @@
+{
+  "source_id": "P0016",
+  "corpus": "paper",
+  "folder_name": "Capkova, Helena; et al.：History of Design：Decorative Arts and Material Culture, 1400-2000, 2015",
+  "material_type": "书评（review，Journal of Design History）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Capkova, Helena; et al.：History of Design：Decorative Arts and Material Culture, 1400-2000, 2015_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 49457}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "global_design_history_methodology"},
+    {"section_id": "3.7", "grade": "C", "verification": "V2", "role": "japanese_modernism_transnational"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Helena Čapková（早稻田大学国际教养学部助理教授，东京），书评（Journal of Design History，doi:10.1093/jdh/epv042，Advance Access 2015年10月12日；正文29行+Notes 5条）——评论Kirkham/Weber编《History of Design: Decorative Arts and Material Culture, 1400-2000》（Yale University Press, 2013；704pp, 760 illus；ISBN 9780300196146），对Carla Cesare主评的补充性书评，专重被评著作的亚洲（尤其日本）设计史章节",
+    "核心论点：结构组织方式决定内容可见性——区域平衡式结构系统性地低估跨国流动与混合型设计史；本书成就显著但可用主题式组织、数字格式与概念澄清加以修订",
+    "论证链：以编辑'国际、跨国、全球史'承诺（L4）为检验标尺→Calvera（1999）两种全球化路径归类（共同大叙事L7-9）→批评区域平衡结构牺牲历史真实流动且偏向非欧美（L11-12）→跨国流动与混合设计史被低估、交换仍被描绘为双边/洲际/国际性（L16）→日本现代主义实证（跨国网络为关键形成因素L17-18）→引入Elkins与Piotrowski两种全球艺术史方案（L20-21）→要求澄清global/transnational/world/history定义（L22）→人名顺序与Mingei事实错误等小瑕疵（L23-25）→总评'significant achievement'（L26-29）",
+    "关键概念：plurality of histories（历史多元性）、transnational flows（跨国流动）、common large narrative / comparative approach（共同大叙事/比较路径）、alternative cartography（替代绘图）、horizontal and polyphonic art history（横向复调艺术史）、Japanese Modernism、centre-and-periphery（中心-边缘）、Mingei movement（民艺运动）",
+    "学术语境：处于1999-2015年'全球化设计史书写'论争的收束端——接续Calvera（1999）与Huppatz（2015）方法链，以《Global Design History》（2011）为对照，将艺术史空间转向方法（Elkins 2007、Piotrowski 2008）引入设计史书评",
+    "等级限制：书评体裁，按纪律限B级（B级上限）",
+    "clean原文存在（1170行含OCR比对）；未完成全篇、引注核验。"
+  ],
+  "original_spot_checks": [
+    "L4：'国际、跨国、全球史'承诺检验",
+    "L11-12：区域平衡结构牺牲历史真实流动",
+    "L16：跨国流动被低估",
+    "L17-18：日本现代主义跨国网络实证",
+    "L20-22：global/transnational/world/history定义澄清"
+  ]
+}

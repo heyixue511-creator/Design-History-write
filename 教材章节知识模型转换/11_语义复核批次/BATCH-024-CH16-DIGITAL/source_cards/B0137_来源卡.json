@@ -1,0 +1,35 @@
+{
+  "source_id": "B0137",
+  "corpus": "book",
+  "folder_name": "Edward Rolf Tufte：《Visual Explanations Images and Quantities, Evidence and Narrative》",
+  "material_type": "信息设计经典（Tufte三部曲第三部）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Edward Rolf Tufte：《Visual Explanations Images and Quantities, Evidence and Narrative》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 16407}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "design_replicates_thought"},
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "complete_data_matrix_ethics"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "narrative_strategies"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Edward R. Tufte，《Visual Explanations: Images and Quantities, Evidence and Narrative》（1997，Graphics Press），信息设计三部曲第三部——'动词的图画'（呈现机制与运动、过程与动态、原因与结果、解释与叙事）",
+    "核心命题：信息显示的逻辑必须复制分析推理的逻辑——'展示设计的原则复制了思考的原则时，组织信息的行为便成为洞察的行为'（When principles of design replicate principles of thought, the act of arranging information becomes an act of insight）",
+    "对位案例：1854年John Snow霍乱死亡地图（空间比较揭示Broad Street水泵为传染源）成功 vs 1986年挑战者号发射决策（13张图表未能揭示温度-密封圈损伤关系）失败——'时间的流逝是糟糕的解释变量'，因果变量而非叙事顺序应作为组织信息依据",
+    "Snow方法四特征：将数据置于评估因果的恰当语境、定量比较（Compared with what?）、考虑替代解释与反例、评估数字可能误差",
+    "挑战者号缺陷：数据选择碎片化（遗漏92%温度数据）、chartjunk（48枚小火箭轮廓线成为最强视觉存在）、时间排序掩盖因果排序、消失的图例——'选择性地呈现证据是魔术师的手法，不是科学家的方法'",
+    "关键概念：最小有效差异（Smallest Effective Difference——'最小差异允许更多差异'）、平行主义（'平行主义是视觉信息的诗学'）、时空倍数图像（'空间取代时间成为排序维度'）、视觉拼合（Visual Confections——'拼合使阅读、观看和思考成为同一件事'）、去量化（Dequantification，134幅科学图像仅13%有完整标签）、chartjunk（'标志着统计愚蠢'）、去信息设计（Disinformation Design，与魔术师Jamy Ian Swiss合著第3章）、PGP法、纸的信用",
+    "自反性：本书出版/设计/排版均由Tufte亲力亲为——书籍物质形态即体现其设计理念",
+    "影响：信息设计、数据可视化、统计图形学的经典文献；与《定量信息的视觉呈现》（1983）、《Envisioning Information》（1990）构成三部曲",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第一章：量化与去量化（《禹迹图》方格比例尺）",
+    "第二章：Snow地图与挑战者号对位案例",
+    "第四章：最小有效差异",
+    "第五章：平行主义",
+    "第七章：视觉拼合（利维坦标题页等）"
+  ]
+}

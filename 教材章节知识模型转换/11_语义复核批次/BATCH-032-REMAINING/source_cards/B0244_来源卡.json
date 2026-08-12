@@ -1,0 +1,31 @@
+{
+  "source_id": "B0244",
+  "corpus": "book",
+  "folder_name": "K. Anders Ericsson, Herbert A. Simon：《Protocol Analysis Verbal Reports as Data》",
+  "material_type": "认知方法论经典（口头报告/出声思考法）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\K. Anders Ericsson, Herbert A. Simon：《Protocol Analysis Verbal Reports as Data》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 4156, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.6", "grade": "B", "verification": "V2", "role": "protocol_analysis_method"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "verbal_reports_design_cognition"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "K. Anders Ericsson（科罗拉多大学博尔德分校心理学系）& Herbert A. Simon（卡内基梅隆大学心理学与计算机科学系），《Protocol Analysis: Verbal Reports as Data》（The MIT Press, Bradford Books, 1984；约426页；前言+7章+附录+参考文献+作者索引+主题索引）——认知心理学与信息加工理论领域口头报告方法论代表作",
+    "作者背景：Herbert A. Simon是1978年诺贝尔经济学奖得主、人工智能与信息加工心理学奠基人之一；K. Anders Ericsson后来以'刻意练习'（deliberate practice）研究闻名——本书是两人在口头报告方法论领域的核心合作成果（前身：Ericsson & Simon 1980 'Verbal Reports as Data', Psychological Review）",
+    "总主题：口头报告（verbal reports）能否、以及在什么条件下可以作为科学心理学数据——不是非正式的信息来源，而是可被严格编码、分析和检验的'硬数据'",
+    "核心命题（一条贯穿全书）：口头报告是一种可记录的行为类型，其生成机制是信息加工系统（STM/LTM）的一般认知过程的一个子集——①口头报告可以被机械地、完整地解释（如同任何其他行为）；②口头报告不改变它所报告的认知过程（在合适条件下）；③口头报告的内容精确对应被注意的信息（不在STM中的信息不可报告）；④从口头报告中推论认知过程需要理论指导，但应使用尽可能弱、最少争议的理论假设",
+    "论证三角：理论支柱（第1/3/5章：信息加工模型→口头化过程模型）；经验支柱（第2/3章：口头化效应的系统回顾→报告完整性的证据审查）；方法支柱（第4/6/7章：推论方法→编码技术→分析实例）",
+    "对设计研究的意义：协议分析（出声思考法）是设计认知研究（Lawson/Cross/Dorst传统）的核心实证方法——设计研究的'方法论基座'之一",
+    "clean原文存在；未完成全篇核验。"
+  ],
+  "original_spot_checks": [
+    "核心命题：口头报告=信息加工系统子集",
+    "论证三角：理论/经验/方法支柱",
+    "STM/LTM信息可报告性条件",
+    "1980 Psychological Review前身"
+  ]
+}

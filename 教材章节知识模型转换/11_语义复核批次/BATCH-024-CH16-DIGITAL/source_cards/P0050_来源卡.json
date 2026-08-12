@@ -1,0 +1,35 @@
+{
+  "source_id": "P0050",
+  "corpus": "paper",
+  "folder_name": "ONeill：《The Transformer Principles of Making Isotype Charts by Marie Neurath and",
+  "material_type": "Isotype 双书评（The Transformer/From Hieroglyphics to Isotype）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\ONeill：《The Transformer Principles of Making Isotype Charts by Marie Neurath and_clean.md",
+  "duplicate_group": "DUP0003（与P0068同篇，仅选P0050）",
+  "files": [{"report_file_count": 9, "report_characters": 5088}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "isotype_transformative_process"},
+    {"section_id": "9.7", "grade": "C", "verification": "V2", "role": "isotype_picture_education"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "pictorial_grammar_clarity"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jesse O'Neill，双书评（Design Issues 书评栏目）：Marie Neurath & Robin Kinross《The Transformer: Principles of Making Isotype Charts》（Hyphen Press, 2009）+ Otto Neurath《From Hieroglyphics to Isotype: A Visual Autobiography》（Hyphen Press, 2010）",
+    "评介对象一承载'方法运作'叙事：维也纳博物馆→海牙→牛津的机构沿革、Vienna Method（Wiener Methode）、transformer 职业（数据→视觉信息的翻译）、eye-consciousness与实证主义底色",
+    "评介对象二承载'起源叙事'：Otto Neurath 1945年去世前手稿——童年图画经验作为 Isotype 语法的起源（'每则轶事对 Isotype 语法理解的回响'）",
+    "核心论点：①Isotype 遗产远超'影子世界'（shadow-world）剪影符号，核心是图画语法；②Isotype 应被看作'仍可应用的信息态度'而非时期风格；③transformer 是否等于设计师存在未决之争（Marie Neurath否认/Kinross肯定）；④Isotype 不可简单定义——无固定形式程序，是'解释、叙事与再传播的智识过程'（interpretation, storytelling, and re-transmission）",
+    "图画语法（pictorial grammar）：量化排列、去除透视、轴向组织、符号复合的规则系统——旨在提升清晰度而非强制独特风格",
+    "picture education（图画教育）为 Isotype 最终目标；全称 International System of Typographic Picture Education",
+    "Kinross 的设计师比较（Harry Beck、Max Bill、Anthony Froshaug）具有明确史学归置动机",
+    "体裁限度：书评综述（二手材料），等级上限 B；正文约60行",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L14-15：影子世界与图画语法",
+    "L24-25：transformer职业定义",
+    "L30：'仍可应用的信息态度'",
+    "L70-72：解释/叙事/再传播与清晰度",
+    "L43-59：Otto Neurath童年起源叙事"
+  ]
+}

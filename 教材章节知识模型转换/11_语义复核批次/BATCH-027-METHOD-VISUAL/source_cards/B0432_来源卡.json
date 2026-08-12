@@ -1,0 +1,38 @@
+{
+  "source_id": "B0432",
+  "corpus": "book",
+  "folder_name": "Victor Margolin：《Design discourse history, theory, criticism》",
+  "material_type": "设计研究奠基文集（设计话语）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Victor Margolin：《Design discourse history, theory, criticism》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 12, "report_characters": 3455}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_studies_discipline_manifesto"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "writing_design_history_reconstruction"},
+    {"section_id": "11.7", "grade": "C", "verification": "V2", "role": "modernism_end_declaration"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Victor Margolin 编，《Design Discourse: History, Theory, Criticism》（1989，芝加哥大学出版社），20篇论文（全部选自Design Issues 1984-1987前六期；引言与结语为Margolin新撰）",
+    "定位：宣告现代主义设计范式的终结，为新兴学科'设计研究'（design studies）奠基——'历史-理论-批评'三位一体的学科版图",
+    "核心论点①设计研究的学科化：设计是贯穿物质与非物质生产的根本性人类实践，需要整合历史、理论、批评的新学科",
+    "核心论点②现代主义批判：科学-技术-客观交流三联信条在1960年代崩溃；后现代状况（符号化、弱身份、智能技术、服务经济）要求新的设计定位",
+    "核心论点③设计即修辞（Buchanan）：设计论证三要素logos（技术理性）/ethos（品格）/pathos（情感）；修辞是建筑术艺术",
+    "核心论点④意义由语境构造：信息无中立（Kinross'中立性修辞'）、感知客观性是实证主义神话（Lupton）、网格意义史即世界图景史（Williamson）",
+    "核心论点⑤设计史的重建：历史矩阵（工业资本主义）与父权制双框架（Dilnot/Buckley）；物作为'集体事实'的证据",
+    "结构：引言（设计研究作为新学科）→Part I'现代主义者之后'（7篇）→Part II'设计的阐释'（10篇：修辞学/信息设计/符号学/图像史/网格史）→Part III'书写设计史'（4篇：Dilnot领域测绘、Buckley女性主义设计史、Margolin战后文献地图）",
+    "关键概念：design studies、design argument、rhetoric of neutrality、legibility of the world、comprehensive guarantee、commodity esthetics（Warenästhetik）、Isotype、grid（点基/场基）、historical matrix、patriarchy、kitsch、gute Form",
+    "历史地位：1980年代设计研究奠基性文集——首次把Design Issues前六期批判论文系统结集；Buchanan'设计即修辞'、Lupton Isotype批判、Buckley女性主义设计史、Dilnot设计史纲领、Margolin文献地图均成经典",
+    "限度：地域失衡（作者集中于欧美）；只收英译本；部分1980年代技术预判过时",
+    "clean原文存在（5181行）；未完成全篇、版次、图版、数字和引注核验；文集各章命题按'分析报告综合'承担。"
+  ],
+  "original_spot_checks": [
+    "引言：设计研究作为新学科宣言",
+    "Part I：现代主义者之后",
+    "Part II：设计即修辞（Buchanan）",
+    "Part II：Kinross中立性修辞/Lupton感知客观性批判",
+    "Part III：Dilnot/Buckley/Margolin设计史重建"
+  ]
+}

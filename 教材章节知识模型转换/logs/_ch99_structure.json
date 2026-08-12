@@ -2,11 +2,11 @@
  "C.0": {
   "grades": {
    "X": 1,
-   "A": 9,
-   "B": 11,
-   "C": 5
+   "A": 14,
+   "B": 31,
+   "C": 45
   },
-  "count": 26,
+  "count": 91,
   "items": [
    {
     "source_id": "B0083",
@@ -59,6 +59,36 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0285",
+    "title": "Margolin, Victor, Design History or Design Studies, 1992",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_studies_replacement",
+    "accepted_claim": "设计史自1970年代建制化以来未能在学科对象与方法论层面建立稳固基础——应以'设计研究'（design studies）取代'设计史'：围绕'人工物'（the artificial）组织的开放问题域，容纳历史维度与产品构思/规划/生产/分配/使用的当代问题——设计史学科史上最具影响力的纲领文献——C.0设计史学科",
+    "evidence_boundary": "作者纲领论文（1992）；米兰会议演讲修订",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0288",
+    "title": "Margolin, Victor, World History of Design, Volume 1, 2015",
+    "grade": "A",
+    "verification": "V2",
+    "role": "world_history_of_design",
+    "accepted_claim": "世界设计史三卷本巨著（第一卷2015）：重新定义'设计'的时间边界（追溯至'能人'Homo habilis工具制造——小写d的design与大写D的Design区分、拒绝'准设计'概念）；突破欧洲中心主义（'设计史应以世界各地设计的自身价值来审视'）；扩展学科边界（工程/军事/文字系统/服装/城市/广告）——设计史学科里程碑巨著——C.0设计史学科",
+    "evidence_boundary": "作者巨著（2015）；19章六大板块",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0354",
+    "title": "Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14",
+    "grade": "A",
+    "verification": "V2",
+    "role": "pevsner_modern_movement_narrative",
+    "accepted_claim": "现代设计史奠基文本：'从莫里斯到格罗皮乌斯是一个历史单元'（L485）——现代设计运动由1851水晶宫危机出发，经莫里斯与Arts and Crafts/Art Nouveau/十九世纪工程师钢铁建筑三条源流，到1914年一战前夕成熟（'新风格，即我们世纪真正而合法的风格，到1914年已经达成'L483）；Sachlichkeit/Maschinenstil/Typisierung概念",
+    "evidence_boundary": "C.0 结语章（现代运动叙事范式/史学谱系）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
     "source_id": "B0425",
     "title": "Thorpe：《Design with society why socially responsive design is good enough》",
     "grade": "A",
@@ -66,6 +96,16 @@
     "role": "socially_responsive_design",
     "accepted_claim": "社会响应式设计辩护：近200年设计史存在'审美/市场驱动'与'社会有用'两种范式；两种范式下设计师都无法真正做到'对社会负责'——以'响应性'（responsivity）取代'责任性'（responsibility）",
     "evidence_boundary": "作者论文（2011）；'响应性够好'命题为CoDesign社会创新特刊核心主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0433",
+    "title": "Victor Margolin：《World History of Design World War I to World War II》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "world_history_design_vol2",
+    "accepted_claim": "马格林《世界设计史》卷二（1900-1945）：设计史是全球性的、多中心的——应超越西方中心论，覆盖拉美/非洲/中东/亚洲；现代性的'斑驳'（spotty）传播（德国美国最激进、其他国家零星接受）；独裁政权与设计的关系无单一模式（法西斯意大利/纳粹德国/斯大林苏联/萨拉查葡萄牙各有不同策略）；殖民主义以原料换制成品抑制本土工业化与设计职业",
+    "evidence_boundary": "C.0 结语章（世界设计史体系：B0288卷三同级A）",
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
@@ -86,6 +126,16 @@
     "role": "defuturing",
     "accepted_claim": "去未来化（defuturing）：设计及其产物消解未来可能性、导致结构不可持续性——设计作为塑造人类命运的历史行动者——结语责任命题",
     "evidence_boundary": "作者概念（2015）；去未来化为Fry核心概念族",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0018",
+    "title": "Cross, Nigel：Designerly Ways of Knowing, 2006",
+    "grade": "A",
+    "verification": "V2",
+    "role": "designerly_ways_of_knowing",
+    "accepted_claim": "存在设计师特有的认知方式（designerly ways of knowing）——设计作为独立学科的公理性基础：设计既不是应用科学也不是神秘艺术而是'人类智力的最高形式之一'；'第三文化'命题；知识三来源（people/processes/products）与研究三分类（epistemology/praxiology/phenomenology）——设计研究奠基文本（与Simon/Schön并列第三条路线）——C.0设计史学科基础",
+    "evidence_boundary": "作者著作（2006）；二十年研究计划汇编",
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
@@ -149,6 +199,36 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0179",
+    "title": "Guy Julier：《From Visual Culture to Design Culture》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_culture_paradigm",
+    "accepted_claim": "'设计文化'（Design Culture）范式：视觉文化研究因视觉中心主义/对象单一化/主客分离三重局限无法处理当代设计实践；四领域概念框架（价值/流通/实践/产品）打通设计史、设计研究与物质文化研究——C.0设计研究范式（回应Margolin'设计研究'呼吁）",
+    "evidence_boundary": "作者立场论文（2006）；Design Issues 22(1)",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0233",
+    "title": "JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme",
+    "grade": "B",
+    "verification": "V2",
+    "role": "rtd_autonomous_paradigm",
+    "accepted_claim": "'通过设计的研究'（Research through Design",
+    "evidence_boundary": " RTD）作为设计学科自主知识生产范式的核心：澄清about/for/through三分类术语混乱；将RTD锚定于进化认识论与控制论——设计方法论发展的前提条件——C.0设计研究方法论",
+    "status": "00_整体分析报告（核心命题/三层次贡献）"
+   },
+   {
+    "source_id": "B0257",
+    "title": "Ken Friedman：《Theory construction in design research criteria approaches, and methods》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "theory_construction_criteria",
+    "accepted_claim": "设计研究理论建构纲领：'理论是展示元素关系的模型'（静态分类学vs动态过程模型的连续体）；理论贡献评判标准（McNeil/Whetten/Parsons & Shils）；'混淆默会知识与一般设计知识是一种范畴错误'——设计研究理论化的标准与方法——C.0设计研究方法论",
+    "evidence_boundary": "作者纲领论文（2003）；Design Studies",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0258",
     "title": "Kenneth Frampton：《Modern Architecture A Critical History》，1980",
     "grade": "B",
@@ -156,6 +236,116 @@
     "role": "critical_history_method",
     "accepted_claim": "批判的历史书写范式：在历史叙述中同时进行价值判断、在事实描述中同时展开理论反思——结语历史方法参照",
     "evidence_boundary": "作者范式（1980初版）；批判历史方法为建筑史传统",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0270",
+    "title": "Lawson, Bryan; Dorst, Kees：Design Expertise, 2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_expertise_dreyfus",
+    "accepted_claim": "设计专长不是天赋而是一组可通过识别/学习/教学/持续实践发展的复杂认知技能集合：专长发展是'以质上不同的方式运作'而非'更好更快做相同的事'；Dreyfus六层模型（Novice→Visionary）与设计图式/指导原则/先例作为核心认知工具——C.0设计认知与专长研究",
+    "evidence_boundary": "作者著作（2009）；实验室实验/协议分析/访谈研究",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0271",
+    "title": "Lawson, Bryan：How Designers Think：The Design Process Demystified, 2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_cognition_classic",
+    "accepted_claim": "设计认知研究经典：设计师采用'解决方案聚焦'策略（彩色积木实验1972/1979证明建筑师vs科学家的系统性差异）；'分析通过综合'（analysis through synthesis——问题与解决方案共同涌现）；约束分类学（generators-domain-function）；设计是规范性（prescriptive）活动而非描述性活动",
+    "evidence_boundary": "C.0 设计研究方法论（设计认知谱系）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0284",
+    "title": "Margolin, Victor, A World History of Design and the History of the World, 2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_history_world_history_dialogue",
+    "accepted_claim": "设计史与世界史的方法论对话：将设计史嵌入更广阔的社会/政治/经济史脉络（McNeill/Mazlish/Wallerstein世界史、Hobsbawm社会史、Pieterse文化研究）——为设计史争取更大学术框架中的合法性——C.0设计史方法（与B0288构成Margolin世界史双证）",
+    "evidence_boundary": "作者纲领论文（2005）；跨学科贡献",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0285",
+    "title": "Margolin, Victor, Design History or Design Studies, 1992",
+    "grade": "B",
+    "verification": "V2",
+    "role": "pevsner_genealogy_critique",
+    "accepted_claim": "对Pevsner奠基性叙事的史学史批判：道德主义方法论、康德式美学预设、地理/类型排斥机制；Banham/Heskett/Buckley的主题域扩展未解决边界问题——设计史叙事谱系的批判性重估——C.0从英雄谱系到关系史",
+    "evidence_boundary": "作者纲领论文（1992）；第二/三部分",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0286",
+    "title": "Margolin, Victor, Design in History, 2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "margolin_design_history_manifesto",
+    "accepted_claim": "设计史学科纲领：设计无处不在却在历史学家共同体中边缘化——悖论根因是设计史家'过于狭隘地构想设计'；需要'文化转向'将设计理解拓展到军事硬件/城市基础设施/监控技术/界面设计/可持续实践，并与商业史/劳工史/技术史/物质文化史协作（Margolin 2009, Design Issues 25(2)）",
+    "evidence_boundary": "C.0 结语章（学科反思/方法论）",
+    "status": ""
+   },
+   {
+    "source_id": "B0290",
+    "title": "Margolin, Victor; Buchanan, Richard (eds.)：The Idea of Design：A Design Issues Reader, 1995",
+    "grade": "B",
+    "verification": "V2",
+    "role": "object_to_situation_turn",
+    "accepted_claim": "设计话语从以'物'为中心转向以'情境'为中心：20世纪初聚焦物品形式品质，1980-90年代转向赋予产品意义和价值的情境；'激进系统多元主义'（radical systematic pluralism）范式（Dewey实用主义/Burke与McKeon修辞学传统）——C.0设计研究范式（Design Issues读者文集）",
+    "evidence_boundary": "编者文集（1995）；23篇论文",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0308",
+    "title": "Michael Polanyi：《The tacit dimension》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "tacit_knowing_foundation",
+    "accepted_claim": "默会认知理论奠基：一切知识皆包含默会成分且默会是一切显性知识的根基；'from-to'结构（附属意识→远端项整合意义）；'我们知道的远比我们能言说的多'（we can know more than we can tell）；层级本体论与边际控制（高层级原理不可还原为低层级定律）",
+    "evidence_boundary": "C.0 设计研究知识论（默会/隐性知识谱系）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0324",
+    "title": "Nigel Cross：《Design Thinking Understanding How Designers Think and Work》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_ability_abduction",
+    "accepted_claim": "设计能力是可被认知与分析的人类智能形式：设计思维核心逻辑是溯因推理（abduction）——提出'可能是什么'的假设性方案；优秀设计师共享问题框定与问题-解决方案协同演化（co-evolution）的策略模式——设计认知研究纲领——C.0设计史学科基础",
+    "evidence_boundary": "作者著作（2023第二版）；四案例实证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0362",
+    "title": "Reyner Banham：《A Critic Writes Selected Essays by Reyner Banham (Centennial Books)》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "banham_critical_tradition",
+    "accepted_claim": "Banham批评传统：'以物证文化'的批评方法——从最普通之物（gizmo/冰淇淋车/拖车房）提取社会-符号结构（L1616-1733）；技术乐观主义——技术是解放性、善意的力量（L139-140）；建筑=以建筑师方式（disegno）做设计而非'好设计'本身（L4187-4240）",
+    "evidence_boundary": "C.0 结语章（设计批评谱系）",
+    "status": ""
+   },
+   {
+    "source_id": "B0398",
+    "title": "Sparke, Penny, An Introduction to Design and Culture, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "sparke_design_culture_intro",
+    "accepted_claim": "设计文化导论（1986/2004）：设计是'生产与消费的双重联盟'（Janus双面神之喻）——20世纪设计史以'身份/认同'为核心线索，分为现代性（1900-1939）与后现代性（1940-今）两段；现代主义是霸权话语但有性别/阶级/欧洲中心局限；'设计师文化'是20世纪文化的独特贡献（姓名=增值）",
+    "evidence_boundary": "C.0 结语章（设计文化研究谱系）",
+    "status": ""
+   },
+   {
+    "source_id": "B0412",
+    "title": "Teal Triggs：《Graphic Design History Past, Present, and Future》，2011",
+    "grade": "B",
+    "verification": "V2",
+    "role": "graphic_design_history_discipline",
+    "accepted_claim": "平面设计史学科制度化历程与自我反思：1983年RIT第一届平面设计史研讨会→1990s SVA十年系列→Heller 1997会议→2005伦敦New Views——'平面设计史在当下寻找它的过去'——C.0设计史学科（平面设计史侧）",
+    "evidence_boundary": "作者导言（2011）；Design Issues 27(1)特刊",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -179,6 +369,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0432",
+    "title": "Victor Margolin：《Design discourse history, theory, criticism》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_studies_discipline_manifesto",
+    "accepted_claim": "设计研究学科化宣言：设计是贯穿物质与非物质生产的根本性人类实践，需要整合历史、理论、批评的新学科——'历史-理论-批评'三位一体的学科版图（1980年代设计研究奠基文集）——C.0设计史学科",
+    "evidence_boundary": "编者文集（1989）；Design Issues前六期论文结集",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0438",
+    "title": "Walker, John A., Design History and the History of Design, 1989",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_history_methodology",
+    "accepted_claim": "设计史学科方法论导论：'设计史是关于设计史写作的写作'（元话语）；设计史对象（设计师/物品/过程/制度）置于'社会中的设计'总体模型；方法论多元但须批判性选择（倾向唯物主义/社会史）——1989年最早的系统性方法论导论之一——C.0设计史方法",
+    "evidence_boundary": "作者导论（1989）；Pluto Press",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0510",
     "title": "设计与历史的质疑",
     "grade": "B",
@@ -189,13 +399,53 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
-    "source_id": "P0029",
-    "title": "Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu",
+    "source_id": "P0011",
+    "title": "Buchanan, Richard：Design Research and the New Learning, 2001",
     "grade": "B",
     "verification": "V2",
-    "role": "design_research_discipline",
-    "accepted_claim": "三活动区合一才把交互设计研究确立为一门学科并区别于HCI、CSCW、信息学等相邻学科；模型支撑面向产业/学术界/社会的三外部界面——设计研究学科身份的'移动观'界定——C.0设计研究学科定位",
-    "evidence_boundary": "作者模型（2004）；第5-6节",
+    "role": "design_research_program",
+    "accepted_claim": "设计研究纲领：设计自文艺复兴以来被大学排斥，在知识碎片化当代成为'新学问'（'曾经的新学问如今成了旧学问，曾经的旧学问如今成了新学问'）；四秩序框架（符号/物/行动/思想→图形/工业/交互/环境设计）使产品概念从'物'扩展至服务与系统——C.0设计研究方法论",
+    "evidence_boundary": "作者论文（2001）；Design Issues 17(4)",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0012",
+    "title": "Buchanan：《Discovering design explorations in design studies》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "discovering_design_three_questions",
+    "accepted_claim": "设计研究（design studies）新兴交叉领域的三基本问题：如何把设计塑造成研究对象、如何在复杂行动世界中辨认设计活动、如何回应价值与责任问题——'设计的四次发现'（存在/意义/活动本质/价值与原则）——设计研究建制化里程碑（1990芝加哥Discovering Design会议）——C.0设计研究",
+    "evidence_boundary": "编者文集（1995）；11章多学科论文",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0016",
+    "title": "Capkova, Helena; et al.：History of Design：Decorative Arts and Material Culture, 1400-2000, 2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "global_design_history_methodology",
+    "accepted_claim": "全球化设计史书写的方法论批判：区域平衡式结构系统性低估跨国流动（transnational flows）与混合型设计史——结构组织方式决定内容可见性；plurality of histories（历史多元性）；global/transnational/world/history定义需澄清（Kirkham/Weber编《History of Design》1400-2000书评）",
+    "evidence_boundary": "C.0 结语章（全球设计史方法论论争）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0057",
+    "title": "Richard Buchanan：《Declaration by Design Rhetoric, Argument, and Demonstration in Design Practice》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_as_rhetoric",
+    "accepted_claim": "设计即修辞：技术本质上是关乎'或然'而非'必然'的实践审议艺术，技术专家是'以物说服'的修辞家；设计论证三要素——技术推理（logos）/品格（ethos）/情感（pathos）——'设计即修辞'命题作为设计理论经典——C.0设计理论",
+    "evidence_boundary": "作者论文（1985）；Design Issues 2(1)",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0058",
+    "title": "Richard Buchanan：《Wicked Problems in Design Thinking》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_as_new_liberal_art",
+    "accepted_claim": "设计是'技术文化的新自由艺术'：既不能还原为美术、自然科学或社会科学，也不应被看作任何学科的'应用'版本；设计四领域（符号/物/行动/思想）与'布置学说'（placements替代categories）——设计学科元理论奠基——C.0设计史学科叙事",
+    "evidence_boundary": "作者论文（1992）；杜威意向性操作哲学奠基",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -206,6 +456,36 @@
     "role": "translation_loss",
     "accepted_claim": "翻译丢失命题：管理版设计思维化约为创造力与工具箱，丢失创造力的完整性与使用条件；两话语几乎互不引用——断桥结构",
     "evidence_boundary": "作者论证（2013）；消亡预测未预见2010年代后制度化扩张（时代局限）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0056",
+    "title": "BUCHANAN, RICHARD. Branzi",
+    "grade": "C",
+    "verification": "V2",
+    "role": "third_fourth_order_design",
+    "accepted_claim": "三阶设计（战略规划）与四阶设计（系统性整合/组织学习）：设计的重心从物转向行动与思想；设计咨询公司分化出三阶与四阶形态——设计学科范式扩展——C.0设计史学科叙事侧（弱支撑）",
+    "evidence_boundary": "作者论文；质量管理/流程再造案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0058",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), Discovering Design, 1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "buckley_made_in_patriarchy",
+    "accepted_claim": "设计史的书写本身即父权制实践：'创新/实验=现代主义=专业=男性'与'传统/手工=工艺=非专业=女性'的对位将女性设计实践（刺绣/编织）系统性排除在历史叙事之外；须对历史书写基本范畴（专业/业余、大批量/手工、交换/使用价值、性别分工）进行根本性重构——12.6/0.3性别维度（与B0036/B0438构成女性主义设计史三证；本条目与B0432重复仅承担差异化命题）",
+    "evidence_boundary": "Buckley论文（1989文集）；L1648-1688",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0089",
+    "title": "Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "material_culture_method",
+    "accepted_claim": "物质文化研究方法示范：以消费（而非生产）切入社会变迁；'物的社会传记'（Appadurai）与价格记录/词汇频率分析揭示品味的社会逻辑——设计史证据与方法论扩展——C.0设计史的对象与证据",
+    "evidence_boundary": "作者研究（1991）；方法论自述",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -229,6 +509,96 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0144",
+    "title": "Ellen Lupton, J. Abbott Miller：《Design Writing Research Writing on Graphic Design》，1996",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_writing_research_method",
+    "accepted_claim": "'设计/写作/研究'三位一体方法论：设计不仅是形式的操作更是书写的行文和知识的探索——'将批评性反思转化为可行的日常实践'（Rick Poynor序）——C.0设计研究方法（平面设计理论侧）",
+    "evidence_boundary": "作者著作（1996）；方法论宣言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0146",
+    "title": "Ellen Lupton：《Thinking with Type》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_education_contemporary",
+    "accepted_claim": "当代美国设计教育最具声望的声音之一（MICA教授/Cooper Hewitt策展人）：设计理论与实用技术的教材融合传统——C.0设计史学科叙事侧（弱支撑）",
+    "evidence_boundary": "作者教材（2004/2010二版）；作者身份",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0164",
+    "title": "Gennifer Weisenfeld.：《Mavo Japanese Artists and the Avant-Garde, 1905-1931》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "mavo_legacy_reclamation",
+    "accepted_claim": "战后日本艺术史界对Mavo的'回收'经历了从'抽象绘画先驱'（形式主义叙事）到'反体制先锋'（政治叙事）的话语转换——服务于特定冷战文化政治与日本国家认同建构——C.0设计史学科（历史书写批判侧，弱支撑）",
+    "evidence_boundary": "作者专著（2002）；结语",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0171",
+    "title": "Gombrich, E. H. (Ernst Hans)：《The sense of order a study in the psychology of decorative art》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "perception_economy_psychology",
+    "accepted_claim": "'感知经济学'框架：将信息论'冗余/信息'概念引入装饰分析；'seeking before seeing'（知觉是主动的探照灯而非被动的桶）——装饰与设计知觉的心理学方法——C.0设计史学科叙事侧（方法论，弱-中支撑）",
+    "evidence_boundary": "作者经典（1979/1984）；Ch IV/基本公式",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0215",
+    "title": "Johanna Drucker：《The Visible Word Experimental Typography and Modern Art, 1909-1923》，1994",
+    "grade": "C",
+    "verification": "V2",
+    "role": "materiality_analysis_model",
+    "accepted_claim": "物质性三层结构分析模型（物理/符号/社会-历史物质性）：物质性是符号活动不可约化的维度——排版研究从描述性编年转向理论建构的方法论贡献——C.0设计史方法（物质性分析侧）",
+    "evidence_boundary": "作者专著（1994）；第1章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0221",
+    "title": "John Clifford：《Graphic Icons Visionaries Who Shaped Modern Graphic Design》，2014",
+    "grade": "C",
+    "verification": "V2",
+    "role": "influence_generational_transmission",
+    "accepted_claim": "'影响'的代际传递机制：师承关系（Beall→Yale学生→下一代）、移民效应（Bauhaus→美国）、书籍作为跨时空影响媒介（Rand《Thoughts on Design》→Maeda职业转折）——人物史方法的设计史叙事——C.0设计史方法（弱支撑）",
+    "evidence_boundary": "作者入门书（2014）；影响传递叙事",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0223",
+    "title": "John F. Pile, Judith Gura：《A History of Interior Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "interior_design_history_survey",
+    "accepted_claim": "室内设计史通史：'建筑空间—家具器物—装饰表面'三层分析框架；室内空间是社会关系/政治权力/宗教信仰/文化价值的物质化表达（'human life experience is largely played out in interior spaces'）;单卷本六千年个人与公共空间通史",
+    "evidence_boundary": "C.0 结语章（背景通史/学科建制）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0233",
+    "title": "JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_paradigm_recontextualizes_science",
+    "accepted_claim": "设计范式对科学范式的'重新语境化'：科学研究应嵌入设计过程逻辑而非相反——设计-科学关系的认识论重构——C.0设计史学科叙事侧（弱-中支撑）",
+    "evidence_boundary": "作者论文（约2006）；§9",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0255",
+    "title": "Kees Dorst：《Frame Innovation Create New Thinking by Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_abduction_fourth_mode",
+    "accepted_claim": "'设计溯因'（design abduction）作为第四种推理模式：Known OUTCOME only→Create WHAT + Create HOW——唯一同时需要创造'什么'和'如何'的推理模式，框架创造的核心逻辑基础；将'框架'概念（始于Schön 1983）系统化为可操作方法——C.0设计方法史",
+    "evidence_boundary": "作者专著（2015）；第3章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0258",
     "title": "Kenneth Frampton：《Modern Architecture A Critical History》，1980",
     "grade": "C",
@@ -246,6 +616,286 @@
     "role": "globalization_agenda",
     "accepted_claim": "全球化时代建筑议程六主题（地形学、形态学、可持续性、材料性、栖息地、公民形式）——结语全球化参照",
     "evidence_boundary": "作者框架（第五版后记）；六主题为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0264",
+    "title": "Klaus Krippendorff：《The Semantic Turn A New Foundation For Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "science_for_design",
+    "accepted_claim": "'为设计的科学'（Science for Design）纲领区别于Simon的'人工科学'：设计学科自洽哲学基础与方法论体系——设计理论的学科奠基尝试——C.0设计史学科叙事侧（弱支撑）",
+    "evidence_boundary": "作者著作（2006）；第7章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0284",
+    "title": "Margolin, Victor, A World History of Design and the History of the World, 2005",
+    "grade": "C",
+    "verification": "V2",
+    "role": "four_limitations_diagnosis",
+    "accepted_claim": "既有设计史叙事的四大局限系统诊断：地理局限（限于工业化地区）、定义局限（将设计等同于工业大规模生产）、风格中心主义（以风格分期代替社会分析）、人物中心主义（以个体设计师为主角忽视制度性力量）——设计史学史的批判性重估——C.0设计史学科（诊断侧）",
+    "evidence_boundary": "作者纲领论文（2005）；诊断性贡献",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0290",
+    "title": "Margolin, Victor; Buchanan, Richard (eds.)：The Idea of Design：A Design Issues Reader, 1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_boundaries_expansion",
+    "accepted_claim": "设计边界的扩展：Margolin'产品环境'概念、Moles'非物质性'讨论、Maldonado'舒适'分析——从单一产品扩展到系统/环境/体验——C.0设计研究对象扩展",
+    "evidence_boundary": "编者文集（1995）；Part III",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0312",
+    "title": "Mihaly Csikszentmihalyi：《Creativity》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "flow_theory_design_research_resource",
+    "accepted_claim": "心流理论（flow）：目标清晰/即时反馈/挑战与技能平衡/自成目的性（autotelic）——创造力持续的根本动力是内在动机；基于91位卓越创造性个体深度访谈的实证研究",
+    "evidence_boundary": "C.0 结语章（设计研究理论资源）",
+    "status": ""
+   },
+   {
+    "source_id": "B0314",
+    "title": "Mildred S. Friedman, Joseph Giovannini：《Graphic Design in America A Visual Language History》，1989",
+    "grade": "C",
+    "verification": "V2",
+    "role": "multivocal_design_history_method",
+    "accepted_claim": "设计史写作方法实验：多声部/多体例综合文本（双声道结构）；拒绝单一叙事权威（'散布于多种制度与话语之中'）；对时间线文体的元批判（Lupton/Miller——线性结构本身即意识形态）——C.0设计史方法",
+    "evidence_boundary": "主编图录（1989）；Lupton/Miller时间线论文",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0369",
+    "title": "Robert Bringhurst：《The Elements of Typographic Style》，1992",
+    "grade": "C",
+    "verification": "V2",
+    "role": "typographic_craft_manual",
+    "accepted_claim": "排印技艺手册传统：'Strunk & White式'手册在排印领域的继承与超越——设计技艺知识体系的文本化——C.0设计史学科叙事侧（弱支撑）",
+    "evidence_boundary": "作者手册（1992/2004三版）；序部",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0381",
+    "title": "Rudolf Arnheim：《Visual Thinking》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "visual_literacy_foundation",
+    "accepted_claim": "视觉思维作为'视觉素养'（visual literacy）、信息设计与设计思维研究的奠基文献（科学可视化传统直接引其论点）——设计认知研究的理论谱系——C.0设计史学科叙事侧（弱-中支撑）",
+    "evidence_boundary": "作者经典（1969）；历史地位",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0386",
+    "title": "Sanders：《Co-creation and the new landscapes of design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_research_blur",
+    "accepted_claim": "设计研究范式演进：'设计与研究的模糊化'（design/research blur）；设计从'设计产品类别'转向'为人/社会的目的而设计'，催生交互/服务/转型设计等新学科；四层次创造力（doing/adapting/making/creating）",
+    "evidence_boundary": "C.0 结语章（设计研究范式）",
+    "status": ""
+   },
+   {
+    "source_id": "B0391",
+    "title": "SEAGO, ALEX, AND ANTHONY DUNNE. New Methods in Art and Design Research The Objec",
+    "grade": "C",
+    "verification": "V2",
+    "role": "methodological_intimidation",
+    "accepted_claim": "设计研究的方法论两难：借用他学科方法vs发展承认艺术设计独特发现品质的原创方法；'方法论恐惧'（博士学术蓝图与艺术学院实践文化的冲突）使研究者退缩到平庸应用研究——C.0设计研究方法（诊断侧）",
+    "evidence_boundary": "作者论文（1996）；L5/L13",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0391",
+    "title": "SEAGO, ALEX, AND ANTHONY DUNNE. New Methods in Art and Design Research The Objec",
+    "grade": "C",
+    "verification": "V2",
+    "role": "tacit_knowledge_object_centred",
+    "accepted_claim": "设计研究三共同品质：隐性知识（创意专业者不可与感知/判断/技能分离的知识）、系统探究与透明可验证、对象居中心地位——'以项目为研究'（action research by project）——C.0设计研究知识论（与P0018 Cross隐性知识呼应）",
+    "evidence_boundary": "作者论文（1996）；结论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0400",
+    "title": "Sparke, Penny：《An introduction to design and culture 1900 to the present》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "sparke_design_culture_3rd_ed_diff",
+    "accepted_claim": "Sparke《An Introduction to Design and Culture》第三版（2013）差异化命题：全球化与数字设计语境下的身份重新定义；每章增设推荐/延伸阅读——设计文化研究在2010s的学科成熟",
+    "evidence_boundary": "C.0 结语章（设计文化研究谱系·第三版更新）",
+    "status": ""
+   },
+   {
+    "source_id": "B0412",
+    "title": "Teal Triggs：《Graphic Design History Past, Present, and Future》，2011",
+    "grade": "C",
+    "verification": "V2",
+    "role": "practitioner_historians_canon",
+    "accepted_claim": "'实践者史学家'（practitioner-historian）与设计师撰写的历史是学科建设的核心力量并参与经典（canon）建构——设计史书写的主体问题——C.0设计史方法（书写主体侧）",
+    "evidence_boundary": "作者导言（2011）；L015-021",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0426",
+    "title": "Tim Brown：《Change by Design How Design Thinking Transforms Organizations and Inspires Innovation》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_thinking_genealogy",
+    "accepted_claim": "设计思维谱系关键环节：与Simon《The Sciences of the Artificial》、Buchanan《Wicked Problems in Design Thinking》、Martin《The Design of Business》构成1960-2010年代'设计思维/设计研究'演进链条——C.0设计理论史（弱支撑）",
+    "evidence_boundary": "作者著作（2009）；历史地位",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0432",
+    "title": "Victor Margolin：《Design discourse history, theory, criticism》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "writing_design_history_reconstruction",
+    "accepted_claim": "设计史的重建：历史矩阵（工业资本主义）与父权制双框架（Dilnot/Buckley）；物作为'集体事实'的证据；Margolin战后设计文献地图——设计史方法论的学科化——C.0设计史方法（Part III）",
+    "evidence_boundary": "编者文集（1989）；Part III四篇",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0437",
+    "title": "Victoria E. Bonnell：《Iconography of Power Soviet Political Posters under Lenin and Stalin》，1997",
+    "grade": "C",
+    "verification": "V2",
+    "role": "iconography_visual_syntax",
+    "accepted_claim": "图像志-语义细读方法：视觉词汇-句法系统、被发明的传统（Hobsbawm）、'领袖两体'（国王两体概念的苏联版）、敌人图像的去人性化——图像证据的系统分析框架——C.0设计史方法（图像侧）",
+    "evidence_boundary": "作者专著（1997）；方法论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0438",
+    "title": "Walker, John A., Design History and the History of Design, 1989",
+    "grade": "C",
+    "verification": "V2",
+    "role": "production_to_consumption_turn",
+    "accepted_claim": "设计史从'生产中心'转向'消费—接受—趣味—性别'：风格的意义由使用者的生活方式而非设计师意图决定——预示并参与1990年代设计史的文化转向——C.0设计史方法（转向侧）",
+    "evidence_boundary": "作者导论（1989）；第8-9章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0439",
+    "title": "Walker, John Albert; Attfield, Judy：Design History and the History of Design, 1989",
+    "grade": "C",
+    "verification": "V2",
+    "role": "general_problems_historiography",
+    "accepted_claim": "设计史是历史学分支须直面史学普遍方法论问题：事实的性质、过去/现在区分、编年与叙事、共时/历时、分期、因果、变化理论、历史主义（四义）——为设计史提供史学方法论基础（本条目与B0438重复仅承担差异化命题）",
+    "evidence_boundary": "Walker导论（1989）；Ch3",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0009",
+    "title": "Brew, Angela：The Nature of Research：Inquiry into Academic Contexts, 2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "research_contested_space",
+    "accepted_claim": "研究占据'竞争空间'：多重语境与议程互相拉锯；研究者对研究的观念存在四种质性变体（domino/trading/layer/journey）；传统实证主义规则松动需项目内部生成的新规则（look again/relevance/unbending intent）——研究认识论的反思框架——C.0设计研究方法",
+    "evidence_boundary": "作者专著（2001）；57名资深研究者经验研究",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0009",
+    "title": "Brew, Angela：The Nature of Research：Inquiry into Academic Contexts, 2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "knowledge_crisis_mode12",
+    "accepted_claim": "知识危机与研究的政治经济学：知识生产去中心化（Mode 1/2）、知识从产品转向过程；'谁的问题被研究是权力问题'；经济理性主义把研究商品化与研究的发现性/转变性本质冲突——C.0设计研究（政治经济学侧，弱-中支撑）",
+    "evidence_boundary": "作者专著（2001）；Part II",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0011",
+    "title": "Buchanan, Richard：Design Research and the New Learning, 2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "integrative_design_knowledge",
+    "accepted_claim": "设计知识是'进入他域、携成果返回'的整合性原理，不可还原为任何既有学科；设计研究分临床/应用/基础三类，基础研究最困难也最关乎领域未来——C.0设计知识论",
+    "evidence_boundary": "作者论文（2001）；L233-287",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0012",
+    "title": "Buchanan：《Discovering design explorations in design studies》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_middle_ground",
+    "accepted_claim": "设计是当代文化中连接理论与实践、词与物的'中间地带'（middle ground）：设计研究应把设计作为社会、文化与哲学考察的对象——C.0设计研究定位",
+    "evidence_boundary": "编者文集（1995）；导言L205",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0026",
+    "title": "Dorst, Kees：The Core of Design Thinking and Its Application, 2011",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_thinking_debate",
+    "accepted_claim": "回应'设计思维已死'论争：具体实践而非标签才是设计对世界的贡献——2010年代设计思维核心论争的纲领性立场——C.0设计史学科叙事侧（弱支撑）",
+    "evidence_boundary": "作者论文（2011）；结论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0034",
+    "title": "Horst W. J. Rittel; Melvin M. Webber：《Dilemmas in a General Theory of Planning》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "planning_as_argumentative_process",
+    "accepted_claim": "'规划即论证过程'（argumentative process）：问题与解在参与者间通过持续判断与批判性论证逐渐浮现——第二代系统方法的设计方法论转向（Buchanan设计思维谱系源头）——C.0设计史的方法论叙事侧",
+    "evidence_boundary": "作者论文（1973）；第二节/第三节",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0037",
+    "title": "HUNT J. Prototyping the social Temporality and speculative futures at the inters",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_ethnography_temporal_gap",
+    "accepted_claim": "设计与民族志的'时间框架略不可通约'：设计咨询公司与大公司争相雇用人类学家的'霰弹枪婚姻'（shotgun marriage）是未加问题化的挪用——跨学科方法借用的断裂与生成性——C.0设计研究方法（跨学科侧，弱支撑）",
+    "evidence_boundary": "作者论文（片段）；L5-14",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0042",
+    "title": "Lucy Kimbell：《Rethinking Design Thinking： Part II》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "practice_three_contributions",
+    "accepted_claim": "实践理论三贡献：①设计是情境化的地方性成就；②物体参与构成实践（sociomaterial/intra-action）；③去中心化设计师（design after design/co-designers）——C.0设计研究方法论（实践理论侧）",
+    "evidence_boundary": "作者论文（2012）；L126-130",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0043",
+    "title": "Lucy Kimbell：《Rethinking Design Thinking： Part I》，2011",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_thinking_genealogy_critique",
+    "accepted_claim": "设计思维学术谱系的批判性重估：1960s设计方法运动→Rowe（1987）→Cross/Schön/Lawson/Dorst→Buchanan（1992）'一般设计理论'转向——设计理论史叙事——C.0设计史学科叙事侧（弱支撑）",
+    "evidence_boundary": "作者论文（2011）；L68-98",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0052",
+    "title": "Reed Benhamou：《By Design Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons (review)》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "interface_failure_permanent",
+    "accepted_claim": "'人与近身环境的界面缺陷显然永恒'：1982年的设计缺陷分析在2005年仍然有效；工业设计师头衔已有两百多年、设计活动与人类同龄、设计教学逾百年，却仍大量失败——'设计师看起来至少与解决方案一样是问题本身'——'设计之缺陷'批评传统（与Papanek论战性同侪对照的'报道性品质'）——C.0设计批评（弱-中支撑；书评等级上限C）",
+    "evidence_boundary": "书评（2005）；Technology and Culture 46(3)",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0057",
+    "title": "Richard Buchanan：《Declaration by Design Rhetoric, Argument, and Demonstration in Design Practice》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "architectonic_art_quadrivium",
+    "accepted_claim": "设计是现代的建筑术艺术、修辞是思想的建筑术艺术：通过物之修辞可重新发现'现代四艺'（quadrivium）——设计理论的古典修辞学奠基——C.0设计史学科叙事侧（弱-中支撑）",
+    "evidence_boundary": "作者论文（1985）；第四步论证",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {

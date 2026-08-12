@@ -1,0 +1,31 @@
+{
+  "source_id": "P0052",
+  "corpus": "paper",
+  "folder_name": "Reed Benhamou：《By Design Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons (review)》",
+  "material_type": "设计随笔书评（Caplan《By Design》）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Reed Benhamou：《By Design Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons (review)》_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 4608}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "interface_failure_permanent"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_as_old_as_humanity"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Reed Benhamou 书评：Ralph Caplan《By Design: Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons》（第二版，New York: Fairchild, 2004，xx+267页，$42），刊于Technology and Culture 46(3)（July 2005, pp.630-631，Johns Hopkins UP；DOI: 10.1353/tech.2005.0112）——【体裁限度：书评（二手），等级上限C】",
+    "被评书定位：在1970-80年代挖掘'设计之缺陷'的著作群中，Caplan以机警、简洁、直率著称，且因作者是'设计之描述者而非实践者'，具有区别于Victor Papanek《Design for the Real World》等论战性同侪的'报道性品质'（reportorial quality）",
+    "书评要点：①第二版保留第一版全部优点（机警/简洁/直率/客观），插图改为彩色并更新（唯一例外是Milton Glaser的Hotel Louis XIV浴室速写），新增第9章论无障碍（accessibility），Eames夫妇赞歌不算过时；②文本大体未变是合理的——'人与近身环境（proximate environment）的界面缺陷显然永恒'——Caplan 1982年的分析在2005年仍然有效（'无需改动文本'的理由，也是'不令人安心的坏消息'）；③以历史纵深质疑为什么（仍然）有这么多失败：工业设计师头衔已有两百多年（1775年巴黎行会记录中的C.F. Delahaye及其二子），设计活动与人类同龄，设计教学至少一个世纪，却仍不能'使产品适应使用者'——引Caplan原话'设计师看起来至少与解决方案一样是问题本身'；④以'非文本例证'——1982年与2005年浓缩蘑菇汤罐头的开罐体验对比——证明'情境'（situation）是关键：设计可能制造我们只能被动扮演的剧本（situation design）；⑤对首读者以'值得一读'推荐，随即提出唯一告诫：设计史学家有理由抱怨Caplan对待时间与文本的轻率——不是缺脚注，而是把作者呈现为独立于时间现实的存在（如把生于1905年的Sibyl Moholy-Nagy称为'普拉特学院设计教授'）",
+    "结论：新版是平面设计技艺的典范，Caplan的洞见保持时效性——而这种'时效性本身令人不安'——责任不在Caplan——'更完美的世界里，设计不应仍然主要指向肤浅的目标'",
+    "关键概念：proximate environment（近身环境）、situation design（情境设计）、dessinateurs industriels（工业制图师/工业设计师）、reportorial quality（报道性品质）、accessibility（无障碍）",
+    "clean原文存在（52行）；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L27-28：'人与近身环境的界面缺陷显然永恒'",
+    "L30-34：职业之新与活动之旧的反差",
+    "L36-37：'设计师看起来至少与解决方案一样是问题本身'",
+    "L39-41：'情境'作为关键词",
+    "L43-45：对时间与文本的史学规范批评"
+  ]
+}

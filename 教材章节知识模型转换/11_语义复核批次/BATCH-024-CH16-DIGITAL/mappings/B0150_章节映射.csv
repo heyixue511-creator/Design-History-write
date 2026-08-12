@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0150,14.6,B,V2,software_pattern_catalog,软件设计模式目录：23个可命名/可描述/可传授/可复用的设计模式（创建/结构/行为×类/对象分类），13节统一模板保证可比较；'设计词汇'把设计讨论从类/对象层级提升到模式层级——软件侧设计系统与组件语言基础——14.6设计系统与平台规模化,作者经典（1995）；Lexi编辑器案例,00_整体分析报告（核心命题/历史地位）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0150,14.1,C,V2,oop_design_object,面向对象设计的模式化：专家不从头解决问题而是复用成功方案（Program to an interface；Favor object composition over class inheritance；Encapsulate the concept that varies）——'软件化'设计对象的工程知识——14.1从计算工具到软件媒介,作者经典（1995）；Ch1两条原则,00_整体分析报告（原则一/二/元原则）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0150,14.6,C,V2,knowledge_cataloguing_tradition,与Alexander建筑模式语言、Knuth算法目录共同构成'知识目录化'传统在软件领域的接续（自认不构成完整模式语言）——设计模式的知识谱系——14.6设计系统的知识史（弱支撑）,作者经典（1995）；Ch6,00_整体分析报告（历史地位与限度）,ACCEPTED_AS_SUPPORTING_SOURCE

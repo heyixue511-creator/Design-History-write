@@ -1,11 +1,11 @@
 {
  "9.1": {
   "grades": {
-   "C": 11,
-   "B": 17,
+   "C": 17,
+   "B": 21,
    "A": 4
   },
-  "count": 32,
+  "count": 42,
   "items": [
    {
     "source_id": "B0202",
@@ -88,6 +88,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0239",
+    "title": "Judith Williamson：《Decoding advertisements ideology and meaning in advertising》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "advertising_meaning_structure",
+    "accepted_claim": "广告是一套意义创造的结构：形式即意识形态——意义转移与意识形态遮蔽；广告是'元系统'——从自然/科学/历史/魔法等指涉系统'窃取'意义转移到产品——消费社会的意识形态分析——9.1丰裕社会与消费公民",
+    "evidence_boundary": "作者经典（1978）；符号学/马克思主义/精神分析三元融合",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0311",
+    "title": "Mihaly Csikszentmihalyi, Eugene Halton：《The Meaning of Things Domestic Symbols and the Self》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "meaning_of_things_domestic",
+    "accepted_claim": "物的意义理论：'每个人的过去记忆、当下体验和未来梦想都与构成其环境的物品密不可分地交织在一起'；cultivation（涵化）——以目标为导向的主动意义解释过程——家庭物品作为自我建构的符号——9.1丰裕社会与消费公民（消费心理理论侧）",
+    "evidence_boundary": "作者经典（1981）；82家庭315人实证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0315",
     "title": "Miller, Daniel：Material Culture and Mass Consumption, 1987",
     "grade": "B",
@@ -95,6 +115,16 @@
     "role": "objectification_theory",
     "accepted_claim": "客体化（objectification）理论：主体通过外化与扬弃实现自我发展——物质文化研究的哲学基础",
     "evidence_boundary": "对黑格尔的抽象提取可能过度简化（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0353",
+    "title": "Pierre Bourdieu：《Distinction A Social Critique of the Judgement of Taste》，1979",
+    "grade": "B",
+    "verification": "V2",
+    "role": "taste_as_social_distinction",
+    "accepted_claim": "趣味不是天生审美禀赋而是社会结构与文化资本的产物：审美判断是社会位置的外显符号，品味将阶级区分内在化并自然化为'天性'；习性（habitus）生成生活风格与判断力——消费社会的品味机制理论基座——9.1丰裕社会与消费公民",
+    "evidence_boundary": "作者巨著（1979/1984）；法国1963/1967-68两次问卷调查",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -208,6 +238,16 @@
     "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
    },
    {
+    "source_id": "B0430",
+    "title": "Vance Packard：《The Hidden Persuaders》，1957",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hidden_persuaders_depth_approach",
+    "accepted_claim": "1950年代美国存在'深层说服'产业：广告界借助精神分析与社会科学在消费者与公民的无意识层面进行操纵（动机研究M.R./深层接触法depth approach/形象工程/八大需求/地位符号），其扩张威胁理性自我与民主生活——'心灵隐私权'（right to privacy of mind）",
+    "evidence_boundary": "9.1 丰裕社会与消费公民（广告操纵批判）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0431",
     "title": "Vance Packard：《The Waste Makers》，1960",
     "grade": "B",
@@ -235,6 +275,26 @@
     "role": "false_democratization_luxury",
     "accepted_claim": "奢侈的虚假民主化：百货商店以廉价批量商品提供\"财富与富足的虚幻符号\"，中产阶级借身份符号的区隔竞争更新外观——消费与阶级",
     "evidence_boundary": "概念（达夫内尔1880s）经作者重释；'虚假'判断为作者论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0028",
+    "title": "Appadurai, Arjun (ed.)：The Social Life of Things：Commodities in Cultural Perspective, 1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "social_regulation_of_demand",
+    "accepted_claim": "需求是社会性、文化性的建构而非自然欲望：Muria Gonds'显眼的节俭'（消费围绕集体认同）、奢侈品作为'消费寄存器'——消费需求受社会调节——9.1丰裕社会与消费公民（理论侧）",
+    "evidence_boundary": "Gell章与主编导论（1986）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0126",
+    "title": "Donald A. Norman：《Emotional Design Why We Love (Or Hate) Everyday Things》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "emotional_consumption_brand",
+    "accepted_claim": "情感消费与品牌的情感属性：需求vs欲望区分、记忆/纪念品的情感价值（kitsch/照片）、'我们通过选择/布置/调整与改造日常物品来设计自己的生活空间'（个性化vs定制化）——9.1丰裕社会与消费公民（情感侧，弱-中支撑）",
+    "evidence_boundary": "作者著作（2004）；第2章/尾声",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -308,6 +368,16 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0398",
+    "title": "Sparke, Penny, An Introduction to Design and Culture, 1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "janus_double_alliance",
+    "accepted_claim": "设计在生产与消费之间的斡旋：消费现代性（百货商店/品牌/广告制度/Veblen炫耀性消费/女性消费者）——设计是文化的能动建构者而非被动反映",
+    "evidence_boundary": "9.1 丰裕社会与消费公民（消费侧）",
+    "status": ""
+   },
+   {
     "source_id": "B0410",
     "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
     "grade": "C",
@@ -318,6 +388,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0430",
+    "title": "Vance Packard：《The Hidden Persuaders》，1957",
+    "grade": "C",
+    "verification": "V2",
+    "role": "psychological_obsolescence",
+    "accepted_claim": "心理性废弃（psychological obsolescence）：通过符号与形象工程使产品'过时'以驱动持续消费——与计划性废弃（planned obsolescence）并行的消费机制",
+    "evidence_boundary": "9.1 丰裕社会与消费公民（废弃机制侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0486",
     "title": "朱和平：《世界现代设计史》，2004",
     "grade": "C",
@@ -326,6 +406,26 @@
     "accepted_claim": "中文通史中的战后消费与设计分期：计划废止制、有机设计、系统设计等概念的教材表述——消费社会的中文通史参照",
     "evidence_boundary": "二手综合教材（2013）；个别数据前后不一（作者自认限度）；与B0503/B0101通用史实只计一份P0",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0044",
+    "title": "M. J. Golec：《Cold War Modern Design 1945-1970 Fear and Fashion in the Cold War Posters of the Cold War》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "kitchen_battlefield_consumption",
+    "accepted_claim": "冷战消费竞争：'厨房战场'（Kitchen Debate）与美国家庭消费作为意识形态证据；家具宣传/掩体之家/IBM馆/Expo 70——消费与技术的冷战展示",
+    "evidence_boundary": "9.1 丰裕社会与消费公民（冷战消费侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0047",
+    "title": "Michael S. Kimmel, Eileen Boris, Alan Crawford：《The Arts and Crafts Movement Handmade Socialism or Elite Consumerism Art and Labor Ruskin, Morris, and the Craftsman Ideal…》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "american_wing_depoliticization",
+    "accepted_claim": "美国翼工艺美术运动的去政治化：从社会主义批判退化为'为中上层阶级消费者生产'的精英消费主义，促成生产文化向消费文化的平滑过渡——9.1消费社会的形成机制（弱-中支撑）",
+    "evidence_boundary": "书评综述（1987）；Boris《Art and Labor》评介",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
@@ -333,10 +433,10 @@
   "grades": {
    "A": 2,
    "D": 1,
-   "C": 3,
-   "B": 3
+   "C": 4,
+   "B": 4
   },
-  "count": 9,
+  "count": 11,
   "items": [
    {
     "source_id": "B0142",
@@ -389,6 +489,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0458",
+    "title": "Witold Rybczynski：《Home A Short History of an Idea》，1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "home_comfort_onion_theory",
+    "accepted_claim": "家的观念史：以'舒适'（comfort）为核心追踪五个世纪以来'家'的概念演变——'家是文化观念而非技术产物；舒适是层层累积的意义（洋葱理论），不是可测量的物理量'；家务性/居家性作为布尔乔亚成就（荷兰黄金时代）；舒适观念的演化与技术进展几乎无关——9.2厨房、家电与家庭劳动（家的观念基础）",
+    "evidence_boundary": "作者经典（1986）；十章观念史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0143",
     "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
     "grade": "C",
@@ -419,6 +529,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0458",
+    "title": "Witold Rybczynski：《Home A Short History of an Idea》，1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "domestic_engineers_efficiency",
+    "accepted_claim": "效率进入家庭：美国家政工程师（domestic engineers）与无仆家庭（servantless household）——效率承诺如何重塑家庭劳动（女性视角纠正男性中心建筑史叙事）——9.2厨房、家电与家庭劳动",
+    "evidence_boundary": "作者经典（1986）；第7章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0409",
     "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
     "grade": "D",
@@ -433,11 +553,11 @@
  "9.3": {
   "grades": {
    "C": 4,
-   "B": 5,
+   "B": 7,
    "A": 3,
    "D": 1
   },
-  "count": 13,
+  "count": 15,
   "items": [
    {
     "source_id": "B0145",
@@ -480,6 +600,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0004",
+    "title": "Adam, Peter：Eileen Gray：Architect, Designer, 1987",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gray_female_modernist_rediscovery",
+    "accepted_claim": "艾琳·格雷（Eileen Gray, 1878-1976）作为被历史忽视的女性现代主义者的重新发现：从装饰艺术漆艺师到现代主义建筑师的跨界轨迹（E.1027海边住宅1926-29/Tempe à Pailla自宅1931-34）——挑战'现代主义=男性叙事'的正统史观",
+    "evidence_boundary": "9.3 性别化职业与物品（谁设计/谁使用/谁被代表）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0022",
     "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
     "grade": "B",
@@ -497,6 +627,16 @@
     "role": "gendered_occupation_objects",
     "accepted_claim": "服装产业的分工与消费类型学按性别组织职业与物品：女性承担生产劳动却以“类型化”消费被建构为装饰性存在",
     "evidence_boundary": "性别分析框架可直接采用；职业史具体数据缺失，须补一手产业史料",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0335",
+    "title": "Pat Kirkham：《Charles And Ray Eames Designers of the Twentieth Century》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "ray_eames_feminist_revision",
+    "accepted_claim": "女性主义修正主义史学：蕾·伊姆斯被历史隐藏——现有文献'过分突出了查尔斯的贡献而忽视了蕾'（overprivileges the contribution of Charles in relation to Ray），蕾在形式/色彩/图形/电影方面的贡献与查尔斯同等重要——女性设计师认可制度个案",
+    "evidence_boundary": "9.3 性别化职业与物品（谁设计/谁使用/谁被代表）",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -573,11 +713,21 @@
  },
  "9.4": {
   "grades": {
-   "B": 1,
-   "C": 4
+   "B": 2,
+   "C": 6
   },
-  "count": 5,
+  "count": 8,
   "items": [
+   {
+    "source_id": "B0103",
+    "title": "Dennis P. Doordan：《Design History An Anthology》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "corporate_design_regime",
+    "accepted_claim": "美国企业设计体制：通用汽车造型体制（Harley Earl艺术与色彩部、年度改款、MAYA原则）、CBS企业形象、铝业材料推广——9.4企业形象与设计管理",
+    "evidence_boundary": "案例研究（1995）；档案支撑（GM Archives）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
    {
     "source_id": "B0143",
     "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
@@ -597,6 +747,26 @@
     "accepted_claim": "时尚产业成为所有产业的运作模型（以季节节奏刻意制造视觉废弃）；迷彩服从功能性军事装备转变为亚文化时尚符号——时尚与商业吸收",
     "evidence_boundary": "批评性论证（2008）；'产业模型'判断为作者命题",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0211",
+    "title": "Joanne Entwistle：《The Fashioned Body Fashion, Dress and Modern Social Theory》，2000",
+    "grade": "C",
+    "verification": "V2",
+    "role": "fashion_identity_modernity",
+    "accepted_claim": "时尚是西方现代性的独特产物（14世纪欧洲宫廷起源）；承载模仿/差异、本真性/技巧性的矛盾欲望——时尚理论",
+    "evidence_boundary": "作者历史叙事（2000）；时尚起源断代与专史并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0362",
+    "title": "Reyner Banham：《A Critic Writes Selected Essays by Reyner Banham (Centennial Books)》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "banham_popular_culture",
+    "accepted_claim": "美国流行文化批评：gizmo（小装置）、冰淇淋车、拖车房、科幻电影——流行物作为文化证据；美国西部作为现代性实验场（L152/L2216）",
+    "evidence_boundary": "9.4 青年文化与流行文化（美国流行物侧）",
+    "status": ""
    },
    {
     "source_id": "B0367",
@@ -632,11 +802,11 @@
  },
  "9.5": {
   "grades": {
-   "B": 4,
-   "C": 2,
-   "A": 1
+   "B": 6,
+   "C": 8,
+   "A": 2
   },
-  "count": 7,
+  "count": 16,
   "items": [
    {
     "source_id": "B0180",
@@ -647,6 +817,26 @@
     "accepted_claim": "设计文化三角模型（生产—设计师—消费）与差异化策略：设计文化是\"几乎完全由差异化策略驱动的文化特定实践\"——企业形象系统化的分析框架",
     "evidence_boundary": "作者概念框架（2000）；与B0242版本族（VGRP008）重合命题不独立计证",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0329",
+    "title": "Olins：《Corporate identity making business strategy visible through design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "corporate_identity_visual_system",
+    "accepted_claim": "企业识别作为商业战略可视化工具：CI从设计实践提升为管理学科——企业形象系统化的理论经典（跨章）",
+    "evidence_boundary": "理论经典（1989）；与B0357设计管理互补",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0077",
+    "title": "Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar",
+    "grade": "B",
+    "verification": "V2",
+    "role": "trademark_three_criteria",
+    "accepted_claim": "有效商标的三标准——恰当（appropriate）/简洁（simple）/可记忆（memorable）：概念聚焦单一'故事'、简洁与独特的连续体——Chermayeff & Geismar（美国战后现代主义标志设计核心事务所）的权威方法论自述——9.5企业形象的系统化",
+    "evidence_boundary": "作者自述（2011）；Chase/NBC/Mobil等45+案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0145",
@@ -666,6 +856,16 @@
     "role": "corporate_identity_communication",
     "accepted_claim": "企业身份的内部沟通：设计从\"问题解决\"到\"问题处理\"、从多学科到跨学科——企业形象作为组织化传播系统",
     "evidence_boundary": "作者论证（2000）；企业个案（Nike等）为二手引用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0185",
+    "title": "Heller：《Paul Rand》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "rand_corporate_identity",
+    "accepted_claim": "Paul Rand企业识别体系：IBM/Westinghouse/ABC/UPS标志与系统——'好设计即好生意'（good design is good business）；商业设计作为具有文化意义的创造性活动——美国企业形象系统化的核心人物传记——9.5企业形象的系统化",
+    "evidence_boundary": "作者传记（1999）；Rand职业生涯与IBM案例",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -689,6 +889,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0077",
+    "title": "Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar",
+    "grade": "C",
+    "verification": "V2",
+    "role": "trademark_as_vessel",
+    "accepted_claim": "商标是'承载联想的容器'而非对机构内涵的直接图解：抽象符号的接受机制（Chase高管从反对到认同）——9.5企业形象的系统化（标志与联想机制）",
+    "evidence_boundary": "作者自述（2011）；核心论点二",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0185",
+    "title": "Heller：《Paul Rand》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "play_instinct_method",
+    "accepted_claim": "'游戏本能'（Play Instinct）作为设计方法：从约束与限制中激发创造力，而非从完全自由中寻求原创性——企业形象设计的方法论原则——9.5企业形象的系统化（方法侧）",
+    "evidence_boundary": "作者传记（1999）；Ch3",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0203",
     "title": "Jean Baudrillard：《The System Of Objects》，1968",
     "grade": "C",
@@ -707,15 +927,135 @@
     "accepted_claim": "企业身份的平面设计史（跨章）：CBS眼睛标志（William Golden 1950）、Unimark International（1960s“通用”设计语言）、Émigré杂志——9.5企业形象系统化的教材叙述",
     "evidence_boundary": "教材二手叙述；企业档案细节须以专门研究互校",
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0314",
+    "title": "Mildred S. Friedman, Joseph Giovannini：《Graphic Design in America A Visual Language History》，1989",
+    "grade": "C",
+    "verification": "V2",
+    "role": "corporate_identity_early_critique",
+    "accepted_claim": "对'corporate identity'的早期批判性分析（Maud Lavin论文）——企业形象作为学术批评对象的早期案例——9.5企业形象的系统化（批判侧，弱支撑）",
+    "evidence_boundary": "主编图录（1989）；Lavin论文",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0355",
+    "title": "R. Roger Remington：《American modernism graphic design, 1920 to 1960》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "corporate_clients_landing",
+    "accepted_claim": "企业客户是现代主义设计的落地条件：CCA/CBS/IBM/Westinghouse等企业的进步意识使现代设计进入商业主流——美国企业形象体系的接受史——9.5企业形象的系统化（美国侧）",
+    "evidence_boundary": "作者通史（2003）；Ch6/L2007-2086",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0407",
+    "title": "Steven Heller, Georgette Ballance：《Graphic Design History》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "corporate_identity_institutionalization",
+    "accepted_claim": "企业识别成败系于信念的制度化：CCA企业史案例与VW广告——'house style'作为组织文化制度——9.5企业形象的系统化",
+    "evidence_boundary": "编者文集（2001）；Ch06 Mass Communication",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0501",
+    "title": "王受之：《世界平面设计史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "corporate_identity_visual_systems",
+    "accepted_claim": "企业形象设计与视觉识别系统（CI、奥运会视觉系统）——企业形象系统的中文教材表述",
+    "evidence_boundary": "教材综述；企业个案成效以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "9.6": {
+  "grades": {
+   "B": 4,
+   "C": 3
+  },
+  "count": 7,
+  "items": [
+   {
+    "source_id": "B0029",
+    "title": "Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "swiss_style_foundation",
+    "accepted_claim": "瑞士国际主义平面设计（Swiss Style）奠基文献：点/线/对抗/字母四维度基础教学体系；正负形等价与互生（'黑线和白线始终相互依存'）、边缘张力美学、对抗与综合作为时代任务——9.6瑞士平面与国际主义传播",
+    "evidence_boundary": "作者手册（1965）；巴塞尔AGS学生练习300图版",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0147",
+    "title": "Emil Ruder：《Typography - A Manual of Design [ Typographie ]》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "swiss_typography_theory",
+    "accepted_claim": "排印=技术+功能+形式三位一体：'纯排印'（pure typography）在精确测量系统中操作预制活字；去个性化（内在距离）；形与反形——空白空间作为积极造型元素——瑞士国际主义字体排印风格最重要的理论总结（与Hofmann手册并列为战后现代主义经典）——9.6瑞士平面与国际主义传播",
+    "evidence_boundary": "作者手册（1967）；19章体系",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0369",
+    "title": "Robert Bringhurst：《The Elements of Typographic Style》，1992",
+    "grade": "B",
+    "verification": "V2",
+    "role": "typographic_style_grammar",
+    "accepted_claim": "排印是'赋予人类语言以耐久可见形态'的技艺：节奏与比例、和谐与对位、页面塑形、字体组合的系统规则——国际主义排印传统的操作化手册（网格/客观性/组织权威的排印语法）——9.6瑞士平面与国际主义传播",
+    "evidence_boundary": "作者手册（1992/2004三版）；编号规则条文",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0404",
+    "title": "Stephen J. Eskilson：《Graphic Design A New History》，2007",
+    "grade": "B",
+    "verification": "V2",
+    "role": "international_style_corporate_identity",
+    "accepted_claim": "国际主义风格的胜利与企业识别：瑞士风格（网格、客观性、组织权威）完成构成主义遗产的中立化并成为战后企业识别系统的基础——9.6瑞士平面与国际主义传播（该节首次补证）",
+    "evidence_boundary": "作者通史（2007）；Ch8",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0146",
+    "title": "Ellen Lupton：《Thinking with Type》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "typography_pedagogy_three_blocks",
+    "accepted_claim": "排版设计教学的'字母—文本—网格'三板块框架与'史论—规范—实践—禁忌'四层嵌套（Type Crime警示框）——当代排印教育的批判性教学法——9.6瑞士平面与国际主义传播（排印教学侧，弱-中支撑）",
+    "evidence_boundary": "作者教材（2004/2010二版）；MICA教学背景",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0355",
+    "title": "R. Roger Remington：《American modernism graphic design, 1920 to 1960》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "new_typography_information_design",
+    "accepted_claim": "新排版（New Typography）与信息设计在美国的实践：Sutnar信息设计、typographic expressionism——现代主义排印的美国分支——9.6瑞士平面与国际主义传播（弱-中支撑）",
+    "evidence_boundary": "作者通史（2003）；Ch5-6",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0407",
+    "title": "Steven Heller, Georgette Ballance：《Graphic Design History》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernism_multi_center",
+    "accepted_claim": "现代主义作为多中心竞争的运动复合体（Gesamkultur/Sachlichkeit/Sachplakat/typotekt）——国际主义谱系的多源叙事——9.6瑞士平面与国际主义传播（弱-中支撑）",
+    "evidence_boundary": "编者文集（2001）；Ch05 Avant-Garde",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "9.7": {
   "grades": {
    "A": 1,
-   "B": 1
+   "B": 1,
+   "C": 1
   },
-  "count": 2,
+  "count": 3,
   "items": [
    {
     "source_id": "B0142",
@@ -735,6 +1075,16 @@
     "role": "consumption_active_process",
     "accepted_claim": "消费者能动性：儿童糖果（Kets）、意大利摩托车（Mods亚文化）在消费端的重新语境化——被支配群体通过消费建构自主文化",
     "evidence_boundary": "个案分析（Hebdige等二手案例）；亚文化接受侧证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0050",
+    "title": "ONeill：《The Transformer Principles of Making Isotype Charts by Marie Neurath and",
+    "grade": "C",
+    "verification": "V2",
+    "role": "isotype_picture_education",
+    "accepted_claim": "Isotype 的最终目标是'图画教育'（picture education，全称 International System of Typographic Picture Education）：维也纳博物馆→海牙→牛津的机构沿革与 Vienna Method——9.7信息设计与公共可读性（Isotype谱系）",
+    "evidence_boundary": "双书评（Design Issues）；机构沿革叙事",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]

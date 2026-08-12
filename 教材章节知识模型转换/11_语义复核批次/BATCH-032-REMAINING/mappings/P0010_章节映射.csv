@@ -1,0 +1,4 @@
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0010,14.2,B,V2,script_prescription_artifact_behavior,人工物通过'处方'（prescription）与脚本（script）把行为规则铭刻进自身：门、液压关门器、红灯等日常物将道德与政治'翻译'为技术约束——'社会关系大部分被非人处方回来'——为分析界面与人工物如何设计/约束用户行为提供ANT理论框架（与affordance谱系互补）,委派/处方/脚本概念（L33/L101/L227）,00_整体分析报告（Social Problems 35(3) 1988）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0010,16.6,C,V2,missing_masses_infrastructure,社会由'人+非人大众'共同构成：被忽视的日常物（门、钢条、基础设施）是社会的构成性成员——'消失的大众'（missing masses）概念为分析数字时代隐形劳动与基础设施（服务器、管道、物流网络）提供物导向视角,结论段（L339-344）,00_整体分析报告（Social Problems 35(3) 1988）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0010,15.4,C,V2,technology_politics_artifact,物具有政治与道德：门童/弹簧/交警等'中尉'（lieutenant）把价值秩序委派给技术物执行——技术政治性命题（Winner谱系）为对抗性设计提供'物如何承载权力'的分析起点,中尉/处方政治后果段（L124-128/L288-313）,00_整体分析报告（Social Problems 35(3) 1988）,ACCEPTED_AS_SUPPORTING_SOURCE

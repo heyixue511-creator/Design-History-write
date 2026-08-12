@@ -1,0 +1,37 @@
+{
+  "source_id": "P0035",
+  "corpus": "paper",
+  "folder_name": "How HCI interprets the probes -- Kirsten Boehner; Janet Vertesi; Phoebe Sengers;",
+  "material_type": "文化探针接受史元研究（反思性HCI）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\How HCI interprets the probes -- Kirsten Boehner; Janet Vertesi; Phoebe Sengers;_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 3762}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "cultural_probes_reception_history"},
+    {"section_id": "14.3", "grade": "C", "verification": "V2", "role": "probes_as_hci_method"},
+    {"section_id": "15.1", "grade": "C", "verification": "V2", "role": "probes_epistemology_openness"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Kirsten Boehner、Janet Vertesi、Phoebe Sengers（Cornell）、Paul Dourish（UC Irvine），《How HCI Interprets the Probes》（CHI '07，ACM），探针研究史中的里程碑元研究",
+    "追踪文化探针（cultural probes）自1999年Gaver团队EU Presence Project提出以来在HCI社区的采纳与改造；检索ACM Guide约90篇含'probe'的论文",
+    "五种采纳方式：材料包（probe packets）、数据收集、参与性（participatory）、感性（sensorial）、引证（citation）（L56-84）",
+    "五个被遗留的原初特征：颠覆（subversion）、丰富说明（rich description）、不确定性即资产（uncertainty as asset）、设计师立场（designer's stance）、探索与速写（exploration & sketchiness）（L96-130）",
+    "两大深层张力：解释的开放/封闭（open/closed interpretation）、方法/方法论的脱节（method/methodology——'方法保留、方法论剥离'）",
+    "核心论点：探针采纳由'把反思性、解释性研究转化为正式、打包、理想上客观的方法'的共同欲望驱动——误解了有效性（validity）的本质；探针提供的是知识生产的替代叙述——个体间的参与式互动",
+    "话语工具：'x' probes、'discount probes'（打折探针）、'probology'、罗夏测试隐喻（采纳模式映照HCI学科立场）",
+    "主张：认识论反思应成为HCI'对话的一部分'（reflective HCI议程）；与Sengers & Gaver《Staying open to interpretation》互为姊妹篇",
+    "方法：分类学归纳、本原/采纳对照、症状学诊断、缺席阅读（以文献'没写什么'为证）",
+    "限度：样本止于2006年；对原初探针的阐释依赖Gaver团队自我叙述；规范性建议偏纲领性",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L48：约90篇探针论文检索",
+    "L56-84：五种采纳方式",
+    "L96-130：五个被遗留特征",
+    "L152-162：方法/方法论脱节",
+    "L134：罗夏测试隐喻"
+  ]
+}

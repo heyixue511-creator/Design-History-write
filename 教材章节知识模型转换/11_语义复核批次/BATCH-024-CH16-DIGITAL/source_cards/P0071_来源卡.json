@@ -1,0 +1,35 @@
+{
+  "source_id": "P0071",
+  "corpus": "paper",
+  "folder_name": "Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987",
+  "material_type": "技术社会建构（SCOT）奠基文集",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 17, "report_characters": 3253}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.1", "grade": "B", "verification": "V2", "role": "social_construction_of_technology"},
+    {"section_id": "16.6", "grade": "C", "verification": "V2", "role": "seamless_web_infrastructure"},
+    {"section_id": "14.1", "grade": "C", "verification": "V2", "role": "technological_systems_momentum"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Wiebe E. Bijker、Thomas P. Hughes、Trevor Pinch 编，《The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology》（1987，MIT Press；2012纪念版含Deborah G. Douglas序），1984年特文特工作坊成果，SCOT奠基文集",
+    "核心论点：技术非自主力量；技术内容（设计、性能、成败）是社会建构的——由相关社会群体的意义协商建构；研究技术即是研究社会；技术的社会研究可反哺技术本身",
+    "关键概念：无缝之网（seamless web——技术与科学/经济/政治/社会交织）、相关社会群体（relevant social groups）、解释弹性（interpretive flexibility）、闭合/修辞闭合（closure/rhetorical closure）、稳定化（stabilization）、反向突出点（reverse salient）、关键问题（critical problem）、技术风格（technological style）、动量（momentum）、异质工程（heterogeneous engineering）、广义对称（generalized symmetry）、行动者网络（ANT）、技术框架/纳入度（technological frame/inclusion）、技术范式/轨迹、推定异常（presumptive anomaly）、消费结（consumption junction）、默会知识/文化技能",
+    "三大纲领：SCOT（Pinch & Bijker）、LTS大型技术系统（Hughes）、ANT行动者网络（Callon）——三进路合流",
+    "11个深度案例：自行车、电力系统、法国电动车、葡萄牙扩张、合成染料、Bakelite、导弹精度、药物监管、美国家庭烹饪、医学超声、专家系统（AI延伸）",
+    "方法论：案例研究、比较对照（EPOR/SCOT、dc/ac）、理想类型与阶段模型、对称解释、反事实推理；史料含专利判决档案、机构档案、报刊广告、访谈（MacKenzie 75次访谈）",
+    "历史地位：STS'技术转向'里程碑；David Edge命名SCOT；催生MIT Press《Inside Technology》丛书；后续'鸡辩论'、第三次浪潮、后现象学争论的共同参照",
+    "方法论自律：'模型是启发而非模具'；'理论从故事中涌现'",
+    "clean原文为源文件；未完成全篇、版次、数字和引注核验；文集各章命题按'分析报告综合'承担。"
+  ],
+  "original_spot_checks": [
+    "总导言：三进路预告",
+    "Part I：SCOT纲领（解释弹性/闭合）",
+    "Part II：技术框架与纳入度",
+    "Part III：反向突出点与系统动量",
+    "Part IV：AI与知识论延伸"
+  ]
+}

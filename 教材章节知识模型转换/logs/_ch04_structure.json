@@ -2,10 +2,10 @@
  "4.1": {
   "grades": {
    "A": 13,
-   "B": 3,
-   "C": 3
+   "B": 4,
+   "C": 5
   },
-  "count": 19,
+  "count": 22,
   "items": [
    {
     "source_id": "B0008",
@@ -148,6 +148,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "origins_before_1925",
+    "accepted_claim": "Art Deco源头早于1925博览会：埃及热（图坦卡蒙）、古典古风雕塑、古代墨西哥/玛雅、东亚艺术、非洲艺术、前卫艺术；1910s巴黎沙龙与装饰传统为直接前史",
+    "evidence_boundary": "PART 2为多位作者分源论述，各源权重与“前史”定性为编者框架；埃及热等有明确考古事件锚点",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
     "source_id": "B0247",
     "title": "Kallir, Jane：Viennese Design and the Wiener Werkstatte, 1986",
     "grade": "B",
@@ -196,16 +206,36 @@
     "accepted_claim": "“钟摆运动”解释：繁荣→标准化、危机→个体化的周期性摇摆，源于创始纲领内在含混性",
     "evidence_boundary": "Campbell命题（解释框架），仅作语义路由，不作独立证据",
     "status": "CONDITIONAL_PROPOSITION"
+   },
+   {
+    "source_id": "B0073",
+    "title": "Charlotte Benton, Tim Benton：《Art Deco 1910–1939》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "art_nouveau_contrast",
+    "accepted_claim": "与Art Nouveau相比，Art Deco不具艺术救赎信念，而以现代艺术观念“抚平消费者与市场之间的界面”",
+    "evidence_boundary": "对比表述出自编者总论（Ch1），非专章系统比较",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0436",
+    "title": "Victoria Charles：《Art Deco》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "prehistory_evidence",
+    "accepted_claim": "19世纪铸铁建筑（Polonceau、Labrouste、Eiffel）与1889博览会为现代建筑先声；1900新艺术曲线遭1925清算",
+    "evidence_boundary": "以论辩性叙述呈现，非专门前史研究",
+    "status": "CONTEXT_ONLY"
    }
   ]
  },
  "4.2": {
   "grades": {
-   "B": 11,
-   "C": 2,
+   "B": 13,
+   "C": 3,
    "A": 14
   },
-  "count": 27,
+  "count": 30,
   "items": [
    {
     "source_id": "B0158",
@@ -408,6 +438,26 @@
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
    {
+    "source_id": "B0217",
+    "title": "Johannes Itten：《The Art of Color》，1961",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bauhaus_color_vorkurs",
+    "accepted_claim": "包豪斯基础课程（Vorkurs）色彩教学的代表性总结：Itten 1919-1923主持包豪斯基础课程；色彩美学三进路（印象/表现/构造）；客观法则（'马车'）服务于直觉解放（'徒步前行'）——4.2魏玛包豪斯与基础课程（材料实验与教育方法侧，与B0237 Albers构成色彩教学双证）",
+    "evidence_boundary": "作者著作（1961）；包豪斯Vorkurs教学背景",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0237",
+    "title": "Josef Albers：《Interaction of Color》，1963",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bauhaus_color_pedagogy",
+    "accepted_claim": "包豪斯基础课程（Vorkurs）色彩教学的延续与系统化：色彩作为可系统训练的基本能力而非天才专属；'做中学'（杜威影响）与试错法（trial-and-error）取代理论灌输；'色彩是艺术中最具相对性的媒介'——4.2魏玛包豪斯与基础课程（材料实验与教育方法侧）",
+    "evidence_boundary": "作者著作（1963）；26个教学练习",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0269",
     "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
     "grade": "B",
@@ -456,6 +506,16 @@
     "accepted_claim": "俄国Vkhutemas基础部（两年制、三循环）与包豪斯预备课程平行但更长更偏学校化",
     "evidence_boundary": "基础部组织结构为史实；“平行”比较属Wick分析，直接观念交流（Bähr）仅为推测",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0217",
+    "title": "Johannes Itten：《The Art of Color》，1961",
+    "grade": "C",
+    "verification": "V2",
+    "role": "twelve_hue_contrast_system",
+    "accepted_claim": "十二色相环与七种色彩对比（冷暖/明暗/饱和度/补色/同时/色相/面积）：从三原色构建普遍适用的色彩分类坐标；色彩和谐以互补色关系为核心（混合产生中性灰即和谐）——包豪斯色彩教学的体系化工具——4.2魏玛包豪斯与基础课程",
+    "evidence_boundary": "作者著作（1961）；色彩设计理论章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0277",
@@ -1171,11 +1231,11 @@
   "grades": {
    "A": 14,
    "B": 26,
-   "C": 4,
+   "C": 5,
    "D": 1,
    "X": 1
   },
-  "count": 46,
+  "count": 47,
   "items": [
    {
     "source_id": "B0008",
@@ -1586,6 +1646,16 @@
     "accepted_claim": "Behrens自达姆施塔特→杜塞尔多夫→柏林AEG（1907年迁居Neu-Babelsberg）的轨迹及其助手网络的扩散构成设计人才迁徙案例",
     "evidence_boundary": "本书以编年方式覆盖迁徙事实，迁徙主题非其核心议题",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0237",
+    "title": "Josef Albers：《Interaction of Color》，1963",
+    "grade": "C",
+    "verification": "V2",
+    "role": "albers_american_transfer",
+    "accepted_claim": "包豪斯传统的迁徙与转译：Albers从包豪斯经黑山学院到耶鲁——色彩教学法在美国的制度化延续——4.7迁徙、正典与区域转译（人员迁徙侧）",
+    "evidence_boundary": "作者著作（1963）；写作背景",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0247",

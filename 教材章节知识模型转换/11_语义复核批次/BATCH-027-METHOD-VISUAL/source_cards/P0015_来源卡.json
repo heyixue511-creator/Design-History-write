@@ -1,0 +1,36 @@
+{
+  "source_id": "P0015",
+  "corpus": "paper",
+  "folder_name": "Cameron Tonkinwise：《Is Design Finished？ Dematerialisation and Changing Things》，2004",
+  "material_type": "去物质化设计哲学论文（海德格尔本体论）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Cameron Tonkinwise：《Is Design Finished？ Dematerialisation and Changing Things》，2004_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 5111}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.3", "grade": "B", "verification": "V2", "role": "planned_obsolescence_ontology"},
+    {"section_id": "15.5", "grade": "C", "verification": "V2", "role": "pss_product_temporality"},
+    {"section_id": "16.6", "grade": "C", "verification": "V2", "role": "throughput_critique"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Cameron Tonkinwise（悉尼科技大学设计研究主任；负责任设计学会召集人），《Is Design Finished? Dematerialisation and Changing Things》，Design Philosophy Papers 2:3（2004, pp.177-195）；源自2003年巴塞罗那欧洲设计学院大会论文《Interminable Design》的实质性重写版",
+    "核心论点①：不可持续之源是流量（throughput）而非存量——家庭之物以'流量'方式不可持续地流过我们",
+    "核心论点②：对海德格尔的'工具主义'误读无法解释'越非物质越物质化'之悖论；真正解释在于'制造完成之物'之存在论——现代设计之本质是制造完成之物（finishedness），完成性注定物之短命、可弃与可量化",
+    "核心论点③：消费者主义=无法维持事物；计划性报废（planned obsolescence）是'制造完成之物'的存在论后果而非市场失灵——'可处置耐用品'（disposable durables）悖论",
+    "核心论点④：PSS（产品-服务系统）必须处理'物之时间性'——'面向产品的服务'延长使用期，使'再物质化成为去物质化策略'",
+    "核心论点⑤：设计之未来在'未完成之物/连续设计'（continuous design/redesigning），而其本体论（Entwurf蓝图=design的预决定性质）构成根本障碍——'也许该是我们结束设计的时候了'之双关收束",
+    "理论资源：海德格尔《物之理》'数学性'（mathémata）、《论physis》'完成性/动性'（entelecheia/kinesis）、pragmata/chrémata/poioúmena/phusiká物之四范畴、Gegen-Stand/standing-reserve、Comprehensive Guarantee（全面保证）、imperfectionism（不完美主义）",
+    "方法：消费社会学（Shove'活动账户'）溯源至海德格尔现象学根基；34条注释承载版本考辨与延伸论战",
+    "价值：可持续设计/服务设计的哲学基础论证——设计本体论的激进批判",
+    "clean原文为源文件；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L43：流量vs存量",
+    "L95-113：'制造完成之物'存在论",
+    "L127-129：消费者主义与计划性报废",
+    "L137：PSS与再物质化策略",
+    "L165-169：连续设计与'结束设计'双关"
+  ]
+}

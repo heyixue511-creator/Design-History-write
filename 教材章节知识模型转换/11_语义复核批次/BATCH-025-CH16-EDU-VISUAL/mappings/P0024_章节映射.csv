@@ -1,0 +1,3 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0024,14.2,B,V2,gui_visual_communication_principles,GUI视觉传达原则体系：六项原则（统一、对比与和谐、层级与平衡、网格、抽象与文化语境、风格四属性）+八项技术（约简/规则化/对齐/光学调整/重复/选择/精炼/概括）——将印刷媒体视觉传达原则系统迁移到界面设计——14.2图形用户界面与交互范式,书评（ACM SIGCHI Bulletin）；被评书Mullet/Sano 1995,00_整体分析报告（六项原则/八项技术）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0024,16.3,C,V2,bertin_gestalt_semiotics,界面视觉设计的理论三源：Bertin视觉变量、格式塔理论、Peirce符号学——视觉呈现的认知与符号学基础（信息设计谱系）——16.3信息呈现理论侧,书评（ACM SIGCHI Bulletin）；理论资源转述,00_整体分析报告（理论三源）,ACCEPTED_AS_SUPPORTING_SOURCE

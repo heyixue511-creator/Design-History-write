@@ -1,0 +1,37 @@
+{
+  "source_id": "B0246",
+  "corpus": "book",
+  "folder_name": "Kajri Jain：《Gods in the Bazaar The Economies of Indian Calendar Art》",
+  "material_type": "印度日历艺术经济学（视觉文化研究）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Kajri Jain：《Gods in the Bazaar The Economies of Indian Calendar Art》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 10, "report_characters": 8703}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.6", "grade": "B", "verification": "V2", "role": "calendar_art_urban_visual_economy"},
+    {"section_id": "13.5", "grade": "C", "verification": "V2", "role": "vernacularizing_capitalism"},
+    {"section_id": "11.2", "grade": "C", "verification": "V2", "role": "image_social_life_circulation"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Kajri Jain，《Gods in the Bazaar: The Economies of Indian Calendar Art》（2007，Duke University Press，Objects/Histories系列），印度'日历艺术'/'集市艺术'（大规模生产的廉价宗教与世俗印刷图像）研究",
+    "核心概念框架：'资本主义的方言化'（vernacularizing capitalism）——资本主义全球化并非单一模式的同质化过程，而是通过'正式'与'方言'（非正式）经济之间的差异化共存实现；'集市'（bazaar）作为殖民经济产物构成半自主性的方言商业领域",
+    "三重干预：①后殖民主体在资产阶级-自由主义现代性与'方言'话语实践两个认识论断裂但运作互联的世界之间穿行；②集市图像中断现代性'艺术取代神圣'叙事；③批判文化帝国主义论与浪漫化地方抵抗论",
+    "对象中心方法论：以图像作为流转物体的社会生命为线索贯通生产/流通/消费；追踪图像的'职业生涯'（career）；'再生产性模仿'（reproductive mimesis）区别于'生产性'模式——强调重复与流转中的差异性生成",
+    "图像多重身份：商品、礼物、圣像、广告、装饰物——在神圣、商业、伦理、审美、力比多经济之间流转",
+    "效力理论：'三角化凝视'结构——观看者意识到其他人在看同一图像或想象先验凝视（神祇认可/公众目光）——'功效的美学'（aesthetics of presence）与大众媒介'元流行'逻辑相联系",
+    "审美现代性的认识论断裂：后启蒙审美价值体系（艺术自主性/原创性/趣味判断）在印度后殖民语境遭遇根本性挑战；日历产业从业者'他们说自己在画现实主义'的矛盾话语",
+    "结构：谱系学（1-3章：Sivakasi印刷业→殖民集市→自然主义与身份建构）→经济（4-5章：审美价值话语/道德经济）→效力（6-7章：公共领域效力/肌肉化罗摩个案）",
+    "材料：1994-2001年民族志访谈（艺术家/出版商/印刷商）、156幅图像、南亚经济史二次文献（Bayly等）",
+    "限度：聚焦印度语境；理论密度高、经验细节平衡性见仁见智",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：'the vernacularization of capitalism'",
+    "第1章：Sivakasi印刷产业网络",
+    "第4章：'他们说自己在画现实主义'矛盾话语",
+    "第5章：图像流通的道德经济",
+    "第7章：肌肉化罗摩与象征变革"
+  ]
+}

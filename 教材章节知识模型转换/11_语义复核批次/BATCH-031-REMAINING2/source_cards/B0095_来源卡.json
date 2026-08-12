@@ -1,0 +1,31 @@
+{
+  "source_id": "B0095",
+  "corpus": "book",
+  "folder_name": "Dabrowski, Magdalena (ed.)：Revolution：Russian Avant-Garde, 1912-1930, 1978",
+  "material_type": "MoMA馆刊展览文章（非独立专著）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Dabrowski, Magdalena (ed.)：Revolution：Russian Avant-Garde, 1912-1930, 1978_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 16, "report_characters": 191242}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "3.4", "grade": "C", "verification": "V2", "role": "soviet_avantgarde_exhibition_survey"},
+    {"section_id": "3.7", "grade": "C", "verification": "V2", "role": "barr_moma_transnational_collection"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Magdalena Dabrowski（时任MoMA绘画部策展助理），《Revolution: Russian Avant-Garde, 1912-1930》，The Museum of Modern Art Bulletin No.8（Autumn 1978），JSTOR稳定链接 http://www.jstor.org/stable/4380770——1978年10月12日至1979年1月2日MoMA Sachs Galleries跨年大展的馆刊文章（展览公告/宣传性与学术性兼具），并非严格意义上的学术专著",
+    "核心叙事：俄罗斯先锋派从具象绘画到非具象抽象、从二维平面到三维'构成'（construction）的演进——Cubo-Futurism（立体未来主义）→ Suprematism（至上主义）→ Constructivism（构成主义）三线串联",
+    "关键内容：①MoMA馆藏俄罗斯先锋派来源与构成——创始馆长Alfred H. Barr, Jr. 1928年苏联之行的奠基性作用，Lauder Foundation近期捐赠两幅塔特林水彩画（当时西方公共收藏中仅有的塔特林原作）；②马列维奇/至上主义线——1913年《黑方块》到《白上白》的绝对纯粹绘画理想；③塔特林/罗德琴科/利西茨基/构成主义线——1914年《反浮雕研究》→1915年首次抽象空间构成展览→1919-1920年构成主义正式形成→与工业化大批量生产结合→1920年代后期失势（列宁视其为'幼稚的左倾主义'，艺术家或流亡德国或在国内隐没）；④隐蔽学术判断：俄国小型先锋派群体对西方现代主义（马蒂斯/毕加索）的了解甚至超过许多巴黎同行——俄罗斯先锋派是'对话者与超越者'而非'边缘接受者'",
+    "等级限制：展览公告/馆刊文章体裁，按纪律限C级（B级上限）",
+    "OCR质量：原文存在大量字符残缺（'xhib-tion'/'col-ection'/'Rus-ia'等），引用时须回原刊",
+    "clean原文存在；未完成全篇、图版和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Barr 1928年苏联之行的收藏谱系",
+    "马列维奇1913《黑方块》→《白上白》",
+    "塔特林1914《反浮雕研究》→构成主义形成1920",
+    "列宁'幼稚的左倾主义'评价",
+    "俄罗斯先锋派'对话者与超越者'判断"
+  ]
+}

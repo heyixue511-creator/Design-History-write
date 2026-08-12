@@ -3,10 +3,10 @@
   "grades": {
    "B": 4,
    "A": 4,
-   "C": 8,
+   "C": 9,
    "D": 1
   },
-  "count": 17,
+  "count": 18,
   "items": [
    {
     "source_id": "B0022",
@@ -87,6 +87,16 @@
     "accepted_claim": "1910年前后新艺术的商品化、退出与多条后继路径可作为装饰艺术前史问题",
     "evidence_boundary": "风格缺席不等于生产停止，不能建立新艺术自动进化为Art Deco的单线",
     "status": "ACCEPTED_AS_TRANSITION_CONTEXT"
+   },
+   {
+    "source_id": "B0004",
+    "title": "Adam, Peter：Eileen Gray：Architect, Designer, 1987",
+    "grade": "C",
+    "verification": "V2",
+    "role": "gray_lacquer_artdeco",
+    "accepted_claim": "装饰艺术侧：格雷一战前后在巴黎以漆艺成名（Rue de Lota公寓室内1919、'棕榈木椅'等漆艺家具）——奢华手工/现代性/装饰艺术语境",
+    "evidence_boundary": "5.1 装饰艺术与1925年巴黎博览会（家具/漆艺侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0022",
@@ -1262,11 +1272,32 @@
  },
  "5.7": {
   "grades": {
-   "B": 10,
-   "C": 1
+   "B": 11,
+   "C": 1,
+   "A": 2
   },
-  "count": 11,
+  "count": 14,
   "items": [
+   {
+    "source_id": "B0431",
+    "title": "Vance Packard：《The Waste Makers》，1960",
+    "grade": "A",
+    "verification": "V2",
+    "role": "packard_critique_original",
+    "accepted_claim": "帕卡德《The Waste Makers》(1960)为商业设计伦理批判原典：计划报废的系统揭露——5.7批判原典补证（P0缺口闭合）",
+    "evidence_boundary": "批判原典为P1调查著作；'反消费主义'立场为作者观点，引用须标注",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0434",
+    "title": "Victor Papanek：《Design for the Real World Human Ecology and Social Change》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "papanek_original",
+    "accepted_claim": "帕帕奈克《Design for the Real World》(1971)为商业设计伦理批判原典：设计必须为真实需要而非市场服务——5.7批判原典补证（P0缺口闭合）",
+    "evidence_boundary": "原典为P0行动者文本；'为市场服务即不道德'的判断为作者立场",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
    {
     "source_id": "B0066",
     "title": "Carroll Gantz：《Founders of American Industrial Design》，2014",
@@ -1366,6 +1397,16 @@
     "accepted_claim": "对设计师明星化与消费主义合谋持保留：引Foster《Design and Crime》批判，承认塑料等新材料“解放与浪费”并存",
     "evidence_boundary": "批判性综述，属通史解释框架而非档案证据",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0473",
+    "title": "周博：《现代设计伦理思想史》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "papanek_lineage_chinese_account",
+    "accepted_claim": "帕帕奈克设计伦理思想的中国学术梳理：设计本质论、社会利益、责任伦理与\"人道的设计思想传统\"——5.7批判原典的中文谱系侧证据",
+    "evidence_boundary": "二手思想史（依托西方文献）；Papanek/Packard原典未入（P0缺口），本书不作原典替代",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0186",

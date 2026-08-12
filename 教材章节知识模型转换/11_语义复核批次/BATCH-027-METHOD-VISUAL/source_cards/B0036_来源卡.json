@@ -1,0 +1,34 @@
+{
+  "source_id": "B0036",
+  "corpus": "book",
+  "folder_name": "Attfield：《A View from the interior feminism, women, and design》",
+  "material_type": "女性主义设计史奠基文集",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Attfield：《A View from the interior feminism, women, and design》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 17, "report_characters": 15963}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.6", "grade": "B", "verification": "V2", "role": "feminist_design_history"},
+    {"section_id": "12.6", "grade": "C", "verification": "V2", "role": "women_designers_producers_consumers"},
+    {"section_id": "2.3", "grade": "C", "verification": "V2", "role": "arts_crafts_gender_division"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Judy Attfield & Pat Kirkham 编，《A View from the Interior: Feminism, Women and Design》（1989，The Women's Press, London，15章+引言+附录）——设计史领域最早以女性主义视角系统审视女性与设计关系的学术文集之一",
+    "核心论点：设计并非性别中立的审美活动，而是深刻嵌入社会性别关系的文化实践——父权制通过设计中的性别分工、将女性限制在特定'适合'领域、贬低女性的工艺与消费实践，系统性地边缘化了女性在设计历史中的位置",
+    "方法论立场：女性主义设计史的目的不仅是'把女性加进历史'，更是要从根本上改变设计史的问题框架与认识论基础——'transform familiar terrain into an unexplored world'",
+    "结构四部：差异的图像（高跟鞋/棉纺贸易女性图像/男性时装/公共住房）→作为设计师的女性（Marion Dorn纺织品/Cooper与Taplin陶瓷对比/女性建筑师）→设计生产中的女性（家具制造'如果你没有儿子'/家庭电气化WES与EAW/工艺美术运动性别分工/两战手工艺复兴）→属于她们自己的空间（住房内部/1950s'设计师主妇'/Harlow新城口述史）",
+    "关键概念：性别分工（sexual division of labour——男性设计者vs女性执行者，既有意识形态基础也有经济基础）、阶级与性别交叉（Cooper中产自创公司 vs Taplin工人阶级受限表面装饰）、反规训文化生产（'不恰当'使用商品——用电火炉展示家庭照片）",
+    "经典章节：Callen工艺美术运动性别分工（第10章）、Walker工艺美术运动女性参与数据（第11章——1910年女性参与者接近半数、女性设计师增五倍）、Attfield Harlow新城口述史（第15章——挂网帘/重新封闭空间/传统家具——'房子'转化为'家'）",
+    "案例：细高跟鞋（1947'新风貌'→1957金属芯塑料跟——从'女性特质'到反叛自主）、兰开夏棉纺贸易（殖民主义与父权制交织）、女性建筑师（Ethel Charles入RIBA遭抵制1928年Elisabeth Scott竞赛）",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验；文集各章命题按'分析报告综合'承担。"
+  ],
+  "original_spot_checks": [
+    "引言：'transform familiar terrain into an unexplored world'",
+    "第10章：Callen工艺美术运动性别分工",
+    "第11章：Walker女性参与数据",
+    "第14章：1950s设计师主妇与反规训",
+    "第15章：Harlow新城口述史"
+  ]
+}

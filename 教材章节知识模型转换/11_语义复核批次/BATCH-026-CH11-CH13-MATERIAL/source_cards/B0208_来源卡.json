@@ -1,0 +1,36 @@
+{
+  "source_id": "B0208",
+  "corpus": "book",
+  "folder_name": "Jenny L. Davis：《How Artifacts Afford The Power and Politics of Everyday Things》",
+  "material_type": "可供性政治理论著作（机制与条件框架）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jenny L. Davis：《How Artifacts Afford The Power and Politics of Everyday Things》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 13943}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "mechanisms_conditions_framework"},
+    {"section_id": "16.5", "grade": "C", "verification": "V2", "role": "asymmetric_co_constitution"},
+    {"section_id": "15.4", "grade": "C", "verification": "V2", "role": "politics_of_affordances"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jenny L. Davis（澳大利亚国立大学），《How Artifacts Afford: The Power and Politics of Everyday Things》（2020，MIT Press，Design Thinking/Design Theory系列第24部，7章约200余页）",
+    "核心定位：为可供性概念提供兼具理论精度与操作便利性的'机制与条件框架'——将传统分析出发点从'What does this object afford?'转变为'How does this object afford, for whom, and under what circumstances?'",
+    "六重机制（Mechanisms）：request/demand/encourage/discourage/refuse/allow——'The rope asks, the wood tells, and the electricity insists.'",
+    "三重条件（Conditions）：感知（perception）、灵巧度（dexterity）、文化与制度合法性（cultural and institutional legitimacy）——'what an object demands of me may be only a request for you'",
+    "核心论题：①可供性是程度性的而非二元性的（what→how）；②可供性是情境性的而非普适性的（for whom/under what circumstances）；③技术与人是非对称性共构——技术具有效力（efficacy）但只有人类具有能动性（agency），问责始终归于人类（承Schraube'技术作为物化行动'）；④技术具有政治性——'if left unchecked, technologies will arc toward privilege and normality'（接续Winner'人造物有政治吗？'追问）",
+    "概念史：Gibson（1966）→Norman（1988）→当代跨学科应用——'需要的不是更多的理论而是更聪明的理论'（not more theory but smarter theory）",
+    "案例：购物车/硬币锁、Robert Moses低悬桥梁、Facebook实名政策与性别分类、Twitter字符限制、Imgur投票机制、反性侵App数据集（215款App/807项特征）、Eugene警察隔离带事件",
+    "方法论对接：批判性技术文化话语分析（CTDA）、漫游法（Walkthrough Method）、App特征分析、价值反思、对抗性设计五种方法——'ambiguity is a feature, not a bug'",
+    "价值：当代可供性理论最系统的操作性框架——对界面权力/算法政治分析有直接工具价值",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch.2：可供性概念史（Gibson→Norman）",
+    "Ch.4：六重机制（L546'绳索请求，木头告知，电力坚持'）",
+    "Ch.5：三重条件（L706）",
+    "Ch.3：非对称共构（L456）",
+    "Ch.1：'技术将趋向特权与常态'（L300）"
+  ]
+}

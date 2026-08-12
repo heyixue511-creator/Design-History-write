@@ -1,0 +1,33 @@
+{
+  "source_id": "P0011",
+  "corpus": "paper",
+  "folder_name": "Buchanan, Richard：Design Research and the New Learning, 2001",
+  "material_type": "设计研究纲领论文（四秩序框架）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Buchanan, Richard：Design Research and the New Learning, 2001_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 5118}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_research_program"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "formal_definition_design"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "integrative_design_knowledge"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Richard Buchanan（时任卡内基梅隆大学设计学院院长），《Design Research and the New Learning》，Design Issues 17(4)（Autumn 2001, pp.3-23，MIT Press）；源自1999年3月伦敦设计委员会'Researching Design: Designing Research'会议主旨演讲（Jonathan Woodham主持）",
+    "切入：设计研究项目的价值、性质、制度框架与研究者四重不确定性",
+    "八节结构：①以怀特利《两门新科学》（以威尼斯的兵工厂设计讨论开篇）与培根'大复兴'（本质是设计工程）重述设计研究的起源；②论证设计自文艺复兴以来被大学排斥（被贬为'奴仆性活动'），而在知识碎片化的当代——'曾经的新学问如今成了旧学问，曾经的旧学问如今成了新学问'——设计成为当代新学问，指向珍视理论、实践与生产平衡的新大学；③提出设计的正式定义——'设计是构想、规划与制作产品的、服务于人完成其个体与集体目的的人之活动'（亚里士多德四因解析）；④提出'四秩序'框架（符号/物/行动/思想→图形/工业/交互/环境设计），论证产品概念从'物'扩展至行动、经验、服务、系统；⑤转向内部视角，把产品价值重释为'有用、可用、合意'（useful/usable/desirable），讨论设计知识的情境化与整合性；⑥梳理临床/应用/基础三类研究类型；⑦以NSF TQO项目为个案示范应用设计研究（顾客价值质量、用户体验、社会-设计鸿沟）；⑧展望设计博士教育与国际会议——'培养理解设计遗产、迎接新学问挑战的新一代学生'",
+    "核心概念：four orders of design、new learning/old learning、paleoteric/neoteric、descriptive/formal definition、Aristotelian causes、useful/usable/desirable、human affordances、product voice、ethos、clinical/applied/basic research、customer-valued quality、user experience",
+    "核心论点：①设计研究有怀特利与培根的古老上源，且是当代'新学问'；②设计知识是'进入他域、携成果返回'的整合性原理，不可还原为任何既有学科；③产品概念正经历革命性扩展（四秩序）；④设计研究分临床/应用/基础三类，基础研究最困难也最关乎领域未来；⑤设计研究的制度化（博士教育、新大学）是领域未来方向",
+    "影响：设计研究纲领性文献——与Buchanan《Wicked Problems in Design Thinking》（1992）、《Declaration by Design》（1985）构成设计理论三部曲",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L16-77：设计研究起源与新旧学问翻转",
+    "L108：设计的正式定义",
+    "L125-160：四秩序框架",
+    "L174：有用/可用/合意",
+    "L246-287：临床/应用/基础三类研究"
+  ]
+}

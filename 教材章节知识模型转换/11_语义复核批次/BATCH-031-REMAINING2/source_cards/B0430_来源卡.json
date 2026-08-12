@@ -1,0 +1,34 @@
+{
+  "source_id": "B0430",
+  "corpus": "book",
+  "folder_name": "Vance Packard：《The Hidden Persuaders》，1957",
+  "material_type": "消费社会批判经典（深层说服/动机研究）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Vance Packard：《The Hidden Persuaders》，1957_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 31, "report_characters": 115750}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.1", "grade": "B", "verification": "V2", "role": "hidden_persuaders_depth_approach"},
+    {"section_id": "9.1", "grade": "C", "verification": "V2", "role": "psychological_obsolescence"},
+    {"section_id": "13.2", "grade": "C", "verification": "V2", "role": "brand_personality_manipulation"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Vance Packard（1914-1996），《The Hidden Persuaders》（1957，David McKay；本分析版本为2007年Ig Publishing重版，含Mark Crispin Miller导言；clean版3284行）——以记者调查笔法揭示1950年代美国营销界如何借助精神分析与社会科学在消费者与公民的无意识层面进行'深层说服'",
+    "结构：导言+23章三大部分——说服我们作为消费者（Ch1-16）/说服我们作为公民（Ch17-21）/回顾（Ch22-23）——第1章界定'深层接触法'（depth approach），第2章论证'人的非理性'前提，第3-4章介绍动机研究（M.R.）产业与探测技术，第5-16章按动机类型展示应用（形象工程/情感操纵/八大需求/性与口唇/超市冲动购买/社会阶层/地位符号/产品厌恶/信息误读/儿童/新顾客开拓），第17-21章转向政治/企业人事/公关筹款/乐观工程/未来图景，第22-23章审查M.R.的有效性与道德，以'心灵隐私权'作结",
+    "核心论点：存在一个'深层说服'产业，用无意识层面的符号与心理操纵引导我们的消费、投票与思维，其扩张威胁理性自我与民主生活（L272-285/L309-311/L2360-2361）",
+    "关键概念：Motivation Research（动机研究，L502-503）、depth approach（深层接触法）、subconscious（潜意识，L498-502）、image/brand personality（形象/品牌个性，L758-770）、psychological obsolescence（心理性废弃，L470）、status symbol（地位符号，L1744）、other-directedness（他人导向，L2251）、social engineering（社会工程，L2620-2623）、psychological marketing（心理营销，L2883）、recognition reflex（识别反射，L3273）、right to privacy of mind（心灵隐私权，L3283-3284）",
+    "历史地位：消费社会批判的经典文本——1950年代广告心理学'深度说服'产业的首次系统揭露；与Veblen《有闲阶级论》、Galbraith《丰裕社会》构成消费批判谱系；对广告业自我反思与消费者保护运动有直接影响",
+    "限度：记者调查笔法（非学术研究）、案例依赖行业自述与转引、对M.R.有效性的评价存在夸张倾向（作者自己在Ch22-23也审查了有效性与道德）",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L272-285：深层说服产业与核心论点",
+    "L502-503：动机研究定义",
+    "L758-770：形象/品牌个性",
+    "L470：心理性废弃",
+    "L1744：地位符号",
+    "L3283-3284：心灵隐私权"
+  ]
+}

@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0018,14.6,B,V2,design_system_definition,设计系统是'一套互联的模式和共享实践，被有机组织以服务于数字产品的目的'：功能性模式（界面模块）+感知性模式（品牌美学）双维度；'模式演化，行为长存'——设计系统不仅是模式库而是组织化的整体——14.6设计系统与平台规模化,作者实用指南（2017）；FutureLearn/Airbnb/TED案例,00_整体分析报告（定义与核心维度）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0018,14.6,C,V2,system_parameters_conway,系统参数三维度（规则严格程度/部件模块化程度/组织集中化程度）+康威定律（组织沟通结构制约设计系统形态）：Airbnb严格集中 vs TED松散分散两极案例——组织协同与平台规则的互动——14.6设计系统与平台规模化,作者实用指南（2017）；第6章,00_整体分析报告（系统参数）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0018,14.2,C,V2,pattern_language_origin,设计模式概念起源追溯至Christopher Alexander建筑模式语言；共享语言（命名模式基于隐喻/个性/目的、协作命名）作为界面范式沟通基础——14.2图形用户界面与交互范式,作者实用指南（2017）；第1/5章,00_整体分析报告（模式起源/共享语言）,ACCEPTED_AS_SUPPORTING_SOURCE

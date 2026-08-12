@@ -1,0 +1,37 @@
+{
+  "source_id": "B0117",
+  "corpus": "book",
+  "folder_name": "Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma",
+  "material_type": "移动交互设计模式语言参考书",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 15, "report_characters": 12183}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.4", "grade": "B", "verification": "V2", "role": "mobile_pattern_language"},
+    {"section_id": "14.2", "grade": "C", "verification": "V2", "role": "norman_model_patterns"},
+    {"section_id": "14.6", "grade": "C", "verification": "V2", "role": "pattern_format_antipatterns"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Steven Hoober & Eric Berkman，《Designing Mobile Interfaces: Patterns for Interaction》（2011年11月第一版，O'Reilly Media，约545页），移动交互设计模式语言参考书",
+    "76个跨平台、跨操作系统的移动交互设计模式——基于数十款设备（智能手机/功能手机/平板/电子阅读器/GPS/游戏机/自助终端）的实地调查与用户观察",
+    "方法论基础：Christopher Alexander建筑模式语言 + Donald Norman交互模型 + 格式塔心理学",
+    "'移动'重新定义：从物理属性变为交互属性（小、便携、连网、可交互、情境感知）——墙上固定的iPad被移除'便携性'仍是移动设备；Wii/Kinect因位置感知与输入适应亦符合——为模式跨设备通用性提供理论合法性",
+    "历史连续性论证：许多'全新'最佳实践只是10年前PDA/功能手机上已有设计的小幅改进——模式语言是对交互设计积累性知识的去碎片化与再系统化",
+    "最佳实践vs通用实践分野：模式必须同时是'最佳实践'且'足够常见'（'only real-world items are patterns'）；反模式（antipattern）以警告形式收录",
+    "模式不是模板（Stencil）：模式是'well-defined, well-researched best practices'，是设计对话的起点而非终点；六项补充策略（验证练习/工作室方法/质疑每个想法/拥抱约束/协作/外部意见）",
+    "模式六段式统一格式：Problem/Solution/Variations/Interaction Details/Presentation Details/Antipatterns；按'页面-组件-输入输出'三大板块组织（13章）",
+    "移动设计八项原则：尊重用户输入数据、移动设备个人化、生活优先于设备、适应一切使用情境、善用传感器与智能、用户任务优先、确保一致性、尊重信息",
+    "附录：移动无线电话与定位技术导论、设计模板与UI指南、移动排版学、人因工程（Fitts定律等）",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第1章：页面构图与Wrapper概念",
+    "第4章：Norman交互模型四子原则",
+    "第5章：Lynch导路理论借鉴",
+    "L2：最佳实践vs通用实践分野",
+    "L3：模式不是模板"
+  ]
+}

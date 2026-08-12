@@ -1,0 +1,36 @@
+{
+  "source_id": "B0237",
+  "corpus": "book",
+  "folder_name": "Josef Albers：《Interaction of Color》，1963",
+  "material_type": "色彩理论经典（包豪斯色彩教学传统）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Josef Albers：《Interaction of Color》，1963_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 13, "report_characters": 3353}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "4.2", "grade": "B", "verification": "V2", "role": "bauhaus_color_pedagogy"},
+    {"section_id": "4.7", "grade": "C", "verification": "V2", "role": "albers_american_transfer"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "experimental_teaching_paradigm"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Josef Albers（1888-1976），《Interaction of Color》（1963，耶鲁大学出版社），阿尔伯斯数十年色彩教学的结晶；包豪斯教师→黑山学院→耶鲁",
+    "核心命题：'色彩是艺术中最具相对性的媒介'（Color is the most relative medium in art）——色彩的意义取决于语境和关系，而非孤立属性；'我们几乎从未看到色彩的物理真实'",
+    "方法论：以实验性工作室/实验室方法取代传统色彩理论讲授——直接操作色彩纸材进行试错学习（trial-and-error），而非机械套用色彩体系或和谐规则",
+    "知识语境：①包豪斯基础课程（Vorkurs）理念——色彩作为可系统训练的基本能力而非天才专属；②格式塔心理学——感知整体性（'词图'vs单个字母）；③杜威'做中学'——理论跟随实践；④反体系立场——互补色/三和弦等'拇指规则'已'过时'；⑤韦伯-费希纳定律/残像/加色减色混合——艺术家实践视角统摄科学",
+    "结构：26个核心论题/练习（I-XXVI）螺旋递进——明度辨别→一色显二面→异色显同面→残像与同时对比→透明性幻象→空间幻象→贝措尔德效应→中间混合→和谐与数量→膜状色与体积色→大师研究→色温→振动边界→等光强度",
+    "关键术语：Interaction、factual fact（物理事实）vs actual fact（感知事实）、light intensity/color intensity、film color/volume color、psychological engineering、thinking in situations（'在情境中思考'）",
+    "教学法特征：试错法、比较法（'forth and back'）、限制与聚焦（色纸排除技法干扰/条纹排除形状干扰）、反向教学（展示错误案例）、'好的教学是提出正确问题而非给出正确答案'、'所有真正的学习都是自学'",
+    "历史地位：色彩教育范式转换（理论灌输→实验发现）；超越康定斯基/伊顿的色彩体系化；方法论（限制变量/试错/比较评价）对设计教育有跨学科启示",
+    "限度：过度依赖色纸媒介（扁平/不透明/无肌理）；对色彩系统拒斥可能导致学生对色彩理论史的忽视",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第四章：'色彩是艺术中最具相对性的媒介'",
+    "第一章：视觉记忆不可靠与色彩命名匮乏",
+    "第三章：色纸方法论",
+    "XXIV-XXVI：色彩系统评述与教学法总结",
+    "历史影响：色彩教育范式转换"
+  ]
+}

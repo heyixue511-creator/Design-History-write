@@ -1,0 +1,37 @@
+{
+  "source_id": "B0353",
+  "corpus": "book",
+  "folder_name": "Pierre Bourdieu：《Distinction A Social Critique of the Judgement of Taste》，1979",
+  "material_type": "文化社会学奠基巨著（趣味/区隔）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Pierre Bourdieu：《Distinction A Social Critique of the Judgement of Taste》，1979_clean.md",
+  "duplicate_group": "无精确哈希重复（与B0352为不同版本条目）",
+  "files": [{"report_file_count": 16, "report_characters": 3513}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.1", "grade": "B", "verification": "V2", "role": "taste_as_social_distinction"},
+    {"section_id": "13.2", "grade": "B", "verification": "V2", "role": "distinction_symbolic_domination"},
+    {"section_id": "2.4", "grade": "C", "verification": "V2", "role": "taste_mechanism_consumption"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Pierre Bourdieu，《La Distinction: Critique sociale du jugement》（1979法文原版；英译本1984，Harvard University Press/Routledge，译Richard Nice），文化社会学奠基巨著",
+    "研究基础：1963年（692人）与1967-68年（1217人）两次问卷调查，辅以访谈与观察——法国1960年代社会",
+    "核心命题一：趣味即社会区隔——审美判断是社会位置的外显符号，品味将阶级区分内在化并自然化为'天性'",
+    "核心命题二：习性（habitus）作为生成原则——由社会条件内在化而成的持久性情系统，生成生活风格、身体姿态与判断力",
+    "核心命题三：资本结构决定位置——社会空间由资本总量与资本结构（经济资本/文化资本）二维构成",
+    "关键概念：habitus、cultural capital、economic capital、social space、field（场域）、distinction（区分）、taste（趣味）、aesthetic disposition（审美禀性）、legitimate culture（合法文化）、cultural goodwill（文化善意）、taste for necessity（必然性的趣味）、allodoxia（错觉误认）",
+    "结构：文化贵族制（合法趣味的体制化与'纯粹注视'意识形态）→社会空间理论→习性与生活方式空间→场域动力学→支配阶级内部区分（经济资本vs文化资本）→小资产阶级文化善意→工人阶级'必然性的趣味'→文化与政治→分类斗争结论→对康德'纯粹'美学的'粗俗'社会学批判",
+    "方法：问卷调查、对应分析（correspondence analysis，支配阶级467人因子分析）、访谈原话、17个正文表格+附录数据",
+    "影响：开创'文化社会学''符号支配''趣味社会学'纲领；深刻影响消费研究、文化研究与设计史的'品位/地位消费'议题",
+    "限度：以法国1960年代为样本（时空适用性有限）；'趣味'的阶级还原主义倾向受后续消费社会学批评；OCR缺字",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L37-48：趣味即社会区隔",
+    "L1445：习性定义",
+    "L996-1076：资本结构与社会空间",
+    "L2987：文化善意",
+    "L4697-4703：对康德美学的社会学批判"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "B0221",
+  "corpus": "book",
+  "folder_name": "John Clifford：《Graphic Icons Visionaries Who Shaped Modern Graphic Design》，2014",
+  "material_type": "平面设计人物史入门书（Graphic Icons）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John Clifford：《Graphic Icons Visionaries Who Shaped Modern Graphic Design》，2014.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 14347}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "graphic_icons_person_history"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "influence_generational_transmission"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "John Clifford（纽约Think Studio创意总监/负责人，Parsons School of Design讲师，1990年代加州工艺美术学院——后更名California College of the Arts——设计专业学生），《Graphic Icons: Visionaries Who Shaped Modern Graphic Design》（2014，Peachpit Press/Pearson Education，约240页；ISBN 978-0-321-88720-7；封面与内页设计Think Studio）",
+    "定位：以人物而非运动或主题为线索的20世纪平面设计史入门读物（primer/速查/灵感三关键词）——作者在序言中明确声明：'Ultimately, Graphic Icons is a very personal list. These are the people who have influenced me and my work.'（归根结底这是一份非常个人化的名单）——这种个人化定位具有双重意义：一方面区别于Meggs' History of Graphic Design那样的学院派权威通史；另一方面赋予本书类似'推荐书单'的亲和力——作者以实践者身份而非史学家身份（'I'm a practicing designer, not a historian'）向学生和同行推荐'我的英雄们'",
+    "结构：四段分期（松散的年代分界，每期以简短的历史/社会/技术背景引言开篇，然后按设计师逐一展开）——①Early Modern（约1900-1930年代：简约遇上先锋派——从Plakatstil到包豪斯）；②Midcentury Modern（约1930-1970年代：现代主义传入美国——欧洲移民重塑美国商业设计）；③Late Modern/Postmodern（约1960-1990年代：变革催生新表达形式——规则松动、个人表达复兴）；④Digital Era（约1984年至今：计算机改变一切——从Macintosh到交互设计）",
+    "微观结构：每位设计师的章节遵循固定模板——首部信息（生卒年/出生地/教育背景）、关键成就（Key Achievements：3-5条核心贡献要点）、正文（约400-800字人物小传，涵盖关键作品/师承关系/职业生涯转折）、边栏元素（READ推荐阅读/SEE推荐参观查看/DO设计练习/GET TO KNOW了解更多/WATCH推荐观看/DOWNLOAD推荐下载）、引文（设计师本人的标志性语录）、作品图版（大幅彩色插图配图说）——这种'标准化卡片'式结构是本书最显著的形式特征——每位设计师获得的篇幅接近均等，营造出一种'民主化'的呈现方式",
+    "收录设计师：以独立章节呈现的核心人物约48位（含设计组合如Chermayeff & Geismar、VanderLans & Licko、Stenberg Brothers；按人头计约51人）；连同Preface/Introduction中的前现代先驱及边栏提及者，人物实体合计约56人",
+    "核心论题：人格化的设计史——本书最根本的论题隐含在副标题'Visionaries Who Shaped Modern Graphic Design'中——'个体塑造历史'；作者在序言中写道：'This book is about people, not about themes or movements.'（这本书是关于人的，不是关于主题或运动的）——这构成了本书的根本方法论立场：通过人物故事而非流派演变来讲授设计史",
+    "'影响'的代际传递机制：贯穿全书的一个深层叙事是影响（influence）的代际传递——作者反复强调师承关系、阅读影响、移民效应：①学生受教于名师（Lester Beall→Yale学生→下一代设计师）；②移民携带思想跨越国界（Bauhaus→美国；欧洲→美国）；③书籍作为跨时空影响媒介（Rand的《Thoughts on Design》→John Maeda的职业转折）",
+    "实践本位的史观：作者拒绝宏大叙事的风格分期（'I didn't want to label them under any one movement or style'），而以设计师的职业生年作为叙述单位——这源于作者作为实践者的身份认同——他关心的不是'这是什么主义'，而是'我能从这个人身上学到什么'",
+    "隐含的价值判断：尽管作者声称是个人化选择，但其选择标准隐含着对以下品质的推崇：①简约（从Lucian Bernhard的'object poster'到Josef Müller-Brockmann的网格系统）",
+    "限度：入门读物性质（非学术通史）；个人化选择（'非常个人化的名单'）；以实践者视角为主——作为史料价值有限但作为设计教育/灵感资源有普及价值",
+    "clean原文存在（547833字节大文件）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "序言：'This book is about people, not about themes or movements'",
+    "四段分期结构（Early Modern→Digital Era）",
+    "标准化卡片式章节模板（READ/SEE/DO边栏）",
+    "'影响'代际传递机制（师承/移民/书籍）",
+    "48位核心设计师收录（含Chermayeff & Geismar等组合）"
+  ]
+}

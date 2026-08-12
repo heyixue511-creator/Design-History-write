@@ -1,0 +1,37 @@
+{
+  "source_id": "P0043",
+  "corpus": "paper",
+  "folder_name": "Lucy Kimbell：《Rethinking Design Thinking： Part I》，2011",
+  "material_type": "设计思维批判性重估论文",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Lucy Kimbell：《Rethinking Design Thinking： Part I》，2011_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 5735}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.5", "grade": "B", "verification": "V2", "role": "design_thinking_triple_critique"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "managerial_appropriation"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "design_thinking_genealogy_critique"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Lucy Kimbell（牛津Saïd商学院副研究员/Fieldstudio咨询总监），《Rethinking Design Thinking: Part I》，Design and Culture 3(3): 285-306（2011）",
+    "核心命题：design thinking 不是一个自足、普遍的认知风格，而是被管理话语挪用、未充分理论化且内含三重缺陷的概念；应以实践理论（theories of practice）重新理解设计",
+    "三重批评：①思维/行动二元论——把'思考'与'做'、设计师与其设计所处世界割裂；②多样性缺失——忽视不同设计专业与制度的历史性差异，强行概括统一的设计思维；③设计师中心论——即便标榜'以用户为中心'，仍把设计师预设为设计的主要行动者",
+    "替代框架：把设计理解为由专业设计师及与设计活动相关者承载的、情境化（situated）与偶然性（contingent）的实践集合",
+    "学术谱系梳理：1960年代设计方法运动→Rowe《Design Thinking》（1987）→Cross/Schön/Lawson/Dorst设计师认知研究→Buchanan（1992）'一般设计理论'转向",
+    "管理化挪用批判：Brown（IDEO）与Martin（Rotman）为代表的管理话语把design thinking去政治化（de-politicizing），变成组织创新资源",
+    "三种叙述并置（Table 1）：作为认知风格、作为一般设计理论、作为组织资源",
+    "宏观背景：'设计师作为文化阐释者'、创意阶级（Florida）与资本主义新精神（Boltanski & Chiapello）、符号经济",
+    "回应Nussbaum（2011）'设计思维是失败实验'之论：design thinking虽未充分理论化，但设计师实践仍在构成当代世界",
+    "影响：设计思维批判文献的纲领性文本；与Part II（Kimbell 2012）及P0042构成姊妹篇",
+    "clean原文为源文件；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L38-52：摘要与替代框架",
+    "L68-98：学术谱系梳理",
+    "L100-121：管理化挪用批判",
+    "L133-136：三种叙述并置",
+    "L157：三重批评重申"
+  ]
+}

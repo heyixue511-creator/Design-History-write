@@ -1,0 +1,34 @@
+{
+  "source_id": "B0355",
+  "corpus": "book",
+  "folder_name": "R. Roger Remington：《American modernism graphic design, 1920 to 1960》",
+  "material_type": "美国现代主义平面设计史",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\R. Roger Remington：《American modernism graphic design, 1920 to 1960》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 13, "report_characters": 4311}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.1", "grade": "B", "verification": "V2", "role": "american_modernism_principles"},
+    {"section_id": "9.5", "grade": "C", "verification": "V2", "role": "corporate_clients_landing"},
+    {"section_id": "9.6", "grade": "C", "verification": "V2", "role": "new_typography_information_design"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "R. Roger Remington（Rochester Institute of Technology平面设计教授；前作《Nine Pioneers in American Graphic Design》1992、《Lester Beall: Trailblazer of American Graphic Design》1996），《American Modernism: Graphic Design 1920 to 1960》（2003，Yale University Press，2955行）——美国现代主义平面设计史",
+    "结构：按编年体组织——1850s维多利亚时代传统→1900-1919欧洲现代主义运动全景与设计原理→1920-1929美国过渡期→1930-1939现代主义在美国扎根（大萧条与移民潮）→1940-1949战争设计/专业成形/战后教育→1950-1959现代主义黄金时代与企业识别→1960-1999后现代转向/数字化/回望总结——每十年一章，章首设时代背景段",
+    "核心论点：①现代主义是一套原则而非一种风格（功能主义/简洁/无装饰/机器时代的诚实材料观组成'现代主义语法'）；②移民是传播主通道——1930年代大批欧洲设计师移民纽约，使纽约取代巴黎成为现代主义新中心；③企业客户是落地条件——CCA/CBS/IBM/Westinghouse等企业的进步意识使现代设计进入商业主流；④教育是制度化机制——Yale研究生项目/New Bauhaus/Black Mountain College等培养出第二代设计师；⑤从'commercial art'到'graphic design'的专业化进程",
+    "关键概念：Modernism、graphic design术语诞生（Dwiggins）、New Typography、The Bauhaus、Art Deco、Streamline风格、corporate identity、information design、typographic expressionism、post-Modernism、New Wave",
+    "方法：图版+正文双轨（大量页边说明文字直接附着于作品图版）、史料分层（一手引用设计师书信/语录/著述——Dwiggins/Sutnar/Rand/Burtin；二手设计史文献——Heller & Chwast《Graphic Styles》、Meggs《A History of Graphic Design》）、编年分期结构、传记式案例法（以代表性设计师Rand/Beall/Thompson/Brodovitch/Sutnar/Lustig/Golden为核心案例组织叙述）",
+    "历史地位：为美国现代主义平面设计提供连贯的'原则史+人物史'综合叙事，填补了当时领域历史书写的匮乏（1983年才有第一部全面史）；确立'移民—企业—教育'三位一体的传播解释框架；与作者此前《Nine Pioneers》一脉相承，注重为未被充分记载的先驱立传",
+    "限度：以案例与图注为主、理论分析较浅；对女性设计师仅零星提及（Cipe Pineles/Lillian Bassman/Katherine McCoy/April Greiman/Paula Scher）；对'现代主义'的批评者着墨有限；图版文字与正文偶有OCR混乱",
+    "clean原文存在（2955行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch4：大萧条与移民潮——现代主义扎根",
+    "Ch6：现代主义黄金时代与企业识别",
+    "L382-399：'现代主义语法'（原则体系）",
+    "L771-802：移民与纽约新中心",
+    "L2007-2086：CCA/CBS/IBM/Westinghouse企业客户"
+  ]
+}

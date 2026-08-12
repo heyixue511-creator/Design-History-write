@@ -1,0 +1,36 @@
+{
+  "source_id": "B0412",
+  "corpus": "book",
+  "folder_name": "Teal Triggs：《Graphic Design History Past, Present, and Future》，2011",
+  "material_type": "平面设计史学科反思（特刊编辑导言）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Teal Triggs：《Graphic Design History Past, Present, and Future》，2011_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 12, "report_characters": 3505}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "graphic_design_history_discipline"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "practitioner_historians_canon"},
+    {"section_id": "15.6", "grade": "C", "verification": "V2", "role": "whose_history_global"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Teal Triggs，《Graphic Design History: Past, Present, and Future》，Design Issues 27(1)（Winter 2011，MIT；封面由Barnbrook design设计）——特刊编辑导言（约2600词，42行clean版）",
+    "开篇判断：'平面设计史在当下寻找它的过去'——与其他设计学科（时尚、工业设计）相比，平面设计史的建制、记录、批评论书写与出版的学科传统尚不成熟（L003-L005）——本文集目的是重新审视平面设计史的定义并提出新路径",
+    "学科制度化历程回顾：1983年罗切斯特理工学院（RIT）第一届平面设计史研讨会→1990年代视觉艺术学院（SVA）十年系列→Heller 1997年会议→2005年伦敦传播学院'New Views'会议（L007-L011）",
+    "核心论点：①平面设计史作为学科尚不成熟，但正通过会议、文本与实践者的工作走向成熟；②实践者史学家（practitioner-historian）与设计师撰写的历史是学科建设的核心力量，并参与经典（canon）的建构；③'谁的历史？'（whose history is it?）是贯穿全文的核心政治问题——须通过全球案例（南非、新加坡）扩展其边界；④平面设计史学家的角色是定位事件、解释因果、沟通现在与过去——学术史学家与实践者史学家应双轨并专",
+    "特刊五篇案例论文：McCarthy（设计师撰史与博物馆收藏）、Kenna（Ruder与屏幕字体）、Harland（图解表征与学科多重领域）、Carey（南非本土图形传统与Siyazama项目）、Chan（新加坡多族裔主义与国家建设）",
+    "关键概念：graphic design history、practitioner-historian、designer-authored histories、canon、whose history is it?、history as a history of ideas、multi-racialism、nation building、indigenous graphic traditions、screen typography",
+    "方法：编年叙述（Ch02制度化历程）、概念先行（Ch03）、案例引介（Ch03-04）、设问推进（Ch05）、首尾呼应的隐喻闭环（L002/L037）",
+    "历史地位：发表于2011年——正值平面设计史学科自我反思的高峰期（2005 New Views之后）；作为权威期刊特刊的导言，它为'实践者史学家'与'设计师撰写的历史'提供了学科层面的正面表述，并把南非、新加坡等全球南方案例正式纳入平面设计史议程；文中点名的作者（Heller、Margolin、Blauvelt、Caplan、Poynor、Lupton、Drucker等）共同构成该领域1990s-2000s的核心话语圈",
+    "限度：篇幅所限各案例仅点到即止；clean版脚注大量缺失影响证据完整性；对殖民历史、文化挪用等尖锐问题未展开；'未来'维度论述零散未形成统一理论框架",
+    "clean原文存在（42行）；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L002：'平面设计史在当下寻找它的过去'",
+    "L007-011：制度化历程（1983 RIT→2005 New Views）",
+    "L015-021：实践者史学家与经典建构",
+    "L026-032：'谁的历史'与南非/新加坡案例",
+    "L035-037：史学家角色与'寻找过去即为未来铺路'"
+  ]
+}

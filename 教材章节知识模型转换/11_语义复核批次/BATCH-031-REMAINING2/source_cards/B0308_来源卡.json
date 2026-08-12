@@ -1,0 +1,35 @@
+{
+  "source_id": "B0308",
+  "corpus": "book",
+  "folder_name": "Michael Polanyi：《The tacit dimension》",
+  "material_type": "默会认知哲学经典（The Tacit Dimension）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Michael Polanyi：《The tacit dimension》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 10, "report_characters": 131138}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "tacit_knowing_foundation"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "tacit_skill_tools"},
+    {"section_id": "16.5", "grade": "C", "verification": "V2", "role": "expert_knowledge_unencodable"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Michael Polanyi（1891-1976），《The Tacit Dimension》（1966）——1962年耶鲁大学'特里讲座'（Terry Lectures）演讲稿的修订扩充；波兰尼自1946年《科学、信仰与社会》以来二十余年知识论探索的'中期报告'；系统阐述'默会认知'（tacit knowing），并将其从认识论拓展至本体论（突现层级）、科学社会学（探索者社会）乃至进化论与文化哲学",
+    "三章逻辑递进：①Tacit Knowing（默会认知——功能/现象/语义/本体四层面）；②Emergence（突现——默会认知结构映射为实在层级与边际控制原理）；③A Society of Explorers（探索者社会——层级本体论应用于科学共同体/自由社会/道德秩序，回应现代性精神危机）",
+    "总命题：一切知识皆包含默会成分，且默会认知是一切显性知识的根基；承认默会维度的不可消除性，是理解科学、生命、社会与道德的必要前提",
+    "子命题一（认识论）：默会认知具有'from-to'结构——从近端项（proximal term）的附属意识（subsidiary awareness）出发聚焦于远端项（distal term）的整合意义——'我们知道的远比我们能言说的多'（we can know more than we can tell）",
+    "子命题二（本体论）：实在由层级构成，每一高层级通过'边际控制'（marginal control）统摄低层级，但高层级的运作原理不可还原为低层级定律；突现（emergence）是层级产生的创造性过程，与默会整合同构",
+    "子命题三（文化-社会论）：科学共同体是'探索者社会'的典范——知识传统通过权威传递，又通过默会认知的内在动力自我更新；现代性的精神危机（怀疑论与完美主义的融合）唯有在承认默会传统与层级限制的基础上方可化解",
+    "关键案例：面容识别（能辨认却无法言明依据）、电击实验/潜知（Lazarus & McCleary 1949 subception实验——被试获得无法言说的知识）、探针与盲人手杖（工具使用中感觉从手掌移向尖端——from-to结构与意义外向移置）、柏拉图《美诺篇》悖论（若一切知识皆为显性则发现问题即不可能）、国际象棋（棋局规则不可导出策略原则——层级不可还原性）、机器与操作原理（操作原理不可由物理化学定律导出但机器成败恰由物理化学解释——边际控制典范）、海胆胚胎再生（Driesch调和等能系统）、Rayleigh氢原子论文被忽略（科学共同体基于不可言说的'合理性'判断拒绝荒谬主张）、Planck量子论（孤立原创发现如何在传统框架内被孕育/遭抵制/最终被接受）",
+    "影响：默会认知/隐性知识理论奠基文本——对设计研究（隐性知识与设计实践）、技术哲学（专家知识不可完全编码）、知识管理（Nonaka SECI模型）有深远影响；设计研究语境中与P0018 Cross'designerly ways of knowing'、B0257 Friedman'混淆默会知识与一般设计知识是范畴错误'形成理论谱系",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第一章：from-to结构与'我们知道的远比我们能言说的多'",
+    "第一章：探针与盲人手杖案例",
+    "第一章：柏拉图《美诺篇》悖论消解",
+    "第二章：边际控制与层级不可还原性",
+    "第三章：Rayleigh与Planck案例（科学权威的默会运作）"
+  ]
+}

@@ -3,9 +3,9 @@
   "grades": {
    "B": 5,
    "A": 7,
-   "C": 3
+   "C": 4
   },
-  "count": 15,
+  "count": 16,
   "items": [
    {
     "source_id": "B0027",
@@ -126,6 +126,16 @@
     "accepted_claim": "十月革命后先锋派深度参与国家文化机器（IZO行政、革命节日街头装饰、纪念碑宣传计划、宣传海报），构成构成主义的社会政治语境；街头装饰被评“不充分”的经验促使对纯艺术的重新评估",
     "evidence_boundary": "“行政—宣传—意识形态”三层经验是洛德因果模型；IZO统计出自其档案研究；街头装饰失败→反艺术是洛德推断",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "urban_mechanical_perception",
+    "accepted_claim": "现代都市以视觉优先性（“眼睛的活动压倒耳朵的活动”）与速度体验重构感知，“丑的美学”是这一感知结构的审美表达",
+    "evidence_boundary": "本书聚焦时尚的都市感知而非战争/先锋派视觉实验，与3.1主题部分交叉",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    },
    {
     "source_id": "B0276",
@@ -494,11 +504,11 @@
  "3.4": {
   "grades": {
    "A": 17,
-   "B": 8,
-   "C": 5,
+   "B": 9,
+   "C": 8,
    "X": 1
   },
-  "count": 31,
+  "count": 35,
   "items": [
    {
     "source_id": "B0007",
@@ -681,6 +691,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0164",
+    "title": "Gennifer Weisenfeld.：《Mavo Japanese Artists and the Avant-Garde, 1905-1931》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mavo_cultural_anarchism",
+    "accepted_claim": "日本先锋艺术团体Mavo（1923-1926）的'文化无政府主义'：通过美学手段实施社会批判，以'破坏/建构'辩证逻辑挑战国家体制、美术制度与主流道德规范；'意识性构成主义'（拼贴/现成品/异质材料并置）唤起对日常生活的批判性自觉——'艺术与日常生活再统合'国际先锋运动在日本的独特表达——3.4先锋派的视觉-物质实验（东亚侧）",
+    "evidence_boundary": "作者专著（2002）；七部分结构",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0187",
     "title": "Herbert Spencer：《Pioneers of Modern Typography》，1969",
     "grade": "B",
@@ -761,6 +781,26 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0088",
+    "title": "Cooke, Catherine：Architectural Drawings of the Russian Avant-Garde, 1990",
+    "grade": "C",
+    "verification": "V2",
+    "role": "constructivist_architecture",
+    "accepted_claim": "构成主义建筑的制度史：1919 Zhivskulptarkh乌托邦实验→1923劳动宫竞赛Vesnin兄弟宣言性亮相→1925巴黎博览会Melnikov苏联馆→1925年末OSA成立后'功能方法'系统化→1931-34苏维埃宫竞赛转折→1934重工业人民委员部竞赛Leonidov遭否定；列宁主义文化路线与Proletkult路线分歧（先锋派形式语言被视作'反列宁主义'）",
+    "evidence_boundary": "3.4 俄国构成主义与生产主义（建筑侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0095",
+    "title": "Dabrowski, Magdalena (ed.)：Revolution：Russian Avant-Garde, 1912-1930, 1978",
+    "grade": "C",
+    "verification": "V2",
+    "role": "soviet_avantgarde_exhibition_survey",
+    "accepted_claim": "俄罗斯先锋派（1912-1930）演进主线：Cubo-Futurism→Suprematism（马列维奇1913《黑方块》→《白上白》）→Constructivism（塔特林1914《反浮雕研究》→1919-20构成主义形成→与工业化大批量生产结合→1920年代后期失势）；列宁视构成主义为'幼稚的左倾主义'",
+    "evidence_boundary": "3.4 俄国构成主义与生产主义（补充/展览侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0121",
     "title": "Dickerman：《Dada Zurich, Berlin, Hannover, Cologne, New York, Paris》",
     "grade": "C",
@@ -799,6 +839,16 @@
     "accepted_claim": "构成主义以Lissitsky的Proun、构成主义国际（1922杜塞尔多夫大会）与Melnikov展馆等“国际传播”形态进入本书叙述，可作3.4的接受史补充",
     "evidence_boundary": "均为西欧接受视角，俄国本土构成主义—生产主义（Lef、罗琴科、呼捷玛斯）不在本书范围",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0433",
+    "title": "Victor Margolin：《World History of Design World War I to World War II》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "soviet_design_revolution",
+    "accepted_claim": "苏维埃俄国设计（1905-1928）：至上主义/构成主义/生产主义从绘画实验转向生产、宣传和日常用品——革命与先锋派设计的制度史实证（Ch20）",
+    "evidence_boundary": "3.4 俄国构成主义与生产主义",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0346",
@@ -1369,9 +1419,9 @@
   "grades": {
    "B": 8,
    "A": 5,
-   "C": 1
+   "C": 4
   },
-  "count": 14,
+  "count": 17,
   "items": [
    {
     "source_id": "B0121",
@@ -1504,6 +1554,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0088",
+    "title": "Cooke, Catherine：Architectural Drawings of the Russian Avant-Garde, 1990",
+    "grade": "C",
+    "verification": "V2",
+    "role": "western_rediscovery_soviet_avantgarde",
+    "accepted_claim": "西方学术史的忽略与再发现：Giedion/Pevsner/Hitchcock标准现代建筑史忽略俄国先锋派；1960年代以后西方重新发现；MoMA 1990展览与舒谢夫博物馆藏品的全球首展——苏联先锋派重新嵌入现代建筑正典",
+    "evidence_boundary": "3.7 跨国先锋网络（学术史侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0095",
+    "title": "Dabrowski, Magdalena (ed.)：Revolution：Russian Avant-Garde, 1912-1930, 1978",
+    "grade": "C",
+    "verification": "V2",
+    "role": "barr_moma_transnational_collection",
+    "accepted_claim": "跨国机构传播链：Alfred H. Barr Jr. 1928年苏联之行→MoMA俄罗斯先锋派收藏奠基→1978-79年MoMA'Revolution'跨年大展与西方公共收藏（Lauder基金会捐赠塔特林水彩）；俄国先锋派对西方现代主义是'对话者与超越者'而非'边缘接受者'",
+    "evidence_boundary": "3.7 跨国先锋网络（机构化传播侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0269",
     "title": "Laszlo Moholy-Nagy：《Vision in Motion》，1947",
     "grade": "C",
@@ -1512,6 +1582,16 @@
     "accepted_claim": "“国际文化工作集会”跨国文化整合设想（规划展览、出版、会议）",
     "evidence_boundary": "乌托邦提案非史实，仅作行动者国际主义理念证据",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "P0016",
+    "title": "Capkova, Helena; et al.：History of Design：Decorative Arts and Material Culture, 1400-2000, 2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "japanese_modernism_transnational",
+    "accepted_claim": "日本现代主义实证：跨国网络是其关键形成因素；中心-边缘（centre-and-periphery）框架下的跨国流动——日本现代主义并非边缘接受而是跨国构成",
+    "evidence_boundary": "3.7 跨国先锋网络（东亚侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  }

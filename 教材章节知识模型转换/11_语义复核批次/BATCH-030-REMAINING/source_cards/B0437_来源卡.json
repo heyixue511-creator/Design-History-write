@@ -1,0 +1,36 @@
+{
+  "source_id": "B0437",
+  "corpus": "book",
+  "folder_name": "Victoria E. Bonnell：《Iconography of Power Soviet Political Posters under Lenin and Stalin》，1997",
+  "material_type": "苏联政治海报图像志（1917-1953）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Victoria E. Bonnell：《Iconography of Power Soviet Political Posters under Lenin and Stalin》，1997_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 3570}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "soviet_political_posters"},
+    {"section_id": "8.1", "grade": "C", "verification": "V2", "role": "posters_ideological_competition"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "iconography_visual_syntax"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Victoria E. Bonnell，《Iconography of Power: Soviet Political Posters under Lenin and Stalin》（1997，University of California Press；平装1999；'Studies on the History of Society and Culture'丛书第27种；加州大学出版社百年纪念书；题献For Grisha——作者之夫Gregory Freidin；clean版6269行，正文L192-2625）——1917-1953年苏联政治海报研究",
+    "核心论证：布尔什维克（与斯大林国家）的'夺权'同时也是'夺义'（L192）——通过被发明的传统（Hobsbawm）与一套'视觉词汇-句法'系统（L307-314），把官方意识形态植入文盲与半文盲人口——海报是权力合法化的生产性装置，而非现实的镜像（L269-270/L1260）",
+    "结构按四套图像展开：工人（Ch1——铁匠图像兴起）、女性/农民（Ch2-3）、领袖（Ch4）、敌人（Ch5），终章（Ch6）综合1946-1953年'斯大林主义高峰'的天堂幻象——核心叙事是'神圣中心'的三次转移：无产阶级（1919-1930）→乡村农民（1930-1934）→领袖斯大林（1934-1953）（L277-296/L751-790）",
+    "核心论点：①海报是权力合法化的生产性装置而非现实的镜像；②性别是权力的首要视觉能指（L283/L846-847）；③敌人图像从'去人性化'维持跨时代连续性，服务于马尼教式二元世界观（L1968-1971/L1859-1864）；④战后海报把全程推向'完成性'——一个与艰难现实脱节的'神圣秩序'（L2520-2526）",
+    "关键概念：被发明的传统、视觉词汇-句法、邻居/转喻、tipazh（典型形象）、神圣中心、领袖两体（The Leader's Two Bodies——国王两体概念的苏联版）、baba→kolkhoznitsa（村妇→集体农庄女庄员）、二元模型、去人性化、社会主义现实主义、kul'turnost（文化修养）、大撤退、Homo sovieticus",
+    "方法：图像志-语义细读、历史-语境关联、结构对置（黑白/前/后）、抽样统计、理论移用（被发明的传统/国王两体/时代之眼/性别权力）；对'观众解读不可知'保持限定（L319）",
+    "材料：档案海报（RU/SU、KP、MR、TM、IWM、V/A、TsGALI等）、自建1022张海报数据库、1930年代海报批评论文献、官方文件（1918法令/1931中央决议/1918-1923宪法）、报刊/影片/回忆录/游记，及英法俄多种二手文献（L5210-5939）",
+    "历史地位：属于1980-1990年代'新文化史'浪潮中象征/符号政治一脉（同丛书Hunt《法国大革命中的政治、文化与阶级》等）；首次以档案实物系统覆盖1917-1953全程海报，确立苏联视觉文化的'标准参照网络'；其'视觉语法''神圣中心转移''领袖两体''去人性化'等概念被此后苏联艺术史、政治图像学与宣传研究广泛援引",
+    "限度：作者自认无法确证当代观众的实际解读（L319）；第三章样本受档案可得性限制（L3461-3466）；女性分析偏重乡村女性；第三、五章标题页与个别插图OCR缺失（L1161/L1858/L2310-2324）",
+    "clean原文存在（6269行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：'夺权'同时是'夺义'（L192）",
+    "L307-314：视觉词汇-句法系统",
+    "L277-296：神圣中心三次转移",
+    "Ch4：领袖两体（L1431-1857）",
+    "Ch6：战后完成性/神圣秩序（L2334-2625）"
+  ]
+}

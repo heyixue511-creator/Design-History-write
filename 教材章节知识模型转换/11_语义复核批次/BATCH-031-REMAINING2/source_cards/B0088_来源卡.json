@@ -1,0 +1,32 @@
+{
+  "source_id": "B0088",
+  "corpus": "book",
+  "folder_name": "Cooke, Catherine：Architectural Drawings of the Russian Avant-Garde, 1990",
+  "material_type": "MoMA展览图录（Cooke长论文+图版+档案附文）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Cooke, Catherine：Architectural Drawings of the Russian Avant-Garde, 1990_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 21, "report_characters": 248428}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "3.4", "grade": "C", "verification": "V2", "role": "constructivist_architecture"},
+    {"section_id": "3.7", "grade": "C", "verification": "V2", "role": "western_rediscovery_soviet_avantgarde"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Catherine Cooke（正文长文'Images in Context'）+ Stuart Wrede（前言）+ I. A. Kazus（历史附注'舒谢夫国家建筑研究博物馆史'），《Architectural Drawings of the Russian Avant-Garde》（1990，The Museum of Modern Art, New York；Distributed by Harry N. Abrams；ISBN Cloth 0-87070-556-3；CC BY-NC 4.0开放获取）——MoMA 1990年6月21日至9月4日同名展览配套图录，藏品来自莫斯科A. V. 休谢夫国家建筑研究博物馆，约131幅图版（含49幅主图版）+ 131条建筑师传记",
+    "Cooke论文以苏联建筑先锋派（1917-1934）原始图纸为切入口，将俄国先锋派建筑置于十月革命至斯大林主义确立的历史洪流——四代建筑师群体：①革命前老一代古典主义者（Zholtovsky/Fomin/Shchusev，新体制下保持文化保守主义）；②中生代（Vesnin兄弟/Ladovsky，构成主义与理性主义两大阵营领袖）；③约1890年出生的'无建造经验的一代'（Ginzburg/Lissitzky/Melnikov/Chernikhov，以理论探索补足实践缺失）；④约1900年出生的'革命的真正子嗣'（Leonidov/Barshch/Burov，全部训练在新体制下完成）",
+    "叙事弧线：1919年Zhivskulptarkh（绘塑建）乌托邦实验→1923年劳动宫竞赛Vesnin兄弟构成主义首次宣言性亮相→1925年巴黎装饰艺术博览会Melnikov苏联馆的国际成功与国内受众分裂→1925年末OSA（当代建筑师联盟）成立后构成主义'功能方法'系统化→1931-34年苏维埃宫竞赛的风格转折→1934年重工业人民委员部竞赛Leonidov以批判性遗产继承应对社会主义现实主义要求而遭否定的终章",
+    "深层问题：源于抽象艺术实验、以技术和工业理性为美学信仰的现代建筑语言，如何在对现代性经验几近空白、文盲率极高、建筑工业倒退十数年的农业国度中寻找受众与合法性？——列宁主义文化路线与Proletkult/波格丹诺夫路线根本分歧：列宁要求无产阶级文化必须'批判性地建立于资本主义成就之上'，而先锋派形式语言被视作'反列宁主义'的资产阶级实验室产物",
+    "Wrede前言：标准现代建筑史（Giedion/Pevsner/Hitchcock）对苏联先锋派的忽略（'Inexplicably the first standard histories of modern architecture by Siegfried Giedion, Nikolaus Pevsner, and Henry-Russell Hitchcock left out the Russian avant-garde'），1960年代以后西方重新发现的学术脉络",
+    "等级限制：展览图录体裁（含25000词学术长文），按纪律限C级",
+    "clean原文存在；未完成全篇、图版和引注核验。"
+  ],
+  "original_spot_checks": [
+    "四代建筑师群体划分",
+    "1919 Zhivskulptarkh→1925 OSA→1931-34苏维埃宫→1934 Leonidov终章",
+    "列宁主义vs Proletkult路线分歧",
+    "Giedion/Pevsner/Hitchcock忽略俄国先锋",
+    "1960s后西方再发现脉络"
+  ]
+}

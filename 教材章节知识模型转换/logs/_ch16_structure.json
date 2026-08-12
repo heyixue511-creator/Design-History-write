@@ -1,12 +1,12 @@
 {
  "16.1": {
   "grades": {
-   "C": 2,
+   "C": 5,
    "A": 6,
-   "B": 5,
+   "B": 6,
    "X": 3
   },
-  "count": 16,
+  "count": 20,
   "items": [
    {
     "source_id": "B0041",
@@ -119,6 +119,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "P0071",
+    "title": "Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987",
+    "grade": "B",
+    "verification": "V2",
+    "role": "social_construction_of_technology",
+    "accepted_claim": "技术非自主力量：技术制品的内容（设计、性能、成败）由相关社会群体的意义协商建构——解释弹性、闭合、稳定化概念；研究技术即是研究社会——AI/算法技术的社会建构批判视角——16.1从规则系统到机器学习系统（技术决定论批判侧）",
+    "evidence_boundary": "编者文集（1987/2012）；SCOT纲领与自行车等案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0102",
     "title": "David Raizman：《History of Modern Design》，2023",
     "grade": "C",
@@ -129,6 +139,16 @@
     "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
    },
    {
+    "source_id": "B0295",
+    "title": "Marshall McLuhan：《The Gutenberg Galaxy The Making of Typographic Man》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "electronic_reversal_global_village",
+    "accepted_claim": "电子媒介逆转印刷文化的效应：创造新的听觉空间与'地球村'——技术-感知关系的媒介理论作为数字时代技术哲学前史——16.1从规则系统到机器学习（弱支撑）",
+    "evidence_boundary": "作者著作（1962）；'银河重构'部分",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0296",
     "title": "Martin Heidegger：《The Question Concerning Technology and Other Essays》",
     "grade": "C",
@@ -136,6 +156,26 @@
     "role": "questioning_technology",
     "accepted_claim": "'追问是思的虔诚'（L1072）；沉思是对值得追问者的镇定投入——16.1人工智能设计反思",
     "evidence_boundary": "作者哲学（1954）；沉思命题为规范性主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0018",
+    "title": "Cross, Nigel：Designerly Ways of Knowing, 2006",
+    "grade": "C",
+    "verification": "V2",
+    "role": "can_machines_design",
+    "accepted_claim": "'机器能否设计'追问：设计思维研究与人工智能的关系（第3章，自然智能vs人工设计智能）——设计认知作为AI时代设计研究的参照——16.1从规则系统到机器学习系统（弱-中支撑）",
+    "evidence_boundary": "作者著作（2006）；第3章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0058",
+    "title": "Richard Buchanan：《Wicked Problems in Design Thinking》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_four_areas",
+    "accepted_claim": "设计四领域（符号/物/行动/思想）将设计对象从物质产品扩展到组织服务与复杂系统——数字/AI时代设计对象的扩展框架——16.1从规则系统到机器学习系统（弱-中支撑）",
+    "evidence_boundary": "作者论文（1992）；布置学说部分",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -221,11 +261,11 @@
  },
  "16.3": {
   "grades": {
-   "B": 9,
-   "C": 9,
+   "B": 14,
+   "C": 15,
    "A": 5
   },
-  "count": 23,
+  "count": 34,
   "items": [
    {
     "source_id": "B0016",
@@ -328,6 +368,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0137",
+    "title": "Edward Rolf Tufte：《Visual Explanations Images and Quantities, Evidence and Narrative》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_replicates_thought",
+    "accepted_claim": "'展示设计的原则复制了思考的原则时，组织信息的行为便成为洞察的行为'：信息显示的逻辑必须复制分析推理的逻辑——Snow霍乱地图（空间比较揭示因果）成功与挑战者号发射决策（图表未能揭示温度-损伤关系）失败的对比论证——16.3信息呈现认知与伦理",
+    "evidence_boundary": "作者著作（1997）；第二章对位案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0137",
+    "title": "Edward Rolf Tufte：《Visual Explanations Images and Quantities, Evidence and Narrative》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "complete_data_matrix_ethics",
+    "accepted_claim": "完整数据矩阵的道德律令：挑战者号案例中被遗漏的92%温度数据正是理解效应的统计杠杆；'选择性地呈现证据是魔术师的手法，不是科学家的方法'；chartjunk'标志着统计愚蠢'——图形诚信与去信息设计批判——16.3信息呈现伦理",
+    "evidence_boundary": "作者著作（1997）；第二章/第三章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0267",
     "title": "Langdon Winner：《The Whale and the Reactor A Search for Limits in an Age of High Technology, Second Edition》，1986",
     "grade": "B",
@@ -358,6 +418,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0379",
+    "title": "Rudolf Arnheim：《Art and Visual Perception A Psychology of the Creative Eye》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_perception_gestalt",
+    "accepted_claim": "视觉不是对刺激的机械记录而是主动的、创造性的意义生成：'一切知觉即思维，一切推理即直觉，一切观察即发明'；简化原则、知觉力与平衡、表现作为知觉的首要与终极功能——信息呈现的知觉理论基础——16.3推荐、搜索与可见性政治的视觉认知侧",
+    "evidence_boundary": "作者经典（1954/1974）；格塔心理学框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0381",
+    "title": "Rudolf Arnheim：《Visual Thinking》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_thinking_cognition",
+    "accepted_claim": "知觉与思维不是两种分离的能力：'Visual perception is visual thinking'；感知本身执行抽象（原初抽象/类型论）、思维以意象为媒介——视觉素养与信息呈现的认知基础——16.3视觉认知侧（与B0379构成Arnheim双证）",
+    "evidence_boundary": "作者经典（1969）；16章体系",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0390",
     "title": "Scott McCloud：《Understanding Comics The Invisible Art》，1993",
     "grade": "B",
@@ -365,6 +445,16 @@
     "role": "closure_visual_cognition",
     "accepted_claim": "漫画的力量来自读者主动补全（闭包）：读者在画格间'沟槽'主动补全时间、空间与动作；图文七种组合（word-specific至interdependent）与'简化即放大'的卡通化原理——视觉传达与信息呈现的认知理论——16.3信息设计的视觉认知侧",
     "evidence_boundary": "作者理论（1993）；以漫画论证漫画的元叙事",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0050",
+    "title": "ONeill：《The Transformer Principles of Making Isotype Charts by Marie Neurath and",
+    "grade": "B",
+    "verification": "V2",
+    "role": "isotype_transformative_process",
+    "accepted_claim": "Isotype 不可简单定义：无固定形式程序，是'解释、叙事与再传播的智识过程'；transformer（转化者）把文本与统计数据译为视觉信息的职业——Isotype 应被看作'仍可应用的信息态度'而非时期风格——16.3信息呈现与转化",
+    "evidence_boundary": "双书评（Design Issues）；Marie Neurath《The Transformer》评介",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -456,6 +546,66 @@
     "accepted_claim": "清晰呈现复杂（the clear portrayal of complexity）为数据图形终极追求——'首要的是展示数据'——16.3信息设计价值观",
     "evidence_boundary": "作者理论（1983）；价值观命题为规范性主张",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0137",
+    "title": "Edward Rolf Tufte：《Visual Explanations Images and Quantities, Evidence and Narrative》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "narrative_strategies",
+    "accepted_claim": "叙事设计策略：最小有效差异（'最小差异允许更多差异'）、平行主义（'空间平行优于时间平行'）、时空倍数图像（'空间取代时间成为排序维度'）、视觉拼合（'使阅读、观看和思考成为同一件事'）——16.3呈现方法论",
+    "evidence_boundary": "作者著作（1997）；第四至七章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0144",
+    "title": "Ellen Lupton, J. Abbott Miller：《Design Writing Research Writing on Graphic Design》，1996",
+    "grade": "C",
+    "verification": "V2",
+    "role": "isotype_modern_hieroglyphs",
+    "accepted_claim": "Isotype批判（'现代象形文字'）：Otto Neurath将逻辑实证主义翻译为'国际排版图像教育系统'——男性/女性/箭头等通用符号虽自称普世实则负载文化约定——16.3信息呈现（Isotype批判——与P0050/B0016构成三证）",
+    "evidence_boundary": "作者著作（1996）；第4篇",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0215",
+    "title": "Johanna Drucker：《The Visible Word Experimental Typography and Modern Art, 1909-1923》，1994",
+    "grade": "C",
+    "verification": "V2",
+    "role": "marked_text_language_authority",
+    "accepted_claim": "排版作为'被标记的文本'（marked text）：通过视觉形式的操控揭示语言权威的建构性——排版与视觉传达的认知理论——16.3信息呈现（排版认知侧，弱支撑）",
+    "evidence_boundary": "作者专著（1994）；方法论贡献",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0323",
+    "title": "Nielsen：《Designing Web usability》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "content_primacy_scanning",
+    "accepted_claim": "内容中心论（'Content is number one'）：一切设计只是内容的背景；页面内容须为扫描式阅读优化（79%用户不逐字阅读）——16.3信息呈现与内容设计（弱-中支撑）",
+    "evidence_boundary": "作者著作（1999）；第3章内容设计",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0024",
+    "title": "Designing Visual Interfaces -- Mullet, Kevin; Sano, Darrell -- ACM SIGCHI Bullet",
+    "grade": "C",
+    "verification": "V2",
+    "role": "bertin_gestalt_semiotics",
+    "accepted_claim": "界面视觉设计的理论三源：Bertin视觉变量、格式塔理论、Peirce符号学——视觉呈现的认知与符号学基础（信息设计谱系）——16.3信息呈现理论侧",
+    "evidence_boundary": "书评（ACM SIGCHI Bulletin）；理论资源转述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0050",
+    "title": "ONeill：《The Transformer Principles of Making Isotype Charts by Marie Neurath and",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pictorial_grammar_clarity",
+    "accepted_claim": "Isotype 图画语法（量化排列、去除透视、轴向组织、符号复合）旨在提升清晰度而非强制独特风格——呈现规范的语法维度——16.3信息呈现规范",
+    "evidence_boundary": "双书评（Design Issues）；图画语法概念",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
@@ -511,11 +661,11 @@
  },
  "16.5": {
   "grades": {
-   "A": 6,
-   "B": 8,
-   "C": 9
+   "A": 7,
+   "B": 11,
+   "C": 13
   },
-  "count": 23,
+  "count": 31,
   "items": [
    {
     "source_id": "B0041",
@@ -558,6 +708,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0127",
+    "title": "Donald A. Norman：《The Design of Everyday Things》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "user_centered_design_principles",
+    "accepted_claim": "以用户为中心的设计开创性框架：可见性、反馈、自然映射、概念模型四要素；执行鸿沟与评估鸿沟揭示意图与操作、状态与期望之间的断裂；'为错误而设计'（失误六类型与强迫功能）——交互设计理论基座（与Gibson可供性/情境行动并列）——16.5自动化界面与人的控制权",
+    "evidence_boundary": "作者经典（1988）；七章论证体系",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
     "source_id": "B0198",
     "title": "James J. Gibson：《The Ecological Approach To Visual Perception》",
     "grade": "A",
@@ -578,6 +738,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0126",
+    "title": "Donald A. Norman：《Emotional Design Why We Love (Or Hate) Everyday Things》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "emotion_three_levels",
+    "accepted_claim": "情感化设计三层加工模型（本能/行为/反思）：情感非但不是理性的对立面反而是认知不可分割的组成部分；'有吸引力的事物确实更好用'（正向情感拓宽思维）；情感机器与Affective Computing——16.5自动化界面与人的控制权（情感交互理论侧）",
+    "evidence_boundary": "作者著作（2004）；ATM跨文化实验证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0191",
     "title": "Holmes：《Mismatch How Inclusion Shapes Design》",
     "grade": "B",
@@ -596,6 +766,16 @@
     "accepted_claim": "知觉系统是主动的信息探测系统：眼-头-身体系统在环境中移动产生光流（optic flow），运动自身揭示环境不变结构——'行动者-环境'耦合作为交互设计的知觉模型——16.5交互的能动性基础",
     "evidence_boundary": "作者理论（1979）；1966年感官系统理论延续",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0208",
+    "title": "Jenny L. Davis：《How Artifacts Afford The Power and Politics of Everyday Things》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mechanisms_conditions_framework",
+    "accepted_claim": "可供性的'机制与条件框架'：request/demand/encourage/discourage/refuse/allow六重机制+感知/灵巧度/文化与制度合法性三重条件——从'What does this object afford?'转向'How",
+    "evidence_boundary": " for whom",
+    "status": "作者专著（2020）；框架核心双章"
    },
    {
     "source_id": "B0227",
@@ -658,6 +838,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "P0035",
+    "title": "How HCI interprets the probes -- Kirsten Boehner; Janet Vertesi; Phoebe Sengers;",
+    "grade": "B",
+    "verification": "V2",
+    "role": "cultural_probes_reception_history",
+    "accepted_claim": "文化探针（cultural probes）自1999年Gaver团队提出以来在HCI的采纳与改造史：五种采纳方式（材料包/数据收集/参与性/感性/引证）vs五个被遗留的原初特征（颠覆/丰富说明/不确定性即资产/设计师立场/探索与速写）；'方法保留、方法论剥离'诊断——16.5交互设计方法（探针方法史）",
+    "evidence_boundary": "作者元研究（CHI'07）；约90篇论文检索",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0019",
     "title": "Almquist：《Affording Meaning Design-Oriented Research from the Humanities and Social Sciences》",
     "grade": "C",
@@ -688,6 +878,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0208",
+    "title": "Jenny L. Davis：《How Artifacts Afford The Power and Politics of Everyday Things》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "asymmetric_co_constitution",
+    "accepted_claim": "技术与人的非对称性共构：技术具有效力但只有人类具有能动性，问责始终归于人类——自动化界面的权力与责任分析——16.5自动化界面与人的控制权",
+    "evidence_boundary": "作者专著（2020）；Ch.3",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0264",
+    "title": "Klaus Krippendorff：《The Semantic Turn A New Foundation For Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "human_centered_four_levels",
+    "accepted_claim": "人本设计四层意义（使用/语言/生命周期/生态）与'第二序理解'（设计师必须理解利益相关者的理解）：利益相关者概念蕴含政治与伦理维度——16.5交互设计的人本基础（弱-中支撑）",
+    "evidence_boundary": "作者著作（2006）；第4-6章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0268",
     "title": "Lars Hallnäs Johan Redström：《Slow Technology – Designing for Reflection》",
     "grade": "C",
@@ -705,6 +915,16 @@
     "role": "interactive_artifacts",
     "accepted_claim": "计算机被视为'交互的'对象因其反应性、语言控制与内部不透明性的组合——但产生危险错觉：误以为机器能如人般'参与'互动——16.5机器交互错觉批判",
     "evidence_boundary": "作者理论（1987）；专家帮助系统失败为经验证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0308",
+    "title": "Michael Polanyi：《The tacit dimension》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "expert_knowledge_unencodable",
+    "accepted_claim": "专家知识不可完全编码：棋局规则不可导出策略原则（层级不可还原性）；操作原理不可由定律导出（边际控制典范）——自动化/专家系统的知识论限制",
+    "evidence_boundary": "16.5 自动化界面与人的控制权（AI知识论侧）",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -738,6 +958,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "P0049",
+    "title": "Nigel Thrift：《Non-Representational Theory： Space, Politics, Affect》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "affect_technological_unconscious",
+    "accepted_claim": "affect（情感/情动）区别于情绪与驱动的复杂自指存在状态（四解释传统）；'技术无意识'（technological unconscious）——环境对身体'预先设定'的层——自动化界面的情感与预置分析——16.5自动化界面与人的控制权（弱支撑）",
+    "evidence_boundary": "作者专著（2008）；L4030-4036/L1556",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "P0054",
     "title": "Regine M. Gilbert：《Inclusive Design for a Digital World Designing with Accessibility in Mind》",
     "grade": "C",
@@ -752,9 +982,9 @@
  "16.6": {
   "grades": {
    "B": 1,
-   "C": 6
+   "C": 12
   },
-  "count": 7,
+  "count": 13,
   "items": [
    {
     "source_id": "B0287",
@@ -807,6 +1037,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0251",
+    "title": "Kate Fletcher：《Sustainable Fashion and Textiles Design Journeys》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ethical_making_labor",
+    "accepted_claim": "'伦理制造'（Ethically Made）：生产过程的工序改善与系统改善——纺织生产的劳动与环境条件——16.6隐形劳动与行星基础设施（生产劳动侧，弱支撑）",
+    "evidence_boundary": "作者专著（2008）；第2章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0268",
     "title": "Lars Hallnäs Johan Redström：《Slow Technology – Designing for Reflection》",
     "grade": "C",
@@ -817,6 +1057,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0307",
+    "title": "Michael Braungart, William McDonough：《Cradle to cradle remaking the way we make things》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "nutrient_cycles_industry",
+    "accepted_claim": "材料养分循环的产业实践：荷兰'支撑文化'模式（Desso地毯/Van Gansewinkel废物管理全公司转型）、采购标准与政策配套——行星基础设施的材料流侧——16.6隐形劳动与行星基础设施（弱-中支撑）",
+    "evidence_boundary": "作者经典（2002/2008）；导论实践巡礼",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0311",
+    "title": "Mihaly Csikszentmihalyi, Eugene Halton：《The Meaning of Things Domestic Symbols and the Self》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "materialism_crisis",
+    "accepted_claim": "物质主义危机诊断：'推动物质扩张的能源资源是有限的，对它们的拼命追求威胁着地球生命的延续'——物质消费的极限批判——16.6隐形劳动与行星基础设施（资源侧，弱支撑）",
+    "evidence_boundary": "作者经典（1981）；前言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0423",
     "title": "The Sciences：《of the Artificial Simon 3rd ed》",
     "grade": "C",
@@ -824,6 +1084,36 @@
     "role": "social_planning",
     "accepted_claim": "社会规划演进观：设计在有限理性、数据残缺、客户多元、注意力稀缺与无最终目标约束下进行，与生物演化同构——16.6基础设施治理理论资源",
     "evidence_boundary": "作者理论（1996）；社会设计部分可操作性有限（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0010",
+    "title": "Bruno Latour (as Jim Johnson)：《Mixing Humans and Nonhumans Together： The Sociology of a Door-Closer》，1988",
+    "grade": "C",
+    "verification": "V2",
+    "role": "missing_masses_infrastructure",
+    "accepted_claim": "社会由'人+非人大众'共同构成：被忽视的日常物（门、钢条、基础设施）是社会的构成性成员——'消失的大众'（missing masses）概念为分析数字时代隐形劳动与基础设施（服务器、管道、物流网络）提供物导向视角",
+    "evidence_boundary": "结论段（L339-344）",
+    "status": "隐形劳动与行星基础设施（非人基础设施视角）"
+   },
+   {
+    "source_id": "P0015",
+    "title": "Cameron Tonkinwise：《Is Design Finished？ Dematerialisation and Changing Things》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "throughput_critique",
+    "accepted_claim": "物以'流量'方式不可持续地流过家庭——物质流的哲学批判——16.6隐形劳动与行星基础设施（物质循环侧，弱支撑）",
+    "evidence_boundary": "作者论文（2004）；引言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0071",
+    "title": "Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987",
+    "grade": "C",
+    "verification": "V2",
+    "role": "seamless_web_infrastructure",
+    "accepted_claim": "'无缝之网'（seamless web）：技术与科学、经济、政治、社会交织不可分——大型技术系统的异质工程、系统动量、反向突出点（Hughes LTS框架）——基础设施的系统性分析工具——16.6隐形劳动与行星基础设施",
+    "evidence_boundary": "编者文集（1987/2012）；Hughes电力系统案例",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]

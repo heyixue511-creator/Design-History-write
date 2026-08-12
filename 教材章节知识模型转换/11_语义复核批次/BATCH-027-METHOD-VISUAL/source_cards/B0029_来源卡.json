@@ -1,0 +1,33 @@
+{
+  "source_id": "B0029",
+  "corpus": "book",
+  "folder_name": "Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》",
+  "material_type": "瑞士平面设计学派奠基文献（设计教学）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 6, "report_characters": 11909}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.6", "grade": "B", "verification": "V2", "role": "swiss_style_foundation"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "design_education_reform"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "industrial_era_art_education_crisis"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Armin Hofmann（阿明·霍夫曼，瑞士平面设计学派代表人物），《Graphic Design Manual: Principles and Practice》（1965，Van Nostrand Reinhold；序言George Nelson；英文版于巴塞尔完成）——瑞士国际主义平面设计风格（Swiss Style）奠基性文献之一",
+    "内容：极简文字+约300幅学生练习作品图版——全部插图均为巴塞尔工艺美术学校（AGS）平面设计专业课程（Fachklasse für Graphik）学生练习的复制品",
+    "四维度教学体系：点（The Dot——中心辐射力/点与背景张力/多点力场）、线（The Line——'运动中的点的可见轨迹'/连接/铰接/承载/围合）、对抗/并置（Confrontation——异质系统带入和谐/'我们时代的基本任务之一'）、字母与符号（Letters and Signs——'现代人处理纯粹形式元素的少数场合之一'）",
+    "核心概念：①基础元素的普遍性与生成力（'即使点扩展之后它仍然是点'）；②正负形的等价性与互生关系（'黑线和白线始终相互依存。两条平行的直线会在它们之间产生第三条封闭的线'）；③边缘张力美学（'最强烈的张力产生于干扰力量附近'）；④对抗与综合是时代的核心任务（图画与文字——感知性图像vs约定性文字的统一）；⑤设计教育的整体性与去界限化（六项教育改革主张）；⑥技术作为塑造设计思维的深层力量（'圆珠笔、毡头笔或针管笔所催生的新型素描与设计风格'）；⑦设计师角色的历史性转变（从'字体的创造者'转向'字体的作曲者'）",
+    "方法：'文字阐述+图版示例'双轨结构；练习涵盖石版画/麻胶版画/素描/摄影/字体排印多元媒介",
+    "影响：瑞士国际主义平面设计风格奠基文献之一——与Ruder《Typography》共同构成巴塞尔排印学派的经典文本",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：艺术教育危机诊断与六项改革主张",
+    "第一章：点的属性与力场",
+    "第二章：线的构造功能与正负形",
+    "第三章：对抗/并置与图画文字统一",
+    "第四章：字体'作曲者'角色转变"
+  ]
+}

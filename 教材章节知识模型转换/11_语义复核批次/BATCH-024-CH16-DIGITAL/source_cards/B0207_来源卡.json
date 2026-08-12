@@ -1,0 +1,33 @@
+{
+  "source_id": "B0207",
+  "corpus": "book",
+  "folder_name": "Jenifer Tidwell：《Designing Interfaces》",
+  "material_type": "界面设计模式参考书（125模式）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Jenifer Tidwell：《Designing Interfaces》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 13, "report_characters": 11628}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.2", "grade": "B", "verification": "V2", "role": "interface_design_patterns"},
+    {"section_id": "14.6", "grade": "C", "verification": "V2", "role": "pattern_language_shared_vocabulary"},
+    {"section_id": "14.4", "grade": "C", "verification": "V2", "role": "web_mobile_platform_patterns"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jenifer Tidwell，《Designing Interfaces》（第二版，2010，O'Reilly Media），以设计模式（design patterns）为核心组织方式的界面/交互设计参考书（sourcebook），共11章125个模式",
+    "方法论源头：Christopher Alexander 建筑模式语言——将用户界面设计中反复出现的最佳实践提炼为可复用模式，涵盖桌面、Web、移动多平台",
+    "结构（从抽象到具体）：用户行为基础（14模式）→信息架构（10）→导航（13）→页面布局（13）→列表呈现（12）→动作与命令（11）→复杂数据图形（11）→表单控件（11）→社交媒体（12）→移动设计（11）→视觉风格（7）",
+    "功能定位：学习工具（界面设计'词汇表'）、示例库（每模式至少一个全彩实例）、术语系统（模式命名成为设计师/工程师/管理者共同语言）、方案比较、创意启发（理解'为什么有效'后进行创造性变体）",
+    "方法论定位：介于高层设计原则（强视觉层次/防止错误）与底层UI语法（控件/文本/网格）之间的'中间地带'；模式目录不是检查清单（checklist），不能用于衡量设计质量",
+    "价值：界面模式目录作为设计系统与平台规模化的组件语言基础",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第1章：用户行为基础模式",
+    "第2章：信息架构模式",
+    "第7章：复杂数据图形",
+    "第9-10章：社交媒体与移动设计",
+    "方法论定位：模式目录非检查清单"
+  ]
+}

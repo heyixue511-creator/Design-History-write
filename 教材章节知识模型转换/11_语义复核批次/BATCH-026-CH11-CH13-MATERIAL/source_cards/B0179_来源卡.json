@@ -1,0 +1,36 @@
+{
+  "source_id": "B0179",
+  "corpus": "book",
+  "folder_name": "Guy Julier：《From Visual Culture to Design Culture》",
+  "material_type": "设计文化范式论文（视觉文化批判）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Guy Julier：《From Visual Culture to Design Culture》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 5139}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_culture_paradigm"},
+    {"section_id": "0.3", "grade": "C", "verification": "V2", "role": "relational_analysis"},
+    {"section_id": "13.2", "grade": "C", "verification": "V2", "role": "design_culture_economy"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Guy Julier（英国利兹都市大学设计史教授），《From Visual Culture to Design Culture》，Design Issues 22(1)（Winter 2006, pp.64-76，MIT Press）——学科边界划定与范式转向倡议（立场论文）",
+    "核心论题：视觉文化研究以'观看之道'（way of looking）为中心的认识论框架，因其视觉中心主义（ocularcentricism）、对象单一化（singularization）和主客分离（alienated observer position）三重局限，无法有效处理当代设计实践中多平台、多节点、关系性、系统性的文化运作方式——需要以'设计文化'（Design Culture）为名的新学术范式",
+    "三重学术雄心：①揭示视觉文化研究处理当代设计问题的结构性不足；②梳理'设计文化'一词在学术/行业/公共话语中的多元语义；③提出可操作的设计文化研究概念模型",
+    "四领域概念框架：价值（values）/流通（circulation）/实践（practices）/产品（products）——打通设计史、设计研究与物质文化研究的学术壁垒",
+    "设计文化研究三大特征：关系性（relational——关注人造物之间、人造物与系统之间、设计与流通/实践之间的联结，而非孤立'观看'）、系统性、生成性（generative——不仅分析既存现象还能反哺设计实践）",
+    "'设计文化'五种既有用法：过程型、语境型、组织型、能动型、弥漫型",
+    "方法：概念史分析、学术谱系学（视觉文化源头追溯至1970年代'新艺术史'运动）、批判性话语分析（Foster/Van Winkel/Bryson）、类型学建构、概念建模",
+    "学术史定位：直接回应Margolin关于'设计研究博士层面训练'的呼吁（1992/2002）——设计学科从'史述'走向'研究'的关键节点文献",
+    "限度：论证主要依赖文本论证而非经验数据；设计市场/学生数量数据为背景性支撑",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：学科背景与论证策略",
+    "第一批判：视觉文化时期化逻辑与视觉中心主义",
+    "第二批判：当代设计实践的反证",
+    "模型建构：四领域概念框架",
+    "结论：关系性/系统性/生成性"
+  ]
+}

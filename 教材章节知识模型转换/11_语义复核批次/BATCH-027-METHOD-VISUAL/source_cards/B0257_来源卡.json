@@ -1,0 +1,35 @@
+{
+  "source_id": "B0257",
+  "corpus": "book",
+  "folder_name": "Ken Friedman：《Theory construction in design research criteria approaches, and methods》",
+  "material_type": "设计研究理论建构纲领论文",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Ken Friedman：《Theory construction in design research criteria approaches, and methods》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 14394}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "theory_construction_criteria"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_goal_directed_process"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "craft_to_industrial_science"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Ken Friedman，《Theory construction in design research: criteria, approaches, and methods》，Design Studies（2003，Elsevier）——设计研究领域理论建构问题的奠基性纲领文献",
+    "定位：设计学从'艺术与手工艺附属'向'综合性工业学科'转型的关键节点——为设计研究中的理论建构提供系统化概念框架、评判标准与方法论指引",
+    "总论题：设计研究若要成为成熟学科必须具备系统化的理论建构能力；当前设计领域理论建构存在严重缺陷，亟需建立明确标准与方法",
+    "关键论点：①设计是目标导向的过程（Simon定义——'设计行动方案以将现存境况转变为更优境况'）；②理论是模型——展示元素之间关系的模型（静态分类学vs动态过程模型——理论是从简单到复杂的连续体）；③理论建构有明确标准（McNeil 11条特征、Whetten四要素七问题、Parsons & Shils四层次理论系统）；④实践不等于研究——'混淆默会知识与一般设计知识是一种范畴错误'（最具论战性论点）；⑤理论使设计可预测（Deming'渊博知识'——从'摸索'muddling through升级为可预测可衡量的工业实践）",
+    "设计定位：'跨学科的整合性学科'（interdisciplinary, integrative discipline）——横跨自然科学/人文学科/社会科学/人类专业与服务/创意与应用艺术/技术与工程六大领域",
+    "关键案例：哥白尼革命类比（理论模型替代感官经验——设计理论以显性模型替代默会直觉，Polanyi）；Deming制造业批评（'经验回答一个问题，而问题来自理论'）；Fuller的class-one/class-two evolution（设计是影响整个地球生态系统的力量）",
+    "结构：定义基础（§1占40%——设计/研究/理论三概念澄清）→机制阐释（§2理论如何运作）→问题诊断（§3理论建构缺陷）→未来展望（§4研究议程）",
+    "历史意义：2003年前设计研究缺乏'何为理论''如何建构理论'的系统论述——本文填补空白，成为设计博士教育与设计研究方法的必引文献",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "§1：设计/研究/理论三概念界定",
+    "§2：理论作为模型与评判标准",
+    "§3：默会知识与理论知识的混淆批判",
+    "§4：从手工艺范式转向工业科学范式",
+    "关键案例：哥白尼类比与Deming"
+  ]
+}

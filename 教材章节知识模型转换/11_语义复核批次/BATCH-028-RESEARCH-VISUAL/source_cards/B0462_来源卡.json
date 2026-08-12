@@ -1,0 +1,34 @@
+{
+  "source_id": "B0462",
+  "corpus": "book",
+  "folder_name": "Wozencroft：《The graphic language of Neville Brody》",
+  "material_type": "Neville Brody 作品集（1980s英国平面设计）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Wozencroft：《The graphic language of Neville Brody》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 15, "report_characters": 3174}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.6", "grade": "B", "verification": "V2", "role": "brody_face_style_culture"},
+    {"section_id": "11.6", "grade": "C", "verification": "V2", "role": "tribalism_random_factor"},
+    {"section_id": "11.7", "grade": "C", "verification": "V2", "role": "media_rule_critique"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jon Wozencroft（文字与图注）/ Neville Brody（设计作品），《The Graphic Language of Neville Brody》（1988，Thames and Hudson；Reprinted 1997；474幅插图含101幅全彩）——1980年代英国平面设计师Neville Brody的作品专集兼设计理念文献",
+    "核心信条：'设计即语言'（设计如同法语德语一样是一种语言，不能中立——L235）；'揭示而非遮蔽'（design to reveal, not to conceal——全书第一信条，L70）",
+    "内容：约474幅作品（字体、唱片封面、杂志版式、书籍、海报）+1987年7月Brody访谈实录——按媒介组织：Introduction→Typography→Music（Fetish Records/Cabaret Voltaire/General/23 Skidoo）→Books→Magazines（The Face/New Socialist/City Limits/Arena/Vive）→Posters→Language",
+    "关键概念：signification（意指）批判——表面共享语言而剥离意义的当代设计病（L62/L843）；decay through process（过程之衰变）——机器转译导致人性流失（L1271）；tribalism/modern primitivism（部落主义/现代原始主义）——重新引入人的印记（L118）；style culture（风格文化）——风格先于内容、视觉旅游（L112/L1735）；The Media Rule（媒体规则）——'控制现在者控制过去'（L3727）；random factor/The Third Mind（随机因素/第三心智）——以偶然对抗循规蹈矩（L134-136）；signposting、Style Bible等",
+    "方法：作品—理念互证、访谈问答体、个案实证、宏观—微观叙事、历史类比（1930s/1980s）、媒介比较（杂志/电视/城市）——双声部（作者叙述+Brody自述）、格言化、引用拼贴、批判性修辞、概念命名",
+    "历史地位：1988年出版正值Brody声誉巅峰（'最具影响力的1980s设计师'）——理解1980年代英国平面设计（尤其The Face版式与独立唱片封面）的关键一手文献；'设计师作品集+访谈+媒介批评'的复合范式成为后续同类书籍（包括1994年续集《The Graphic Language of Neville Brody 2》）的模板；书中提出的设计批评概念（decay through process、signposting、Style Bible）在后继设计理论中被广泛引用",
+    "限度：以案例为中心、缺乏统一理论论证结构；作者与对象（Wozencroft-Brody合作）立场同构、缺独立审视距离；性别与多元视角缺失；部分页OCR质量差；1988年对电子设计的展望尚处萌芽",
+    "clean原文存在（约3950行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch01：'设计即语言'与'揭示而非遮蔽'",
+    "Ch05：The Face杂志版式核心专论",
+    "Ch03：独立唱片封面设计史",
+    "L134-136：随机因素/第三心智",
+    "L3727：'控制现在者控制过去'"
+  ]
+}

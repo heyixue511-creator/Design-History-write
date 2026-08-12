@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0058,C.0,B,V2,design_as_new_liberal_art,设计是'技术文化的新自由艺术'：既不能还原为美术、自然科学或社会科学，也不应被看作任何学科的'应用'版本；设计四领域（符号/物/行动/思想）与'布置学说'（placements替代categories）——设计学科元理论奠基——C.0设计史学科叙事,作者论文（1992）；杜威意向性操作哲学奠基,00_整体分析报告（核心论点）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0058,15.5,B,V2,wicked_problems_design_thinking,设计问题是不确定因而'棘手'的：设计没有固有主题（'没有关于特殊物的科学'）——Buchanan系统引入Rittel棘手问题理论并给出'为什么'的原创解答——15.5转型设计与系统时间尺度的理论基座,作者论文（1992）；第四节,00_整体分析报告（棘手问题理论）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0058,16.1,C,V2,design_four_areas,设计四领域（符号/物/行动/思想）将设计对象从物质产品扩展到组织服务与复杂系统——数字/AI时代设计对象的扩展框架——16.1从规则系统到机器学习系统（弱-中支撑）,作者论文（1992）；布置学说部分,00_整体分析报告（四领域论）,ACCEPTED_AS_SUPPORTING_SOURCE

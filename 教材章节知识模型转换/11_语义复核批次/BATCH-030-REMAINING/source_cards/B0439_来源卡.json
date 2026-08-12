@@ -1,0 +1,33 @@
+{
+  "source_id": "B0439",
+  "corpus": "book",
+  "folder_name": "Walker, John Albert; Attfield, Judy：Design History and the History of Design, 1989",
+  "material_type": "设计史学方法论导论（与B0438重复条目）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Walker, John Albert; Attfield, Judy：Design History and the History of Design, 1989_clean.md",
+  "duplicate_group": "与B0438（Walker 1989 Pluto Press）为同一书双条目",
+  "files": [{"report_file_count": 12, "report_characters": 4598}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "general_problems_historiography"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "style_socialized_concept"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "【重复处置披露】本条目与B0438（Walker, John A., Design History and the History of Design, 1989，Pluto Press，伦敦）为同一书双条目——B0438已复核并承担主映射（design_history_methodology C.0B、production_to_consumption_turn C.0C、feminism_as_politics 12.6C）",
+    "按'重复组只计一份P0'惯例：本卡仅承担差异化命题（B0438映射未覆盖的章节）",
+    "书本体例：John A. Walker撰写第1-6章及结语（研究对象'设计师与设计物品'检视/生产—消费总体模型/历史书写普遍问题/设计史诸方法论/风格与样式化/消费接受趣味），Judy Attfield撰写第7章（女性主义设计史批评'FORM/female FOLLOWS FUNCTION/male'）；与Conway《Design History: a Students' Handbook》（1987）同期的学科奠基性读物",
+    "差异化命题①历史书写的一般问题（Ch3）：设计史是历史学分支，须直面史学的普遍方法论问题——事实的性质、过去/现在区分、编年与叙事、共时/历时、分期、因果、变化理论、历史主义（四义）——为设计史提供史学方法论基础",
+    "差异化命题②风格的社会化（Ch5）：反对'时代精神'（Zeitgeist）单一风格论，主张风格与社群/时代/时尚的复杂关系——风格/样式化/生活方式的区分（style/fashion之辨）——风格意义由社会群体协商而非设计师意图决定（案例：Shakers L1974-1984）",
+    "其余内容（生产—消费模型、方法论目录、消费转向、女性主义政治立场）见B0438来源卡与映射",
+    "历史地位：与Conway手册同期；明确把社会史路径确立为设计史主流方向，并系统引入符号学/结构主义/接受美学/女性主义等理论资源；结语预示学科向社会科方向移动（L2552），警告沦为设计产业'仆从'的危险（L2560）；第7章与《A View from the Interior》（1989）同属1980年代末女性主义设计史浪潮",
+    "clean原文存在（3523行）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch3：历史书写一般问题（L453-870）",
+    "Ch5：风格/样式化/生活方式（L1793-2128）",
+    "Ch6：消费/接受/趣味（L2129-2540）",
+    "Ch7：Attfield女性主义批判（L2561-3060）",
+    "结语：学科向社会科移动的预示（L2552）"
+  ]
+}

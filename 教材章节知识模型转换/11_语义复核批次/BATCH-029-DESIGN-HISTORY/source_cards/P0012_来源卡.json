@@ -1,0 +1,34 @@
+{
+  "source_id": "P0012",
+  "corpus": "paper",
+  "folder_name": "Buchanan：《Discovering design explorations in design studies》",
+  "material_type": "设计研究会议论文集（Discovering Design）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Buchanan：《Discovering design explorations in design studies》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 4688}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "discovering_design_three_questions"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "design_middle_ground"},
+    {"section_id": "12.3", "grade": "C", "verification": "V2", "role": "manzini_habitable_world"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Richard Buchanan & Victor Margolin 编，《Discovering Design: Explorations in Design Studies》（1995，University of Chicago Press；ISBN 0-226-07814-0）——1990年11月5-6日于伊利诺伊大学芝加哥分校举行的同名邀请会议（'Discovering Design'）论文集扩充修订版",
+    "全书围绕'设计研究'（design studies）这一新兴交叉领域的三个基本问题组织：①如何把设计塑造成研究对象（Shaping the Subject）；②如何在复杂行动世界中辨认设计活动（The World of Action）；③如何回应设计与实践中反复出现的价值与责任问题（Values and Responsibilities）",
+    "11位作者分别来自设计实务、哲学、修辞学、市场营销、社会学、政治理论、技术哲学、文化理论等领域——代表设计研究在1990年代初最典型的多声部",
+    "导言提出'设计的四次发现'（存在、意义、活动本质、价值与原则）——全书各章从不同学科入口重新界定设计的性质、位置与责任",
+    "核心命题：设计不是一种边缘的'美化'活动，而是当代文化中连接理论与实践、词与物的'中间地带'（middle ground）；设计研究应把设计作为社会、文化与哲学考察的对象",
+    "各章要点：Buchanan——设计是工业与技术文化的'新自由艺术'，本质是修辞性的——主题不确定（indeterminate subject matter）、本质上是争议性领域；设计的四种起源（20世纪设计思维学科、工业革命、史前、创世）对应四种修辞常项（性格、权力、物质条件、精神生活）；Zaccai——工业分工导致统一品质的丧失，设计师应重新成为产品开发中的'远见型通才'；Borgmann——设计是'物质对象的卓越性'，其领域是'投入'（engagement）；Morello——以'用户'（user）取代'消费者'（consumer）作为设计与营销共同的基础范畴；Orel——提出'生命自我技术'（vital self-technologies）新品类；Cross——设计能力是人人有之、可被言说、可被损害或丧失的独立智能形式；Margolin——提出'产品环境域'（product milieu）与'产品网'（product web）；Winner——提出'政治人机工程学'（political ergonomics）；Mitcham——设计是介于思想与行动之间的'微型行动'/'原始实用主义'；Fry——'神圣设计'的再创造理论；Manzini——设计师的终极责任是'制造可居住的世界'，借贝特森意识理论提出'人工物的生态学'，主张从'作为生产的做'转向'作为再生产的做'",
+    "价值：设计研究建制化的里程碑文集——1990年代初期设计研究多学科对话的权威记录",
+    "clean原文存在（2718行）；未完成全篇、版次、数字和引注核验；文集各章命题按'分析报告综合'承担。"
+  ],
+  "original_spot_checks": [
+    "导言：'设计的四次发现'",
+    "L205：设计作为中间地带",
+    "Buchanan：四种起源对应四种修辞常项",
+    "Winner：政治人机工程学",
+    "Manzini：'制造可居住的世界'与人工物的生态学"
+  ]
+}

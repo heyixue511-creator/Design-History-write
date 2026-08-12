@@ -1,0 +1,15 @@
+{
+  "source_id": "P0010",
+  "corpus": "paper",
+  "folder_name": "Bruno Latour (as Jim Johnson)：《Mixing Humans and Nonhumans Together： The Sociology of a Door-Closer》，1988",
+  "material_type": "ANT奠基文献（Social Problems 35(3), 1988）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Bruno Latour (as Jim Johnson)：《Mixing Humans and Nonhumans Together The Sociology of a Door-Closer》，1988_paged_clean.md",
+  "duplicate_group": null,
+  "files": {"file_count": 9, "total_characters": 67484},
+  "report_structure": {"file_count": 9, "total_characters": 67484},
+  "candidate_sections": ["14.2", "16.6", "15.4"],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": "以关门器告示为最小案例系统化ANT词汇：委派/翻译、处方、脚本/场景、前铭刻、转出；'非人是社会的构成性成员'；'消失的大众'预告1992年Where Are the Missing Masses。OCR残损（摘要/脚注/参考文献）已在报告披露。",
+  "original_spot_checks": "综合入口+整体分析报告通读；概念行号核验"
+}

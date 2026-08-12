@@ -1,0 +1,15 @@
+{
+  "source_id": "P0020",
+  "corpus": "paper",
+  "folder_name": "DiSalvo：《Design and the Construction of Publics》",
+  "material_type": "设计政治理论论文（Design Issues 25(1), 2009）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Design and the Construction of Publics -- DiSalvo, Carl -- Design Issues, #1, 25_clean.md",
+  "duplicate_group": null,
+  "files": {"file_count": 9, "total_characters": 83574},
+  "report_structure": {"file_count": 9, "total_characters": 83574},
+  "candidate_sections": ["15.4", "12.4", "15.2"],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": "以 Dewey《The Public and Its Problems》为基石论证'公众由问题召唤而成形'；投射/追踪双战术（案例：Dunne&Raby《Is This Your Future?》、Preemptive Media《Zapped!》）；后启《Adversarial Design》(2012)——15.4 对抗性设计的理论前身。OCR 重排文本（脚注混排）。",
+  "original_spot_checks": "整体分析报告+01 全篇分析报告通读；case 案例边界核验"
+}

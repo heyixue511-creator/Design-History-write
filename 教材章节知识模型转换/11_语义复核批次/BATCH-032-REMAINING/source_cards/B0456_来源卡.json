@@ -1,0 +1,15 @@
+{
+  "source_id": "B0456",
+  "corpus": "book",
+  "folder_name": "William S. Peterson：《A bibliography of the Kelmscott Press》",
+  "material_type": "描述性书目（学术工具书，Clarendon 1984）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\William S. Peterson：《A bibliography of the Kelmscott Press》_clean.md",
+  "duplicate_group": null,
+  "files": {"file_count": 18, "total_characters": 113701},
+  "report_structure": {"file_count": 18, "total_characters": 113701},
+  "candidate_sections": ["2.3", "0.4"],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": "体裁为描述性书目（工具书），等级限 C。KP（1891-1898）全部印刷物著录（A1-A53 已出版书籍/未完成21项/广告51份/杂项12类/合同8份）；引言 15 小节含字体/纸张/底本/油墨/装帧等出版社史专题。",
+  "original_spot_checks": "综合入口+引言节核验；书目条目结构确认"
+}

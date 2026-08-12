@@ -1,11 +1,11 @@
 {
  "11.1": {
   "grades": {
-   "B": 10,
-   "C": 7,
+   "B": 14,
+   "C": 23,
    "A": 2
   },
-  "count": 19,
+  "count": 39,
   "items": [
    {
     "source_id": "B0415",
@@ -56,6 +56,46 @@
     "accepted_claim": "消费社会、青年反叛、媒体扩张与郊区化共同构成现代主义危机的社会条件，时尚在其中既是症状也是批判媒介",
     "evidence_boundary": "后现代讨论集中于Ch12且以时尚维度为主",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0215",
+    "title": "Johanna Drucker：《The Visible Word Experimental Typography and Modern Art, 1909-1923》，1994",
+    "grade": "B",
+    "verification": "V2",
+    "role": "experimental_typography_modern_art",
+    "accepted_claim": "实验排版作为现代艺术实践（Futurism/Dada/Cubism 1909-1923）：排版不是装饰不是'包装'而是意义生产的内在组成部分；New Criticism与High Modernism的对立性定义（视觉在场vs文学缺席）系统性遮蔽了排版实验——11.1现代主义危机的社会条件（现代主义视觉实验侧）",
+    "evidence_boundary": "作者专著（1994）；四诗人案例分析",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0314",
+    "title": "Mildred S. Friedman, Joseph Giovannini：《Graphic Design in America A Visual Language History》，1989",
+    "grade": "B",
+    "verification": "V2",
+    "role": "graphic_design_america_visual_language",
+    "accepted_claim": "美国平面设计史的第一个博物馆级学术叙事（1989 Walker Art Center展览图录）：将'graphic design'定义为一门具有独立视觉语言的学科；'presidential grid'（四年总统任期周期为时间网格）将设计史锚定于政治史；现代主义的美国化（欧洲先锋派被引入/转化/本土化）——11.1现代主义危机的社会条件（美国平面设计史侧）",
+    "evidence_boundary": "主编图录（1989）；12篇档案+7篇论文",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0355",
+    "title": "R. Roger Remington：《American modernism graphic design, 1920 to 1960》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "american_modernism_principles",
+    "accepted_claim": "美国现代主义平面设计史（1920-1960）：'现代主义是一套原则而非一种风格'（功能主义/简洁/无装饰/机器时代诚实材料观）；1930年代移民使纽约取代巴黎成为现代主义新中心；从'commercial art'到'graphic design'的专业化——11.1现代主义危机的社会条件（美国现代主义确立史）",
+    "evidence_boundary": "作者通史（2003）；编年七章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0362",
+    "title": "Reyner Banham：《A Critic Writes Selected Essays by Reyner Banham (Centennial Books)》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "banham_modern_movement_revision",
+    "accepted_claim": "现代运动修正史学：现代建筑正典存在'选择性失忆'，需补写被遗忘谱系（L662-678）；对后现代主义的拒绝——'后现代主义是穿裙子的建筑'（L4165-4166）——现代主义论争的重要一极",
+    "evidence_boundary": "11.1 现代主义危机的社会条件（史学论争侧）",
+    "status": ""
    },
    {
     "source_id": "B0372",
@@ -128,6 +168,46 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0004",
+    "title": "Adam, Peter：Eileen Gray：Architect, Designer, 1987",
+    "grade": "C",
+    "verification": "V2",
+    "role": "gray_E1027_modernism",
+    "accepted_claim": "E.1027海边住宅（1926-29）作为现代主义建筑经典：与Jean Badovici合作；后遭Le Corbusier在墙上绘制壁画——其争议本身成为现代主义所有权与性别政治的史料",
+    "evidence_boundary": "11.1 现代主义危机的社会条件（建筑侧背景）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0010",
+    "title": "Alain Weill：《The Poster A Worldwide Survey and History》，1985",
+    "grade": "C",
+    "verification": "V2",
+    "role": "sachplakat_modern_poster",
+    "accepted_claim": "德国现代海报革命：Lucian Bernhard 1906年'Priester火柴'Sach Plakat（物象海报）——'简单地将销售物品的图形加上缩至最简的商标名'——一场真正的革命——现代主义海报语言的确立——11.1现代主义危机的社会条件（海报现代性侧）",
+    "evidence_boundary": "作者通史（1985）；德国节",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0029",
+    "title": "Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "industrial_era_art_education_crisis",
+    "accepted_claim": "工业化/技术化时代艺术教育危机诊断：技术工具（圆珠笔/毡头笔/针管笔）重塑设计思维——学校应'发挥开拓者的功能'主动引领技术——11.1现代主义危机的社会条件（弱支撑）",
+    "evidence_boundary": "作者手册（1965）；导论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0063",
+    "title": "Calhoun：《Critical social theory culture, history, and the challenge of difference》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postmodernism_pseudohistory",
+    "accepted_claim": "后现代主义的'历史论断'是伪历史（pseudohistory）：所谓'后现代'特征（碎片化/意义丧失/主体性崩塌）本身就是整个现代性的内在特质；后现代主义最有价值的遗产（福柯/德理达对差异的强调）完全可以与'后现代性'的历史论断分离——11.1现代主义危机的社会条件（现代性/后现代性理论批判）",
+    "evidence_boundary": "作者专著（1995）；第4章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0075",
     "title": "Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999",
     "grade": "C",
@@ -138,6 +218,36 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0147",
+    "title": "Emil Ruder：《Typography - A Manual of Design [ Typographie ]》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "function_form_dialectic",
+    "accepted_claim": "功能与形式的辩证统一：拒绝纯唯美主义与装饰过剩，也批判一味功能主义而忽视形式感的倾向——现代主义设计伦理的排印表述——11.1现代主义危机的社会条件（弱支撑）",
+    "evidence_boundary": "作者手册（1967）；第2章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0148",
+    "title": "Emmanuel Cooper：《Ten Thousand Years of Pottery》，2000",
+    "grade": "C",
+    "verification": "V2",
+    "role": "artist_potters_studio_ceramics",
+    "accepted_claim": "由器及人的叙事转向：二十世纪艺术家-陶艺家（Leach/Murray/Rie/Coper/包豪斯/滨田庄司）与1970年代以来陶瓷作为'个人表达媒介'的解放、工艺与纯艺术界限的模糊化——11.1现代主义危机的社会条件（陶艺侧，弱支撑）",
+    "evidence_boundary": "作者通史（2000第四版）；第13-14章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0171",
+    "title": "Gombrich, E. H. (Ernst Hans)：《The sense of order a study in the psychology of decorative art》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "style_change_situational_logic",
+    "accepted_claim": "风格变迁=情境逻辑+竞争动力：没有单一的'时代精神'或'艺术意志'驱动风格变化——以Popper方法论替代黑格尔式集体精神（对Riegl/Wölfflin/Focillon风格理论的批判）——11.1现代主义危机的社会条件（风格理论批判侧）",
+    "evidence_boundary": "作者经典（1979/1984）；Ch VIII",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0176",
     "title": "Graphic Design Theory： Readings from the Field (Design -- Armstrong, Helen(Autho",
     "grade": "C",
@@ -145,6 +255,66 @@
     "role": "authorship_universality_responsibility",
     "accepted_claim": "三大核心议题（作者身份、普遍性、社会责任）的跨历史延续：从瑞士系统化到后现代反叛再到数字重构——现代主义危机的理论框架",
     "evidence_boundary": "编者框架（2009）；议题延续为跨时代对话命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0185",
+    "title": "Heller：《Paul Rand》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "european_modernism_americanized",
+    "accepted_claim": "欧洲现代主义在美国的本土化：Rand是将苏联构成主义、荷兰风格派、德国包豪斯的视觉语言引入美国商业艺术的关键渠道——现代主义跨大西洋传播的个案——11.1现代主义危机的社会条件（传播侧，弱-中支撑）",
+    "evidence_boundary": "作者传记（1999）；核心论题1",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0217",
+    "title": "Johannes Itten：《The Art of Color》，1961",
+    "grade": "C",
+    "verification": "V2",
+    "role": "objective_rules_subjective_experience",
+    "accepted_claim": "色彩客观法则与主观体验的辩证统一：'没有视觉准确性和情感力量的象征主义不过是贫瘠的形式主义'——现代主义设计教育的规范与自由之辩——11.1现代主义危机的社会条件（弱支撑）",
+    "evidence_boundary": "作者著作（1961）；引言/后记",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0221",
+    "title": "John Clifford：《Graphic Icons Visionaries Who Shaped Modern Graphic Design》，2014",
+    "grade": "C",
+    "verification": "V2",
+    "role": "graphic_icons_person_history",
+    "accepted_claim": "以人物而非运动/主题为线索的20世纪平面设计史入门：'这本书是关于人的，不是关于主题或运动的'——四段分期（早期现代/世纪中叶/后现代/数字时代）与48位核心设计师——实践者本位的设计史观——11.1现代主义危机的社会条件（人物史侧；入门书等级上限C）",
+    "evidence_boundary": "作者入门书（2014）；标准化卡片式模板",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0223",
+    "title": "John F. Pile, Judith Gura：《A History of Interior Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernism_interiors",
+    "accepted_claim": "现代主义室内：Wright与欧洲四先驱（Gropius/Mies/Le Corbusier）→Art Deco与工业设计→早期现代主义在欧洲传播→美国现代主义→全盛期（Ch16-20）；后现代转向（Venturi 1966）挑战现代主义（Ch21-22）",
+    "evidence_boundary": "11.1 现代主义危机的社会条件（室内/建筑侧背景）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0331",
+    "title": "Otl Aicher：《The World as Design》，1991",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postmodern_critique_ethics",
+    "accepted_claim": "对后现代主义的批判：形式主义'退化为随机性和浪费'、顶峰是'无法使用的有用物品'；'美学若无伦理则倾向欺骗'——设计哲学的现代性批判——11.1现代主义危机的社会条件（弱-中支撑）",
+    "evidence_boundary": "作者文集（1991）；后现代批判",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0354",
+    "title": "Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pevsner_teleology_critique_target",
+    "accepted_claim": "Pevsner现代主义目的论（'历史指向现代主义'的历史单元叙事）——后现代/后殖民史学批判的靶心之一：现代主义史学的目的论预设",
+    "evidence_boundary": "11.1 现代主义危机的社会条件（史学批判侧）",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -196,15 +366,45 @@
     "accepted_claim": "Jones 软技术（Softecnica）与过程思维：从产品思维转向情境、协作与持续设计——后现代设计方法论收束",
     "evidence_boundary": "Jones 独立随笔体命题，为全书正文最后一章，呼应编者导言",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0416",
+    "title": "The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar",
+    "grade": "C",
+    "verification": "V2",
+    "role": "arts_crafts_legacy_modernism",
+    "accepted_claim": "工艺美术运动未随一战终结：其抽象原则经由SPAB、花园城市、民艺运动（Mingei）、现代设计等路径延续至今——'changefulness'与'诚实'原则进入现代主义与后现代设计伦理",
+    "evidence_boundary": "尾声遗产评估（现代主义/民艺/当代实践）",
+    "status": "现代主义危机的社会条件（工艺美术遗产延续侧）"
+   },
+   {
+    "source_id": "B0439",
+    "title": "Walker, John Albert; Attfield, Judy：Design History and the History of Design, 1989",
+    "grade": "C",
+    "verification": "V2",
+    "role": "style_socialized_concept",
+    "accepted_claim": "反对'时代精神'（Zeitgeist）单一风格论：风格/样式化/生活方式的区分（style/fashion之辨）——风格意义由社会群体协商而非设计师意图决定（Shakers案例）——11.1现代主义危机的社会条件（风格理论侧）",
+    "evidence_boundary": "Walker导论（1989）；Ch5",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0458",
+    "title": "Witold Rybczynski：《Home A Short History of an Idea》，1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernism_austerity_machine_house",
+    "accepted_claim": "现代主义朴素（Austerity）与'机器住宅'批判：极简与反舒适的现代主义住宅理想——舒适观念的历史累积性被现代主义工程化所忽略——11.1现代主义危机的社会条件（住宅批判侧，弱-中支撑）",
+    "evidence_boundary": "作者经典（1986）；第9章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "11.2": {
   "grades": {
    "B": 5,
-   "C": 5
+   "C": 7
   },
-  "count": 10,
+  "count": 12,
   "items": [
    {
     "source_id": "B0176",
@@ -267,6 +467,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0246",
+    "title": "Kajri Jain：《Gods in the Bazaar The Economies of Indian Calendar Art》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "image_social_life_circulation",
+    "accepted_claim": "图像作为流转物体的社会生命：日历图像的价值与权力来自流通与交换领域的运作而非仅生产时刻（礼物/圣像/商品状态间流转）——11.2波普与日常商品（复制与消费图像理论侧）",
+    "evidence_boundary": "作者专著（2007）；第5章道德经济",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0306",
     "title": "Meggs, Philip B.; Purvis, Alston W.：Meggs' History of Graphic Design, 2016",
     "grade": "C",
@@ -297,6 +507,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0422",
+    "title": "The printed image and the transformation of popular culture, 1790-1860 (Anderson",
+    "grade": "C",
+    "verification": "V2",
+    "role": "mass_culture_consent_not_control",
+    "accepted_claim": "大众文化的形成并非压迫性'社会控制'，而是生产者与消费者经由'同意'（购买行为）展开的协商过程（葛兰西霸权框架）；1832年Penny Magazine为标志从工人阶级'通俗文化'转向跨阶级'大众文化'；高雅艺术自1845年后加速退出工人阶级视觉经验退回特权领域——大众文化批判理论的经验案例",
+    "evidence_boundary": "同意/霸权分析框架",
+    "status": "波普与日常商品（大众文化形成机制理论侧）"
+   },
+   {
     "source_id": "B0451",
     "title": "Wendy Siuyi Wong：《Hong Kong comics. A history of manhua》",
     "grade": "C",
@@ -310,10 +530,11 @@
  },
  "11.3": {
   "grades": {
-   "C": 1,
-   "A": 1
+   "C": 2,
+   "A": 1,
+   "B": 1
   },
-  "count": 2,
+  "count": 4,
   "items": [
    {
     "source_id": "B0238",
@@ -324,6 +545,26 @@
     "accepted_claim": "意大利激进路线（Studio Alchimia 1979—92、Archizoom、Superstudio、Global Tools）vs 美国历史主义路线（Venturi）：反设计的两大策源地分野",
     "evidence_boundary": "地域分野为编者框架（2017）；意大利个案细节另见B0346",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0056",
+    "title": "BUCHANAN, RICHARD. Branzi",
+    "grade": "B",
+    "verification": "V2",
+    "role": "branzi_dilemma",
+    "accepted_claim": "布兰齐困境：现代主义'意识形态降落伞'失效后个体身份与道德目标的根本两难——Andrea Branzi（Archizoom创始人/意大利激进设计理论核心）'我们是原始人'（1985）与'第二现代性'提议作为激进设计的思想遗产——11.3意大利激进设计与反设计（该节首次补证）",
+    "evidence_boundary": "作者论文（Branzi为透镜）；'设计中的愉悦与责任'会议",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0056",
+    "title": "BUCHANAN, RICHARD. Branzi",
+    "grade": "C",
+    "verification": "V2",
+    "role": "tribalization_prediction",
+    "accepted_claim": "部落化预言：缺乏统一文化视野时设计行业走向宗派化、围绕'家族首领'聚集（Branzi的悲观预测）——激进设计对专业制度的戏仿与批判语境——11.3意大利激进设计（理论侧）",
+    "evidence_boundary": "作者论文；Tribalization概念",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0337",
@@ -340,9 +581,10 @@
  "11.4": {
   "grades": {
    "A": 6,
-   "B": 1
+   "B": 2,
+   "C": 4
   },
-  "count": 7,
+  "count": 12,
   "items": [
    {
     "source_id": "B0071",
@@ -413,6 +655,56 @@
     "accepted_claim": "外延/内涵、纹章/面相的符号学分析工具：现代主义的\"未被承认的象征主义\"——从纯粹功能转向符号",
     "evidence_boundary": "符号学范畴（1972）；作者自承不走严格符号学路线（L1317）",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0031",
+    "title": "Frampton, Kenneth：Towards a Critical Regionalism：Six Points for an Architecture of Resistance, 1983",
+    "grade": "B",
+    "verification": "V2",
+    "role": "critical_regionalism",
+    "accepted_claim": "'批判的地域主义'（Critical Regionalism）：在普遍文明对地方文化全面压倒的时代，建筑以'后卫'（arrière-garde）立场、以地方特异性中介普遍文明（双重中介）维持抵抗性文化实践；支柱为有界场所形式、显露的建构与触觉经验——从纯粹功能转向历史、地域与抵抗——11.4建筑的复杂、矛盾与符号",
+    "evidence_boundary": "作者论文（1983）；Bagsvaerd Church等案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0261",
+    "title": "Kevin Lynch：《The Image of the City》，1960",
+    "grade": "C",
+    "verification": "V2",
+    "role": "legibility_public_image",
+    "accepted_claim": "城市可读性与公共意象：环境意象是观察者与环境双向互动的产物；形式与意义在规划分析阶段可分离处理（暂悬意义、优先'同一性'与'结构'）——从纯粹功能转向感知与符号的城市理论——11.4建筑的复杂、矛盾与符号",
+    "evidence_boundary": "作者经典（1960）；第一/三章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0379",
+    "title": "Rudolf Arnheim：《Art and Visual Perception A Psychology of the Creative Eye》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "perceptual_force_expression",
+    "accepted_claim": "知觉力与表现的'力之语法'：视觉经验是力的动态系统、定向张力与动力构图——感知-身体维度的艺术理论——11.4建筑的复杂、矛盾与符号（感知转向侧，弱支撑）",
+    "evidence_boundary": "作者经典（1954/1974）；IX/X章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0030",
+    "title": "Foucault, Michel：Of Other Spaces：Utopias and Heterotopias, 1967",
+    "grade": "C",
+    "verification": "V2",
+    "role": "epoch_of_space_site",
+    "accepted_claim": "当代经验以空间为轴心而非时间：空间概念经历'定位→延展→场所'（site，由邻近关系定义）范式转换——场所理论作为建筑符号与意义分析的基础——11.4建筑的复杂、矛盾与符号",
+    "evidence_boundary": "作者演讲（1967/1984）；概念史三段论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0031",
+    "title": "Frampton, Kenneth：Towards a Critical Regionalism：Six Points for an Architecture of Resistance, 1983",
+    "grade": "C",
+    "verification": "V2",
+    "role": "tactile_vs_visual",
+    "accepted_claim": "触觉vs视觉：不可还原的身体性触觉经验抵抗视觉霸权——感知-身体维度的设计抵抗纲领（Pallasmaa触觉论直接先驱）——11.4符号与感知转向",
+    "evidence_boundary": "作者论文（1983）；第6点",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
@@ -478,11 +770,11 @@
  },
  "11.6": {
   "grades": {
-   "C": 4,
+   "C": 6,
    "A": 3,
-   "B": 3
+   "B": 4
   },
-  "count": 10,
+  "count": 13,
   "items": [
    {
     "source_id": "B0080",
@@ -545,6 +837,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0462",
+    "title": "Wozencroft：《The graphic language of Neville Brody》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "brody_face_style_culture",
+    "accepted_claim": "Neville Brody（'最具影响力的1980s设计师'）：The Face杂志版式与独立唱片封面——'设计即语言''揭示而非遮蔽'；风格文化（style culture）——风格先于内容——1980年代英国亚文化图形的核心案例——11.6朋克、自出版与亚文化图形",
+    "evidence_boundary": "作者作品集（1988）；474幅作品+访谈实录",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0009",
     "title": "Alain Weill：《Graphic Design A History》，2004",
     "grade": "C",
@@ -583,16 +885,56 @@
     "accepted_claim": "现代主义图形语言的跨国谱系（未来主义→达达→构成主义→包豪斯）——后现代平面批判的谱系背景",
     "evidence_boundary": "通史表述；clean文本截断于包豪斯章（后期章节仅交叉引用）",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0404",
+    "title": "Stephen J. Eskilson：《Graphic Design A New History》，2007",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postmodern_grunge_digital",
+    "accepted_claim": "后现代主义多路径谱系与当代设计：grunge、数字美学、détournement、全球图形与公民设计——11.6朋克、自出版与亚文化图形的后现代延伸（弱支撑）",
+    "evidence_boundary": "作者通史（2007）；Ch9-10",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0462",
+    "title": "Wozencroft：《The graphic language of Neville Brody》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "tribalism_random_factor",
+    "accepted_claim": "部落主义/现代原始主义（重新引入人的印记）与随机因素/'第三心智'（以偶然对抗循规蹈矩）——亚文化美学的设计表达——11.6朋克、自出版与亚文化图形（美学侧）",
+    "evidence_boundary": "作者作品集（1988）；L118/L134-136",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "11.7": {
   "grades": {
-   "C": 4,
-   "B": 3
+   "C": 10,
+   "B": 8
   },
-  "count": 7,
+  "count": 18,
   "items": [
+   {
+    "source_id": "B0010",
+    "title": "Alain Weill：《The Poster A Worldwide Survey and History》，1985",
+    "grade": "B",
+    "verification": "V2",
+    "role": "poster_conquers_world",
+    "accepted_claim": "海报作为全球传播媒介：1889年巴黎世博会为原点，通过收藏家/期刊/各国新艺术运动三条渠道向全球扩散（1894-1898年间伦敦/纽约/柏林/维也纳/巴塞罗那/东京等地依次登场）——'在短短几年后，艺术海报和平面设计的第一根基已在西方世界主要国家'——11.7后现代的全球传播与边界（媒介全球史侧）",
+    "evidence_boundary": "作者通史（1985）；第5章与国别专论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0144",
+    "title": "Ellen Lupton, J. Abbott Miller：《Design Writing Research Writing on Graphic Design》，1996",
+    "grade": "B",
+    "verification": "V2",
+    "role": "graphic_design_as_writing",
+    "accepted_claim": "平面设计是一种书写——文字学（grammatology）宣告：排版/间距/标点/字形等'非语音差异结构'是书写的构成性力量而非附属；德理达解构理论的实践转化（'附饰'parergon双重性）；'总体作者身份'（total authorship）——11.7后现代的全球传播与边界（后现代平面设计理论）",
+    "evidence_boundary": "作者著作（1996）；17篇三板块",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
    {
     "source_id": "B0238",
     "title": "Judith Gura：《Postmodern Design Complete》，2017",
@@ -601,6 +943,16 @@
     "role": "postmodern_revival_global",
     "accepted_claim": "后现代主义复兴论：1990年代退入背景、21世纪以复杂科学/数字技术/全球化重生；传播路径（意大利→美国→英国→日本→德国→西班牙→葡萄牙）",
     "evidence_boundary": "复兴论为作者判断（2017）；全球南方覆盖有限（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0295",
+    "title": "Marshall McLuhan：《The Gutenberg Galaxy The Making of Typographic Man》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gutenberg_galaxy_media_theory",
+    "accepted_claim": "印刷术通过提升视觉感官打破感官比率，导致社会组织线性化、个体化与非部落化；电子时代逆转印刷效应、重新'部落化'为'地球村'——媒介决定感知与传播形式的经典理论——11.7后现代的全球传播与边界（媒介理论侧）",
+    "evidence_boundary": "作者著作（1962）；感官比率/地球村命题",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -624,6 +976,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0404",
+    "title": "Stephen J. Eskilson：《Graphic Design A New History》，2007",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernism_plural_narratives",
+    "accepted_claim": "平面设计史的核心论点：'现代主义'不是单一叙事而是多元甚至对立的路线集合；'去政治化'元概念（构成主义→包豪斯→MoMA→瑞士风格中立化→后现代重新政治化）——11.7后现代的全球传播与边界（多路径叙事）",
+    "evidence_boundary": "作者通史（2007）；元概念与Ch9",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0407",
+    "title": "Steven Heller, Georgette Ballance：《Graphic Design History》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "polyphonic_design_history",
+    "accepted_claim": "以论文集打破设计史单线叙事的多声部史书写：'设计史是人的历史而非风格清单'；'现代主义是多中心竞争的运动复合体'；历史书写本身需要历史化——11.7后现代的全球传播与边界（多路径/多声部叙事）",
+    "evidence_boundary": "编者文集（2001）；40篇论文",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0009",
     "title": "Alain Weill：《Graphic Design A History》，2004",
     "grade": "C",
@@ -631,6 +1003,16 @@
     "role": "japanese_graphic_boom",
     "accepted_claim": "日本平面设计的爆发——后现代全球传播的亚洲侧",
     "evidence_boundary": "通史表述；日本个案以B0197/专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0058",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), Discovering Design, 1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "selle_no_kitsch",
+    "accepted_claim": "'媚俗'（kitsch）概念本身是资产阶级文化划定边界的意识形态工具（挪用Bourdieu区隔理论）；大众消费品的'日常之美'早已实现先锋派未能达到的文化民主化——'自上而下的沉默文化革命'已发生——11.7后现代的全球传播与边界（高低文化边界批判侧；差异化命题）",
+    "evidence_boundary": "Selle论文（1989文集）；L2764-3209",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -644,6 +1026,16 @@
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    },
    {
+    "source_id": "B0146",
+    "title": "Ellen Lupton：《Thinking with Type》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "type_narrative_postmodern",
+    "accepted_claim": "字体史叙事与后现代字体理论：'字体作为程序'（Type as Program）/'字体作为叙事'（Type as Narrative）——现代主义与后现代字体理论的批判性史述——11.7后现代的全球传播与边界（弱支撑）",
+    "evidence_boundary": "作者教材（2004/2010二版）；Letter板块史论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0197",
     "title": "James H. Fraser, Steven Heller：《Japanese Modern Graphic Design Between the Wars》，1996",
     "grade": "C",
@@ -651,6 +1043,16 @@
     "role": "japanese_design_identity",
     "accepted_claim": "日本现代主义与政治意识形态张力（1930s国家主义压制、战时Front杂志中现代主义的\"幸存\"与转型）——后现代全球传播的日本前史",
     "evidence_boundary": "时段1941—45；战时宣传的接受侧证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0369",
+    "title": "Robert Bringhurst：《The Elements of Typographic Style》，1992",
+    "grade": "C",
+    "verification": "V2",
+    "role": "type_history_as_art_history",
+    "accepted_claim": "系统建立'字体史=艺术史'分期范式：字母史与技术史双线（Ch7）+多元文化排印伦理（ASCII狭隘性批判/多元文字权利）——11.7后现代的全球传播与边界（弱-中支撑）",
+    "evidence_boundary": "作者手册（1992/2004三版）；Ch7/Ch10",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -662,6 +1064,36 @@
     "accepted_claim": "日本是唯一保持与大众市场商品复杂语言联系的后现代设计运动（L1269）：1970s拒绝技术精湛营销、转向文化取向，1980s装饰性配色高科技商品瞄准女性与青年市场",
     "evidence_boundary": "单段命题（L1269），无展开论述；仅作11.7补充语境，与7.7日本线互参",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0432",
+    "title": "Victor Margolin：《Design discourse history, theory, criticism》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernism_end_declaration",
+    "accepted_claim": "现代主义设计范式的终结宣言：科学-技术-客观交流三联信条在1960年代崩溃；后现代状况（符号化、弱身份、智能技术、服务经济）要求新的设计定位——11.7后现代的全球传播与边界（弱-中支撑）",
+    "evidence_boundary": "编者文集（1989）；引言/Part I",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0462",
+    "title": "Wozencroft：《The graphic language of Neville Brody》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "media_rule_critique",
+    "accepted_claim": "'The Media Rule'：控制现在者控制过去——媒体操控批判；'意指'（signification）批判（表面共享语言而剥离意义的当代设计病）——11.7后现代的全球传播与边界（弱支撑）",
+    "evidence_boundary": "作者作品集（1988）；L3727/L62",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0057",
+    "title": "Richard Buchanan：《Declaration by Design Rhetoric, Argument, and Demonstration in Design Practice》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postmodern_communication_confusion",
+    "accepted_claim": "后现代设计概念（朋克、Memphis、Arquitectonica）令公众批评与设计沟通陷入混乱——设计沟通的规范需求——11.7后现代的全球传播与边界（弱支撑）",
+    "evidence_boundary": "作者论文（1985）；引言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  }

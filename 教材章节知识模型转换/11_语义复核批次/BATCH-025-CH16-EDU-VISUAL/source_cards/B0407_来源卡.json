@@ -1,0 +1,32 @@
+{
+  "source_id": "B0407",
+  "corpus": "book",
+  "folder_name": "Steven Heller, Georgette Ballance：《Graphic Design History》",
+  "material_type": "平面设计史论文集（多声部书写）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Steven Heller, Georgette Ballance：《Graphic Design History》，2001_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 12, "report_characters": 3180}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.7", "grade": "B", "verification": "V2", "role": "polyphonic_design_history"},
+    {"section_id": "9.5", "grade": "C", "verification": "V2", "role": "corporate_identity_institutionalization"},
+    {"section_id": "9.6", "grade": "C", "verification": "V2", "role": "modernism_multi_center"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Steven Heller & Georgette Ballance 编，《Graphic Design History》（2001，Allworth Press，New York），论文集——40篇论文+1篇访谈（Louis Danziger）+1份教学大纲（A Danziger Syllabus），按6大板块编排",
+    "结构：Legacy Considered（史观方法论：McCoy美国排印表达史、Frascara'关切史'方法论）→Between Covers（杂志媒介史6篇：Fortune/Avant Garde/Esquire/Emigre）→Designed Lives（18位设计家传记：Beall至Wolf，含Olden/Pineles/Gordon-Lazareff等长期被遮蔽者）→Avant-Garde（先锋作品：Lissitzky《For the Voice》、包豪斯、Zwart NKF目录、Massin《秃头歌女》、解构主义）→Mass Communication（广告/苏联电影海报/哈莱姆文艺复兴/政治图像/CCA企业史/VW广告/荷兰PTT）→Epilogue（Danziger课程大纲——'教学转向'）",
+    "核心论点：①设计史是人的历史而非风格清单；②设计史应回答'关切'而非罗列风格（Frascara：synchronic/diachronic、四种设计）；③杂志是平面设计现代性的实验场；④现代主义是多中心竞争的运动复合体（Gesamkultur/Sachlichkeit/Sachplakat/typotekt）；⑤广告是平面设计之母（big idea/creative revolution）；⑥企业识别成败系于信念的制度化；⑦历史书写本身需要历史化（four main lines/biased history）",
+    "历史地位：以论文集形式打破设计史单线叙事的多声部史书写标志性样本；种族（Olden/哈莱姆文艺复兴）与性别（Pineles/ELLE）议题系统进入领先于2000年代初同类通史；40篇论文多源自PRINT/Graphis/AIGA Journal等难寻期刊——文献抢救价值",
+    "限度：欧美中心（亚洲仅大纲日本一节）；各篇写作年代跨度大（1959-1998）未统一校正；'整体性'依赖编者编排而非论证链",
+    "clean原文存在（6416行）；未完成全篇、版次、图版、数字和引注核验；文集各章命题按'分析报告综合'承担。"
+  ],
+  "original_spot_checks": [
+    "Ch02：McCoy/Frascara方法论两篇",
+    "Ch03：杂志媒介史",
+    "Ch05：Lissitzky《For the Voice》与包豪斯",
+    "Ch06：CCA企业史与VW广告",
+    "Ch07：Danziger课程大纲"
+  ]
+}

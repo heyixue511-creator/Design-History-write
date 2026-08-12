@@ -1,0 +1,36 @@
+{
+  "source_id": "B0271",
+  "corpus": "book",
+  "folder_name": "Lawson, Bryan：How Designers Think：The Design Process Demystified, 2005",
+  "material_type": "设计认知/方法论经典（14章）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Lawson, Bryan：How Designers Think：The Design Process Demystified, 2005_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 21, "report_characters": 165538}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_cognition_classic"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_learnable_skill"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "process_oriented_design_education"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Bryan Lawson（谢菲尔德大学建筑学院教授、GABLE计算机辅助设计研究单元主任），《How Designers Think: The Design Process Demystified》（第一版1980；正文为第二版文本，2005年重印；Architectural Press/Elsevier；14章）——跨越设计方法论、认知心理学与建筑教育三重领域的综合性著作，旨在揭示设计思维的本质特征而非提供规范性设计方法",
+    "四板块结构：①设计是什么（第1-3章：设计作为可学习技能/设计师角色变迁/设计过程的各种'地图'模型及局限）；②问题与解决方案（第4-7章：问题层级结构与多维性/测量标准与判断/约束分类学/问题与解决方案的动态关系）；③设计思维（第8-11章：思维类型与风格/创造性思维/设计哲学/设计策略）；④设计实践语境（第12-14章：设计策略与陷阱/与他人共同设计/与计算机共同设计CAD）",
+    "核心论题：①设计是一种可学习技能而非神秘天赋（以高尔夫挥杆/长笛演奏为类比）；②设计问题与解决方案共同涌现——'分析通过综合'（analysis through synthesis）挑战'先分析后综合'线性模型；③不存在唯一正确的设计过程；④设计本质上是规范性（prescriptive）活动而非描述性活动（与科学区别）；⑤约束模型（generators-domain-function——生成者/域/功能三维分类）作为理解设计问题的框架（最具原创性的学术贡献之一）",
+    "学术贡献：①彩色积木实验（1972/1979）首次用可控实验证明建筑系学生与科学系学生在问题解决策略上的系统性差异——设计师采用'解决方案聚焦'策略；②整合设计方法论与认知心理学；③对第一代设计方法的建设性批判（继承系统化努力但超越机械论局限）",
+    "方法：实验心理学（可控实验）、协议分析（Eastman/Akin/Rowe）、访谈与文献分析（RIBA Journal建筑师自述）、现象学描述（二十余年设计教学经验）、分类学建构、案例研究（雪屋到悉尼歌剧院）",
+    "思想脉络：第一代设计方法（Asimow/Alexander/Archer/Jones）→认知心理学革命（Neisser/Guilford/Bartlett）→建筑现象学（Norberg-Schulz/Hertzberger）→计算机辅助设计研究（Maver/Negroponte/Lansdown，亲自参与GABLE项目）——在方法论的普遍主义与实践的个体主义之间寻找平衡",
+    "关键概念：primary generator（初级生成器）、constraints model、analysis through synthesis、convergent/divergent thinking、heuristic strategies、design traps（分类陷阱/拼图陷阱/数字陷阱/图标陷阱/意象陷阱）",
+    "影响：1980年以来设计教育领域经典著作；推动从'产品导向'到'过程导向'的转变；为设计研究提供方法论互补示范；结尾名言：'Perhaps we should hope never fully to understand the way designers think, for it is exactly because the designer does not know what he will think next which makes design such a challenging and satisfying occupation'",
+    "限度（分析者归纳）：文化偏见（英国/西方建筑传统）、规模局限（个体设计师认知为主）、经验证据稀疏性（轶事与个人经验）、描述性而非规范性、数字设计讨论止于1980年代末",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第3章：彩色积木实验与解决方案聚焦策略",
+    "第6章：约束分类学（生成者/域/功能）",
+    "第7章：分析通过综合",
+    "第8-9章：思维类型与创造性",
+    "第12章：设计策略与陷阱"
+  ]
+}

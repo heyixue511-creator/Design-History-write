@@ -1,0 +1,33 @@
+{
+  "source_id": "B0330",
+  "corpus": "book",
+  "folder_name": "Oscar Lovell Triggs：《Arts Crafts Movement》",
+  "material_type": "工艺美术运动专论（Ruskin-Morris-Ashbee谱系）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Oscar Lovell Triggs：《Arts Crafts Movement》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 7, "report_characters": 13530}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "2.3", "grade": "B", "verification": "V2", "role": "arts_crafts_genealogy"},
+    {"section_id": "2.3", "grade": "C", "verification": "V2", "role": "industrial_commonwealth_vision"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Oscar Lovell Triggs，《Arts & Crafts Movement》（Parkstone Press，'Art of Century'系列之一；Parkstone重印的经典文本——Triggs为1902年《The Arts and Crafts Movement》的作者）——工艺美术运动专论，兼具学术史论与社会思想评述双重属性",
+    "四层核心功能：①思想史梳理——系统追溯工艺美术运动从John Ruskin到William Morris再到C.R. Ashbee的思想演进脉络，确立三者之间的师承与发展关系；②社会实践分析——深入考察工艺美术运动如何从理论建构走向工坊实践——从Morris的红屋实验、Morris & Co.的商业实践，到Ashbee的Guild and School of Handicraft、Rookwood Pottery的产业实验；③社会批判文献——全书以'艺术与劳动的关系'为轴心，对19世纪工业化带来的劳动异化、机器生产对人的压抑、分工体系对完整人格的割裂进行系统性批判；④未来愿景建构——第四章将工艺美术运动定位为'工业意识的发展'，将Morris的'艺术即生活的愉悦'与Tolstoy的'艺术即情感感染'并置，提出以'自愿的合作性个人主义'为目标的工业民主化图景",
+    "结构：卷首图版（约12幅跨页彩图）→目录→第一章Ruskin's Contribution to the Doctrine of Work（思想奠基——确立理论根基）→第二章Morris and his Plea for an Industrial Commonwealth（实践示范——从理论到工坊）→第三章Ashbee and the Reconstructed Workshop（制度创新——工坊重构与公民理想）→第四章The Development of Industrial Consciousness（理论升华——艺术/教育/工业的三位一体）→附录A Major Artists（主要艺术家简介——人物档案）/附录B Bibliography（参考书目）/附录C Index（索引）——四段递进模式：思想奠基→实践展开→制度创新→理论综合，呈现清晰的'师承谱系'（Ruskin→Morris→Ashbee）与逻辑深化（从艺术批评到政治经济学到工坊组织到社会哲学）",
+    "总命题：艺术与劳动的统一是良好社会的必要条件；工业化破坏了这一统一，工艺美术运动则试图修复它——三个子命题：①Ruskin层面——艺术是道德/社会的表达而非单纯的感官愉悦（'伟大的艺术不过是强大而高贵生命的类型'Great art is nothing else than the type of strong and noble life）；②Morris层面——手工艺的生产方式本身就是社会改革的载体。通过在工作过程中获得愉悦，工人可以摆脱工资奴役制；③Ashbee/Triggs层面——工坊可以成为学校、工厂与公民社会的三位一体，从而实现'工业民主'",
+    "关键案例：①Ruskin——《现代画家》《威尼斯之石》《七盏明灯》中的论述；St. George's Guild实验；②Morris——Red House建造与装饰（1859-1860）、Morris, Marshall, Faulkner & Co.的创立（1861）、Merton Abbey工坊、Kelmscott Press；③Ashbee——Essex House的Guild and School of Handicraft（1888-1907）、Rookwood Pottery的产业模式",
+    "第四章理论升华：'艺术与教育的新定义指向同一方向：个体表达与社会联合'——Morris'艺术即生活的愉悦'、Tolstoy'艺术即情感感染'、Parker/Dewey的教育新定义",
+    "价值：工艺美术运动的早期经典文献（1902年文本的Parkstone重印版）——Ruskin-Morris-Ashbee思想谱系的清晰梳理",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第一章：Ruskin劳动学说",
+    "第二章：Morris与工业联邦诉求",
+    "第三章：Ashbee重构的工坊",
+    "第四章：工业意识的发展",
+    "总命题：'艺术与劳动的统一是良好社会的必要条件'"
+  ]
+}

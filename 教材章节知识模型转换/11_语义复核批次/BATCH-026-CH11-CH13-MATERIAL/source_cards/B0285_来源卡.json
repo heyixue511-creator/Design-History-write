@@ -1,0 +1,38 @@
+{
+  "source_id": "B0285",
+  "corpus": "book",
+  "folder_name": "Margolin, Victor, Design History or Design Studies, 1992",
+  "material_type": "设计史学科纲领论文（设计史抑或设计研究）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Margolin, Victor, Design History or Design Studies, 1992.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 4084}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "design_studies_replacement"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "pevsner_genealogy_critique"},
+    {"section_id": "0.3", "grade": "C", "verification": "V2", "role": "discipline_to_field"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Victor Margolin（1941-2019，美国设计史家，伊利诺伊大学芝加哥分校设计史教授，Design Issues期刊联合创始人），《Design History or Design Studies: Subject Matter and Methods》（1991年4月米兰理工大学会议演讲修订版；首发Design Studies 13(2) 1992: 104-116；转载Design Issues 11(1) 1995: 4-15）",
+    "核心论题：设计史自20世纪70年代建制化以来，始终未能在学科对象（subject matter）与方法论（methods）两个层面建立稳固基础——其发展并非基于对'设计是什么'的清晰理解，而是对早期奠基性叙事（Pevsner《Pioneers of the Modern Movement》）的被动回应（先颂扬后批判）",
+    "正面主张：应以'设计研究'（design studies）取代'设计史'（design history）——以一个开放的、围绕'人工物'（the artificial）这一核心主题组织的问题域，替代试图固化学科边界却无法做到的历史学科",
+    "设计研究不仅包括历史维度，也容纳关于产品构思、规划、生产、形式、分配与使用的当代问题，并向人类学、女性主义、文化研究、技术哲学开放方法论",
+    "Pevsner批判：道德主义方法论、康德式美学预设、地理/类型排斥机制；Banham（通俗文化）、Heskett（军事设计）、Buckley（女性主义与手工艺）及非西方地域的主题域扩展并未解决边界问题",
+    "定义困境：Maldonado对工业设计定义的困境、Deforge对工程师与设计师的历史区分——'设计'无法像蝴蝶标本一样被固定分类",
+    "术语转换：借助Geertz'模糊文类'论和艺术史从'学科'到'艺术研究'的转型先例——从'学科'到'场域'",
+    "方法：史学史批评（historiographical critique）、概念分析、类比论证、权威引用（Geertz/Maldonado/Blake/Kates）、诊断—处方结构",
+    "学术史定位：设计史学科史上最具影响力的纲领性文献之一——首次系统从认识论层面拷问设计史学科基础；'设计研究'命名深刻影响此后二十余年设计学术发展方向",
+    "限度：纲领性大于操作化（未提供具体研究方法/课程架构）；'人工物'概念无所不包的危险；未充分讨论体制化条件",
+    "与Buchanan《Wicked Problems in Design Thinking》（1992）构成同一时期互补方向的两篇纲领文献——Buchanan侧重设计实践认知特征、Margolin侧重设计学术知识组织方式",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：Blake'可辨识的知识体'挑战",
+    "Pevsner批判：道德主义方法论与排斥机制",
+    "主题域扩展：Banham/Heskett/Buckley",
+    "定义困境：Maldonado/Deforge",
+    "走向设计研究：'人工物'宽定义与开放问题模式"
+  ]
+}

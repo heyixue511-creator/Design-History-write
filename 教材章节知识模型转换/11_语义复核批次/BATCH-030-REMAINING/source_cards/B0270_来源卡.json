@@ -1,0 +1,33 @@
+{
+  "source_id": "B0270",
+  "corpus": "book",
+  "folder_name": "Lawson, Bryan; Dorst, Kees：Design Expertise, 2009",
+  "material_type": "设计专长认知研究著作",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Lawson, Bryan; Dorst, Kees：Design Expertise, 2009.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 5911}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_expertise_dreyfus"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "design_education_hidden_curriculum"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_activity_classification"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Bryan Lawson（谢菲尔德大学建筑学院）& Kees Dorst（埃因霍温理工大学/悉尼科技大学），《Design Expertise》（2009，Elsevier/Architectural Press，约320页7章）——设计认知研究/设计教育/专长心理学",
+    "总命题：设计专长不是天赋的神秘赐予，而是一组可以通过识别、学习、教学和持续实践来发展的复杂认知技能集合——专长的发展不是'更好更快地做相同的事'，而是'以质上不同的方式运作'——这要求整个设计教育体系和专业实践组织进行根本性反思",
+    "三层论证结构：①设计本体论（第1-2章）——设计不可被单一定义或模型捕获（多重思维模式的混合体）；设计既非纯粹科学也非纯粹艺术（认知世界中的'鸭嘴兽'）；设计活动可分为五个类别（Formulating/Representing/Moving/Evaluating/Managing）在四个层级（Project/Process/Practice/Profession）上运作，依赖三种思维类型（Convention-based/Situation-based/Strategy-based）；设计知识主要是情节性（episodic）而非语义性（semantic）的；②专长发展论（第3-5章）——专长遵循Dreyfus六层模型：Novice→Advanced Beginner→Competent→Expert→Master→Visionary；各层级在设计中叠加共存（非替代），专家拥有丰富的思维模式库；从属技能（绘画/语言）必须'透明化'（自动化）才能服务于核心设计思维；设计图式（schemata）/指导原则（guiding principles）/设计博弈（gambits）/先例（precedent）是专业设计师的核心认知工具；平行思维线（parallel lines of thought）是大师级设计的标志性策略；③教育与实践批判（第6-7章）——全球统一的设计教育模式（工作室/辅导/评审/图书馆）受益于但也受限于'神圣物'（fetish）效应；'隐藏课程'（hidden curriculum）比正式课程更有力地塑造学生；专长发展是非线性的——二年级学生可能比五年级'表现更好'；设计实践组织普遍存在'学习无能'——项目间的知识传递系统性断裂；设计是终身旅程——设计师的身份认同、自我批评、职业焦虑都是专长发展中不可避免的存在维度",
+    "方法：混合研究方法的系统运用——①实验室实验（Lawson积木实验1979：科学家vs建筑师认知策略差异；Menezes素描描述实验2006：新手vs毕业生对先例的编码方式）；②协议分析（Delft火车垃圾系统研究：1.5小时16名被试三种专长水平；Khairul Khaidzir辅导对话的定量分析）；③访谈研究（大量世界级设计师的半结构化访谈——Calatrava/Hertzberger/Crouwel/Venturi & Scott Brown/Jiricna/Yeang等十余人——以'设计师自述'而非'研究者的解释'形式呈现）；④田野研究（LEAF项目：四年期英国运输业主要机构的多项目追踪；Eindhoven学生自评档案的纵向分析）；⑤历史/哲学分析（Darwin进化论发现史——消解'尤里卡时刻'神话；Wittgenstein的'家族相似性'——为放弃本质主义定义提供方法论基础；Dreyfus对AI连续性假设的批判——为专长层级的质性差异提供哲学论辩）",
+    "方法论立场：坚定的反实证主义和反AI模拟主义的——作者明确站在'设计包含不可编码的人类认知'这一立场上，反复论证设计超越了计算心智理论（computational theory of mind）的能力边界",
+    "影响：设计专长研究的权威综合——与Cross《Designerly Ways of Knowing》/《Design Thinking》、Dorst《The Core of Design Thinking》构成设计认知研究谱系",
+    "clean原文存在（774073字节大文件）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第1-2章：设计本体论与三分析模型",
+    "第3章：Dreyfus六层模型",
+    "第4-5章：设计图式/指导原则/博弈/先例",
+    "第6章：隐藏课程与非线型专长发展",
+    "第7章：'学习无能'与终身旅程"
+  ]
+}

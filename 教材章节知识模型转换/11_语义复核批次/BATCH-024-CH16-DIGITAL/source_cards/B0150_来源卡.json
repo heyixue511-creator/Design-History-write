@@ -1,0 +1,36 @@
+{
+  "source_id": "B0150",
+  "corpus": "book",
+  "folder_name": "Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》",
+  "material_type": "软件设计模式经典（GoF四人组）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 11, "report_characters": 3233}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.6", "grade": "B", "verification": "V2", "role": "software_pattern_catalog"},
+    {"section_id": "14.1", "grade": "C", "verification": "V2", "role": "oop_design_object"},
+    {"section_id": "14.6", "grade": "C", "verification": "V2", "role": "knowledge_cataloguing_tradition"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Erich Gamma、Richard Helm、Ralph Johnson、John Vlissides（'GoF四人组'），《Design Patterns: Elements of Reusable Object-Oriented Software》（1995，Addison-Wesley Professional Computing Series）",
+    "核心命题：可复用面向对象设计之难可借'模式'化解——专家不从头解决问题，而是复用过去成功的方案；提炼为23个可命名、可描述、可传授、可复用的设计模式",
+    "分类：'目的（创建/结构/行为）× 范围（类/对象）'二维分类；13节统一描述模板（动机/适用性/结构/参与者/协作/后果/实现/示例代码/已知使用/相关模式）",
+    "两条设计原则：①Program to an interface, not an implementation；②Favor object composition over class inheritance；元原则：Encapsulate the concept that varies（封装变化的概念）",
+    "贯穿案例：Lexi文档编辑器（七个设计问题→八个模式：Composite/Strategy/Decorator/Abstract Factory/Bridge/Command/Iterator/Visitor）",
+    "23模式：创建型（Abstract Factory/Builder/Factory Method/Prototype/Singleton）、结构型（Adapter/Bridge/Composite/Decorator/Facade/Flyweight/Proxy）、行为型（Chain of Responsibility/Command/Interpreter/Iterator/Mediator/Memento/Observer/State/Strategy/Template Method/Visitor）",
+    "提供'设计词汇'：把设计讨论从类/对象层级提升到模式层级；开创软件设计模式学科，为PLoP运动提供范式",
+    "与Alexander建筑模式语言、Knuth算法目录共同构成'知识目录化'传统在软件领域的接续；自认不构成完整模式语言",
+    "限度：不涉及并发/分布式/实时领域；示例依赖C++/Smalltalk语境；模式选择仍高度依赖经验；模式可能被滥用",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1：模式定义与MVC例证",
+    "Ch2：Lexi案例贯通八模式",
+    "Ch3-5：23模式目录",
+    "Ch6：模式四重价值与成书史",
+    "L704/L730：两条设计原则"
+  ]
+}

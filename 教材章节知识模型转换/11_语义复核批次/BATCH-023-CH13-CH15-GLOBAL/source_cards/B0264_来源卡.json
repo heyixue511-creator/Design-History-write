@@ -1,0 +1,38 @@
+{
+  "source_id": "B0264",
+  "corpus": "book",
+  "folder_name": "Klaus Krippendorff：《The Semantic Turn A New Foundation For Design》",
+  "material_type": "设计哲学著作（语义转向）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Klaus Krippendorff：《The Semantic Turn A New Foundation For Design》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 12, "report_characters": 3310}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.2", "grade": "B", "verification": "V2", "role": "semantic_turn_interface_meaning"},
+    {"section_id": "16.5", "grade": "C", "verification": "V2", "role": "human_centered_four_levels"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "science_for_design"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Klaus Krippendorff（宾夕法尼亚大学安纳伯格传播学院Gregory Bateson讲座教授），《The Semantic Turn: A New Foundation for Design》（2006，CRC Press/Taylor & Francis；Bruce Archer撰前言）",
+    "核心主张：设计应从以技术为中心的'形式追随功能'（Form Follows Function）转向以人为中心的'设计即创造意义'（Design is Making Sense of Things）；以'界面追随可识别的意义'（Interfaces follow recognizable meanings）替代前者",
+    "第一公理：'人类不为事物的物理性质而响应，而是响应其意义'——感知-行动循环中的可能空间",
+    "第二序理解（Second-order Understanding）：设计师必须理解利益相关者的理解——全书方法论核心",
+    "四层意义理论（四个不可相互还原的意义语境）：使用中的意义（识别-探索-依赖三级使用模型，Ch3）、语言中的意义（范畴/特征/身份/叙事/文化，Ch4）、生命历程中的意义（利益相关者网络，Ch5）、生态中的意义（人工物物种间合作/竞争/独立，Ch6）",
+    "人工物轨迹（Trajectory of Artificiality）：产品→商品/服务/身份→界面→多用户系统→项目→话语——设计对象从物质产品扩展到社会过程",
+    "'为设计的科学'（Science for Design）纲领，区别于Simon的'人工科学'（Science of the Artificial）；设计伦理学内置于方法论（利益相关者概念蕴含政治与伦理维度）",
+    "第9章追溯语义转向在乌尔姆设计学院（Ulm）的思想谱系（1960-1961年Archer/Butter/Krippendorff同在乌尔姆）；产品语义学诞生（1984）",
+    "第8章与符号学、认知主义、人因工程、美学、功能主义、营销、文本主义逐项划界",
+    "对话谱系：Simon/Rittel/Cross、维特根斯坦/Vico/Maturana&Varela、Whorf/Austin/Searle、Mead/Blumer/Foucault、Uexküll/Gibson、Bateson/Ashby",
+    "限度：'意义'定义偏使用与语言实践（情感/审美/无意识层薄弱）；'为设计的科学'未充分经验验证；利益相关者模型面临权力不对称挑战；以西方设计传统为主要参照",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：'Design is making sense of things'",
+    "第2章：意义公理与第二序理解",
+    "第3章：识别-探索-依赖三级使用模型",
+    "第7章：为设计的科学",
+    "第9章：乌尔姆根源"
+  ]
+}

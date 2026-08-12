@@ -1,0 +1,36 @@
+{
+  "source_id": "P0038",
+  "corpus": "paper",
+  "folder_name": "Igor Kopytoff：《The Cultural Biography of Things： Commoditization as Process》，1986",
+  "material_type": "物质文化经典论文（物文化传记）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Igor Kopytoff：《The Cultural Biography of Things： Commoditization as Process》，1986_paged_clean.md",
+  "duplicate_group": "无精确哈希重复（B0028 Appadurai文集核心章节单篇）",
+  "files": [{"report_file_count": 9, "report_characters": 4811}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "0.4", "grade": "C", "verification": "V2", "role": "cultural_biography_method"},
+    {"section_id": "13.2", "grade": "C", "verification": "V2", "role": "commoditization_singularization"},
+    {"section_id": "2.7", "grade": "C", "verification": "V2", "role": "moral_economy_exchange_spheres"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Igor Kopytoff（宾夕法尼亚大学人类学教授），《The Cultural Biography of Things: Commoditization as Process》（1986），收入Appadurai编《The Social Life of Things》（Cambridge UP）——物质文化经典章节",
+    "核心论点：商品的本质不在物本身，而在物的生涯；商品化是文化与个体在'可交换'与'不可交换'两极之间争夺物之身份的永恒过程",
+    "文化视角：商品不仅被物质地生产，还被文化地标记——同一物可此一时为商品、彼一时不是，可同时被一人视为商品、被另一人视为他物——背后是'道德经济'（moral economy）",
+    "'物的文化传记'方法：以奴隶制研究的过程论为原型——把商品化看作'成为的过程'而非'全有或全无的状态'",
+    "理论框架：理想极类型（完全商品化世界/完全单一化世界）、交换领域（Tiv三领域）、商品化驱动力与交换技术（布罗代尔）、单一化（singularization）诸形式（圣化、受限/终端商品化terminal commoditization、个体再定义）",
+    "复杂社会案例：非洲艺术收藏、收藏热、费城Rocky雕像争议、毕加索无价悖论；西方'人与物'两大交换领域及其当代商品化边界（血液、器官、卵子、代孕）",
+    "结论：修正涂尔干命题——社会'建构物如同建构人'（personhood）——小规模社会与复杂社会的'物之传记轮廓'对比",
+    "影响：'文化传记''商品化/单一化'成为物质文化研究、消费研究的标准概念",
+    "去重：与B0028（Appadurai文集导论）共享理论框架——按'共享理论资源只计一份P0'惯例，本卡承担文化传记方法论与商品化边界案例的差异化命题",
+    "clean原文为源文件；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L5-7：道德经济与商品的文化标记",
+    "L13-35：文化传记方法",
+    "L49-51：完全商品化/完全单一化极类型",
+    "L73-99：单一化诸形式",
+    "L139-159：西方人与物交换领域与商品化边界"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "B0400",
+  "corpus": "book",
+  "folder_name": "Sparke, Penny：《An introduction to design and culture 1900 to the present》",
+  "material_type": "设计文化导论（2013第三版）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Sparke, Penny：《An introduction to design and culture 1900 to the present》_clean.md",
+  "duplicate_group": "与B0398（1986初版/2004二版）为同一著作版本条目",
+  "files": [{"report_file_count": 1931, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "sparke_design_culture_3rd_ed_diff"},
+    {"section_id": "12.1", "grade": "C", "verification": "V2", "role": "design_practice_21c"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Penny Sparke，《An Introduction to Design and Culture: 1900 to the Present》第三版（Third edition, Routledge, 2013）——与B0398（1986初版/2004二版）系同一著作的另一版本条目；本卡承担第三版差异化命题",
+    "结构：引言（L38-171）+正文十章（L174-2310，分Part 1/Part 2，每章两节）+Glossary（L2311-2680）+Notes（L2682-3732）+书目导言与每章推荐/延伸阅读（L3733-4590）+Index",
+    "两大时段为纲：现代性（1900-1939）与后现代性（1940至今），十章系统考察设计在消费、技术、职业、理论、身份五个层面的文化角色",
+    "章节要点：Ch1消费现代性（百货商店/品牌/广告制度→Veblen炫耀性消费→女性消费者与现代性，L174-370）；Ch2技术的影响（批量生产六原理、美国制造体系、泰勒制→电木/铝/铬钢等新材料与现代美学，L372-568）；Ch3工业设计师（Morris至Werkbund/包豪斯的艺术-工业调和→美国咨询设计师Loewy/Teague等职业化，L570-748）",
+    "差异化命题（第三版更新）：全球化与数字设计语境下的身份重新定义；每章增设推荐/延伸阅读——体现设计文化研究在2010s的学科成熟",
+    "与B0398的关系：同一著作不同版本——主映射见B0398（C.0 B/9.1 C/0.1 C）；本条目仅承担版本差异化命题，避免重复计入",
+    "clean原文存在（4620行）；未完成全篇核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1-3结构（L174-748）",
+    "第三版Glossary与每章推荐阅读",
+    "身份重新定义的后现代性章节"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "B0160",
+  "corpus": "book",
+  "folder_name": "Fuad-Luke：《The eco-design handbook a complete sourcebook for the home and office》",
+  "material_type": "生态设计综合资料汇编",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Fuad-Luke：《The eco-design handbook a complete sourcebook for the home and office》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 6, "report_characters": 14643}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.3", "grade": "B", "verification": "V2", "role": "eco_pluralism_green_design_history"},
+    {"section_id": "12.3", "grade": "C", "verification": "V2", "role": "lifecycle_strategies"},
+    {"section_id": "12.2", "grade": "C", "verification": "V2", "role": "designers_save_the_earth"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Alastair Fuad-Luke，《The Eco-Design Handbook: A Complete Sourcebook for the Home and Office》（2002，Thames & Hudson，伦敦；ISBN 0-500-28343-5；352页，750幅插图含690幅彩色；纸页采用130gsm Munken Pure paper——产自瑞典Munkendals的无氯漂白可持续森林纸浆）——21世纪初生态设计领域最具综合性的资料汇编之一",
+    "结构四部分：①导论（Design for a Sustainable Future——'绿色设计简史'/'我们岌岌可危的星球'/'产品的真实生命'/'推动商业走向可持续'/'设计师拯救地球'/'生态多元主义设计的十四点宣言'）；②1.0 Objects for Living（生活用品图录——家具/照明/家电/织品与时尚/交通工具/休闲娱乐/其他家居产品，每件产品配图与信息面板：设计师/制造商/材料/生态设计策略/获奖）；③2.0 Objects for Working（工作用品图录）；④3.0 Materials/4.0 Resources（生物圈材料与科技圈材料两大类材质数据库——标注各种材料的隐含能embodied energy与可回收性；设计师与设计制作者名录/制造商与供应商名录/生态设计策略完整清单/绿色组织/术语表/延伸阅读/索引）",
+    "核心哲学：生态多元主义（eco-pluralism）——'An eco-pluralistic approach to design...offers myriad solutions, therefore seems more fitting than the dictatorial one-model-fits-all philosophy of so many design movements from the twentieth century. Eco-pluralism is evolution and revolution.'——反对任何单一的、教条式的可持续设计范式，主张从'微小改良'到'产品完全非物质化'的整个谱系都有其生态价值",
+    "绿色设计百年谱系：工业革命前的本地化手工艺生产→工艺美术运动（Arts and Crafts, 1850-1914）→现代主义（Bauhaus/De Stijl）→有机设计（Frank Lloyd Wright/Alvar Aalto/Charles Eames）→Buckminster Fuller的'Dymaxion'概念→战后紧缩时期的'少即是多'理念→1960年代嬉皮士运动与《全球概览》（The Whole Earth Catalog）→1971年Victor Papanek的《为真实世界设计》（Design for the Real World）→1980年代'绿色消费者'运动→1990年代生命周期分析（LCA）与可持续产品设计（SPD）的学术化发展",
+    "产品生命周期批判（L247-271）：六类批判性分类——自由与放纵（汽车）、单程旅行（包装产品）、日常产品悄然杀人（含CFCs的冰箱）、日常低效产品（洗衣机）、偶尔使用（DIY电动工具）、新奇与小玩意儿（邮购目录产品）、小而危险（含有毒电池的电子设备）——突破关于产品环保性的表面叙事，揭示系统性问题",
+    "十四点生态多元主义设计宣言（L321-349）：①设计以满足真实需求而非短暂时尚需求；②最小化生态足迹、降低资源消耗；③利用太阳能收入而非不可再生资本；④设计可分离组件以利于回收再利用；⑤排除有毒/有害物质；⑥最大化对受众的益处并教育用户；⑦尽可能使用本地材料资源（'think globally but act locally'）；⑧排除创新惰性、重新审视原有假设；⑨将产品非物质化为服务；⑩最大化产品对社区的益处；⑪鼓励模块化设计等",
+    "结构核心特征：'交叉引用系统'（cross-referencing system）——产品图录中的图标（设计师/制造商/材料/生态策略）均指向第四部分的详细名录与策略说明——实现图录浏览与深度研讨的双重功能",
+    "价值：理解20世纪末至21世纪初全球生态设计实践的里程碑式文献",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L55-57：生态多元主义定义",
+    "导论：绿色设计百年谱系",
+    "L247-271：产品真实生命的六类批判",
+    "L321-349：十四点宣言",
+    "第三部分：生物圈/科技圈材料数据库"
+  ]
+}

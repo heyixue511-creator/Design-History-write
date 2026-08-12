@@ -1,0 +1,36 @@
+{
+  "source_id": "B0379",
+  "corpus": "book",
+  "folder_name": "Rudolf Arnheim：《Art and Visual Perception A Psychology of the Creative Eye》",
+  "material_type": "格塔心理学艺术知觉经典",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Rudolf Arnheim：《Art and Visual Perception A Psychology of the Creative Eye》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 17, "report_characters": 2917}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "visual_perception_gestalt"},
+    {"section_id": "11.4", "grade": "C", "verification": "V2", "role": "perceptual_force_expression"},
+    {"section_id": "0.5", "grade": "C", "verification": "V2", "role": "visual_evidence_analysis"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Rudolf Arnheim，《Art and Visual Perception: A Psychology of the Creative Eye》（1954初版；1974扩展修订版The New Version，University of California Press）——格塔心理学在艺术领域的奠基性经典",
+    "核心主张：视觉不是对刺激的机械记录，而是主动的、创造性的意义生成——'一切知觉即思维，一切推理即直觉，一切观察即发明'",
+    "关键概念：简化原则（任何刺激图式趋于被看作给定条件下最简单的结构）、分化律（形式从简单到复杂逐级分化）、知觉力与平衡（视觉经验是力的动态系统）、结构骨架（轴线框架决定形状同一性）、中心透视的象征学、定向张力与动力、表现与象征",
+    "十章结构：平衡→形状→形式→生长→空间→光→色彩→运动→动力→表现——以'力之语法'统摄所有视觉媒介",
+    "方法：现象学描述+演绎（由原理到现象）+归纳（由案例到原理）+跨媒介类比+批判性论辩；证据含艺术作品（绘画/雕塑/建筑/电影/舞蹈/儿童画）、知觉实验（Rubin/Michotte/Gibson/Heider-Simmel/Berlin-Kay）、艺术家语录",
+    "理论根基：格塔心理学（Wertheimer/Köhler/Koffka）；Britsch/Schaefer-Simmern发展理论",
+    "历史地位：将'简化/分化/知觉力/表现'确立为艺术知觉分析的标准词汇；影响横跨艺术心理学、美学、艺术教育、设计理论；为'抽象艺术'提供理论正当性；反错觉主义与反智力主义的双重论战立场",
+    "与Arnheim后续著作（《Visual Thinking》1969等）构成连续体系",
+    "限度（作者自认）：仅限视觉媒介且以绘画/素描/雕塑为主；不作文献穷尽综述；神经机制证据有限",
+    "clean原文存在（10590行，正文分块重排）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "引言：'一切知觉即思维'",
+    "I：知觉力与平衡",
+    "II：简化原则",
+    "X：表现与象征",
+    "V：中心透视的象征学"
+  ]
+}

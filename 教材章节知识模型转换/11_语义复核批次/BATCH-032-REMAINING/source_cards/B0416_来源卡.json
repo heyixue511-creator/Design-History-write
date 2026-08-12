@@ -1,0 +1,15 @@
+{
+  "source_id": "B0416",
+  "corpus": "book",
+  "folder_name": "Blakesley：《The arts and crafts movement》",
+  "material_type": "工艺美术运动全景学术史（Phaidon 2006，英/欧陆/美）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar.md",
+  "duplicate_group": null,
+  "files": {"file_count": 20, "total_characters": 163776},
+  "report_structure": {"file_count": 20, "total_characters": 163776},
+  "candidate_sections": ["2.3", "2.7", "11.1"],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": "与 B0330（Triggs 1902 早期文献）、P0047（Kimmel 书评）互补的当代全景学术史；'共享原则而非统一风格'、'理论-实践裂隙'透镜；跨国传播五种面貌（英国反工业/德奥工业现代/中欧民族建构/俄国贵族赞助/美国商业机器）。",
+  "original_spot_checks": "综合入口+整体分析报告通读；9 章结构核验"
+}

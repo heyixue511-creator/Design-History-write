@@ -1,0 +1,32 @@
+{
+  "source_id": "B0362",
+  "corpus": "book",
+  "folder_name": "Reyner Banham：《A Critic Writes Selected Essays by Reyner Banham (Centennial Books)》",
+  "material_type": "批评家论文选集（1950-1988，54篇）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Reyner Banham：《A Critic Writes Selected Essays by Reyner Banham (Centennial Books)》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 2269, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "banham_critical_tradition"},
+    {"section_id": "11.1", "grade": "B", "verification": "V2", "role": "banham_modern_movement_revision"},
+    {"section_id": "9.4", "grade": "C", "verification": "V2", "role": "banham_popular_culture"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Reyner Banham（1922-1988），《A Critic Writes: Essays by Reyner Banham》（University of California Press, Centennial Books系列；1996首版/1999首印平装）——选集者Mary Banham/Paul Barker/Sutherland Lyall/Cedric Price，前言Peter Hall——收录1950-1988年间发表于Architectural Review、New Society等刊物的54篇文章，按年代四部分（1950s/1960s/1970s/1980s），书末附完整著作书目（Books）与文章编年目录（Articles）",
+    "核心论点簇：①技术乐观主义——技术是解放性、善意的力量（L139-140）；②现代运动修正史学——现代建筑正典存在'选择性失忆'，需补写被遗忘谱系（L662-678）；③以物证文化的批评方法——从最普通之物提取社会-符号结构（L1616-1733）；④美国作为现代性实验场——美国西部提供欧洲无法想象的文明替代愿景（L152/L2216）；⑤建筑的本质——建筑=以建筑师方式（绘图/disegno）做设计，而非'好设计'本身（L4187-4240）；⑥对后现代主义的拒绝——后现代主义是'穿裙子的建筑'（L4165-4166）",
+    "关键概念：New Brutalism（新粗野主义）、Machine Aesthetic（机器美学）、Gizmo、Dymaxion、Operational lore、Expendability、Actual monuments、Black box、Disegno、Bricolage、International Style、Style for the job、Machine à habiter",
+    "内容覆盖：现代运动史学修正、汽车与机器美学、新粗野主义、玻璃建筑谱系（Scheerbart）、Futurism、Buckminster Fuller、Frank Lloyd Wright、Stirling建筑批评、TVA工程、美国流行文化（gizmo/冰淇淋车/拖车房/科幻电影）、建筑师职业本质反思",
+    "史学地位：二十世纪下半叶最重要的英美建筑与设计批评家之一——'以物证文化'的批评方法影响设计史方法论；技术乐观主义立场与后现代主义批判构成现代主义论争的重要一极",
+    "clean原文存在（约6649行）；未完成全篇核验。"
+  ],
+  "original_spot_checks": [
+    "L139-140：技术乐观主义",
+    "L662-678：现代运动'选择性失忆'与修正史学",
+    "L1616-1733：以物证文化的批评方法",
+    "L4165-4166：'穿裙子的建筑'后现代主义批判",
+    "L4187-4240：建筑=以建筑师方式做设计"
+  ]
+}

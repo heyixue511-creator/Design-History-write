@@ -1,0 +1,32 @@
+{
+  "source_id": "B0335",
+  "corpus": "book",
+  "folder_name": "Pat Kirkham：《Charles And Ray Eames Designers of the Twentieth Century》",
+  "material_type": "伊姆斯夫妇学术专著（女性主义修正史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Pat Kirkham：《Charles And Ray Eames Designers of the Twentieth Century》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 25, "report_characters": 899309}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "7.3", "grade": "B", "verification": "V2", "role": "eames_postwar_american_design"},
+    {"section_id": "9.3", "grade": "B", "verification": "V2", "role": "ray_eames_feminist_revision"},
+    {"section_id": "14.1", "grade": "C", "verification": "V2", "role": "eames_ibm_computer_image"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Pat Kirkham，《Charles and Ray Eames: Designers of the Twentieth Century》（1995，MIT Press；1998平装；2001第四印；正文384页：导论+七章专题+结论+年表/参考文献/图片来源/索引）——查尔斯与蕾·伊姆斯的第一部学术性专著，也是迄今最全面深入的研究著作",
+    "学术史独特地位：①伊姆斯研究领域第一部完整专著（查尔斯反对'活着被人写进书里'——被'written up'意味着创作生涯终结——生前无同类著作）；②明确的女性主义修正主义史学立场——系统性地将蕾·伊姆斯从'被历史隐藏的女性'行列中拯救出来；③在1990年代'后现代主义'论争背景下重新审视现代主义——揭示伊姆斯作品中装饰性/幻想性/碎片化/叠加性等'原型后现代'特质；④将作品置于更广阔历史文化语境而非'永恒经典'",
+    "结构：传记基础+专题纵深双层——导论/第一章（1940年前各自人生轨迹）/第二章（终身合作模式/办公室工作方式/性别政治）/第三章建筑（Eames House 1949）/第四章功能性装饰（Functioning Decoration）/第五章家具（胶合板模压椅）/第六章展览（The World of Franklin and Jefferson、Mathematica）/第七章电影与多媒体（Powers of Ten）/结论",
+    "核心论题：①现代主义的多元性——伊姆斯夫妇同时吸收'机器美学'与'有机现代主义'两条矛盾线索并融合多种源泉（'这些争论导致了对现代主义的多元性的更大认可——这一点在伊姆斯夫妇作品中体现得比任何其他二十世纪中叶的设计师-电影人更好'）；②女性主义修正——现有文献'过分突出了查尔斯的贡献而忽视了蕾'（overprivileges the contribution of Charles in relation to Ray），蕾在形式/色彩/图形/电影方面的贡献与查尔斯同等重要；③语境化——伊姆斯夫妇是'特定时刻与特定视角的产物'（战后美国经济重组/技术进步乐观主义/冷战文化政治）；④技术与人文融合——住宅是标准化预制建筑的'温暖而人性化的解决方案'，1950-60年代'设法赋予计算机更具人性和用户友好的形象'（与IBM合作——Mathematica展览/计算机图形）；⑤沟通与教育——'他们作为沟通者和教育者的工作与他们的设计和建筑同等重要'；⑥合作的复杂性——对'查尔斯即天才'叙事系统性解构（'他们所钦佩的大部分是他的联合工作'；查尔斯相信'给予正确的机会和教学，每个人都有巨大的潜力'）",
+    "价值：伊姆斯研究权威专著——战后美国现代设计（MoMA体系/家具/展览/多媒体）与女性主义设计史的交叉文献",
+    "clean原文存在（899309字符大文件）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：女性主义修正与多元现代主义",
+    "第一章：1940年前个人轨迹",
+    "第二章：合作模式与性别政治",
+    "第五章：家具（胶合板模压椅）",
+    "第六章：Mathematica展览与IBM合作"
+  ]
+}

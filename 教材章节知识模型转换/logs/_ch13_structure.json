@@ -2,9 +2,9 @@
  "13.1": {
   "grades": {
    "B": 3,
-   "C": 2
+   "C": 3
   },
-  "count": 5,
+  "count": 6,
   "items": [
    {
     "source_id": "B0105",
@@ -55,16 +55,26 @@
     "accepted_claim": "时尚产业建立在阶级、性别与种族交叉剥削之上；文化\"魅力\"与经济\"耻辱\"结构性脱节——全球生产链的劳动侧",
     "evidence_boundary": "经济批判（2000）；剥削机制的量化数据以产业档案为准",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0424",
+    "title": "Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "globalization_concept_critique",
+    "accepted_claim": "全球化作为批判对象而非既定前提：'全球化与全球史'词条系列（10词条）与'民族种族与市场'对全球化叙事的解构——13.1后福特生产与供应链的全球化理论批判侧（弱支撑）",
+    "evidence_boundary": "特刊词条（2006）；Ch20/Ch25",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "13.2": {
   "grades": {
-   "C": 7,
-   "B": 3,
+   "C": 11,
+   "B": 6,
    "A": 2
   },
-  "count": 12,
+  "count": 19,
   "items": [
    {
     "source_id": "B0329",
@@ -87,6 +97,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0028",
+    "title": "Appadurai, Arjun (ed.)：The Social Life of Things：Commodities in Cultural Perspective, 1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "social_life_of_brands",
+    "accepted_claim": "商品价值由交换-政治-文化共同建构：'价值体制'不预设完整文化共识、'价值锦标赛'（拍卖/库拉圈）争夺符号资本；东方地毯案例显示'真实性'是投射到物品上的文化甄别形式——品牌与体验系统的文化理论框架——13.2品牌从标志到体验系统",
+    "evidence_boundary": "主编导论与Spooner章（1986）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0053",
     "title": "Brigitte Borja de Mozota：《Design Management Using Design to Build Brand Value and Corporate Innovation》，2003",
     "grade": "B",
@@ -107,6 +127,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0239",
+    "title": "Judith Williamson：《Decoding advertisements ideology and meaning in advertising》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "advertising_meta_system_branding",
+    "accepted_claim": "差异即意义：产品间本无天然差异，广告挪用社会文化中既有差异关系创造产品差异——品牌化的符号学基础；广告的'回收'能力使批评被吸收为素材——13.2品牌从标志到体验系统（广告/品牌理论侧）",
+    "evidence_boundary": "作者经典（1978）；Ch1/Ch8",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0329",
     "title": "Olins：《Corporate identity making business strategy visible through design》",
     "grade": "B",
@@ -117,6 +147,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0353",
+    "title": "Pierre Bourdieu：《Distinction A Social Critique of the Judgement of Taste》，1979",
+    "grade": "B",
+    "verification": "V2",
+    "role": "distinction_symbolic_domination",
+    "accepted_claim": "区分与符号支配：社会空间由经济资本与文化资本二维构成；场域动力学揭示趣味生产与地位的对应、符号斗争——品牌与体验系统的地位消费理论——13.2品牌从标志到体验系统（消费文化理论侧）",
+    "evidence_boundary": "作者巨著（1979/1984）；Ch2/Ch4/Ch5",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0015",
     "title": "Alice Rawsthorn：《Hello World Where Design Meets Life》，2013",
     "grade": "C",
@@ -124,6 +164,16 @@
     "role": "apple_paradigm",
     "accepted_claim": "为何人人都想'做苹果'：商业典范讨论——品牌与设计的关系",
     "evidence_boundary": "评论性论述（2013）；Apple案例以企业档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0077",
+    "title": "Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar",
+    "grade": "C",
+    "verification": "V2",
+    "role": "cross_scale_identity_system",
+    "accepted_claim": "商标须经得起从巨型建筑立面到手机浏览器图标的跨尺度检验——品牌识别系统的尺度适配——13.2品牌从标志到体验系统（弱支撑）",
+    "evidence_boundary": "作者自述（2011）；应用测试阶段",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -145,6 +195,16 @@
     "accepted_claim": "全球化条件下时尚品牌成为资本主义矛盾的新形式，品牌作为文化结缔组织连接精英文化与大众消费",
     "evidence_boundary": "Ch12（2003年新增）对品牌资本主义的讨论概要性，缺乏中国品牌具体分析",
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0179",
+    "title": "Guy Julier：《From Visual Culture to Design Culture》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_culture_economy",
+    "accepted_claim": "设计文化分析当代设计实践的文化运作：多平台、多节点、关系性、系统性的设计价值创造（设计市场增长等背景数据）——13.2品牌从标志到体验系统（文化分析侧，弱支撑）",
+    "evidence_boundary": "作者立场论文（2006）；第二批判",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0226",
@@ -175,6 +235,26 @@
     "accepted_claim": "品牌从标志到体验系统（跨章）：品牌伦理兴起、品牌化场所（Leeds城市家具、Barcelona城市再设计、Øresund区域品牌）、品牌化休闲（Center Parcs、Disneyland、NikeTown）——13.2品牌系统的当代机制证据",
     "evidence_boundary": "2000年时点的品牌案例；案例细节须以企业档案与后续研究更新",
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0430",
+    "title": "Vance Packard：《The Hidden Persuaders》，1957",
+    "grade": "C",
+    "verification": "V2",
+    "role": "brand_personality_manipulation",
+    "accepted_claim": "形象/品牌个性（image/brand personality）的情感操纵基础：以无意识符号塑造品牌认同、社会阶层与地位符号（status symbol）——品牌理论的批判性前史",
+    "evidence_boundary": "13.2 品牌与文化批评（批判侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0038",
+    "title": "Igor Kopytoff：《The Cultural Biography of Things： Commoditization as Process》，1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "commoditization_singularization",
+    "accepted_claim": "商品不仅被物质地生产还被文化地标记：商品化与单一化（singularization）两极张力——圣化、终端商品化、个体再定义诸形式；毕加索无价悖论与当代商品化边界（血液/器官/代孕）——13.2品牌与体验系统的商品文化理论（与B0028互补）",
+    "evidence_boundary": "作者论文（1986）；单一化诸形式",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "P0061",
@@ -238,11 +318,21 @@
  },
  "13.4": {
   "grades": {
-   "B": 1,
-   "C": 2
+   "B": 2,
+   "C": 14
   },
-  "count": 3,
+  "count": 16,
   "items": [
+   {
+    "source_id": "B0312",
+    "title": "Mihaly Csikszentmihalyi：《Creativity》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "creativity_system_model",
+    "accepted_claim": "创造力系统模型：创造力不是个体特质，而是'域'（domain，符号规则系统）、'场'（field，守门人群体）与'个人'三要素交互作用的系统涌现——创作五阶段（准备-酝酿-洞察-评估-精制）递归进行；创造性人格十大辩证矛盾特质",
+    "evidence_boundary": "13.4 设计方法与创造性实践（创造力理论侧）",
+    "status": ""
+   },
    {
     "source_id": "B0411",
     "title": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
@@ -251,6 +341,16 @@
     "role": "china_design_education_internationalization",
     "accepted_claim": "1978年后中国设计教育国际化网络：雷曼自1985年起在华讲学约30年，五次全国“造型基础”WORKSHOP培养近百名师资，足迹遍布近十省市二三十所大学；柳冠中1980年代在斯图加特学习后回中央工艺美术学院开设中国第一个工业设计系——教育恢复期的国际合作与师资网络证据",
     "evidence_boundary": "作者为行动者／观察者侧（P1自述），网络细节（院校、年份、人数）须以中国设计教育档案互校；不单独承担制度史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0029",
+    "title": "Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_education_reform",
+    "accepted_claim": "设计教育方法：六项教育改革主张（打破纯艺术/应用艺术、情感/理智、设计/复制二元对立）；教育应培养点线面色材空间时间要素间有机联系——13.4设计教育、学科史与职业制度（教育侧）",
+    "evidence_boundary": "作者手册（1965）；导论",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -264,6 +364,86 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0147",
+    "title": "Emil Ruder：《Typography - A Manual of Design [ Typographie ]》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "typography_pedagogy",
+    "accepted_claim": "排印教学法：基于25年教学经验的设计教科书（揭示版面设计内在规律而非提供教条）；实验排印（experimentelle Typographie）作为防止僵化的必要训练——13.4设计教育、学科史与职业制度（教育侧）",
+    "evidence_boundary": "作者手册（1967）；引言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0237",
+    "title": "Josef Albers：《Interaction of Color》，1963",
+    "grade": "C",
+    "verification": "V2",
+    "role": "experimental_teaching_paradigm",
+    "accepted_claim": "设计教育范式转换：色彩教学从'理论灌输'转向'实验发现'（限制变量/试错学习/比较评价），影响20世纪下半叶设计教育；'好的教学是提出正确问题而非给出正确答案'——13.4设计教育（弱-中支撑）",
+    "evidence_boundary": "作者著作（1963）；教学法特征",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0244",
+    "title": "K. Anders Ericsson, Herbert A. Simon：《Protocol Analysis Verbal Reports as Data》，1984",
+    "grade": "C",
+    "verification": "V2",
+    "role": "verbal_reports_design_cognition",
+    "accepted_claim": "出声思考（think-aloud）协议作为设计认知研究的方法基础：推论认知过程需理论指导但应使用尽可能弱、最少争议的理论假设；编码技术（第4/6/7章）",
+    "evidence_boundary": "13.4 设计方法与创造性实践（认知方法侧）",
+    "status": ""
+   },
+   {
+    "source_id": "B0255",
+    "title": "Kees Dorst：《Frame Innovation Create New Thinking by Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "organizational_syndromes",
+    "accepted_claim": "组织阻碍框架创新的五种症状群：孤胆英雄/冻结世界/自造盒子/理性高地/身份固化——'literally as old as humanity'（根植于人类文化原型）——13.4设计教育、学科史与职业制度（组织侧，弱-中支撑）",
+    "evidence_boundary": "作者专著（2015）；第1章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0257",
+    "title": "Ken Friedman：《Theory construction in design research criteria approaches, and methods》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "craft_to_industrial_science",
+    "accepted_claim": "设计需要从手工艺范式转向工业科学范式：理论使设计可预测（Deming'渊博知识'——从'摸索'升级为可预测可衡量的工业实践）——设计职业的专业化转向——13.4设计教育、学科史与职业制度（弱-中支撑）",
+    "evidence_boundary": "作者纲领论文（2003）；§4",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0270",
+    "title": "Lawson, Bryan; Dorst, Kees：Design Expertise, 2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_education_hidden_curriculum",
+    "accepted_claim": "设计教育批判：全球统一模式（工作室/辅导/评审/图书馆）受限于'神圣物'效应；'隐藏课程'（hidden curriculum）比正式课程更有力地塑造学生；专长发展非线性（二年级可能比五年级'表现更好'）——13.4设计教育、学科史与职业制度（教育批判侧）",
+    "evidence_boundary": "作者著作（2009）；第6-7章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0271",
+    "title": "Lawson, Bryan：How Designers Think：The Design Process Demystified, 2005",
+    "grade": "C",
+    "verification": "V2",
+    "role": "process_oriented_design_education",
+    "accepted_claim": "推动设计教育从'产品导向'到'过程导向'转变：设计能力可通过分析/练习/有意识的自我批判培养；为设计研究提供方法论互补示范（实验/协议分析/访谈/案例）",
+    "evidence_boundary": "13.4 设计教育、学科史与职业制度（教育方法侧）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0324",
+    "title": "Nigel Cross：《Design Thinking Understanding How Designers Think and Work》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_expertise_education",
+    "accepted_claim": "设计专长从新手到专家的能力发展轨迹：通过教育、刻意练习与经验积累使设计认知模式发生质变——设计教育的目标与机制——13.4设计教育、学科史与职业制度（教育侧）",
+    "evidence_boundary": "作者著作（2023第二版）；Ch8",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0327",
     "title": "None：《China design now , None》",
     "grade": "C",
@@ -272,15 +452,45 @@
     "accepted_claim": "深圳平面设计协会（SGDA）、'平面设计在中国'展（1992）等职业网络——设计职业制度恢复的个案",
     "evidence_boundary": "个案证据；职业制度政策侧另见13.4专史",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0426",
+    "title": "Tim Brown：《Change by Design How Design Thinking Transforms Organizations and Inspires Innovation》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_thinking_corporation",
+    "accepted_claim": "设计思维进入公司管理：创新组合管理、组织转型、'授人以渔'——设计思维作为组织创新方法论——13.4设计教育、学科史与职业制度（组织侧，弱-中支撑）",
+    "evidence_boundary": "作者著作（2009）；第7章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0026",
+    "title": "Dorst, Kees：The Core of Design Thinking and Its Application, 2011",
+    "grade": "C",
+    "verification": "V2",
+    "role": "organizational_adoption_levels",
+    "accepted_claim": "组织吸纳设计实践的五级路径：最高级是主题调查与框架创造能力的组织内化（与entrepreneuring/effectuation管理理论对接）——设计思维进入组织与职业制度的机制——13.4设计教育、学科史与职业制度恢复（组织侧，弱-中支撑）",
+    "evidence_boundary": "作者论文（2011）；第5节",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0043",
+    "title": "Lucy Kimbell：《Rethinking Design Thinking： Part I》，2011",
+    "grade": "C",
+    "verification": "V2",
+    "role": "managerial_appropriation",
+    "accepted_claim": "设计思维的管理化挪用：Brown（IDEO）与Martin（Rotman）为代表的管理话语把design thinking去政治化，变成组织创新资源——设计职业与组织话语的互动——13.4设计教育、学科史与职业制度（弱-中支撑）",
+    "evidence_boundary": "作者论文（2011）；L100-121",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "13.5": {
   "grades": {
-   "C": 1,
+   "C": 2,
    "B": 1
   },
-  "count": 2,
+  "count": 3,
   "items": [
    {
     "source_id": "B0327",
@@ -301,16 +511,46 @@
     "accepted_claim": "GI VI（第三版新增）：从毛时代宣传画到改革开放后世界工厂与品牌输出，2008奥运与2010上海世博会作为国家形象设计事件，以软实力框架分析中国设计，并提示供应链强制劳动与环境代价",
     "evidence_boundary": "证据边界为clean第8199—8250行GI VI正文与P4分章报告；「软实力」是作者框架命题，Uyghur强制劳动表述须回P0来源",
     "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   },
+   {
+    "source_id": "B0246",
+    "title": "Kajri Jain：《Gods in the Bazaar The Economies of Indian Calendar Art》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "vernacularizing_capitalism",
+    "accepted_claim": "'资本主义的方言化'：全球化并非同质化过程，而是'正式'与'方言'（非正式）经济的差异化共存；'再生产性模仿'强调重复与流转中的差异性生成——非正式生产与流通的组织形态——13.5'中国制造'与隐形劳动（非正式经济侧，类比性支撑）",
+    "evidence_boundary": "作者专著（2007）；导论/第5章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "13.6": {
   "grades": {
-   "C": 1,
-   "B": 1
+   "C": 2,
+   "B": 3
   },
-  "count": 2,
+  "count": 5,
   "items": [
+   {
+    "source_id": "B0246",
+    "title": "Kajri Jain：《Gods in the Bazaar The Economies of Indian Calendar Art》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "calendar_art_urban_visual_economy",
+    "accepted_claim": "印度日历艺术作为城市化消费视觉的典型案例：大规模生产的廉价印刷图像（商品/礼物/圣像/广告多重身份）在神圣、商业、审美经济间流转；Sivakasi印刷产业网络与'三角化凝视'效力结构——非西方消费视觉经济的在地研究——13.6城市化与消费视觉",
+    "evidence_boundary": "作者专著（2007）；Sivakasi/集市产业案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0261",
+    "title": "Kevin Lynch：《The Image of the City》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "city_imageability_five_elements",
+    "accepted_claim": "城市意象五元素（路径/边界/区域/节点/标志物）与'可意象性''可读性'：城市视觉品质直接影响居民定向能力与生活质量——公共空间认知理论作为城市化视觉分析的经典工具——13.6城市化与消费视觉（公共空间侧）",
+    "evidence_boundary": "作者经典（1960）；波士顿/泽西城/洛杉矶三城比较",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
    {
     "source_id": "B0327",
     "title": "None：《China design now , None》",
@@ -329,6 +569,16 @@
     "role": "fashion_urban_consumption",
     "accepted_claim": "时尚作为身份建构核心资源与城市消费文化：\"情境化身体实践\"框架——城市化消费视觉的时尚侧",
     "evidence_boundary": "时尚社会学理论（2000）；中国城市化消费个案另见B0327等",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0239",
+    "title": "Judith Williamson：《Decoding advertisements ideology and meaning in advertising》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "interpellation_consumer_subject",
+    "accepted_claim": "广告的'召唤'（interpellation，阿尔都塞）机制将消费者建构为'自由选择'的主体——参与是预制的、受控的——城市化消费视觉的意识形态维度——13.6城市化与消费视觉（弱-中支撑）",
+    "evidence_boundary": "作者经典（1978）；Ch2",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]

@@ -1,11 +1,11 @@
 {
  "14.1": {
   "grades": {
-   "C": 2,
+   "C": 5,
    "B": 2,
    "A": 2
   },
-  "count": 6,
+  "count": 9,
   "items": [
    {
     "source_id": "B0274",
@@ -58,6 +58,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0150",
+    "title": "Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "oop_design_object",
+    "accepted_claim": "面向对象设计的模式化：专家不从头解决问题而是复用成功方案（Program to an interface；Favor object composition over class inheritance；Encapsulate the concept that varies）——'软件化'设计对象的工程知识——14.1从计算工具到软件媒介",
+    "evidence_boundary": "作者经典（1995）；Ch1两条原则",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0335",
+    "title": "Pat Kirkham：《Charles And Ray Eames Designers of the Twentieth Century》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "eames_ibm_computer_image",
+    "accepted_claim": "数字设计前史：1950-60年代伊姆斯与IBM合作（Mathematica展览/计算机图形）——'设法赋予计算机更具人性和用户友好的形象'（a more human and user-friendly image）",
+    "evidence_boundary": "14.1 从计算工具到软件媒介（数字设计前史）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0495",
     "title": "杭间：《设计道：中国设计的基本问题》，2008",
     "grade": "C",
@@ -66,17 +86,27 @@
     "accepted_claim": "数字化生存与“非物质设计”图景（尼葛洛庞蒂）；数字时代设计主体困境与关怀",
     "evidence_boundary": "XIV章L350-L397（21世纪初展望性理论论述，非制度史实证）",
     "status": "ACCEPTED_WITH_CAVEAT"
+   },
+   {
+    "source_id": "P0071",
+    "title": "Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987",
+    "grade": "C",
+    "verification": "V2",
+    "role": "technological_systems_momentum",
+    "accepted_claim": "大型技术系统的历史研究：技术风格、系统动量、技术范式/轨迹——设计对象从孤立制品扩展为技术系统的演进视角——14.1从计算工具到软件媒介",
+    "evidence_boundary": "编者文集（1987/2012）；Part II-III中层概念",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "14.2": {
   "grades": {
-   "C": 2,
+   "C": 6,
    "A": 2,
-   "B": 5,
+   "B": 10,
    "X": 1
   },
-  "count": 10,
+  "count": 19,
   "items": [
    {
     "source_id": "B0046",
@@ -119,6 +149,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0127",
+    "title": "Donald A. Norman：《The Design of Everyday Things》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visibility_mapping_feedback",
+    "accepted_claim": "GUI交互范式的理论基础：可见性让可能的操作一目了然、自然映射（方向盘顺时针=右转）、反馈回传动作结果、四类约束缩减操作可能——14.2图形用户界面与交互范式",
+    "evidence_boundary": "作者经典（1988）；第一至四章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0198",
     "title": "James J. Gibson：《The Ecological Approach To Visual Perception》",
     "grade": "B",
@@ -126,6 +166,26 @@
     "role": "direct_perception_gui",
     "accepted_claim": "知觉不是对感觉输入的心理加工而是对环境信息的直接拾取（direct pickup）；环境光阵列携带不变量信息，无需内部表征中介——直接操控与可见性交互范式的知觉理论基础——14.2图形用户界面与交互范式",
     "evidence_boundary": "作者理论（1979）；生态光学与信息拾取论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0207",
+    "title": "Jenifer Tidwell：《Designing Interfaces》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "interface_design_patterns",
+    "accepted_claim": "界面设计模式：以Christopher Alexander建筑模式语言为方法论源头，将反复出现的最佳实践提炼为可复用模式（125个模式，桌面/Web/移动多平台）——模式目录填补从抽象原则到具体UI语法的'中间地带'——14.2图形用户界面与交互范式",
+    "evidence_boundary": "作者参考书（2010第二版）；11章模式体系",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0264",
+    "title": "Klaus Krippendorff：《The Semantic Turn A New Foundation For Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "semantic_turn_interface_meaning",
+    "accepted_claim": "语义转向：设计从'形式追随功能'转向'设计即创造意义'；'界面追随可识别的意义'替代功能主义口号——使用中的意义（识别-探索-依赖三级使用模型）作为交互界面的意义理论——14.2图形用户界面与交互范式",
+    "evidence_boundary": "作者著作（2006）；第2-3章",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -149,6 +209,26 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "P0010",
+    "title": "Bruno Latour (as Jim Johnson)：《Mixing Humans and Nonhumans Together： The Sociology of a Door-Closer》，1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "script_prescription_artifact_behavior",
+    "accepted_claim": "人工物通过'处方'（prescription）与脚本（script）把行为规则铭刻进自身：门、液压关门器、红灯等日常物将道德与政治'翻译'为技术约束——'社会关系大部分被非人处方回来'——为分析界面与人工物如何设计/约束用户行为提供ANT理论框架（与affordance谱系互补）",
+    "evidence_boundary": "委派/处方/脚本概念（L33/L101/L227）",
+    "status": "图形用户界面与交互范式（物处方行为的理论基座）"
+   },
+   {
+    "source_id": "P0024",
+    "title": "Designing Visual Interfaces -- Mullet, Kevin; Sano, Darrell -- ACM SIGCHI Bullet",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gui_visual_communication_principles",
+    "accepted_claim": "GUI视觉传达原则体系：六项原则（统一、对比与和谐、层级与平衡、网格、抽象与文化语境、风格四属性）+八项技术（约简/规则化/对齐/光学调整/重复/选择/精炼/概括）——将印刷媒体视觉传达原则系统迁移到界面设计——14.2图形用户界面与交互范式",
+    "evidence_boundary": "书评（ACM SIGCHI Bulletin）；被评书Mullet/Sano 1995",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0011",
     "title": "Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》",
     "grade": "C",
@@ -156,6 +236,46 @@
     "role": "interaction_design_history",
     "accepted_claim": "交互设计从桌面软件到移动应用再到网页服务的历史演变——交互范式演进",
     "evidence_boundary": "历史综述（2014）；演变细节以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0018",
+    "title": "Alla Kholmatova：《Design Systems》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pattern_language_origin",
+    "accepted_claim": "设计模式概念起源追溯至Christopher Alexander建筑模式语言；共享语言（命名模式基于隐喻/个性/目的、协作命名）作为界面范式沟通基础——14.2图形用户界面与交互范式",
+    "evidence_boundary": "作者实用指南（2017）；第1/5章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0117",
+    "title": "Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma",
+    "grade": "C",
+    "verification": "V2",
+    "role": "norman_model_patterns",
+    "accepted_claim": "Norman交互模型（映射/示能性/反馈/约束）作为信息揭示模式的理论基础；渐进式信息披露策略——14.2图形用户界面与交互范式（理论应用侧）",
+    "evidence_boundary": "作者参考书（2011）；第4章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0126",
+    "title": "Donald A. Norman：《Emotional Design Why We Love (Or Hate) Everyday Things》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "attractive_things_work_better",
+    "accepted_claim": "吸引力-可用性效应：功能相同但布局更美观的ATM被用户评为更易用（Kurosu & Kashimura 1995/Tractinsky 1997跨文化重复）——美学对界面可用性感知的影响——14.2图形用户界面与交互范式（弱支撑）",
+    "evidence_boundary": "作者著作（2004）；第1章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0200",
+    "title": "Jan Borchers：《A Pattern Approach to Interaction Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "interactive_music_pattern_language",
+    "accepted_claim": "交互式音乐展品模式语言实例（WorldBeat系统、Interactive Fugue）：17个HCI模式+11个音乐领域模式以类Alexandrian格式书写——界面模式的领域化实践——14.2图形用户界面与交互范式",
+    "evidence_boundary": "作者专著（2001）；第4章",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -182,11 +302,11 @@
  },
  "14.3": {
   "grades": {
-   "C": 4,
-   "B": 12,
+   "C": 8,
+   "B": 13,
    "A": 1
   },
-  "count": 17,
+  "count": 22,
   "items": [
    {
     "source_id": "B0046",
@@ -289,6 +409,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0200",
+    "title": "Jan Borchers：《A Pattern Approach to Interaction Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hci_pattern_language_framework",
+    "accepted_claim": "模式语言能够且应当扩展为跨学科形式框架：统一表达HCI设计、软件工程和应用领域三个维度的设计经验；'模式概念在建筑中的本意比在软件设计中更自然地适用于界面设计'——HCI设计模式方法论奠基——14.3HCI与设计方法的汇合",
+    "evidence_boundary": "作者专著（2001）；跨学科模式框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0227",
     "title": "John M. Carroll (ed.)：《Human-Computer Interaction in the New Millennium》，2002",
     "grade": "B",
@@ -339,6 +469,36 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0127",
+    "title": "Donald A. Norman：《The Design of Everyday Things》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "seven_design_principles",
+    "accepted_claim": "七条设计原则（善用外部知识/简化任务结构/使事物可见/正确映射/利用约束/为错误设计/万不得已标准化）与三种心理模型（设计模型/用户模型/系统形象）——用户中心设计的可操作方法——14.3HCI与设计方法的汇合",
+    "evidence_boundary": "作者经典（1988）；第七章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0210",
+    "title": "Joan Greenbaum, Morten Kyng (eds.)：《Design at Work Cooperative Design of Computer Systems》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "rationalism_to_situated_action",
+    "accepted_claim": "系统开发从理性主义传统转向情境行动：'实践优先于原则'、人类学/互动分析方法进入设计流程（Suchman情境行动、Winograd/Flores对话立场为理论谱系）——14.3HCI与设计方法汇合（参与式方法侧）",
+    "evidence_boundary": "主编文集（1991）；Part I理论透镜",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0323",
+    "title": "Nielsen：《Designing Web usability》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "usability_testing_methods",
+    "accepted_claim": "Web可用性方法进入专业流程：可用性测试、启发式评估、成本-收益分析、折扣可用性工程——将设计问题转化为可测量指标——14.3HCI与设计方法的汇合",
+    "evidence_boundary": "作者著作（1999）；方法论特征",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0503",
     "title": "王受之：《世界现代设计史》，2015",
     "grade": "C",
@@ -357,16 +517,36 @@
     "accepted_claim": "交互设计研究区别于HCI、CSCW等相邻学科的关键在于探索端与方法多样性；模型支撑面向产业/学术界/社会的三个外部界面——14.3设计方法与HCI学科关系的再界定（弱支撑）",
     "evidence_boundary": "作者论文（约2004）；三界面论证",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0035",
+    "title": "How HCI interprets the probes -- Kirsten Boehner; Janet Vertesi; Phoebe Sengers;",
+    "grade": "C",
+    "verification": "V2",
+    "role": "probes_as_hci_method",
+    "accepted_claim": "探针作为HCI数据收集与参与性方法：'discount probes'（打折探针）与probes-as-recipe把解释性研究打包为客观方法的倾向——14.3HCI与设计方法（参与式方法侧）",
+    "evidence_boundary": "作者元研究（CHI'07）；采纳分类",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    }
   ]
  },
  "14.4": {
   "grades": {
-   "C": 3,
-   "B": 2
+   "C": 4,
+   "B": 4
   },
-  "count": 5,
+  "count": 8,
   "items": [
+   {
+    "source_id": "B0117",
+    "title": "Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mobile_pattern_language",
+    "accepted_claim": "移动交互设计模式语言：'移动'从物理属性重新定义为交互属性（小/便携/连网/可交互/情境感知）；76个跨平台通用交互模式（页面-组件-输入输出三板块）——超越OS与设备形态的移动交互规律——14.4网络、网页与移动交互",
+    "evidence_boundary": "作者参考书（2011）；数十款设备实地调查",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
    {
     "source_id": "B0122",
     "title": "Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De",
@@ -375,6 +555,16 @@
     "role": "encoding_future_network",
     "accepted_claim": "编码未来（2000s）：开源文化、涌现行为、物联网与后人类中心设计（Processing/Laurel/Faste）——网络与数字设计前沿",
     "evidence_boundary": "文选宣言（2016）；前沿实践成效以项目档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0323",
+    "title": "Nielsen：《Designing Web usability》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "web_usability_economics",
+    "accepted_claim": "'在Web上用户先体验可用性后付费'（users experience usability first and pay later）：与先付费后体验的传统产品形成根本性倒置——Web可用性决定商业成败；79%用户扫描而非阅读、'简洁性永远胜于复杂性'——14.4网络、网页与移动交互（网页可用性工程）",
+    "evidence_boundary": "作者著作（1999）；约400名用户测试实证",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -396,6 +586,16 @@
     "accepted_claim": "数字媒介的时间性（跨章）：Kindle“非共时性”——设计物同时指向过去、现在与未来，六种时间运动框架（怀旧/复古/遗产/先锋/去未来化/当代—经典）——14.4数字交互与媒介分析的理论资源",
     "evidence_boundary": "作者建构框架（Ch13）；六格图表（Figure 13.2）为可视化工具",
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0207",
+    "title": "Jenifer Tidwell：《Designing Interfaces》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "web_mobile_platform_patterns",
+    "accepted_claim": "界面模式覆盖Web与移动平台：社交媒体模式（第9章）、移动设计模式（第10章）——网页与移动交互的跨平台模式目录——14.4网络、网页与移动交互",
+    "evidence_boundary": "作者参考书（2010第二版）；第9-10章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "P0028",
@@ -481,10 +681,10 @@
  },
  "14.6": {
   "grades": {
-   "C": 3,
-   "B": 1
+   "C": 7,
+   "B": 5
   },
-  "count": 4,
+  "count": 12,
   "items": [
    {
     "source_id": "B0011",
@@ -494,6 +694,66 @@
     "role": "interaction_design_principles",
     "accepted_claim": "交互设计价值观与原则：数字礼仪、消除负担性工作（Excise）、隐喻与习惯用法、错误预防——设计系统与界面规范",
     "evidence_boundary": "设计原则（2014）；原则的行业采用以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0018",
+    "title": "Alla Kholmatova：《Design Systems》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_system_definition",
+    "accepted_claim": "设计系统是'一套互联的模式和共享实践，被有机组织以服务于数字产品的目的'：功能性模式（界面模块）+感知性模式（品牌美学）双维度；'模式演化，行为长存'——设计系统不仅是模式库而是组织化的整体——14.6设计系统与平台规模化",
+    "evidence_boundary": "作者实用指南（2017）；FutureLearn/Airbnb/TED案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0150",
+    "title": "Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "software_pattern_catalog",
+    "accepted_claim": "软件设计模式目录：23个可命名/可描述/可传授/可复用的设计模式（创建/结构/行为×类/对象分类），13节统一模板保证可比较；'设计词汇'把设计讨论从类/对象层级提升到模式层级——软件侧设计系统与组件语言基础——14.6设计系统与平台规模化",
+    "evidence_boundary": "作者经典（1995）；Lexi编辑器案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0200",
+    "title": "Jan Borchers：《A Pattern Approach to Interaction Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "unified_pattern_format",
+    "accepted_claim": "三领域模式语言遵循统一格式（name/ranking/illustration/problem/forces/examples/solution/diagram/context/references）使跨学科沟通成为可能；模式语言作为动态设计工具嵌入可用性工程生命周期——14.6设计系统与平台规模化的模式语言基础",
+    "evidence_boundary": "作者专著（2001）；第3章/第5章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0244",
+    "title": "K. Anders Ericsson, Herbert A. Simon：《Protocol Analysis Verbal Reports as Data》，1984",
+    "grade": "B",
+    "verification": "V2",
+    "role": "protocol_analysis_method",
+    "accepted_claim": "协议分析（口头报告法）：口头报告是可严格编码/分析/检验的'硬数据'——生成机制是信息加工系统（STM/LTM）一般认知过程的子集；在合适条件下口头报告不改变所报告的认知过程；不在STM中的信息不可报告（Ericsson & Simon 1984）",
+    "evidence_boundary": "14.6 设计研究（设计认知实证方法）",
+    "status": ""
+   },
+   {
+    "source_id": "B0018",
+    "title": "Alla Kholmatova：《Design Systems》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "system_parameters_conway",
+    "accepted_claim": "系统参数三维度（规则严格程度/部件模块化程度/组织集中化程度）+康威定律（组织沟通结构制约设计系统形态）：Airbnb严格集中 vs TED松散分散两极案例——组织协同与平台规则的互动——14.6设计系统与平台规模化",
+    "evidence_boundary": "作者实用指南（2017）；第6章",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0117",
+    "title": "Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pattern_format_antipatterns",
+    "accepted_claim": "模式六段式统一格式（Problem/Solution/Variations/Interaction Details/Presentation Details/Antipatterns）保证跨模式可比性；'模式不是模板'——设计对话的起点而非终点——14.6设计系统与平台规模化的模式规范",
+    "evidence_boundary": "作者参考书（2011）；六段式格式与L3",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -507,6 +767,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0150",
+    "title": "Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "knowledge_cataloguing_tradition",
+    "accepted_claim": "与Alexander建筑模式语言、Knuth算法目录共同构成'知识目录化'传统在软件领域的接续（自认不构成完整模式语言）——设计模式的知识谱系——14.6设计系统的知识史（弱支撑）",
+    "evidence_boundary": "作者经典（1995）；Ch6",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0163",
     "title": "Garrett：《The elements of user experience user-centered design for the Web and beyond》",
     "grade": "C",
@@ -514,6 +784,16 @@
     "role": "shared_vocabulary_collaboration",
     "accepted_claim": "五层模型将交互设计、信息设计、信息架构、界面设计统一为共享概念词汇，使组织内不同角色（策略、设计、开发、管理）的跨职能协作成为可能——设计规模化的组织协同基础——14.6设计系统与平台规模化",
     "evidence_boundary": "作者理论框架（2011第二版）；概念整合功能",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0207",
+    "title": "Jenifer Tidwell：《Designing Interfaces》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pattern_language_shared_vocabulary",
+    "accepted_claim": "模式命名成为设计师、工程师、管理者之间沟通的共同语言；模式目录作为设计系统组件的语言基础（明确'模式目录不是检查清单'）——14.6设计系统与平台规模化",
+    "evidence_boundary": "作者参考书（2010第二版）；术语系统功能",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {

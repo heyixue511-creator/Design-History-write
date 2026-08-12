@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0015,12.3,B,V2,planned_obsolescence_ontology,计划性报废是'制造完成之物'的存在论后果而非市场失灵：现代设计之本质是制造完成之物，完成性注定物之短命、可弃与可量化——'可处置耐用品'悖论；不可持续之源是流量（throughput）而非存量——12.3环境设计与生命周期（哲学批判侧）,作者论文（2004）；海德格尔本体论框架,00_整体分析报告（核心论点1-3）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0015,15.5,C,V2,pss_product_temporality,PSS（产品-服务系统）必须处理'物之时间性'：'面向产品的服务'延长使用期，'再物质化成为去物质化策略'；设计'未完成之物'与'连续设计'——15.5转型设计的服务系统维度,作者论文（2004）；L137,00_整体分析报告（核心论点4）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0015,16.6,C,V2,throughput_critique,物以'流量'方式不可持续地流过家庭——物质流的哲学批判——16.6隐形劳动与行星基础设施（物质循环侧，弱支撑）,作者论文（2004）；引言,00_整体分析报告（核心论点1）,ACCEPTED_AS_SUPPORTING_SOURCE

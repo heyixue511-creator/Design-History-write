@@ -1,0 +1,34 @@
+{
+  "source_id": "B0164",
+  "corpus": "book",
+  "folder_name": "Gennifer Weisenfeld.：《Mavo Japanese Artists and the Avant-Garde, 1905-1931》",
+  "material_type": "日本先锋艺术团体Mavo研究（文化无政府主义）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Gennifer Weisenfeld.：《Mavo Japanese Artists and the Avant-Garde, 1905-1931》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 11, "report_characters": 4137}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "3.4", "grade": "B", "verification": "V2", "role": "mavo_cultural_anarchism"},
+    {"section_id": "6.5", "grade": "C", "verification": "V2", "role": "japanese_art_institution_critique"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "mavo_legacy_reclamation"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Gennifer Weisenfeld（杜克大学艺术史系），《Mavo: Japanese Artists and the Avant-Garde, 1905-1931》（2002，University of California Press）——英语学界第一部系统研究日本先锋艺术团体Mavo（大正末期至昭和初期，1923-1926年活跃）的学术专著",
+    "核心论题：Mavo的艺术实践构成了一种'文化无政府主义'（cultural anarchism）——即通过美学手段实施社会批判，以'破坏/建构'的辩证逻辑挑战日本国家体制、美术制度（画坛/gadan）和主流道德规范",
+    "全书论证Mavo并非孤立的艺术叛逆现象，而是深深地嵌入1920年代日本乃至全球的现代性经验之中，是'艺术与日常生活再统合'这一国际先锋运动在日本的独特表达",
+    "七部分结构：引言（提出研究问题/界定核心概念——文化无政府主义/展演性/交代方法论）；第一章Western-Style Painting in Japan（历史纵深：追溯明治以来西洋画发展，为Mavo提供制度史与观念史背景）；第二章A Prehistory of Mavo（直接前史：村山知义的柏林经历/'意识性构成主义'理论的诞生/未来派美术协会）；第三章Anatomy of a Movement（运动史志：Mavo的形成/展览/刊物/抗议活动/震灾后的barrack项目）；第四章The Aesthetics and Politics of Rebellion（深度分析：Mavo作品的美学策略与政治意涵/激进化的过程与团体的解体）；第五章The Mavo Artist and Japan's Culture Industry（语境拓展：印刷文化/大众媒体/商业设计/咖啡馆与百货店等消费空间中的Mavo）；第六章Theater, Theatricality, and the Politics of Pleasure（展演维度：舞台设计/舞蹈/身体解放/性别模糊/自虐隐喻与快感政治）；结语Epilogue: Laying Claim to Mavo's Legacy（遗产争夺：左翼转向/战时经历/战后先锋艺术史再发现与制度性回收）",
+    "七条相互交织的主线：①制度批判主线——Mavo对'画坛'（gadan）的攻击并非虚无主义的破坏，而是对现代日本美术制度（文展/帝展、二科会、东京美术学校）等级化、排斥性的精准批判，揭示了'纯艺术'（fine art）体制的建构性；②美学革命主线——Mavo的'意识性构成主义'（conscious constructivism）以拼贴、现成品、异质材料并置为主要技法，主张材料保留其原有语境关联（与Schwitters的'纯形式'拼贴截然不同）——其目的不是创造'美'，而是唤起观者对日常生活的批判性自觉；③政治激进主线——Mavo从最初的'温和叛逆'逐步走向暴力性的'直接行动'，这一激进化过程与关东大地震后的政治迫害（龟户事件、大杉荣被杀）密切相关；团体内部围绕'美学革命vs政治革命'的争论最终导致解体；④媒体策略主线——Mavo是日本最早自觉运用大众媒体进行自我推广的艺术团体之一——村山知义的'名人化'（celebrity）、Mavo机关刊的设计实验、抗议活动的精心策划，都表明先锋艺术并不天然排斥大众传播；⑤消费文化主线——Mavo艺术家同时批判资本主义又深度参与消费文化（咖啡馆展览/百货店设计/商业广告）——这种矛盾性并非简单的妥协，而是反映了先锋艺术在现代消费社会中的结构性困境；⑥身体与性别主线——Mavo将身体（特别是性欲化的身体）作为抵抗国家规训的最后阵地——自虐隐喻、性别模糊的着装、对'快感'（kyōraku）的公开宣扬，直接挑战了明治以来国家推行的'健康的/正常的/生育导向的'性伦理；⑦遗产争夺主线——战后日本艺术史界对Mavo的'回收'经历了从'抽象绘画先驱'（形式主义叙事）到'反体制先锋'（政治叙事）的话语转换，这些回收均服务于特定的冷战文化政治和日本国家认同建构",
+    "方法论贡献：首次将Mavo定位在'文化无政府主义'框架，超越了'日本达达'的简单标签；打破'纯艺术/商业艺术'的二元对立，还原了1920年代日本艺术生产的混杂性；将展演性（performativity）概念从语言行为理论创造性运用于视觉文化分析；通过大量一手日语文献，大幅修正了西方学界对日本现代艺术史的认识",
+    "限度：对Mavo与同时期日本其他先锋团体（如Action、二科以外的团体）的关系讨论相对较少；个别成员的史料严重不足（如念田龙夫），对自'群像'呈现存在不平衡；对'文化无政府主义'概念的理论谱系（与欧洲无政府主义思想的关系）可进一步深化",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：文化无政府主义与展演性",
+    "第二章：村山知义柏林经历与意识性构成主义",
+    "第四章：美学策略与政治意涵",
+    "第五章：文化工业中的Mavo（印刷/媒体/消费空间）",
+    "结语：遗产回收与战后话语转换"
+  ]
+}

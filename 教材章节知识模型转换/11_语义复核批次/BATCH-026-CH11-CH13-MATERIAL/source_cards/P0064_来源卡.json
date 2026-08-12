@@ -1,0 +1,36 @@
+{
+  "source_id": "P0064",
+  "corpus": "paper",
+  "folder_name": "Terry Irwin：《Transition Design： A Proposal for a New Area of Design Practice, Study, and Research》，2015",
+  "material_type": "转型设计纲领性论文",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Terry Irwin：《Transition Design： A Proposal for a New Area of Design Practice, Study, and Research》，2015.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 3726}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.5", "grade": "A", "verification": "V2", "role": "transition_design_framework"},
+    {"section_id": "15.5", "grade": "C", "verification": "V2", "role": "cosmopolitan_localism_vision"},
+    {"section_id": "12.7", "grade": "C", "verification": "V2", "role": "wicked_problems_century"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Terry Irwin（卡内基梅隆大学设计学院院长），《Transition Design: A Proposal for a New Area of Design Practice, Study, and Research》，Design and Culture 7:2, 229-246（2015）",
+    "针对21世纪'wicked problems'（气候变化、生物多样性丧失、资源枯竭、贫富差距）提出Transition Design（转型设计）——设计实践、研究与学习的新领域，主张设计主导的社会转型",
+    "连续统模型：服务设计→社会创新设计→转型设计——时空语境不断扩展的学科连续统",
+    "四领域框架（相互强化、共同演化）：愿景（Vision）、变革理论（Theories of Change）、心态/姿态（Mindset and Posture）、新设计方式（New Ways of Designing）",
+    "愿景以'cosmopolitan localism'（世界主义地方主义）为内容；变革理论整合六种跨学科知识（living systems theory、post normal science、alternative economics、sociotechnical regime等）；心态板块主张整体论世界观与个人转化；新设计方式强调长时程（the long now）、多尺度、连接型方法",
+    "制度影响：概念由Kossoff 2011年提出，框架2013年AIGA首讲，本文2015年系统发表；直接支撑CMU设计学院Transition Design Ph.D./D.Des.学位（2014秋开设）——2015年后发展为国际设计教育运动",
+    "学术贡献：把复杂性科学、日常生活批判、替代经济学系统引入设计学；提出'世界观作为设计变量''时间性作为设计属性'等新命题",
+    "谱系：Rittel & Webber的wicked problems传统、Buchanan设计思想、Manzini社会创新设计、Dunne & Raby思辨设计、Tonkinwise转型论述",
+    "限度：提案性质、无实证验证；愿景纲领化；'变革不可控'与'设计者引导变革'的张力未消解；图1/图3 OCR残损",
+    "clean原文为源文件；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L43：wicked problems与转型设计主张",
+    "L55-65：连续统模型",
+    "L91-97：四领域框架总纲",
+    "L107：cosmopolitan localism",
+    "L157：CMU学位建制"
+  ]
+}

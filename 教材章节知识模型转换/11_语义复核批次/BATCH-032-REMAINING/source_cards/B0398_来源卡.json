@@ -1,0 +1,33 @@
+{
+  "source_id": "B0398",
+  "corpus": "book",
+  "folder_name": "Sparke, Penny, An Introduction to Design and Culture, 1986",
+  "material_type": "设计文化导论（1986初版/2004二版文本）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Sparke, Penny, An Introduction to Design and Culture, 1986.md",
+  "duplicate_group": "与B0400（2013三版）为同一著作版本条目",
+  "files": [{"report_file_count": 3810, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "sparke_design_culture_intro"},
+    {"section_id": "9.1", "grade": "C", "verification": "V2", "role": "janus_double_alliance"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "identity_core_concept"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Penny Sparke（金斯顿大学设计史教授），《An Introduction to Design and Culture (1900 to the Present)》（1986初版Unwin Hyman；本分析为2004年第二版Routledge文本；正文10章L424-8588+Notes+Glossary+Bibliography+Index）——以'身份（identity）'为核心线索，将20世纪设计史书写为现代性（1900-1939）与后现代性（1940-今）两大时期中设计在生产与消费之间持续斡旋的文化建构史",
+    "结构：按'消费→技术→设计师→理论→身份'五大功能维度对称组织——第一部分五章（消费现代性/技术影响/产业设计师/现代主义/设计身份），第二部分五章（消费后现代性/技术新联盟/设计师文化/后现代主义/重新定义身份）",
+    "核心论点：①设计是'生产与消费的双重联盟'（Janus双面神之喻，L449-466）；②设计是文化实际建构过程的一部分，而非仅被反映（L572-578）；③'身份/认同'是串联全书的核心概念（L668-670）；④设计史分'现代性/后现代性'两段（有重叠，L495-499）；⑤现代主义是霸权话语但有性别/阶级/欧洲中心局限（L3354-3385/L3982-4005）；⑥'设计师文化'是20世纪文化的独特贡献（姓名=增值，L624-631/L3055-3069）；⑦设计从'对象时代'走向'体验时代'（L5561-5570/L7189-7200）",
+    "方法：综合1980-90年代消费文化研究、女性主义、符号学与后现代理论，批判传统现代主义叙事，强调设计是文化的能动建构者而非被动反映",
+    "关键概念：设计、文化、现代性、后现代性、身份、品味、好设计、设计师文化、文化资本、机器美学、品牌、全球化",
+    "去重：与B0400（2013第三版）为同一著作版本条目——本卡承担主映射（1986/2004文本），B0400承担第三版差异化命题",
+    "clean原文存在（11805行）；未完成全篇核验。"
+  ],
+  "original_spot_checks": [
+    "L449-466：Janus双面神之喻",
+    "L572-578：设计作为文化建构",
+    "L668-670：身份核心概念",
+    "L3354-3385：现代主义霸权话语的局限",
+    "L5561-5570：从对象时代到体验时代"
+  ]
+}
