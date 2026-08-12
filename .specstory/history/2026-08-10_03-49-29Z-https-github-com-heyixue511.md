@@ -900,9 +900,79 @@ _**Agent (deepseek-v4-pro 2026-08-12 04:35:06Z)**_
 
 还有残留变更，继续同步：
 
-_**Agent (deepseek-v4-pro 2026-08-12 04:35:07Z)**_
+_**Agent (deepseek-v4-pro 2026-08-12 04:35:18Z)**_
 
 <tool-use data-tool-type="unknown" data-tool-name="PowerShell"><details>
 <summary>Tool use: **PowerShell**</summary>
 Stage remaining changes and commit
+
+```text
+warning: in the working copy of '.specstory/history/2026-08-10_03-49-29Z-https-github-com-heyixue511.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.specstory/statistics.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '教材章节知识模型转换/scripts/_dump_multi.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '教材章节知识模型转换/scripts/_final_check.py', LF will be replaced by CRLF the next time Git touches it
+[master 7c7d87a] Sync: cleanup scripts, matrix updates, final check
+ 27 files changed, 268 insertions(+), 840 deletions(-)
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_batch_dist.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_build_ch03_matrix.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_build_ch05_matrix.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_dump_bad.py"
+ create mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_dump_multi.py"
+ create mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_final_check.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_fix_batch031_format.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_fix_batch032_cols.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_fix_ch01_ch02.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_inspect_cols.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_list_batch022_candidates.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_list_batch031_candidates.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_list_mismatch.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_peek_rows.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_reverify_b032.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_update_ch02_23_27.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_update_ch02_23_27b.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_update_ch02_24.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_update_ch02_25.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_update_ch02_25b.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_update_ch02_27c.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_update_ch02_matrix.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_verify_cards.py"
+ delete mode 100644 "\346\225\231\346\235\220\347\253\240\350\212\202\347\237\245\350\257\206\346\250\241\345\236\213\350\275\254\346\215\242/scripts/_verify_delivery.py"
+```
+</details></tool-use>
+
+_**Agent (deepseek-v4-pro 2026-08-12 04:35:20Z)**_
+
+<think><details><summary>Thought Process</summary>
+Commit successful. Now push and then verify clean state.
+</details></think>
+
+_**Agent (deepseek-v4-pro 2026-08-12 04:35:30Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="PowerShell"><details>
+<summary>Tool use: **PowerShell**</summary>
+Push to remote and verify clean state
+
+```text
+To https://github.com/heyixue511-creator/Design-History-write.git
+   5de75383..7c7d87a9  master -> master
+ M .specstory/history/2026-08-10_03-49-29Z-https-github-com-heyixue511.md
+ M .specstory/statistics.json
+```
+</details></tool-use>
+
+_**Agent (deepseek-v4-pro 2026-08-12 04:35:32Z)**_
+
+<think><details><summary>Thought Process</summary>
+There are still 2 modified files that keep showing up. These seem to be files that change frequently (specstory history and statistics). Let me add and push them too.
+</details></think>
+
+_**Agent (deepseek-v4-pro 2026-08-12 04:35:32Z)**_
+
+还剩 2 个文件，一并清理：
+
+_**Agent (deepseek-v4-pro 2026-08-12 04:35:33Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="PowerShell"><details>
+<summary>Tool use: **PowerShell**</summary>
+Stage and commit remaining 2 files, then push
 </details></tool-use>
