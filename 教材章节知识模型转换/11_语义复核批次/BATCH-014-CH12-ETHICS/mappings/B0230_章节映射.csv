@@ -1,5 +1,5 @@
-source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
-B0230,12.3,B,V2,design_mindfulness_sustainability,设计正念（design mindfulness）七项原则与五资本模型：从"为人们设计"转向"与人们一起设计"、从产品到服务——可持续设计的理论奠基,作者理论（2005）；'正念'为规范性框架,整体分析报告（L004）,ACCEPTED_AS_SUPPORTING_SOURCE
-B0230,12.7,B,V2,sense_and_respond,从蓝图式规划转向"感知与回应"（sense and respond）；七种设计框架转换（高概念→深语境、为人们设计→与人们一起设计）——社会创新设计先声,作者框架（2005）；案例依赖个人旅行经验（系统性偏差风险，作者自认限度）,Ch10分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
-B0230,12.1,B,V2,technology_first_critique,"技术先行、人后退"批判与"在气泡中"隐喻：现代社会的核心病症——职业伦理到社会批判,作者批判（2005）；技术异化的量化证据未核,导言分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
-B0230,12.7,C,V2,service_design_paradigm,从拥有到使用（use, not own）与产品-服务系统：设计的对象从物转向情境、服务与基础设施——服务设计的范式转换,作者贡献（2005）；服务设计的行业扩散数据未核,Ch6-10分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0230,12.3,B,V2,design_mindfulness_sustainability,"设计正念（design mindfulness）七项原则与五资本模型：从""为人们设计""转向""与人们一起设计""、从产品到服务——可持续设计的理论奠基",作者理论（2005）；'正念'为规范性框架,整体分析报告（L004）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0230,12.7,B,V2,sense_and_respond,"从蓝图式规划转向""感知与回应""（sense and respond）；七种设计框架转换（高概念→深语境、为人们设计→与人们一起设计）——社会创新设计先声",作者框架（2005）；案例依赖个人旅行经验（系统性偏差风险，作者自认限度）,Ch10分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0230,12.1,B,V2,technology_first_critique,"技术先行、人后退批判与""在气泡中""隐喻：现代社会的核心病症——职业伦理到社会批判",作者批判（2005）；技术异化的量化证据未核,导言分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0230,12.7,C,V2,service_design_paradigm,"从拥有到使用（use, not own）与产品-服务系统：设计的对象从物转向情境、服务与基础设施——服务设计的范式转换",作者贡献（2005）；服务设计的行业扩散数据未核,Ch6-10分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

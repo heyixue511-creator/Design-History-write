@@ -1,4 +1,4 @@
-source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
 B0227,14.3,B,V2,hci_convergence_institutionalization,HCI是从软件工程、人因心理学、计算机图形学、认知科学四条独立传统在1980年代'汇聚'而成；'用户中心系统开发'（可用性工程方法+界面软件工具双翼）成为整合性框架——可用性、认知模型、参与式方法与原型进入专业流程的学科史——14.3HCI与设计方法的汇合,编者导论（2002）；HCI学科史叙事,00_导论_Introduction_分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
-B0227,16.5,B,V2,usability_definition_iterative_design,'HCI is the study and the practice of usability'；设计被重新定义为'机会主义的、具体的、必然迭代的'（opportunistic, concrete, and necessarily iterative）——对瀑布模型的批判与原型法作为核心方法论——16.5自动化界面与人的控制权的交互范式基础,编者导论（2002）；Brooks'plan to throw one away'案例,00_导论_Introduction_分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0227,16.5,B,V2,usability_definition_iterative_design,"'HCI is the study and the practice of usability'；设计被重新定义为'机会主义的、具体的、必然迭代的'（opportunistic, concrete, and necessarily iterative）——对瀑布模型的批判与原型法作为核心方法论——16.5自动化界面与人的控制权的交互范式基础",编者导论（2002）；Brooks'plan to throw one away'案例,00_导论_Introduction_分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
 B0227,14.2,C,V2,parc_desktop_paradigm,Xerox PARC的Alto/Smalltalk-72（鼠标、位图显示、窗口系统）是桌面计算范式的概念诞生地；GOMS模型（Card/Moran/Newell 1983）确立HCI'科学气质'——GUI交互范式的关键史实——14.2图形用户界面与交互范式,编者导论（2002）；计算史叙事,00_导论_Introduction_分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
