@@ -1,0 +1,26 @@
+{
+  "chapter": "CH00",
+  "title": "导论：设计史的对象、证据、时间与叙事",
+  "entities": [
+    {"id": "E-0001", "type": "person", "name": "Richard Buchanan", "sections": ["0.1"], "key_sources": ["B0059"]},
+    {"id": "E-0002", "type": "person", "name": "John Heskett", "sections": ["0.1"], "key_sources": ["B0183", "B0084", "B0225"]},
+    {"id": "E-0003", "type": "person", "name": "Judy Attfield", "sections": ["0.1", "0.2"], "key_sources": ["B0240"]},
+    {"id": "E-0004", "type": "person", "name": "Victor Margolin", "sections": ["0.1", "0.3"], "key_sources": ["B0059", "B0108", "B0291"]},
+    {"id": "E-0005", "type": "institution", "name": "Design History Society", "sections": ["0.1"], "key_sources": []},
+    {"id": "E-0006", "type": "publication", "name": "Design Issues（期刊）", "sections": ["0.1"], "key_sources": ["B0059", "B0108"]},
+    {"id": "E-0007", "type": "person", "name": "Grace Lees-Maffei", "sections": ["0.1", "0.5"], "key_sources": ["B0273"]},
+    {"id": "E-0008", "type": "publication", "name": "The Design History Reader（2010）", "sections": ["0.1", "0.5"], "key_sources": ["B0273"]},
+    {"id": "E-0009", "type": "publication", "name": "The Idea of Design（1995）", "sections": ["0.1"], "key_sources": ["B0059"]},
+    {"id": "E-0010", "type": "publication", "name": "Design Discourse（1989）", "sections": ["0.1"], "key_sources": ["B0108"]},
+    {"id": "E-0011", "type": "person", "name": "Roland Marchand", "sections": ["0.5", "5.2"], "key_sources": ["B0376"]},
+    {"id": "E-0012", "type": "person", "name": "Mike Davis", "sections": ["0.6", "0.7"], "key_sources": ["B0313"]},
+    {"id": "E-0013", "type": "person", "name": "Cheryl Buckley", "sections": ["0.6"], "key_sources": ["B0108"]}
+  ],
+  "relations": [
+    {"source": "E-0005", "target": "E-0006", "type": "founded", "evidence": "待P0（DHS 1977、Design Issues创刊文件）", "note": "P0未核"},
+    {"source": "E-0009", "target": "E-0010", "type": "shared_object", "evidence": "B0059/B0108来源卡", "note": "同编者同系列Design Issues文选，重合论文只计一份P0"},
+    {"source": "E-0008", "target": "E-0004", "type": "published", "evidence": "B0273", "note": "B0273与B0417为同书两条目"},
+    {"source": "E-0001", "target": "E-0009", "type": "edited", "evidence": "B0059", "note": ""},
+    {"source": "E-0002", "target": "E-0006", "type": "contributed", "evidence": "B0183", "note": "Heskett为学科手册作者之一"}
+  ]
+}

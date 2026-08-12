@@ -1,15 +1,25 @@
 ﻿source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0186,0.5,A,V2,actor_self_account_p0,本书为行动者自著职业文本，属P0证据：可直接证明Dreyfuss的职业主张、方法与自我定位（1929年开业至1967年职业全程）,不能自动证明行业影响或产品成效；与B0206/B0066/B0205共享对象时只计一份P0,全文,ACCEPTED_AS_ACTOR_SOURCE
+B0186,0.6,A,V2,self_justification_bias,自传体文本含自我辩护与自我推销成分：成功案例详述、19则失败轶事以幽默降调处理（'Comfort Station Attendants will be followed by the Industrial Designers'）、1955年预言自评'过于保守',偏差属性本身即证据边界，引用时须标注行动者立场（P0）,第4、15章分析报告；clean第1978—2019行（失败轶事）、2402—2420行（重估）,ACCEPTED_AS_ACTOR_SOURCE
+B0186,0.6,B,V2,single_actor_perspective,单一行动者视角局限：美国中心主义、男性中心（Josephine置于家务/接线员角色）与时代审美预设,复核者对文本视角局限的判定,整体报告七.2—七.3；clean第272—284行,ACCEPTED_AS_ACTOR_SOURCE
 B0186,5.3,A,V2,actor_profession_self_account,德雷福斯作为美国工业设计奠基者之一（与Teague、Loewy、Geddes并列）的第一人称职业自述：由舞台设计转型、1929年于580 Fifth Avenue开设事务所、大萧条下职业萌生,自述仅证明德雷福斯个人实践与主张；'四巨头'地位与行业影响需外部史料佐证,clean第130行；第1章分析报告,ACCEPTED_AS_ACTOR_SOURCE
 B0186,5.3,A,V2,designer_client_relationship,独立设计师以外部视角（outside point of view）服务客户，理想关系为'友好而受尊重的融合'；Crane公司二战保留费续约案例展示长期客户关系价值,客户反应（'one of us'支票）为德雷福斯单方叙述，无客户方独立证实,clean第1852—1887行；第13章分析报告,ACCEPTED_AS_ACTOR_SOURCE
 B0186,5.3,A,V2,fee_and_contract_transparency,公开四种收费模式（年度聘用制为首选）、聘用费六因素、'握手协议'与无合同合作（McCall's 12年、New York Central 15分钟年会）,收费与合同实务为事务所单方披露；'从未有过诉讼'为自述事实，行业惯例程度不可外推,clean第1903—1965行；第14章分析报告,ACCEPTED_AS_ACTOR_SOURCE
 B0186,5.3,B,V2,catalytic_agent_role,设计师是'催化代理'而非全知创造者，与工程师从敌意到主动邀请的协作关系进化（'designer supplements but in no way supplants the engineer'）,关系进化叙事是行动者谦逊自我定位的立场表述，工程师一方接受度无独立证据,第3章分析报告（设计师工作方法）；NN专项报告五,ACCEPTED_AS_ACTOR_SOURCE
 B0186,5.3,B,V2,organization_profile,事务所组织自画像：1929年'抑郁婴儿'开业、6位合伙人、约15个客户、每日跨海岸大信封信息流、'成为客户家庭一员'与'面孔与个性',单一事务所个案自述，规模与运作模式不代表行业常态,第17章分析报告（Profile of an Organization）,ACCEPTED_AS_ACTOR_SOURCE
-B0186,5.3,B,V2,sid_founding_1944,德雷福斯自称'帮助组织'1944年成立的SID（工业设计师协会），169名会员并设严格伦理准则，构成职业制度化进程的行动者证据,SID缘起为单方自述（'helped organize'），正式组织史需对照SID/IDSA档案,clean第2288—2289行；第16章分析报告,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.4,B,V2,streamlining_critique,Dreyfuss以'由内而外'批评装饰性流线型（'streamlining stoves...that aren't going anywhere'，即'流线型化不会移动的冰箱'），提出cleanlining替代streamlining，并记录Chrysler Airflow失败,属行动者对行业流线型风潮的批评立场，非流线型运动的正面史料,clean第720行；第1章与第5章分析报告,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.5,A,V2,profession_formation_1929,有声电影冲击百老汇（1927）→1929年于580 Fifth Avenue开设工业设计事务所，构成美国工业设计职业形成的行动者自述证据,自传叙事含自我辩护；'四巨头'地位与行业影响需外部史料佐证,clean第130行,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.5,A,V2,inside_out_design_principle,'诚实的设计应由内而外，而非由外而内'，反对表面装饰化，界定职业方法论核心,属Dreyfuss职业主张（P0），不代表行业共识,clean第130、913、918行,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.5,B,V2,silent_salesman_concept,'优良工业设计是无声推销员'，设计作为大萧条后差异化竞争手段的职业功能观,行动者对设计商业功能的自我表述,第1章分析报告,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.5,B,V2,sid_founding_1944,德雷福斯自称'帮助组织'1944年成立的SID（工业设计师协会）：与Teague周末讨论发起、次日与Loewy商议，169名会员并设严格伦理准则，构成职业制度化进程的行动者证据,SID缘起为单方自述（'helped organize'），正式组织史需对照SID/IDSA档案,clean第2288—2294行；第16章分析报告,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.6,A,V2,anthropometry_percentile_partners,Dreyfuss事务所以Joe/Josephine百分位人体测量图（'极端值而非平均值'，覆盖2.5—97.5百分位）将人体测量学系统引入工业设计方法，为后世user persona提供原型,自述其事务所方法与实践，不能证明人体测量法在行业中的普及程度,clean第210—224、278—280行；第2章分析报告,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.6,A,V2,machine_fit_person_principle,'最高效的机器是围绕人而建造的'：设计应使机器适配人而非将人塞进机器，human engineering作为弥合人类行为与机器设计鸿沟的学科,属Dreyfuss的方法论主张（理念证据），不自动证明产品成效,clean第225—228、280行；第2章分析报告,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.6,A,V2,five_senses_design_framework,视、听、触、嗅、色觉五感被纳入设计考量（视觉阈值、分贝、色彩心理、气味扩散）,自述其事务所研究框架，样本与方法未披露,clean第223—224、288—304行,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.6,B,V2,household_efficiency_cases,熨斗作为手臂延伸、打字机眩光、吸尘器手柄等家务与办公效率案例体现'家务与效率'主题,案例成效（如'如今已普及'）为自述，无独立验证,clean第230—237、292—294、1782行,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.6,B,V2,anthropometric_data_catalog,手柄直径0.5—1.25英寸、脚刹35磅、左撇子6—9%等'设计常数库'数据,数据来源、样本规模与统计方法未透明，不可作为独立科学数据引用,clean第227行；第2章分析报告,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.7,B,V2,profession_code_of_ethics,SID'严格的伦理准则'与高门槛会员制，构成商业设计伦理制度化的行动者证据,伦理成效为自述；'给职业尊严'属价值判断,clean第2295—2296行,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.7,B,V2,commercial_design_critique,第9章批判汽车工业'蒸汽压路机式推广'、第14章公开收费模式，触及商业设计的伦理争议,批判立场与'透明化先例'为行动者观点,整体报告3.3、七.1及第9/14章分析报告,ACCEPTED_AS_ACTOR_SOURCE
+B0186,5.7,C,V2,ethics_market_tension_unresolved,'当市场要求坏设计时设计师怎么办'的伦理困境未获系统性回答，对汽车工业的批判以自嘲收场,复核者基于文本的解读性判断，非原文陈述,整体报告七.1,ACCEPTED_AS_ACTOR_SOURCE
 B0186,7.3,A,V2,good_design_as_american_art_form,'优良设计、大规模生产的商品构成新美国艺术形式'——战后美国Good Design话语的行动者宣言；以Art on Wheels、博物馆参观数据论证公众品味提升,属德雷福斯立场宣言与文化辩护；自引统计不能证明Good Design制度（MoMA、企业、中产消费）全貌,clean第779、804、854行；第6章分析报告,ACCEPTED_AS_ACTOR_SOURCE
 B0186,7.3,A,V2,good_design_evaluation_framework,战后转向系统化：以人因工程与五点评分公式（效用与安全/维护/成本/销售吸引力/外观）定义'好设计'标准，'设计应当一目了然'、维护必须显而易见,公式为事务所自述方法（'infallible'是自信断言）；公式在行业中的接受度无独立证据,clean第1698—1778行；第12章分析报告,ACCEPTED_AS_ACTOR_SOURCE
 B0186,7.3,B,V2,classic_form_telephone_1950s,500型电话以'二十年后仍不过时'的经典形式为目标并'由内而外'与贝尔实验室协作，体现战后美国以功能正确与时间抗性界定优良设计,电话项目成效与'经典'评价为德雷福斯自述；贝尔合作细节可对照AT&T史料,clean第913—918、936行；第7章分析报告,ACCEPTED_AS_ACTOR_SOURCE
-B0186,5.5,A,V2,anthropometry_percentile_partners,Joe/Josephine百分位人体测量伙伴（'极端值而非平均值'，覆盖2.5—97.5百分位）将人体测量学系统引入设计方法，为后世user persona提供原型,自述其事务所方法与实践，不能证明人体测量法在行业中的普及程度,clean第210—224、278行；第2章分析报告,ACCEPTED_AS_ACTOR_SOURCE
-B0186,5.5,A,V2,machine_fit_person_principle,'最高效的机器是围绕人而建造的'：机器适配人而非将人塞进机器，human engineering作为弥合人类行为与机器设计鸿沟的学科,属德雷福斯方法论主张（理念证据），不自动证明产品成效,clean第225—228行；第2章分析报告,ACCEPTED_AS_ACTOR_SOURCE
-B0186,5.5,B,V2,five_senses_design_catalog,视、听、触、嗅、色觉五感纳入设计考量（视觉阈值、分贝、色彩心理、气味扩散）并积累'设计常数库'（手柄直径0.5—1.25英寸、脚刹35磅、左撇子6—9%）,样本与统计方法未披露，数据不可作为独立科学数据引用,clean第223—224、288—304行；第2章分析报告,ACCEPTED_AS_ACTOR_SOURCE
-B0186,5.4,B,V2,streamlining_critique,以'由内而外'批判装饰性流线型风潮（'streamlining stoves...that aren't going anywhere'），提出cleanlining替代streamlining，并记录Chrysler Airflow失败,行动者对行业流线型风潮的批评立场，非流线型运动的正面史料,clean第720行；第5章分析报告,ACCEPTED_AS_ACTOR_SOURCE
-B0186,0.6,A,V2,self_justification_bias_marker,自传体文本含自我辩护与自我推销成分：成功案例详述、19则失败轶事以幽默降调处理（'Comfort Station Attendants will be followed by the Industrial Designers'）、1955年预言自评'过于保守',偏差属性本身即证据边界，引用时须标注行动者立场（P0）,clean第1978—2019行（失败轶事）、2402—2420行（重估）；第15章分析报告,ACCEPTED_AS_ACTOR_SOURCE

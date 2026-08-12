@@ -1,0 +1,37 @@
+{
+  "source_id": "B0390",
+  "corpus": "book",
+  "folder_name": "Scott McCloud：《Understanding Comics The Invisible Art》，1993",
+  "material_type": "漫画媒介理论奠基著作",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Scott McCloud：《Understanding Comics The Invisible Art》，1993_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 16, "report_characters": 81851}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "closure_visual_cognition"},
+    {"section_id": "11.2", "grade": "C", "verification": "V2", "role": "comics_low_culture_legitimacy"},
+    {"section_id": "16.7", "grade": "C", "verification": "V2", "role": "visual_narrative_digital"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Scott McCloud，《Understanding Comics: The Invisible Art》（1993 Kitchen Sink Press；1994 HarperPerennial），以漫画自身为媒介写成的第一部系统性漫画理论专著（继Eisner《Comics and Sequential Art》之后'第二本'）",
+    "定义：漫画=并置的图像与其他图像处于有意的序列中，旨在传达信息和/或引发审美反应（L61-64）；单幅画不是漫画",
+    "核心机制'闭包'（closure）：读者在画格间'沟槽'（gutter）主动补全时间、空间与动作——'看不见的艺术'；闭包是创作者与读者的'沉默秘密契约'",
+    "卡通化=通过简化而放大（amplification through simplification）；面具化（masking）使极简角色成为读者身份与意识投入的真空",
+    "时间控制四重手段：画格内容、画格数量、画格间闭包、出血（bleeds）；漫画是'单感官媒介'",
+    "图文七种组合（word-specific、picture-specific、duo-specific、additive、parallel、montage、interdependent）；图文本同源、近代才被分离",
+    "创作者六步：观念→形式→成规→结构→技艺→表层",
+    "价值命题：媒介（medium）源自拉丁语'中间'，是'心灵间的桥梁'；漫画弥补人类'无法想象他人心智'的缺陷",
+    "方法：形式即方法（以漫画论证漫画）、定义-排除法、分类学、历史谱系、认知心理学论证；限度：以西方实践为主、量化证据极少、定义排除单幅与摄影",
+    "影响：漫画定义/闭包/图文七组合成为comics studies标准分析工具；对视觉传达（图标/简化原理）、信息设计（图文关系）、交互设计（参与式认知）有方法论辐射",
+    "clean原文存在；OCR清洗导致图例证据缺失，未完成全篇、图版核验。"
+  ],
+  "original_spot_checks": [
+    "L61-64：漫画定义",
+    "L84：卡通化=简化即放大",
+    "L136-140：闭包与沟槽机制",
+    "L297-336：图文七组合",
+    "L389：媒介即心灵间的桥梁"
+  ]
+}

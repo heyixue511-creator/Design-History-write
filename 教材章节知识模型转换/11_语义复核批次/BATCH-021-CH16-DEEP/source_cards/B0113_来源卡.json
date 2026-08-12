@@ -1,0 +1,34 @@
+{
+  "source_id": "B0113",
+  "corpus": "book",
+  "folder_name": "Design Research： Methods and Perspectives (The MIT Press) -- Laure",
+  "material_type": "设计研究方法论文集（40位作者）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Design Research： Methods and Perspectives (The MIT Press) -- Laure.md",
+  "duplicate_group": "与B0083（Clark/Brody）、B0019（Almquist/Lupton）共享设计研究对象；本书为设计研究方法论主源",
+  "files": [{"report_file_count": 13, "report_characters": 22061}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "muscular_design"},
+    {"section_id": "0.6", "grade": "C", "verification": "V2", "role": "design_research_profession"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Brenda Laurel编《Design Research: Methods and Perspectives》（MIT Press 2003），约40位作者；序Peter Lunenfeld",
+    "'Muscular Design'（强健的设计）核心主张：设计研究是设计师'夺取并导引其职业权力'的关键工具，使设计从被边缘化职业转变为战略主动性力量",
+    "四板块：People（人）、Form（形式）、Process（过程）、Action（行动）",
+    "方法谱系：民族志、表演民族志（Performance Ethnography）、设计即兴（Design Improvisation）、信息表演（Informance）、迭代设计、以梦为研究材料（Dreams）、游戏研究",
+    "案例：The Sims、America's Army（游戏）、Mobium（博物馆系统）、Nickelodeon（儿童品牌）、Placeholder（VR）、情感机器人",
+    "核心论旨：设计研究不应是市场研究或可用性测试的附属品，而应成为设计过程的'大脑'——'美（Beauty）、智识（Brains）、勇气（Bravery）'",
+    "机构：Art Center、Intel Research、Xerox PARC、MIT Media Lab、Interaction Design Institute Ivrea、IDEO、Cheskin",
+    "本书为设计研究方法论（B级）：对C.0承担研究范式",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导言：Muscular Design主张",
+    "People板块：民族志方法（Plowman）",
+    "Action板块：America's Army案例",
+    "Form板块：Placeholder（VR）",
+    "结论章：'Beauty, Brains and Bravery'"
+  ]
+}

@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0267,16.3,A,V2,artifacts_have_politics,"人造物有政治吗？"——技术远非价值中立的工具而是"生活形式"的载体；特定设计中的权力安排与"内在政治性技术"——16.3可见性政治理论基座,作者理论（1986初版）；奠基性文本,00_整体分析报告（Ch.1-3）,ACCEPTED_AS_CORE_SOURCE
+B0267,16.3,A,V2,technological_somnambulism,"技术梦游症"：技术选择被委托给市场与专家；对"信息革命"话语的批判——技术革新通常巩固而非瓦解既有权力结构——16.3算法不透明批判,作者理论（1986）；信息革命批判具预见性（二版验证）,00_整体分析报告（Ch.6、Ch.11）,ACCEPTED_AS_CORE_SOURCE
+B0267,16.3,B,V2,technical_constitution,技术作为"第二部宪法"：技术基础设施构成与政治宪法平行的宪制性力量，非经民主审议产生——16.3平台权力分析,作者理论（1986）；宪法隐喻为分析框架,00_整体分析报告（Ch.3）,ACCEPTED_AS_SUPPORTING_SOURCE

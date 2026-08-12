@@ -1,0 +1,34 @@
+{
+  "source_id": "B0178",
+  "corpus": "book",
+  "folder_name": "Greiman：《Hybrid imagery the fusion of technology and graphic design》",
+  "material_type": "平面设计实践档案与技术宣言",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Greiman：《Hybrid imagery the fusion of technology and graphic design》.md",
+  "duplicate_group": "与B0368（Poynor）、B0176（理论文选）共享新浪潮/后现代平面对象；同一作品（Design Quarterly #133）只计一份P0",
+  "files": [{"report_file_count": 12, "report_characters": 9864}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.6", "grade": "B", "verification": "V2", "role": "new_wave_digital_practice"},
+    {"section_id": "11.2", "grade": "B", "verification": "V2", "role": "yes_and_philosophy"},
+    {"section_id": "11.6", "grade": "C", "verification": "V2", "role": "dedicated_generalist"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Greiman（美国加州新浪潮平面设计代表），Watson-Guptill 1990；唯一一本个人作品集兼理论宣言，约160页全彩",
+    "记录1984年Macintosh问世至1990年平面设计从照相机械向数字技术过渡的完整过程",
+    "核心论题：数字技术是'内爆'（implosion）——将分离的媒介、学科与制作过程折叠进共同数字语言；'digital technology is no respecter of existing boundaries'",
+    "'混合图像'（hybrid imagery）：数字图像/文本/页面技术与传统照相机械印刷技术的融合——1990年代数字设计核心术语",
+    "关键子论题：'是，而且'（yes, and）非'非此即彼'；'错误'作为创造性契机（Undo功能重释）；纹理即情感（低分辨率美学批判高清完美主义）；'没有原作'的复制哲学；设计师从专门家转向'专注的通才'",
+    "核心案例：Design Quarterly #133（2'×6'全数字拼贴海报）——Macintosh作为'新范式'",
+    "本书为美国新浪潮实践档案（P0行动者文本）：对11.6承担数字转向（B级）、11.2承担消解二元论（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Design Quarterly #133：2'×6'全数字拼贴海报——Macintosh'新范式'案例",
+    "Eric Martin导论：'digital technology is no respecter of existing boundaries'",
+    "'是，而且'（yes, and）vs'非此即彼'（either/or）",
+    "'Mistakes are accidents, and accidents often reveal unexpected possibilities.'",
+    "设计师从专门家转向'专注的通才'（dedicated generalist）"
+  ]
+}

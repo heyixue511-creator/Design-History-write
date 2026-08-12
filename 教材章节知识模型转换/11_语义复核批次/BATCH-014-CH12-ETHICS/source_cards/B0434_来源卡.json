@@ -1,0 +1,36 @@
+{
+  "source_id": "B0434",
+  "corpus": "book",
+  "folder_name": "Victor Papanek：《Design for the Real World Human Ecology and Social Change》",
+  "material_type": "设计伦理奠基宣言（行动者原典）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Victor Papanek：《Design for the Real World Human Ecology and Social Change》_clean.md",
+  "duplicate_group": "与B0420（Papanek绿色律令）为同一作者姊妹书；与B0473（周博帕帕奈克思想史）为原典-转引关系；本书为12.2/5.7批判原典基准",
+  "files": [{"report_file_count": 20, "report_characters": 4376}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.2", "grade": "A", "verification": "V2", "role": "design_for_real_world_manifesto"},
+    {"section_id": "12.2", "grade": "A", "verification": "V2", "role": "five_myths_six_directions"},
+    {"section_id": "12.3", "grade": "B", "verification": "V2", "role": "kleenex_culture_obsolescence"},
+    {"section_id": "12.6", "grade": "C", "verification": "V2", "role": "consumer_rights_manifesto"},
+    {"section_id": "5.7", "grade": "A", "verification": "V2", "role": "papanek_original"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Papanek，1971美国初版／1984第二版（完全修订）／Thames & Hudson 1985英平装；'全世界阅读最广的设计书'（L84）",
+    "核心论点：设计是'人塑造工具、环境，进而塑造社会与自身'的最强大工具（L18）；设计师承担沉重的社会与道德责任；设计必须从'为市场服务'转向'为人类真实需要服务'",
+    "关键概念：function complex、phylogenocide（工业设计职业史批评）、Triad of Limitations、kymmenykset（什一献礼）、Kleenex Culture（可弃文化）、bionics（仿生学）、bisociation、integrated design、五个神话/六个方向、消费者权利宣言、Spaceship Earth",
+    "亲历项目：罐头盒收音机、CP-1立方体、人工牛蒡种子——'为真实需要而设计'示范",
+    "限度：个别史实数据可商榷；对艺术家/博物馆批判带论战色彩；部分方案构想/乌托邦式；'亲作者案例偏置'；数据带1960—84时代语境",
+    "本书为设计伦理奠基原典（P0行动者文本）：对12.2承担核心宣言（A级）、5.7承担批判原典补证（A级，P0缺口闭合）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L18：设计是'人塑造工具、环境，进而塑造社会与自身'的最强大工具",
+    "Ch2（L463-614）：phylogenocide——工业设计职业史批评",
+    "Ch4（L775-1148）：kymmenykset、Triad of Limitations、Do-it-Yourself Murder",
+    "Ch5（L1149-1365）：Kleenex Culture——过时与价值",
+    "Ch9（L2862-3254）：设计责任的五个神话与六个方向",
+    "Ch12（L4239-4601）：'为生存而设计'总结——消费者权利宣言"
+  ]
+}

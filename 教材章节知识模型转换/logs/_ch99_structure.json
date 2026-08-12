@@ -1,0 +1,273 @@
+{
+ "C.0": {
+  "grades": {
+   "X": 1,
+   "A": 9,
+   "B": 11,
+   "C": 5
+  },
+  "count": 26,
+  "items": [
+   {
+    "source_id": "B0083",
+    "title": "Clark, Hazel; Brody, David (eds.), Design Studies： A Reader, 2009",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_studies_discipline",
+    "accepted_claim": "设计研究是跨学科的反思性事业——设计是过程、产品、系统、使用及其对人的影响的整体（'Design is everywhere'）——design studies第一部综合性读本——C.0学科收束",
+    "evidence_boundary": "学科纲领（2009）；编者界定",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0103",
+    "title": "Dennis P. Doordan：《Design History An Anthology》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_history_discipline",
+    "accepted_claim": "设计史研究'人如何有意制造对象、环境与经验，并使其塑造与反映历史时刻'——1980-90年代英语设计史学成型的标志性读本（Design Issues十年选文）——C.0学科收束",
+    "evidence_boundary": "学科宣言（1995）；选文为学术经典",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0111",
+    "title": "Design History and Culture ： Methods and Approaches -- Javier Gimeno-Martínez --",
+    "grade": "A",
+    "verification": "V2",
+    "role": "methods_approaches_toolbox",
+    "accepted_claim": "设计史与文化研究'方法-路径'双层工具箱：16种方法（结构主义细读、物的生命周期、比较、案例研究、口述史、民族志、话语分析等）与7种路径——结语方法论回收",
+    "evidence_boundary": "方法论教材（2025）；四段结构（起源-发展-实施-挑战）为教学架构",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0112",
+    "title": "Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic",
+    "grade": "A",
+    "verification": "V2",
+    "role": "uneasy_relationship_design_research",
+    "accepted_claim": "设计与设计研究之间的\"不安关系\"：设计研究一度被系统工程、计算机科学和运筹学方法论殖民（外源性），导致与实践脱节——主张\"内生性设计研究\"（从设计实践内部生发的知识生产）——结语学科反思",
+    "evidence_boundary": "作者论文（约2004/2007出版）；内生性研究为纲领性主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0152",
+    "title": "Fallan, Kjetil, Design History： Understanding Theory and Method, 2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_history_methodology",
+    "accepted_claim": "设计史应挣脱艺术史阴影、靠近技术史与STS、以'设计文化'为对象；ism作为理解设计意识形态与实践共生产的分析透镜——C.0设计史方法论",
+    "evidence_boundary": "作者理论（2010）；方法论专著",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0425",
+    "title": "Thorpe：《Design with society why socially responsive design is good enough》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "socially_responsive_design",
+    "accepted_claim": "社会响应式设计辩护：近200年设计史存在'审美/市场驱动'与'社会有用'两种范式；两种范式下设计师都无法真正做到'对社会负责'——以'响应性'（responsivity）取代'责任性'（responsibility）",
+    "evidence_boundary": "作者论文（2011）；'响应性够好'命题为CoDesign社会创新特刊核心主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0510",
+    "title": "设计与历史的质疑",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_history_critique",
+    "accepted_claim": "设计史批判：设计史在很大程度上没有认识到设计的历史意义——\"将历史从设计思想中切除，使贯穿于设计的认知从设计所参与的各条时间轨迹的认知中隔离出来\"——结语学科回收",
+    "evidence_boundary": "作者理论（2015原书/2020中译）；设计史批判为合著共同立场",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0510",
+    "title": "设计与历史的质疑",
+    "grade": "A",
+    "verification": "V2",
+    "role": "defuturing",
+    "accepted_claim": "去未来化（defuturing）：设计及其产物消解未来可能性、导致结构不可持续性——设计作为塑造人类命运的历史行动者——结语责任命题",
+    "evidence_boundary": "作者概念（2015）；去未来化为Fry核心概念族",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0069",
+    "title": "Ulla Johansson-Sköldberg, Jill Woodilla：《Design Thinking Past, Present and Possible Futures》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "dual_discourse_design_thinking",
+    "accepted_claim": "设计思维双话语地图：designerly thinking（五认识论子话语：Simon/Schön/Buchanan/Lawson&Cross/Krippendorff）vs design thinking（三管理起源：IDEO/Martin/Boland&Collopy）——结语学科回顾",
+    "evidence_boundary": "学术综述（2013发表，引注止于2012）；双话语框架为元话语分析",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0083",
+    "title": "Clark, Hazel; Brody, David (eds.), Design Studies： A Reader, 2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_no_fixed_essence",
+    "accepted_claim": "设计无固定本质（Margolin）：不指称'可以像蝴蝶一样钉住的一类对象'，而是'对人工世界的构思与规划'——C.0设计本体",
+    "evidence_boundary": "选文（Margolin）；理论命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0111",
+    "title": "Design History and Culture ： Methods and Approaches -- Javier Gimeno-Martínez --",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_history_contemporary_agenda",
+    "accepted_claim": "设计史学科当代议程：AI（含中国AI著作权法律框架）、生物设计、去殖民化、非二元性别——结语学科前沿",
+    "evidence_boundary": "作者教材（2025）；当代案例（MycoWorks、无性别时装）为分析示例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0112",
+    "title": "Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_science_limits",
+    "accepted_claim": "设计科学的限度（Kirchmann两难）与\"从话语到视程\"（from discourses to viscourses）图像转向纲领——结语学科认知重构",
+    "evidence_boundary": "作者论证（2004）；图像转向概念引Günter Abel",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0113",
+    "title": "Design Research： Methods and Perspectives (The MIT Press) -- Laurel, Brenda -- C",
+    "grade": "B",
+    "verification": "V2",
+    "role": "muscular_design",
+    "accepted_claim": "'Muscular Design'（强健的设计）：设计研究是设计师'夺取并导引其职业权力'的关键工具，使设计从被边缘化职业转变为战略主动性力量——C.0设计研究范式",
+    "evidence_boundary": "编者主张（2003）；文集论点",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0152",
+    "title": "Fallan, Kjetil, Design History： Understanding Theory and Method, 2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "margolin_forty_debate",
+    "accepted_claim": "Margolin vs Forty的'design studies or design history'论战（1992-1995）——设计史学科身份之争——C.0学科史",
+    "evidence_boundary": "作者综述（2010）；论战有文献记录",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0258",
+    "title": "Kenneth Frampton：《Modern Architecture A Critical History》，1980",
+    "grade": "B",
+    "verification": "V2",
+    "role": "critical_history_method",
+    "accepted_claim": "批判的历史书写范式：在历史叙述中同时进行价值判断、在事实描述中同时展开理论反思——结语历史方法参照",
+    "evidence_boundary": "作者范式（1980初版）；批判历史方法为建筑史传统",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0425",
+    "title": "Thorpe：《Design with society why socially responsive design is good enough》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "good_enough_designer",
+    "accepted_claim": "够好的设计师（Winnicott隐喻）：父权式/母权式/兄弟式三种设计角色类型学——母权与兄弟式优于父权式",
+    "evidence_boundary": "作者理论（2011）；家庭隐喻的性别化联想可能引起误读（作者自称与性别刻板印象无关）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0425",
+    "title": "Thorpe：《Design with society why socially responsive design is good enough》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "effectuation_process",
+    "accepted_claim": "效果推理五原则（Sarasvathy）重构设计过程；中间输出（设计装置、事件、对抗性空间）即设计成就",
+    "evidence_boundary": "作者理论（2011）；效果推理映射缺乏系统经验验证（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0510",
+    "title": "设计与历史的质疑",
+    "grade": "B",
+    "verification": "V2",
+    "role": "ontological_design_history",
+    "accepted_claim": "本体论设计：设计既被历史塑造又塑造历史与主体——与B0413（Winograd/Flores）、B0032（Escobar）同一概念族",
+    "evidence_boundary": "作者理论（2015）；概念族只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0029",
+    "title": "Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_research_discipline",
+    "accepted_claim": "三活动区合一才把交互设计研究确立为一门学科并区别于HCI、CSCW、信息学等相邻学科；模型支撑面向产业/学术界/社会的三外部界面——设计研究学科身份的'移动观'界定——C.0设计研究学科定位",
+    "evidence_boundary": "作者模型（2004）；第5-6节",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0069",
+    "title": "Ulla Johansson-Sköldberg, Jill Woodilla：《Design Thinking Past, Present and Possible Futures》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "translation_loss",
+    "accepted_claim": "翻译丢失命题：管理版设计思维化约为创造力与工具箱，丢失创造力的完整性与使用条件；两话语几乎互不引用——断桥结构",
+    "evidence_boundary": "作者论证（2013）；消亡预测未预见2010年代后制度化扩张（时代局限）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0111",
+    "title": "Design History and Culture ： Methods and Approaches -- Javier Gimeno-Martínez --",
+    "grade": "C",
+    "verification": "V2",
+    "role": "object_agency_methods",
+    "accepted_claim": "物与能动性方法谱系：ANT（Latour/Akrich脚本分析）、新唯物主义（Bennett）——结语物研究传统",
+    "evidence_boundary": "方法论综述（2025）；ANT概念以Latour/Akrich原作为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0112",
+    "title": "Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_political_ethics",
+    "accepted_claim": "全球化语境下设计政治伦理：设计应服务全球人口的100%而非10%-20%（引Galbraith）——结语责任命题",
+    "evidence_boundary": "作者立场（2004）；服务比例论断为规范性主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0258",
+    "title": "Kenneth Frampton：《Modern Architecture A Critical History》，1980",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critical_regionalism",
+    "accepted_claim": "批判的地域主义（Critical Regionalism）：现代建筑与文化认同——结语文化位置参照",
+    "evidence_boundary": "作者理论（1980）；批判地域主义为建筑理论核心概念",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0258",
+    "title": "Kenneth Frampton：《Modern Architecture A Critical History》，1980",
+    "grade": "C",
+    "verification": "V2",
+    "role": "globalization_agenda",
+    "accepted_claim": "全球化时代建筑议程六主题（地形学、形态学、可持续性、材料性、栖息地、公民形式）——结语全球化参照",
+    "evidence_boundary": "作者框架（第五版后记）；六主题为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0069",
+    "title": "Ulla Johansson-Sköldberg, Jill Woodilla：《Design Thinking Past, Present and Possible Futures》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "wicked_problems_genealogy",
+    "accepted_claim": "设计问题棘手性（Rittel wicked problems）话语谱系：Buchanan问题求解子话语中的棘手问题——结语设计问题观",
+    "evidence_boundary": "话语谱系（2013）；棘手问题概念以Rittel原作为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0033",
+    "title": "Arturo Escobar：《Designs for the Pluriverse，2018》",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0032",
+    "accepted_claim": "与B0032为同一著作《Designs for the Pluriverse》（Escobar 2018）不同转换（VGRP016）；B0032已承担全部命题（CH12批次跨章）",
+    "evidence_boundary": "本条目不重复计证；引用以B0032为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0032"
+   }
+  ]
+ }
+}

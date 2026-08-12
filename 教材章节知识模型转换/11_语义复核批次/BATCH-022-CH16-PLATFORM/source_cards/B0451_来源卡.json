@@ -1,0 +1,37 @@
+{
+  "source_id": "B0451",
+  "corpus": "book",
+  "folder_name": "Wendy Siuyi Wong：《Hong Kong comics. A history of manhua》",
+  "material_type": "香港漫画史（图录式通史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Wendy Siuyi Wong：《Hong Kong comics. A history of manhua》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 15, "report_characters": 72279}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.3", "grade": "B", "verification": "V2", "role": "hk_comics_industry_network"},
+    {"section_id": "11.2", "grade": "C", "verification": "V2", "role": "mass_image_consumption"},
+    {"section_id": "16.7", "grade": "C", "verification": "V2", "role": "chinese_visual_identity"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Wendy Siuyi Wong（黄少仪），《Hong Kong Comics: A History of Manhua》（2002，Princeton Architectural Press），英语世界第一部系统香港漫画史；前身为作者与藏家杨维邦合著的中文版",
+    "体例：导论通史（五时代分期：1867-1927/1927-1949/1949-1968/1969-1989/1990-至今）+ 四类漫画图注（政治讽刺/幽默/功夫动作/儿童）+ 附录（参考来源、40余位艺术家传记、中英对照索引）",
+    "核心立场：香港漫画虽受日本漫画与动画主导，却在欧洲、美国、日本影响与中国传统交汇中形成独立绘制风格与文化身份（'an expression of Hong Kong identity'）",
+    "漫画史与政治史高度纠缠：革命、抗日、文革、六四、回归反复重塑漫画生态；1975年不良出版物法（Indecent Publication Law）迫使《小流氓》改名《龙虎门》、场景移往日本",
+    "产业史实：1949年后香港成为华人漫画唯一商业化产地；街头租书摊发展为上市公司产业——黄玉郎玉郎集团1986年上市（首间公开上市漫画公司），1987年股灾崩溃",
+    "媒介变迁：1967年电视引入使漫画衰退；盗版日本漫画长期冲击本地市场；漫画又靠改编电视节目生存",
+    "关键概念：manhua/manga/lianhuantu（连环图）、四格漫画、penny papers（一分钱报纸）、'三段式故事'（古惑仔式暴力漫画）、bat-hoi bun（八开本）、candy books（糖果书）",
+    "方法：编年分期+类型学+图证注释，无脚注、无理论框架，属普及型图录史；约800幅插图",
+    "限度：理论性弱；年份/拼写不统一；'first/most'式断言与行业口径数字较多；对日本影响、版权、女性从业者议题点到未论",
+    "价值：填补英文空白的基础史料性著作；'四类型×五时代'双轴框架被后续香港平面/漫画史研究沿用",
+    "clean原文为源文件（无_clean版本），行号以源文件为准；未完成全篇、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论（L82-261）：五时代分期总纲",
+    "L66-68：'expression of Hong Kong identity'与杂交影响命题",
+    "L222-224：1975年不良出版物法与《小流氓》改名",
+    "L2616：玉郎集团1986年上市",
+    "L202：1967年电视引入对漫画的冲击"
+  ]
+}

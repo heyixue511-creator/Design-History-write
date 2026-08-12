@@ -1,0 +1,36 @@
+{
+  "source_id": "B0267",
+  "corpus": "book",
+  "folder_name": "Langdon Winner：《The Whale and the Reactor A Search for Limits in a》",
+  "material_type": "技术政治哲学专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Langdon Winner：《The Whale and the Reactor A Search for Limits in a》.md",
+  "duplicate_group": "与B0021（Feenberg）、B0296（Heidegger）、B0413（Winograd/Flores）共享技术哲学对象；本文为'人造物有政治'主源",
+  "files": [{"report_file_count": 14, "report_characters": 4998}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "A", "verification": "V2", "role": "artifacts_have_politics"},
+    {"section_id": "16.3", "grade": "A", "verification": "V2", "role": "technological_somnambulism"},
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "technical_constitution"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Winner（朗登·温纳，伦斯勒理工学院），初版1986，2020第二版增补第11章与后记",
+    "'人造物有政治吗？'（Do Artifacts Have Politics?）为技术政治学奠基文本：技术远非价值中立的工具，而是'生活形式'（technologies as forms of life）的载体——每项重大技术系统的引入伴随社会角色、关系与规范的重构",
+    "人造物承载政治属性的两种方式：特定设计中的权力安排（如Robert Moses低桥）与'内在政治性技术'",
+    "技术作为'第二部宪法'：技术基础设施构成与政治宪法平行的宪制性力量，非经民主审议产生",
+    "'技术梦游症'（Technological Somnambulism）：人们清醒使用新工具，却对工具重塑生活世界整体处于无意识状态——技术选择被委托给市场与专家",
+    "对'信息革命'话语的批判（Ch.6'神话信息'）：技术革新通常巩固而非瓦解既有权力结构",
+    "第二版第11章'超越技术自恋'：阿伦特公私领域区分分析社交媒体自恋身份膨胀与公共领域萎缩",
+    "限度：缺乏技术民主治理的制度机制具体方案；'内在政治性技术'判定标准模糊；第11章对算法治理、平台资本主义处理概略",
+    "本书为技术政治学（A级）：对16.3承担可见性政治理论基座",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch.2：Robert Moses低桥案例——特定设计中的权力安排",
+    "Ch.6：'神话信息'——信息革命话语批判",
+    "Ch.3：技术作为'第二部宪法'",
+    "Ch.11（二版新增）：社交媒体与公共领域萎缩",
+    "后记：迪亚布罗峡谷核电站2025关闭"
+  ]
+}

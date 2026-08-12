@@ -1,0 +1,20 @@
+{
+  "source_id": "P0067",
+  "corpus": "paper",
+  "folder_name": "The Politics of the Artificial _ Essays on Design and Design -- Vi",
+  "material_type": "设计研究论文集（VGRP014副条目）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\The Politics of the Artificial _ Essays on Design and Design -- Vi.md",
+  "duplicate_group": "VGRP014：与B0287为同一著作《The Politics of the Artificial》（Margolin 2002）不同资产；只计一个独立书目实体，B0287承担全部命题",
+  "files": [{"report_file_count": 9, "report_characters": 0}],
+  "report_structure": {"review_basis": "duplicate_of_B0287"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "VGRP014（2026-08-12建立）：P0067与B0287为同一著作不同资产（B0287为完整书asset、P0067为论文asset）",
+    "B0287已完成语义复核（3条映射：16.1×2、16.6×1）；本条目复核结论完全复用B0287",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0287）标记",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

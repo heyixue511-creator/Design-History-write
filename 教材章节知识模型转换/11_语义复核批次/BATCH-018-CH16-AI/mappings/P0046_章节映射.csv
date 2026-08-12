@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0046,16.4,A,V2,aican_generative_art,AICAN/CAN生成系统与AI艺术论证：机器创造力与人类创造力平行不冲突；"算法处于创作主导"——16.4生成式AI与作者制度,开发者自证型论文（2019）；自证循环与训练集西方中心为作者自认限度,整体分析报告（L86-156）,ACCEPTED_AS_CORE_SOURCE
+P0046,16.4,A,V2,ai_as_medium,AI定位为"媒介"而非工具："无自然指涉"与概念艺术同构——16.4AI作者身份,作者论证（2019）；媒介论与Hertzmann'算法是工具'论争辩,整体分析报告（L233-270）,ACCEPTED_AS_CORE_SOURCE
+P0046,16.4,B,V2,visual_turing_test,视觉图灵测试（75%被误认为人类创作）与摄影史类比（Benjamin复制理论）——16.4真实性与作者,实证数据（2019）；样本与统计细节缺失（75%单次研究，作者自认限度）,整体分析报告（L123-156、L187-194）,ACCEPTED_AS_SUPPORTING_SOURCE

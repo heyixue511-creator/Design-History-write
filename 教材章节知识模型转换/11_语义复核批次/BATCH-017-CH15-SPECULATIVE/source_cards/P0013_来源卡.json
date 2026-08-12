@@ -1,0 +1,31 @@
+{
+  "source_id": "P0013",
+  "corpus": "paper",
+  "folder_name": "Cameron Tonkinwise：《Design for Transitions ‒ from and to what》",
+  "material_type": "转型设计论文（CMU转型设计团队）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Cameron Tonkinwise：《Design for Transitions ‒ from and to what》_paged_clean.md",
+  "duplicate_group": "与B0032（Escobar过渡设计）、P0032（Kossoff）为同一转型设计学术共同体；同一概念只计一份P0",
+  "files": [{"report_file_count": 9, "report_characters": 5479}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.5", "grade": "B", "verification": "V2", "role": "design_for_transitions"},
+    {"section_id": "15.5", "grade": "B", "verification": "V2", "role": "transition_heuristics_techniques"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Tonkinwise（CMU设计学院Design Studies主任），Design Philosophy Papers 13:1 (2015), pp.85-92",
+    "核心问题：'为过渡而设计——从什么过渡，又过渡到什么？'（Design for Transitions — from and to what?）",
+    "结构：假设（Assumptions）→语境（Contexts）→启发式（Heuristics）→技术（Techniques）→结论",
+    "理论资源：可持续设计、社会设计、转型理论（Transition Theory）、社会实践理论（Social Practice Theory）",
+    "转型设计框架：追问过渡的方向性（from-and-to）——与CMU转型设计团队（Irwin/Kossoff）同一学术共同体",
+    "本书为转型设计论文（B级）：对15.5承担框架与方法",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "标题：'Design for Transitions — from and to what?'——方向性追问",
+    "结构：Assumptions→Contexts→Heuristics→Techniques",
+    "关键词：Transition Theory、Social Practice Theory",
+    "CMU转型设计团队语境"
+  ]
+}

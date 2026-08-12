@@ -1,0 +1,36 @@
+{
+  "source_id": "B0198",
+  "corpus": "book",
+  "folder_name": "James J. Gibson：《The Ecological Approach To Visual Perception》",
+  "material_type": "生态心理学奠基文本（可供性理论源头）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\James J. Gibson：《The Ecological Approach To Visual Perception》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 18, "report_characters": 9404}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.5", "grade": "A", "verification": "V2", "role": "affordance_theory"},
+    {"section_id": "14.2", "grade": "B", "verification": "V2", "role": "direct_perception_gui"},
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "perceptual_system_exploration"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "James J. Gibson（1904-1979，康奈尔大学），《The Ecological Approach to Visual Perception》（1979 Houghton Mifflin；1986 Erlbaum再版），生态心理学奠基文本，作者1979年12月去世前一个月完成校样，具遗著性质",
+    "三部曲终章：1950《知觉的视觉世界》（地面知觉/纹理梯度）→1966《感官作为知觉系统》（主动知觉系统）→1979本书（生态光学+affordance+直接知觉）",
+    "核心命题：知觉不是对感觉输入的心理加工，而是动物对环境信息的直接拾取（direct pickup）；环境本身携带足够丰富的信息（invariants），无需内部表征、推理或计算中介",
+    "Affordance（可供性）定义：环境对动物的行动可能性（what the environment offers the animal）；既是客观的（存在于环境中）又是关系性的（相对于特定动物行动能力）——'cuts across the dichotomy of subjective-objective'；不需要被知觉才存在；第8章为全书理论支柱",
+    "关键概念：生态实在论（medium/substances/surfaces/layout）、环境光阵列（ambient optic array替代视网膜图像）、不变量（invariants）、光流（optic flow）、焦点膨胀（focus of expansion）、信息拾取（信息拾取替代'加工'，隐喻从'计算机加工'变为'共振'resonance）、生态位（niche）",
+    "学术对手：Helmholtz间接知觉论、Berkeley经验主义、格式塔现象学、行为主义；策略是重新定义知觉问题本身",
+    "第15章将生态理论延伸至图画与视觉意识（人造表征领域）——对图像/界面研究有直接辐射",
+    "跨学科影响：设计学（Norman《The Design of Everyday Things》）、人类学（Ingold）、技术哲学（Dreyfus）、机器人学",
+    "注意：源Markdown文件经多重格式转换遭受系统性字符丢失损坏，正文大量段落不可直接阅读；本卡依据可辨识碎片证据+原文经典结构",
+    "clean原文存在但损坏严重；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch8：可供性理论（全书理论支柱）",
+    "Ch1：动物-环境互惠性与生态位",
+    "Ch5：环境光阵列",
+    "Ch9-14：不变量实验证据",
+    "Ch15：图画与视觉意识"
+  ]
+}

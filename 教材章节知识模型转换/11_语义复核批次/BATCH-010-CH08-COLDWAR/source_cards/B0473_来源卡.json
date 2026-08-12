@@ -1,0 +1,33 @@
+{
+  "source_id": "B0473",
+  "corpus": "book",
+  "folder_name": "周博：《现代设计伦理思想史》，2014",
+  "material_type": "设计伦理思想史（中文学术专著）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\周博：《现代设计伦理思想史》，2014_clean.md",
+  "duplicate_group": "与5.7批判原典（Papanek《Design for the Real World》、Packard《Hidden Persuaders》）为转引关系：本书为二手思想史，原典未入时只作谱系侧证据",
+  "files": [{"report_file_count": 14, "report_characters": 2587}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "5.7", "grade": "B", "verification": "V2", "role": "papanek_lineage_chinese_account"},
+    {"section_id": "7.3", "grade": "C", "verification": "V2", "role": "postwar_ethics_good_design"},
+    {"section_id": "12.1", "grade": "B", "verification": "V2", "role": "design_ethics_definition"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "周博（中央美术学院），北京大学出版社2014年9月第1版，280千字，国家社科基金艺术学青年项目（09CF081）成果",
+    "中文学界第一部以帕帕奈克与设计伦理为主题的学术专著；作者为帕氏《为真实的世界设计》《绿色律令》中译者（2013），推动国内'帕帕奈克旋风'",
+    "核心命题：现代设计史存在一条'人道的设计思想传统'，其伦理关切是对'至善或人类总体幸福'的追求",
+    "结构：Ch02道德话语/消费话语（19世纪—二战前）→ Ch03战后伦理觉醒（'优良设计'、60年代社会经验）→ Ch04帕帕奈克本体 → Ch05当代伦理处境 → Ch06结语（设计伦理定义）",
+    "方法论：历史语境主义＋话语分析（扬弃福柯知识考古学）＋实践语境分析（'专业'/'职业'二元）",
+    "限度：主要依托西方文献；90年代以来'太近的历史'梳理有碍深入；结语对当代进展保持审慎",
+    "本书为二手思想史：对5.7承担帕帕奈克谱系的中文侧证据；Papanek/Packard原典仍为P0缺口",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L1、L232：'人道的设计思想传统'核心命题",
+    "L39：方法论——历史语境主义＋话语分析＋实践语境分析",
+    "Ch03：战后设计伦理话语觉醒与'优良设计'语境（与第七章Good Design衔接）",
+    "L11、L27：帕氏两书2013年中译推动'帕帕奈克旋风'"
+  ]
+}

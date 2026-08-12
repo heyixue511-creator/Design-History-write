@@ -1,0 +1,6 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0046,14.2,A,V2,gui_desktop_metaphor_history,图形用户界面与桌面隐喻的历史：鼠标（Engelbart 1964）、办公室示意图（Mott餐巾纸草图）、Lisa/Macintosh下拉菜单（Atkinson/Tesler昼夜轮班）——14.2核心叙事,口述史（2007）；事件细节以当事人交叉叙述为准,Ch1-2分析报告,ACCEPTED_AS_CORE_SOURCE
+B0046,14.2,A,V2,interaction_design_principles,交互设计核心原则：无模式交互（Tesler）、双击/剪切粘贴、交互设计三问（Verplank do/feel/know）、简单性八法则（Maeda）、Fitts定律与"设计支持科学"（Card）——交互范式,口述史证据（2007）；原则的行业普及以专史为准,Ch1、Ch9分析报告,ACCEPTED_AS_CORE_SOURCE
+B0046,14.3,A,V2,people_and_prototypes,"人+原型"方法论：引导式幻想（Guided Fantasy）、经验原型、IDEO 51种用户研究方法卡（Learn/Look/Ask/Try）、实时原型——HCI与设计方法的汇合,作者方法论（2007，IDEO实践）；方法成效以项目档案为准,Ch10分析报告,ACCEPTED_AS_CORE_SOURCE
+B0046,14.5,B,V2,services_touchpoints,服务设计触点方法（Live|Work"伪造证据"faking evidence、未来考古学）与在线银行"画出你的金钱"心理模型——14.5服务设计前史,口述史（2007）；服务设计制度化以专史为准,Ch6分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0046,14.1,B,V2,computing_history,从批处理到个人计算：GRiD Compass（气泡内存）、Palm OS四项原则（口袋尺寸/功能极简/即时响应/桌面同步）、Kodak DC 210交互架构——14.1硬件史,口述史证据（2007）；产品数据以企业档案为准,Ch3-4分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,20 @@
+{
+  "source_id": "B0289",
+  "corpus": "book",
+  "folder_name": "Margolin, Victor, World History of Design, Volume 2, 2015",
+  "material_type": "全球设计史通史（Vol 2：1917—1945）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Margolin, Victor, World History of Design, Volume 2, 2015.md",
+  "duplicate_group": "VGRP007-TRANSLATION：与B0292（同一版次Internet Archive转换）为同一著作《World History of Design》Vol 2；本条目为PDF转换（1003页），只计一个独立书目实体，映射以B0292为准",
+  "files": [{"report_file_count": 25, "report_characters": 0}],
+  "report_structure": {"review_basis": "duplicate_of_B0292"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "VGRP007（2026-08-12建立）：B0289（英文Vol 2原版PDF转换2015）与B0292（Internet Archive转换）为同一版次不同数字化转换；B0507（中译2015）为译本审计对象",
+    "B0292已完成语义复核（4条映射：8.3×2、8.1、0.2）；本条目复核结论完全复用B0292",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0292）标记，防止双重计证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

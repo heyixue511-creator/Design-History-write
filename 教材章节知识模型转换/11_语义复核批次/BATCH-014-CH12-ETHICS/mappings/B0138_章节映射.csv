@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0138,12.5,A,V2,universal_design_process_definition,通用设计新定义：通过改善人类表现、健康与福祉、社会参与使多样化人群获得能力与赋权的"过程"（而非"终态"）；从无障碍合规到创新扩散——12.5核心框架,教科书定义（2012，IDeA中心立场）；'过程'转向为作者主张,Ch2分析报告,ACCEPTED_AS_CORE_SOURCE
+B0138,12.5,A,V2,barrier_social_construction,障碍的社会建构本质：障碍是普遍人类经验与社会心理建构（Goffman污名理论）而非物理特征本身；同一物理特征可同时是障碍与促进器——残障社会模型,理论框架（2012）；社会模型的具体法律-制度档案另见专史,Ch1分析报告,ACCEPTED_AS_CORE_SOURCE
+B0138,12.5,B,V2,eight_goals_alternative,从七原则到八目标：Body Fit/Comfort/Awareness/Understanding/Wellness/Social Integration/Personalization/Cultural Appropriateness——实践框架替代（七原则九大缺陷批判）,作者框架（2012）；八目标的实证验证未完成,Ch4分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0138,12.5,B,V2,beneficiary_populations,通用设计受益人口远超残疾群体（八大类：极端体型、照护者、心理社会条件、药物依赖、文化少数、中低收入、流离失所、受虐待）——人口统计学论证,美国人口统计（2012年时点）；他国人口结构须另核,Ch3分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

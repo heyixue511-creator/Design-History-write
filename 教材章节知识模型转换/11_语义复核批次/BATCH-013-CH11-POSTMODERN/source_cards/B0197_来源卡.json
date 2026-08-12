@@ -1,0 +1,34 @@
+{
+  "source_id": "B0197",
+  "corpus": "book",
+  "folder_name": "James H. Fraser, Steven Heller：《Japanese Modern Graphic Design Between the Wars》，1996",
+  "material_type": "日本两次大战间平面设计（图录式学术著作）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\James H. Fraser, Steven Heller：《Japanese Modern Graphic Design Between the Wars》，1996.md",
+  "duplicate_group": "与第六章日本中介来源（B0492/B0465等）共享日本设计对象；与B0075（Fiell）、B0306（Meggs）共享日本平面通用史实时只计一份P0",
+  "files": [{"report_file_count": 14, "report_characters": 4371}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "6.5", "grade": "B", "verification": "V2", "role": "japanese_modernism_translation"},
+    {"section_id": "0.7", "grade": "B", "verification": "V2", "role": "transformation_not_influence"},
+    {"section_id": "11.7", "grade": "C", "verification": "V2", "role": "japanese_design_identity"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Fraser（费尔利·迪金森大学）与Heller（纽约时报艺术总监），Chronicle Books 1996；'两次世界大战之间平面设计'系列之一",
+    "时段：约1924—1941（以1923年关东大地震为起点标志）",
+    "核心问题：日本商业平面设计如何吸收、转化西方现代主义（构成主义、包豪斯、新摄影、新字体）并在本土商业环境与政治压力下形成'日本现代主义'",
+    "论题：新摄影在商业设计中的应用（Kōga杂志1932—33）；跨文化传播中介（Natori Yōnosuke、Hara Hiromu、Yamawaki Iwao留欧设计师、Hamada Masuji编译）；媒介类型平行演进（海报、商标、火柴盒、期刊封面）；现代主义与政治意识形态张力（1930s国家主义压制、战时Front杂志1941—45）；东京/大阪/神户设计社群",
+    "方法：以物证史（三千余件火柴盒、海报、商标实物）；并行叙事（媒介类型为线索）；跨文化比较强调'转化'而非'影响'；口述史与档案结合（Shiseido、Mitsukoshi）",
+    "史料自觉：二战轰炸导致档案缺失，依赖跳蚤市场与私人藏家",
+    "本书为日本两次大战间平面设计主源：对6.5承担日本中介侧（B级）、0.7承担转化模型（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Kōga杂志（1932—33）→Natori Yōnosuke与Nippon Kōbō（1932—）→1930s海报→战时Front杂志（1941—45）",
+    "留欧设计师中介：Natori、Hara Hiromu、Yamawaki Iwao",
+    "三千余件火柴盒实物证据",
+    "以'转化'（transformation）与'融合'而非'影响/被影响'单向模式",
+    "二战轰炸导致档案缺失的史料自觉"
+  ]
+}

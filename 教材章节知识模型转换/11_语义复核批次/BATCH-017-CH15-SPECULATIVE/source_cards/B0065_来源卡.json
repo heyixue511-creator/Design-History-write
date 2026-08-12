@@ -1,0 +1,32 @@
+{
+  "source_id": "B0065",
+  "corpus": "book",
+  "folder_name": "Carl DiSalvo：《Adversarial Design》",
+  "material_type": "设计理论读本中译（资产ID标注与内容不符）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Carl DiSalvo：《Adversarial Design》.md",
+  "duplicate_group": "VGRP012-TRANSLATION：资产ID标注为DiSalvo《Adversarial Design》，但packet实际内容为张黎译《设计的观念：〈设计问题〉读本》（Margolin & Buchanan 1995中译，江苏凤凰美术出版社2018）——即B0059的中译本；资产总表存在张冠李戴，须更正",
+  "files": [{"report_file_count": 14, "report_characters": 12448}],
+  "report_structure": {"review_basis": "duplicate_of_B0059（实际内容为中译本）"},
+  "candidate_sections": [
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_idea_reader"},
+    {"section_id": "15.1", "grade": "C", "verification": "V2", "role": "product_meaning"},
+    {"section_id": "0.7", "grade": "C", "verification": "V2", "role": "design_culture_global"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "重要更正（2026-08-12）：本资产ID标注为Carl DiSalvo《Adversarial Design》，但packet分析报告确认实际内容为《设计的观念：〈设计问题〉读本》（The Idea of Design: A Design Issues Reader）张黎中译本——Margolin & Buchanan编（MIT Press 1995原版），江苏凤凰美术出版社2018",
+    "与B0059（英文原版，已复核）为译本关系（VGRP012）：重合命题不独立计证，本条目为译本审计对象",
+    "映射基于实际内容（《设计的观念》读本）：21篇Design Issues论文（1984-1993）——'激进的多元主义'立场、设计作为'研究的站点'",
+    "《Adversarial Design》本身（DiSalvo 2012）不在本资产中；该书的真实资产可能另行存在或缺失——已记录为资产总表问题",
+    "三部分：设计反思（抗解问题、设计教育史）、产品的意义（符号学/修辞学/社会心理学/产品语义学）、设计与文化（打破欧洲中心论：亚洲设计遗产、日本、中国'线条'原则）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "译者序：'每一篇都是一根难啃的骨头'——阅读难度与智识价值",
+    "第一部分：设计思维中的抗解问题（wicked problems）、设计教育史、草图心理学",
+    "第二部分：产品意义——符号学、修辞学、产品语义学",
+    "第三部分：亚洲设计遗产、日本现代设计、中国文化中的'线条'原则、舒适的政治学",
+    "'激进的多元主义'——设计作为'研究的站点'（a site of inquiry）"
+  ]
+}

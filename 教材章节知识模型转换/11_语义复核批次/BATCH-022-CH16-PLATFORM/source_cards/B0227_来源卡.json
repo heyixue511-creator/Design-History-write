@@ -1,0 +1,36 @@
+{
+  "source_id": "B0227",
+  "corpus": "book",
+  "folder_name": "John M. Carroll (ed.)：《Human-Computer Interaction in the New Millennium》，2002",
+  "material_type": "HCI 学科综述文集（29 章）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John M. Carroll (ed.)：《Human-Computer Interaction in the New Millennium》，2002_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 30, "report_characters": 10165}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.3", "grade": "B", "verification": "V2", "role": "hci_convergence_institutionalization"},
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "usability_definition_iterative_design"},
+    {"section_id": "14.2", "grade": "C", "verification": "V2", "role": "parc_desktop_paradigm"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "John M. Carroll 主编，《Human-Computer Interaction in the New Millennium》（2002，ACM Press/Addison-Wesley），29章论文集；本卡命题以编者导论（'HCI, the Past and the Present'，xxvii-xxxviii页）为准，文集各章命题按'分析报告综合'承担",
+    "HCI学科史：四线汇聚论——软件工程（瀑布模型危机→原型法）、人因/软件心理学（可用性实验室）、计算机图形学（Bush/Sutherland/Engelbart愿景→Xerox PARC桌面范式）、认知科学（GOMS模型）四条线索在1980年代汇聚，SIGCHI/IFIP TC13建制化",
+    "核心定义：'HCI is the study and the practice of usability'——研究与实践并置，HCI是理论与实践的交界面",
+    "设计方法转变：'Design is now seen as opportunistic, concrete, and necessarily iterative'——对瀑布模型的批判与原型法（prototyping）作为核心方法论；Brooks'plan to throw one away'（IBM 360 OS开发案例）",
+    "用户中心系统开发（User-Centered System Development）作为整合性概念框架：可用性工程方法（形成性评估、需求分析、参与式设计）+ 界面软件与工具（隐喻、工具包、UIMS、面向对象）双翼",
+    "范式转型主张：'All systems are used in a social context'——CSCW从子领域变为认识论视角；'HCI has become the focus for a new view of what computing is about'",
+    "关键案例：Xerox PARC Alto/Smalltalk-72（鼠标、位图、窗口）、GOMS模型（Card/Moran/Newell 1983，HCI科学气质象征）、Suchman《Plans and Situated Actions》对HCI的冲击",
+    "结构：七大部分（可用性工程、界面软件工具、群件/CSCW、媒体与信息、计算与真实环境、HCI与社会）",
+    "价值：2002年时点HCI学科状态的权威鸟瞰与史学叙事；'从边缘走向核心'的学科成就宣言",
+    "clean原文存在；未完成全篇、版次、数字和引注核验；文集29章未逐章复核。"
+  ],
+  "original_spot_checks": [
+    "导论：HCI四线汇聚史",
+    "导论：'HCI is the study and the practice of usability'",
+    "导论：'Design is now seen as opportunistic, concrete, and necessarily iterative'",
+    "导论：Xerox PARC与GOMS案例",
+    "导论：'All systems are used in a social context'"
+  ]
+}

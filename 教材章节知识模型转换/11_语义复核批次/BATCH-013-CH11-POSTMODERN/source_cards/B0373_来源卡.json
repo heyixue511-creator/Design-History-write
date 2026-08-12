@@ -1,0 +1,33 @@
+{
+  "source_id": "B0373",
+  "corpus": "book",
+  "folder_name": "Robert Venturi：《Complexity and Contradiction in Architecture》",
+  "material_type": "建筑理论（后现代奠基宣言）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Robert Venturi：《Complexity and Contradiction in Architecture》.md",
+  "duplicate_group": "与B0372（Learning from Las Vegas）为同一作者姊妹篇（形式—象征）；与B0071（Jencks）、B0238（Gura）共享后现代建筑对象；同一对象只计一份P0",
+  "files": [{"report_file_count": 17, "report_characters": 4390}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.4", "grade": "A", "verification": "V2", "role": "complexity_contradiction_manifesto"},
+    {"section_id": "11.4", "grade": "A", "verification": "V2", "role": "both_and_architecture"},
+    {"section_id": "11.1", "grade": "B", "verification": "V2", "role": "main_street_justification"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Venturi（执业建筑师），MoMA 'Papers on Architecture'系列首部（与Graham Foundation合作），1966初版／1977二版；Scully导言称其为'自1923年《走向新建筑》以来最重要的建筑写作'",
+    "核心论点：建筑应追求'包容的困难统一'而非'排斥的容易统一'；'多即是少'（More is not less）对位密斯'少即是多'；'少是乏味'（Less is a bore）；'我支持凌乱的生命力胜过显而易见的统一'",
+    "关键概念：Both-And/Either-Or、含混性（Ambiguity）、双功能元素、常规元素、适应型/并置型矛盾、内与外、困难整体（The Difficult Whole）",
+    "方法：跨艺术类比（Eliot、Empson文学批评语汇移植）；200+案例密集型论证；12个自述项目自证",
+    "限度：形式中心主义（作者自认书名应含'形式'二字）；案例选择主观偏好；自证循环风险",
+    "本书为后现代建筑理论奠基文本（P0行动者理论）：对11.4承担'复杂与矛盾'宣言（A级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L65：'我喜欢建筑中的复杂性与矛盾性'——宣言",
+    "L65：'多即是少'（More is not less）对位密斯'少即是多'",
+    "L87：'少是乏味'（Less is a bore）",
+    "L103-123：'既-又'（Both-And）现象与教堂平面史",
+    "L233-263：'困难整体的义务'（The Obligation Toward the Difficult Whole）"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "source_id": "B0417",
+  "corpus": "book",
+  "folder_name": "The design history reader -- Grace Lees-Maffe",
+  "material_type": "文选（设计史读本）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\The design history reader -- Grace Lees-Maffe",
+  "duplicate_group": "与B0273为同一书目对象（《The Design History Reader》2010）的两个资产条目：只计一份P0，B0273承担全部命题；本条目不重复生成命题映射",
+  "files": [{"report_file_count": 20, "report_characters": 0}],
+  "report_structure": {"review_basis": "duplicate_of_B0273"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "同书两条目（导论审计'版本与去重结论'已确立）：B0417与B0273同为《The Design History Reader》（Lees-Maffei & Houze编，2010）",
+    "B0273已于BATCH-009完成语义复核（7条映射：0.1学科身份辩论A级、0.3/0.5/0.6等）；本条目复核结论完全复用B0273",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0273）标记，防止双重计证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "evidence_id": "EV-0101",
+    "claim": "互换算件是军工／专利／国家合同语境下的渐进过程，不等同于流水线或大规模生产（Hounshell修正史）",
+    "source_id": "B0192",
+    "source_location": "B0192 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["1.2", "1.3"],
+    "textbook_function": "核心命题（修正史学）",
+    "supports": ["'美国体系'的准确表述", "机器与制度的关系"],
+    "does_not_support": ["互换算件=流水线的教科书公式", "产量与劳动后果的确定数据"],
+    "time_boundary": "1800—1932",
+    "geographic_boundary": "美国",
+    "counterevidence": ["教科书通行公式（被修正对象）"],
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0102",
+    "claim": "印刷工序'冲模—字模—铸字—排版—印刷'构成前工业／工业转换中的专业分工（Updike）",
+    "source_id": "B0097",
+    "source_location": "B0097 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["1.3", "1.5"],
+    "textbook_function": "机制证据（劳动分工）",
+    "supports": ["图样—工序—岗位—责任链", "匿名设计与分布式作者"],
+    "does_not_support": ["法国印工工时与工资的具体数字（未核）", "行业普遍状况外推"],
+    "time_boundary": "1470—1930年代（印刷史时段）",
+    "geographic_boundary": "欧洲（法国为重点）",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0103",
+    "claim": "景德镇瓷器生产以瓷石—高岭土—钴料—釉—燃料系统的分散作坊知识组织（Finlay）",
+    "source_id": "B0154",
+    "source_location": "B0154 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["1.1", "1.4"],
+    "textbook_function": "案例证据（分布式知识）",
+    "supports": ["前工业造物与分布式知识", "材料系统约束形式"],
+    "does_not_support": ["景德镇作坊的具体规模与工资数据", "由器物推断工匠体验"],
+    "time_boundary": "瓷业长时段（约10—19世纪）",
+    "geographic_boundary": "中国景德镇",
+    "counterevidence": null,
+    "status": "accepted"
+  }
+]

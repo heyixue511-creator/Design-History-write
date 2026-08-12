@@ -1,0 +1,34 @@
+{
+  "source_id": "P0062",
+  "corpus": "paper",
+  "folder_name": "Susan E. Reid：《Repenser le Dégel： Versions du socialisme, influences internationales et société soviétique》，2005",
+  "material_type": "期刊论文（苏联住房与室内设计）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Susan E. Reid：《Repenser le Dégel： Versions du socialisme, influences internationales et société soviétique》，2005_paged_clean.md",
+  "duplicate_group": "与B0099（Crowley/Reid《Socialist Spaces》）为同一作者群研究，共享苏联日常生活对象（先锋宫、修理文化、VNIITE）；同一档案只计一份P0",
+  "files": [{"report_file_count": 9, "report_characters": 6208}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.2", "grade": "A", "verification": "V2", "role": "khrushchev_modern_housing"},
+    {"section_id": "8.2", "grade": "A", "verification": "V2", "role": "expert_homemaker_negotiation"},
+    {"section_id": "8.1", "grade": "B", "verification": "V2", "role": "art_into_life_exhibition"},
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "vniite_consumer_production"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "实际论文标题《Khrushchev Modern: Agency and Modernization in the Soviet Home》，发表于Cahiers du Monde russe Vol.47 No.1/2（2006），pp.227-268；文件名沿用特刊名",
+    "核心概念：Khrushchev Modern（赫鲁晓夫时代'未成形的'社会主义现代性）、'contemporary style'（当代风格）、uiut（舒适）、meshchanstvo（小市民习气）、'repair culture'（修理文化）、'rational consumption norms'（理性消费规范）",
+    "核心论点：现代苏联住宅不是自上而下强加的封闭空间，而是国家、专家、官僚与持家者多主体协商的产物；消费者作为话语实体被建构为变革动力，实际能动性受中央计划经济限制",
+    "经验材料：1961年莫斯科'Art into Life!'住宅陈设展览及留言簿、Torshilova 1968年调查、VNIITE问卷（14000份回复）、作者访谈项目",
+    "作者自陈限度：访谈项目未完成、Torshilova调查仅一栋楼不可推广、消费者能动性无定量评估",
+    "paged版不含脚注注释文字；行号为源文件行号（L###），非clean文本行号",
+    "论文为P1学术文献；为8.2（东欧社会主义日常生活）苏联侧的补充核心证据"
+  ],
+  "original_spot_checks": [
+    "L43、L221：Khrushchev Modern概念——斯大林之后大众消费、工业化预制住房、理性现代主义美学的'伟大而不均衡'的日常生活现代化",
+    "L189：'修理文化'（Gerasimova & Chuikina）——任何新购商品都预设使用者的修补劳动",
+    "L163-165、L191、L193：uiut（舒适/温馨）被现代化与社会化为'反小市民'的功能性、卫生化舒适",
+    "L147：VNIITE问卷14000份回复——消费者调查机构证据",
+    "L49：1961年'Art into Life!'住宅陈设展览"
+  ]
+}

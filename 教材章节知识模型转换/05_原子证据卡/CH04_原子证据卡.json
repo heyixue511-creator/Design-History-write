@@ -1,0 +1,50 @@
+[
+  {
+    "evidence_id": "EV-0401",
+    "claim": "1914年科隆论争：Muthesius十项论纲主张标准化，van de Velde十项反论纲斥其为强加限制性正典（Campbell）",
+    "source_id": "B0064",
+    "source_location": "B0064 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["4.1"],
+    "textbook_function": "争议证据（组织史实）",
+    "supports": ["Werkbund类型化之争", "'钟摆运动'解释"],
+    "does_not_support": ["'钟摆运动'为Campbell命题", "标准化=单向进步"],
+    "time_boundary": "1914",
+    "geographic_boundary": "德国科隆",
+    "counterevidence": ["van de Velde 1911年未反对标准化的考证（Campbell判定'grossly unfair'）"],
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0402",
+    "claim": "包豪斯教学法不是单一Vorkurs体系，而是复数、异质、动态的教师个案集合（Wick方法论命题）",
+    "source_id": "B0454",
+    "source_location": "B0454 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["4.2", "4.3"],
+    "textbook_function": "核心命题（教学法）",
+    "supports": ["复数教学法表述", "Itten课程只是七位教师个案之一"],
+    "does_not_support": ["'包豪斯教学法'单数叙事", "教学成效由课程推定"],
+    "time_boundary": "1919—1933",
+    "geographic_boundary": "德国（魏玛、德绍、柏林）",
+    "counterevidence": ["Banham式化约叙事（被驳对象）"],
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0403",
+    "claim": "De Stijl不是铁板一块团体，而是期刊及松散供稿人网络，从未有全员展览（Blotkamp）",
+    "source_id": "B0048",
+    "source_location": "B0048 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["4.4", "4.7"],
+    "textbook_function": "核心命题（组织形态）",
+    "supports": ["De Stijl作为期刊网络", "成员分歧与退出"],
+    "does_not_support": ["团体统一性叙事", "红蓝椅1918年有着色的流行定论（断代约1923年）"],
+    "time_boundary": "1917—1931",
+    "geographic_boundary": "荷兰（莱顿为中心）",
+    "counterevidence": null,
+    "status": "accepted"
+  }
+]

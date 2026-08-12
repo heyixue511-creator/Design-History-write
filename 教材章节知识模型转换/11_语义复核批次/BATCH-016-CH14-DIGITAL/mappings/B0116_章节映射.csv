@@ -1,0 +1,2 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0116,14.2,X,V2,duplicate_of_B0046,与B0046为同一文本精确哈希重复（DUP0002，Moggridge《Designing Interactions》2007）；B0046已承担全部命题,本条目不重复计证；引用以B0046为准,01_语料清单/重复原文组.csv DUP0002,EXCLUDED_AS_DUPLICATE_OF_B0046

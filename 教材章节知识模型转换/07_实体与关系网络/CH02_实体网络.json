@@ -1,0 +1,27 @@
+{
+  "chapter": "CH02",
+  "title": "第二章：改良、消费、展览与跨国物质流动",
+  "entities": [
+    {"id": "E-0201", "type": "exhibition", "name": "1851年万国工业博览会", "sections": ["2.1"], "key_sources": ["B0204", "B0339", "B0049", "B0175"]},
+    {"id": "E-0202", "type": "person", "name": "Henry Cole", "sections": ["2.1", "2.2"], "key_sources": ["B0049"]},
+    {"id": "E-0203", "type": "institution", "name": "科学与艺术部／南肯辛顿体系", "sections": ["2.2"], "key_sources": ["B0049", "B0427", "B0175"]},
+    {"id": "E-0204", "type": "person", "name": "John Ruskin", "sections": ["2.3"], "key_sources": ["B0383"]},
+    {"id": "E-0205", "type": "person", "name": "William Morris", "sections": ["2.3", "2.4", "2.5"], "key_sources": ["B0318", "B0133", "B0070"]},
+    {"id": "E-0206", "type": "enterprise", "name": "Liberty商店", "sections": ["2.4", "2.5"], "key_sources": ["B0006"]},
+    {"id": "E-0207", "type": "enterprise", "name": "Kelmscott Press", "sections": ["2.3"], "key_sources": ["B0348"]},
+    {"id": "E-0208", "type": "enterprise", "name": "Wedgwood", "sections": ["2.4"], "key_sources": ["B0305", "B0101"]},
+    {"id": "E-0209", "type": "institution", "name": "维多利亚与阿尔伯特博物馆（V&A）", "sections": ["2.2"], "key_sources": ["B0427", "B0175"]},
+    {"id": "E-0210", "type": "object", "name": "印度棉布／chintz消费", "sections": ["2.4", "2.7"], "key_sources": ["B0181", "B0209", "B0169"]},
+    {"id": "E-0211", "type": "exhibition", "name": "1863年奥斯曼总博览会", "sections": ["2.7"], "key_sources": ["B0463", "B0303"]},
+    {"id": "E-0212", "type": "publication", "name": "The Grammar of Ornament（Jones, 1856）", "sections": ["2.2", "2.5"], "key_sources": ["B0332", "P0040"]}
+  ],
+  "relations": [
+    {"source": "E-0202", "target": "E-0201", "type": "organized", "evidence": "B0049", "note": "Cole为组织网络核心"},
+    {"source": "E-0202", "target": "E-0203", "type": "founded", "evidence": "B0049", "note": "Cole体系：部门—学校—收藏—考核"},
+    {"source": "E-0204", "target": "E-0205", "type": "influenced", "evidence": "G3共享行动者文本", "note": "Ruskin讲演影响Morris；接触链可追踪（书信、讲演）"},
+    {"source": "E-0207", "target": "E-0205", "type": "co_founded", "evidence": "B0348", "note": "Kelmscott为多行动者生产"},
+    {"source": "E-0206", "target": "E-0210", "type": "traded", "evidence": "B0006", "note": "Liberty日本商品与织物"},
+    {"source": "E-0209", "target": "E-0203", "type": "related", "evidence": "B0427", "note": "南肯辛顿购藏与帝国网络"},
+    {"source": "E-0212", "target": "E-0203", "type": "commissioned", "evidence": "P0040", "note": "Jones《装饰的语法》知识工程"}
+  ]
+}

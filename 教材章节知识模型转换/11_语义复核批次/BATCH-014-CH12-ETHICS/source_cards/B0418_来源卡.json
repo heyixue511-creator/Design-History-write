@@ -1,0 +1,35 @@
+{
+  "source_id": "B0418",
+  "corpus": "book",
+  "folder_name": "The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis",
+  "material_type": "设计哲学论文选读（45篇）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis.md",
+  "duplicate_group": "与B0110（Fry）、B0032（Escobar）为同一设计哲学圈层（Design Philosophy Papers）；重复收录文本（Fry、Heidegger等）只计一份P0",
+  "files": [{"report_file_count": 16, "report_characters": 3746}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.1", "grade": "B", "verification": "V2", "role": "design_philosophy_reader"},
+    {"section_id": "12.3", "grade": "C", "verification": "V2", "role": "sustainment_defuturing_reader"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_philosophy_discipline"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Willis编，Bloomsbury 2019；源自2003年创刊的Design Philosophy Papers期刊，45篇选文＋8部导言",
+    "总命题：'设计作为被设计之世界向我们展开的本体论条件'；'一切都被设计，被设计之物持续设计着'（L499）",
+    "八部分：本质/实践/伦理/他者/物与存在/技术/视觉性/终结之后——系统回应当代非可持续境况",
+    "关键概念：本体论设计、去未来化、持存、Enframing/Gestell、Thinging、物之精神气质、知识殖民性、势（Shi）、Gaia、后人类",
+    "非西方视角：中国'势'论（Jullien）、汉字模块系统（Ledderose）、埃及城市秩序、后苏联知识殖民性（Tlostanova）",
+    "收录作者：Stiegler、Fry、Latour、Borgmann、Heidegger、Harman、Tonkinwise、Simondon、Braidotti、Deleuze等",
+    "限度：Design Philosophy自认'仍是婴儿，尚未成形'；部分选文与设计的关联依赖编者转译",
+    "本书为设计哲学读本（B级）：对12.1承担伦理哲学资源、0.1承担学科界定",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L499、L1528-1530：'一切都被设计，被设计之物持续设计着'",
+    "L289-293：专业设计被工业化的服务角色过度决定",
+    "L373-374：'不妥协的设计之思'——Design Philosophy",
+    "L5994-6210：中国'势'论（Jullien）",
+    "L12633-12793：后人类（Posthuman）"
+  ]
+}

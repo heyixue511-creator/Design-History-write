@@ -1,0 +1,900 @@
+{
+ "16.1": {
+  "grades": {
+   "C": 2,
+   "A": 6,
+   "B": 5,
+   "X": 3
+  },
+  "count": 16,
+  "items": [
+   {
+    "source_id": "B0041",
+    "title": "Ben Shneiderman：《Human-Centered AI》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "hcai_two_dimensional_framework",
+    "accepted_claim": "二维HCAI框架：人类控制水平与计算机自动化水平分离为独立维度——高水平控制与高自动化可并存（数码相机案例）——16.1核心理论",
+    "evidence_boundary": "作者框架（2022）；框架可操作性待实证验证（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0128",
+    "title": "Donald A. Schön：《The Reflective Practitioner How Professionals Think In Action》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "technical_rationality_critique",
+    "accepted_claim": "技术理性批判：实践不是工具性问题解决而是与情境的反思性对话——专业知识的层级模型选择性忽略复杂性、不确定性、不稳定性和价值冲突——16.1设计认识论",
+    "evidence_boundary": "作者理论（1983）；批判对象为实证主义传统（Comte、维也纳学派）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0287",
+    "title": "Margolin, Victor, The Politics of the Artificial, 2002",
+    "grade": "A",
+    "verification": "V2",
+    "role": "expanded_definition_design",
+    "accepted_claim": "设计的扩展性定义：以Simon\"人工物的科学\"为起点，将设计理解为\"对人工物的构思与规划\"——从工业产品扩展至系统、服务、环境与信息空间——16.1设计对象",
+    "evidence_boundary": "作者论文合集（2002）；定义为Margolin核心主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0413",
+    "title": "Terry Winograd, Fernando Flores：《Understanding Computers and Cognition》，1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "rationalistic_tradition_critique",
+    "accepted_claim": "理性主义传统批判（表征+搜索理解心智忽略了存在、实践卷入与社会承诺）——16.1从规则系统到机器学习的设计理论前史",
+    "evidence_boundary": "哲学批判（1986）；深度学习对'学习不能超越初始表征'论证构成新经验张力（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0413",
+    "title": "Terry Winograd, Fernando Flores：《Understanding Computers and Cognition》，1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "ontological_design_computers",
+    "accepted_claim": "本体论设计：在破裂的涌现空间中设计工具即设计人的存在方式——'本体论设计'概念奠基（16.1设计对象转向）",
+    "evidence_boundary": "作者理论（1986）；概念为Escobar（B0032）、Willis（P0005）直接继承",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0423",
+    "title": "The Sciences：《of the Artificial Simon 3rd ed》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "science_of_design",
+    "accepted_claim": "设计科学纲领：设计是把现存状况变为偏好状况的智力活动，是专业区别于科学的标志；人工物是\"内环境—外环境\"的界面——16.1设计科学基础",
+    "evidence_boundary": "作者理论（1996三版）；纲领自1969首版即为设计研究'行动号召'",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0041",
+    "title": "Ben Shneiderman：《Human-Centered AI》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "science_vs_innovation_goals",
+    "accepted_claim": "AI科学目标（理解并模拟人类智能）vs创新目标（开发实用产品与服务）：通过设计隐喻结合——16.1理论定位",
+    "evidence_boundary": "作者区分（2022）；科学目标为AI研究传统",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0125",
+    "title": "Don Norman：《The Design of Future Things》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "enhanced_intelligence",
+    "accepted_claim": "自主智能vs\"增强智能\"：力主增强智能——技术应是可选的、合作的、透明的——16.1设计对象定位",
+    "evidence_boundary": "作者立场（2007）；增强智能成效以产品为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0128",
+    "title": "Donald A. Schön：《The Reflective Practitioner How Professionals Think In Action》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "reflection_in_action",
+    "accepted_claim": "行动中反思（由\"惊奇\"触发→框架实验→与情境对话→再框架）与\"严谨性或相关性\"两难（高硬地vs沼泽低地）——16.1实践认识论",
+    "evidence_boundary": "作者理论（1983）；设计案例为Quist/Petra工作室协议",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0287",
+    "title": "Margolin, Victor, The Politics of the Artificial, 2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "politics_of_artificial",
+    "accepted_claim": "人工物的政治：在设计可以触及一切人工物的时代，边界的划定成为政治性斗争——16.1设计责任扩展",
+    "evidence_boundary": "作者理论（2002）；概念为Ch7哲学终点",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0423",
+    "title": "The Sciences：《of the Artificial Simon 3rd ed》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "bounded_rationality_satisficing",
+    "accepted_claim": "有限理性与满意化（satisficing）：真实行动者是'程序理性'的满意者而非'实质理性'的最大化者——16.1算法决策理论前史",
+    "evidence_boundary": "作者理论（1996）；满意化模型为组织理论核心",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ai_smart_autonomous_products_and_service_design",
+    "accepted_claim": "第16章新增AI与自主产品小节（generative design、智能产品改变设计师角色）与服务设计小节（将Herbert Simon定义落地于健康、金融、政府服务），并重审「设计-制作」「设计-营销」之后的「设计-AI」再分配",
+    "evidence_boundary": "证据边界为clean第7986—8004行及第16章小节标题；AI命题属作者2023年判断，须与14.5服务设计专史对读",
+    "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   },
+   {
+    "source_id": "B0296",
+    "title": "Martin Heidegger：《The Question Concerning Technology and Other Essays》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "questioning_technology",
+    "accepted_claim": "'追问是思的虔诚'（L1072）；沉思是对值得追问者的镇定投入——16.1人工智能设计反思",
+    "evidence_boundary": "作者哲学（1954）；沉思命题为规范性主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0129",
+    "title": "Donald A_ Schon：《The Reflective Practitioner，1983》",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0128",
+    "accepted_claim": "与B0128为同一著作《The Reflective Practitioner》（1983）不同转换（VGRP013）；B0128已承担全部命题",
+    "evidence_boundary": "本条目不重复计证；引用以B0128为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0128"
+   },
+   {
+    "source_id": "B0397",
+    "title": "Simon, Herbert A.：The Sciences of the Artificial, 1969",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0423",
+    "accepted_claim": "与B0423为同一著作《The Sciences of the Artificial》第三版（1996）的不同转换（VGRP015，B0397标注1969但内容为三版第3—8章）；B0423已承担全部命题",
+    "evidence_boundary": "本条目不重复计证；引用以B0423为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0423"
+   },
+   {
+    "source_id": "P0067",
+    "title": "The Politics of the Artificial _ Essays on Design and Design -- Victor Margolin",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0287",
+    "accepted_claim": "与B0287为同一著作《The Politics of the Artificial》（Margolin 2002）不同资产（VGRP014）；B0287已承担全部命题",
+    "evidence_boundary": "本条目不重复计证；引用以B0287为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0287"
+   }
+  ]
+ },
+ "16.2": {
+  "grades": {
+   "B": 1,
+   "C": 3
+  },
+  "count": 4,
+  "items": [
+   {
+    "source_id": "B0191",
+    "title": "Holmes：《Mismatch How Inclusion Shapes Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mismatch_exclusion_cycle",
+    "accepted_claim": "不匹配（Mismatch）与排斥循环（Cycle of Exclusion）：人与其世界之间的障碍作为排斥的构成要素——16.2数据集代表性/历史偏差的包容性框架",
+    "evidence_boundary": "作者框架（2018）；排斥循环五要素为分析工具",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0019",
+    "title": "Almquist：《Affording Meaning Design-Oriented Research from the Humanities and Social Sciences》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "user_construct_critique",
+    "accepted_claim": "'用户'概念是对人的行为主义窄化——以用户为中心的设计将人建构为可操控的反射束——16.2数据集用户建模批判",
+    "evidence_boundary": "作者批判（2010）；行为主义窄化为论点",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0123",
+    "title": "Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;",
+    "grade": "C",
+    "verification": "V2",
+    "role": "digital_materiality_process",
+    "accepted_claim": "'数字物质性不是已完成之物而是生成过程'（process of becoming）——数字材料本体论——16.2数据集作为设计材料的理论侧",
+    "evidence_boundary": "作者理论（2016）；文集编者命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0191",
+    "title": "Holmes：《Mismatch How Inclusion Shapes Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "algorithmic_exclusion",
+    "accepted_claim": "算法排斥：O'Neil《Weapons of Math Destruction》——算法系统性排斥的当代例证——16.2数据偏差",
+    "evidence_boundary": "引用论证（2018）；算法排斥细节以O'Neil原书为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "16.3": {
+  "grades": {
+   "B": 9,
+   "C": 9,
+   "A": 5
+  },
+  "count": 23,
+  "items": [
+   {
+    "source_id": "B0016",
+    "title": "Alison Black：《Information Design. Research and practice》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "rhetoric_of_neutrality",
+    "accepted_claim": "'中立性修辞'（Kinross）：信息设计对功能性与简洁性的追求本身就是一种修辞立场而非价值无涉的透明呈现——16.3可见性政治关键",
+    "evidence_boundary": "文集章节作者（Kinross）；命题有论证与档案支撑",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0267",
+    "title": "Langdon Winner：《The Whale and the Reactor A Search for Limits in an Age of High Technology, Second Edition》，1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "artifacts_have_politics",
+    "accepted_claim": "人造物有政治吗？——技术远非价值中立的工具而是\"生活形式\"的载体；特定设计中的权力安排与\"内在政治性技术\"——16.3可见性政治理论基座",
+    "evidence_boundary": "作者理论（1986初版）；奠基性文本",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0267",
+    "title": "Langdon Winner：《The Whale and the Reactor A Search for Limits in an Age of High Technology, Second Edition》，1986",
+    "grade": "A",
+    "verification": "V2",
+    "role": "technological_somnambulism",
+    "accepted_claim": "技术梦游症：技术选择被委托给市场与专家；对\"信息革命\"话语的批判——技术革新通常巩固而非瓦解既有权力结构——16.3算法不透明批判",
+    "evidence_boundary": "作者理论（1986）；信息革命批判具预见性（二版验证）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0385",
+    "title": "Safiya Umoja Noble：《Algorithms of Oppression How Search Engines Reinforce Racism》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "search_engine_visibility_politics",
+    "accepted_claim": "搜索引擎是可见性政治的关键场域：商业利益优先排序使'公共知识'系统偏向广告主与付费内容——搜索结果对弱势群体（非裔美国人）产生系统性负面表征——16.3可见性政治核心证据",
+    "evidence_boundary": "作者研究（2018，Noble《Algorithms of Oppression》）；案例基于实证调查（Google搜索案例）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0385",
+    "title": "Safiya Umoja Noble：《Algorithms of Oppression How Search Engines Reinforce Racism》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "algorithmic_bias_structural",
+    "accepted_claim": "算法偏见是结构性而非技术偶然：搜索算法编码并放大既有社会等级（种族、性别）——'算法压迫'（algorithmic oppression）——16.3偏见结构分析",
+    "evidence_boundary": "作者理论（2018）；算法压迫为核心概念",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0016",
+    "title": "Alison Black：《Information Design. Research and practice》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "transformer_isotype",
+    "accepted_claim": "Isotype'转换者'（Transformer）概念：将专业数据转化为公众可理解的视觉陈述；转换者是'公众的受托人'——16.3信息呈现责任",
+    "evidence_boundary": "历史档案（Neurath/Isotype）；概念有史料支撑",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0021",
+    "title": "Andrew Feenberg：《Transforming Technology A Critical Theory Revisited》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "democratic_rationalization",
+    "accepted_claim": "民主合理化：技术不是无法改变的宿命，而是充满政治斗争的曖昧场域——通过被支配者的参与重构技术体系——16.3平台治理替代方案",
+    "evidence_boundary": "作者理论；民主合理化为核心主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0021",
+    "title": "Andrew Feenberg：《Transforming Technology A Critical Theory Revisited》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "technical_code",
+    "accepted_claim": "技术代码（technical code）：设计决策中沉积的社会霸权；同一技术系统可以在不同霸权之间'倾斜'——16.3算法偏见结构分析",
+    "evidence_boundary": "作者概念；技术代码为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0062",
+    "title": "Cairo：《The functional art an introduction to information graphics and visualization》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visualization_ethics",
+    "accepted_claim": "信息图形学以认知科学为锚、以设计伦理为舵——'图应为谁、为何、如何存在'——16.3信息图形伦理",
+    "evidence_boundary": "作者理论（2013）；新闻实践为经验基础",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0136",
+    "title": "Edward R. Tufte：《The Visual Display of Quantitative Information》，1983",
+    "grade": "B",
+    "verification": "V2",
+    "role": "lie_factor",
+    "accepted_claim": "谎言因子（Lie Factor）公式量化图形扭曲程度；图形诚信（graphical integrity）为信息呈现基本伦理——16.3信息呈现伦理",
+    "evidence_boundary": "作者理论（1983/2001）；公式为操作性度量",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0267",
+    "title": "Langdon Winner：《The Whale and the Reactor A Search for Limits in an Age of High Technology, Second Edition》，1986",
+    "grade": "B",
+    "verification": "V2",
+    "role": "technical_constitution",
+    "accepted_claim": "技术作为\"第二部宪法\"：技术基础设施构成与政治宪法平行的宪制性力量，非经民主审议产生——16.3平台权力分析",
+    "evidence_boundary": "作者理论（1986）；宪法隐喻为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0296",
+    "title": "Martin Heidegger：《The Question Concerning Technology and Other Essays》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "essence_of_technology",
+    "accepted_claim": "技术的本质不是技术性的（L556）；技术是解蔽方式（L683）；现代技术的本质是座架（Gestell）——对自然的促逼性摆置——16.3算法框架哲学底座",
+    "evidence_boundary": "作者哲学（1954/1977）；座架为技术哲学核心概念",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0296",
+    "title": "Martin Heidegger：《The Question Concerning Technology and Other Essays》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "enframing_world_picture",
+    "accepted_claim": "现代的基本事件是'世界成为图像、人成为主体'（L2349）——16.3可见性/呈现政治哲学",
+    "evidence_boundary": "作者哲学（1954）；世界图像命题为现代性诊断",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0390",
+    "title": "Scott McCloud：《Understanding Comics The Invisible Art》，1993",
+    "grade": "B",
+    "verification": "V2",
+    "role": "closure_visual_cognition",
+    "accepted_claim": "漫画的力量来自读者主动补全（闭包）：读者在画格间'沟槽'主动补全时间、空间与动作；图文七种组合（word-specific至interdependent）与'简化即放大'的卡通化原理——视觉传达与信息呈现的认知理论——16.3信息设计的视觉认知侧",
+    "evidence_boundary": "作者理论（1993）；以漫画论证漫画的元叙事",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0016",
+    "title": "Alison Black：《Information Design. Research and practice》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "graphic_literacy",
+    "accepted_claim": "图形素养（Waller）：理解和运用图形手段进行有效沟通的能力，是功能性读写能力的基础——16.3信息素养",
+    "evidence_boundary": "文集章节作者（Waller）；概念为理论主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0021",
+    "title": "Andrew Feenberg：《Transforming Technology A Critical Theory Revisited》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "margin_of_maneuver",
+    "accepted_claim": "操作余量/战术能动空间：被支配者在技术环境中利用计划的'粗糙性'赢得的局部自主行动空间——用户对抗平台治理的能动性",
+    "evidence_boundary": "作者概念；战术能动性案例（Minitel、VAX Notes）为经验证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0062",
+    "title": "Cairo：《The functional art an introduction to information graphics and visualization》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "graphic_redesign_cases",
+    "accepted_claim": "再设计案例方法：同一份数据完成'呈现→比较→排序→关联'（Folha国防预算图）——16.3呈现实践",
+    "evidence_boundary": "实战案例（2013）；案例有完整描述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0062",
+    "title": "Cairo：《The functional art an introduction to information graphics and visualization》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "neurath_legacy",
+    "accepted_claim": "Isotype与Neurath传统是Tufte功能主义与Holmes人文主义的桥梁——16.3信息设计谱系",
+    "evidence_boundary": "作者论述（2013）；Isotype档案（雷丁大学）为史料",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0085",
+    "title": "Cole Nussbaumer Knaflic：《Storytelling with Data》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "explanatory_communication",
+    "accepted_claim": "将数据转化为有效沟通的关键在'用数据讲故事'（解释性沟通六课框架）；始于沟通情境理解（Who/What/How）——16.3数据呈现实践",
+    "evidence_boundary": "作者实践理论（2015）；Google培训经验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0085",
+    "title": "Cole Nussbaumer Knaflic：《Storytelling with Data》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "preattentive_attributes",
+    "accepted_claim": "前注意属性（大小、颜色、空间位置）在不到一秒内被无意识捕捉——16.3可见性设计认知工具",
+    "evidence_boundary": "作者理论（2015）；认知心理学证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0085",
+    "title": "Cole Nussbaumer Knaflic：《Storytelling with Data》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "data_ink_gestalt",
+    "accepted_claim": "'空白页面上的每一个元素都会占用受众的认知负荷'——数据墨水比与格式塔原则用于去杂——16.3呈现规范",
+    "evidence_boundary": "作者理论（2015）；借Tufte/Duarte框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0136",
+    "title": "Edward R. Tufte：《The Visual Display of Quantitative Information》，1983",
+    "grade": "C",
+    "verification": "V2",
+    "role": "data_ink_principles",
+    "accepted_claim": "数据墨水最大化与擦除原则；chartjunk批判——信息呈现设计原则——16.3可见性设计规范",
+    "evidence_boundary": "作者理论（1983）；设计原则为规范性框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0136",
+    "title": "Edward R. Tufte：《The Visual Display of Quantitative Information》，1983",
+    "grade": "C",
+    "verification": "V2",
+    "role": "clear_portrayal_complexity",
+    "accepted_claim": "清晰呈现复杂（the clear portrayal of complexity）为数据图形终极追求——'首要的是展示数据'——16.3信息设计价值观",
+    "evidence_boundary": "作者理论（1983）；价值观命题为规范性主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "16.4": {
+  "grades": {
+   "C": 1,
+   "A": 2,
+   "B": 1
+  },
+  "count": 4,
+  "items": [
+   {
+    "source_id": "P0046",
+    "title": "Marian Mazzone, Ahmed Elgammal：《Art, Creativity, and the Potential of Artificial Intelligence》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "aican_generative_art",
+    "accepted_claim": "AICAN/CAN生成系统与AI艺术论证：机器创造力与人类创造力平行不冲突；\"算法处于创作主导\"——16.4生成式AI与作者制度",
+    "evidence_boundary": "开发者自证型论文（2019）；自证循环与训练集西方中心为作者自认限度",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0046",
+    "title": "Marian Mazzone, Ahmed Elgammal：《Art, Creativity, and the Potential of Artificial Intelligence》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "ai_as_medium",
+    "accepted_claim": "AI定位为\"媒介\"而非工具：\"无自然指涉\"与概念艺术同构——16.4AI作者身份",
+    "evidence_boundary": "作者论证（2019）；媒介论与Hertzmann'算法是工具'论争辩",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0046",
+    "title": "Marian Mazzone, Ahmed Elgammal：《Art, Creativity, and the Potential of Artificial Intelligence》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "visual_turing_test",
+    "accepted_claim": "视觉图灵测试（75%被误认为人类创作）与摄影史类比（Benjamin复制理论）——16.4真实性与作者",
+    "evidence_boundary": "实证数据（2019）；样本与统计细节缺失（75%单次研究，作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0119",
+    "title": "Deyan Sudjic：《B is for Bauhaus, Y is for YouTube Designing the Modern World from A to Z》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critical_design_digital",
+    "accepted_claim": "批判性设计传统（Dunne & Raby代表：以设计提问而非解决问题）与真实性悖论（设计师是'技艺精湛的伪造者'）——16.4生成式AI作者讨论的文化参照",
+    "evidence_boundary": "作者评论（2014）；批判性设计概念以Dunne & Raby原书为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "16.5": {
+  "grades": {
+   "A": 6,
+   "B": 8,
+   "C": 9
+  },
+  "count": 23,
+  "items": [
+   {
+    "source_id": "B0041",
+    "title": "Ben Shneiderman：《Human-Centered AI》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_metaphors_control",
+    "accepted_claim": "四对设计隐喻（智能代理vs超级工具、队友vs遥控机器人、可靠自主vs控制中心、社交机器人vs主动电器）——16.5人的控制权",
+    "evidence_boundary": "作者隐喻框架（2022）；隐喻成效以产品案例为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0041",
+    "title": "Ben Shneiderman：《Human-Centered AI》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "governance_structures",
+    "accepted_claim": "三层治理结构（技术保障/组织文化/可信认证）与四层嵌套模型（团队→组织→行业→政府）——弥合伦理原则与工程实践——16.5安全边界",
+    "evidence_boundary": "治理框架（2022）；实施成效以监管实践为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0125",
+    "title": "Don Norman：《The Design of Future Things》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "common_ground_machine",
+    "accepted_claim": "人机\"共同基础\"（Common Ground）缺失：机器只能对传感器可探测的有限参数反应，无法理解人类意图、语境与微妙动机——16.5核心",
+    "evidence_boundary": "作者理论（2007）；共同基础缺失的判断为认知科学框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0125",
+    "title": "Don Norman：《The Design of Future Things》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "natural_interaction_automation",
+    "accepted_claim": "自然交互（隐性沟通、可供性、松/紧缰绳控制）与\"出圈\"（out of the loop）问题：系统在容易时接管、困难时突然交还——16.5自动化界面",
+    "evidence_boundary": "设计规则（2007）；出圈问题以驾驶模拟器研究为证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0198",
+    "title": "James J. Gibson：《The Ecological Approach To Visual Perception》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "affordance_theory",
+    "accepted_claim": "可供性（affordance）是环境对动物的行动可能性：既是客观的（存在于环境中）又是关系性的（相对于特定动物的行动能力），'跨越主客二分'，不需被知觉才存在——交互设计'可供性'概念的理论源头（Norman《The Design of Everyday Things》借用之源）——16.5自动化界面与人的控制权的理论基座",
+    "evidence_boundary": "作者理论（1979）；第8章为全书理论支柱",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0279",
+    "title": "Lucy Suchman：《Plans and Situated Actions The Problem of Human-Machine Communication》，1987",
+    "grade": "A",
+    "verification": "V2",
+    "role": "situated_actions",
+    "accepted_claim": "有目的的人类行动不是由预先形成的'计划'决定的，而是本质'情境性的'；计划是行动者审议与自我说明时的'表征资源'而非控制机制——16.5交互设计理论基座",
+    "evidence_boundary": "作者理论（1987）；情境行动为交互研究纲领",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0191",
+    "title": "Holmes：《Mismatch How Inclusion Shapes Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "inclusive_design_ability_bias",
+    "accepted_claim": "包容性设计与\"能力偏见\"（Ability Bias）：以自身能力为基线的倾向；\"临时健全\"去稳定化——16.5自动化界面的包容维度",
+    "evidence_boundary": "作者论证（2018）；能力偏见案例（John Porter）为人物化展示",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0198",
+    "title": "James J. Gibson：《The Ecological Approach To Visual Perception》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "perceptual_system_exploration",
+    "accepted_claim": "知觉系统是主动的信息探测系统：眼-头-身体系统在环境中移动产生光流（optic flow），运动自身揭示环境不变结构——'行动者-环境'耦合作为交互设计的知觉模型——16.5交互的能动性基础",
+    "evidence_boundary": "作者理论（1979）；1966年感官系统理论延续",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0227",
+    "title": "John M. Carroll (ed.)：《Human-Computer Interaction in the New Millennium》，2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "usability_definition_iterative_design",
+    "accepted_claim": "'HCI is the study and the practice of usability'；设计被重新定义为'机会主义的、具体的、必然迭代的'（opportunistic",
+    "evidence_boundary": " concrete",
+    "status": "编者导论（2002）；Brooks'plan to throw one away'案例"
+   },
+   {
+    "source_id": "B0268",
+    "title": "Lars Hallnäs Johan Redström：《Slow Technology – Designing for Reflection》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "slow_technology",
+    "accepted_claim": "慢技术（Slow Technology）设计哲学：技术应'时间生产性'而非'时间消耗性'，通过'慢'为反思与精神休憩创造空间——16.5批判/反思设计侧",
+    "evidence_boundary": "作者理论（2001）；开创性宣言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0279",
+    "title": "Lucy Suchman：《Plans and Situated Actions The Problem of Human-Machine Communication》，1987",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mutual_intelligibility",
+    "accepted_claim": "相互可理解性不是'共享认知共识'的产物，而是社会成员在具体互动中通过情境性实践协作实现的成就——16.5人机通信基础",
+    "evidence_boundary": "作者理论（1987）；常人方法学框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0322",
+    "title": "Niedderer：《Designing Mindful Interaction The Category of Performative Object》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mindful_interaction",
+    "accepted_claim": "正念/有意识互动（mindful interaction）理论：互动（人-物-人三角）是觉察与注意发生的场域；通过外部中介（物件的功能操作）突破惯常模式——设计物可主动刺激使用者的反思性参与——16.5自动化界面与人的控制权（正念交互侧）",
+    "evidence_boundary": "作者理论建构（2004）；互动三角关系模型",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0457",
+    "title": "Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN",
+    "grade": "B",
+    "verification": "V2",
+    "role": "myth_of_transparency",
+    "accepted_claim": "数字设计的目标不是制造'消失的透明界面'（透明神话），而是让每个数字人工物在窗口（透明传递内容）与镜子（反射揭示自身与用户）之间振荡；数字设计不应试图隐形——对Norman《The Invisible Computer》与Nielsen透明管道论的批判——16.5自动化界面批判",
+    "evidence_boundary": "作者论辩（2003）；SIGGRAPH 2000艺术展案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0029",
+    "title": "Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu",
+    "grade": "B",
+    "verification": "V2",
+    "role": "research_triangle_model",
+    "accepted_claim": "交互设计研究可理解为'设计实践—设计研究—设计探索'三角活动区之间的移动：三活动区在方法工具上可相似、本质区别在传统与视角；最有价值的研究来自区间'移动'；参与式（第一人称）知识（engaged knowledge）是外部视角不可得的——16.5交互设计研究的学科框架",
+    "evidence_boundary": "作者论文（约2004）；三角模型与三记号",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0019",
+    "title": "Almquist：《Affording Meaning Design-Oriented Research from the Humanities and Social Sciences》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "engineered_subject",
+    "accepted_claim": "以用户为中心的设计浮现的'主体'是'工程化主体'——对刺激做出正确反应的个体（Redström）；用户友好性使价值观'自然化'（Dunne&Raby）——16.5人的控制权批判",
+    "evidence_boundary": "作者批判（2010）；援引Redström/Dunne&Raby/Lupton",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0019",
+    "title": "Almquist：《Affording Meaning Design-Oriented Research from the Humanities and Social Sciences》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "affordance_ecology",
+    "accepted_claim": "可供性谱系：吉布森客观生态维度 vs 诺曼'感知可供性'窄化——设计生态与交互客体性（Latour）——16.5交互理论",
+    "evidence_boundary": "作者理论（2010）；概念史梳理",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0163",
+    "title": "Garrett：《The elements of user experience user-centered design for the Web and beyond》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "right_questions_epistemology",
+    "accepted_claim": "用户体验的根本在于'提出正确的问题'而非'给出正确的答案'——认识论（知道问什么）优先于方法论（知道怎么做）；产品同时作为功能工具与信息媒介的双重性——16.5设计方法认识论（弱支撑）",
+    "evidence_boundary": "作者理论框架（2011第二版）；导言自述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0268",
+    "title": "Lars Hallnäs Johan Redström：《Slow Technology – Designing for Reflection》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "time_presence_dwelling",
+    "accepted_claim": "范式转换：计算机成为持续在场环境要素时，交互设计从'使用时刻'转向'居住时间'（dwelling）与'时间在场'（time presence）——16.5交互范式批判",
+    "evidence_boundary": "作者理论（2001）；居住时间命题为范式主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0279",
+    "title": "Lucy Suchman：《Plans and Situated Actions The Problem of Human-Machine Communication》，1987",
+    "grade": "C",
+    "verification": "V2",
+    "role": "interactive_artifacts",
+    "accepted_claim": "计算机被视为'交互的'对象因其反应性、语言控制与内部不透明性的组合——但产生危险错觉：误以为机器能如人般'参与'互动——16.5机器交互错觉批判",
+    "evidence_boundary": "作者理论（1987）；专家帮助系统失败为经验证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0413",
+    "title": "Terry Winograd, Fernando Flores：《Understanding Computers and Cognition》，1986",
+    "grade": "C",
+    "verification": "V2",
+    "role": "commitment_dialogue",
+    "accepted_claim": "设计中心从\"表征与决策\"转向\"承诺、对话\"：管理是承诺的对话网络——16.5人的控制权理论资源",
+    "evidence_boundary": "作者理论（1986）；对话网络实现以协调者产品为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0457",
+    "title": "Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN",
+    "grade": "C",
+    "verification": "V2",
+    "role": "embodied_design_materiality",
+    "accepted_claim": "数字媒体具有物质性：T-Garden案例批判'去具身神话'，具身设计（embodied design）与语境设计（contextual design）拒绝无语境的柏拉图式设计理想——16.5具身交互与设计物质性",
+    "evidence_boundary": "作者论辩（2003）；T-Garden/Terminal Time装置案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0004",
+    "title": "Alternatives：《exploring information appliances through Bill Gaver; Heather Marti",
+    "grade": "C",
+    "verification": "V2",
+    "role": "alternative_values_beyond_utility",
+    "accepted_claim": "数字设备可以且应当承载功能与有用性之外的替代价值（印象式显示、消遣、影响、亲密、洞察、神秘）——从可用性转向意义的交互价值议程——16.5交互设计价值批判（弱支撑）",
+    "evidence_boundary": "作者论文（CHI 2000）；六类价值提案",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0054",
+    "title": "Regine M. Gilbert：《Inclusive Design for a Digital World Designing with Accessibility in Mind》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "born_accessible_new_tech",
+    "accepted_claim": "新技术必须'生而无障碍'：XR/AI等新交互形态须在设计中内置可及性而非事后补救——16.5自动化界面的包容性边界（弱支撑）",
+    "evidence_boundary": "作者实务指南（2019）；Ch10历史与未来",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "16.6": {
+  "grades": {
+   "B": 1,
+   "C": 6
+  },
+  "count": 7,
+  "items": [
+   {
+    "source_id": "B0287",
+    "title": "Margolin, Victor, The Politics of the Artificial, 2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "sustainability_model",
+    "accepted_claim": "扩张模型（expansion model）vs可持续模型（sustainability model）：设计师应从市场经济单一服务者转变为社会-生态问题的积极参与者——16.6隐形劳动与行星基础设施",
+    "evidence_boundary": "作者批判（2002）；可持续模型为替代方案主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0123",
+    "title": "Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;",
+    "grade": "C",
+    "verification": "V2",
+    "role": "citizen_infrastructure",
+    "accepted_claim": "公民自建数字基础设施案例（Goulburn自建公共Wi-Fi、Fab Lab Barcelona、IoT社区）——16.6行星基础设施的公民侧",
+    "evidence_boundary": "民族志案例（2016）；案例有实证描述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0123",
+    "title": "Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;",
+    "grade": "C",
+    "verification": "V2",
+    "role": "messy_daily_life",
+    "accepted_claim": "以'日常的混乱'为出发点研究数字与物质不可分割的世界（Strengers对智能家居愿景的批判）——16.6数字生活批判",
+    "evidence_boundary": "作者批判（2016）；智能家居批判为论点",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0212",
+    "title": "Joel Mokyr：《The lever of riches - technological creativity and economic progress (1990)》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "macroinvention_microinvention",
+    "accepted_claim": "技术变革是长期经济增长最根本动力；宏观发明（断裂性）与微观发明（渐进性）互补——16.6行星基础设施的技术经济史背景",
+    "evidence_boundary": "作者理论（1990）；经济史证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0212",
+    "title": "Joel Mokyr：《The lever of riches - technological creativity and economic progress (1990)》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "technological_creativity_conditions",
+    "accepted_claim": "技术停滞是常态、变革是例外；技术创造力三条件（发明者群体、制度激励、容忍多样性）——16.6技术政治侧",
+    "evidence_boundary": "作者理论（1990）；比较案例证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0268",
+    "title": "Lars Hallnäs Johan Redström：《Slow Technology – Designing for Reflection》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "aesthetics_functionality",
+    "accepted_claim": "功能性的美学（aesthetics of functionality）居于焦点——形式带来功能（form brings forth function）——16.6设计美学立场",
+    "evidence_boundary": "作者理论（2001）；美学命题为设计立场",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0423",
+    "title": "The Sciences：《of the Artificial Simon 3rd ed》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "social_planning",
+    "accepted_claim": "社会规划演进观：设计在有限理性、数据残缺、客户多元、注意力稀缺与无最终目标约束下进行，与生物演化同构——16.6基础设施治理理论资源",
+    "evidence_boundary": "作者理论（1996）；社会设计部分可操作性有限（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "16.7": {
+  "grades": {
+   "B": 1,
+   "C": 5
+  },
+  "count": 6,
+  "items": [
+   {
+    "source_id": "B0119",
+    "title": "Deyan Sudjic：《B is for Bauhaus, Y is for YouTube Designing the Modern World from A to Z》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "digital_nonmaterial_design",
+    "accepted_claim": "数字革命改变设计存在形态：设计从\"塑造物\"变成\"编程交互逻辑\"（QWERTY被触摸屏替代；PayPal按钮=史上最有价值的开关）——16.7中国平台化生活与设计职业",
+    "evidence_boundary": "作者评论（2014）；判断为个人化散文论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0119",
+    "title": "Deyan Sudjic：《B is for Bauhaus, Y is for YouTube Designing the Modern World from A to Z》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "platform_economics",
+    "accepted_claim": "平台经济价值逻辑：YouTube（不足100名员工创造16.5亿美元价值）vs柯达巅峰期14万雇员——后工业价值体系重构——16.7平台参照",
+    "evidence_boundary": "作者评论（2014）；数字为书内数据未经独立核验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0218",
+    "title": "John A. Lent：《Asian Comics》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "digital_revival_local_response",
+    "accepted_claim": "亚洲漫画1990年代后期起的复兴依赖数字化、国际化与政府产业政策支持；各国以本土化策略回应外来冲击（中国5155工程、韩国'韩国化'运动、台湾1992版权法改革、香港本土功夫漫画反击）——'外来冲击-本土化回应'模式可作为16.7中国平台面对全球平台冲击的视觉文化前史（弱支撑）",
+    "evidence_boundary": "作者学术通史（2015）；国别产业政策史实",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0390",
+    "title": "Scott McCloud：《Understanding Comics The Invisible Art》，1993",
+    "grade": "C",
+    "verification": "V2",
+    "role": "visual_narrative_digital",
+    "accepted_claim": "漫画的闭包与图文组合理论可作为分析数字视觉叙事（表情包、短视频、信息图）的认知工具——中国数字视觉文化生产的前史性理论资源（弱支撑）",
+    "evidence_boundary": "作者理论（1993）；媒介本体论立场",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0451",
+    "title": "Wendy Siuyi Wong：《Hong Kong comics. A history of manhua》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chinese_visual_identity",
+    "accepted_claim": "香港漫画是'香港身份的表达'：在日漫主导与欧洲/美国/中国影响交汇中形成独立绘制风格与文化身份——中国当代视觉文化身份的先例性案例——16.7中国视觉文化身份（弱支撑）",
+    "evidence_boundary": "作者通史（2002）；导论命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0028",
+    "title": "Engholm, Ida：Digital Style History：The Development of Graphic Design on the Internet, 2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "digital_style_method_transfer",
+    "accepted_claim": "'数字风格史'方法（风格作为感知-比较-共识产物、主流/地下二元谱系）为分析中国平台设计风格提供可迁移框架；作者自认样本以欧美为主未涉非西方语境——16.7中国平台设计风格分析的待补方法（弱支撑）",
+    "evidence_boundary": "作者论文（2002）；方法自述与限度声明",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ }
+}

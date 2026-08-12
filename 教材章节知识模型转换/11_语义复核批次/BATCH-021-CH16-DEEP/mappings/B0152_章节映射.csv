@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0152,C.0,A,V2,design_history_methodology,设计史应挣脱艺术史阴影、靠近技术史与STS、以'设计文化'为对象；ism作为理解设计意识形态与实践共生产的分析透镜——C.0设计史方法论,作者理论（2010）；方法论专著,分析报告（L345、L762）,ACCEPTED_AS_CORE_SOURCE
+B0152,C.0,B,V2,margolin_forty_debate,Margolin vs Forty的'design studies or design history'论战（1992-1995）——设计史学科身份之争——C.0学科史,作者综述（2010）；论战有文献记录,分析报告（L225-265）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0152,0.1,C,V2,design_history_cultural_history,设计史=文化史；设计≈技术——设计史应升级为设计文化研究——0.1什么是设计史,作者理论（2010）；学科命题,分析报告（L345、L943-951）,ACCEPTED_AS_SUPPORTING_SOURCE

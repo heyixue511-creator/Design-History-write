@@ -1,0 +1,7 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0431,9.1,A,V2,planned_obsolescence_typology,计划报废三类型（功能/质量/欲望）与"抛弃精神"（throwaway spirit）：美国工商界为消化过剩产能系统制造浪费——消费社会批判原典,调查性著作（1960年时点）；数据依赖当时报刊缺乏系统统计验证,Ch5-7分析报告（L501-992）,ACCEPTED_AS_CORE_SOURCE
+B0431,9.1,B,V2,saturation_growthmanship,饱和与增长主义（Growthmanship）：生产超越消费、'增长即善'信条批判；'被强制喂食的社会'（force-fed society）,作者论证（1960）；增长批判为时代命题,Ch2-3分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0431,9.2,B,V2,quality_decline_home_products,家电/家居质量劣化与"厨房时装化"（Fashion Lines for the Kitchen）：家庭产品的短期化与维修业获利（The Repairman's Paradise）,案例证据（汽车、家电、轮胎）；劣化程度无系统检测数据,Ch10-12分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0431,5.7,A,V2,packard_critique_original,帕卡德《The Waste Makers》(1960)为商业设计伦理批判原典：计划报废的系统揭露——5.7批判原典补证（P0缺口闭合）,批判原典为P1调查著作；'反消费主义'立场为作者观点，引用须标注,Ch6-7分析报告,ACCEPTED_AS_CORE_SOURCE
+B0431,12.1,B,V2,resource_depletion_warning,资源枯竭预警（金属、石油、水、木、粮）与消费不可永续——可持续设计思想先驱（早于1960年代环保运动）,预警为1960年时点判断；资源数据未独立核验,Ch18分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0431,9.3,C,V2,credit_consumer_sovereignty,信贷消费（"永不还清"的分期购买）与消费者主权批判：信贷作为消费扩张的杠杆,调查证据充分；'消费者主权'批判为作者论证,Ch14分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

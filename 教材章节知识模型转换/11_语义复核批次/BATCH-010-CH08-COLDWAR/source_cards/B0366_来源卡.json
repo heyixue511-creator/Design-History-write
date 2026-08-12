@@ -1,0 +1,35 @@
+{
+  "source_id": "B0366",
+  "corpus": "book",
+  "folder_name": "Richard Stites：《Revolutionary Dreams Utopian Vision and Experimental Life in the Russian Revolution》，1989",
+  "material_type": "俄国革命文化史（乌托邦与社会实验）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Richard Stites：《Revolutionary Dreams Utopian Vision and Experimental Life in the Russian Revolution》，1989_clean.md",
+  "duplicate_group": "与B0291（Margolin《Struggle for Utopia》）、B0277（Lodder构成主义）共享苏联先锋派对象（住宅公社、泰勒主义、未来主义）；同一对象只计一份P0",
+  "files": [{"report_file_count": 20, "report_characters": 5140}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "utopian_experiment_soviet"},
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "fantasy_state_stalinism"},
+    {"section_id": "0.6", "grade": "C", "verification": "V2", "role": "revolutionary_poetics_method"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Stites（乔治城大学），OUP 1989；1917—1930年代初俄国革命乌托邦主义与社会实验的开创性综合研究，12章",
+    "核心命题：俄国革命乌托邦源于'人民的、国家的、激进知识分子的'三大传统碰撞与汇合；乌托邦主义是革命情感力量的关键",
+    "关键概念：popular/administrative/socialist utopia、applied utopistics、machinism（机器主义）、Taylorism、住宅公社（dom-kommuna）、Urbanists/Disurbanists、'fantasy state'（幻想国家）",
+    "覆盖主题：偶像破坏、革命节庆、无神宗教、平等主义、机器崇拜与泰勒主义、科幻未来学、城市与建筑乌托邦、公社运动、斯大林围剿",
+    "材料：报纸（Pravda等）、回忆录、文学、海报图像、政策文件；作者自陈未用档案（'资料与二手文献的综合'）",
+    "限度：个别数字依赖估算；对经济史与技术史着墨较轻；'群众自发性vs政党操控'评价存在含混",
+    "时段边界：本书覆盖1917—1931，对8.3承担苏联社会主义现代主义的乌托邦根源与制度转折前史",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L178-179：三大乌托邦传统（人民/国家/知识分子）碰撞与汇合",
+    "L199：乌托邦主义是革命情感力量的关键",
+    "Ch7：机器崇拜与泰勒主义——'Man the Machine'",
+    "Ch9：城市与建筑乌托邦（Urbanists/Disurbanists）",
+    "Ch10：住宅公社运动（dom-kommuna）",
+    "Ch11：'War on the Dreamers'——斯大林主义对乌托邦的围剿"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "B0367",
+  "corpus": "book",
+  "folder_name": "Richards, Thomas：The Commodity Culture of Victorian England：Advertising and Spectacle, 1851-1914, 1991",
+  "material_type": "维多利亚商品文化研究（广告与景观）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Richards, Thomas：The Commodity Culture of Victorian England：Advertising and Spectacle, 1851-1914, 1991_clean.md",
+  "duplicate_group": "与B0001（Learning to Consume）、B0305（消费革命）共享维多利亚消费文化对象时对象级去重；本书为广告/景观侧主源",
+  "files": [{"report_file_count": 14, "report_characters": 3709}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.1", "grade": "B", "verification": "V2", "role": "commodity_culture_precedes_economy"},
+    {"section_id": "9.1", "grade": "B", "verification": "V2", "role": "spectacle_six_bases"},
+    {"section_id": "9.4", "grade": "C", "verification": "V2", "role": "consuming_subject_gender"},
+    {"section_id": "2.4", "grade": "B", "verification": "V2", "role": "advertising_victorian"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Richards（哈佛大学），Stanford UP 1990／Verso 1991；1851—1914年英国商品文化研究（Introduction+5章+Conclusion，50幅广告图像）",
+    "核心命题：消费主义的文化形式先于消费经济而诞生；广告人是'资本主义的行吟诗人'；商品成为现代世界的'死中心'",
+    "五大'景观战役'：1851大博览会、维多利亚Jubilee（消费者女王与kitsch）、'出售黑暗非洲'（帝国广告）、专利药品（治疗性殖民）、海滨女孩（性别消费主体，《尤利西斯》细读）",
+    "景观六大基础：自主图像志、纪念、民主意识形态、商品语言、消费主体、丰裕神话（L811）",
+    "方法：个案广告细读＋符号学/文化理论（Marx、Debord、Barthes、Baudrillard、Foucault）；'从一根骨头复原动物'的重构性（作者自认）",
+    "限度：样本偏重中产阶级报刊；工人消费者几乎缺席；OCR年份讹误",
+    "本书为广告/景观研究主源：对9.1承担消费文化前史与景观理论；对第二章2.4承担维多利亚广告侧",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L189：资本主义'制造并维系了一种自己的文化'",
+    "L295、L2965：文化形式先于消费经济",
+    "L811：景观六大基础",
+    "L1234：'the consumer queen'——消费者女王（Jubilee）",
+    "L2849：'the seaside girl'——性别消费主体",
+    "L3024-3029：广告人的'寄生性'功能"
+  ]
+}

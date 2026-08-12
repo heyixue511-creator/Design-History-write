@@ -5,7 +5,7 @@
   "material_type": "行动者自著职业文本（P0）",
   "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Henry Dreyfuss：《Designing for People》，1967_clean.md",
   "clean_source_sha256": "660A57EF2D7CD124FDA05CAA5821A47BCDDC5DD9546200F53D49290C461BD863",
-  "duplicate_group": "与B0206、B0066、B0205共享Dreyfuss对象；同一对象只计一份P0",
+  "duplicate_group": "与B0206、B0066、B0205共享Dreyfuss对象；同一对象只计一份P0；跨批次合并注记（2026-08-12）：本卡为BATCH-006原始复核卡，唯一合并版见BATCH-008-CH07-GOODDESIGN\\source_cards\\B0186_来源卡.json",
   "files": [
     {
       "report_file_count": 48,

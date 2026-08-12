@@ -39,3 +39,10 @@
 
 ## 六、下一步
 第七章聚合：写入全库滚动索引（`04_文献—章节映射\已复核_*`）、生成第七章核心命题—来源矩阵与第七章证据结构汇总审计；随后按项目任务清单推进第八章（冷战、社会主义设计、去殖民化与国家建设）至第十六章，再处理剩余资产与 V2→V3／V4 核验提升。另：导论 CH00（0.1—0.8）尚无人工复核批次，需单独补建。
+
+## 七、B0186跨批次合并记录（2026年8月12日）
+
+- B0186同时存在于BATCH-006（第五章视角）与本批次（BATCH-008，第七章视角），共30条映射，0.6、5.4、5.5存在重叠节。
+- 处置：本批次`mappings\B0186_章节映射.csv`更新为唯一合并集（24条），`source_cards\B0186_来源卡.*`更新为唯一合并卡；BATCH-006原始16条映射已归档（`BATCH-006-CH05-COMMERCIAL\B0186_章节映射_原始16条_已并入BATCH-008.csv`）。
+- 节号裁决：BATCH-008原5.5三条（anthropometry_percentile_partners、machine_fit_person_principle、five_senses_design_catalog）与BATCH-006 5.6同命题，按总纲"5.6 人体测量、家务与效率"归5.6并合并；原5.3 sid_founding_1944与BATCH-006 5.5同命题，按"5.5 工业设计职业的形成"归5.5；0.6 self_justification_bias_marker与BATCH-006 self_justification_bias同命题合并为self_justification_bias；5.4 streamlining_critique两批同命题合并。共30→24条。
+- 本批其余11个来源（B0316、B0235、B0411、B0388、B0253、B0234、B0503、B0076、B0394、B0415、B0401）不受影响。

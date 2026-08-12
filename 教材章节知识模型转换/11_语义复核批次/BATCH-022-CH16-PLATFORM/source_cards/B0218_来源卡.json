@@ -1,0 +1,37 @@
+{
+  "source_id": "B0218",
+  "corpus": "book",
+  "folder_name": "John A. Lent：《Asian Comics》",
+  "material_type": "亚洲漫画史（区域比较研究）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John A. Lent：《Asian Comics》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 19, "report_characters": 125306}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.3", "grade": "B", "verification": "V2", "role": "asian_comics_regional_network"},
+    {"section_id": "16.7", "grade": "C", "verification": "V2", "role": "digital_revival_local_response"},
+    {"section_id": "11.2", "grade": "C", "verification": "V2", "role": "mass_image_consumption_cycles"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "John A. Lent，《Asian Comics》（2015，University Press of Mississippi），英语世界第一部对亚洲漫画（日本除外）进行全书篇幅研究的学术著作",
+    "覆盖东亚（中国、香港、韩国、台湾）、东南亚8国、南亚4国共16个国家/地区；'历史、产业、艺术'三维视角",
+    "核心论点：亚洲（日本除外）拥有各自独特的、丰富的、历史悠久的漫画传统，既不能被简化为'日本漫画的衍生品'，也不能被笼统归入'亚洲漫画'单一范畴——每个国家/地区的漫画历史是特定语言、文化、宗教、政治经济体系的独特产物",
+    "跨章主题1：'黄金时代→危机→复兴'周期叙事——1950-1970s黄金时代（中国连环画、菲律宾komiks、香港功夫漫画）；1980-1990s多重危机（电视普及、日漫冲击、盗版、审查）；1990s后期起数字化/国际化复兴",
+    "跨章主题2：'日本漫画冲击与本土化回应'辩证——冲击面：manga自1960s以盗版形式涌入东亚东南亚市场；回应面：中国5155工程国家主导模式、韩国'韩国化'运动、台湾1992版权法改革、香港本土功夫漫画反击、越南'越南神童'本土题材",
+    "跨章主题3：政治权力与创作自由博弈——文革连环画、新加坡报业清洗、韩国朴正熙审查、印尼'漫画是西方垃圾'、柬埔寨红色高棉时期漫画断裂",
+    "四种亚洲漫画发展模式：政治驱动型（中国/朝鲜/越南）、产业驱动型（香港/菲律宾/泰国）、个人企业家驱动型（印度Anant Pai、斯里兰卡Camillus Perera）、外来冲击响应型（台湾/韩国/越南）",
+    "方法：约60次亚洲实地考察、约400位受访者田野访谈（手写笔记、雪球抽样）、参与者观察、创办IJOCA/ARCACA/AYACC学术机构；'I seldom used the Internet'的低技术方法",
+    "关键数据：中国连环画1984年8亿册/年；印度Amar Chitra Katha 436种书名38种语言7900万+册；香港Jademan 1980s中期月总发行210万册15种书名",
+    "局限：日本缺席；女性漫画家覆盖不均衡；当代数字化漫画讨论相对薄弱；理论化程度较低",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：国别路径论证与'gap plugger'学术定位",
+    "导论：四种发展模式抽象",
+    "中国章：连环画巅峰8亿册/年与5155工程",
+    "香港章：Jademan月发行210万册",
+    "台湾章：1992年版权法改革"
+  ]
+}

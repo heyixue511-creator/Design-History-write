@@ -1,0 +1,20 @@
+{
+  "source_id": "B0129",
+  "corpus": "book",
+  "folder_name": "Donald A_ Schon：《The Reflective Practitioner，1983》",
+  "material_type": "专业实践认识论（VGRP013副条目）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Donald A_ Schon：《The Reflective Practitioner，1983》_clean.md",
+  "duplicate_group": "VGRP013：与B0128为同一著作《The Reflective Practitioner》（1983）不同转换；只计一个独立书目实体，B0128承担全部命题",
+  "files": [{"report_file_count": 20, "report_characters": 0}],
+  "report_structure": {"review_basis": "duplicate_of_B0128"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "VGRP013（2026-08-12建立）：B0129与B0128为同一著作不同转换（文件名Schon拼写差异）",
+    "B0128已完成语义复核（2条映射：16.1×2）；本条目复核结论完全复用B0128",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0128）标记",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

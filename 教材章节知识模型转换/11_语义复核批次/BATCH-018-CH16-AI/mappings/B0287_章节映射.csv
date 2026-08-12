@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0287,16.1,A,V2,expanded_definition_design,设计的扩展性定义：以Simon"人工物的科学"为起点，将设计理解为"对人工物的构思与规划"——从工业产品扩展至系统、服务、环境与信息空间——16.1设计对象,作者论文合集（2002）；定义为Margolin核心主张,Ch7、L1438-1444,ACCEPTED_AS_CORE_SOURCE
+B0287,16.1,B,V2,politics_of_artificial,"人工物的政治"：在设计可以触及一切人工物的时代，边界的划定成为政治性斗争——16.1设计责任扩展,作者理论（2002）；概念为Ch7哲学终点,Ch7、L7839-7843,ACCEPTED_AS_SUPPORTING_SOURCE
+B0287,16.6,B,V2,sustainability_model,扩张模型（expansion model）vs可持续模型（sustainability model）：设计师应从市场经济单一服务者转变为社会-生态问题的积极参与者——16.6隐形劳动与行星基础设施,作者批判（2002）；可持续模型为替代方案主张,Ch5、L5971-6010,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0198,16.5,A,V2,affordance_theory,可供性（affordance）是环境对动物的行动可能性：既是客观的（存在于环境中）又是关系性的（相对于特定动物的行动能力），'跨越主客二分'，不需被知觉才存在——交互设计'可供性'概念的理论源头（Norman《The Design of Everyday Things》借用之源）——16.5自动化界面与人的控制权的理论基座,作者理论（1979）；第8章为全书理论支柱,00_整体分析报告（Ch8）,ACCEPTED_AS_CORE_SOURCE
+B0198,14.2,B,V2,direct_perception_gui,知觉不是对感觉输入的心理加工而是对环境信息的直接拾取（direct pickup）；环境光阵列携带不变量信息，无需内部表征中介——直接操控与可见性交互范式的知觉理论基础——14.2图形用户界面与交互范式,作者理论（1979）；生态光学与信息拾取论证,00_整体分析报告（Ch4-5、Ch9-14）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0198,16.5,B,V2,perceptual_system_exploration,知觉系统是主动的信息探测系统：眼-头-身体系统在环境中移动产生光流（optic flow），运动自身揭示环境不变结构——'行动者-环境'耦合作为交互设计的知觉模型——16.5交互的能动性基础,作者理论（1979）；1966年感官系统理论延续,00_整体分析报告（Ch7、Ch12）,ACCEPTED_AS_SUPPORTING_SOURCE

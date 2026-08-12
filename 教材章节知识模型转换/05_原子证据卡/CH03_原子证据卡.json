@@ -1,0 +1,50 @@
+[
+  {
+    "evidence_id": "EV-0301",
+    "claim": "未来主义奠基宣言以'过去主义'批判与速度／机器／电力美学化定义20世纪初现代性自我意识（Apollonio汇编）",
+    "source_id": "B0027",
+    "source_location": "clean第245、255行；导论（编者史学定位）",
+    "source_class": "P0",
+    "verification_level": "V2",
+    "section_ids": ["3.1", "0.2"],
+    "textbook_function": "行动者文本（核心命题）",
+    "supports": ["现代性概念的典范行动者表述", "先锋派宣言作为行动"],
+    "does_not_support": ["宣言立场=实际政治（'通向法西斯'须标注史家判断）", "大众社会史中的现代性体验"],
+    "time_boundary": "1909（宣言发表）",
+    "geographic_boundary": "意大利（米兰）",
+    "counterevidence": ["B0346'未来主义通向法西斯'史家判断"],
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0302",
+    "claim": "构成主义本质是'与材料打交道、以社会政治变革为旨归的工作方法'而非几何抽象风格（Lodder）",
+    "source_id": "B0277",
+    "source_location": "B0277 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["3.4", "3.5"],
+    "textbook_function": "核心命题（史学框架）",
+    "supports": ["构成主义作为工作方法", "'有机构成主义'挑战机器美学等式"],
+    "does_not_support": ["'社会建构本质'论为洛德1983年论战命题，非史实描述"],
+    "time_boundary": "1917—1930s",
+    "geographic_boundary": "苏联",
+    "counterevidence": ["西方接受史将构成主义简化为几何风格"],
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0303",
+    "claim": "柏林达达命名photomontage并自居Monteur，苏联构成主义独立发展，'发明权五说'并置（Dickerman）",
+    "source_id": "B0121",
+    "source_location": "B0121 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["3.3"],
+    "textbook_function": "争议证据（发明权）",
+    "supports": ["蒙太奇起源争议的并置呈现", "战争物质文化的集体实践分析"],
+    "does_not_support": ["单方发明权的裁决", "明信片证据（无一幸存）"],
+    "time_boundary": "1915—1925",
+    "geographic_boundary": "柏林、苏黎世、苏联",
+    "counterevidence": ["Klutsis《动态城市》1919—20独立发展说"],
+    "status": "accepted"
+  }
+]

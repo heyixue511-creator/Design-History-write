@@ -1,0 +1,34 @@
+{
+  "source_id": "B0476",
+  "corpus": "book",
+  "folder_name": "夏燕靖：《中国艺术设计史(升级版)》，2017",
+  "material_type": "中国艺术设计通史（教材）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\夏燕靖：《中国艺术设计史(升级版)》，2017_clean.md",
+  "duplicate_group": "VGRP009-EDITION：与B0477（南京师大出版社2011第三版）为同一著作不同版次；B0476承担升级版内容（含新中国时期与1949—2000大事年表）",
+  "files": [{"report_file_count": 19, "report_characters": 2467}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "10.1", "grade": "C", "verification": "V2", "role": "design_function_bentong_history"},
+    {"section_id": "10.1", "grade": "C", "verification": "V2", "role": "chinese_design_continuity"},
+    {"section_id": "10.6", "grade": "C", "verification": "V2", "role": "appendix_timeline"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "夏燕靖（南京艺术学院教授），上海人民美术出版社2016年6月第1版（clean文件名标2017）；国家级精品课程配套教材，11章＋附录",
+    "核心论点：中国设计自古有之、连绵不断，具有'原发力和继发力'；艺术设计史侧重'设计与功能'，区别于侧重'工艺与欣赏'的工艺美术史（L10）",
+    "结构：前10章为古代设计史（原始社会—明清），Ch10近现代转型（L1552-1661），Ch11新中国时期（L1662-1740，仅78行——当代部分相对简略）",
+    "附录：历史年代对照表、工艺美术/艺术设计大事年表（1949—2000）、中国古典设计文献索引——第十章制度重组的工具性索引",
+    "方法：考古实证优先、文献互证、异议并陈；功能分析、技术归因、制度-设计互证",
+    "限度：近现代与当代部分相对简略；个别论断依赖二手转引；'设计'概念界定偏重器物功能",
+    "本书为中文通史教材（C级）：对10.1承担术语辨析与通史背景；新中国部分细节以专史为准",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L10：'艺术设计史侧重设计与功能，区别于侧重工艺与欣赏的工艺美术史'",
+    "L1612：中山装——近现代服饰设计",
+    "L1662-1740：新中国时期设计进步（Ch11，内容简略）",
+    "L1719：非物质文化遗产；L1722：工业设计/绿色设计/数字媒体设计",
+    "附录：1949—2000年工艺美术/艺术设计大事年表"
+  ]
+}

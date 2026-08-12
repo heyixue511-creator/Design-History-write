@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0041,16.1,A,V2,hcai_two_dimensional_framework,二维HCAI框架：人类控制水平与计算机自动化水平分离为独立维度——高水平控制与高自动化可并存（数码相机案例）——16.1核心理论,作者框架（2022）；框架可操作性待实证验证（作者自认限度）,Ch8分析报告,ACCEPTED_AS_CORE_SOURCE
+B0041,16.5,A,V2,design_metaphors_control,四对设计隐喻（智能代理vs超级工具、队友vs遥控机器人、可靠自主vs控制中心、社交机器人vs主动电器）——16.5人的控制权,作者隐喻框架（2022）；隐喻成效以产品案例为准,Ch11-17分析报告,ACCEPTED_AS_CORE_SOURCE
+B0041,16.5,A,V2,governance_structures,三层治理结构（技术保障/组织文化/可信认证）与四层嵌套模型（团队→组织→行业→政府）——弥合伦理原则与工程实践——16.5安全边界,治理框架（2022）；实施成效以监管实践为准,Ch18-23分析报告,ACCEPTED_AS_CORE_SOURCE
+B0041,16.1,B,V2,science_vs_innovation_goals,AI科学目标（理解并模拟人类智能）vs创新目标（开发实用产品与服务）：通过设计隐喻结合——16.1理论定位,作者区分（2022）；科学目标为AI研究传统,Ch11-12分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,3 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0385,16.3,A,V2,search_engine_visibility_politics,搜索引擎是可见性政治的关键场域：商业利益优先排序使'公共知识'系统偏向广告主与付费内容——搜索结果对弱势群体（非裔美国人）产生系统性负面表征——16.3可见性政治核心证据,作者研究（2018，Noble《Algorithms of Oppression》）；案例基于实证调查（Google搜索案例）,来源卡见BATCH-016（14.7×4）；本行仅补16.3跨章映射,ACCEPTED_AS_CORE_SOURCE
+B0385,16.3,A,V2,algorithmic_bias_structural,算法偏见是结构性而非技术偶然：搜索算法编码并放大既有社会等级（种族、性别）——'算法压迫'（algorithmic oppression）——16.3偏见结构分析,作者理论（2018）；算法压迫为核心概念,来源卡见BATCH-016（14.7 algorithmic_oppression同命题）,ACCEPTED_AS_CORE_SOURCE

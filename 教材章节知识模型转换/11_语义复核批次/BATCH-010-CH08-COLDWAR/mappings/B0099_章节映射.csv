@@ -1,0 +1,12 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0099,8.2,A,V2,kommunalka_public_privacy,苏联公共公寓（коммуналка）中的"公共隐私"：个人生活被强制暴露于集体监控之下，居民通过去人格化与象征性边界维护私人领域；1931年列宁格勒人均居住面积6.7平方米、1989年公共公寓居民仍占全市23.8%,基于1996—1999年圣彼得堡38次深度访谈与参与观察；个案样本有限，不可外推全苏联,第10章分析报告（Gerasimova）,ACCEPTED_AS_CORE_SOURCE
+B0099,8.2,A,V2,dacha_private_publicness,苏联dacha（乡间别墅）催生"私人公共性"：私人财产却形成独立于党—国机构的社群形态与互助网络；dacha激发私有财产冲动与"庄园主"意识，与集体主义理想背道而驰,档案+访谈证据充分；"背道而驰"为作者解释命题,第6章分析报告（Lovell）,ACCEPTED_AS_CORE_SOURCE
+B0099,8.2,A,V2,chata_privatized_citizenship,捷克chata文化培育"私人化的公民身份"：政权容忍甚至鼓励私人周末别墅以换取政治消极顺从（"拥有自己房子的人没有时间当共产党"）；同时chata建造催生对国家财产的系统性偷窃与时间盗用,个案分析（1970s正常化时期）；美国郊区类比为作者引证,第7章分析报告（Bren）,ACCEPTED_AS_CORE_SOURCE
+B0099,8.2,B,V2,warsaw_interiors_private_spaces,华沙公寓室内：斯大林时期"私人"被压抑，解冻时期通过《Ty i Ja》等杂志公开"为私人发声"；M2/M3标准公寓为社会主义标准化住宅个案,杂志文本与图像分析；与B0100共享华沙室内对象只计一份P0,第9章分析报告（Crowley）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0099,8.2,B,V2,shortage_economy_appropriation,短缺经济下的使用者改造：非法建筑材料、物品"二次生命"、DIY与家庭手工构成社会主义日常的灰色经济,多章个案证据；改造规模无全国统计,多章（Lovell、Gerasimova、Bren）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0099,8.1,A,V2,pioneer_palace_children_space,莫斯科先锋宫（1958—62）以"儿童共和国"理念取代斯大林式纪念碑性建筑；赫鲁晓夫1962年6月1日剪彩——社会主义公共系统与儿童空间的制度个案,建筑档案（PPA、RGALI）充分；"儿童共和国"理念成效无独立验证,第8章分析报告（Reid）,ACCEPTED_AS_CORE_SOURCE
+B0099,8.1,B,V2,everyday_ideological_tension,社会主义空间中意识形态铭刻与日常漠视的张力：国家战略（strategy）与民间战术（tactic）持续博弈，空间并非国家意志单向投射,导论理论框架；以Bulatov画作为例证,导论分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0099,8.3,B,V2,sevastopol_local_vs_central,塞瓦斯托波尔战后重建：地方海军势力以帝俄海军传统对抗莫斯科中央规划，"调和"优先于"鼓动"——社会主义现代主义内部的地方—中央张力,档案研究（RGAE、GAGS、GA RF）充分；个案不代表全苏,第2章分析报告（Qualls）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0099,8.3,B,V2,monument_politics_hungary,匈牙利斯大林时期纪念碑雕塑：雕像的竖立与拆除（1951—1956）构成历史叙事的物质性改写，公共空间成为政治争夺场,政治局会议记录与1956年口述史档案充分,第4章分析报告（Fowkes）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0099,8.3,C,V2,expo92_soviet_pavilion_satire,塞维利亚Expo92苏联馆竞赛：拉脱维亚建筑师以农民棺材形态嵌入苏联主题，评审两次宣布无效后方案仍胜出——帝国末期空间符号的颠覆,访谈与方案草图分析；个案讽刺性结局不可泛化,第11章分析报告（Svede）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0099,0.6,A,V2,totalitarianism_model_critique,对冷战"极权主义模型"的方法论解构：社会主义空间不是铁板一块的权力投射，日常史方法恢复被极权叙事抹去的行动者能动性——证据偏差方法论案例,史学方法论命题；适用于8.1—8.3的史料使用,导论分析报告,ACCEPTED_AS_CORE_SOURCE

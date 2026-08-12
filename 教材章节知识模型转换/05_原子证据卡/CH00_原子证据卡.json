@@ -1,0 +1,50 @@
+[
+  {
+    "evidence_id": "EV-0001",
+    "claim": "设计作为技术文化中的'新自由艺术'，四领域：符号与视觉传播、物质对象、活动与有组织服务、复杂系统或环境（Buchanan 1995）",
+    "source_id": "B0059",
+    "source_location": "packet 分析报告.md 4.2—4.4",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["0.1"],
+    "textbook_function": "核心命题（概念框架）",
+    "supports": ["'设计'作为学科对象的多领域界定", "设计史对象从物扩展到系统"],
+    "does_not_support": ["四领域为启发式分类，非学界共识", "设计定义的历史普遍性"],
+    "time_boundary": "1995年（命题提出时点）",
+    "geographic_boundary": null,
+    "counterevidence": ["Heskett'对象—过程—概念'三维框架（B0183）", "Attfield'小写设计'（B0240）"],
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0002",
+    "claim": "广告是'现代性的哈哈镜'：可证供给方意图与再现，不可证消费效果（Marchand方法命题）",
+    "source_id": "B0376",
+    "source_location": "B0376 packet 整体分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["0.5", "5.2"],
+    "textbook_function": "方法命题（证据边界）",
+    "supports": ["广告档案作供给与再现证据", "广告与现代性的关系研究"],
+    "does_not_support": ["由广告推出购买动机、使用结果或接受效果"],
+    "time_boundary": "1920—1940（Marchand研究时段）",
+    "geographic_boundary": "美国",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0003",
+    "claim": "史料非对称性：B0313作者自认中国/巴西材料薄弱，全球史叙述存在区域偏斜",
+    "source_id": "B0313",
+    "source_location": "B0313 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["0.6", "0.7"],
+    "textbook_function": "反例（缺席者命题）",
+    "supports": ["证据偏差与缺席者讨论", "全球史模型的不对称性"],
+    "does_not_support": ["中国/巴西史实的确定性结论"],
+    "time_boundary": null,
+    "geographic_boundary": "中国、巴西",
+    "counterevidence": null,
+    "status": "accepted"
+  }
+]

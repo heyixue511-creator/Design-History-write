@@ -1,0 +1,35 @@
+{
+  "source_id": "B0368",
+  "corpus": "book",
+  "folder_name": "Rick Poynor：《No More Rules Graphic Design and Postmodernism》",
+  "material_type": "平面设计与后现代主义（专书）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Rick Poynor：《No More Rules Graphic Design and Postmodernism》.md",
+  "duplicate_group": "与B0176（Graphic Design Theory文选）、B0306（Meggs）、B0364（Hollis）共享平面设计对象；同一作品/杂志档案只计一份P0",
+  "files": [{"report_file_count": 12, "report_characters": 3210}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.6", "grade": "A", "verification": "V2", "role": "punk_deconstruction_graphics"},
+    {"section_id": "11.6", "grade": "A", "verification": "V2", "role": "designer_as_author"},
+    {"section_id": "11.7", "grade": "B", "verification": "V2", "role": "postmodern_graphic_global"},
+    {"section_id": "11.2", "grade": "B", "verification": "V2", "role": "appropriation_pop"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "complicit_critique"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Poynor（英国设计批评家，Eye杂志创始人/主编1990—97），Laurence King 2003／Yale UP北美版；第一本系统论述平面设计与后现代主义关系的英文专书（1980—2000）",
+    "六主题：起源（新浪潮）、解构（朋克反设计、Cranbrook、垃圾风格）、挪用（唱片封套、复古、俗语）、技术（Mac时代、数码美学、Wired）、作者身份（设计师作为作者）、对抗（反方批判与对抗性设计）",
+    "核心论点：平面设计是后现代主义最典型却被忽视的媒介；1980—2000设计师对规则的公开挑战是平面设计史上最重大发展之一；'共谋性批判'张力（设计既被消费文化收编又试图成为批判工具）",
+    "材料：约175幅插图、设计师访谈（作者为Eye主编）、理论文献（Lyotard、Jameson、Barthes、Derrida、Baudrillard）、批评文献（Vignelli、Rand）、杂志档案（The Face、Emigre、Ray Gun、Wired）",
+    "限度：主题组织时间线模糊；西方中心视角；成书于2003未及数字媒介时代；亚洲视角缺失",
+    "本书为平面后现代主源：对11.6承担朋克/解构与作者身份（A级）、11.7承担全球传播（B级）、11.2承担挪用/波普（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch2（L403-677）：朋克反设计、解构理论、Cranbrook、垃圾风格",
+    "Ch5（L1474-1914）：'设计师作为作者'的兴起与争议",
+    "Ch3（L678-1176）：挪用——唱片封套、复古、俗语、容器挪用",
+    "Ch4（L1177-1473）：Mac时代、数码美学、Wired、瑞士新世代",
+    "Ch6（L1915-2322）：反方观点（Vignelli/Rand/Heller/Stiff/Kinross）与对抗性设计"
+  ]
+}

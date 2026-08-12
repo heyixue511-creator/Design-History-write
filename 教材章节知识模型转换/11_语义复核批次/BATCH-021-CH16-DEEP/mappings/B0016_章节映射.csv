@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0016,16.3,A,V2,rhetoric_of_neutrality,'中立性修辞'（Kinross）：信息设计对功能性与简洁性的追求本身就是一种修辞立场而非价值无涉的透明呈现——16.3可见性政治关键,文集章节作者（Kinross）；命题有论证与档案支撑,分析报告（L4233-4237）,ACCEPTED_AS_CORE_SOURCE
+B0016,16.3,B,V2,transformer_isotype,Isotype'转换者'（Transformer）概念：将专业数据转化为公众可理解的视觉陈述；转换者是'公众的受托人'——16.3信息呈现责任,历史档案（Neurath/Isotype）；概念有史料支撑,分析报告（L2454-2456）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0016,16.3,C,V2,graphic_literacy,图形素养（Waller）：理解和运用图形手段进行有效沟通的能力，是功能性读写能力的基础——16.3信息素养,文集章节作者（Waller）；概念为理论主张,分析报告（L3934）,ACCEPTED_AS_SUPPORTING_SOURCE

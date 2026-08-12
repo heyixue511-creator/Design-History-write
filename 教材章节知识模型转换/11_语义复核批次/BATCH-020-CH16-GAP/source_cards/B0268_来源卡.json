@@ -1,0 +1,36 @@
+{
+  "source_id": "B0268",
+  "corpus": "book",
+  "folder_name": "Lars Hallnäs Johan Redström：《Slow Technology – Designing for Refle》",
+  "material_type": "交互设计哲学宣言（慢技术）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Lars Hallnäs Johan Redström：《Slow Technology – Designing for Refle》.md",
+  "duplicate_group": "与B0413（Winograd/Flores）、B0280（Löwgren）共享交互设计哲学对象；本文为'慢技术'主源",
+  "files": [{"report_file_count": 14, "report_characters": 2765}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "slow_technology"},
+    {"section_id": "16.5", "grade": "C", "verification": "V2", "role": "time_presence_dwelling"},
+    {"section_id": "16.6", "grade": "C", "verification": "V2", "role": "aesthetics_functionality"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Hallnäs（哥德堡大学）/Redström（瑞典交互研究所），发表于Personal and Ubiquitous Computing（2001）——'慢技术'（Slow Technology）设计哲学开创性宣言",
+    "范式转换命题：计算机从工具转变为持续在场的环境要素时，交互设计必须从'使用时刻'转向'居住时间'（dwelling）",
+    "慢技术定义：在学习、理解与在场中具有各种程度'慢'性的技术——'时间在场'（time presence）的隐喻性区分",
+    "反思导向：设计目标是使用户获得时间而非节省时间——技术应'时间生产性'（time productive）而非'时间消耗性'",
+    "美学优先：功能性的美学（aesthetics of functionality）居于焦点——形式带来功能（form brings forth function）",
+    "三大设计主题：反思性技术（reflective technology）、时间技术（time technology）、放大环境（amplified environments）",
+    "明确以Weiser宁静技术（calm technology）为对话对象：慢技术不将技术隐入背景，而是暴露于前邀请反思",
+    "限度：评估方法论停留在纲领层面；案例规模小、缺乏长期部署实证数据",
+    "本文为交互设计哲学（B级）：对16.5承担慢技术与反思设计",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "§2：慢技术设计哲学系统阐述",
+    "§1：范式转换命题——从使用时刻转向居住时间",
+    "§6：形式与功能——形式带来功能",
+    "§3：三大设计主题（反思性/时间/放大环境）",
+    "§4-5：Soniture与Informative Art案例"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "B0001",
+  "corpus": "book",
+  "folder_name": "1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo",
+  "material_type": "学术论文（百货商店与现代消费文化）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo.md",
+  "duplicate_group": "与B0367（Richards）、B0305（消费革命）、B0006（Liberty）共享百货商店/消费文化对象时对象级去重；本书为法美百货商店主源",
+  "files": [{"report_file_count": 17, "report_characters": 14696}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.1", "grade": "B", "verification": "V2", "role": "department_store_shaping_consumer"},
+    {"section_id": "9.3", "grade": "B", "verification": "V2", "role": "feminization_of_shopping"},
+    {"section_id": "2.4", "grade": "C", "verification": "V2", "role": "department_store_innovation"},
+    {"section_id": "9.1", "grade": "C", "verification": "V2", "role": "false_democratization_luxury"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Laermans（鲁汶天主教大学社会学教授），约1993年学术论文；1860—1914年法美（巴黎/纽约/芝加哥）百货商店研究",
+    "三个核心命题：百货商店将'购买'转变为'购物'（中产阶级女性休闲与公共空间）；广告与陈列构建'眼睛的技术官僚体制'（豪格）将廉价商品转化为'壮观的商品符号'；与都市化和中产阶级身份焦虑存在结构性亲和",
+    "反神话批判：质疑'布西科神话'（A.T. Stewart 1846年大理石宫殿才是第一座零售专建建筑）与'百货商店革命神话'（固定价格、橱窗、退换货18世纪末伦敦已制度化，百货商店的贡献在'综合'）",
+    "关键概念：商品符号/符号商品、感官的技术官僚体制、奢侈的虚假民主化（达夫内尔）、眼睛的自觉意识（桑内特）、购物的'女性化'、'外观的统治'",
+    "材料：商业史专著（Miller 1981好商佳）、左拉《妇女乐园》作为一手史料、报刊社论、人口统计、社会理论（布尔迪厄、鲍德里亚、豪格、本雅明、桑内特）",
+    "方法：历史社会学（概念驱动的历史阐释＋反神话批判史观＋多维因果解释）",
+    "本书为法美百货商店主源：对9.1承担消费文化形成（B级）、9.3承担性别化消费（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L57-58：'购物成为一种新的资产阶级休闲活动——一种愉快地消磨时间的方式，如同看戏或参观博物馆'",
+    "L64-65：百货商店创造'女性公共领域'——购物成为'现代城市中女性解放最为可见的标志'",
+    "L96-97：'眼睛的技术官僚体制'——权力通过技术制造的美学外观的着迷而运作",
+    "L101：奢侈的虚假民主化——顾客购买'财富与富足的虚幻符号'",
+    "L117：女性超能力消费引发婚姻诉讼浪潮",
+    "L148：'外观的统治'——两个世界（商品展示与都市展示）的同构"
+  ]
+}

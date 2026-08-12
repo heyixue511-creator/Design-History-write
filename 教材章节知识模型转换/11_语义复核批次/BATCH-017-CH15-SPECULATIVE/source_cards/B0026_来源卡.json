@@ -1,0 +1,20 @@
+{
+  "source_id": "B0026",
+  "corpus": "book",
+  "folder_name": "Anthony Dunne：《Speculative Everything Design, Fiction, and Social Drea",
+  "material_type": "思辨设计奠基宣言（VGRP011副条目）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Anthony Dunne：《Speculative Everything Design, Fiction, and Social Dreaming》.md",
+  "duplicate_group": "VGRP011：与B0024为同一著作《Speculative Everything》（Dunne & Raby 2013）不同数字化转换；只计一个独立书目实体，B0024承担全部命题",
+  "files": [{"report_file_count": 16, "report_characters": 0}],
+  "report_structure": {"review_basis": "duplicate_of_B0024"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "VGRP011（2026-08-12建立）：B0026与B0024为同一著作《Speculative Everything: Design, Fiction, and Social Dreaming》（2013）不同转换资产（B0026作者项漏署Raby）",
+    "B0024已完成语义复核（5条映射：15.2×2、15.1、15.3、15.7）；本条目复核结论完全复用B0024",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0024）标记，防止双重计证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

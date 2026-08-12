@@ -1,0 +1,35 @@
+{
+  "source_id": "B0176",
+  "corpus": "book",
+  "folder_name": "Graphic Design Theory： Readings from the Field (Design -- Armstrong, Helen(Autho",
+  "material_type": "平面设计理论文选（1909—2008）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Graphic Design Theory： Readings from the Field (Design -- Armstrong, Helen(Autho.md",
+  "duplicate_group": "与B0368（Poynor）、B0214（Drucker平面设计史）共享平面设计理论对象；重复收录文本（Venturi、宣言）只计一份P0",
+  "files": [{"report_file_count": 12, "report_characters": 11654}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.6", "grade": "B", "verification": "V2", "role": "designer_as_author_debate"},
+    {"section_id": "11.2", "grade": "B", "verification": "V2", "role": "new_wave_appropriation"},
+    {"section_id": "11.1", "grade": "C", "verification": "V2", "role": "authorship_universality_responsibility"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "theory_anthology"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Armstrong主编（Ellen Lupton 'Design Briefs'系列），Princeton Architectural Press 2009；设计理论原始文献汇编，24篇（1909 Marinetti—2008 Heller/Manovich）",
+    "三大核心议题：作者身份（Authorship）、普遍性（Universality）、社会责任（Social Responsibility）——跨时代对话",
+    "三部分：创造领域（前卫）、承继发展（瑞士风格）、测绘未来（后现代/数字）；每篇文献前附编者导读，'Theory at Work'板块图文互证",
+    "关键文本：Warde'水晶杯'隐喻、Tschichold新排版、Gerstner形态学盒子、Müller-Brockmann网格、Rock'设计师即作者'论争、Manovich'元媒体'、Hara'计算机非工具而是材料'",
+    "从业者原则：所有作者均为视觉实践者（排除外部理论家）",
+    "限度：西方中心视角；女性作者约6/24；'后后现代'定位模糊；技术决定论倾向",
+    "本书为设计理论文选：对11.6承担'设计师即作者'论争（B级）、11.2承担新浪潮/挪用（B级）、0.1承担理论资源（C级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Rock（1996）：'What does it really mean to call for a graphic designer to be an author?'——'作者即权威'",
+    "Warde（1930）：'水晶杯'隐喻——排版应如透明玻璃杯",
+    "Weingart：新浪潮（New Wave）打破瑞士正统",
+    "Manovich：'导入/导出'命令比任何单个操作更具历史重要性——软件工作流重塑美学",
+    "Hara：'计算机非工具而是材料'——技术应缓慢成熟"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "B0315",
+  "corpus": "book",
+  "folder_name": "Miller, Daniel：Material Culture and Mass Consumption, 1987",
+  "material_type": "物质文化理论（消费人类学）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Miller, Daniel：Material Culture and Mass Consumption, 1987.md",
+  "duplicate_group": "与B0240（Attfield日常物）、B0142（Shove实践理论）共享日常物理论对象；本书为客体化/再语境化理论主源",
+  "files": [{"report_file_count": 16, "report_characters": 14832}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.1", "grade": "A", "verification": "V2", "role": "consumption_as_recontextualization"},
+    {"section_id": "9.1", "grade": "B", "verification": "V2", "role": "objectification_theory"},
+    {"section_id": "9.7", "grade": "B", "verification": "V2", "role": "consumption_active_process"},
+    {"section_id": "0.3", "grade": "B", "verification": "V2", "role": "material_culture_method"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Miller（UCL），Basil Blackwell 1987，Social Archaeology丛书（Hodder主编）；十章三部分：客体化、物质文化、大众消费",
+    "核心命题：消费即'再语境化'（recontextualization）——将异化商品转化为不可让渡之文化；'消费作为劳动'（consumption as work）",
+    "理论基础：黑格尔'客体化'概念（从马克思主义'异化即断裂'中解救）；马克思、穆恩、齐美尔的转化运用",
+    "方法：哲学文本分析（'暴力性'重读）＋人类学民族志（Walbiri、Kula圈）＋心理学发展理论（Piaget、Klein）＋历史社会学＋当代文化分析",
+    "案例：伦敦住宅风格、儿童糖果（Kets）、意大利摩托车（Mods亚文化再语境化）、现代主义公屋（物质意识形态）、莫里斯工艺美术悖论",
+    "贡献：物质文化研究奠基（UCL研究中心）；将消费从'生产附庸'提升为核心对象；为被污名化的大众消费辩护",
+    "限度：对黑格尔抽象提取过度简化；民族志材料零散；对消费积极潜能论证流于理想化",
+    "本书为消费理论主源：对9.1承担再语境化理论（A级）、9.7承担消费者能动性（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L1：'客体化'——主体通过外化和扬弃实现自我发展",
+    "消费即'再语境化'——将异化商品转化为不可让渡之文化",
+    "儿童糖果'Kets'：被支配群体（儿童）通过物质消费建构自主文化",
+    "意大利摩托车：Mods亚文化在消费端重新语境化（Hebdige分析）",
+    "莫里斯工艺美术悖论：恢复手工艺反而加剧阶级分化（精英品味标志）"
+  ]
+}

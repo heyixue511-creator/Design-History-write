@@ -1,0 +1,37 @@
+{
+  "source_id": "P0045",
+  "corpus": "paper",
+  "folder_name": "Madina Tlostanova, Redi Koobak：《Border thinking and disidentification Postcolonial and postsocialist feminist dialogues》",
+  "material_type": "去殖民女性主义理论论文（边界思考/去认同）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Madina Tlostanova, Redi Koobak：《Border thinking and disidentification Postcolonial and postsocialist feminist dialogues》_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 4481}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.6", "grade": "B", "verification": "V2", "role": "border_thinking_knowledge_coloniality"},
+    {"section_id": "15.7", "grade": "C", "verification": "V2", "role": "opacity_pluriversality"},
+    {"section_id": "15.6", "grade": "C", "verification": "V2", "role": "disidentification_practice"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Madina Tlostanova（林雪平大学）、Redi Koobak（林雪平大学）、Suruchi Thapar-Björkert（乌普萨拉大学），《Border Thinking and Disidentification: Postcolonial and Postsocialist Feminist Dialogues》，Feminist Theory（SAGE，2016）",
+    "背景：西方女性主义理论模型持续支配，非西方与'不够西方'的他者被'认识论消灭或挪用'（L13）",
+    "双工具组合：①'边界思考'（border thinking，认识论层，源于Dussel'外部性'、Anzaldúa'边界地带'、Mignolo'我在何处思'）；②'去认同'（disidentification，实践层，源于Muñoz'与主导意识形态共事又对抗'的第三种模式）",
+    "知识殖民性（coloniality of knowledge）、知识的地缘/身体政治（geo/body-politics of knowledge）、认识论脱钩（epistemic delinking）——解构南北对话垄断",
+    "案例：Yerevan Queering Collective'斜向行动主义'（slant activism）、Anna-Stina Treumund摄影艺术、新德里轮奸案三层去认同分析（种姓政治/施暴者话语/媒体-国族话语）",
+    "批判对象：'承认政治'、发展叙事（'catching up with the West'）、领域想象（field imaginary）、'反向东方主义'、国际'他者化救援'（哈佛工作组、德国教授拒信事件）",
+    "伦理收束：'不透明权'（right to opacity，Glissant）与'多元宇宙性'（pluriversality，Ortiz跨文化化transculturation）——主张水平横向的、不同但平等的跨国对话",
+    "自反洞见：'支配者也使用去认同'——超越该概念的单纯解放叙事",
+    "方法：对话体/协作实践、传记-认识论论证（三位作者：俄罗斯-高加索/爱沙尼亚/印度-英国位置）、概念谱系学、案例-概念互证",
+    "限度：核心概念依赖权威引文定义、作者自身概念化有限；案例分布不平衡；'后殖民/后社会主义'更多并置而非系统比较；发表平台与所批判的北方知识流通体制间存在未言明张力",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L43-55：边界思考与知识殖民性",
+    "L61-67：斜向行动主义",
+    "L73-91：去认同与德里案三层分析",
+    "L99-101：不透明权与多元宇宙性",
+    "L93：'支配者也使用去认同'自反洞见"
+  ]
+}

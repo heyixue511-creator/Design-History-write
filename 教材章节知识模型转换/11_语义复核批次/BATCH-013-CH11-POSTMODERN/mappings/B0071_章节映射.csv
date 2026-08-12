@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0071,11.4,A,V2,death_of_modern_architecture,现代建筑之死（1972年7月15日Pruitt-Igoe爆破）：现代建筑的根本失败是"交流的失败"——建筑师精英代码与公众传统代码的符码冲突；单一价形式/单一价内容两大弊病,行动者理论文本（1977）；Pruitt-Igoe爆破事件可证，"死亡"论断为宣言式修辞,Part One分析报告,ACCEPTED_AS_CORE_SOURCE
+B0071,11.4,A,V2,multivalent_architecture,多价建筑（multivalent architecture）与激进折衷主义：高迪巴特洛公寓为最高典范（隐喻网络＋加泰罗尼亚政治叙事）——后现代建筑的出路,作者理论主张（1977）；巴特洛公寓分析为形式-政治解读,Part Three分析报告,ACCEPTED_AS_CORE_SOURCE
+B0071,11.1,B,V2,modernism_crisis_conditions,现代主义危机的社会条件：现代建筑为跨国资本、国际博览会与消费殿堂建造（单一价内容）；居民对佩萨克住宅的系统性"误解"——城市更新与大众使用,行动者批判（1977）；社会条件的具体档案以专史为准,Part One分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0071,0.2,B,V2,postmodern_term_history,"后现代"术语的权宜性、模糊性与多元含义（作者自述）；仅讨论盎格鲁-欧洲和日本语境——术语史与方法边界,作者自限（1977）；术语的全球传播另见B0238,序言分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

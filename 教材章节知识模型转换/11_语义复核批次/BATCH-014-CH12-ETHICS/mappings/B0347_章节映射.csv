@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0347,12.4,B,V2,scandinavian_pd_tradition,参与式设计从斯堪的纳维亚（UTOPIA项目）向商业产品开发转移的历史：转移中丢失长期投入/同理心与社会政治议题——12.4北欧传统,会议论文（2002）；UTOPIA项目细节以Ehn/Kyng原始文献为准,Ch3分析报告（L43-49）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0347,12.4,B,V2,persona_infrastructure,persona作为"参与的基础设施"：商业产品开发中参与式设计的结构性/规模性障碍与persona方案（须由数据奠基、随数据演化）——参与式设计的规模转化,微软单一组织经验（作者自认限度）；'定型与反定型'困境未解决,Ch7-9分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0347,12.7,C,V2,sociopolitical_awareness,persona的"身份属性"迫使团队显式决定"为谁设计"——社会政治维度回归设计方法,作者论证（2002）；'为谁设计'的决策权问题为设计方法论命题,Ch12分析报告（L198-206）,ACCEPTED_AS_SUPPORTING_SOURCE

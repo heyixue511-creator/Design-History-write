@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0125,16.5,A,V2,common_ground_machine,人机"共同基础"（Common Ground）缺失：机器只能对传感器可探测的有限参数反应，无法理解人类意图、语境与微妙动机——16.5核心,作者理论（2007）；共同基础缺失的判断为认知科学框架,Ch2分析报告,ACCEPTED_AS_CORE_SOURCE
+B0125,16.5,A,V2,natural_interaction_automation,自然交互（隐性沟通、可供性、松/紧缰绳控制）与"出圈"（out of the loop）问题：系统在容易时接管、困难时突然交还——16.5自动化界面,设计规则（2007）；出圈问题以驾驶模拟器研究为证,Ch3-4分析报告,ACCEPTED_AS_CORE_SOURCE
+B0125,16.1,B,V2,enhanced_intelligence,"自主智能"vs"增强智能"：力主增强智能——技术应是可选的、合作的、透明的——16.1设计对象定位,作者立场（2007）；增强智能成效以产品为准,Ch5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

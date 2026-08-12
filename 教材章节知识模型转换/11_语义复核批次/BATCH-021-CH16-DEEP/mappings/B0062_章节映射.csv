@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0062,16.3,B,V2,visualization_ethics,信息图形学以认知科学为锚、以设计伦理为舵——'图应为谁、为何、如何存在'——16.3信息图形伦理,作者理论（2013）；新闻实践为经验基础,分析报告（Ch.1-2）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0062,16.3,C,V2,graphic_redesign_cases,再设计案例方法：同一份数据完成'呈现→比较→排序→关联'（Folha国防预算图）——16.3呈现实践,实战案例（2013）；案例有完整描述,分析报告（Ch.2）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0062,16.3,C,V2,neurath_legacy,Isotype与Neurath传统是Tufte功能主义与Holmes人文主义的桥梁——16.3信息设计谱系,作者论述（2013）；Isotype档案（雷丁大学）为史料,分析报告（Ch.3）,ACCEPTED_AS_SUPPORTING_SOURCE

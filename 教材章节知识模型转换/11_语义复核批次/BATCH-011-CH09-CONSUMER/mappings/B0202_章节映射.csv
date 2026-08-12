@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0202,9.1,A,V2,sign_code_consumption_theory,消费是符号的差异化生产与交换而非需求满足：物品作为社会地位能指在差异化符码中运作；需求是系统生产出来的——消费社会理论原典,理论框架（1970）；结构分析缺乏历史细节；对消费者能动性扁平化（作者自认限度）,整体分析报告（Ch4-6）,ACCEPTED_AS_CORE_SOURCE
+B0202,9.1,B,V2,structural_penury_growth,结构匮乏：增长并不导向平等，而是再生产结构性匮乏与特权；批判加尔布雷思"真实需求/虚假需求"二分,作者论证（1970）；与Packard实证批判互补,整体分析报告（Ch1-3）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0202,9.2,C,V2,consumption_as_social_control,消费逻辑向一切领域扩张：大众媒介、身体、休闲、关怀均被消费逻辑殖民——消费作为社会控制机制,理论命题；经验证据薄弱（作者自认）,整体分析报告（Ch7-11）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0202,0.2,B,V2,consumer_society_theory,消费社会理论（1970）：消费从私人享乐领域重新界定为社会控制与意识形态整合场域——现代性批判的理论资源,理论框架；"异化终结"判断为哲学命题,整体分析报告（结论）,ACCEPTED_AS_SUPPORTING_SOURCE

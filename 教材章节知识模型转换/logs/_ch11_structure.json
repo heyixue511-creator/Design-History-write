@@ -1,0 +1,668 @@
+{
+ "11.1": {
+  "grades": {
+   "B": 10,
+   "C": 7,
+   "A": 2
+  },
+  "count": 19,
+  "items": [
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "A",
+    "verification": "V2",
+    "role": "postmodern_condition_and_critique_of_modernism",
+    "accepted_claim": "1988 年论文集以编者导言系统引入后现代状况（历史感丧失、交流狂喜）并批判现代主义被非历史化误置，确立『设计超越物体』纲领",
+    "evidence_boundary": "编者导言为编辑框架，17 章各自独立署名，非全书统一结论",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_turn_from_object_to_process",
+    "accepted_claim": "设计对象从物体转向系统、软件、过程与体验（第三产业化、软件设计、过程思维）——全书核心涌现命题",
+    "evidence_boundary": "命题由 Ch01+Ch16+Ch17 跨章合成（P4 命题 A），单独章节只表达侧面",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0071",
+    "title": "Charles Jencks：《The Language of Post-Modern Architecture》，1977",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernism_crisis_conditions",
+    "accepted_claim": "现代主义危机的社会条件：现代建筑为跨国资本、国际博览会与消费殿堂建造（单一价内容）；居民对佩萨克住宅的系统性\"误解\"——城市更新与大众使用",
+    "evidence_boundary": "行动者批判（1977）；社会条件的具体档案以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0080",
+    "title": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+    "grade": "B",
+    "verification": "V2",
+    "role": "consumer_society_youth_media_and_fashion",
+    "accepted_claim": "大众消费、青年身份与媒体扩张为后现代设计危机提供时尚领域语境",
+    "evidence_boundary": "服装史不能单独解释城市更新、反设计或政治运动",
+    "status": "ACCEPTED_AS_SOCIAL_CONTEXT"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "postmodern_crisis_social_conditions",
+    "accepted_claim": "消费社会、青年反叛、媒体扩张与郊区化共同构成现代主义危机的社会条件，时尚在其中既是症状也是批判媒介",
+    "evidence_boundary": "后现代讨论集中于Ch12且以时尚维度为主",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0372",
+    "title": "Robert Venturi, Denise Scott Brown, Steven Izenour：《Learning from Las Vegas The Forgotten Symbolism of Architectural Form》，1972",
+    "grade": "B",
+    "verification": "V2",
+    "role": "learning_from_existing_landscape",
+    "accepted_claim": "学习现存景观（含商业乡土）是建筑师的革命方式：建筑是\"空间中的象征\"而非\"空间中的形式\"——大众文化与商业符号进入建筑理论",
+    "evidence_boundary": "方法论宣言（1968耶鲁工作室）；'非判断'声称与实际立场有张力（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0373",
+    "title": "Robert Venturi：《Complexity and Contradiction in Architecture》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "main_street_justification",
+    "accepted_claim": "为日常景观（Main Street）与常规元素正名：大众文化进入建筑理论——现代主义危机的理论回应",
+    "evidence_boundary": "作者立场（1966）；日常景观的社会条件另见专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "postmodernism_of_resistance_stance",
+    "accepted_claim": "编者采纳 Foster『抵抗的后现代主义』作为本书立场——对官方现代主义与文化 laisser faire 的批判实践",
+    "evidence_boundary": "1988 年时点编辑立场，为转引 Foster 理论并加以应用",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "critical_regionalism",
+    "accepted_claim": "Frampton 提出批判的地域主义：在霸权力量边缘以触觉、场所与建构抵抗全球资本——后现代建筑抵抗理论",
+    "evidence_boundary": "Frampton 独立署名章节，1988 年时点该理论系统论述文本之一",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "decoration_and_natural_aesthetics_after_modernism",
+    "accepted_claim": "Fuller 反佩夫斯纳正典：为装饰辩护，『形式追随功能』是价值衍生物，分形与 biophilia 作为后现代美学来源",
+    "evidence_boundary": "Fuller 独立命题，与 Berman 复兴现代主义立场相左（文集张力，不视为共识）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "consumer_object_semiotics_model_series",
+    "accepted_claim": "Baudrillard 模型/系列与边缘差异：消费社会个性化的意识形态批判，后现代消费文化分析",
+    "evidence_boundary": "1968 年《物体系》英译节选（英译者 Penny Sparke），非 1988 年原创文本",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "postmodern_design_and_weak_critique",
+    "accepted_claim": "“后设计”指后现代主义设计的小众化标新立异；现代主义功过须分说；后现代主义是一种“软弱的批判”；文丘里、詹克斯的引介",
+    "evidence_boundary": "V章L119-L148（理论命题，与个案史料分层）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0075",
+    "title": "Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_vs_styling",
+    "accepted_claim": "设计vs造型（styling）区分与多元辩论框架（功能主义vs反理性主义、简约vs装饰）——现代主义危机的话语背景",
+    "evidence_boundary": "作者框架（1999）；'设计'定义的论争以B0240等为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0176",
+    "title": "Graphic Design Theory： Readings from the Field (Design -- Armstrong, Helen(Autho",
+    "grade": "C",
+    "verification": "V2",
+    "role": "authorship_universality_responsibility",
+    "accepted_claim": "三大核心议题（作者身份、普遍性、社会责任）的跨历史延续：从瑞士系统化到后现代反叛再到数字重构——现代主义危机的理论框架",
+    "evidence_boundary": "编者框架（2009）；议题延续为跨时代对话命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0368",
+    "title": "Rick Poynor：《No More Rules Graphic Design and Postmodernism》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "complicit_critique",
+    "accepted_claim": "共谋性批判张力：设计既被消费文化收编又试图成为批判工具——现代主义危机后专业处境的表述",
+    "evidence_boundary": "作者判断（2003）；收编与抵抗的量化证据缺",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0372",
+    "title": "Robert Venturi, Denise Scott Brown, Steven Izenour：《Learning from Las Vegas The Forgotten Symbolism of Architectural Form》，1972",
+    "grade": "C",
+    "verification": "V2",
+    "role": "urban_sprawl_vs_megastructure",
+    "accepted_claim": "城市蔓延vs巨型结构：过程之城优于即时之城；反对总体设计与设计评审（\"Total design comes to mean total control\"）——城市更新批判",
+    "evidence_boundary": "作者立场（1972）；城市更新社会条件另见专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0411",
+    "title": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "product_semantics_theory_resources",
+    "accepted_claim": "产品语义学与功能主义之争的理论综述：皮尔士—莫里斯—本泽→格罗斯、布尔德克→克里彭多夫谱系（L1514），隐喻设计与“形式追随情感”（L1657）——后现代意义转向的理论背景材料",
+    "evidence_boundary": "教学综述性质，非原创理论；教材引用须回溯至克里彭多夫等原始文献",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "C",
+    "verification": "V2",
+    "role": "british_postmodern_design_culture_observation",
+    "accepted_claim": "York 反设计/文化出口（软件理论、朋克视频风格）与 Coates 街头叙事建筑——1980s 英国后现代设计文化一手观察",
+    "evidence_boundary": "论辩与随笔色彩浓、时效性强，属文化批评而非系统理论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "C",
+    "verification": "V2",
+    "role": "softecnica_and_process_thinking",
+    "accepted_claim": "Jones 软技术（Softecnica）与过程思维：从产品思维转向情境、协作与持续设计——后现代设计方法论收束",
+    "evidence_boundary": "Jones 独立随笔体命题，为全书正文最后一章，呼应编者导言",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "11.2": {
+  "grades": {
+   "B": 5,
+   "C": 5
+  },
+  "count": 10,
+  "items": [
+   {
+    "source_id": "B0176",
+    "title": "Graphic Design Theory： Readings from the Field (Design -- Armstrong, Helen(Autho",
+    "grade": "B",
+    "verification": "V2",
+    "role": "new_wave_appropriation",
+    "accepted_claim": "新浪潮（Weingart）与后现代解构/挪用：设计师作为表达者浮现——高低文化边界的平面实践",
+    "evidence_boundary": "理论文选（2009）；新浪潮个案以B0368等专书为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0178",
+    "title": "Greiman：《Hybrid imagery the fusion of technology and graphic design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "yes_and_philosophy",
+    "accepted_claim": "是，而且（yes",
+    "evidence_boundary": " and）非\"非此即彼\"；\"错误\"作为创造性契机；\"没有原作\"的复制哲学——高低文化边界消解的设计哲学",
+    "status": "整体分析报告（导论）"
+   },
+   {
+    "source_id": "B0238",
+    "title": "Judith Gura：《Postmodern Design Complete》，2017",
+    "grade": "B",
+    "verification": "V2",
+    "role": "pop_consumer_images",
+    "accepted_claim": "波普与日常商品：后现代设计的高低文化边界消解与消费图像——Pop Art进入设计语言的谱系",
+    "evidence_boundary": "综述表述；波普个案（Hamilton等）以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0368",
+    "title": "Rick Poynor：《No More Rules Graphic Design and Postmodernism》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "appropriation_pop",
+    "accepted_claim": "挪用（Ch3）：唱片封套、复古与俗语设计——高低文化边界与消费图像的重新配置",
+    "evidence_boundary": "案例细读充分；'挪用'术语的理论谱系另见B0176",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_critique_modernism",
+    "accepted_claim": "现代设计危机：机身壳悖论否认功能主义（L1201）；Banham抛弃美学（L1206）；独立小组与流行文化转向（L1210）；Barthes符号学（L1217）；Pop运动打破形式-功能合一（L1230）；合适的（appropriate）设计取代好设计（L1246）",
+    "evidence_boundary": "Ch9.1二手综合（引Banham、Boorstin、Barthes）；判断为作者命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0218",
+    "title": "John A. Lent：《Asian Comics》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "mass_image_consumption_cycles",
+    "accepted_claim": "亚洲漫画呈现'黄金时代→危机→复兴'周期：1950-1970s大众消费巅峰（中国连环画1984年8亿册/年），1980-1990s电视普及、日漫盗版冲击、审查制度导致多重危机——漫画作为大众消费图像的生命周期——11.2高低文化边界与消费图像",
+    "evidence_boundary": "作者学术通史（2015）；行业口径数字",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0306",
+    "title": "Meggs, Philip B.; Purvis, Alston W.：Meggs' History of Graphic Design, 2016",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postmodern_graphic_textbook",
+    "accepted_claim": "教材中的现代主义到后现代转向（国际主义vs多元主义）——平面设计史的学科叙事",
+    "evidence_boundary": "教材表述；后现代个案以专书（B0368等）为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0364",
+    "title": "Richard Hollis：《Graphic Design A Concise History》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "graphic_design_definition_three_functions",
+    "accepted_claim": "平面设计定义（\"制造或选择记号并安排在表面以传达观念\"）与三大功能（识别/信息/促销）——术语与功能框架",
+    "evidence_boundary": "作者定义（2002）；与B0501/B0214定义论并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0390",
+    "title": "Scott McCloud：《Understanding Comics The Invisible Art》，1993",
+    "grade": "C",
+    "verification": "V2",
+    "role": "comics_low_culture_legitimacy",
+    "accepted_claim": "漫画在美国文化中长期被低估，其'低自尊是自我循环的'；序列图像实为全球性古老沟通方式——为漫画与'图像小说'的正当性提供理论支撑——11.2高低文化边界与消费图像",
+    "evidence_boundary": "作者理论（1993）；书评与出版史证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0451",
+    "title": "Wendy Siuyi Wong：《Hong Kong comics. A history of manhua》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "mass_image_consumption",
+    "accepted_claim": "香港漫画作为大众消费图像：二战后从被视为工人阶级与儿童的'低俗娱乐'成长为赚钱产业——租书摊、一分钱报纸（penny papers）、糖果书（candy books）等廉价流通形态——11.2高低文化边界与消费图像",
+    "evidence_boundary": "作者通史（2002）；行业口径数字",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "11.3": {
+  "grades": {
+   "C": 1,
+   "A": 1
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0238",
+    "title": "Judith Gura：《Postmodern Design Complete》，2017",
+    "grade": "A",
+    "verification": "V2",
+    "role": "italian_radical_design",
+    "accepted_claim": "意大利激进路线（Studio Alchimia 1979—92、Archizoom、Superstudio、Global Tools）vs 美国历史主义路线（Venturi）：反设计的两大策源地分野",
+    "evidence_boundary": "地域分野为编者框架（2017）；意大利个案细节另见B0346",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0337",
+    "title": "Paul Greenhalgh (ed.)：《Modernism in Design》，1990",
+    "grade": "C",
+    "verification": "V2",
+    "role": "italy_idealism_to_consumerism_transition",
+    "accepted_claim": "意大利设计转型叙述：1945—1972从战后社会理想主义（Rogers“人类之家”）到1958—1963经济奇迹的消费主义奢侈品，直至1968—69“反设计”起义——意大利激进设计的历史前提（跨章）",
+    "evidence_boundary": "单章案例（Sparke）；与B0143/B0044等意大利对象共享只计一份P0",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   }
+  ]
+ },
+ "11.4": {
+  "grades": {
+   "A": 6,
+   "B": 1
+  },
+  "count": 7,
+  "items": [
+   {
+    "source_id": "B0071",
+    "title": "Charles Jencks：《The Language of Post-Modern Architecture》，1977",
+    "grade": "A",
+    "verification": "V2",
+    "role": "death_of_modern_architecture",
+    "accepted_claim": "现代建筑之死（1972年7月15日Pruitt-Igoe爆破）：现代建筑的根本失败是\"交流的失败\"——建筑师精英代码与公众传统代码的符码冲突；单一价形式/单一价内容两大弊病",
+    "evidence_boundary": "行动者理论文本（1977）；Pruitt-Igoe爆破事件可证，\"死亡\"论断为宣言式修辞",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0071",
+    "title": "Charles Jencks：《The Language of Post-Modern Architecture》，1977",
+    "grade": "A",
+    "verification": "V2",
+    "role": "multivalent_architecture",
+    "accepted_claim": "多价建筑（multivalent architecture）与激进折衷主义：高迪巴特洛公寓为最高典范（隐喻网络＋加泰罗尼亚政治叙事）——后现代建筑的出路",
+    "evidence_boundary": "作者理论主张（1977）；巴特洛公寓分析为形式-政治解读",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0238",
+    "title": "Judith Gura：《Postmodern Design Complete》，2017",
+    "grade": "A",
+    "verification": "V2",
+    "role": "double_coding_venturi_jencks",
+    "accepted_claim": "双重编码（Double Coding）：后现代设计同时向精英和大众说话，混合高雅与流行文化、历史引用与当代工艺——Venturi/Jencks后现代建筑理论",
+    "evidence_boundary": "理论机制（Jencks定义）；案例（Portland、AT&T大楼）为教科书级对象",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0372",
+    "title": "Robert Venturi, Denise Scott Brown, Steven Izenour：《Learning from Las Vegas The Forgotten Symbolism of Architectural Form》，1972",
+    "grade": "A",
+    "verification": "V2",
+    "role": "decorated_shed_vs_duck",
+    "accepted_claim": "鸭子vs装饰棚：整体象征化的雕塑建筑（duck）vs常规棚屋+独立附加装饰（decorated shed）；\"丑陋而平凡\"（U&O）优于\"英雄而原创\"（H&O）——后现代建筑理论奠基范畴",
+    "evidence_boundary": "行动者理论文本（1972）；'鸭子'批判的适用边界为作者主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0373",
+    "title": "Robert Venturi：《Complexity and Contradiction in Architecture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "complexity_contradiction_manifesto",
+    "accepted_claim": "建筑的复杂性与矛盾性宣言：\"多即是少\"（More is not less）对位密斯\"少即是多\"、\"少是乏味\"（Less is a bore）——后现代建筑理论奠基文本",
+    "evidence_boundary": "行动者理论文本（1966）；Scully'最重要的建筑写作'评价为二手判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0373",
+    "title": "Robert Venturi：《Complexity and Contradiction in Architecture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "both_and_architecture",
+    "accepted_claim": "既-又（Both-And）现象、双功能元素与困难整体（The Difficult Whole）：包容性建筑语汇——从纯粹功能转向复杂与矛盾",
+    "evidence_boundary": "作者理论语汇（1966）；案例论证偏形式主义（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0372",
+    "title": "Robert Venturi, Denise Scott Brown, Steven Izenour：《Learning from Las Vegas The Forgotten Symbolism of Architectural Form》，1972",
+    "grade": "B",
+    "verification": "V2",
+    "role": "symbolism_analysis",
+    "accepted_claim": "外延/内涵、纹章/面相的符号学分析工具：现代主义的\"未被承认的象征主义\"——从纯粹功能转向符号",
+    "evidence_boundary": "符号学范畴（1972）；作者自承不走严格符号学路线（L1317）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "11.5": {
+  "grades": {
+   "C": 3,
+   "B": 1,
+   "A": 1
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0238",
+    "title": "Judith Gura：《Postmodern Design Complete》，2017",
+    "grade": "A",
+    "verification": "V2",
+    "role": "memphis_objects_narrative",
+    "accepted_claim": "孟菲斯（Memphis 1980—88）与对象叙事化：Carlton Room Divider（Sottsass 1981）、Casablanca Sideboard——色彩、表面、游戏与市场",
+    "evidence_boundary": "百科全书式综述（2017）；孟菲斯设计过程档案另见专史",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_postmodern_design_practice",
+    "accepted_claim": "后现代设计理论与实践：Venturi（both/and，L1258）与Jencks《后现代建筑语言》（L1260）；Memphis（1981）与Alessi设计师合作（L1265-1267）作为市场风格选项；遗产：VW新甲壳虫等怀旧混合（L1271）——作为风格已逝、作为文化转向永续",
+    "evidence_boundary": "Ch9.2二手综合；Memphis/Alessi等案例与B0101/B0102通用史实去重",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0075",
+    "title": "Charlotte Fiell, Peter Fiell：《Design of the 20th Century》，1999",
+    "grade": "C",
+    "verification": "V2",
+    "role": "memphis_pop_entries",
+    "accepted_claim": "词条中的孟菲斯（Memphis）与波普设计（Pop）：20世纪设计百科的图录式对象证据——对象的叙事化",
+    "evidence_boundary": "图录词条（1999）；孟菲斯设计过程档案另见B0238/专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0133",
+    "title": "E. P. Thompson：《William Morris romantic to revolutionary》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "anti_capitalist_design_critique_prehistory",
+    "accepted_claim": "对资本主义劳动、商品和欲望的批判可作为战后设计批评的长时段前史",
+    "evidence_boundary": "不能用19世纪思想直接证明战后反设计运动的组织、对象或接受",
+    "status": "CONTEXT_ONLY_AS_PREHISTORY"
+   },
+   {
+    "source_id": "B0344",
+    "title": "Penny Sparke：《A century of design design pioneers of the 20th century》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "memphis_superdesigner",
+    "accepted_claim": "1981 Memphis使设计\"摆脱现代主义束缚\"进入\"设计师十年\"（super-designer时代）——20世纪设计先驱通史表述",
+    "evidence_boundary": "通史综述（1998）；Memphis个案以B0238/专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "11.6": {
+  "grades": {
+   "C": 4,
+   "A": 3,
+   "B": 3
+  },
+  "count": 10,
+  "items": [
+   {
+    "source_id": "B0080",
+    "title": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+    "grade": "A",
+    "verification": "V2",
+    "role": "punk_retail_media_subculture_and_commercial_absorption",
+    "accepted_claim": "朋克与街头风格须区分参与者实践、零售供给、媒体标签、设计师挪用和商业吸收",
+    "evidence_boundary": "服装符号不能直接等同于统一身份或政治立场，且材料多为二手／媒体",
+    "status": "ACCEPTED_AS_CORE_INTERPRETIVE_SOURCE_WITH_POSITION_CAUTION"
+   },
+   {
+    "source_id": "B0368",
+    "title": "Rick Poynor：《No More Rules Graphic Design and Postmodernism》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "punk_deconstruction_graphics",
+    "accepted_claim": "朋克反设计与解构设计（Ch2）：垃圾风格、Cranbrook学派——低技术生产、青年身份与专业规则破坏",
+    "evidence_boundary": "设计批评专著（2003）；朋克视觉的接受侧证据有限",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0368",
+    "title": "Rick Poynor：《No More Rules Graphic Design and Postmodernism》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "designer_as_author",
+    "accepted_claim": "设计师作为作者（Ch5）：作者身份的兴起与争议——专业权威的再界定与后现代平面实践",
+    "evidence_boundary": "批评性综述（2003）；'作者之死'等理论引用为二手转述（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "punk_subculture_dress",
+    "accepted_claim": "朋克以廉价俗气面料与“丑的美学”对现代性与品味概念进行自觉评论，构成对主流时尚系统的低技术反抗",
+    "evidence_boundary": "本书证据为着装维度（PVC、仿豹纹、别针），自出版/图形维度缺失",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0176",
+    "title": "Graphic Design Theory： Readings from the Field (Design -- Armstrong, Helen(Autho",
+    "grade": "B",
+    "verification": "V2",
+    "role": "designer_as_author_debate",
+    "accepted_claim": "设计师即作者论争（Rock 1996）：'作者的死亡与设计师的赋权'悖论——专业权威的再界定（后现代平面核心论题）",
+    "evidence_boundary": "理论文本（1996）；论争的实际影响无量化证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0178",
+    "title": "Greiman：《Hybrid imagery the fusion of technology and graphic design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "new_wave_digital_practice",
+    "accepted_claim": "Greiman\"混合图像\"与美国新浪潮：数字技术\"内爆\"（implosion）催生混合美学；Design Quarterly #133全数字拼贴海报——后现代平面的技术转向",
+    "evidence_boundary": "行动者实践档案（1990）；技术成效为自述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0009",
+    "title": "Alain Weill：《Graphic Design A History》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "counterculture_posters",
+    "accepted_claim": "反文化运动与波兰海报学派（1960s以来）：平面设计的文化转向——后现代平面的社会语境",
+    "evidence_boundary": "通史表述（2004）；反文化个案以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0035",
+    "title": "Aslin, Elizabeth：《The aesthetic movement prelude to Art Nouveau》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "satire_media_typing_and_style_commercialization_prehistory",
+    "accepted_claim": "讽刺媒体、类型化人物与商业标签可作为亚文化被媒介化和市场化的长时段比较",
+    "evidence_boundary": "审美运动不是20世纪亚文化，媒体退场不等于实践消失",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0178",
+    "title": "Greiman：《Hybrid imagery the fusion of technology and graphic design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "dedicated_generalist",
+    "accepted_claim": "设计师从专门家转向\"专注的通才\"（dedicated generalist）：数字技术将媒介折叠为元媒介——专业身份再界定",
+    "evidence_boundary": "作者主张（1990）；职业转型的实际范围无数据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0364",
+    "title": "Richard Hollis：《Graphic Design A Concise History》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernism_transnational_genealogy",
+    "accepted_claim": "现代主义图形语言的跨国谱系（未来主义→达达→构成主义→包豪斯）——后现代平面批判的谱系背景",
+    "evidence_boundary": "通史表述；clean文本截断于包豪斯章（后期章节仅交叉引用）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "11.7": {
+  "grades": {
+   "C": 4,
+   "B": 3
+  },
+  "count": 7,
+  "items": [
+   {
+    "source_id": "B0238",
+    "title": "Judith Gura：《Postmodern Design Complete》，2017",
+    "grade": "B",
+    "verification": "V2",
+    "role": "postmodern_revival_global",
+    "accepted_claim": "后现代主义复兴论：1990年代退入背景、21世纪以复杂科学/数字技术/全球化重生；传播路径（意大利→美国→英国→日本→德国→西班牙→葡萄牙）",
+    "evidence_boundary": "复兴论为作者判断（2017）；全球南方覆盖有限（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0306",
+    "title": "Meggs, Philip B.; Purvis, Alston W.：Meggs' History of Graphic Design, 2016",
+    "grade": "B",
+    "verification": "V2",
+    "role": "information_age_graphic_design",
+    "accepted_claim": "平面设计史权威教材的信息时代部分（1950s—2010s）：motion graphics、数字排版、交互媒体——后现代平面的学科史表述",
+    "evidence_boundary": "教材通史（2016第六版）；通用史实与B0364/B0009/B0214只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0368",
+    "title": "Rick Poynor：《No More Rules Graphic Design and Postmodernism》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "postmodern_graphic_global",
+    "accepted_claim": "后现代平面设计的媒介传播（The Face、Emigre、Ray Gun、Wired）与美英路径分殊——后现代媒介转向",
+    "evidence_boundary": "杂志档案证据充分；全球南方视角缺失（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0009",
+    "title": "Alain Weill：《Graphic Design A History》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "japanese_graphic_boom",
+    "accepted_claim": "日本平面设计的爆发——后现代全球传播的亚洲侧",
+    "evidence_boundary": "通史表述；日本个案以B0197/专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postmodern_global_diffusion",
+    "accepted_claim": "后现代时尚在非西方地区的选择性采用（如上海探戈案例中的西方服饰符号）同时携带现代化诱惑与殖民威胁",
+    "evidence_boundary": "仅一处转引性案例，不足以支撑全球传播的系统论证",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0197",
+    "title": "James H. Fraser, Steven Heller：《Japanese Modern Graphic Design Between the Wars》，1996",
+    "grade": "C",
+    "verification": "V2",
+    "role": "japanese_design_identity",
+    "accepted_claim": "日本现代主义与政治意识形态张力（1930s国家主义压制、战时Front杂志中现代主义的\"幸存\"与转型）——后现代全球传播的日本前史",
+    "evidence_boundary": "时段1941—45；战时宣传的接受侧证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_japanese_postmodern_path",
+    "accepted_claim": "日本是唯一保持与大众市场商品复杂语言联系的后现代设计运动（L1269）：1970s拒绝技术精湛营销、转向文化取向，1980s装饰性配色高科技商品瞄准女性与青年市场",
+    "evidence_boundary": "单段命题（L1269），无展开论述；仅作11.7补充语境，与7.7日本线互参",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ }
+}

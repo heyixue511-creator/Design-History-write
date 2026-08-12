@@ -1,0 +1,13 @@
+﻿batch_id,source_id,corpus,folder_name,packet_path,packet_characters,semantic_review_status,mapping_status,original_verification_status
+BATCH-012-CH10-PRC,B0476,book,夏燕靖：《中国艺术设计史(升级版)》，2017,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0476_夏燕靖：《中国艺术设计史(升级版)》，2017.md,65790,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0477,book,夏燕靖：《中国艺术设计史》,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0477_夏燕靖：《中国艺术设计史》.md,82590,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0511,book,赵农：《中国艺术设计史》,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0511_赵农：《中国艺术设计史》.md,108642,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0499,book,"樊进, 龙红：《中国当代设计全集 第4卷 平面类编 图案篇》，2015","D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0499_樊进, 龙红：《中国当代设计全集 第4卷 平面类编 图案篇》，2015.md",65966,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0471,book,周博：《中国现代文字设计图史》，2017,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0471_周博：《中国现代文字设计图史》，2017.md,82357,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0479,book,孔铮桢，綦明著：《物用之美_中国设计艺术的历史与理论》，2014,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0479_孔铮桢，綦明著：《物用之美_中国设计艺术的历史与理论》，2014.md,77465,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0468,book,何人可：《工业设计史(第四版)》，2010,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0468_何人可：《工业设计史(第四版)》，2010.md,75631,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0501,book,王受之：《世界平面设计史》，2001,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0501_王受之：《世界平面设计史》，2001.md,83804,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0483,book,文一：《伟大的中国工业革命发展政治经济学一般原理批判纲要》,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0483_文一：《伟大的中国工业革命发展政治经济学一般原理批判纲要》.md,64574,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0516,book,"霍维国, 霍光：《中国室内设计史(第2版)》，2015","D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0516_霍维国, 霍光：《中国室内设计史(第2版)》，2015.md",90509,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0488,book,"李砚祖, 王春雨：《室内设计史》，2013","D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0488_李砚祖, 王春雨：《室内设计史》，2013.md",105783,complete,complete,partial_clean_text_spot_check
+BATCH-012-CH10-PRC,B0512,book,赵江洪：《设计艺术的含义》，1999,D:\Design-history-知识库\教材章节知识模型转换\11_语义复核批次\BATCH-012-CH10-PRC\packets\B0512_赵江洪：《设计艺术的含义》，1999.md,98305,complete,complete,partial_clean_text_spot_check

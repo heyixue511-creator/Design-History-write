@@ -1,0 +1,37 @@
+{
+  "source_id": "B0424",
+  "corpus": "book",
+  "folder_name": "Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》",
+  "material_type": "知识批判特刊（130+概念词条）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 31, "report_characters": 3613}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.6", "grade": "B", "verification": "V2", "role": "problematization_knowledge_critique"},
+    {"section_id": "13.1", "grade": "C", "verification": "V2", "role": "globalization_concept_critique"},
+    {"section_id": "15.7", "grade": "C", "verification": "V2", "role": "translation_untranslatability"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "《Theory, Culture & Society》2006年特刊《Problematizing Global Knowledge》（23(2-3)），以'问题化'（problematization）为总方法的知识批判百科全书（26章、130+概念词条）",
+    "主旨：把分类、语言、翻译、逻辑、时间、空间、身体、技术、信息、生命、文化、全球化、文明、现代性等概念逐一从'答案'改写为'问题'，解构欧洲中心的知识秩序，为非西方知识与他者保留认知正义的位置",
+    "知识批判系列（Ch10）：结构性无知（ignorance）、学科（discipline）、解构（deconstruction）、批判（critique）——知识装置与认知正义",
+    "分类与秩序系列（Ch02）：分类、收藏、不可分类、垃圾/残余——秩序批判",
+    "翻译与跨语际（Ch04）：翻译、不可译性（untranslatability）、翻译伦理、中国翻译",
+    "全球化与全球史（Ch20）：全球化10词条——全球化概念批判",
+    "后殖民文化与多样性（Ch18）、文明与后人类（Ch21）、世界主义公民身份与政治（Ch24）、民族种族与市场（Ch25）",
+    "知识机构（Ch26）：大学、图书馆、档案、博物馆、公共领域14词条——知识基础设施批判",
+    "技术媒介与监控（Ch14）、网络与协议（Ch15）：技术/监控/信息/模拟/虚拟/媒介/协议/黑客——数字知识秩序",
+    "价值：为设计史提供'概念问题化'的分析方法与非西方知识位置的批判语言",
+    "clean原文为源文件（10541行，无清洗版）；未完成全篇、版次、数字和引注核验；26章命题按'分析报告综合'承担。"
+  ],
+  "original_spot_checks": [
+    "Ch10：结构性无知与知识装置",
+    "Ch20：全球化词条系列",
+    "Ch04：翻译与不可译性",
+    "Ch18：后殖民文化与多样性",
+    "Ch26：知识机构批判"
+  ]
+}

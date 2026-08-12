@@ -1,0 +1,50 @@
+[
+  {
+    "evidence_id": "EV-0701",
+    "claim": "Dreyfuss宣言：'优良设计、大规模生产的商品构成新美国艺术形式'——战后Good Design话语的行动者宣言（clean第779行）",
+    "source_id": "B0186",
+    "source_location": "clean第779、804、854行；第6章分析报告",
+    "source_class": "P0",
+    "verification_level": "V2",
+    "section_ids": ["7.3"],
+    "textbook_function": "行动者文本（核心命题）",
+    "supports": ["战后美国Good Design话语", "公众品味提升论证（Art on Wheels、博物馆数据）"],
+    "does_not_support": ["Good Design制度（MoMA、企业、中产消费）全貌", "自引统计的独立性"],
+    "time_boundary": "1955/1967",
+    "geographic_boundary": "美国",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0702",
+    "claim": "Council of Industrial Design于1944年由联合政府贸易部成立，以教育消费者品味为工作重点（Woodham）",
+    "source_id": "B0235",
+    "source_location": "B0235 packet 分析报告；B0401 clean第892行互校",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["7.2"],
+    "textbook_function": "核心命题（英国重建制度）",
+    "supports": ["CoID建立与1946'英国能做到'展", "国家主导的品味教育"],
+    "does_not_support": ["教学成效或出口成效（由设立推定）", "'家长式'定性（史学判断）"],
+    "time_boundary": "1944—1956（设计中心）",
+    "geographic_boundary": "英国",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0703",
+    "claim": "日本G-Mark制度1957年启动，沿专利局→MITI→JIDPO沿革，构成'优良设计'概念的美日两线之一（Hiesinger/Woodham）",
+    "source_id": "B0253",
+    "source_location": "B0253 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["7.7", "7.3"],
+    "textbook_function": "核心命题（日本战后设计）",
+    "supports": ["MITI设计促进与企业内设计系统", "Good Design概念的国际传播"],
+    "does_not_support": ["'Japanese Modern第一个后现代风格'（Hiesinger命题须标注）", "G-Mark成效的量化判断"],
+    "time_boundary": "1957起",
+    "geographic_boundary": "日本",
+    "counterevidence": null,
+    "status": "accepted"
+  }
+]

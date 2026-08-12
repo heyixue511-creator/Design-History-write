@@ -1,0 +1,37 @@
+{
+  "chapter": "CH07",
+  "title": "第七章：重建与'优良设计'：欧美、日本的战后制度",
+  "entities": [
+    {"id": "E-0701", "type": "institution", "name": "CoID（工业设计委员会，1944）", "sections": ["7.2"], "key_sources": ["B0235", "B0401"]},
+    {"id": "E-0702", "type": "exhibition", "name": "1946'英国能做到'展", "sections": ["7.2"], "key_sources": ["B0235"]},
+    {"id": "E-0703", "type": "exhibition", "name": "1951英国节（Festival of Britain）", "sections": ["7.2"], "key_sources": ["B0235"]},
+    {"id": "E-0704", "type": "institution", "name": "MoMA（现代艺术博物馆）", "sections": ["7.3"], "key_sources": ["B0235", "B0401"]},
+    {"id": "E-0705", "type": "exhibition", "name": "MoMA Good Design展（1950—55）", "sections": ["7.3"], "key_sources": ["B0235", "B0401"]},
+    {"id": "E-0706", "type": "person", "name": "Edgar Kaufmann Jr.", "sections": ["7.3"], "key_sources": ["B0401"]},
+    {"id": "E-0707", "type": "person", "name": "Henry Dreyfuss", "sections": ["7.3"], "key_sources": ["B0186"]},
+    {"id": "E-0708", "type": "school", "name": "HfG Ulm（乌尔姆设计学院）", "sections": ["7.4"], "key_sources": ["B0235", "B0401"]},
+    {"id": "E-0709", "type": "person", "name": "Tomás Maldonado", "sections": ["7.4"], "key_sources": ["B0401"]},
+    {"id": "E-0710", "type": "enterprise", "name": "Braun", "sections": ["7.4", "7.5"], "key_sources": ["B0401", "B0235"]},
+    {"id": "E-0711", "type": "person", "name": "Dieter Rams", "sections": ["7.5"], "key_sources": ["B0401"]},
+    {"id": "E-0712", "type": "institution", "name": "Rat für Formgebung（德国设计委员会）", "sections": ["7.5"], "key_sources": ["B0401"]},
+    {"id": "E-0713", "type": "institution", "name": "Svenska Slöjdföreningen（1845）", "sections": ["7.6"], "key_sources": ["B0388", "B0076"]},
+    {"id": "E-0714", "type": "exhibition", "name": "Design in Scandinavia巡展（1954—57）", "sections": ["7.6"], "key_sources": ["B0388", "B0076"]},
+    {"id": "E-0715", "type": "institution", "name": "G-Mark（1957）／JIDPO", "sections": ["7.7"], "key_sources": ["B0253", "B0235"]},
+    {"id": "E-0716", "type": "institution", "name": "MITI（通产省）", "sections": ["7.7"], "key_sources": ["B0253", "B0235"]},
+    {"id": "E-0717", "type": "enterprise", "name": "Sony", "sections": ["7.7"], "key_sources": ["B0253"]},
+    {"id": "E-0718", "type": "publication", "name": "500型电话（贝尔实验室×Dreyfuss）", "sections": ["7.3"], "key_sources": ["B0186"]}
+  ],
+  "relations": [
+    {"source": "E-0701", "target": "E-0702", "type": "organized", "evidence": "B0235", "note": "出口政策导向"},
+    {"source": "E-0704", "target": "E-0705", "type": "organized", "evidence": "B0235/B0401", "note": "Kaufmann Jr策展；与Merchandising Mart合作"},
+    {"source": "E-0706", "target": "E-0705", "type": "curated", "evidence": "B0401", "note": "'Streamlining is not good design'策展人立场"},
+    {"source": "E-0707", "target": "E-0718", "type": "designed", "evidence": "B0186 clean第936行", "note": "'二十年后仍不过时'经典形式；与贝尔实验室协作"},
+    {"source": "E-0709", "target": "E-0708", "type": "directed", "evidence": "B0401", "note": "符号学转向"},
+    {"source": "E-0708", "target": "E-0710", "type": "cooperated", "evidence": "B0401/B0235", "note": "乌尔姆—布劳恩合作；1960s理性主义失去修辞威力"},
+    {"source": "E-0711", "target": "E-0710", "type": "designed", "evidence": "B0401", "note": "拉姆斯十原则；7.5无A级待补专史"},
+    {"source": "E-0714", "target": "E-0713", "type": "organized", "evidence": "B0388", "note": "北欧对象组：同一对象只计一份P0"},
+    {"source": "E-0716", "target": "E-0715", "type": "founded", "evidence": "B0253", "note": "G-Mark 1957启动；专利局→MITI→JIDPO"},
+    {"source": "E-0717", "target": "E-0716", "type": "related", "evidence": "B0253", "note": "Sony等企业产品档案侧"},
+    {"source": "E-0705", "target": "E-0715", "type": "shared_object", "evidence": "G7-3", "note": "Good Design概念美日两线，同一概念对象只计一份P0"}
+  ]
+}

@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0279,16.5,A,V2,situated_actions,有目的的人类行动不是由预先形成的'计划'决定的，而是本质'情境性的'；计划是行动者审议与自我说明时的'表征资源'而非控制机制——16.5交互设计理论基座,作者理论（1987）；情境行动为交互研究纲领,00_整体分析报告（Ch.3-4）,ACCEPTED_AS_CORE_SOURCE
+B0279,16.5,B,V2,mutual_intelligibility,相互可理解性不是'共享认知共识'的产物，而是社会成员在具体互动中通过情境性实践协作实现的成就——16.5人机通信基础,作者理论（1987）；常人方法学框架,00_整体分析报告（Ch.5）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0279,16.5,C,V2,interactive_artifacts,计算机被视为'交互的'对象因其反应性、语言控制与内部不透明性的组合——但产生危险错觉：误以为机器能如人般'参与'互动——16.5机器交互错觉批判,作者理论（1987）；专家帮助系统失败为经验证据,00_整体分析报告（Ch.2、7）,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,37 @@
+{
+  "source_id": "B0119",
+  "corpus": "book",
+  "folder_name": "Deyan Sudjic：《B is for Bauhaus, Y is for YouTube Designing the Modern World from A to Z》",
+  "material_type": "设计文化评论（字母表散文集）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Deyan Sudjic：《B is for Bauhaus, Y is for YouTube Designing the Modern World from A to Z》.md",
+  "duplicate_group": "与Sudjic《The Language of Things》等为同作者姊妹书；本书为数字时代设计文化评论主源",
+  "files": [{"report_file_count": 14, "report_characters": 13216}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.7", "grade": "B", "verification": "V2", "role": "digital_nonmaterial_design"},
+    {"section_id": "16.7", "grade": "C", "verification": "V2", "role": "platform_economics"},
+    {"section_id": "16.4", "grade": "C", "verification": "V2", "role": "critical_design_digital"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Sudjic（伦敦设计博物馆馆长2006年起；曾任《Blueprint》创办编辑、《Domus》主编、2002威尼斯双年展策展人），Particular Books 2014（美版Rizzoli 2015）",
+    "结构：字母表A-Z散文集（原为25万词辞典项目因维基百科兴起中止后的替代产物）",
+    "核心判断：数字革命已根本改变设计存在形态——设计从'塑造物'变成'编程交互逻辑'（QWERTY被触摸屏替代、柯达被数字影像击垮、PayPal按钮=史上最有价值的开关）",
+    "平台经济对比：YouTube（不足100名员工创造16.5亿美元价值）vs柯达巅峰期14万雇员——后工业价值逻辑",
+    "品牌经济：福特以蓝色椭圆标识获得235亿美元贷款；Eileen Gray扶手椅1940万美元成交；毕尔巴鄂古根海姆模式",
+    "真实性悖论：设计师是'技艺精湛的伪造者'（inventive fakers）——真实性从政治理想沦为营销策略",
+    "批判性设计（Critical Design）：Dunne & Raby代表——以设计提问而非解决问题",
+    "方法：自传式批评、物的传记式细读、体制人类学视角；理论资源Benjamin/Barthes/Simmel/Banham",
+    "限度：第一人称散文体，非系统学术论证；条目覆盖欧美为主",
+    "本书为数字设计文化评论（B级）：对16.7承担非物质化设计判断",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Y条目：YouTube——非物质平台16.5亿美元vs柯达14万雇员",
+    "Q条目：QWERTY键盘被触摸屏替代",
+    "C条目：批判性设计（Dunne & Raby）",
+    "L条目：Logo——品牌作为无形资产（福特235亿美元贷款）",
+    "A条目：真实性悖论——设计师是'技艺精湛的伪造者'"
+  ]
+}

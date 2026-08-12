@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0210,12.4,A,V2,cooperative_design_paradigm,计算机系统设计必须以工作实践为出发点，通过设计者与使用者的全程合作将'使用者'从被动研究对象转变为能动的'人类行动者'；批判系统开发的理性主义/笛卡尔传统——斯堪的纳维亚'集体资源方法'的总结与北美参与式设计的起点——12.4参与式设计的北欧传统,主编文集（1991）；UTOPIA项目等案例,00_整体分析报告（核心命题、论题一/二）,ACCEPTED_AS_CORE_SOURCE
+B0210,12.4,B,V2,design_as_political_process,'设计过程是一个政治过程，包含冲突'：管理者的命令与使用者需求相悖、不同用户群体需求不同、设计师代表自身利益；定制权（tailoring）的分配涉及组织权力——12.4工作场所民主与共同设计,主编文集（1991）；Ch1与Ch11论证,00_整体分析报告（论题三）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0210,14.3,C,V2,rationalism_to_situated_action,系统开发从理性主义传统转向情境行动：'实践优先于原则'、人类学/互动分析方法进入设计流程（Suchman情境行动、Winograd/Flores对话立场为理论谱系）——14.3HCI与设计方法汇合（参与式方法侧）,主编文集（1991）；Part I理论透镜,00_整体分析报告（论题一、理论文献）,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0274,14.1,A,V2,software_as_metamedium,计算机是第一个"元媒介"（metamedium）：软件使所有先前独立的媒介技术在同一环境中相遇、杂交、进化——14.1核心理论,作者理论（2013）；'媒介=算法+数据结构'为操作性定义,整体分析报告（L002-003）,ACCEPTED_AS_CORE_SOURCE
+B0274,14.1,A,V2,cultural_software_history,文化软件概念史（1960s—2010s）：Kay/Engelbart/Nelson/Sutherland先驱（Sketchpad 1963、Mother of All Demos 1968、Personal Dynamic Media 1977）——从计算工具到软件媒介,一手文献解读（2013）；先驱动机的档案细节以原始文献为准,Ch1分析报告,ACCEPTED_AS_CORE_SOURCE
+B0274,14.1,B,V2,hybridization_velvet_revolution,杂交化与深层可混合性：After Effects引发运动图形"天鹅绒革命"（1993—99）——软件塑造当代美学与视觉语言,软件界面分析（Photoshop/AE）；美学转变的接受侧证据有限,Ch5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0274,0.2,C,V2,software_epistemology,软件认识论：算法数据分析重新定义知识的获取与性质——媒介理论的数字转向,作者理论（2013）；认识论命题为哲学判断,结论分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

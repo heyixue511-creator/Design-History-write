@@ -1,0 +1,30 @@
+{
+  "source_id": "B0364",
+  "corpus": "book",
+  "folder_name": "Richard Hollis：《Graphic Design A Concise History》",
+  "material_type": "平面设计通史（简明）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Richard Hollis：《Graphic Design A Concise History》.md",
+  "duplicate_group": "与B0306（Meggs）、B0009（Weill）、B0214（Drucker）构成平面设计史参照组：同一通用史实只计一份P0",
+  "files": [{"report_file_count": 12, "report_characters": 4272}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.2", "grade": "C", "verification": "V2", "role": "graphic_design_definition_three_functions"},
+    {"section_id": "11.6", "grade": "C", "verification": "V2", "role": "modernism_transnational_genealogy"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Hollis（英国设计师、设计史家），图录式国别-年代体例；覆盖史前图形符号→1980年代计算机设计",
+    "定义：平面设计是'制造或选择记号并将其安排在表面以传达观念的事务'（L6）；三大功能（识别/信息/促销，L47-49）",
+    "核心论点：平面设计区别于艺术（服务付酬客户、规划机械生产）；技术变革是形式创新主要触发器；现代主义图形语言经由跨国谱系传播（未来主义→达达→构成主义→包豪斯）",
+    "clean文本覆盖原书前半部分（至德国/包豪斯章中段截断，L617）——后期章节（美国1950s广告、意大利现代设计）仅交叉引用",
+    "本书为平面设计史参照（C级）：对11.2承担定义与三功能框架、11.6承担跨国谱系背景",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L6：平面设计定义——'制造或选择记号并将其安排在表面以传达观念的事务'",
+    "L47-49：三大功能（识别/信息/促销）",
+    "L469-470、L585：现代主义图形语言跨国谱系",
+    "L58：'平面设计是语法不确定、词汇不断扩张的语言，只能研究、不能学得'"
+  ]
+}

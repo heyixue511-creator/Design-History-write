@@ -1,0 +1,34 @@
+{
+  "source_id": "B0111",
+  "corpus": "book",
+  "folder_name": "Design History and Culture ： Methods and Approaches -- Javier Gimeno-Martínez --",
+  "material_type": "设计史方法论教材",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Design History and Culture ： Methods and Approaches -- Javier Gimeno-Martínez --.md",
+  "duplicate_group": "与B0103（Doordan选集）、B0083（Design Studies读本）、B0152（Fallan方法论）共享设计史方法论对象；本书为最新综合教材",
+  "files": [{"report_file_count": 14, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "methods_approaches_toolbox"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_history_contemporary_agenda"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "object_agency_methods"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Gimeno-Martínez（阿姆斯特丹自由大学设计文化MA项目），Routledge 2025；'方法-路径'双层架构方法论教材",
+    "16种方法：结构主义细读、后结构主义细读/脚本分析、物的生命周期、比较方法、案例研究、设计师专著、口述史、民族志、话语分析等",
+    "7种路径：产业、地缘政治、社会与文化、性别研究、风格、类型学、材料与技术",
+    "理论框架：结构主义/后结构主义/马克思主义/符号学/ANT/物质文化/新唯物主义/OOO/后殖民/去殖民/女性主义/酷儿/交叉性/文化政治经济学/后现代/后人文/设计人类学/多声性",
+    "当代议程：AI（含中国AI著作权法律框架）、生物设计（MycoWorks菌丝体皮革）、去殖民化、非二元性别（Alok Vaid-Menon合作系列）",
+    "教学性学术写作：Origins-Development-Implementation-Challenges四段结构；每章Challenges诚实指出方法局限",
+    "本书为设计史方法论综合（A级）：对C.0承担方法论回收",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：artefacts vs objects vs things vs goods vs commodities vs products术语辨析",
+    "第9章：Design in Scandinavia展览（1954-57）话语分析案例",
+    "第4章：George Floyd事件Black Lives Matter海报比较方法",
+    "第13章：无性别时装系列——性别研究方法",
+    "第3章：Homies扭蛋人偶——马克思主义分析"
+  ]
+}

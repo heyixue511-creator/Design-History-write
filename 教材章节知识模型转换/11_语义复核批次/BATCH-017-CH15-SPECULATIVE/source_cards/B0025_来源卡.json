@@ -1,0 +1,33 @@
+{
+  "source_id": "B0025",
+  "corpus": "book",
+  "folder_name": "Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005",
+  "material_type": "批判性设计理论奠基（博士论文修订）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005.md",
+  "duplicate_group": "与B0024/B0023（Dunne & Raby）、B0301（Malpass）共享批判设计对象；本书为批判设计理论奠基文本之一",
+  "files": [{"report_file_count": 14, "report_characters": 16171}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.1", "grade": "A", "verification": "V2", "role": "post_optimal_object"},
+    {"section_id": "15.1", "grade": "B", "verification": "V2", "role": "critical_medium_design"},
+    {"section_id": "15.2", "grade": "B", "verification": "V2", "role": "material_tales"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Dunne（RCA计算机相关设计系），MIT Press 2005修订版（初版RCA 1999）；基于1994-1997博士论文",
+    "核心主张：设计应成为批判性媒介（critical medium），反思科技的文化、社会与伦理影响",
+    "后最优对象（Post-optimal Object）：功能与实用可视为理所当然时，设计应探索新的诗意维度——'使用之美学'（aesthetics of use），关注电子产品的行为方式与互动体验",
+    "批判主流工业设计将电子产品视为'技术包装'的符号学取向——设计师沦为'符号学家'为不可理解的技术制造符号化的'皮肤'",
+    "五个概念设计方案（Electroclimates、When Objects Dream...、Thief of Affections、Tuneable Cities、Faraday Chair）——'物质故事'（material tales）：非商业产品方案，通过展览与出版进行'大众消费'的思辨性道具",
+    "本书为批判设计理论奠基（A级）：对15.1承担后最优对象概念",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "后最优对象（Post-optimal Object）——功能可视为理所当然的世界中探索诗意维度",
+    "'使用之美学'（aesthetics of use）——超越视觉造型关注行为与互动",
+    "设计作为批判性媒介（critical medium）",
+    "五个概念方案——'物质故事'（material tales）",
+    "批判'符号学家'取向——技术包装的符号化皮肤"
+  ]
+}

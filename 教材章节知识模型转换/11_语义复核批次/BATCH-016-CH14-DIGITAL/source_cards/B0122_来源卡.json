@@ -1,0 +1,31 @@
+{
+  "source_id": "B0122",
+  "corpus": "book",
+  "folder_name": "Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De",
+  "material_type": "数字设计理论文选（1961—2015）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De.md",
+  "duplicate_group": "与B0176（Graphic Design Theory）为同一编者Armstrong同系列文选；重复收录文本（Sutherland、Kay、Maeda等）只计一份P0",
+  "files": [{"report_file_count": 14, "report_characters": 13413}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.2", "grade": "B", "verification": "V2", "role": "digital_design_theory_anthology"},
+    {"section_id": "14.4", "grade": "B", "verification": "V2", "role": "encoding_future_network"},
+    {"section_id": "14.6", "grade": "C", "verification": "V2", "role": "paradigm_shift_object_system"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Armstrong编（Ellen Lupton Design Briefs系列），Princeton Architectural Press 2016；24篇原始文献（1961—2015）",
+    "三部分：'结构化数字'（1960s-1980，Sutnar/Gerstner/Sutherland/Crouwel/LeWitt——参数系统）、'抵抗中央处理'（1980-2000，Poggenpohl/Greiman/Cooper/Kay/Maeda——个人计算解放）、'编码未来'（2000s，Fry/Reas/Antonelli/Dubberly/Laurel/Faste——开源/涌现/后人类）",
+    "思想主线：'从参数到过程，从客体到系统'——从机械对象精神到有机系统精神的范式转换（Dubberly）",
+    "关键文本：Sutherland Sketchpad（1963）、Kay用户界面哲学、Processing宣言（Fry/Reas）、Dubberly范式转换模型、Faste后人类中心设计",
+    "本书为数字设计理论文选（B级）：对14.2承担数字设计思想史、14.4承担网络前沿",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Part 1：Sutherland《Sketchpad》(1963)——计算机显示愿景",
+    "Part 2：Greiman新浪潮、Cooper'设计师即生产者'、Kay用户界面哲学、Maeda'设计即数字'",
+    "Part 3：Processing宣言（Fry/Reas）、Dubberly'从机械对象精神到有机系统精神'、Faste'后人类中心设计'",
+    "思想主线：'从参数到过程，从客体到系统'"
+  ]
+}

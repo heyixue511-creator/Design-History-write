@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0385,14.7,A,V2,algorithmic_oppression,商业算法在"中立"外衣下系统性强化种族主义与性别歧视（algorithmic oppression、technological redlining）——14.7数据化商业模式批判,批判研究（2018，数据2010-2016）；算法机制以谷歌为对象,整体分析报告（引言与结论）,ACCEPTED_AS_CORE_SOURCE
+B0385,14.7,A,V2,search_engine_bias_cases,搜索引擎偏见案例："black girls"搜索结果色情化、查尔斯顿枪击案（搜索塑造认知）——注意力/个性化/内容生产,个案研究（2018）；结果样本时段有限,Ch2-3分析报告,ACCEPTED_AS_CORE_SOURCE
+B0385,14.7,B,V2,information_monopoly_labor,信息垄断、数字鸿沟与全球劳动剥削（prosumer/audience commodity）——平台劳动与内容生产,批判分析（2018）；劳动剥削的量化数据以平台档案为准,Ch6分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0385,14.7,B,V2,algorithmic_regulation,公共政策规制与非商业化公共搜索设想（BFTS黑人女性主义技术研究）——算法治理方案,作者方案（2018）；规制成效以政策实践为准,尾声分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

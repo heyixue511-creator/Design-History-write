@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0420,12.3,A,V2,green_imperative_ecology,生态责任是设计的绝对义务（绿色律令）：LCA、Design for Disassembly、Design Diversification——环境设计与生命周期的奠基原典,行动者原典（1995）；数据止于1990s中期；伦理改造成功率自认仅4/10（作者自认限度）,Ch1-2分析报告,ACCEPTED_AS_CORE_SOURCE
+B0420,12.3,B,V2,form_follows_fun_critique,"形式追随乐趣"（Form Follows Fun）消费批判与"便利是敌人"：短暂美学与消费三角——消费批判的生态侧,行动者批判（1995）；消费机制的量化数据未核,Ch7-8分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0420,12.6,C,V2,indigenous_design_wisdom,因纽特原住民设计智慧（"世界上最好的设计师"）：以非西方设计智慧挑战西方设计史叙事,第一手田野（因纽特）；对原住民赞颂带理想化（作者自认限度）,Ch11分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0420,12.7,C,V2,sharing_not_buying,"分享而非购买"（Sharing not Buying）替代方案与购前十问——社会创新的早期表述,行动者方案（1995）；替代方案的实施证据缺,Ch9分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

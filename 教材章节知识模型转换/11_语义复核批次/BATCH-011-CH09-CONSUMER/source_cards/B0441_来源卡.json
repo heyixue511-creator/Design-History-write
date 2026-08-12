@@ -1,0 +1,33 @@
+{
+  "source_id": "B0441",
+  "corpus": "book",
+  "folder_name": "Walker：《Sustainable by design explorations in theory and practice》",
+  "material_type": "可持续设计理论（意义范式）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Walker：《Sustainable by design explorations in theory and practice》.md",
+  "duplicate_group": "与12.x可持续设计文献（Manzini、Fry类）共享转型设计思潮；本书为意义范式主源",
+  "files": [{"report_file_count": 22, "report_characters": 3816}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.1", "grade": "B", "verification": "V2", "role": "sustainability_as_meaning_crisis"},
+    {"section_id": "9.4", "grade": "C", "verification": "V2", "role": "fashion_sustainability"},
+    {"section_id": "9.2", "grade": "C", "verification": "V2", "role": "enduring_artefacts"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Walker（卡尔加里大学），Earthscan 2006，16章；作者近十年可持续产品设计论文集大成",
+    "核心论点：可持续性根本上是'意义危机'而非环境危机；唯有让物质文化重新有意义才可能可持续",
+    "关键概念：命题式设计、三层物品分类（功能/社会-地位/灵感-精神）、视觉神话、审美类型学、'白色画布'、短暂物、'我-你'关系、世俗/神圣时间",
+    "方法：现象学式自述＋类型学归纳＋谱系学＋'做中学'（research through design，作者亲手制作20余件原型）",
+    "限度：缺少量化工具与评估（作者自认）；论证依赖灵性/宗教前提；原型市场可行性未检验",
+    "本书为可持续设计意义范式主源：对12.1承担理论框架；对9.2/9.4承担物品价值与时尚再估值",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L1531：'可持续性在根本上是意义危机而非环境危机'——核心命题",
+    "L488：'唯有让物质文化重新有意义，才可能可持续'",
+    "Ch5：经久之物（念珠为典范）——意义高于物性",
+    "Ch8：'时尚未必是可持续之敌'——时尚再估值",
+    "Ch12：'神圣时间'与产品短暂性；Ch14：短暂物设计"
+  ]
+}

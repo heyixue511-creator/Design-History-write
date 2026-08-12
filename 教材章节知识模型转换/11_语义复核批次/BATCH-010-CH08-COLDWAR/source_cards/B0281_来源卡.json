@@ -1,0 +1,33 @@
+{
+  "source_id": "B0281",
+  "corpus": "book",
+  "folder_name": "M. Havinden：《Colonialism and Development Britain and Its Tropical Colonies, 1850-1960》",
+  "material_type": "殖民经济发展史（经济史专著）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\M. Havinden：《Colonialism and Development Britain and Its Tropical Colonies, 1850-1960》.md",
+  "duplicate_group": "与B0303/B0463/B0427等共享殖民档案时只计一份P0；本书为经济史侧，不承担设计对象证据",
+  "files": [{"report_file_count": 20, "report_characters": 4624}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.7", "grade": "B", "verification": "V2", "role": "colonial_development_policy"},
+    {"section_id": "8.7", "grade": "B", "verification": "V2", "role": "plan_execution_gap"},
+    {"section_id": "8.4", "grade": "C", "verification": "V2", "role": "infrastructure_legacy"},
+    {"section_id": "8.5", "grade": "C", "verification": "V2", "role": "dual_mandate_critique"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Havinden（埃克塞特大学）与Meredith（新南威尔士大学）合著，Routledge 1993；英国热带殖民地经济发展史综述（1850—1960），13章＋51个统计表格",
+    "核心论题：殖民发展政策演化与'Chamberlain观点'的胜利（国家主导基础设施）；计划—执行差距；贸易依赖与结构性不平衡；'托管'理念的局限性；基础设施先行与工业化缺失",
+    "关键事件：Chamberlain建设性帝国主义（1895—1903）、1929年《殖民地发展法》、1940年《殖民地发展与福利法》（CDW Act）、坦噶尼喀花生计划失败",
+    "史料：英国官方档案（殖民部、贸易部、外交部、财政部、内阁文件）＋公司档案（Unilever/UAC）＋海关统计；作者自认史料偏向英国官方视角",
+    "本书为经济史/政策史专著：对第八章承担殖民发展制度与去殖民化经济遗产侧证据；设计史命题须另找对象证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L004：'发展政策演变过程中最令人警醒的方面是，计划远远超过了实地表现'——计划—执行差距核心命题",
+    "L004：1920年代约90%的殖民地发展资金用于东非和中非铁路建设，且几乎全部为贷款而非赠款",
+    "L004：双重托管（Lugard 1922）话语与实践的矛盾",
+    "L002：'未做之事'（things that were not done）——基础设施不足与工业化滞后比政策失误更关键",
+    "L004：坦噶尼喀花生计划成为宏大计划遭遇严酷现实的最著名失败案例"
+  ]
+}

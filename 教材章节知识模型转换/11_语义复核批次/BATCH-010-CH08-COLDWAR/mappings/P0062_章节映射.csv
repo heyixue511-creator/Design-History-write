@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0062,8.2,A,V2,khrushchev_modern_housing,赫鲁晓夫时代大众住房运动与"当代风格"室内设计：工业化预制住房、理性现代主义美学与大众消费构成"Khrushchev Modern"——斯大林之后一种"伟大而不均衡"的社会主义现代性形态,作者自创概念（2006）；住房运动史实可证；"不均衡占用"为作者解释,源文件L33-59、L221,ACCEPTED_AS_CORE_SOURCE
+P0062,8.2,A,V2,expert_homemaker_negotiation,苏联住宅是专家规划与持家者日常"战术"协商的产物："修理文化"预设任何新购商品都需使用者修补劳动；uiut（舒适）被社会化为反小市民的功能性舒适,访谈项目未完成、Torshilova调查仅一栋楼不可推广（作者自陈限度）,源文件L171-215、L189,ACCEPTED_AS_CORE_SOURCE
+P0062,8.1,B,V2,art_into_life_exhibition,1961年莫斯科"Art into Life!"（Iskusstvo — v byt!）住宅陈设展览及留言簿：专家趣味规划与观众反应的互动证据,展览留言簿为"声音的证据"；观众反应样本有限,源文件L49、L195-215,ACCEPTED_AS_SUPPORTING_SOURCE
+P0062,8.3,B,V2,vniite_consumer_production,VNIITE（全苏技术美学研究所）与"理性消费规范"：消费者作为话语实体被建构为变革动力，其实际能动性受中央计划经济严格限制；VNIITE问卷14000份回复,规范体系为官方话语；能动性限制为作者论证,源文件L105-153、L147,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,36 @@
+{
+  "source_id": "B0021",
+  "corpus": "book",
+  "folder_name": "Andrew Feenberg：《Transforming Technology A Critical Theory Revisit》",
+  "material_type": "技术批判理论（法兰克福学派后学）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Andrew Feenberg：《Transforming Technology A Critical Theory Revisit》.md",
+  "duplicate_group": "与B0267（Winner）、B0296（Heidegger）、B0413（Winograd/Flores）共享技术哲学对象；本书为'技术代码''民主合理化'主源",
+  "files": [{"report_file_count": 18, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "democratic_rationalization"},
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "technical_code"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "margin_of_maneuver"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Feenberg（加拿大西蒙弗雷泽大学，法兰克福学派技术批判传统），《Transforming Technology》",
+    "核心命题：超越技术哲学'工具论-实体论'二元对立——技术不是无法改变的宿命，而是充满政治斗争的曖昧场域；'民主不是技术的敌人，而是通往替代性现代文明的技术重构之路'",
+    "技术代码（technical code）：设计决策中沉积的社会霸权——同一技术系统可以在不同霸权之间'倾斜'（同一技术可在资本主义或社会主义文化中承担不同功能）",
+    "民主合理化（democratic rationalization）：通过被支配者的参与重构技术体系",
+    "操作余量/战术能动空间（margin of maneuver）：被支配者在技术环境中利用计划的'粗糙性'赢得的局部自主行动空间——抵抗的内在来源",
+    "参与者利益（participant interests）：个体因在技术网络中的具体参与产生的利益",
+    "案例：DEC VAX Notes会议系统（工作场所民主化）、法国Minitel被用户改造为交流平台、中国文革'三结合'技术攻关、苏联计划体制",
+    "引用WBSI在线教育经验（1981）与本体论设计（Winograd/Flores）",
+    "本书为技术批判理论（B级）：对16.3承担技术代码与民主合理化",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L879-887：操作余量/战术能动空间——'战术的反应不是从外面注入技术介导的游戏，而是从游戏内部产生的、被社会赋予的必要自由'",
+    "L317-321：参与者利益概念",
+    "L1069-1071：本体论设计（Winograd和Flores）",
+    "L999-1005：DEC VAX Notes——工作场所民主化案例",
+    "L1166-1168：法国Minitel被用户改造为交流平台"
+  ]
+}

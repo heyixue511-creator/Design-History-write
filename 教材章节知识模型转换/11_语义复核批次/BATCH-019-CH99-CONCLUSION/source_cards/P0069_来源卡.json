@@ -1,0 +1,35 @@
+{
+  "source_id": "P0069",
+  "corpus": "paper",
+  "folder_name": "Ulla Johansson-Sköldberg, Jill Woodilla：《Design Thinking Past, Present and Possible Futures》",
+  "material_type": "设计思维元话语论文",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Ulla Johansson-Sköldberg, Jill Woodilla：《Design Thinking Past, Present and Possible Futures》_paged_clean.md",
+  "duplicate_group": "与设计思维文献（Dorst、Kimbell等）为同一论争轴；本文为双话语地图主源",
+  "files": [{"report_file_count": 9, "report_characters": 3671}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "dual_discourse_design_thinking"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "translation_loss"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "wicked_problems_genealogy"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Johansson-Sköldberg（哥德堡大学设计管理讲席教授）/Woodilla/Çetinkaya，专刊论文；168项文献人口学与话语分析（80%以上为2000年后）",
+    "双话语命题：designerly thinking（设计领域，五个认识论子话语：Simon人工物创造/Schön反思实践/Buchanan问题求解/Lawson&Cross实践意义建构/Krippendorff意义创造）vs design thinking（管理领域，三个起源：IDEO工作方式/Martin管理者技能/Boland&Collopy管理理论）",
+    "'翻译丢失'命题：管理版设计思维化约为'创造力'与'工具箱'，丢失创造力的完整性与工具箱使用条件——两话语几乎互不引用",
+    "无学术根基则话语'极可能消亡'（预测未预见2010年代后制度化扩张，属时代局限）",
+    "三个修复性研究路径：团队工作、意义创新、民族志",
+    "社会建构主义立场拒绝本质主义定义",
+    "限度：文献库构建有主观性（排除工程类）；管理话语批判基于文本特征而非实践效果；五话语划分内部异质性处理有限",
+    "本文为设计思维元话语（A级）：对C.0承担双话语地图",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L48-58：五认识论子话语（Simon/Schön/Buchanan/Lawson&Cross/Krippendorff）",
+    "L127-133：管理话语三起源（IDEO/Martin/Boland&Collopy）",
+    "L177-185：'翻译丢失'——化约为创造力与工具箱",
+    "L203：两话语几乎互不引用（仅一条反向引用）",
+    "L191-195：三个研究示例（团队/意义创新/民族志）"
+  ]
+}

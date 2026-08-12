@@ -1,0 +1,35 @@
+{
+  "source_id": "B0327",
+  "corpus": "book",
+  "folder_name": "None：《China design now , None》",
+  "material_type": "中国当代设计研究（V&A展览著作）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\None：《China design now , None》.md",
+  "duplicate_group": "与B0500（沈榆）、B0485（曹小鸥）等中国设计史来源共享中国当代设计对象；本书为V&A策展视角（2008年时点）",
+  "files": [{"report_file_count": 24, "report_characters": 4309}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.6", "grade": "B", "verification": "V2", "role": "three_cities_urban_visual"},
+    {"section_id": "13.5", "grade": "B", "verification": "V2", "role": "informal_economy_design"},
+    {"section_id": "13.7", "grade": "B", "verification": "V2", "role": "chineseness_construction"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "professional_networks_recovery"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "张红星/Lauren Parker主编，V&A博物馆2008年出版，与同名展览同步；聚焦1990年代初至2008年北京奥运会前夕中国设计文化",
+    "三城叙事：深圳'前沿城市'（平面设计发源地）、上海'梦想之城'（消费主义与时尚）、北京'未来之城'（国家意志与建筑奇观）",
+    "核心论题：设计文化形成机制（正式/非正式经济双轨、国家主导/市场驱动双重动力、设计师创业精神）；'中国性'（Chineseness）构建；现代性路径的独特性（'新新中国'xin xin zhongguo概念）；代际转型与青年文化（'大声展'DIY一代）",
+    "关键概念：非正式创意经济、第二职业（chaogeng）、'面子项目'/'肚子项目'、承包制、打口一代（dakou generation）、跳跃式发展",
+    "个案：深圳王序/王粤飞、上海王一扬/马可、北京鸟巢/CCTV总部（Herzog & de Meuron、OMA）",
+    "限度：三城框架忽略广州/杭州/成都等设计中心；内陆设计生态未覆盖；对政府角色和审查制度讨论谨慎",
+    "本书为中国当代设计主源（V&A策展视角）：对13.6承担三城消费视觉（B级）、13.5承担非正式经济（B级）、13.7承担中国性构建（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L413-415：三城框架——12位评论者/记者/学者/从业者贡献",
+    "L299-381：非正式创意经济、第二职业（chaogeng）、'面子项目'/'肚子项目'、承包制",
+    "L630-632：'中国性'构建——深圳汉字排版实验、上海时尚、北京建筑",
+    "L383-410：'新新中国'（xin xin zhongguo）概念（Zhang Yiwu）",
+    "个案：1992年'平面设计在中国'展、2005年'大声展'（Get It Louder）、鸟巢、CCTV总部"
+  ]
+}

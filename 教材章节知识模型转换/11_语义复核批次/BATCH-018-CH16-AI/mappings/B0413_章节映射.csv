@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0413,16.1,A,V2,rationalistic_tradition_critique,理性主义传统批判（表征+搜索理解心智忽略了存在、实践卷入与社会承诺）——16.1从规则系统到机器学习的设计理论前史,哲学批判（1986）；深度学习对'学习不能超越初始表征'论证构成新经验张力（作者自认限度）,Ch2、Ch8分析报告,ACCEPTED_AS_CORE_SOURCE
+B0413,16.1,A,V2,ontological_design_computers,本体论设计：在破裂的涌现空间中设计工具即设计人的存在方式——'本体论设计'概念奠基（16.1设计对象转向）,作者理论（1986）；概念为Escobar（B0032）、Willis（P0005）直接继承,Ch12分析报告,ACCEPTED_AS_CORE_SOURCE
+B0413,16.5,C,V2,commitment_dialogue,设计中心从"表征与决策"转向"承诺、对话"：管理是承诺的对话网络——16.5人的控制权理论资源,作者理论（1986）；对话网络实现以协调者产品为准,Ch11分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

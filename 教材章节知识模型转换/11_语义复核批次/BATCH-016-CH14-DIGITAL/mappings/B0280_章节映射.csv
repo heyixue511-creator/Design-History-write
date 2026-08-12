@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0280,14.3,B,V2,thoughtful_design_stance,深思熟虑的设计立场：反思性判断、概念清晰性与品质表述（articulation）而非方法论遵循——交互设计作为设计学科,作者理论（2004）；学科立场为规范性命题,整体分析报告（Ch1、Ch7）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0280,14.2,B,V2,material_without_qualities,"无品质的材料"（Material without Qualities）：数字技术的品质在设计过程中被共同建构，非预先给定——数字设计材料论,作者核心概念（2004）；概念为分析框架,Ch5-6分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0280,14.3,B,V2,use_qualities_map,使用品质地图（六组范例十八种使用品质）：交互品质的表述语言——设计知识的articulation,品质地图（2004）；品质评估的实证验证未完成,Ch5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

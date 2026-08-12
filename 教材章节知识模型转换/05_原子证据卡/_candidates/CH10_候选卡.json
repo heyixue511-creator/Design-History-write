@@ -1,0 +1,21 @@
+[
+ {
+  "evidence_id": "EV-C0595",
+  "claim": "工艺美术从个体作坊→手工业合作社→集体企业→回归个体的命运；轻工部建制沿革（1954-1978）；毛泽东1950年代批示定位手工艺为工业化原始积累工具",
+  "source_id": "B0495",
+  "source_location": "核对L10毛泽东批示引文与轻工部年表",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "10.1"
+  ],
+  "textbook_function": "institutional_reorganization_and_term_continuity",
+  "supports": [
+   "工艺美术从个体作坊→手工业合作社→集体企业→回归个体的命运；轻工部建制沿革（1954-1978）；毛泽东1950年代批示"
+  ],
+  "does_not_support": [
+   "I章L10-L12（政策文献为直接史料）"
+  ],
+  "status": "candidate"
+ }
+]

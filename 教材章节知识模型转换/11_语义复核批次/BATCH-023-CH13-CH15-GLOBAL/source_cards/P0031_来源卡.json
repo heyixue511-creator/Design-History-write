@@ -1,0 +1,35 @@
+{
+  "source_id": "P0031",
+  "corpus": "paper",
+  "folder_name": "Frampton, Kenneth：Towards a Critical Regionalism：Six Points for an Architecture of Resistance, 1983",
+  "material_type": "建筑理论经典论文（批判的地域主义）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Frampton, Kenneth：Towards a Critical Regionalism：Six Points for an Architecture of Resistance, 1983_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 3360}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.4", "grade": "B", "verification": "V2", "role": "critical_regionalism"},
+    {"section_id": "15.6", "grade": "C", "verification": "V2", "role": "regional_resistance_universal_civilization"},
+    {"section_id": "11.4", "grade": "C", "verification": "V2", "role": "tactile_vs_visual"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Kenneth Frampton，《Towards a Critical Regionalism: Six Points for an Architecture of Resistance》（1983），收录于Hal Foster编《The Anti-Aesthetic: Essays on Postmodern Culture》（与Baudrillard、Habermas、Jameson、Said等同列）",
+    "以Ricoeur悖论开篇：'如何变得现代而又回归源头'——普遍文明（universal civilization）通过优化技术、汽车分配与土地投机对地方文化（locally inflected culture）的全面压倒",
+    "以先锋派150年兴衰史论证'前锋'解放方案的破产；提出'后卫'（arrière-garde）立场与'批判的地域主义'（Critical Regionalism）策略",
+    "核心论点：建筑唯有作为批判性后卫、以地方特异性中介普遍文明（双重中介double mediation），方能维持抵抗性文化实践",
+    "三重支柱：①制度-空间——有界的场所形式（place-form / bounded domain）抵抗无场所性的巨构城市带（Megalopolis）；②物质-自然——显露的建构（tectonic/Tektonik）、地形/气候/光的回应；③感知-身体——不可还原的触觉经验（tactile）抵抗视觉霸权",
+    "案例：Bagsvaerd Church（1976）、Säynatsalo Town Hall（1952）、Portland City Annex（1982）；批判Populism与scenography（舞台布景式建筑）",
+    "历史地位：将'批判的地域主义'从Tzonis/Lefaivre的命名（1981）提升为全球性建筑理论范式；开启Frampton此后《建构文化研究》（1995）与地域主义十条（1987）两条思想线；为设计史中技术决定论批判、设计的地域性、身体-感知设计提供理论源头（Pallasmaa触觉论直接先驱）",
+    "限度：案例集中于欧美现代主义谱系（后发展国家问题未展开）；'谨慎诉诸普遍技术'的界限未标准化；现象学前提自承可疑",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L14：Ricoeur'如何变得现代而又回归源头'",
+    "L55-103：批判的地域主义与双重中介",
+    "L105-125：场所形式抵抗",
+    "L148-153：显露的建构",
+    "L157-175：触觉vs视觉"
+  ]
+}

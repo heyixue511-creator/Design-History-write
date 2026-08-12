@@ -1,0 +1,36 @@
+{
+  "source_id": "B0292",
+  "corpus": "book",
+  "folder_name": "Margolin：《World history of design》",
+  "material_type": "全球设计史通史（Vol 2：1917—1945）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Margolin：《World history of design》.md",
+  "duplicate_group": "VGRP007-TRANSLATION：与B0289（英文Vol 2原版2015）为同一版次不同数字化转换，只计一个独立书目实体；与B0507（中译本2015）为译本族；重合命题不独立计证",
+  "files": [{"report_file_count": 26, "report_characters": 3949}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "soviet_design_experiment_prehistory"},
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "authoritarian_state_design"},
+    {"section_id": "8.1", "grade": "C", "verification": "V2", "role": "total_war_mobilization_design"},
+    {"section_id": "0.2", "grade": "B", "verification": "V2", "role": "modernity_spotty_distribution"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Margolin《World History of Design, Volume 2: World War I to World War II》的Internet Archive数字化转换（2022）；与B0289同一著作，VGRP007",
+    "覆盖1917—1945（Ch20-37）：革命社会设计实验、传统强国协商、多国区域综合、二战军事化动员",
+    "核心命题：现代性不均衡分布（'modernity was a spotty enterprise'）——没有单一'现代主义胜利'叙事",
+    "第20章（苏联1905—1928）：革命宣传多媒介体系、构成主义生产艺术、Vkhutemas、NEP商业广告实验——社会主义现代主义前史",
+    "第27章（极权国家）：意/德/苏/葡的国家美学工具化；第37章：二战全面军事化动员",
+    "方法论局限（作者自认与他评）：'民族国家容器'、'中心-边缘'惯性、大人物偏向、消费/接受缺失；非英语原始材料依赖英文二手研究",
+    "时段边界：本书覆盖1945年前，对第八章（1945后冷战）只承担前史与对照功能，不承担冷战主体命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L03：'现代性不均衡分布'核心命题（现代设计被选择性接受、抵抗、改造和工具化）",
+    "第20章：Lissitzky《用红色楔子击败白色》(1920)——'it is highly unlikely that it communicated effectively with a mass audience'",
+    "第20章：Vkhutemas 1930年关闭时仅约20名学生获设计学位",
+    "第20章：Rodchenko 1925年巴黎'工人俱乐部'——'communism's discipline'",
+    "第20章：Stepanova/Popova纺织设计'仅有两打左右投入生产'",
+    "第20章：Tatlin纪念碑——'ambitions far exceeded the state's ability to make it a reality'"
+  ]
+}

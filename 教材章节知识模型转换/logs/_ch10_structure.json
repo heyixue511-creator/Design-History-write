@@ -1,0 +1,536 @@
+{
+ "10.1": {
+  "grades": {
+   "B": 4,
+   "A": 1,
+   "C": 14,
+   "X": 1
+  },
+  "count": 20,
+  "items": [
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "A",
+    "verification": "V2",
+    "role": "institutional_reorganization_and_term_continuity",
+    "accepted_claim": "工艺美术从个体作坊→手工业合作社→集体企业→回归个体的命运；轻工部建制沿革（1954-1978）；毛泽东1950年代批示定位手工艺为工业化原始积累工具",
+    "evidence_boundary": "I章L10-L12（政策文献为直接史料）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "prc_crafts_discourse",
+    "accepted_claim": "1949年后“工艺美术”话语主导：毛泽东手工业改造思想、中央工艺美术学院1956年建院、《工艺美术通讯》上庞薰琹/陈之佛/张道一/郑可的定义、1950-70年代设计“名存实亡”判断",
+    "evidence_boundary": "属第一章近代史收束段，非1949年史专章；“名存实亡”为作者概括性判断",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0485",
+    "title": "曹小鸥：《中国现代设计思想：生活、启蒙、变迁》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "reform_era_restart",
+    "accepted_claim": "1978年后中国现代设计重新启蒙：1998年教育部目录更名“艺术设计”、1995年广州会议、1999年中央工艺美院并入清华大学",
+    "evidence_boundary": "更名事件史实可考，“重新启蒙”为作者框架；与B0500/B0472同对象只计一份P0",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0493",
+    "title": "杭间：《中国工艺美学史(第三版修订本)》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "craft_concept_and_regime",
+    "accepted_claim": "“工艺美术＝造物的美术”概念界定（不只是设计且须制成终端产品，“先工后美、工艺并存”）；1949年后工艺美术体制变迁（手工业合作社→中央手工业管理局→轻工部，外销换汇使命）",
+    "evidence_boundary": "制度沿革以1954-1978年机构调整为据",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0511",
+    "title": "赵农：《中国艺术设计史》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "art_design_replacing_craft_art",
+    "accepted_claim": "1998年\"艺术设计\"替代\"工艺美术\"是文化方式与生活观念的改变：\"图案—工艺美术—艺术设计\"学科演进——术语延续与制度重组",
+    "evidence_boundary": "作者论述（2004）；学科目录变更的官方文件另见B0495",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0468",
+    "title": "何人可：《工业设计史(第四版)》，2010",
+    "grade": "C",
+    "verification": "V2",
+    "role": "three_stages_framework",
+    "accepted_claim": "三阶段（萌芽—手工艺—工业）与三时期（酝酿—形成—繁荣多元）框架；工业设计是批量生产与市场竞争的产物——术语与分期框架的中文教材表述",
+    "evidence_boundary": "作者框架（2010）；与B0503/B0486通用史实只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0471",
+    "title": "周博：《中国现代文字设计图史》，2017",
+    "grade": "C",
+    "verification": "V2",
+    "role": "type_design_institution",
+    "accepted_claim": "文字设计师职业与字体制度：字库、行业规范与'复兴经典'——专业制度的一侧",
+    "evidence_boundary": "职业史个案（Ch9）；行业规范文件未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0476",
+    "title": "夏燕靖：《中国艺术设计史(升级版)》，2017",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_function_bentong_history",
+    "accepted_claim": "艺术设计史侧重设计与功能，区别于侧重工艺与欣赏的工艺美术史——\"工艺美术\"范畴辨析的中文教材表述（制度重组的术语背景）",
+    "evidence_boundary": "作者界定（2016）；术语之争的官方文件（1998学科目录）另见B0495",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0476",
+    "title": "夏燕靖：《中国艺术设计史(升级版)》，2017",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chinese_design_continuity",
+    "accepted_claim": "中国设计\"自古有之、连绵不断\"（原发力和继发力）命题：礼制性设计、材美工巧、贸易瓷等历史延续——第十章制度重组的通史背景",
+    "evidence_boundary": "教材综述命题（2016）；新中国时期仅78行（作者自认简略）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0479",
+    "title": "孔铮桢，綦明著：《物用之美_中国设计艺术的历史与理论》，2014",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modern_chinese_design_ch8",
+    "accepted_claim": "近现代中国设计的\"传承与融合\"主线：四门类现状、设计教育与重大设计事件——制度重组的历史背景",
+    "evidence_boundary": "通史综述（2014）；近现代部分细节以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0479",
+    "title": "孔铮桢，綦明著：《物用之美_中国设计艺术的历史与理论》，2014",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_definition_purposeful",
+    "accepted_claim": "设计=人类一切有目的的活动；\"生活产生设计，设计推动生活\"；造型第一性、装饰第二性——设计定义的物用论",
+    "evidence_boundary": "作者定义（2014）；与B0495（设计道）、B0240（小写设计）等定义论并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0483",
+    "title": "文一：《伟大的中国工业革命发展政治经济学一般原理批判纲要》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "market_as_public_good",
+    "accepted_claim": "市场是昂贵公共品、市场创造者决定工业化成败：国家与商人共同创造市场——计划经济的制度逻辑（设计制度重组的经济史解释）",
+    "evidence_boundary": "理论命题（2016）；与华盛顿共识/新制度经济学的批判性对话",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0488",
+    "title": "李砚祖, 王春雨：《室内设计史》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "exogenous_transplantation",
+    "accepted_claim": "中国近代建筑属\"外发次生型\"、现代设计学科经历\"外来学科移植\"——制度重组的历史解释",
+    "evidence_boundary": "作者判断（2013）；'移植'的具体制度链条另见B0492/B0465等",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0500",
+    "title": "沈榆：《观念的演进：中国现代设计史》，2021",
+    "grade": "C",
+    "verification": "V2",
+    "role": "new_china_design_institution",
+    "accepted_claim": "1949年后工程自发型设计与出口贸易（一五计划、156项工程、1957年首届广交会、出口纺织品）关联新中国设计制度",
+    "evidence_boundary": "以观念延续为主线，制度层面非本书重点，仅局部涉及",
+    "status": "ACCEPTED_AS_SUPPLEMENT"
+   },
+   {
+    "source_id": "B0501",
+    "title": "王受之：《世界平面设计史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "graphic_design_definition",
+    "accepted_claim": "平面设计＝以印刷批量为手段的二维视觉传达活动；视觉传达准确第一、美化第二——术语定义的中文教材表述",
+    "evidence_boundary": "作者定义（2002）；与B0214（Drucker）定义论并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0511",
+    "title": "赵农：《中国艺术设计史》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "daoqi_unity",
+    "accepted_claim": "道器一体（《易·系辞》\"形而上者谓之道，形而下者谓之器\"）：道与器在\"形\"的规范内贯通——设计文化思想主线",
+    "evidence_boundary": "作者诠释（2004）；道器之争的学术谱系另见B0493",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0512",
+    "title": "赵江洪：《设计艺术的含义》，1999",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_art_naming",
+    "accepted_claim": "设计艺术命名与\"设计=科学与艺术结合的人类有目的的活动\"定义——术语延续的中国理论表述",
+    "evidence_boundary": "作者定义（1999）；与B0495（设计道）、B0240等定义论并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0512",
+    "title": "赵江洪：《设计艺术的含义》，1999",
+    "grade": "C",
+    "verification": "V2",
+    "role": "professionalization_1945",
+    "accepted_claim": "1945年分界与设计—制造分离、理性主义与设计管理、国别道路——制度重组的职业化背景",
+    "evidence_boundary": "通论表述（1999）；中国职业化的具体制度另见专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_institutional_evidence",
+    "accepted_claim": "建设体制确立与术语延续：三年恢复期确立基本建设体制；“民族形式”“社会主义内容”“复古主义”“十四字方针”等术语沿革及“现代建筑/现代性”术语界定",
+    "evidence_boundary": "第3章L195–310、第1章L16–22、第4章L347–353",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0477",
+    "title": "夏燕靖：《中国艺术设计史》",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0476",
+    "accepted_claim": "与B0476为同一著作《中国艺术设计史》不同版次（VGRP009，2011第三版vs 2016升级版）；B0476已承担全部命题（设计功能本位、术语辨析、大事年表）",
+    "evidence_boundary": "本条目不重复计证；引用以B0476（升级版）为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0476"
+   }
+  ]
+ },
+ "10.2": {
+  "grades": {
+   "C": 2
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0483",
+    "title": "文一：《伟大的中国工业革命发展政治经济学一般原理批判纲要》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "proto_industrialization_mao_era",
+    "accepted_claim": "原始工业化（乡村工业、家庭包工制、粮食安全与农业革命）作为毛泽东时代到改革开放的过渡——计划生产中设计劳动的宏观经济背景",
+    "evidence_boundary": "经济史理论（2016）；设计劳动的制度细节以专史/档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_production_process_evidence",
+    "accepted_claim": "计划经济下设计劳动的组织方式：建筑师执行国家意志，设计任务来源为国家计划；“解剖麻雀”“下楼出院”“三结合”“现场设计”等设计工作机制",
+    "evidence_boundary": "第6章L675–685、第1章L91",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "10.3": {
+  "grades": {
+   "C": 2,
+   "B": 1
+  },
+  "count": 3,
+  "items": [
+   {
+    "source_id": "B0499",
+    "title": "樊进, 龙红：《中国当代设计全集 第4卷 平面类编 图案篇》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "product_patterns_daily_goods",
+    "accepted_claim": "产品图案（火花、镜子画、搪瓷、玻璃、暖水瓶、文具盒、唱片封套、摆钟、陶瓷罐盘）：1949年以来日用品图案案例——轻工业与日用品的图案侧",
+    "evidence_boundary": "图录案例（约37例）；案例以南京艺术学院、中央工艺美院系作品居多（地域与学院偏向，作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0468",
+    "title": "何人可：《工业设计史(第四版)》，2010",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chinese_industrial_design_textbook",
+    "accepted_claim": "中文工业设计通史中的战后分期（北欧/优良设计/美国商业性设计/台韩/CI）：工业设计侧的中文教材参照——10.3轻工业与日用品的外围框架",
+    "evidence_boundary": "教材概述（2010）；中国大陆现代设计着墨有限（作者自认限度），中国侧以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0499",
+    "title": "樊进, 龙红：《中国当代设计全集 第4卷 平面类编 图案篇》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "building_patterns_public",
+    "accepted_claim": "建筑图案（人民大会堂、民族文化宫、南京长江大桥、地铁壁画、国家大剧院约22例）：大型公共活动的装饰侧证据",
+    "evidence_boundary": "图录案例；建筑装饰的设计过程档案另见专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "10.4": {
+  "grades": {
+   "B": 2,
+   "C": 3
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_primary_evidence",
+    "accepted_claim": "大型公共活动与公共建筑实证：国庆十大建筑（1959）、文革期体育馆（首都/五台山/上海/辽宁）、1990s交通/科教/博览建筑类型档案",
+    "evidence_boundary": "第5章L525–671、第6章L726–793、第8章L1423/1468/1501",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0516",
+    "title": "霍维国, 霍光：《中国室内设计史(第2版)》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "prc_interior_design_three_stages",
+    "accepted_claim": "新中国成立后室内设计三阶段（形成期/徘徊期/发展期）：现代室内设计飞速发展的制度分期——大型公共建筑与公共设施的室内侧",
+    "evidence_boundary": "通史教材分期（2007二版）；三阶段划分的档案依据未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0488",
+    "title": "李砚祖, 王春雨：《室内设计史》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "china_modern_interior_prc",
+    "accepted_claim": "中国现代室内设计（1940—2000）：建国初期、改革开放与设计繁荣——大型公共建筑与设施的室内侧补充",
+    "evidence_boundary": "通史教材（2013）；建国初期个案（十大建筑等）另见专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0488",
+    "title": "李砚祖, 王春雨：《室内设计史》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "institutional_perspective",
+    "accepted_claim": "制度史视角（管理机构与建筑制度）：把建筑史纳入制度史——公共建筑与设施的制度框架",
+    "evidence_boundary": "方法论框架（2013）；具体制度档案未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0516",
+    "title": "霍维国, 霍光：《中国室内设计史(第2版)》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ten_great_buildings",
+    "accepted_claim": "十大建筑（1950s北京）作为大型公共建筑群的个案：公共建筑的设计与装饰证据",
+    "evidence_boundary": "教材概述；十大建筑的委托/建设档案另见专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "10.5": {
+  "grades": {
+   "C": 2,
+   "B": 4
+  },
+  "count": 6,
+  "items": [
+   {
+    "source_id": "B0266",
+    "title": "Landsberger：《Chinese propaganda posters from revolution to modernization》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "four_modernizations_poster_analysis",
+    "accepted_claim": "四化时期宣传画的内容分类与符号学分析：目标群体（青年/女性/知识分子/农民/工人/军人/干部/少数民族）、象征意象（航天飞机取代拖拉机、安全帽取代鸭舌帽）与\"去政治化、去动员化、去英雄化\"趋势",
+    "evidence_boundary": "约1000幅收藏样本非完整全国总目；样本代表性存疑（作者自认缺出版社目录）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0471",
+    "title": "周博：《中国现代文字设计图史》，2017",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mao_era_type_design",
+    "accepted_claim": "毛泽东时代的文字设计（Ch15）：字体政治、直排改横排、毛体与报宋——宣传视觉与出版系统的字体制度",
+    "evidence_boundary": "字体史个案充分；'毛体'的官方采用与民间使用边界未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0471",
+    "title": "周博：《中国现代文字设计图史》，2017",
+    "grade": "B",
+    "verification": "V2",
+    "role": "type_politics_liberated_areas",
+    "accepted_claim": "字体政治、抗战与解放区（Ch14）：文字设计的政治动员维度——宣传系统的字体史",
+    "evidence_boundary": "个案证据；解放区字体生产的规模数据未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0499",
+    "title": "樊进, 龙红：《中国当代设计全集 第4卷 平面类编 图案篇》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "wenchuan_ticket_patterns",
+    "accepted_claim": "文宣图案（报头、黑板报头、宣传栏约19例）与票证图案（粮票、布票、购货券、公债、国库券约31例）：宣传视觉与票证制度的图案证据",
+    "evidence_boundary": "图录案例；票证图案可证制度存在与视觉形态，不可证流通细节",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0501",
+    "title": "王受之：《世界平面设计史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "international_style_reference",
+    "accepted_claim": "瑞士国际主义平面设计风格与战后意识形态转化（从'为大众服务'到'为形式而形式'）——宣传视觉与出版系统的国际对照",
+    "evidence_boundary": "中文通史教材（2002）；中国大陆设计不予讨论（作者声明，L447）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_symbolic_evidence",
+    "accepted_claim": "政治宣传符号的建筑化：政治建筑“形象明喻与数字暗喻”两手法（“忠”字形、“中”字形、23级台阶、8.1m底座、12.26m像高等）",
+    "evidence_boundary": "第6章L688–706",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "10.6": {
+  "grades": {
+   "B": 2,
+   "C": 4
+  },
+  "count": 6,
+  "items": [
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "craft_and_national_form_policy",
+    "accepted_claim": "《加快手工业的社会主义改造》后手工艺被当作重工业原始积累资本工具，“牺牲掉了它们的优势”；“工艺美术”重提为中国本土设计的文化身份识别",
+    "evidence_boundary": "IV章L116-L118、I章L20（观念史评述+政策文献）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0499",
+    "title": "樊进, 龙红：《中国当代设计全集 第4卷 平面类编 图案篇》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "folk_patterns_craft",
+    "accepted_claim": "民间图案（年画、剪纸、农民画、麦秆剪贴、刺绣纸样约21例）与\"图必有意，意必吉祥\"：传统技艺与民族形式的图案延续",
+    "evidence_boundary": "图录案例；民间图案的接受与使用侧证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0476",
+    "title": "夏燕靖：《中国艺术设计史(升级版)》，2017",
+    "grade": "C",
+    "verification": "V2",
+    "role": "appendix_timeline",
+    "accepted_claim": "附录\"工艺美术/艺术设计大事年表（1949—2000）\"与历史年代对照表——第十章制度重组的工具性时间索引",
+    "evidence_boundary": "教材附录（2016）；年表条目须与专史档案互校",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0479",
+    "title": "孔铮桢，綦明著：《物用之美_中国设计艺术的历史与理论》，2014",
+    "grade": "C",
+    "verification": "V2",
+    "role": "craft_design_theory",
+    "accepted_claim": "古代设计理论及文献（哲学/生活/技术三层文献谱系）与\"物用\"观：\"物用之美\"——工艺美术理论传统的表述",
+    "evidence_boundary": "作者理论框架（2014）；理论谱系的学术史另见B0493",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0511",
+    "title": "赵农：《中国艺术设计史》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modern_national_culture_position",
+    "accepted_claim": "中国设计文化定位为\"现代的民族文化形态\"；设计文化=物化+文化双重价值——工艺美术与民族形式的立场表述",
+    "evidence_boundary": "作者文化立场（2004）；民族形式的具体机制以B0514/专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_comparative_evidence",
+    "accepted_claim": "“民族形式”被选择、标准化与政治化的建筑侧机制：苏联理论中国化→全国性大屋顶→反浪费批判，为工艺美术领域民族形式政治化提供对照",
+    "evidence_boundary": "第4章L347–367、L510–523",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "10.7": {
+  "grades": {
+   "C": 4,
+   "B": 1
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0514",
+    "title": "邹德侬：《中国现代建筑史》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_adaptation_evidence",
+    "accepted_claim": "短缺经济与政治变动下专业的中断与隐性延续：文革设计单位瘫痪、38.2万人下放29.1万人；“促生产”间隙中外交外贸建筑与地域性建筑的局部前进",
+    "evidence_boundary": "第6章L672–827，总纲L54–55",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0483",
+    "title": "文一：《伟大的中国工业革命发展政治经济学一般原理批判纲要》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "industrialization_order",
+    "accepted_claim": "工业化\"胚胎发育\"顺序（原始工业化→第一次工业革命→第二次工业革命）：正确顺序决定成败——短缺与专业适应的经济史框架",
+    "evidence_boundary": "作者理论（2016）；'目的论'倾向为作者自认限度",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "craft_profession_in_political_upheaval",
+    "accepted_claim": "1958年大炼钢铁、“人民公社”“大跃进”时期手工艺专业地位的牺牲——“这是设计从古代到近、现代转折时碰到的最痛苦的抉择”",
+    "evidence_boundary": "IV章L116-L118（观念史评述，直接档案有限）",
+    "status": "ACCEPTED_WITH_CAVEAT"
+   },
+   {
+    "source_id": "B0512",
+    "title": "赵江洪：《设计艺术的含义》，1999",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chinese_design_context",
+    "accepted_claim": "1990年代末中国设计理论话语：高设计（high design）、设计道德与社会主义市场经济定位——专业适应与本土理论建构",
+    "evidence_boundary": "时代语境（1999）；作者价值倾向明显（为中国设计立言，作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0516",
+    "title": "霍维国, 霍光：《中国室内设计史(第2版)》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "background_determinism",
+    "accepted_claim": "背景决定论（地理、经济、思想三基础决定室内设计发展）：设计发展的制度约束解释",
+    "evidence_boundary": "作者框架（2007）；'决定'表述的因果强度须谨慎",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "B0016",
+  "corpus": "book",
+  "folder_name": "Alison Black：《Information Design. Research and practice》",
+  "material_type": "信息设计研究与实践文集（50余位学者）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Alison Black：《Information Design. Research and practice》.md",
+  "duplicate_group": "与B0136（Tufte）、B0062（Cairo）共享信息图形对象；本文为信息设计学科全景（雷丁大学中心）",
+  "files": [{"report_file_count": 14, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "A", "verification": "V2", "role": "rhetoric_of_neutrality"},
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "transformer_isotype"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "graphic_literacy"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Black/Paul Luna/Ole Lund/Sue Walker（雷丁大学）主编《Information Design: Research and Practice》（2017），50余位作者",
+    "'中立性修辞'（Rhetoric of Neutrality，Kinross命题）：信息设计对功能性与简洁性的追求本身就是一种修辞立场而非价值无涉的透明呈现——16.3可见性政治关键",
+    "Isotype'转换者'（Transformer）概念：将专业领域的非视觉数据转化为公众可理解的视觉陈述；转换者是'公众的受托人'（L2454-2456）",
+    "图形素养（Graphic Literacy，Waller）：理解和运用页面布局等图形手段进行有效沟通的能力（L3934）",
+    "图表垃圾（Chartjunk，Tufte）的讨论与修正（L432）；策略性阅读（Strategic Reading，L3774）",
+    "机构：雷丁大学信息设计研究中心、Isotype Institute（维也纳1925-伦敦1971）、乌尔姆设计学院信息系、NATO 1978会议（Information Design Journal创刊契机）",
+    "事件：The Journal News持枪证地图争议（2012）——信息可视化道德讨论标志案例；Playfair《商业与政治图集》1786",
+    "本书为信息设计学科全景（A级）：对16.3承担中立性修辞",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L4233-4237：中立性修辞（Kinross）",
+    "L2454-2456：转换者概念",
+    "L3195-3197：持枪证地图争议（2012）",
+    "L3934：图形素养（Waller）",
+    "L2932：NATO 1978会议"
+  ]
+}

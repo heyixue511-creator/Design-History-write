@@ -1,0 +1,37 @@
+{
+  "source_id": "P0028",
+  "corpus": "paper",
+  "folder_name": "Engholm, Ida：Digital Style History：The Development of Graphic Design on the Internet, 2002",
+  "material_type": "数字设计史方法论文（风格谱系）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Engholm, Ida：Digital Style History：The Development of Graphic Design on the Internet, 2002_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 80762}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.4", "grade": "B", "verification": "V2", "role": "web_design_style_history"},
+    {"section_id": "14.4", "grade": "C", "verification": "V2", "role": "design_ideology_battle"},
+    {"section_id": "16.7", "grade": "C", "verification": "V2", "role": "digital_style_method_transfer"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Ida Engholm，《Digital Style History: The Development of Graphic Design on the Internet》，Digital Creativity 13:4, 193-211（2002），丹麦IT大学DiAC部门",
+    "核心论点：'风格'（style）可被建设性地用作网页设计图形发展的分类手段；但风格必须被理解为感知-比较-共识的产物（感知风格化/规范网络/解释共同体），而非等待鉴赏家发现的客观特征",
+    "把'风格'从艺术史鉴赏工具改造为动态分析框架：梅洛-庞蒂现象学（感知风格化）+ Enkvist语言风格学（规范网络与风格标记）+ 索绪尔langue/parole类比（风格=语法，网站=言语）",
+    "1993-2002网页设计史：从文本媒介蜕变为多媒体设计现象；HTML/浏览器/W3C标准与设计发展处于'近乎解释学循环'的互动关系（Figure 1）",
+    "批判既有'how-to'文献（Siegel三代网站论、Cloninger十种风格目录）为'准历史'（almost-history）",
+    "1990年代中期'设计意识形态之争'：Nielsen（内容/功能优先）vs Siegel（图形/审美优先）vs Zeldman（形式功能一体）",
+    "八种风格谱系：功能主义主流（HTML design、超功能主义、瑞士风格、品牌风格）+ 先锋地下（垃圾风格、lo-fi-grunge、千字节极简主义k10k、像素现象）",
+    "方法：谱系-分类法+理论嫁接+两极对比+案例分析（10幅插图、20余个一手网站样本）；元反思：风格映射'尚不成熟但前景可观'，是记录'外在形态不断消逝'的媒介发展的手段",
+    "限度：证据时效性强（2001/02快照）；样本以欧美为主（作者自认未涉非西方语境）；风格标记无操作判据",
+    "价值：2002年语境下首次系统把'风格史'方法移植到WWW平面设计的学术尝试，数字设计史早期奠基文献",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L39：网页设计从文本媒介蜕变为多媒体设计现象",
+    "L47-51：HTML/浏览器/W3C解释学循环",
+    "L75-95：风格概念三重重建",
+    "L97-115：设计意识形态之争",
+    "L117-230：八种风格谱系"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "source_id": "B0274",
+  "corpus": "book",
+  "folder_name": "Lev Manovich：《Software Takes Command》",
+  "material_type": "软件研究理论",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Lev Manovich：《Software Takes Command》.md",
+  "duplicate_group": "与B0122（Digital Design Theory）、B0176（Graphic Design Theory）共享数字设计理论对象；与B0115（数字时间）共享数字媒介对象",
+  "files": [{"report_file_count": 14, "report_characters": 5522}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.1", "grade": "A", "verification": "V2", "role": "software_as_metamedium"},
+    {"section_id": "14.1", "grade": "A", "verification": "V2", "role": "cultural_software_history"},
+    {"section_id": "14.1", "grade": "B", "verification": "V2", "role": "hybridization_velvet_revolution"},
+    {"section_id": "0.2", "grade": "C", "verification": "V2", "role": "software_epistemology"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Manovich，Bloomsbury 2013（International Texts in Critical Media Aesthetics系列第5卷）；软件研究（Software Studies）理论框架奠基",
+    "核心论点：计算机不是一种新的'媒介'——它是第一个'元媒介'（metamedium），其内容是'广泛范围的已经存在的和尚未被发明的媒介'",
+    "中心问题：'软件之后的媒介是什么？'（What is media after software?）",
+    "关键概念：文化软件（cultural software）、元媒介、永久可扩展性、媒介杂交（hybridization）、深层可混合性（deep remixability）、媒介独立/特定技术、软件认识论、'天鹅绒革命'（After Effects 1993-99运动图形转变）",
+    "方法：软件研究范式（从软件界面/工具/数据结构反向追溯文化逻辑）；双重谱系学（媒介文化实践＋计算机科学）；界面-功能-美学三元分析",
+    "先驱解读：Kay/Engelbart/Nelson/Sutherland为'媒介理论家'（一手文献：Sketchpad 1963、Mother of All Demos 1968、Personal Dynamic Media 1977）",
+    "对话：Bolter/Grusin再媒介化（批判）、McLuhan、Kittler（批判）、Greenberg、Castells",
+    "限度：聚焦商业软件（Photoshop/AE）低估开源实践；'深层可混合性'边界不清晰；社交媒体分析弱（作者自认）",
+    "本书为软件研究主源（A级）：对14.1承担元媒介理论与文化软件史",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：'软件之后的媒介是什么？'——中心问题",
+    "Ch1：Alan Kay的'通用媒体机器'构想（1970s）",
+    "Ch2：媒介=算法+数据结构（操作性定义）",
+    "Ch3：杂交化（Hybridization）——不同媒介技术在软件中交换属性",
+    "Ch5：After Effects与运动图形'天鹅绒革命'（1993-99）——深层可混合性"
+  ]
+}

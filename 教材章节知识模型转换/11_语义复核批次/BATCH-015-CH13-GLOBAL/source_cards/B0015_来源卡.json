@@ -1,0 +1,33 @@
+{
+  "source_id": "B0015",
+  "corpus": "book",
+  "folder_name": "Alice Rawsthorn：《Hello World Where Design Meets Life》，2013",
+  "material_type": "设计文化通论（设计评论）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Alice Rawsthorn：《Hello World Where Design Meets Life》，2013.md",
+  "duplicate_group": "与B0226（Heskett通识）、B0188（Heskett VSI）共享设计通论对象；同一案例（Apple、iPhone等）只计一份P0",
+  "files": [{"report_file_count": 18, "report_characters": 15004}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.7", "grade": "C", "verification": "V2", "role": "design_as_change_agent"},
+    {"section_id": "12.7", "grade": "C", "verification": "V2", "role": "design_for_90_percent"},
+    {"section_id": "13.2", "grade": "C", "verification": "V2", "role": "apple_paradigm"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Rawsthorn（英国设计评论家），Hamish Hamilton/Penguin 2013；设计文化通论（13章＋结语，书籍设计Irma Boom）",
+    "核心命题：设计是'变革的媒介/代理人'——将科学与技术转化为可理解、可使用的产品与服务；设计无处不在但长期被误解低估",
+    "章节：什么是设计（秦始皇兵器标准化开端）、谁是设计师（'所有人都是设计师'引Papanek）、什么是好设计（功能有效性/完整性/可用性）、为何那么多设计糟糕、为何人人都想'做苹果'、设计与艺术、符号传达、信息可视化、可持续发展、形式与功能、个性化定制、为'另外的90%'设计、设计的未来",
+    "好设计三标准：功能有效性（fit for purpose）、完整性（integrity）、可用性（usability）——AK-47 vs M-16案例",
+    "设计界性别偏见案例：Ray Eames、Charlotte Perriand",
+    "本书为设计文化通论（C级）：对13.7承担设计变革叙事、12.7承担90%设计命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "序言：'hello, world'隐喻——设计是变革的媒介",
+    "Ch1：秦始皇（前3世纪）兵器标准化——设计开端案例",
+    "Ch2：'所有人都是设计师'（引Papanek）；黑胡子海盗旗先例",
+    "Ch3：好设计三标准——功能有效性/完整性/可用性",
+    "Ch12：为'另外的90%'设计（全球贫困人口）"
+  ]
+}

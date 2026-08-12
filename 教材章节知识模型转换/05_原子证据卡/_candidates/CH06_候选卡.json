@@ -1,0 +1,724 @@
+[
+ {
+  "evidence_id": "EV-C0534",
+  "claim": "工艺美学作为中国设计学本土化奠基：“工艺美术是造物的美术，工艺美学是造物的美学”；六大基本特征与“适用”范畴构成概念前史的核心学科资源",
+  "source_id": "B0493",
+  "source_location": "回查clean L1与绪论",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.1"
+  ],
+  "textbook_function": "craft_aesthetics_discipline_foundation",
+  "supports": [
+   "工艺美学作为中国设计学本土化奠基：“工艺美术是造物的美术，工艺美学是造物的美学”；六大基本特征与“适用”范畴构成概念前史"
+  ],
+  "does_not_support": [
+   "概念界定为作者建构（1981年田自秉首倡经作者体系化）；“适用”引王朝闻信为史料"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0535",
+  "claim": "1998年学科目录“工艺美术”→“艺术设计”是20世纪中国重要历史事件；名词变迁折射产业结构调整与意识形态纠缠；“工艺美术”名词兴衰（百工→图案→美术工艺→工艺美术→设计艺术）",
+  "source_id": "B0495",
+  "source_location": "核对L10学科目录与批示引文、L23两大后果论述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.1"
+  ],
+  "textbook_function": "naming_reform_and_concept_history",
+  "supports": [
+   "1998年学科目录“工艺美术”→“艺术设计”是20世纪中国重要历史事件；名词变迁折射产业结构调整与意识形态纠缠；“工艺美"
+  ],
+  "does_not_support": [
+   "I章L8-L24（观念史+政策文献：学科目录、毛泽东批示、轻工部沿革、清末出使大臣奏折）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0536",
+  "claim": "1895-1937中国印刷机器本土制造兴起（明精机器厂张金林等“工头资本家”），打破对外国设备依赖并降低内陆出版门槛",
+  "source_id": "B0079",
+  "source_location": "回查第三章分章报告",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "local_machine_manufacture",
+  "supports": [
+   "1895-1937中国印刷机器本土制造兴起（明精机器厂张金林等“工头资本家”），打破对外国设备依赖并降低内陆出版门槛"
+  ],
+  "does_not_support": [
+   "企业个案+学徒口述史+海关贸易数据；口述为P0但有回忆偏差"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0537",
+  "claim": "1807-1930凸版/平版/凹版技术谱系经传教士传入（土山湾1876→点石斋1877商业化），文化审美（书法）决定技术选择",
+  "source_id": "B0079",
+  "source_location": "回查第一章分章报告与clean L163",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "technology_transfer_1807_1930",
+  "supports": [
+   "1807-1930凸版/平版/凹版技术谱系经传教士传入（土山湾1876→点石斋1877商业化），文化审美（书法）决定技术"
+  ],
+  "does_not_support": [
+   "技术编年（19媒介21机器）为作者整理；传教士报告、美华书馆年报为P0档案；“文化决定技术”为作者命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0538",
+  "claim": "国货运动与近代工商业、孙中山实业思想及上海商业美术家群体（周柏生、徐咏青、郑曼陀、杭穉英）构成晚清—民国设计观念的基础",
+  "source_id": "B0485",
+  "source_location": "回查clean L57国货运动与孙中山引文",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "national_goods_movement",
+  "supports": [
+   "国货运动与近代工商业、孙中山实业思想及上海商业美术家群体（周柏生、徐咏青、郑曼陀、杭穉英）构成晚清—民国设计观念的基础"
+  ],
+  "does_not_support": [
+   "近代史段落综合陈旭麓、李长莉等二手文献与方志辑录"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0539",
+  "claim": "晚清“师夷长技以制夷”与洋务运动开启由传统手工艺向近代工业的转变，“具有近代形态的工艺美学或设计美学开始了它的萌芽”",
+  "source_id": "B0493",
+  "source_location": "回查clean L204-217",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "late_qing_industry_shift",
+  "supports": [
+   "晚清“师夷长技以制夷”与洋务运动开启由传统手工艺向近代工业的转变，“具有近代形态的工艺美学或设计美学开始了它的萌芽”"
+  ],
+  "does_not_support": [
+   "人物名单与奏议以原文为准；开启论断为作者判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0540",
+  "claim": "“奇技淫巧”与“器道之争”：保守派倭仁vs洋务派“师夷长技”，张之洞“中学为体，西学为用”；近代器用观从拒购轮船到接纳“工业文明之美”的转变",
+  "source_id": "B0493",
+  "source_location": "回查clean L214、L217",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "qiyi_lingqiao_and_qidao_debate",
+  "supports": [
+   "“奇技淫巧”与“器道之争”：保守派倭仁vs洋务派“师夷长技”，张之洞“中学为体，西学为用”；近代器用观从拒购轮船到接纳“"
+  ],
+  "does_not_support": [
+   "器物接受史叙述（杜兰德小火车、慈禧汽车、飞机变展品）为作者论证材料"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0541",
+  "claim": "晚清洋务运动重商思想—以工立国—实业救国构成中国现代设计观念的经济思想起点",
+  "source_id": "B0500",
+  "source_location": "回查clean L6、L40工业化思想谱系原文",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "late_qing_industry_and_national_goods",
+  "supports": [
+   "晚清洋务运动重商思想—以工立国—实业救国构成中国现代设计观念的经济思想起点"
+  ],
+  "does_not_support": [
+   "序言与第三章以经济思想史为叙述框架，属作者建构+档案史实（论著原文引证）分层"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0542",
+  "claim": "设计观念随技术/工业产品跨国转移而渗透（德国汽车飞机、美国汽车无线电、福特生产方式）",
+  "source_id": "B0500",
+  "source_location": "回查clean L26、L28-32技术转移段落",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "design_idea_transfer_via_products",
+  "supports": [
+   "设计观念随技术/工业产品跨国转移而渗透（德国汽车飞机、美国汽车无线电、福特生产方式）"
+  ],
+  "does_not_support": [
+   "转移史实有档案文献，'观念载体'命题为作者理论概括"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0543",
+  "claim": "博览会作为设计观念输入与展示节点（1925年巴黎国际装饰艺术博览会、1929年费城世博会、1904年路易斯安那世博会）",
+  "source_id": "B0500",
+  "source_location": "回查clean L37、L40博览会条目",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "expo_and_design_transfer",
+  "supports": [
+   "博览会作为设计观念输入与展示节点（1925年巴黎国际装饰艺术博览会、1929年费城世博会、1904年路易斯安那世博会）"
+  ],
+  "does_not_support": [
+   "事件记录有据，影响程度评估为作者判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0544",
+  "claim": "国货/老品牌（永丰泰国货号、无敌牌缝纫机、百雀羚、双妹、金龙牌热水瓶、华生电扇）作为民族工业设计载体与国货意识表征",
+  "source_id": "B0500",
+  "source_location": "回查clean L40品牌条目",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.2"
+  ],
+  "textbook_function": "national_brands_and_national_goods",
+  "supports": [
+   "国货/老品牌（永丰泰国货号、无敌牌缝纫机、百雀羚、双妹、金龙牌热水瓶、华生电扇）作为民族工业设计载体与国货意识表征"
+  ],
+  "does_not_support": [
+   "品牌史料来自左旭初藏品研究及口述整理，清单为作者编排"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0545",
+  "claim": "石印（1876-1905）而非铅印成为机械印刷真正起点：文化审美（书法）决定技术采纳顺序（“文化决定了技术”），修正欧洲中心叙事",
+  "source_id": "B0079",
+  "source_location": "回查第一章分章报告与clean L163",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "lithography_first_tech_choice",
+  "supports": [
+   "石印（1876-1905）而非铅印成为机械印刷真正起点：文化审美（书法）决定技术采纳顺序（“文化决定了技术”），修正欧洲"
+  ],
+  "does_not_support": [
+   "“石印先行论”与“文化决定技术论”为作者命题；“石印黄金时代97家企业”为统计（作者整理）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0546",
+  "claim": "商务印书馆为技术引进中枢：19种媒介中13种、21种印刷机中15种首次在沪使用，商务独占7媒介6机器“中国首次”",
+  "source_id": "B0079",
+  "source_location": "回查第一章分章报告3.2(3)",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "commercial_press_hub",
+  "supports": [
+   "商务印书馆为技术引进中枢：19种媒介中13种、21种印刷机中15种首次在沪使用，商务独占7媒介6机器“中国首次”"
+  ],
+  "does_not_support": [
+   "作者统计（Table 1.1/1.2）+企业史个案；商务企业档案为P0，与B0469等共享商务对象时仅计一份"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0547",
+  "claim": "商务（1897）、中华（1912）、世界（1921）三足鼎立竞争教科书市场，与政权从共生走向党国规制（1912-1928自由竞争→1928-1937受管制共处）",
+  "source_id": "B0079",
+  "source_location": "回查第五章分章报告与clean L256",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "textbook_war_tripod",
+  "supports": [
+   "商务（1897）、中华（1912）、世界（1921）三足鼎立竞争教科书市场，与政权从共生走向党国规制（1912-1928"
+  ],
+  "does_not_support": [
+   "三家企业史+教育统计；金港堂1903年注资商务为企业史事实（档案P0），但“鼎”隐喻为国家关系阐释"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0548",
+  "claim": "石印等现代印刷技术推动清末民初漫画杂志、画报、党派报纸勃兴，上海形成漫画视觉公共领域",
+  "source_id": "B0219",
+  "source_location": "核对clean L206、L216、L547",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "print_capital_visual_public_sphere",
+  "supports": [
+   "石印等现代印刷技术推动清末民初漫画杂志、画报、党派报纸勃兴，上海形成漫画视觉公共领域"
+  ],
+  "does_not_support": [
+   "印刷史细节为二手综述（Rea、Laing、Bevan），本书非原创档案研究"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0549",
+  "claim": "《申报》广告业（史量才、张竹平广告设计组、1915年广告面积超新闻面积）与《点石斋画报》石印新闻画构成上海印刷资本的视觉公共领域",
+  "source_id": "B0469",
+  "source_location": "回查clean L915、L946相关段落",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "print_capital_press_advertising",
+  "supports": [
+   "《申报》广告业（史量才、张竹平广告设计组、1915年广告面积超新闻面积）与《点石斋画报》石印新闻画构成上海印刷资本的视觉"
+  ],
+  "does_not_support": [
+   "作者叙述+近代报刊史料；广告面积数据可回查《申报》档案"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0550",
+  "claim": "月份牌画为附年历商业宣传画：屈臣氏最早，周慕桥成名作，郑曼陀“曼陀风”，杭穉英开中国最早现代广告公司，金雪尘李慕白画室合作——月份牌产业机制（画室合作、商标包装）",
+  "source_id": "B0469",
+  "source_location": "回查clean L930、L935、L938、L956—969",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "calendar_poster_industry",
+  "supports": [
+   "月份牌画为附年历商业宣传画：屈臣氏最早，周慕桥成名作，郑曼陀“曼陀风”，杭穉英开中国最早现代广告公司，金雪尘李慕白画室合"
+  ],
+  "does_not_support": [
+   "图像实物（月份牌图版）与叙述分层；画家生卒、作品名录为掌故式叙述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0551",
+  "claim": "雕版工序（书样—反贴—镌刻—试印—刷印）、泥/木/金属活字、饵版拱花、笺纸工艺构成完整技术链条；《金刚经》年代考辨",
+  "source_id": "B0469",
+  "source_location": "回查clean L751、L770—771、L890—906",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "printing_tech_history",
+  "supports": [
+   "雕版工序（书样—反贴—镌刻—试印—刷印）、泥/木/金属活字、饵版拱花、笺纸工艺构成完整技术链条；《金刚经》年代考辨"
+  ],
+  "does_not_support": [
+   "实物与版本学著录分层；“绝不是最早”为作者个人推断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0552",
+  "claim": "民国期刊设计四分期（1815—1949）与全流程分类：封面、版式、印刷装订各环节独立研究，期刊设计应区别于书籍设计",
+  "source_id": "B0472",
+  "source_location": "回查clean第238行四分期、第300行结语",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "print_capital_journal_periodization",
+  "supports": [
+   "民国期刊设计四分期（1815—1949）与全流程分类：封面、版式、印刷装订各环节独立研究，期刊设计应区别于书籍设计"
+  ],
+  "does_not_support": [
+   "Ch06专章系统研究，以作者自藏与馆藏实物考据为据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0553",
+  "claim": "书衣借书刊流通实现「艺术大眾化」，构成印刷媒介上的视觉公共场域（移动的美术馆隐喻）",
+  "source_id": "B0505",
+  "source_location": "核对clean L211「艺术大眾化」原文措辞",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "visual_public_sphere_book_cover",
+  "supports": [
+   "书衣借书刊流通实现「艺术大眾化」，构成印刷媒介上的视觉公共场域（移动的美术馆隐喻）"
+  ],
+  "does_not_support": [
+   "隐喻为作者表述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0554",
+  "claim": "民初出版社（商务印书馆、开明书店等）借封面设计吸引读者以应对出版竞争，市场与封面流通度相关",
+  "source_id": "B0505",
+  "source_location": "核对《东方杂志》封面委托关系是否在clean直接表述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "print_capital_publishing_market",
+  "supports": [
+   "民初出版社（商务印书馆、开明书店等）借封面设计吸引读者以应对出版竞争，市场与封面流通度相关"
+  ],
+  "does_not_support": [
+   "兼引钱君匋回忆与李欧梵"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0555",
+  "claim": "西方凸版/石印印刷技术传入使装帧由雕版线装过渡到铅印线装与双面印刷胶装，直排改横排、右翻改左翻",
+  "source_id": "B0505",
+  "source_location": "核对印刷技术史细节与《东语正规》例证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.3"
+  ],
+  "textbook_function": "print_technology_transition",
+  "supports": [
+   "西方凸版/石印印刷技术传入使装帧由雕版线装过渡到铅印线装与双面印刷胶装，直排改横排、右翻改左翻"
+  ],
+  "does_not_support": [
+   "印刷技术史细节"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0556",
+  "claim": "五口通商后上海成最大商埠，租界洋商资本与民族资本汇聚“十里洋场万商云集”；市民文化兴起，月份牌画推波助澜",
+  "source_id": "B0469",
+  "source_location": "回查clean L915、L946",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.4"
+  ],
+  "textbook_function": "shanghai_urban_consumer_culture",
+  "supports": [
+   "五口通商后上海成最大商埠，租界洋商资本与民族资本汇聚“十里洋场万商云集”；市民文化兴起，月份牌画推波助澜"
+  ],
+  "does_not_support": [
+   "作者叙述+常识性判断；“繁华不亚于伦敦纽约”为价值判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0557",
+  "claim": "月份牌画为附年历商业宣传画（画家与广告公司个案）",
+  "source_id": "B0469",
+  "source_location": "回查clean L930—969",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.4"
+  ],
+  "textbook_function": "calendar_poster_advertising",
+  "supports": [
+   "月份牌画为附年历商业宣传画（画家与广告公司个案）"
+  ],
+  "does_not_support": [
+   "图像实物与叙述分层"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0558",
+  "claim": "上海都市消费文化：月份牌广告、电影、霓虹灯广告、云裳时装催生设计现代性",
+  "source_id": "B0500",
+  "source_location": "回查clean L59、L62-74月份牌与电影段落",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.4"
+  ],
+  "textbook_function": "shanghai_urban_consumer_culture",
+  "supports": [
+   "上海都市消费文化：月份牌广告、电影、霓虹灯广告、云裳时装催生设计现代性"
+  ],
+  "does_not_support": [
+   "个案深描（杭穉英、张光宇、周瘦鹃）支撑，概括性判断属作者"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0559",
+  "claim": "1920年代上海为世界级摩登都市，外滩建筑与南京路摩天楼体现新古典主义向装饰艺术的转变",
+  "source_id": "B0505",
+  "source_location": "核对转引关系与行号",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.4"
+  ],
+  "textbook_function": "shanghai_urban_modernity",
+  "supports": [
+   "1920年代上海为世界级摩登都市，外滩建筑与南京路摩天楼体现新古典主义向装饰艺术的转变"
+  ],
+  "does_not_support": [
+   "转引李欧梵、刘建辉"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0560",
+  "claim": "「商业美术」名词1925年前后出现，上海产业化催生广告与美术设计部门需求",
+  "source_id": "B0505",
+  "source_location": "核对转引数据",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.4"
+  ],
+  "textbook_function": "commercial_art_consumption",
+  "supports": [
+   "「商业美术」名词1925年前后出现，上海产业化催生广告与美术设计部门需求"
+  ],
+  "does_not_support": [
+   "1914—1928上海新开工厂1229家（转引刘建辉2003）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0561",
+  "claim": "香港设计教育沿革：1955美专设计系→1960工业学院商业美术及设计系→1967理工专科学校→1981太古设计学院→1980正形设计学校；王无邪引包豪斯为教育先导，构成多层次教育体系",
+  "source_id": "B0465",
+  "source_location": "回查L144、L201教育沿革与L1序引靳埭强语",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.5"
+  ],
+  "textbook_function": "hong_kong_education_lineage",
+  "supports": [
+   "香港设计教育沿革：1955美专设计系→1960工业学院商业美术及设计系→1967理工专科学校→1981太古设计学院→19"
+  ],
+  "does_not_support": [
+   "教育史实层（院校沿革、人物履历）可核，包豪斯传播链为本书核心论述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0562",
+  "claim": "石汉瑞（跨文化设计代表）、王无邪（设计教育开山）、靳埭强（中西融合旗手）、陈幼坚、李永铨、刘小康等23位设计师构成香港设计谱系",
+  "source_id": "B0465",
+  "source_location": "回查L227—L298个案与L144先驱节",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.5"
+  ],
+  "textbook_function": "hong_kong_designer_lineage",
+  "supports": [
+   "石汉瑞（跨文化设计代表）、王无邪（设计教育开山）、靳埭强（中西融合旗手）、陈幼坚、李永铨、刘小康等23位设计师构成香港设"
+  ],
+  "does_not_support": [
+   "人物谱系史实层；与B0517/B0492共享同一对象时P0只计一份"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0563",
+  "claim": "北京美术学校（1918）是中国近代第一个开设图案专业的国立美术学校，图案专业延续至1956年分设中央工艺美术学院，形成北京美术学校—国立北平艺专—中央工艺美术学院教育谱系",
+  "source_id": "B0472",
+  "source_location": "回查clean第157行建校与谱系、第162行讲义实物考证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.5"
+  ],
+  "textbook_function": "education_mediation_beijing_art_school",
+  "supports": [
+   "北京美术学校（1918）是中国近代第一个开设图案专业的国立美术学校，图案专业延续至1956年分设中央工艺美术学院，形成北"
+  ],
+  "does_not_support": [
+   "Ch05专章，以七本图案法讲义（其中四本2010年新发现）的一手考证为据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0564",
+  "claim": "日本作为东亚中介：水谷武彦译'构成'自Gestaltung、高桥正人建立构成学科并'在教育制度上根本改革'、朝仓直巳'三大构成'经香港传入内地",
+  "source_id": "B0492",
+  "source_location": "回查clean第64行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.5"
+  ],
+  "textbook_function": "japan_intermediary",
+  "supports": [
+   "日本作为东亚中介：水谷武彦译'构成'自Gestaltung、高桥正人建立构成学科并'在教育制度上根本改革'、朝仓直巳'三"
+  ],
+  "does_not_support": [
+   "构成教育制度转译链条完整"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0565",
+  "claim": "香港作为第二层中介：吕立勋1979年在中央工艺美院开'设计中国'讲座（王无邪构成理论）、1980年'设计捌拾'展、广州美院1986年设构成专业",
+  "source_id": "B0492",
+  "source_location": "回查clean第64行细节",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.5"
+  ],
+  "textbook_function": "hong_kong_second_intermediary",
+  "supports": [
+   "香港作为第二层中介：吕立勋1979年在中央工艺美院开'设计中国'讲座（王无邪构成理论）、1980年'设计捌拾'展、广州美"
+  ],
+  "does_not_support": [
+   "香港—内地教育中介证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0566",
+  "claim": "中国平面设计民族特质“沉静而有内力”，汉字本位、书法即高级字体设计，雕版/装裱/饵版拱花为“完全中国化的独门艺术”，驳斥“中国平面设计源于西方”论",
+  "source_id": "B0469",
+  "source_location": "回查clean L3、L8、L915断语式判断的论证链条",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.6"
+  ],
+  "textbook_function": "national_form_identity",
+  "supports": [
+   "中国平面设计民族特质“沉静而有内力”，汉字本位、书法即高级字体设计，雕版/装裱/饵版拱花为“完全中国化的独门艺术”，驳斥"
+  ],
+  "does_not_support": [
+   "强烈价值判断+中西比较论证；“中国是世界老大”等断语缺乏可比性论证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0567",
+  "claim": "“金石味”（碑学趣味）通过文字设计进入印刷媒介与公共视觉文化，参与中国现代“民族性”建构；进步知识界与政府文化保守主义者几乎一致认可其为民族性重要表征",
+  "source_id": "B0472",
+  "source_location": "回查clean第120行金石味三特征、第126行鲁迅建议、第136行结语",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.6"
+  ],
+  "textbook_function": "national_form_jinshiwei",
+  "supports": [
+   "“金石味”（碑学趣味）通过文字设计进入印刷媒介与公共视觉文化，参与中国现代“民族性”建构；进步知识界与政府文化保守主义者"
+  ],
+  "does_not_support": [
+   "Ch03专章，以《东方杂志》与钱君匋及其师友圈（鲁迅、闻一多、郑午昌）为中心"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0568",
+  "claim": "设计风格是民族的文化生存战略；“设计之道归于风格”，“道”含技术途径/风度格调/形而上体系三层；全球化下以国际语言“呈现”本土文化；风格自觉形成与自然形成两阶段",
+  "source_id": "B0495",
+  "source_location": "核对L317“道”三层含义原文、L348民族风格表述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.6"
+  ],
+  "textbook_function": "national_style_and_modern_form_debate",
+  "supports": [
+   "设计风格是民族的文化生存战略；“设计之道归于风格”，“道”含技术途径/风度格调/形而上体系三层；全球化下以国际语言“呈现"
+  ],
+  "does_not_support": [
+   "XIII章L316-L349（风格论与跨文化比较）、前言L3"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0569",
+  "claim": "民族形式与现代形式之争的完整史实链：苏联“社会主义内容、民族形式”口号输入→梁思成理论中国化→宫殿式/少数民族式/苏式三类型→第一次反浪费运动斥“复古主义”→十四字方针确立（1955）",
+  "source_id": "B0514",
+  "source_location": "回查L347口号来源、L367两张想象图、L516–517梁思成“替罪”与L522–523十四字方针原文",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.6"
+  ],
+  "textbook_function": "role_primary_evidence",
+  "supports": [
+   "民族形式与现代形式之争的完整史实链：苏联“社会主义内容、民族形式”口号输入→梁思成理论中国化→宫殿式/少数民族式/苏式三"
+  ],
+  "does_not_support": [
+   "第4章L311–524；分章报告Ch04"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0570",
+  "claim": "1930s–1949年中国漫画被全面“武器化”：救亡漫画宣传队、传单、报纸杂志、壁画、木刻、幻灯构成战时宣传生产体系",
+  "source_id": "B0219",
+  "source_location": "核对clean L774–1004宣传队与传单段、L1220抗战主题总结",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.7"
+  ],
+  "textbook_function": "wartime_propaganda_production",
+  "supports": [
+   "1930s–1949年中国漫画被全面“武器化”：救亡漫画宣传队、传单、报纸杂志、壁画、木刻、幻灯构成战时宣传生产体系"
+  ],
+  "does_not_support": [
+   "漫画图像的供给与再现可证；宣传效果（如传单对日军士气）多为转引二手证据，不能证明接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0571",
+  "claim": "31幅反日漫画传单的内容分析：主题（日本暴行、帝国主义、汉奸）、战果清单、格式特征（单面单张、色块、单幅为主、绘制粗陋）",
+  "source_id": "B0219",
+  "source_location": "核对clean L995–1003",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "6.7"
+  ],
+  "textbook_function": "cartoon_leaflet_content_analysis",
+  "supports": [
+   "31幅反日漫画传单的内容分析：主题（日本暴行、帝国主义、汉奸）、战果清单、格式特征（单面单张、色块、单幅为主、绘制粗陋）"
+  ],
+  "does_not_support": [
+   "样本以八路军/新四军来源为主（clean L995），国民党传单样本极少；图像学描述不等于传播效果"
+  ],
+  "status": "candidate"
+ }
+]

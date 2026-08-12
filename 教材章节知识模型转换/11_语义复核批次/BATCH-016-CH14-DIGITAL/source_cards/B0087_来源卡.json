@@ -1,0 +1,34 @@
+{
+  "source_id": "B0087",
+  "corpus": "book",
+  "folder_name": "Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt",
+  "material_type": "情境化设计方法（HCI奠基）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt.md",
+  "duplicate_group": "与B0054（Winograd）、B0011（About Face）共享HCI设计方法对象；同一方法/案例只计一份P0",
+  "files": [{"report_file_count": 22, "report_characters": 22967}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.3", "grade": "B", "verification": "V2", "role": "contextual_inquiry"},
+    {"section_id": "14.3", "grade": "B", "verification": "V2", "role": "work_modeling_consolidation"},
+    {"section_id": "14.3", "grade": "C", "verification": "V2", "role": "work_model_imposition"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Beyer/Holtzblatt，Morgan Kaufmann 1998；情境化设计（Contextual Design）奠基著作（2016二版《Design for Life》）",
+    "核心主张：系统设计的根本挑战不是技术问题，而是使系统融入用户的'日常生活织体'；任何系统都强制施加'工作模型'——设计师的选择在于有意识设计还是意外副产品",
+    "六步骤：理解客户→看见工作→跨越客户→从数据创新→系统设计→原型测试",
+    "情境化调查（Contextual Inquiry）：师徒关系模型＋四大原则（情境Context/伙伴Partnership/解释Interpretation/焦点Focus）——揭示问卷/焦点小组无法表达的隐性工作结构",
+    "五种工作模型：流动（Flow）、序列（Sequence）、人工制品（Artifact）、文化（Cultural）、物理（Physical）",
+    "整合（Consolidation）：亲和图（Affinity Diagram）与整合工作模型——个体→市场/部门共同结构",
+    "本书为情境化设计奠基著作（B级）：对14.3承担用户研究方法入专业流程",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "情境化调查四原则：情境/伙伴关系/解释/焦点",
+    "五种工作模型：流动/序列/人工制品/文化/物理",
+    "亲和图（Affinity Diagram）整合",
+    "'工作模型'强制施加命题：有意识设计vs意外副产品",
+    "故事板（Storyboards）与用户环境设计（User Environment formalism）"
+  ]
+}

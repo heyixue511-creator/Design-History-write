@@ -1,0 +1,35 @@
+{
+  "source_id": "B0385",
+  "corpus": "book",
+  "folder_name": "Safiya Umoja Noble：《Algorithms of Oppression How Search Engines Reinforce Racism》",
+  "material_type": "算法歧视研究（数据化批判）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Safiya Umoja Noble：《Algorithms of Oppression How Search Engines Reinforce Racism》.md",
+  "duplicate_group": "与14.7平台研究文献共享算法/平台批判对象；本书为搜索引擎算法歧视主源",
+  "files": [{"report_file_count": 12, "report_characters": 3437}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.7", "grade": "A", "verification": "V2", "role": "algorithmic_oppression"},
+    {"section_id": "14.7", "grade": "A", "verification": "V2", "role": "search_engine_bias_cases"},
+    {"section_id": "14.7", "grade": "B", "verification": "V2", "role": "information_monopoly_labor"},
+    {"section_id": "14.7", "grade": "B", "verification": "V2", "role": "algorithmic_regulation"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Noble（UCLA信息研究系助理教授，前多元文化营销/广告从业者），NYU Press 2018；数据采集2010-2016",
+    "核心论点：商业算法不是中性的技术装置，而是在新自由主义与白人父权秩序下系统再生产种族主义与性别歧视的'压迫算法'（algorithmic oppression）",
+    "关键概念：technological redlining（技术红线）、pornification（色情化）、right to be forgotten（被遗忘权）、cloaked websites（伪装网站）、prosumer/audience commodity（产消者/受众商品）、digital divide（数字鸿沟）、Database of Intentions",
+    "案例：'black girls'搜索结果色情化（Ch2）、查尔斯顿枪击案（搜索塑造认知，Ch3）、Kandis个案访谈",
+    "批判：信息垄断侵蚀民主（Ch6）；图书馆分类体系与信息科学的偏见史（Ch5）",
+    "方案：公共政策规制与非商业化公共搜索设想（BFTS黑人女性主义技术研究）",
+    "本书为算法歧视主源（A级）：对14.7承担数据化商业模式批判与平台劳动",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L218-220：'black girls'搜索遭遇色情化结果——切入案例",
+    "L133：technological redlining（技术红线）",
+    "L151：algorithmic oppression（压迫算法）",
+    "L576：pornification（色情化）",
+    "L1019-1021：prosumer/audience commodity——受众商品与劳动剥削"
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "evidence_id": "EV-0501",
+    "claim": "Dreyfuss事务所以Joe/Josephine百分位人体测量图（'极端值而非平均值'，覆盖2.5—97.5百分位）将人体测量学系统引入工业设计方法",
+    "source_id": "B0186",
+    "source_location": "clean第210—224、278—280行；第2章分析报告",
+    "source_class": "P0",
+    "verification_level": "V2",
+    "section_ids": ["5.6"],
+    "textbook_function": "行动者文本（核心命题）",
+    "supports": ["人体测量学入设计方法的行动者奠基叙述", "user persona原型"],
+    "does_not_support": ["人体测量法在行业的普及程度", "数据科学性（样本与统计方法未披露）"],
+    "time_boundary": "1955/1967（初版/再版）",
+    "geographic_boundary": "美国",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0502",
+    "claim": "Fortune杂志1934年命名'industrial designer'，构成美国工业设计职业的命名事件（Gantz）",
+    "source_id": "B0066",
+    "source_location": "B0066 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["5.5", "5.3"],
+    "textbook_function": "核心命题（职业命名）",
+    "supports": ["工业设计职业的形成", "职业组织沿革（AUDAC→ADI→SID→IDSA）"],
+    "does_not_support": ["'四巨头'地位定评（须外部史料）", "职业影响力程度"],
+    "time_boundary": "1934",
+    "geographic_boundary": "美国",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0503",
+    "claim": "Sheldon & Arens《Consumer Engineering》(1932)提出'消费工程'概念，销售工程是当事人话语＋Meikle批判分析双层证据",
+    "source_id": "B0206",
+    "source_location": "B0206 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["5.3"],
+    "textbook_function": "核心命题（销售工程）",
+    "supports": ["设计被赋予刺激需求的经济功能", "人为废弃与行为主义入市"],
+    "does_not_support": ["《Consumer Engineering》原文尚未入库（P0缺口）", "销售工程=设计史唯一动力"],
+    "time_boundary": "1930s",
+    "geographic_boundary": "美国",
+    "counterevidence": null,
+    "status": "needs_original_check"
+  }
+]

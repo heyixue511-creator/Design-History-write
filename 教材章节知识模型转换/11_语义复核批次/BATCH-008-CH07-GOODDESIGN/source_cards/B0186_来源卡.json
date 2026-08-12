@@ -5,7 +5,7 @@
   "material_type": "行动者自著（P0）",
   "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Henry Dreyfuss：《Designing for People》，1967_clean.md",
   "clean_source_sha256": "660A57EF2D7CD124FDA05CAA5821A47BCDDC5DD9546200F53D49290C461BD863",
-  "duplicate_group": "与B0225（Heskett《Industrial Design》）及Loewy《Never Leave Well Enough Alone》、Teague等共享'美国工业设计职业史'对象：同一对象只计一份P0，本书提供德雷福斯一侧的直接行动者证据，行业结构性证据需由共享来源互补",
+  "duplicate_group": "与B0206、B0066、B0205及B0225（Heskett《Industrial Design》）、Loewy《Never Leave Well Enough Alone》、Teague等共享'美国工业设计职业史'对象：同一对象只计一份P0，本书提供德雷福斯一侧的直接行动者证据，行业结构性证据需由共享来源互补；BATCH-006与BATCH-008跨批次映射已于2026年8月12日合并为唯一来源卡",
   "files": [
     {
       "report_file_count": 48,
@@ -16,6 +16,24 @@
     "review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"
   },
   "candidate_sections": [
+    {
+      "section_id": "0.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "actor_self_account_p0"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "self_justification_bias"
+    },
+    {
+      "section_id": "0.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "single_actor_perspective"
+    },
     {
       "section_id": "5.3",
       "grade": "A",
@@ -47,10 +65,82 @@
       "role": "organization_profile"
     },
     {
-      "section_id": "5.3",
+      "section_id": "5.4",
+      "grade": "B",
+      "verification": "V2",
+      "role": "streamlining_critique"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "profession_formation_1929"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "A",
+      "verification": "V2",
+      "role": "inside_out_design_principle"
+    },
+    {
+      "section_id": "5.5",
+      "grade": "B",
+      "verification": "V2",
+      "role": "silent_salesman_concept"
+    },
+    {
+      "section_id": "5.5",
       "grade": "B",
       "verification": "V2",
       "role": "sid_founding_1944"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "anthropometry_percentile_partners"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "machine_fit_person_principle"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "A",
+      "verification": "V2",
+      "role": "five_senses_design_framework"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "household_efficiency_cases"
+    },
+    {
+      "section_id": "5.6",
+      "grade": "B",
+      "verification": "V2",
+      "role": "anthropometric_data_catalog"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "profession_code_of_ethics"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "B",
+      "verification": "V2",
+      "role": "commercial_design_critique"
+    },
+    {
+      "section_id": "5.7",
+      "grade": "C",
+      "verification": "V2",
+      "role": "ethics_market_tension_unresolved"
     },
     {
       "section_id": "7.3",
@@ -69,61 +159,40 @@
       "grade": "B",
       "verification": "V2",
       "role": "classic_form_telephone_1950s"
-    },
-    {
-      "section_id": "5.5",
-      "grade": "A",
-      "verification": "V2",
-      "role": "anthropometry_percentile_partners"
-    },
-    {
-      "section_id": "5.5",
-      "grade": "A",
-      "verification": "V2",
-      "role": "machine_fit_person_principle"
-    },
-    {
-      "section_id": "5.5",
-      "grade": "B",
-      "verification": "V2",
-      "role": "five_senses_design_catalog"
-    },
-    {
-      "section_id": "5.4",
-      "grade": "B",
-      "verification": "V2",
-      "role": "streamlining_critique"
-    },
-    {
-      "section_id": "0.6",
-      "grade": "A",
-      "verification": "V2",
-      "role": "self_justification_bias_marker"
     }
   ],
   "review_status": "semantic_review_complete",
   "evidence_level": "V2",
   "notes": [
     "自述体裁边界（P0）：全书为行动者第一人称叙述，只能证明德雷福斯的主张与实践，不能自动证明行业全貌、客户接受或产品成效，凡涉及行业性结论须配外部史料",
-    "自我辩护与自我推销成分：成功案例详述、出版人导言背书、'one of us'四位数支票等细节服务于职业形象建构；失败轶事被幽默化处理，引用时须标注立场",
+    "自我辩护与自我推销成分：成功案例详述（500型电话、假肢等）、出版人导言背书、'one of us'四位数支票等细节服务于职业形象建构；失败轶事被幽默化处理，引用时须标注立场",
+    "不能自动证明行业影响：'四巨头'地位、人体测量法在行业的普及程度、SID伦理准则的实际约束力均需外部史料佐证",
     "统计数据不可独立验证：人体测量数据（手柄直径、左撇子比例、1500万听力受损）、博物馆参观人次等来源与抽样方法未披露，不可作为独立科学数据引用",
-    "单一行动者视角局限：美国中心主义、男性中心视角（Josephine被置于家务与接线员角色）、时代审美预设（Josephine形象修改）未被文本反思",
+    "单一行动者视角局限：美国中上阶层白人男性视角，美国中心主义与冷战背景，缺行业对立面声音；男性中心视角（Josephine被置于家务与接线员角色）与时代审美预设（Josephine形象修改）未被文本反思",
     "伦理困境未解决：'市场要求坏设计时设计师怎么办'无系统性回答，第9章对汽车工业'蒸汽压路机式推广'的批判以自嘲收场而非提出替代方案",
     "行业地位自证风险：'四巨头'地位、SID成立中'helped organize'（clean第2288—2289行）、与贝尔实验室数十年合作等均系自述，须对照组织档案与媒体报道交叉验证",
+    "轶事真实性无法独立验证：如'爷爷打宝宝屁股'中国字符、中国年费医生类比等轶事服务于论证，无法溯源",
     "文化主张的立场性：第6章'新美国艺术形式'与'公众品味提升'是职业辩护性宣言，其'向欧洲偿还文化债务'叙事隐含冷战美国软实力语境，须语境化使用",
     "P4声明：知识涌现分析（78知识元、247语义链接、6项发现）仅作语义路由参考；其中'人的分层模型''隐性知识循环''经典性悖论''经济盲区''程度恰当性'等发现属分析者建构，非原文陈述，不得作为来源命题直接引用；涌现强度E对公式与参数敏感，阈值划分待多文本校准",
     "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
   ],
   "original_spot_checks": [
     "clean第130行：'An honest job of design should flow from the inside out, not from the outside in'由内而外原则确立，紧接'opened an office, in 1929, at 58o Fifth Avenue'（第1章职业起点）",
-    "clean第210—224行：Joe和Josephine以'hero and heroine'引入，五感反应（触觉、眩光、噪音、气味）与'使Joe和Josephine与环境相容'的任务（第2章）",
-    "clean第225—228行：'The process is known as human engineering'定义与格言'the most efficient machine is the one that is built around a person'，熨斗案例紧随（第2章）",
-    "clean第278行：'our percentile anthropometrical partners'——百分位人体测量伙伴，对应'people come in assorted rather than average sizes'统计逻辑（第2章）",
+    "clean第210—217行：Joe/Josephine是全书'男女主角'，事务所墙上'occupy places of honor'的线条图，代表数百万消费者，'they dictate every line we draw'",
+    "clean第218—222行：非解剖书直接而来、多年研究；'people come in assorted rather than average sizes'——极端值而非平均值原则",
+    "clean第223—228行：五感过敏/抑制/执念；'The process is known as human engineering'；'the most efficient machine is the one that is built around a person'",
+    "clean第230—237行：熨斗=手臂延伸案例（腕=柔性关节、指掌=夹紧装置），灼伤与颈肩背酸痛，咨询医生验证",
+    "clean第238—245行：假肢案例——员工绑假肢失败，改与截肢者合作，'The hook had become an accepted member of his body'",
+    "clean第272—284行：'极端值'人体图表征、Marilyn Monroe/Jane Russell建议；'percentile anthropometrical partners'；'We make machines fit people because we don't believe in squeezing people into machines'",
+    "clean第288—294行：视力表与照明；打字机亮漆眩光致秘书头痛→哑光皱纹漆方案",
     "clean第506—519行：survival form概念——'Unnecessary or not, the numbers constitute a survival form that most people demand'时钟数字案例（第3章）",
+    "clean第720行：流线型批判——'streamlining stoves...that aren't going anywhere'与Chrysler Airflow失败（第5章）",
     "clean第779—876行：'well-designed, mass-produced goods constitute a new American art form'（779行）、Art on Wheels（804行）、海牙Sears目录演讲（854行）、'serenity'（873行）（第6章）",
+    "clean第913、918行：'诚实的设计应由内而外，而非由外而内'",
     "clean第936行：500型电话'the form had to be classic...twenty years later'——经典形式与20年寿命要求（第7章）",
     "clean第1698—1778行：五点评分公式五项（utility and safety/maintenance/cost/sales appeal/appearance）逐一展开，'accepted as infallible'（1778行）（第12章）",
     "clean第1852—1887行：内部设计师'he is a captive'、外部视角价值、'we are preventive medicine'、'you are one of us'四位数支票（第13章客户关系）",
+    "clean第2288—2295行：SID缘起——1944年与Teague周末讨论、次日与Loewy商议成立，'strict code of ethics'提升职业尊严",
     "clean第2402—2420行：'My crystal-gazing wasn't too radical. It was too conservative—in timing if not in concept'、纳秒与'Joe and Josephine, the indestructible'（第18章1967年重估）"
   ]
 }

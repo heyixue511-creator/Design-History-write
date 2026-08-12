@@ -1,0 +1,36 @@
+{
+  "source_id": "B0359",
+  "corpus": "book",
+  "folder_name": "Ratto：《Critical Making Conceptual and Material Studies in Technology and Social Life》",
+  "material_type": "批判性制作概念奠基论文",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Ratto：《Critical Making Conceptual and Material Studies in Technology and Social Life》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 16, "report_characters": 4809}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.4", "grade": "B", "verification": "V2", "role": "critical_making_practice"},
+    {"section_id": "15.1", "grade": "C", "verification": "V2", "role": "critical_making_vs_critical_design"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Matt Ratto（多伦多大学信息学院），《Critical Making: Conceptual and Material Studies in Technology and Social Life》，The Information Society 期刊 PERSPECTIVE 栏目（Routledge）",
+    "'critical making'（批判性制作）概念奠基性陈述：技术与社会关系的既有解释在悲观决定论（Marcuse、Ellul）与乐观决定论（Gilder、Mitchell）之间摇摆；概念理解（僵硬、决定论）与物质经验（细微、多面）之间存在深层断裂",
+    "三阶段方法：文献/概念编译→联合建构技术原型→迭代重构与反思对话；以共享建构过程（而非最终对象）为分析场所",
+    "两个实证案例对照：伦敦RCA/帝国理工 bristlebot 工作坊（理论-技术映射失败、投资不足）vs 阿姆斯特丹 Virtueel Platform 的 Flwr Pwr 工作坊（明确映射、投资形成）——明确的理论-技术映射与个人投资（investment）是批判性制作有效的双条件",
+    "终极目标：把技术与社会的关系从'matter of fact（事实之事）'转化为'matter of concern（关切之事）'（Latour）；用《小王子》'caring for（照料）'理论化",
+    "与批判设计（critical design）划界：批判性制作强调共享建构过程的物质参与，而非批判性对象的展示",
+    "教育谱系：Papert 建构主义/constructionism、transitional objects、messing about",
+    "议程：批判实践与创新实践在实践层面亲缘（critical vs innovation 亲缘性——预见'批判性创新'研究取向）",
+    "限度：证据自我报告性、样本规模小（2个工作坊）；'投资'机制未操作化（作者自承）；理论映射的约化风险未完全消解",
+    "影响：衔接HCI、STS、教育学与批判理论；在批判设计、制作者文化（maker culture）、参与式设计领域产生广泛影响",
+    "clean原文为源文件（无_clean版）；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L23：概念-物质断裂元问题",
+    "L29-31：三阶段方法与共享建构",
+    "L49-60：伦敦bristlebot工作坊（失败）",
+    "L62-89：阿姆斯特丹flwr工作坊（成功）",
+    "L113-119：matters of fact/concern"
+  ]
+}

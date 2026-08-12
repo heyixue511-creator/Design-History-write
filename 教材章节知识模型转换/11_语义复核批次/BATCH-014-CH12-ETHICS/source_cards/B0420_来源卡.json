@@ -1,0 +1,36 @@
+{
+  "source_id": "B0420",
+  "corpus": "book",
+  "folder_name": "The green imperative _ natural design for the real world -- Papanek, Victor J --",
+  "material_type": "生态设计宣言（行动者原典）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\The green imperative _ natural design for the real world -- Papanek, Victor J --.md",
+  "duplicate_group": "与B0434（Design for the Real World）为同一作者姊妹书（伦理→尺度→生态三部曲）；与B0110（Fry）、B0441（Walker）共享可持续设计对象；同一概念（LCA、DFD）只计一份P0",
+  "files": [{"report_file_count": 21, "report_characters": 3764}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.3", "grade": "A", "verification": "V2", "role": "green_imperative_ecology"},
+    {"section_id": "12.3", "grade": "B", "verification": "V2", "role": "form_follows_fun_critique"},
+    {"section_id": "12.6", "grade": "C", "verification": "V2", "role": "indigenous_design_wisdom"},
+    {"section_id": "12.7", "grade": "C", "verification": "V2", "role": "sharing_not_buying"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Papanek，Thames and Hudson 1995；162幅插图；面向1990年代中期全球生态危机的宣言式著作",
+    "核心论点：生态责任是设计的绝对义务（Green Imperative）；设计必须成为'生态的'与'精神性的'；否则任何环保考虑只是'善意的马后炮'（L2579）",
+    "关键概念：Nothing Big Works – Ever、Function Matrix/Complex、Life Cycle Assessment（LCA）、Design for Disassembly（DFD）、Design Diversification、Form Follows Fun、便利陷阱、消费三角、因纽特设计智慧、新美学",
+    "结构：生态危机诊断→生态设计方法→设计精神性→感官建筑→社区人体尺度→乡土建筑→消费批判→分享替代→设计教育→因纽特智慧→新美学",
+    "方法：新闻数据与气候记录、制度文件（德国包装法）、第一手田野（巴厘/因纽特/巴布亚新几内亚）、产品案例（OXO、Miata、DFD汽车）",
+    "限度：数据止于1990s中期；证据偏重个人亲历与传闻；对原住民赞颂带理想化；伦理改造成功率自认仅4/10（L941）",
+    "本书为生态设计奠基原典（P0行动者文本）：对12.3承担绿色律令（A级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L22：Green Imperative——生态责任是设计的绝对义务",
+    "L451：Life Cycle Assessment（LCA）与Function Matrix",
+    "L575、L779：Design for Disassembly（DFD）、Design Diversification",
+    "L1546：Form Follows Fun——消费乐趣批判",
+    "L1720：便利陷阱（Is Convenience the Enemy?）",
+    "L2579：'善意的马后炮'——生态责任须内化为设计伦理"
+  ]
+}

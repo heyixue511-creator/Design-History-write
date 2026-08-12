@@ -1,0 +1,36 @@
+{
+  "source_id": "B0142",
+  "corpus": "book",
+  "folder_name": "Elizabeth Shove, Matthew Watson, Martin Hand, Jack Ingram：《The Design of Everyday Life》，2007",
+  "material_type": "实践理论与设计研究（日常消费）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Elizabeth Shove, Matthew Watson, Martin Hand, Jack Ingram：《The Design of Everyday Life》，2007.md",
+  "duplicate_group": "与B0315（Miller物质文化）、B0240（Attfield日常物）共享日常物理论对象；本书为实践理论侧主源",
+  "files": [{"report_file_count": 12, "report_characters": 19448}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.2", "grade": "A", "verification": "V2", "role": "restless_kitchen_dynamics"},
+    {"section_id": "9.7", "grade": "A", "verification": "V2", "role": "practice_oriented_design"},
+    {"section_id": "9.2", "grade": "B", "verification": "V2", "role": "distributed_competence_diy"},
+    {"section_id": "9.1", "grade": "C", "verification": "V2", "role": "ordinary_consumption"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Shove等四人（兰卡斯特大学），Berg 2007，Cultures of Consumption丛书（Frank Trentmann主编），ESRC/AHRC资助项目成果",
+    "核心主张：物质化的实践理论（materialized theory of practice）——日常生活的设计是物质对象、意义/意象与能力/惯习三要素在每次实践展演中被暂时性整合的结果",
+    "四个经验案例：厨房翻新（40家庭访谈）、DIY（14位实践者）、数码摄影转型、塑料文化史；另加产品设计行业访谈",
+    "关键概念：practice-as-entity/performance（Schatzki）、分布式能力、工程（project）、产品中心/用户中心/实践导向设计三分法、'no object is an island'",
+    "对设计研究贡献：挑战'产品中心论'（价值内嵌于物）主导话语，提出实践导向设计（价值由物在实践中的整合方式决定）",
+    "方法：实践理论（Reckwitz、Schatzki、Warde）＋拉图尔非人行动者；访谈+工具箱导览+历史档案（Good Housekeeping/Ideal Home）",
+    "本书为使用实践理论主源：对9.2承担厨房与家庭劳动侧（A级）、9.7承担使用者能动性理论（A级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch2：'不安的厨房'——三种不安模式（材料缺失、拥有-做到平衡、实践未实现）；消费由未来导向的实践愿景驱动",
+    "Ch3：DIY分布式能力——能力散布于人-工具-材料-说明书网络",
+    "Ch4：数码摄影转型——技术'配置了作为实体的实践本身'",
+    "Ch5：塑料文化史——材料-物共生循环（乌托邦承诺→廉价劣质）",
+    "Ch6：产品中心/用户中心/实践导向设计三分法",
+    "Ch7：'no object is an island'——物不是孤岛"
+  ]
+}

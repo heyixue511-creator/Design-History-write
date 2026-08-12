@@ -1,0 +1,37 @@
+{
+  "source_id": "B0230",
+  "corpus": "book",
+  "folder_name": "John Thackara：《In the Bubble Designing in a Complex World》，2005",
+  "material_type": "可持续/服务设计理论",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\John Thackara：《In the Bubble Designing in a Complex World》，2005.md",
+  "duplicate_group": "与B0151（Manzini）、B0032（Escobar）共享可持续/社会创新设计对象；本书为服务设计与设计正念主源",
+  "files": [{"report_file_count": 16, "report_characters": 6393}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.3", "grade": "B", "verification": "V2", "role": "design_mindfulness_sustainability"},
+    {"section_id": "12.7", "grade": "B", "verification": "V2", "role": "sense_and_respond"},
+    {"section_id": "12.1", "grade": "B", "verification": "V2", "role": "technology_first_critique"},
+    {"section_id": "12.7", "grade": "C", "verification": "V2", "role": "service_design_paradigm"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Thackara（设计哲学家、荷兰设计研究院首任院长、Doors of Perception会议创始人），MIT Press 2005",
+    "核心论题：我们通过设计决策创造了当今世界的复杂困境（生态危机、社会分裂、技术异化），同样可以通过设计走出困境；'技术先行、人后退'为核心病症",
+    "设计正念（design mindfulness）七项原则；五资本模型（自然/人力/社会/制造/金融）；重量vs轻盈二元张力",
+    "七种设计框架转换：蓝图规划→感知回应、高概念→深语境、自上而下→播种边缘效应、科幻→社会虚构、为人们设计→与人们一起设计、项目→服务",
+    "'气泡'隐喻：空中交通管制员in the bubble状态——在复杂信息流中保持掌控感",
+    "关键概念：use not own（使用而不拥有）、产品-服务系统、需求响应式服务、Thackara's Law、LODA惊叹递减定律",
+    "思想来源：Illich（最重要）、Manzini、Hawken/Lovins自然资本主义、Benyus仿生学",
+    "限度：地方性与全球性的未解之结；'设计'概念扩展导致边界模糊；案例依赖个人旅行经验（系统性偏差风险）",
+    "本书为可持续/服务设计理论主源：对12.3承担设计正念（B级）、12.7承担感知回应与框架转换（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "设计正念七项原则（在采取设计行动前考虑其后果等）",
+    "五资本模型——自然资本、人力资本、社会资本、制造资本、金融资本",
+    "七种设计框架转换（第10章总结）",
+    "'in the bubble'——空中交通管制员隐喻",
+    "Thackara's Law：'如果你将智能技术放入无意义的产品，结果将是愚蠢的产品'"
+  ]
+}

@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0011,14.3,B,V2,goal_directed_design,目标导向设计（Goal-Directed Design）：人物模型（Personas）、场景剧本、设计研究（民族志访谈）——交互设计方法经典,方法手册（2014四版）；人物模型方法的批评回应为作者论述,Ch1-3分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0011,14.6,B,V2,interaction_design_principles,交互设计价值观与原则：数字礼仪、消除负担性工作（Excise）、隐喻与习惯用法、错误预防——设计系统与界面规范,设计原则（2014）；原则的行业采用以专史为准,第二部分分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0011,14.2,C,V2,interaction_design_history,交互设计从桌面软件到移动应用再到网页服务的历史演变——交互范式演进,历史综述（2014）；演变细节以专史为准,Ch1分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

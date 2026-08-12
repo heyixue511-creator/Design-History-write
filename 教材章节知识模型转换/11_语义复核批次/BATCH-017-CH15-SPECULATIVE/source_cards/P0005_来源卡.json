@@ -1,0 +1,31 @@
+{
+  "source_id": "P0005",
+  "corpus": "paper",
+  "folder_name": "Anne-Marie Willis：《Ontological Designing》，2006",
+  "material_type": "本体论设计论文（Design Philosophy Papers）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Anne-Marie Willis：《Ontological Designing》，2006_paged_clean.md",
+  "duplicate_group": "与B0032（Escobar引用核心）、B0110（Fry）、B0418（Willis读本）为同一设计哲学圈层；'设计设计'命题只计一份P0",
+  "files": [{"report_file_count": 9, "report_characters": 4057}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.5", "grade": "B", "verification": "V2", "role": "ontological_design_double_movement"},
+    {"section_id": "15.6", "grade": "B", "verification": "V2", "role": "ontological_design_politics"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Willis（Design Philosophy Papers主编），DPP 4:2 (2006), pp.69-92；雏形为1999年EAD'Design Cultures'会议论文",
+    "核心主张：设计远比公认的普遍而深刻；'我们设计、也被我们的设计与所设计之物所设计'——双重运动：我们设计世界，世界反作用于我们并设计我们",
+    "本体论设计是：①把设计理解为主体去中心实践（物与人一起设计）的'设计的诠释学'；②针对当代生态不可持续语境的设计活动方式论证——'携带着一种政治'",
+    "本文为'设计设计'（Design designs）命题的核心文献（Escobar在B0032中直接引用）",
+    "本书为本体论设计论文（B级）：对15.5承担转型理论基源、15.6承担政治维度",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L39：本体论设计是刻画人与生活世界关系的理论",
+    "L43：'我们设计、也被我们的设计与所设计之物所设计'",
+    "L45：双重运动——我们设计世界，世界反作用并设计我们",
+    "L49：'携带着一种政治'——针对生态不可持续语境",
+    "L31：2006年重刊'几乎未修订'（1999雏形）"
+  ]
+}

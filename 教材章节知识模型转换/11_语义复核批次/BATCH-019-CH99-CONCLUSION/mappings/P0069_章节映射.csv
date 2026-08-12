@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0069,C.0,A,V2,dual_discourse_design_thinking,设计思维双话语地图：designerly thinking（五认识论子话语：Simon/Schön/Buchanan/Lawson&Cross/Krippendorff）vs design thinking（三管理起源：IDEO/Martin/Boland&Collopy）——结语学科回顾,学术综述（2013发表，引注止于2012）；双话语框架为元话语分析,整体分析报告（L36-169）,ACCEPTED_AS_CORE_SOURCE
+P0069,C.0,B,V2,translation_loss,"翻译丢失"命题：管理版设计思维化约为创造力与工具箱，丢失创造力的完整性与使用条件；两话语几乎互不引用——断桥结构,作者论证（2013）；消亡预测未预见2010年代后制度化扩张（时代局限）,整体分析报告（L171-203）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0069,C.0,C,V2,wicked_problems_genealogy,设计问题棘手性（Rittel wicked problems）话语谱系：Buchanan问题求解子话语中的棘手问题——结语设计问题观,话语谱系（2013）；棘手问题概念以Rittel原作为准,整体分析报告（L80）,ACCEPTED_AS_SUPPORTING_SOURCE

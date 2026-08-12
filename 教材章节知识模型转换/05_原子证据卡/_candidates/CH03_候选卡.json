@@ -1,0 +1,1123 @@
+[
+ {
+  "evidence_id": "EV-C0351",
+  "claim": "创立宣言以午夜飙车寓言开篇并宣布速度之美、“时间与空间已死”，将赛车、工厂、城市噪音审美化，是3.1节“战争、都市与机械感知”的核心一手材料",
+  "source_id": "B0027",
+  "source_location": "clean第201—245行（开篇叙事与第4条）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.1"
+  ],
+  "textbook_function": "speed_machine_urban_sensation",
+  "supports": [
+   "创立宣言以午夜飙车寓言开篇并宣布速度之美、“时间与空间已死”，将赛车、工厂、城市噪音审美化，是3.1节“战争、都市与机械"
+  ],
+  "does_not_support": [
+   "速度美学是纲领性主张；作品是否实现动态感知需作品/图版证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0352",
+  "claim": "达达诞生于一战创伤与摄影画报、广播、电影、广告等现代媒介文化爆炸的双重危机交叉点；导论“现代震惊→达达战术→达达诊断学”框架；Benjamin弹道学比喻置于诊断学语境",
+  "source_id": "B0121",
+  "source_location": "clean行546—657、619、623",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.1"
+  ],
+  "textbook_function": "modern_shock_war_and_media_double_crisis",
+  "supports": [
+   "达达诞生于一战创伤与摄影画报、广播、电影、广告等现代媒介文化爆炸的双重危机交叉点；导论“现代震惊→达达战术→达达诊断学”"
+  ],
+  "does_not_support": [
+   "该框架是主编导论的主张，非六章统一结论（各章对“震撼”的具体形式理解不同）；Benjamin分析为1936年事后理论，不能当作1916—20年当时接受证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0353",
+  "claim": "一战海报是全面战争动员平民、建构“后方”的关键媒介：公民通过观看海报学会把自己视为后方一员；海报“民族化、动员化、现代化”了平民人口",
+  "source_id": "B0199",
+  "source_location": "clean 266-270（绪论）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.1"
+  ],
+  "textbook_function": "posters_as_home_front_mobilization",
+  "supports": [
+   "一战海报是全面战争动员平民、建构“后方”的关键媒介：公民通过观看海报学会把自己视为后方一员；海报“民族化、动员化、现代化"
+  ],
+  "does_not_support": [
+   "可证组织者的动员意图与视觉方案；“学会看到自己”是作者论证，观众接受程度不可单独由海报证明"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0354",
+  "claim": "大众化生产、全彩、大幅面战争海报同时是战争创新的“标志”与“工具”，构成现代大众传播与总体战的交汇点；海报被称为“海报战争”（the poster war）",
+  "source_id": "B0199",
+  "source_location": "clean 270、276、280（绪论）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.1"
+  ],
+  "textbook_function": "total_war_poster_sign_instrument",
+  "supports": [
+   "大众化生产、全彩、大幅面战争海报同时是战争创新的“标志”与“工具”，构成现代大众传播与总体战的交汇点；海报被称为“海报战"
+  ],
+  "does_not_support": [
+   "政府、慈善与私人机构均视海报为关键传播环节；但效果性引文出自广告业自述（Poster Advertising Association刊物），须标注话语身份"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0355",
+  "claim": "敌人形象（“匈人”、大猩猩等）的跨国视觉建构是大众动员的核心策略；距离战场越远（澳/美）暴力渲染越强，文化破坏（鲁汶、兰斯）成为宣传主题",
+  "source_id": "B0199",
+  "source_location": "clean 700-702（第2章）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.1"
+  ],
+  "textbook_function": "enemy_image_distance_violence",
+  "supports": [
+   "敌人形象（“匈人”、大猩猩等）的跨国视觉建构是大众动员的核心策略；距离战场越远（澳/美）暴力渲染越强，文化破坏（鲁汶、兰"
+  ],
+  "does_not_support": [
+   "“暴力强度差异”是Gullace对图像模式的归纳；敌人形象材料为组织者话语，不可转述为事实；不证明图像对观众的实际影响"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0356",
+  "claim": "海报以性别化修辞动员：美国女性形象五重类型（寓言女神/遇难少女/商品化/家庭消费者/穿制服女工）与英国男性气质“荣誉→羞耻胁迫”演变服务于招募与后方动员",
+  "source_id": "B0199",
+  "source_location": "clean 2423、2587（第9、10章）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.1"
+  ],
+  "textbook_function": "gendered_mobilization_rhetoric",
+  "supports": [
+   "海报以性别化修辞动员：美国女性形象五重类型（寓言女神/遇难少女/商品化/家庭消费者/穿制服女工）与英国男性气质“荣誉→羞"
+  ],
+  "does_not_support": [
+   "五类型与“三类男人”是作者类型学解读；PRC招募目标属组织者意图，是否被接受需其他证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0357",
+  "claim": "机械化都市与速度经验（电力入户、汽车驾驶、米兰工业化骤变）构成前卫艺术—设计的新感性，未来主义战争净化论为其政治底色（均以Banham的“第一/第二机器时代”框架表述）",
+  "source_id": "B0363",
+  "source_location": "回查导言L110-133的两时代界定与米兰“旧运河—新电车”对照",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.1"
+  ],
+  "textbook_function": "machine_age_mechanical_perception",
+  "supports": [
+   "机械化都市与速度经验（电力入户、汽车驾驶、米兰工业化骤变）构成前卫艺术—设计的新感性，未来主义战争净化论为其政治底色（均"
+  ],
+  "does_not_support": [
+   "以机械感知与都市经验为主体，战争维度仅见于宣言表态，本书非战争史研究；“第一机器时代”分期是Banham 1960年命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0358",
+  "claim": "未来主义宣言是行动者文本：1909年创立宣言及1910—1918年各媒介技术宣言（普遍动力论、自由词语、噪音艺术、综合戏剧、电影公式等）构成3.2节“宣言、排印、运动形式与战争政治”的直接一手史料",
+  "source_id": "B0027",
+  "source_location": "clean第245、255、2988行；引文标注1973/2001英译本版本",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.2"
+  ],
+  "textbook_function": "futurist_manifesto_core_actor_text",
+  "supports": [
+   "未来主义宣言是行动者文本：1909年创立宣言及1910—1918年各媒介技术宣言（普遍动力论、自由词语、噪音艺术、综合戏"
+  ],
+  "does_not_support": [
+   "只能证明行动者当时的主张与分类，不能证明作品效果或公众接受；战争赞美与反女性主义为历史立场转述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0359",
+  "claim": "《句法破坏——自由词语》(1913)主张摧毁句法、废除标点、引入数学符号、多色多字体印刷革命（凝缩隐喻、电报式意象、“自插图”），是3.2节“排印”主题的核心主张材料",
+  "source_id": "B0027",
+  "source_location": "clean第1373—1375、1387、2149行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.2"
+  ],
+  "textbook_function": "typographic_revolution_words_in_freedom",
+  "supports": [
+   "《句法破坏——自由词语》(1913)主张摧毁句法、废除标点、引入数学符号、多色多字体印刷革命（凝缩隐喻、电报式意象、“自"
+  ],
+  "does_not_support": [
+   "印刷革命是文学诗学纲领，实践完成度与版面效果需以原版出版物实物验证；英译无法完全再现排版"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0360",
+  "claim": "1909年宣言“战争是世界唯一卫生”（第9条）、Carrà《战争绘画》(1915)与Humphreys后记对战争鼓吹—法西斯主义纠葛的历史评述，作为“战争政治”主题的历史材料",
+  "source_id": "B0027",
+  "source_location": "clean第255、2739—2753、3030行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.2"
+  ],
+  "textbook_function": "futurism_war_politics_as_historical_stance",
+  "supports": [
+   "1909年宣言“战争是世界唯一卫生”（第9条）、Carrà《战争绘画》(1915)与Humphreys后记对战争鼓吹—法"
+  ],
+  "does_not_support": [
+   "宣言战争立场是行动者主张（P0），不等于战争实际效果；教材须批判性转述，不得复制为立场"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0361",
+  "claim": "马里内蒂1909年宣言提出一页多栏、二十种字体、斜体表快速、粗体表尖叫，开创自由词语（parole in libertà）排印，索菲奇《Bif§zf+18》(1915)为早期实践",
+  "source_id": "B0187",
+  "source_location": "clean第74—77行；图版页13—27",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.2"
+  ],
+  "textbook_function": "futurist_free_word_typography",
+  "supports": [
+   "马里内蒂1909年宣言提出一页多栏、二十种字体、斜体表快速、粗体表尖叫，开创自由词语（parole in libertà"
+  ],
+  "does_not_support": [
+   "宣言为本书转引原文；多字体混排与自由方向的视觉证据在《Bif§zf+18》《Cabaret Voltaire》图版"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0362",
+  "claim": "意大利未来主义是机械时代的美学先声：速度、图像碎片化、线条动感与机械时代生活激情构成其创作基础；其设计面向（Sant'Elia/Chiattone的未来城市建筑构想、Balla的服装设计）停留在高雅文化层面，未进入日常生产；其极端个人主义与“浪漫民族主义”直接通向法西斯，1920年代后成员与法西斯政治立场关联",
+  "source_id": "B0346",
+  "source_location": "回查clean第351—369行：FUTURISM专节标题、速度美学、Sant'Elia/Chiattone 1914年构想、Balla 1914年服装、法西斯关联表述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.2"
+  ],
+  "textbook_function": "futurism_italian_avantgarde_context",
+  "supports": [
+   "意大利未来主义是机械时代的美学先声：速度、图像碎片化、线条动感与机械时代生活激情构成其创作基础；其设计面向（Sant'E"
+  ],
+  "does_not_support": [
+   "本书对未来主义设计仅约12行正文加图注，属通史综述而非未来主义专论；“通向法西斯”是作者史家判断，须以未来主义宣言原文（B0027类一手来源）互补；本书未引用宣言正文"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0363",
+  "claim": "未来主义以宣言形式把“速度—机器—都市”铸成新文化价值，并从文学姿态扩展为绘画/雕塑/建筑理论（奠基宣言→技术宣言→Sant'Elia建筑宣言），其战争政治与反传统姿态构成教材3.2的核心史料",
+  "source_id": "B0363",
+  "source_location": "回查Ch8-10逐句解读与Messaggio/Manifesto作者归属差分",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.2"
+  ],
+  "textbook_function": "futurism_manifesto_motion_politics",
+  "supports": [
+   "未来主义以宣言形式把“速度—机器—都市”铸成新文化价值，并从文学姿态扩展为绘画/雕塑/建筑理论（奠基宣言→技术宣言→Sa"
+  ],
+  "does_not_support": [
+   "宣言文本（P0）证明行动者主张，不证明作品效果与公众接受；Sant'Elia建筑多未建成，国际声望“几乎全靠Marinetti推销”"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0364",
+  "claim": "柏林达达在一战后为将照片引入作品的技法命名photomontage，并以Monteur（装配工）取代艺术家身份，构成达达蒙太奇的起源与身份政治机制",
+  "source_id": "B0007",
+  "source_location": "clean第107、146—152行：命名引文与两派发明主张",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.3"
+  ],
+  "textbook_function": "origin_naming_berlin_dada",
+  "supports": [
+   "柏林达达在一战后为将照片引入作品的技法命名photomontage，并以Monteur（装配工）取代艺术家身份，构成达达"
+  ],
+  "does_not_support": [
+   "发明权归属（Grosz/Heartfield 1915-16 vs. Hausmann/Höch 1918波罗的海）存争议，书中如实转述双方主张而未裁断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0365",
+  "claim": "Heartfield在《AIZ》等德共刊物上以摄影蒙太奇作反法西斯宣传，照片的熟悉外观与并置逻辑共同生效，成为达达蒙太奇政治化的关键案例",
+  "source_id": "B0007",
+  "source_location": "clean第377—449、506行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.3"
+  ],
+  "textbook_function": "heartfield_antifascist_aiz_montage",
+  "supports": [
+   "Heartfield在《AIZ》等德共刊物上以摄影蒙太奇作反法西斯宣传，照片的熟悉外观与并置逻辑共同生效，成为达达蒙太奇"
+  ],
+  "does_not_support": [
+   "Berger“先事物后符号”与Lukàcs“好笑话”系转引评论家判断，属作者采信的二手命题；作品日期与刊物可证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0366",
+  "claim": "柏林摄影蒙太奇是从一战物质条件（审查、Liebesgaben关爱包裹、士兵纪念照、Klebestuben粘合室、代用品经济）中涌现的集体实践而非个人发明；Doherty并置Hausmann/Höch/Grosz/Heartfield/Herzfelde五种矛盾的发明叙事；Scholz《工业农民》为关键对象证据",
+  "source_id": "B0121",
+  "source_location": "clean行1902—1964、1916—1931、1929",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.3"
+  ],
+  "textbook_function": "dada_photomontage_as_war_media_practice",
+  "supports": [
+   "柏林摄影蒙太奇是从一战物质条件（审查、Liebesgaben关爱包裹、士兵纪念照、Klebestuben粘合室、代用品经"
+  ],
+  "does_not_support": [
+   "五种起源叙事均为事后回忆（1958—1966年写作），属记忆性史料；“发明”主张是行动者话语（P0），可证意图不可证观众接受；蒙太奇的政治效果论断部分依赖作者图像学诠释"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0367",
+  "claim": "施维特斯Merz原则：“所有材料权利平等”（婴儿车轮、铁丝网、棉线与颜料同权）、“und”（连接）作为方法论；Merzbild层叠结构、Ursonate、Merzbau构成跨媒介扩展；与柏林Club Dada的排斥冲突定义“政治达达vs艺术达达”张力",
+  "source_id": "B0121",
+  "source_location": "clean行2840—2842、2862—2863、2846—2848、2979—2989",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.3"
+  ],
+  "textbook_function": "merz_as_material_equality_and_connection",
+  "supports": [
+   "施维特斯Merz原则：“所有材料权利平等”（婴儿车轮、铁丝网、棉线与颜料同权）、“und”（连接）作为方法论；Merzb"
+  ],
+  "does_not_support": [
+   "Merz宣言是艺术家自我陈述（P0），“权利平等”是制作意图而非作品效果证据；Hannover章大量依赖Schwitters自述；Merzbau已毁，仅存照片与文字"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0368",
+  "claim": "达达以拼贴、蒙太奇与偶然性引入否定性创造；摄影蒙太奇从达达（豪斯曼、赫希）走向政治宣传（罗钦科、哈特菲尔德）与商业广告（兹瓦特、斯赫伊特马）",
+  "source_id": "B0187",
+  "source_location": "clean第248—255行；图版页28—51、57—59",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.3"
+  ],
+  "textbook_function": "dada_photomontage_typography",
+  "supports": [
+   "达达以拼贴、蒙太奇与偶然性引入否定性创造；摄影蒙太奇从达达（豪斯曼、赫希）走向政治宣传（罗钦科、哈特菲尔德）与商业广告（"
+  ],
+  "does_not_support": [
+   "蒙太奇谱系为作者建构；蒙太奇作品的视觉特征须回图版核实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0369",
+  "claim": "达达条目由编纂者阿尔普本人定义：“突袭美的艺术/艺术是魔幻排便/给维纳斯灌肠/让拉奥孔退场/将肯定与否定推至荒谬/为了达到无所谓而破坏”——达达反艺术立场与“破坏→无所谓”目的论的行动者自我陈述",
+  "source_id": "B0276",
+  "source_location": "clean第163—168、182—186（法语）、200—205（英语）",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.3"
+  ],
+  "textbook_function": "dada_self_definition_by_arp",
+  "supports": [
+   "达达条目由编纂者阿尔普本人定义：“突袭美的艺术/艺术是魔幻排便/给维纳斯灌肠/让拉奥孔退场/将肯定与否定推至荒谬/为了达"
+  ],
+  "does_not_support": [
+   "与B0121、B0007共享达达对象与阿尔普文本，同一对象只计一份P0；条目无多城多阶段语境（苏黎世/柏林/巴黎未区分）；“无所谓”是阿尔普个人表述，不得代表全部达达"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0370",
+  "claim": "Klutsis《动态城市》(1919-20)以“体积空间至上主义+photomontage”将至上主义平面替换为摄影元素，被作者定位为苏联摄影蒙太奇起点",
+  "source_id": "B0007",
+  "source_location": "clean第564—579行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "klutsis_dynamic_city_suprematist_basis",
+  "supports": [
+   "Klutsis《动态城市》(1919-20)以“体积空间至上主义+photomontage”将至上主义平面替换为摄影元素"
+  ],
+  "does_not_support": [
+   "“苏联首幅蒙太奇”系Klutsis自称，Ades引Rakitin 1918年之说表明起源年代仍有争论；平面替换的细读为作者命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0371",
+  "claim": "Rodchenko 1923年为马雅可夫斯基《关于这个》配图，以摄影蒙太奇展开个人情感与革命叙事的交织，构成苏联早期蒙太奇代表作",
+  "source_id": "B0007",
+  "source_location": "clean第659—754行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "rodchenko_about_this_illustration",
+  "supports": [
+   "Rodchenko 1923年为马雅可夫斯基《关于这个》配图，以摄影蒙太奇展开个人情感与革命叙事的交织，构成苏联早期蒙太"
+  ],
+  "does_not_support": [
+   "蒙太奇与诗作逐幅对应的解读属作者细读命题；“苏联最早想象力蒙太奇”为作者评价"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0372",
+  "claim": "罗德琴科是俄国构成主义从纯艺术转向生产艺术与摄影的典型个案：1921年三色单色画终结架上绘画，1923年起以蒙太奇与摄影进入大众传播",
+  "source_id": "B0013",
+  "source_location": "clean第245行、第583—585行、第3638—3641行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "core_primary_source",
+  "supports": [
+   "罗德琴科是俄国构成主义从纯艺术转向生产艺术与摄影的典型个案：1921年三色单色画终结架上绘画，1923年起以蒙太奇与摄影"
+  ],
+  "does_not_support": [
+   "家族专史，作者为罗德琴科之孙，具档案优势与辩护偏向；作品分期以家族档案为准"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0373",
+  "claim": "罗德琴科摄影分期1924—1954：1924座机肖像与静物→1925便携相机户外系列→1928徕卡→1930s纪实（白海运河、体育检阅）",
+  "source_id": "B0013",
+  "source_location": "clean第81行、第587—590行、第5865—5866行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "rodchenko_photography_periodization",
+  "supports": [
+   "罗德琴科摄影分期1924—1954：1924座机肖像与静物→1925便携相机户外系列→1928徕卡→1930s纪实（白海"
+  ],
+  "does_not_support": [
+   "分期依据作者家族档案与附录图版技术目录；设备与年代对应为本书考订结论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0374",
+  "claim": "对罗德琴科而言构成主义不是风格标签，而是适用于任何媒介的“艺术家的劳动方法”（生产艺术），摄影是其构成主义方法的媒介延伸",
+  "source_id": "B0013",
+  "source_location": "clean第583—585行、第603—604行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "constructivism_as_working_method",
+  "supports": [
+   "对罗德琴科而言构成主义不是风格标签，而是适用于任何媒介的“艺术家的劳动方法”（生产艺术），摄影是其构成主义方法的媒介延伸"
+  ],
+  "does_not_support": [
+   "属作者论述与罗德琴科自述的立场判断，非可独立验证的事实陈述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0375",
+  "claim": "罗钦科1921年与25位艺术家宣布放弃纯艺术转向生产艺术；《Pro Eto》摄影蒙太奇、《Lef》《Novi Lef》封面与马雅可夫斯基合作标语体现构成主义排版与宣传的结合",
+  "source_id": "B0187",
+  "source_location": "clean第929行；图版页63—65、126—132",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "constructivist_production_art",
+  "supports": [
+   "罗钦科1921年与25位艺术家宣布放弃纯艺术转向生产艺术；《Pro Eto》摄影蒙太奇、《Lef》《Novi Lef》封"
+  ],
+  "does_not_support": [
+   "25人宣言与《Pro Eto》技法为作者陈述；期刊图版为核心证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0376",
+  "claim": "Brik《From Pictures to Textile Prints》论证架上绘画与资本主义文化形态同朽、印花布成为创作中心，是生产主义在设计领域延伸的行动者文本",
+  "source_id": "B0222",
+  "source_location": "回查L4144-4239",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "constructivism_production_art_actor_texts",
+  "supports": [
+   "Brik《From Pictures to Textile Prints》论证架上绘画与资本主义文化形态同朽、印花布成为"
+  ],
+  "does_not_support": [
+   "证明Brik主张，不能证明纺织品设计在工厂的实际采用或大众接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0377",
+  "claim": "Gabo/Pevsner《Realistic Manifesto》反对艺术功利化、坚持艺术独立价值，与Tatlin文本并置呈现构成主义内部物质路线与精神路线的根本分歧",
+  "source_id": "B0222",
+  "source_location": "回查L3575-3668正文中关于节奏与生命的表述",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "constructivism_internal_split",
+  "supports": [
+   "Gabo/Pevsner《Realistic Manifesto》反对艺术功利化、坚持艺术独立价值，与Tatlin文本并"
+  ],
+  "does_not_support": [
+   "两篇均为行动者主张；编者评述（该宣言对俄国构成主义影响小、对西方意义大）为编者层判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0378",
+  "claim": "塔特林是俄国构成主义核心行动者：从反浮雕（painterly relief/corner relief）到第三国际塔到Letatlin，构成主义实践的源头人物",
+  "source_id": "B0228",
+  "source_location": "回查clean L1548—1549、L2719—2735、L3154—3156",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "core_actor_tatlin_constructivism",
+  "supports": [
+   "塔特林是俄国构成主义核心行动者：从反浮雕（painterly relief/corner relief）到第三国际塔到L"
+  ],
+  "does_not_support": [
+   "反浮雕与塔多已毁/未建成，图像重建属作者方法；生平与机构任职（1919年自由画室负责人）为档案事实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0379",
+  "claim": "材料→faktura→构造是塔特林方法论的统一逻辑，也是构成主义理论的核心概念（'material and faktura lead to construction'）",
+  "source_id": "B0228",
+  "source_location": "回查clean L828—833、L1548—1549、L1777",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "faktura_construction_methodology",
+  "supports": [
+   "材料→faktura→构造是塔特林方法论的统一逻辑，也是构成主义理论的核心概念（'material and faktur"
+  ],
+  "does_not_support": [
+   "faktura术语源自布尔留克、马尔科夫等同时代人，米尔纳将其理论化为具历史维度的文化概念，属分析框架"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0380",
+  "claim": "塔特林之塔（1919—1920）是构成主义进入公共领域的转捩点与标志形象：乌托邦的物质化模型、旋转大厅时间机器",
+  "source_id": "B0228",
+  "source_location": "回查clean L2719—2735、L2936—2946",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "third_international_monument",
+  "supports": [
+   "塔特林之塔（1919—1920）是构成主义进入公共领域的转捩点与标志形象：乌托邦的物质化模型、旋转大厅时间机器"
+  ],
+  "does_not_support": [
+   "委托来源、团队、展出时间出自普宁1920年小册子（档案性）；旋转周期/宇宙论对应含米尔纳阐释成分"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0381",
+  "claim": "构成主义非单一运动：塔特林材料构成主义、罗德琴科/布里克生产主义、Inkhuk实验室构成主义、加博分支在1919—1925年分化竞争",
+  "source_id": "B0228",
+  "source_location": "回查clean L3273—3303、L3416—3417",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "constructivism_multi_tendency",
+  "supports": [
+   "构成主义非单一运动：塔特林材料构成主义、罗德琴科/布里克生产主义、Inkhuk实验室构成主义、加博分支在1919—192"
+  ],
+  "does_not_support": [
+   "Inkhuk会议记录与Arvatov报道为档案证据；「四种构成主义」框架为米尔纳综合"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0382",
+  "claim": "李西茨基（3.4节核心人物之一）作为编者把普龙列为“主义”并署名自定“从绘画到建筑的换乘站”；构成主义条目以“技术棱镜、直接工作在铁木玻璃、数学与艺术边界不可确定”概括，图版含塔特林反浮雕1917、罗德琴科线条构成1920、OBMOCHU展览——构成主义“从绘画实验转向生产、宣传与日常用品”的同代自我分类记录",
+  "source_id": "B0276",
+  "source_location": "clean第220—222、229—233、13、18、23、283行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "lissitzky_editor_proun_constructivism_self_classification",
+  "supports": [
+   "李西茨基（3.4节核心人物之一）作为编者把普龙列为“主义”并署名自定“从绘画到建筑的换乘站”；构成主义条目以“技术棱镜、"
+  ],
+  "does_not_support": [
+   "普龙条目是李西茨基署名自我陈述（P0）；构成主义条目匿名，属编者概括而非艺术家原话；条目无历史语境，未呈现生产主义与加博路线分歧；与B0277共享构成主义对象，同一对象只计一份P0，3.4节主证据另寻"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0383",
+  "claim": "俄国构成主义不是艺术风格，而是与材料打交道、以社会政治变革为旨归的工作方法；“非功利主义构成”（1913—1921）与“构成主义”（1921后）的术语分期；INkhUK“构成—构图”辩论与第一构成主义工作组（1921.3.18）确立的功利主义纲领",
+  "source_id": "B0277",
+  "source_location": "回查clean第126行、140行、1015—1021行、1248行、1314行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "constructivism_as_social_construction",
+  "supports": [
+   "俄国构成主义不是艺术风格，而是与材料打交道、以社会政治变革为旨归的工作方法；“非功利主义构成”（1913—1921）与“"
+  ],
+  "does_not_support": [
+   "“社会建构本质”论是洛德1983年的论战性命题；“构成主义”一词1922年1月才首次印行，此前作品系事后回指；塔拉布金/阿尔瓦托夫“本质上仍是艺术家”的批评是历史行动者主张，不自动成立"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0384",
+  "claim": "构成主义设计方法在六个领域的实践与边界：波波娃/斯捷潘诺娃纺织与生产服装、塔特林多功能外套与节能炉、罗琴科“工人俱乐部”家具、克卢齐斯宣传台、波波娃《宽宏大量的乌龟》舞台、报刊亭方案；几何形式从功能推导蜕变为“风格化”的内部悖论",
+  "source_id": "B0277",
+  "source_location": "回查clean第1859—1870行、2111行、2239行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "constructivist_object_design_practice",
+  "supports": [
+   "构成主义设计方法在六个领域的实践与边界：波波娃/斯捷潘诺娃纺织与生产服装、塔特林多功能外套与节能炉、罗琴科“工人俱乐部”"
+  ],
+  "does_not_support": [
+   "“风格化”分析是洛德命题；多数设计未进入批量生产是其实证结论（过渡时期现实条件）；“最完整应用”评价限于纺织案例，不得泛化为构成主义全貌"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0385",
+  "claim": "生产艺术与艺术家-构造者：罗德琴科在VKhUTEMAS/Metfak将设计定义为目的+技术+材料的政治过程，材料与构造方式承载共产主义价值",
+  "source_id": "B0291",
+  "source_location": "clean第23—24行；clean第189行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "production_art_artist_constructor",
+  "supports": [
+   "生产艺术与艺术家-构造者：罗德琴科在VKhUTEMAS/Metfak将设计定义为目的+技术+材料的政治过程，材料与构造方"
+  ],
+  "does_not_support": [
+   "教学制度与设计项目为史实；“艺术家-构造者”作为概念重构属Margolin命题；Brik、Arvatov、Stepanova原文可回B0222、B0277交叉印证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0386",
+  "claim": "1925年巴黎世博会罗德琴科工人俱乐部：以简洁、硬质、红黑白灰的集体主义空间对抗Ruhlmann等资产阶级内饰，作为无产阶级生活方式模型",
+  "source_id": "B0291",
+  "source_location": "clean第101—113行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.4"
+  ],
+  "textbook_function": "workers_club_1925",
+  "supports": [
+   "1925年巴黎世博会罗德琴科工人俱乐部：以简洁、硬质、红黑白灰的集体主义空间对抗Ruhlmann等资产阶级内饰，作为无产"
+  ],
+  "does_not_support": [
+   "展品与Kogan序言为史实；视觉-政治对立解读为Margolin论证；与B0277（Lodder）材料重叠"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0387",
+  "claim": "De Stijl并非紧密艺术团体而是一份期刊及松散供稿人网络：成员地理分散、从未有全员展览或三人以上聚会，凝聚力靠van Doesburg居中通信维系",
+  "source_id": "B0048",
+  "source_location": "clean第623、647行；packet 01章L303—L304",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.5"
+  ],
+  "textbook_function": "journal_not_group_thesis",
+  "supports": [
+   "De Stijl并非紧密艺术团体而是一份期刊及松散供稿人网络：成员地理分散、从未有全员展览或三人以上聚会，凝聚力靠van"
+  ],
+  "does_not_support": [
+   "以1981年入藏van Doesburg书信为核心P0；“网络而非团体”为Blotkamp主编框架，各章叙事口径不一需分章引用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0388",
+  "claim": "1922年为根本断裂点：此前后Mondrian、van Doesburg、Oud三方主导，此后van Doesburg一人独大、刊物国际化；van der Leck、Wils、van 't Hoff、Vantongerloo先后退出，1922年Oud决裂",
+  "source_id": "B0048",
+  "source_location": "packet核心论点2",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.5"
+  ],
+  "textbook_function": "break_1922",
+  "supports": [
+   "1922年为根本断裂点：此前后Mondrian、van Doesburg、Oud三方主导，此后van Doesburg一"
+  ],
+  "does_not_support": [
+   "各章退出因果为档案重建；“1922断裂”为全书核心论点"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0389",
+  "claim": "1918年11月四语宣言制造强烈外部一致印象，但共识仅限最宽泛表述（新旧时间意识）；Oud、van der Leck拒绝签名，Huszár反对Vantongerloo署名",
+  "source_id": "B0048",
+  "source_location": "clean第156行、第4196—4198行、第5181行、第7031—7032行、第6592—6597行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.5"
+  ],
+  "textbook_function": "manifesto_1918_disunity",
+  "supports": [
+   "1918年11月四语宣言制造强烈外部一致印象，但共识仅限最宽泛表述（新旧时间意识）；Oud、van der Leck拒绝"
+  ],
+  "does_not_support": [
+   "P0：宣言文本+致Kok/Oud/Mondrian书信；各章叙事口径不一需分章引用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0390",
+  "claim": "风格派以矩形、原色（红蓝黄）与黑白灰构成非对称几何排版美学；《De Stijl》期刊版面是风格派原则的印刷体现；凡·杜斯堡元素主义（对角线）导致与蒙德里安决裂",
+  "source_id": "B0187",
+  "source_location": "clean第119—122行；图版页37—42、79—84",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.5"
+  ],
+  "textbook_function": "de_stijl_typographic_geometry",
+  "supports": [
+   "风格派以矩形、原色（红蓝黄）与黑白灰构成非对称几何排版美学；《De Stijl》期刊版面是风格派原则的印刷体现；凡·杜斯"
+  ],
+  "does_not_support": [
+   "《De Stijl》整页复制与Mécano页面为图版证据；元素主义之争以双方理由呈现"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0391",
+  "claim": "风格派1917—1919年由蒙德里安、范德莱克、胡萨尔、杜斯堡四画家共生发展而成，非蒙德里安一人之功；1917年10月创刊为起点",
+  "source_id": "B0342",
+  "source_location": "clean L8、L10",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.5"
+  ],
+  "textbook_function": "symbiotic_origin",
+  "supports": [
+   "风格派1917—1919年由蒙德里安、范德莱克、胡萨尔、杜斯堡四画家共生发展而成，非蒙德里安一人之功；1917年10月创"
+  ],
+  "does_not_support": [
+   "Overy叙事框架（Ch01 L4-11）+书信互证；与B0048共享蒙德里安对象，只计一份P0"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0392",
+  "claim": "杜斯堡1921年创用「机器美学」概念（Bouwkundig Weekblad三文），1923-4年后自我修正转向空间-时间/第四维度",
+  "source_id": "B0342",
+  "source_location": "clean L991、L1020、L1030-1031",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.5"
+  ],
+  "textbook_function": "machine_aesthetic",
+  "supports": [
+   "杜斯堡1921年创用「机器美学」概念（Bouwkundig Weekblad三文），1923-4年后自我修正转向空间-时"
+  ],
+  "does_not_support": [
+   "Overy转述杜斯堡文章（行动者文本之转引）；「似乎首创」为Overy推断，须回查Bouwkundig Weekblad原文核实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0393",
+  "claim": "里特维尔德红蓝椅（约1918）与施罗德宅（1924，与施罗德夫人合作）为风格派三维/空间实现；红蓝椅有Wright/Berlage/Klaarhamer先例，修正「绝对全新」成说",
+  "source_id": "B0342",
+  "source_location": "clean L182、L190-191、L211、L266-276",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.5"
+  ],
+  "textbook_function": "red_blue_chair_schroeder",
+  "supports": [
+   "里特维尔德红蓝椅（约1918）与施罗德宅（1924，与施罗德夫人合作）为风格派三维/空间实现；红蓝椅有Wright/Be"
+  ],
+  "does_not_support": [
+   "Overy综合叙述+引Frampton/Giedion；与B0048/B0276/B0363共享红蓝椅、施罗德宅对象（同一对象只计一份P0）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0394",
+  "claim": "风格派把抽象绘画哲学转写为建筑—设计理论：“机器=精神纪律”的机器美学、Elementarism元素空间观、Mondriaan新造型主义与Rietveld椅/施罗德宅，构成教材3.5的核心史料",
+  "source_id": "B0363",
+  "source_location": "回查Ch12与Ch14：机器美学L1781-1784、Elementarism L2139-2154",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.5"
+  ],
+  "textbook_function": "de_stijl_universal_order",
+  "supports": [
+   "风格派把抽象绘画哲学转写为建筑—设计理论：“机器=精神纪律”的机器美学、Elementarism元素空间观、Mondri"
+  ],
+  "does_not_support": [
+   "本书聚焦理论文本与少量建筑家具，成员关系与后期史以Jaffé等二手文献与访谈为据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0395",
+  "claim": "罗德琴科“从下向上/从上向下”极端视角是1920年代新摄影的核心实践，俄国称“Rodchenko foreshortening”；他批判传统平视“腹脐摄影”",
+  "source_id": "B0013",
+  "source_location": "clean第137行、第636—641行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "new_photography_angles",
+  "supports": [
+   "罗德琴科“从下向上/从上向下”极端视角是1920年代新摄影的核心实践，俄国称“Rodchenko foreshorten"
+  ],
+  "does_not_support": [
+   "引文为罗德琴科自述（转引自家族档案）；视觉效果须回图版核验，clean文本无图像"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0396",
+  "claim": "罗德琴科将摄影蒙太奇发展为书籍、期刊、海报的视觉传播系统：马雅可夫斯基《关于此》（1923）、维尔托夫《电影眼》海报（1924）、沙吉尼扬《Mess-Mend》（1924）",
+  "source_id": "B0013",
+  "source_location": "clean第1641—1653行、第1686—1705行、第1712—1720行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "photomontage_visual_communication",
+  "supports": [
+   "罗德琴科将摄影蒙太奇发展为书籍、期刊、海报的视觉传播系统：马雅可夫斯基《关于此》（1923）、维尔托夫《电影眼》海报（1"
+  ],
+  "does_not_support": [
+   "图版编号、年代与工艺（石印5000份等）以本书图注为准；构图判断须回图版"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0397",
+  "claim": "罗德琴科1934年《摄影——艺术》主张摄影挣脱辅助地位、“值得作为今日之艺术”，是苏联新摄影独立地位的理论纲领",
+  "source_id": "B0013",
+  "source_location": "clean第22—33行、第922—924行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "photography_as_art_theory",
+  "supports": [
+   "罗德琴科1934年《摄影——艺术》主张摄影挣脱辅助地位、“值得作为今日之艺术”，是苏联新摄影独立地位的理论纲领"
+  ],
+  "does_not_support": [
+   "为艺术家宣言性文本，反映其立场而非客观事实；该文1971年才在《苏联摄影》首刊"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0398",
+  "claim": "Isotype第一原则：以符号重复而非放大表示数量；模块化象形图由Gerd Arntz主导设计（1926年Gesolei展览后加入，1928年9月正式入职）",
+  "source_id": "B0081",
+  "source_location": "clean第196-202、1271-1285行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "visual_language_rules",
+  "supports": [
+   "Isotype第一原则：以符号重复而非放大表示数量；模块化象形图由Gerd Arntz主导设计（1926年Gesolei"
+  ],
+  "does_not_support": [
+   "图形规则与设计者史实可证；“视觉语言成效（可读性、传播效果）”不可自动推定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0399",
+  "claim": "达达期刊作为传播机制的版式设计：Tzara将Dada期刊小报化（Bulletin Dada/Dadaphone）、“Administration Mouvement Dada”公司式信纸品牌化；Anna Blume诗集封面、Merz 1 Holland Dada封面、Der Ventilator版面与笔名策略、排版诗（Gesetztes Bildgedicht）",
+  "source_id": "B0121",
+  "source_location": "clean行1053—1117、2934—2949、3453—3509、4797—4867",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "dada_periodical_typography_and_branding",
+  "supports": [
+   "达达期刊作为传播机制的版式设计：Tzara将Dada期刊小报化（Bulletin Dada/Dadaphone）、“Ad"
+  ],
+  "does_not_support": [
+   "展览图录以艺术史视角分析期刊传播功能，非设计史式版面分析；期刊内容在clean中有文本，版面视觉须回图版；Tzara品牌化兼有行动者自述成分"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0400",
+  "claim": "现代排印以非对称与对比为基础、传统居中排版被动而现代排版主动，印刷业现代化由“外来者”（画家、诗人、建筑师）完成——3.6“新字体”核心命题",
+  "source_id": "B0187",
+  "source_location": "clean第1023—1033行；图版页67—69、133—146",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "new_typography_advocacy",
+  "supports": [
+   "现代排印以非对称与对比为基础、传统居中排版被动而现代排版主动，印刷业现代化由“外来者”（画家、诗人、建筑师）完成——3."
+  ],
+  "does_not_support": [
+   "“先驱”谱系与二元框架为Spencer 1969年建构，须标注为作者命题；图版是排版对象的关键证据，clean文本只有文字，视觉判断须回原书图版"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0401",
+  "claim": "Rodchenko《Against the Synthetic Portrait, For the Snapshot》以Photograph and be photographed!论证快照摄影取代合成肖像，是新摄影论的行动者文本",
+  "source_id": "B0222",
+  "source_location": "回查L4260-4326正文批判段",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "new_photography_snapshot",
+  "supports": [
+   "Rodchenko《Against the Synthetic Portrait, For the Snapshot》以"
+  ],
+  "does_not_support": [
+   "证明艺术家主张与论战姿态，不能证明新摄影的公众接受度"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0402",
+  "claim": "莫霍利-纳吉主张以“新排版”组织信息同时性、回归排版基础，并历数从表意诗到照相制版拼贴的排版革命",
+  "source_id": "B0269",
+  "source_location": "回查clean第69—84行排版史链条，第75行“return to the fundamentals of the new typography”",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "typography_advocacy",
+  "supports": [
+   "莫霍利-纳吉主张以“新排版”组织信息同时性、回归排版基础，并历数从表意诗到照相制版拼贴的排版革命"
+  ],
+  "does_not_support": [
+   "行动者纲领：证明其排版主张与历史叙事；不能证明新字体教学成效或学生接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0403",
+  "claim": "1929年斯图加特FiFo展与新摄影运动：莫霍利-纳吉任顾问并组织“摄影发展走向何方”引子展，Stotz策展、Tschichold参与选片",
+  "source_id": "B0291",
+  "source_location": "clean第747—764行；clean第770行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "fifo_new_photography_exhibition",
+  "supports": [
+   "1929年斯图加特FiFo展与新摄影运动：莫霍利-纳吉任顾问并组织“摄影发展走向何方”引子展，Stotz策展、Tschi"
+  ],
+  "does_not_support": [
+   "展览史实可靠；“技术优先于题材”为核心论点；与B0269可互证莫霍利理论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0404",
+  "claim": "纸张、期刊、海报、插图和印刷技术构成跨城市视觉传播网络",
+  "source_id": "B0338",
+  "source_location": "补印刷工序、发行、编辑、广告、读者与实际图版",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.6"
+  ],
+  "textbook_function": "paper_periodicals_posters_typography_and_international_visual_network",
+  "supports": [
+   "纸张、期刊、海报、插图和印刷技术构成跨城市视觉传播网络"
+  ],
+  "does_not_support": [
+   "视觉创新与受众效果不能由图版或发行存在直接推出"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0405",
+  "claim": "达达作为去中心化跨国网络：期刊（391、Dada 1–7、Littérature、Der Ventilator、Merz）构成知识流通通道；人物迁移（Tzara苏黎世→巴黎、Picabia纽约↔苏黎世、Ernst科隆→巴黎、Man Ray/Duchamp纽约→巴黎）；邮政网络（Mouvement Dada信纸列出各城分支）；六城并列反对单一中心",
+  "source_id": "B0121",
+  "source_location": "clean行540—541、各章人物迁移叙述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.7"
+  ],
+  "textbook_function": "transnational_dada_network_periodicals_travel",
+  "supports": [
+   "达达作为去中心化跨国网络：期刊（391、Dada 1–7、Littérature、Der Ventilator、Merz"
+  ],
+  "does_not_support": [
+   "网络模型是导论主编框架+各章人物穿越的合成，原书未给网络理论定义；六城模型排除罗马尼亚/日本等边陲，引用时须注明其中心化残余"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0406",
+  "claim": "塔特林之塔经普宁小册子、乌曼斯基《俄国新艺术》、柏林Veshch/Broom、卡沙克著作传播，成为构成主义的国际标志形象",
+  "source_id": "B0228",
+  "source_location": "回查clean L2719—2721、L2736—2737",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.7"
+  ],
+  "textbook_function": "transnational_network_tower_dissemination",
+  "supports": [
+   "塔特林之塔经普宁小册子、乌曼斯基《俄国新艺术》、柏林Veshch/Broom、卡沙克著作传播，成为构成主义的国际标志形象"
+  ],
+  "does_not_support": [
+   "传播渠道为档案可证；「标志形象」判断含作者评价成分"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0407",
+  "claim": "三语并行出版与三国发行、图版收录13国艺术家（俄国与德国各约15位并列）、编者跨国身份（李西茨基俄→德、阿尔普瑞士/法）、后记记录的跨运动合作（李西茨基与施维特斯合编《MERZ》第8/9期）——“刊物、翻译、迁徙与协作形成非中心化传播”的同代实物证据",
+  "source_id": "B0276",
+  "source_location": "clean第1、2—24、284—316行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.7"
+  ],
+  "textbook_function": "trilingual_publishing_plate_network",
+  "supports": [
+   "三语并行出版与三国发行、图版收录13国艺术家（俄国与德国各约15位并列）、编者跨国身份（李西茨基俄→德、阿尔普瑞士/法）"
+  ],
+  "does_not_support": [
+   "图版构成是编者选择的结果而非网络全景；本书呈现的是“主义分类学”的网络而非达达六城网络，与B0121 3.7互补不重复；巴黎中心在图版中弱化反映编纂立场"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0408",
+  "claim": "跨国先锋网络：利西茨基柏林时期（Veshch、G杂志、Düsseldorf大会）、苏联-德国双向流通、莫霍利经伦敦至芝加哥的机构移植",
+  "source_id": "B0291",
+  "source_location": "clean第1596—1601行；clean第836行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.7"
+  ],
+  "textbook_function": "transnational_avantgarde_network",
+  "supports": [
+   "跨国先锋网络：利西茨基柏林时期（Veshch、G杂志、Düsseldorf大会）、苏联-德国双向流通、莫霍利经伦敦至芝加"
+  ],
+  "does_not_support": [
+   "人物流动与刊物为史实；“协商”作为统一解释框架为Margolin命题；与B0222、B0276重叠"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0409",
+  "claim": "1900—1930欧洲前卫构成跨国网络：Wright经Berlage/Ashbee进入荷兰、未来主义文件经Marinetti传入de Stijl、van Doesburg巡回与杜塞尔多夫大会、Lissitsky传教士角色，是教材3.7的机制性史料",
+  "source_id": "B0363",
+  "source_location": "回查L1663-1718（Wright接受）、L1553与L1808-1810（Marinetti文件）、L2108-2228（巡回与大会）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "3.7"
+  ],
+  "textbook_function": "transnational_avantgarde_network",
+  "supports": [
+   "1900—1930欧洲前卫构成跨国网络：Wright经Berlage/Ashbee进入荷兰、未来主义文件经Marinet"
+  ],
+  "does_not_support": [
+   "网络以人物中介与印刷媒介（de Stijl、L'Esprit Nouveau、G）为线索，非完整的机构与资金网络史"
+  ],
+  "status": "candidate"
+ }
+]

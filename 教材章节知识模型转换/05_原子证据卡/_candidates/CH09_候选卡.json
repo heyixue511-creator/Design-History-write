@@ -1,0 +1,78 @@
+[
+ {
+  "evidence_id": "EV-C0591",
+  "claim": "家电“省力/解放”承诺重新分配而非消除劳动：洗衣从商业洗衣房回退家庭、家务标准上升、女性个体消费者身份强化（Ebony 1967 Hoover广告）",
+  "source_id": "B0145",
+  "source_location": "clean第286—337行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "9.2"
+  ],
+  "textbook_function": "appliance_efficiency_promise_labor",
+  "supports": [
+   "家电“省力/解放”承诺重新分配而非消除劳动：洗衣从商业洗衣房回退家庭、家务标准上升、女性个体消费者身份强化（Ebony "
+  ],
+  "does_not_support": [
+   "Cowan/Schor归因与广告话语并置；“回退”论证为Lupton分析命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0592",
+  "claim": "文书工作1890—1920年从男性转向女性主导（打字/速记女性占比60%→90%）；打字机作为无性别历史新技术充当女性进入办公室的楔子；“pin money”意识形态",
+  "source_id": "B0145",
+  "source_location": "clean第626、634行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "9.3"
+  ],
+  "textbook_function": "clerical_work_feminization",
+  "supports": [
+   "文书工作1890—1920年从男性转向女性主导（打字/速记女性占比60%→90%）；打字机作为无性别历史新技术充当女性进"
+  ],
+  "does_not_support": [
+   "职业比例数据为二手统计（Rotella等）；“楔子”命题为Lupton解释"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0593",
+  "claim": "秘书职业无绝对职责定义，默认由性别（女性）与其机器（打字机、电话）识别；女性作为男性思想与最终签名间的“技术管道”",
+  "source_id": "B0145",
+  "source_location": "clean第736、630、684行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "9.3"
+  ],
+  "textbook_function": "secretary_defined_by_gender_machines",
+  "supports": [
+   "秘书职业无绝对职责定义，默认由性别（女性）与其机器（打字机、电话）识别；女性作为男性思想与最终签名间的“技术管道”"
+  ],
+  "does_not_support": [
+   "Pringle《Secretaries Talk》转述与Royal广告图说；性别化定义为Lupton命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0594",
+  "claim": "19世纪“发明女性消费者”，女性被定义为消费者、男性为生产者；性别化消费体制与美学重新性别化",
+  "source_id": "B0410",
+  "source_location": "核对clean L316、L1795",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "9.3"
+  ],
+  "textbook_function": "role_gendered_consumption",
+  "supports": [
+   "19世纪“发明女性消费者”，女性被定义为消费者、男性为生产者；性别化消费体制与美学重新性别化"
+  ],
+  "does_not_support": [
+   "女性主体声音间接，多经规范文本中介"
+  ],
+  "status": "candidate"
+ }
+]

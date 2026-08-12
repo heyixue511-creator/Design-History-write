@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0123,16.2,C,V2,digital_materiality_process,'数字物质性不是已完成之物而是生成过程'（process of becoming）——数字材料本体论——16.2数据集作为设计材料的理论侧,作者理论（2016）；文集编者命题,分析报告（Ch.1）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0123,16.6,C,V2,citizen_infrastructure,公民自建数字基础设施案例（Goulburn自建公共Wi-Fi、Fab Lab Barcelona、IoT社区）——16.6行星基础设施的公民侧,民族志案例（2016）；案例有实证描述,分析报告（Ch.3、11）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0123,16.6,C,V2,messy_daily_life,以'日常的混乱'为出发点研究数字与物质不可分割的世界（Strengers对智能家居愿景的批判）——16.6数字生活批判,作者批判（2016）；智能家居批判为论点,分析报告（Ch.6）,ACCEPTED_AS_SUPPORTING_SOURCE

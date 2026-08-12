@@ -1,0 +1,1636 @@
+[
+ {
+  "evidence_id": "EV-C0265",
+  "claim": "1851年博览会把国家竞争、产品判断、组织网络与公众传播汇聚为设计改革事件",
+  "source_id": "B0049",
+  "source_location": "补皇家委员会、目录、评审、对象、媒体和观众材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.1"
+  ],
+  "textbook_function": "great_exhibition_organization_design_reform_and_publicity",
+  "supports": [
+   "1851年博览会把国家竞争、产品判断、组织网络与公众传播汇聚为设计改革事件"
+  ],
+  "does_not_support": [
+   "人物传记不能独立证明参展对象来源、观众接受或全国性效果"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0266",
+  "claim": "1851年展览通过材料、对象、分类、规模与观看组织物的公共世界",
+  "source_id": "B0052",
+  "source_location": "与B0049、B0339、B0175及官方目录／对象互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.1"
+  ],
+  "textbook_function": "great_exhibition_objects_materials_classification_and_spectacle",
+  "supports": [
+   "1851年展览通过材料、对象、分类、规模与观看组织物的公共世界"
+  ],
+  "does_not_support": [
+   "综合史不能独立证明组织、观众接受、殖民来源或逐件制作"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0267",
+  "claim": "1851年博览会把商品、机器、帝国资源、国家竞争和公众观看汇聚为设计问题",
+  "source_id": "B0101",
+  "source_location": "补展览目录、评审、对象、媒体、观众和来源地档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.1"
+  ],
+  "textbook_function": "great_exhibition_industry_empire_and_public_viewing",
+  "supports": [
+   "1851年博览会把商品、机器、帝国资源、国家竞争和公众观看汇聚为设计问题"
+  ],
+  "does_not_support": [
+   "通史不能独立证明观众接受、殖民对象来源和评审效应"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0268",
+  "claim": "1851年展览通过目录、周刊、图像与对象同时组织机械、手艺、劳动、帝国和公众观看",
+  "source_id": "B0175",
+  "source_location": "补对象、制作、工人、发行、读者和观众材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.1"
+  ],
+  "textbook_function": "great_exhibition_labour_print_culture_and_global_goods",
+  "supports": [
+   "1851年展览通过目录、周刊、图像与对象同时组织机械、手艺、劳动、帝国和公众观看"
+  ],
+  "does_not_support": [
+   "展览文本中的劳动可见性不等于工人处境改善或观众接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0269",
+  "claim": "大展览的形成分类组织宣传和公众进入共同把工业产品转化为公共设计问题",
+  "source_id": "B0204",
+  "source_location": "皇家委员会档案官方图录评审报告报刊与图版",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.1"
+  ],
+  "textbook_function": "core_monograph_and_event_mechanism",
+  "supports": [
+   "大展览的形成分类组织宣传和公众进入共同把工业产品转化为公共设计问题"
+  ],
+  "does_not_support": [
+   "关键日期展品票价和图像仍须逐项回查原文页码与原件"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0270",
+  "claim": "1851年展览由既有展览制度、国际竞争、资金组织、门票分层和展示分类共同形成",
+  "source_id": "B0339",
+  "source_location": "补皇家委员会、对象、评审、现场、观众和地方委员会档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.1"
+  ],
+  "textbook_function": "great_exhibition_evolution_funding_ticket_and_public_viewing",
+  "supports": [
+   "1851年展览由既有展览制度、国际竞争、资金组织、门票分层和展示分类共同形成"
+  ],
+  "does_not_support": [
+   "不能写成单一发明，也不能由观看条件推出观众认同"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0271",
+  "claim": "技工学校、设计学校、博物馆、职业教育政策和行业组织构建设计制度化网络",
+  "source_id": "B0031",
+  "source_location": "补官方政策、课程、学生作业、师资、就业和组织章程",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "schools_museums_policy_and_industry_organizations",
+  "supports": [
+   "技工学校、设计学校、博物馆、职业教育政策和行业组织构建设计制度化网络"
+  ],
+  "does_not_support": [
+   "课程存在不等于教学成效且女性教育受性别分工限制"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0272",
+  "claim": "博览会资本经部门任命、学校、收藏、博物馆和考核机制转化为南肯辛顿治理体系",
+  "source_id": "B0049",
+  "source_location": "补预算、课程、学生作业、考试、就业、地方学校和工业记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "cole_school_museum_department_and_governance",
+  "supports": [
+   "博览会资本经部门任命、学校、收藏、博物馆和考核机制转化为南肯辛顿治理体系"
+  ],
+  "does_not_support": [
+   "设立和扩张不证明教学成效、产业采用或公共可达性"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0273",
+  "claim": "School资助争议显示技术教育法律、公共拨款和生产联系如何界定制度合法性",
+  "source_id": "B0091",
+  "source_location": "补LCC报告、申请、检查、预算、课程与学生结果",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "technical_education_school_policy_and_funding",
+  "supports": [
+   "School资助争议显示技术教育法律、公共拨款和生产联系如何界定制度合法性"
+  ],
+  "does_not_support": [
+   "不能把关闭只归于个人阻挠或法律单因"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0274",
+  "claim": "Cole体系、学校、博物馆、出版与国家政策把产品审美变成制度治理",
+  "source_id": "B0101",
+  "source_location": "补官方政策、预算、课程、学生作品、企业与就业记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "cole_reform_museum_school_and_state_governance",
+  "supports": [
+   "Cole体系、学校、博物馆、出版与国家政策把产品审美变成制度治理"
+  ],
+  "does_not_support": [
+   "政策与机构成立不证明教学、工业采用或质量改善"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0275",
+  "claim": "设计学校、Working Men's College与Central School连接思想、教学和工艺实践",
+  "source_id": "B0168",
+  "source_location": "补课程、作业、招生、师生、就业和官方档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "schools_working_mens_college_and_central_school",
+  "supports": [
+   "设计学校、Working Men's College与Central School连接思想、教学和工艺实践"
+  ],
+  "does_not_support": [
+   "学校存在或名师任职不证明教学成效与学生去向"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0276",
+  "claim": "设计学校、版权、博物馆、巡展和分馆构成从生产者训练到消费者教育的制度链",
+  "source_id": "B0175",
+  "source_location": "补课程、学生、预算、工业采用、访客与地方机构档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "design_school_museum_consumer_pedagogy_and_spatial_governance",
+  "supports": [
+   "设计学校、版权、博物馆、巡展和分馆构成从生产者训练到消费者教育的制度链"
+  ],
+  "does_not_support": [
+   "政策与开放时间不能证明教学、品味或社会改良效果"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0277",
+  "claim": "原则、范例与彩色复制被组织成面向艺术家、制造者和公众的设计教育体系",
+  "source_id": "B0332",
+  "source_location": "补School of Design课程、学生作业、行政和使用记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "design_education_and_general_principles",
+  "supports": [
+   "原则、范例与彩色复制被组织成面向艺术家、制造者和公众的设计教育体系"
+  ],
+  "does_not_support": [
+   "第37条是改革诉求，不能证明教育成效"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0278",
+  "claim": "南肯辛顿博物馆与科学与艺术部构成中央集权设计教育网络，以博物馆+艺术学校+巡回展览+定期视察服务于国家工业竞争与帝国治理（教师遍布悉尼、加尔各答、孟买、拉合尔）",
+  "source_id": "B0427",
+  "source_location": "回查clean L284-294（科学与艺术部、Kipling任教、说教项目）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "museum_school_state_governance",
+  "supports": [
+   "南肯辛顿博物馆与科学与艺术部构成中央集权设计教育网络，以博物馆+艺术学校+巡回展览+定期视察服务于国家工业竞争与帝国治理"
+  ],
+  "does_not_support": [
+   "机构意图来自官方档案（First Report、Robinson 1858），其实际影响需结合殖民地侧记录验证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0279",
+  "claim": "《语法》把改革机构、教学原则、彩色复制和设计实践连接起来",
+  "source_id": "P0040",
+  "source_location": "补学校借阅、课程、学生作业和事务所使用记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.2"
+  ],
+  "textbook_function": "design_reform_publication_and_teaching",
+  "supports": [
+   "《语法》把改革机构、教学原则、彩色复制和设计实践连接起来"
+  ],
+  "does_not_support": [
+   "传播广与教育有效是不同命题，后者尚缺使用证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0280",
+  "claim": "社会主义劳动伦理、高价手工商品、常规雇佣与市场生存构成工艺美术的核心张力",
+  "source_id": "B0070",
+  "source_location": "与B0133、工人材料、工资比较和消费史对读",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "socialist_ideal_enterprise_labour_and_price_contradiction",
+  "supports": [
+   "社会主义劳动伦理、高价手工商品、常规雇佣与市场生存构成工艺美术的核心张力"
+  ],
+  "does_not_support": [
+   "企业史不能单独解释莫里斯思想体系或工人的真实认同"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0281",
+  "claim": "材料、手脑结合、集体劳动与机器生产批评构成工艺美术运动的一手论述",
+  "source_id": "B0090",
+  "source_location": "与工厂、企业、工人、商品和消费者档案对读",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "arts_crafts_material_labour_and_machine_primary_text",
+  "supports": [
+   "材料、手脑结合、集体劳动与机器生产批评构成工艺美术运动的一手论述"
+  ],
+  "does_not_support": [
+   "产品‘令人沮丧’是作者审美判断，工厂劳动事实需另证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0282",
+  "claim": "Guild把满意劳动理想置于合作制、工资、订单、管理和资本的实际检验中",
+  "source_id": "B0091",
+  "source_location": "与成员材料、账簿、工时、客户和同业比较互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "arts_crafts_labour_ethic_tested_by_enterprise",
+  "supports": [
+   "Guild把满意劳动理想置于合作制、工资、订单、管理和资本的实际检验中"
+  ],
+  "does_not_support": [
+   "共同体叙事不能遮蔽权力不对称、奢侈品市场与成员分歧"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0283",
+  "claim": "工艺美术劳动伦理与高价手工商品、企业市场之间存在可追踪张力",
+  "source_id": "B0101",
+  "source_location": "与B0318、B0090、B0091及企业劳动档案互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "ruskin_morris_arts_crafts_and_market_contradiction",
+  "supports": [
+   "工艺美术劳动伦理与高价手工商品、企业市场之间存在可追踪张力"
+  ],
+  "does_not_support": [
+   "通史概括不能替代参与者文本、公司账簿和工人经验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0284",
+  "claim": "莫里斯把艺术—劳动问题指向利润生产、阶级关系、使用价值和欲望教育，构成工艺美术政治的核心解释",
+  "source_id": "B0133",
+  "source_location": "与莫里斯原文、B0070、工人材料和反对者文献对读",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "morris_labour_capitalism_socialism_and_utopian_desire",
+  "supports": [
+   "莫里斯把艺术—劳动问题指向利润生产、阶级关系、使用价值和欲望教育，构成工艺美术政治的核心解释"
+  ],
+  "does_not_support": [
+   "‘必要与欲望’是Thompson重构；莫里斯政治不能代表企业实际劳动关系"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0285",
+  "claim": "Pugin—Ruskin—Morris—Ashbee的劳动、社会与艺术命题构成运动内部既连续又分歧的谱系",
+  "source_id": "B0168",
+  "source_location": "逐文本区分作者、年代、对象、机器观与政治条件",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "pugin_ruskin_morris_ashbee_labour_ethics_genealogy",
+  "supports": [
+   "Pugin—Ruskin—Morris—Ashbee的劳动、社会与艺术命题构成运动内部既连续又分歧的谱系"
+  ],
+  "does_not_support": [
+   "不能把多位作者压缩成单一反工业立场"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0286",
+  "claim": "劳动愉悦、艺术民主、反奢侈和人民艺术构成工艺美术劳动伦理的一手主张",
+  "source_id": "B0318",
+  "source_location": "与企业账簿、工人材料、商品价格和接受史互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "arts_crafts_labour_ethics_primary_text",
+  "supports": [
+   "劳动愉悦、艺术民主、反奢侈和人民艺术构成工艺美术劳动伦理的一手主张"
+  ],
+  "does_not_support": [
+   "主张的传播、执行、价格与社会成效须另证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0287",
+  "claim": "理想书、社会主义、工人待遇、严格控制、昂贵商品和收藏市场共同构成劳动伦理的实践矛盾",
+  "source_id": "B0348",
+  "source_location": "与Ruskin、B0070、B0133、工人及消费者材料对读",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "ideal_book_socialism_division_of_labour_and_collectors",
+  "supports": [
+   "理想书、社会主义、工人待遇、严格控制、昂贵商品和收藏市场共同构成劳动伦理的实践矛盾"
+  ],
+  "does_not_support": [
+   "管理者证词和保守账目不能证明工人获得解放"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0288",
+  "claim": "工人自由、不完美、劳动分工和消费者责任构成Ruskin劳动伦理的核心行动者文本",
+  "source_id": "B0383",
+  "source_location": "与Morris、企业史、劳动档案、批评者和对象材料对读",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "nature_of_gothic_labour_freedom_and_consumer_duty",
+  "supports": [
+   "工人自由、不完美、劳动分工和消费者责任构成Ruskin劳动伦理的核心行动者文本"
+  ],
+  "does_not_support": [
+   "哥特形式不证明工人实际自由，宗教优越论不进入教材事实陈述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0289",
+  "claim": "劳动中的快乐、机器使用、商业体制、工资与奢侈市场构成工艺美术的核心矛盾",
+  "source_id": "B0450",
+  "source_location": "补工资、工时、价格、销量、工人、企业和消费者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.3"
+  ],
+  "textbook_function": "arts_crafts_labour_ethics_machine_market_and_price_tensions",
+  "supports": [
+   "劳动中的快乐、机器使用、商业体制、工资与奢侈市场构成工艺美术的核心矛盾"
+  ],
+  "does_not_support": [
+   "运动领袖宣言与图录对象不能证明实际劳动解放或民主可及"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0290",
+  "claim": "固定价格、自由进入、免除购买义务、广告展示与服务共同改变消费实践",
+  "source_id": "B0001",
+  "source_location": "回查期刊版次页码及Miller/Bowlby/Leach/Hower等被引原文",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "core_framework_and_mechanism",
+  "supports": [
+   "固定价格、自由进入、免除购买义务、广告展示与服务共同改变消费实践"
+  ],
+  "does_not_support": [
+   "不能单独证明具体商店史实或不同群体的实际体验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0291",
+  "claim": "店铺、橱窗、目录、剧场、展览、命名、奖项和代理共同构成现代消费者的中介条件",
+  "source_id": "B0006",
+  "source_location": "补销售、价格、信用、顾客记录、家庭清单与使用材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "shop_window_catalogue_display_brand_and_consumer_mediation",
+  "supports": [
+   "店铺、橱窗、目录、剧场、展览、命名、奖项和代理共同构成现代消费者的中介条件"
+  ],
+  "does_not_support": [
+   "供给、曝光和评论不能证明消费者被动接受或欲望被成功制造"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0292",
+  "claim": "商品范围、广告、家庭物、收藏与贫困并置可说明消费者所处的物质条件和社会差异",
+  "source_id": "B0052",
+  "source_location": "补价格、工资、信用、家庭清单、典当、维修和使用",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "plenitude_goods_ads_home_and_consumer_conditions",
+  "supports": [
+   "商品范围、广告、家庭物、收藏与贫困并置可说明消费者所处的物质条件和社会差异"
+  ],
+  "does_not_support": [
+   "物的增殖不等于普遍占有、购买动机或相同使用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0293",
+  "claim": "产品系列、零售、宣传、价格与中产家庭共同塑造Morris市场",
+  "source_id": "B0070",
+  "source_location": "补订单、家庭清单、读者／顾客、使用和二手流通",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "middle_class_home_retail_pricing_and_market_creation",
+  "supports": [
+   "产品系列、零售、宣传、价格与中产家庭共同塑造Morris市场"
+  ],
+  "does_not_support": [
+   "销售和知名度不证明所有消费者的欲望、使用或接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0294",
+  "claim": "商店、百货、时尚媒体、成衣和消费者身份协商共同组织现代消费",
+  "source_id": "B0080",
+  "source_location": "补销售、信用、家庭账目、顾客记录、使用和拒绝",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "shops_department_stores_media_credit_and_active_consumers",
+  "supports": [
+   "商店、百货、时尚媒体、成衣和消费者身份协商共同组织现代消费"
+  ],
+  "does_not_support": [
+   "反涓滴不等于所有消费者自主，陈列和媒体也不能证明接受效果"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0295",
+  "claim": "商店、委托、广告、库存、价格、零售竞争和客户距离共同影响Guild生存",
+  "source_id": "B0091",
+  "source_location": "补销售、成本、退货、客户书信和消费记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "shop_commissions_stock_retail_competition_and_market",
+  "supports": [
+   "商店、委托、广告、库存、价格、零售竞争和客户距离共同影响Guild生存"
+  ],
+  "does_not_support": [
+   "Crawford的市场解释仍须回完整账簿且购买不等于使用接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0296",
+  "claim": "目录、商店、广告、商品差异与消费者意义共同组织现代消费",
+  "source_id": "B0101",
+  "source_location": "补价格、销售、家庭清单、消费者叙述与使用痕迹",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "catalogues_shops_advertising_and_active_consumers",
+  "supports": [
+   "目录、商店、广告、商品差异与消费者意义共同组织现代消费"
+  ],
+  "does_not_support": [
+   "供给与营销不能证明购买、认同或实际使用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0297",
+  "claim": "消费者对颜色底色尺寸和品种的选择通过公司样品与订货反向改变生产和工艺",
+  "source_id": "B0169",
+  "source_location": "补零售、价格、家庭清单、穿用、退货和消费者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "customisation_consumption_and_company_mediation",
+  "supports": [
+   "消费者对颜色底色尺寸和品种的选择通过公司样品与订货反向改变生产和工艺"
+  ],
+  "does_not_support": [
+   "公司判断是中介证据且一次销售失败不能代表全部消费者"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0298",
+  "claim": "消费者意志、品味规则、负面样本、商业账簿和公共争论说明消费教育如何介入市场",
+  "source_id": "B0175",
+  "source_location": "补商店、目录、广告、价格、信用、家庭清单和消费者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "consumer_will_taste_pedagogy_market_and_public_dispute",
+  "supports": [
+   "消费者意志、品味规则、负面样本、商业账簿和公共争论说明消费教育如何介入市场"
+  ],
+  "does_not_support": [
+   "不等同于百货商店、广告和信用的完整机制，也不能证明消费者被成功塑造"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0299",
+  "claim": "目录、邮购、产品变体和市场细分使外观成为组织大众消费的重要变量",
+  "source_id": "B0225",
+  "source_location": "补价格、订单、退货、家庭清单和消费者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "catalogues_mass_markets_and_aesthetic_choice",
+  "supports": [
+   "目录、邮购、产品变体和市场细分使外观成为组织大众消费的重要变量"
+  ],
+  "does_not_support": [
+   "目录供给不能自动证明消费者偏好或实际使用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0300",
+  "claim": "具体商品、零售、广告和中间阶层购买共同构成18世纪消费—制造前史",
+  "source_id": "B0304",
+  "source_location": "补19世纪商店档案、信用、橱窗和消费者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "product_revolution_shopping_and_consumers",
+  "supports": [
+   "具体商品、零售、广告和中间阶层购买共同构成18世纪消费—制造前史"
+  ],
+  "does_not_support": [
+   "不是19世纪百货商店制度的直接证明，普通劳动者覆盖不足"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0301",
+  "claim": "Bing、Liberty、百货空间、期刊和展览构成新艺术的展示—营销—销售机器",
+  "source_id": "B0338",
+  "source_location": "补价格、销售、顾客、信用、使用、仿制和拒绝",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "bing_liberty_department_stores_publicity_and_consumption_machine",
+  "supports": [
+   "Bing、Liberty、百货空间、期刊和展览构成新艺术的展示—营销—销售机器"
+  ],
+  "does_not_support": [
+   "消费数量不证明相同理解，商业普及也不等于社会理想实现"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0302",
+  "claim": "价格、版本、折扣、投机、盗版与跨洋复制说明设计价值如何被市场组织",
+  "source_id": "B0348",
+  "source_location": "补顾客、阅读、流通、图书馆和二手市场记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "pricing_discount_speculation_piracy_and_collecting_market",
+  "supports": [
+   "价格、版本、折扣、投机、盗版与跨洋复制说明设计价值如何被市场组织"
+  ],
+  "does_not_support": [
+   "市场价格不能等同于审美接受或使用意义"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0303",
+  "claim": "百货商店以多元化切断生产与消费关联；Bon Marché 1850s售床、1880s成套家具；巴黎百货街区格局",
+  "source_id": "B0410",
+  "source_location": "核对clean L2057—2158",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.4"
+  ],
+  "textbook_function": "role_retail_innovation",
+  "supports": [
+   "百货商店以多元化切断生产与消费关联；Bon Marché 1850s售床、1880s成套家具；巴黎百货街区格局"
+  ],
+  "does_not_support": [
+   "以家具零售为主线，百货商店仅部分章节"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0304",
+  "claim": "织物、服装、家具、室内、珠宝和金属器把唯美主义与新艺术组织为商业化生活方式",
+  "source_id": "B0006",
+  "source_location": "补对象、设计簿、委托、展览、评论、住宅与使用史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "aestheticism_art_nouveau_fashion_interior_and_product_system",
+  "supports": [
+   "织物、服装、家具、室内、珠宝和金属器把唯美主义与新艺术组织为商业化生活方式"
+  ],
+  "does_not_support": [
+   "运动命名、品牌归属和设计者身份存在企业叙事与后见之明"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0305",
+  "claim": "对维也纳分离派与青年风格的装饰批判：斥其以新装饰替换旧装饰、产品已被遗忘",
+  "source_id": "B0008",
+  "source_location": "clean第2004、2028行；第235行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "secession_critic",
+  "supports": [
+   "对维也纳分离派与青年风格的装饰批判：斥其以新装饰替换旧装饰、产品已被遗忘"
+  ],
+  "does_not_support": [
+   "证明Loos的反对主张，不能据此断定分离派实际性质"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0306",
+  "claim": "“文化进化=去除实用物品装饰”；现代装饰“没有父母、没有后代”——装饰批判与唯美主义/新艺术议题的衔接命题",
+  "source_id": "B0008",
+  "source_location": "clean第1677行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "decor_crime_thesis",
+  "supports": [
+   "“文化进化=去除实用物品装饰”；现代装饰“没有父母、没有后代”——装饰批判与唯美主义/新艺术议题的衔接命题"
+  ],
+  "does_not_support": [
+   "行动者核心主张，作为2.5装饰批判谱系的讨论对象而非结论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0307",
+  "claim": "建筑、室内、家具、服装、陶瓷与印刷共同构成唯美主义整体环境",
+  "source_id": "B0035",
+  "source_location": "逐案例补接触、展览、出版、交易、制造与地方改写",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "aesthetic_movement_total_interior_fashion_print_and_art_nouveau_prehistory",
+  "supports": [
+   "建筑、室内、家具、服装、陶瓷与印刷共同构成唯美主义整体环境"
+  ],
+  "does_not_support": [
+   "‘Art Nouveau序曲’是作者中心命题，形式相似不自动证明直接传播"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0308",
+  "claim": "家庭道德、家务管理、品味指南、家具与实际住宅之间的落差构成整体环境的核心问题",
+  "source_id": "B0052",
+  "source_location": "补室内清单、家务劳动、住宅、对象、女性与仆役材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "hearth_home_household_taste_and_material_practice",
+  "supports": [
+   "家庭道德、家务管理、品味指南、家具与实际住宅之间的落差构成整体环境的核心问题"
+  ],
+  "does_not_support": [
+   "规范文本不能代表家庭实践，性别与劳动材料不均"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0309",
+  "claim": "跨家具、织物、壁纸、玻璃和室内装饰的产品体系形成可识别的整体环境",
+  "source_id": "B0070",
+  "source_location": "补具体室内、对象、委托、图像和使用材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "total_interior_product_range_and_morris_look",
+  "supports": [
+   "跨家具、织物、壁纸、玻璃和室内装饰的产品体系形成可识别的整体环境"
+  ],
+  "does_not_support": [
+   "风格一致性不能抹去不同设计者、工序和用户改造"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0310",
+  "claim": "书籍、壁纸、织物、玻璃、金属与建筑位置组成总体环境式设计论",
+  "source_id": "B0090",
+  "source_location": "补完整图版、对象档案与室内使用证据",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "books_wallpaper_glass_metal_and_total_environment",
+  "supports": [
+   "书籍、壁纸、织物、玻璃、金属与建筑位置组成总体环境式设计论"
+  ],
+  "does_not_support": [
+   "对象图版、委托、制作与使用情境尚未逐件核验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0311",
+  "claim": "建筑、家具、室内与手工艺的统一构成工艺美术到整体环境设计的重要路径",
+  "source_id": "B0168",
+  "source_location": "补对象、图纸、工场、委托、室内与使用材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "architecture_interior_craft_and_total_environment",
+  "supports": [
+   "建筑、家具、室内与手工艺的统一构成工艺美术到整体环境设计的重要路径"
+  ],
+  "does_not_support": [
+   "风格和原则谱系不能确定具体对象作者、制作和使用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0312",
+  "claim": "维也纳语境对新艺术的独特颠倒——“维也纳人赋予拟人或植物形态以装饰特征”而非相反——解释其从新艺术迅速转向严峻几何",
+  "source_id": "B0247",
+  "source_location": "clean第273行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "jugendstil_vienna_inversion",
+  "supports": [
+   "维也纳语境对新艺术的独特颠倒——“维也纳人赋予拟人或植物形态以装饰特征”而非相反——解释其从新艺术迅速转向严峻几何"
+  ],
+  "does_not_support": [
+   "此为Kallir阐释性论点，作为风格史命题引用时标注作者判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0313",
+  "claim": "Gesamtkunstwerk从瓦格纳舞台转译为家庭空间（Bahr“房间像管弦乐队”）是维也纳工坊设计哲学核心，也是从唯美主义到新艺术语境的关键命题",
+  "source_id": "B0247",
+  "source_location": "clean第455行附近；第一章",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "gesamtkunstwerk_domestication",
+  "supports": [
+   "Gesamtkunstwerk从瓦格纳舞台转译为家庭空间（Bahr“房间像管弦乐队”）是维也纳工坊设计哲学核心，也是从唯"
+  ],
+  "does_not_support": [
+   "概念阐释为主；Bahr引文在源文件中仅出现一次，不得称“反复引用”"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0314",
+  "claim": "分离派三大制度支柱（展览、博物馆、Ver Sacrum）与1897年分裂为工坊提供组织前提，工坊是分离派工艺取向者的制度延续",
+  "source_id": "B0247",
+  "source_location": "clean第273行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "secession_workshop_institutional_link",
+  "supports": [
+   "分离派三大制度支柱（展览、博物馆、Ver Sacrum）与1897年分裂为工坊提供组织前提，工坊是分离派工艺取向者的制度"
+  ],
+  "does_not_support": [
+   "分离派与工坊的人员/机构承继明确，但两组织为不同法人实体，不混同为同一来源"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0315",
+  "claim": "新艺术须作为多种意义、材料、城市制度和总体环境的组合而非单一曲线",
+  "source_id": "B0338",
+  "source_location": "逐对象补制作、委托、使用、地方称谓和反例",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "art_nouveau_meaning_material_city_and_total_environment",
+  "supports": [
+   "新艺术须作为多种意义、材料、城市制度和总体环境的组合而非单一曲线"
+  ],
+  "does_not_support": [
+   "全书的现代性统一框架与名作选取须保留史学／策展边界"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0316",
+  "claim": "字体、页边距、装饰、插图与文本的整体编排构成工艺美术的书籍环境",
+  "source_id": "B0348",
+  "source_location": "补不同开本、普通页面、实物、图像和阅读使用",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "typography_ornament_illustration_and_unified_page",
+  "supports": [
+   "字体、页边距、装饰、插图与文本的整体编排构成工艺美术的书籍环境"
+  ],
+  "does_not_support": [
+   "著名Chaucer重页不是全部Kelmscott书的代表，当前未逐图核验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0317",
+  "claim": "总体艺术、住宅、作坊共同体与地方风格显示艺术—生活融合的多种实践",
+  "source_id": "B0450",
+  "source_location": "补委托、建造、家具、居民、维护、照片和使用记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.5"
+  ],
+  "textbook_function": "art_and_life_total_environment_and_regional_variants",
+  "supports": [
+   "总体艺术、住宅、作坊共同体与地方风格显示艺术—生活融合的多种实践"
+  ],
+  "does_not_support": [
+   "整体环境的策展复原不能等同原住用经验，亦非统一新艺术形式"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0318",
+  "claim": "Art Deco时代恰逢欧洲帝国“最后的殖民时代”：法殖民地贸易30%、海外投资45%（1939 vs 1914年9%）；1931巴黎殖民博览会与1925博览会构成殖民资源展示语境",
+  "source_id": "B0073",
+  "source_location": "回查L578—591；L583—589",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "colonial_empire_exhibition_context",
+  "supports": [
+   "Art Deco时代恰逢欧洲帝国“最后的殖民时代”：法殖民地贸易30%、海外投资45%（1939 vs 1914年9%）"
+  ],
+  "does_not_support": [
+   "经济数字引自当代统计（Ch2 Marwick）；殖民展为法国官方话语（编者已批判）；Wembley等英帝国展另列"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0319",
+  "claim": "殖民分类机制完整链条：命名（题注“Goojur Landholder”质疑）、政治忠诚度等级化（Gujar/Banjara/Baniya对照）、舞台化“复原”原始状态（Dobson、Peppé）与东方学征引性网格（照片—博物馆—档案交叉引用）",
+  "source_id": "B0082",
+  "source_location": "回查clean第262—280行、第312行、第330—336行、第275行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "colonial_classification",
+  "supports": [
+   "殖民分类机制完整链条：命名（题注“Goojur Landholder”质疑）、政治忠诚度等级化（Gujar/Banjar"
+  ],
+  "does_not_support": [
+   "题注与Dobson记录是组织者话语，“分类机制”批判是作者命题；安达曼妇女等被摄者无自我记录，不得推断其接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0320",
+  "claim": "棉布展示与消费必须连同种植园奴隶制、殖民关税和市场分类书写",
+  "source_id": "B0169",
+  "source_location": "补被奴役者材料、政策档案、图像生产语境和反方研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "slavery_colonial_trade_and_classification",
+  "supports": [
+   "棉布展示与消费必须连同种植园奴隶制、殖民关税和市场分类书写"
+  ],
+  "does_not_support": [
+   "商业图像可能理想化种植园且分类词不应作为中性事实复述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0321",
+  "claim": "帝国物品、印度劳动、展览目录和博物馆分类把审美标准与贸易、劳动和帝国权力联系起来",
+  "source_id": "B0175",
+  "source_location": "补来源地生产者、贸易、征集、对象、翻译和地方档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "imperial_goods_indian_labour_and_museum_classification",
+  "supports": [
+   "帝国物品、印度劳动、展览目录和博物馆分类把审美标准与贸易、劳动和帝国权力联系起来"
+  ],
+  "does_not_support": [
+   "英国改革者对印度／中国的评价不是来源社会事实，其他殖民地覆盖不足"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0322",
+  "claim": "分类命名和空间安排把殖民地材料纳入英国制造与民族秩序",
+  "source_id": "B0204",
+  "source_location": "东印度公司档案殖民地展商记录当地报刊与物质对象",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "classification_empire_othering",
+  "supports": [
+   "分类命名和空间安排把殖民地材料纳入英国制造与民族秩序"
+  ],
+  "does_not_support": [
+   "主要是英国观看结构且殖民地自身声音不足"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0323",
+  "claim": "世界博览会通过分类体系将展品与参展国置于文明等级序列；墨西哥的阿兹特克宫“被纳入分类但不参与分类”，其自我呈现必须先在主办国分类框架内定位",
+  "source_id": "B0303",
+  "source_location": "回查clean第99行与第149—171行（导论四维度）；核对Picard报告的分类组/类划分",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "world_fairs_classification_and_hierarchization",
+  "supports": [
+   "世界博览会通过分类体系将展品与参展国置于文明等级序列；墨西哥的阿兹特克宫“被纳入分类但不参与分类”，其自我呈现必须先在主"
+  ],
+  "does_not_support": [
+   "分类目录与官方报告支持分类学运作；“被纳入但不参与分类”是作者判断，且不能从分类位置直接推出观众实际接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0324",
+  "claim": "半殖民地/边缘国家主动经营异国情调以获取国际可见性：墨西哥以阿兹特克宫、Velasco风景画与活人展示将自己呈现为“独特而现代”，异域展示同时面向国际辨识与国内认同",
+  "source_id": "B0303",
+  "source_location": "回查clean第21行（立面颂扬vs室内低劣化）与第41行（墨西哥vs阿根廷、厄瓜多尔策略对比）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "exhibiting_nation_as_agent_of_own_exoticism",
+  "supports": [
+   "半殖民地/边缘国家主动经营异国情调以获取国际可见性：墨西哥以阿兹特克宫、Velasco风景画与活人展示将自己呈现为“独特"
+  ],
+  "does_not_support": [
+   "组织档案与官方宣传证明参展意图；“主动经营”是作者解释，不得据此推断欧洲观众的实际解读（作者亦承认被视作异国情调）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0325",
+  "claim": "跨文化图版和章节命名可直接分析世界装饰如何被选择、命名、排序和等级化",
+  "source_id": "B0332",
+  "source_location": "补征集、展览、翻译、当地生产者与回应材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "colonial_ornament_classification",
+  "supports": [
+   "跨文化图版和章节命名可直接分析世界装饰如何被选择、命名、排序和等级化"
+  ],
+  "does_not_support": [
+   "只证明英国知识制度的分类实践，不代表对象来源社会"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0326",
+  "claim": "殖民物产的去语境化分类、人类展示和核心／边缘空间共同制造帝国知识秩序",
+  "source_id": "B0339",
+  "source_location": "补殖民档案、招募合同、被展示者记录、来源社群和观众材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "colonial_classification_human_display_and_visibility",
+  "supports": [
+   "殖民物产的去语境化分类、人类展示和核心／边缘空间共同制造帝国知识秩序"
+  ],
+  "does_not_support": [
+   "作者的批判解释不能替代被展示者声音、来源地档案与观众接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0327",
+  "claim": "19世纪世界博览会与帝国博物馆通过分类学、标签、人种模型与展览动线把殖民地产物展示、命名并等级化（文明/野蛮二元），构成帝国意识形态机器",
+  "source_id": "B0427",
+  "source_location": "回查clean L296-305东方馆、L388-405（1886展）、L1860-2016（泰尔菲伦展）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "colonial_taxonomy_imperial_exhibition",
+  "supports": [
+   "19世纪世界博览会与帝国博物馆通过分类学、标签、人种模型与展览动线把殖民地产物展示、命名并等级化（文明/野蛮二元），构成"
+  ],
+  "does_not_support": [
+   "展示分类与策展文本是组织者话语，不能推出观众实际接受，也不是来源社会的自我分类"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0328",
+  "claim": "19世纪世博会以展示、命名与空间等级化重绘世界秩序：主展区/边缘如画区两分场地、Midway“人类滑尺”、Trocadéro殖民地展区将伊斯兰世界“建筑地冻结”为无时间他者",
+  "source_id": "B0463",
+  "source_location": "回查clean第599—600、651—654、830—831、888行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "exposition_colonial_classification",
+  "supports": [
+   "19世纪世博会以展示、命名与空间等级化重绘世界秩序：主展区/边缘如画区两分场地、Midway“人类滑尺”、Trocadé"
+  ],
+  "does_not_support": [
+   "分类机制由场地规划与组织者话语证明（作者批判性解读），观众实际接受不可由展览目标直接推出"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0329",
+  "claim": "“真实性”执念是殖民展示的关键机制：Rue du Caire以回收构件与细节确证制造“比开罗本城更真实”的幻象，同时排除历史与变化",
+  "source_id": "B0463",
+  "source_location": "回查clean第757、782—788行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.6"
+  ],
+  "textbook_function": "authenticity_display_mechanism",
+  "supports": [
+   "“真实性”执念是殖民展示的关键机制：Rue du Caire以回收构件与细节确证制造“比开罗本城更真实”的幻象，同时排除"
+  ],
+  "does_not_support": [
+   "“更真实”是组织者Gleon的自称，须与作者批判区分，不能当作事实陈述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0330",
+  "claim": "棉布、瓷器与茶器的跨境迁移包含选择、误读、替代和再生产",
+  "source_id": "B0005",
+  "source_location": "逐对象建立订单—制作—运输—销售—使用链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "translation_and_local_modernities",
+  "supports": [
+   "棉布、瓷器与茶器的跨境迁移包含选择、误读、替代和再生产"
+  ],
+  "does_not_support": [
+   "不得把物的相似性升级为单向影响或和谐交流"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0331",
+  "claim": "进口、英国改制、巴黎分店、代理、仿冒与地方生产构成选择—翻译—再生产链",
+  "source_id": "B0006",
+  "source_location": "补贸易、人员、合同、样本、生产者和接收方材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "asia_britain_paris_trade_translation_and_reproduction",
+  "supports": [
+   "进口、英国改制、巴黎分店、代理、仿冒与地方生产构成选择—翻译—再生产链"
+  ],
+  "does_not_support": [
+   "‘东方影响’不能由风格相似或企业宣传单向推出"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0332",
+  "claim": "日本物品经贸易、展览、收藏、商店、印刷和英国再设计形成多环节传播链",
+  "source_id": "B0035",
+  "source_location": "补日方生产／出口、外交、贸易、设计者接触和地方使用",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "japanese_goods_prints_textiles_exhibitions_retail_and_redesign",
+  "supports": [
+   "日本物品经贸易、展览、收藏、商店、印刷和英国再设计形成多环节传播链"
+  ],
+  "does_not_support": [
+   "‘影响’仍以英国接收端为主，1850年代优先权和直接传播须回P0核定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0333",
+  "claim": "进口棉布、英国仿制、零售、穿着和身份建构提供跨境选择与再生产链",
+  "source_id": "B0080",
+  "source_location": "补贸易、工艺、样本、生产者、穿着者与地方再生产",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "indian_textiles_trade_retail_and_identity_translation",
+  "supports": [
+   "进口棉布、英国仿制、零售、穿着和身份建构提供跨境选择与再生产链"
+  ],
+  "does_not_support": [
+   "不能把形式采用写成单向影响或完整技术转移"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0334",
+  "claim": "跨境迁移与地方现代性：swagger肖像从欧洲贵族经印度精英到大众照相馆的再语境化、painted photographs的符号学“反转”、蒙太奇对电影海报语法的横向迁移，均为选择、误读、翻译与再生产而非单向“影响”",
+  "source_id": "B0082",
+  "source_location": "回查clean第503—525行、第874行、第1283行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "cross_border_translation",
+  "supports": [
+   "跨境迁移与地方现代性：swagger肖像从欧洲贵族经印度精英到大众照相馆的再语境化、painted photograph"
+  ],
+  "does_not_support": [
+   "“Chandni Chowk Rodchenko”等相似性联想不得当作实际传播证据；各案例的迁移路径多为作者基于图像与访谈的重构"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0335",
+  "claim": "跨境纺织流动包含地方选择、拒绝、仿制、再织与材料替换",
+  "source_id": "B0086",
+  "source_location": "逐对象补贸易、样品、买方规格和地方使用",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "selection_refusal_imitation_and_reproduction",
+  "supports": [
+   "跨境纺织流动包含地方选择、拒绝、仿制、再织与材料替换"
+  ],
+  "does_not_support": [
+   "形式相似不能独立证明直接影响或文化意义一致"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0336",
+  "claim": "进口纱与染料、出口地毯需求和地方技能之间形成选择性重组而非简单替代",
+  "source_id": "B0130",
+  "source_location": "补样稿、买方规格、地方生产者与使用者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "imports_local_adaptation_and_regional_modernity",
+  "supports": [
+   "进口纱与染料、出口地毯需求和地方技能之间形成选择性重组而非简单替代"
+  ],
+  "does_not_support": [
+   "跨境适应可能以低工资和不平等贸易为条件"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0337",
+  "claim": "瓷器跨境流动包含外来模型、钴料贸易、器形适配、仿制失败、工匠迁移、替代和反向复制",
+  "source_id": "B0154",
+  "source_location": "逐对象补模型样品订单贸易工匠和地方使用链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "porcelain_translation_imitation_and_reverse_flow",
+  "supports": [
+   "瓷器跨境流动包含外来模型、钴料贸易、器形适配、仿制失败、工匠迁移、替代和反向复制"
+  ],
+  "does_not_support": [
+   "形式相似不能单独证明直接影响且文化意义并不恒定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0338",
+  "claim": "出版、教育者、组织和改革讨论形成英国观念向德国及北欧转译的候选链",
+  "source_id": "B0168",
+  "source_location": "补翻译、书信、旅行、课程、组织会议和地方再生产",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "britain_germany_scandinavia_translation_route",
+  "supports": [
+   "出版、教育者、组织和改革讨论形成英国观念向德国及北欧转译的候选链"
+  ],
+  "does_not_support": [
+   "相似性、继承宣称或后世评价不等于直接因果影响"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0339",
+  "claim": "跨境棉布流动包含学习失败、规格传递、工匠迁移、模仿、技术再造和消费者拒绝",
+  "source_id": "B0169",
+  "source_location": "逐对象建立样品订货工匠工序销售和使用链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "learning_imitation_reworking_and_market_selection",
+  "supports": [
+   "跨境棉布流动包含学习失败、规格传递、工匠迁移、模仿、技术再造和消费者拒绝"
+  ],
+  "does_not_support": [
+   "不能简化为东方影响西方或直接技术复制"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0340",
+  "claim": "棉布从印度产品到英国复制、机械量产、版权与再出口构成跨境选择和再生产链",
+  "source_id": "B0175",
+  "source_location": "补贸易、样本、印染工序、印度工匠、商人和消费地材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "calico_copying_india_britain_trade_and_reproduction",
+  "supports": [
+   "棉布从印度产品到英国复制、机械量产、版权与再出口构成跨境选择和再生产链"
+  ],
+  "does_not_support": [
+   "不能把复制链写成单向欧洲吸收，也不能由英国档案替代印度生产者经验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0341",
+  "claim": "棉布、染织与纹样经贸易网络跨境迁移并在地方再生产：日本sarasa→和更纱、爪哇batik本土化、暹罗“暹罗风格”定制布，把单向“影响”改写为选择与翻译",
+  "source_id": "B0181",
+  "source_location": "回查clean第52—77、2480—2482、2792—2803、1895行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "cotton_dyeing_pattern_crossborder",
+  "supports": [
+   "棉布、染织与纹样经贸易网络跨境迁移并在地方再生产：日本sarasa→和更纱、爪哇batik本土化、暹罗“暹罗风格”定制布"
+  ],
+  "does_not_support": [
+   "贸易量、路线、对象、委托、制作与复制品证据链完整（VOC库存、公司信函、muster制度、图案手册），非仅风格相似"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0342",
+  "claim": "19世纪东非消费者在贸易网络中以选择、误读、翻译与再生产改写单向“影响”模型，构成“跨境迁移与地方现代性”的非洲核心案例",
+  "source_id": "B0209",
+  "source_location": "回查clean第214—227行、第1438—1442行、第2213—2215行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "trade_networks_local_modernities",
+  "supports": [
+   "19世纪东非消费者在贸易网络中以选择、误读、翻译与再生产改写单向“影响”模型，构成“跨境迁移与地方现代性”的非洲核心案例"
+  ],
+  "does_not_support": [
+   "驯化意义的解读部分是作者命题性重构，实证基础为进口数据、商人信函与图像"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0343",
+  "claim": "墨西哥精英对法国范式的接受是选择性挪用与创造性偏离而非被动模仿：Peñafiel/Contreras在法国分类学框架内重组前哥伦布母题，Riva Palacio借达尔文牙齿理论论证印第安人“进化优势”属误读式挪用",
+  "source_id": "B0303",
+  "source_location": "回查clean第29、33行（interstice与Batres）；核对León牙齿误判的证伪细节",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "selective_appropriation_over_influence",
+  "supports": [
+   "墨西哥精英对法国范式的接受是选择性挪用与创造性偏离而非被动模仿：Peñafiel/Contreras在法国分类学框架内重"
+  ],
+  "does_not_support": [
+   "科学文本（Batres颅骨测量、Riva Palacio历史著作）可证挪用操作；“创造性”评价与“缝隙”概念是作者分析框架；风格相似不等于影响"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0344",
+  "claim": "跨境模仿可通过材料替代、工艺重组和市场适配生成新产品类别",
+  "source_id": "B0304",
+  "source_location": "补来源对象、生产者、专利争议和地方使用",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "imitation_translation_and_new_products",
+  "supports": [
+   "跨境模仿可通过材料替代、工艺重组和市场适配生成新产品类别"
+  ],
+  "does_not_support": [
+   "‘模仿即发明’是分析命题，不等于无条件正当化挪用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0345",
+  "claim": "欧洲对印度棉布的禁止、模仿和技术回应体现跨境竞争中的选择与再生产",
+  "source_id": "B0334",
+  "source_location": "补图样、样品、政策、生产者和地方使用链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "indian_cottons_and_european_response",
+  "supports": [
+   "欧洲对印度棉布的禁止、模仿和技术回应体现跨境竞争中的选择与再生产"
+  ],
+  "does_not_support": [
+   "技术变化不能只归因于竞争且挪用与殖民权力须保留"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0346",
+  "claim": "日本与伊斯兰艺术经贸易、收藏、博览会、期刊和设计再现进入地方新艺术实践",
+  "source_id": "B0338",
+  "source_location": "补出口者、工匠、外交／贸易、殖民权力、译介和地方对象",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "japan_islam_trade_collecting_exhibitions_publications_and_local_representation",
+  "supports": [
+   "日本与伊斯兰艺术经贸易、收藏、博览会、期刊和设计再现进入地方新艺术实践"
+  ],
+  "does_not_support": [
+   "东方章节仍由西方接收端组织，吸收／抽象不能替代来源社会能动性"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0347",
+  "claim": "展览、代理、报刊、摄影复制、仿制字体与地方出版社形成可追踪的跨境再生产链",
+  "source_id": "B0348",
+  "source_location": "按人物、技术、企业、对象和评论分层核验",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "printing_exhibitions_piracy_and_transatlantic_reproduction",
+  "supports": [
+   "展览、代理、报刊、摄影复制、仿制字体与地方出版社形成可追踪的跨境再生产链"
+  ],
+  "does_not_support": [
+   "复制、仿制与市场知名度不等于思想或社会理想被接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0348",
+  "claim": "出版、展览、旅行、商业和政府派驻连接英国资源与地方选择、改写和再生产",
+  "source_id": "B0450",
+  "source_location": "补双向通信、贸易、日方／殖民地生产者和无直接接触反例",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "publications_exhibitions_travel_commerce_government_and_local_remaking",
+  "supports": [
+   "出版、展览、旅行、商业和政府派驻连接英国资源与地方选择、改写和再生产"
+  ],
+  "does_not_support": [
+   "英源横轴与日本影响仍缺完整来源社会和殖民权力链"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0349",
+  "claim": "日本主义在欧洲的传播经由博览会（1862-1904）、商人Bing与《Le Japon artistique》、收藏家与拍卖市场构成的网络，欧洲艺术家在其中选择、误读与转化（transmutation）而非复制日本范例",
+  "source_id": "B0452",
+  "source_location": "回查clean第227、257、277、281、9389行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "reception_network_evidence",
+  "supports": [
+   "日本主义在欧洲的传播经由博览会（1862-1904）、商人Bing与《Le Japon artistique》、收藏家与"
+  ],
+  "does_not_support": [
+   "作者框架仍是“日本→西方”单向影响叙事，日方生产/出口端与贸易档案缺位，只能承担“欧洲接受侧”的传播—选择—转译证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0350",
+  "claim": "博览会模式并非单向西来：1863奥斯曼总博览会早于多数欧美大型博览会，1894年计划未竟而风格之争留存，1869苏伊士运河庆典把博览会要素内化为国家表演",
+  "source_id": "B0463",
+  "source_location": "回查clean第1281、1285—1296、1330—1332、1348—1351行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "2.7"
+  ],
+  "textbook_function": "exposition_model_transfer_east",
+  "supports": [
+   "博览会模式并非单向西来：1863奥斯曼总博览会早于多数欧美大型博览会，1894年计划未竟而风格之争留存，1869苏伊士运"
+  ],
+  "does_not_support": [
+   "“借用西方格式”出自奥斯曼官方文件与作者分析；庆典“从国际博览会学来”见于当时记录（活画/原住民展示）"
+  ],
+  "status": "candidate"
+ }
+]

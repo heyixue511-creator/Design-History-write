@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0191,16.2,B,V2,mismatch_exclusion_cycle,不匹配（Mismatch）与排斥循环（Cycle of Exclusion）：人与其世界之间的障碍作为排斥的构成要素——16.2数据集代表性/历史偏差的包容性框架,作者框架（2018）；排斥循环五要素为分析工具,Ch1-3分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0191,16.5,B,V2,inclusive_design_ability_bias,包容性设计与"能力偏见"（Ability Bias）：以自身能力为基线的倾向；"临时健全"去稳定化——16.5自动化界面的包容维度,作者论证（2018）；能力偏见案例（John Porter）为人物化展示,Ch4分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0191,16.2,C,V2,algorithmic_exclusion,算法排斥：O'Neil《Weapons of Math Destruction》——算法系统性排斥的当代例证——16.2数据偏差,引用论证（2018）；算法排斥细节以O'Neil原书为准,Ch8分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

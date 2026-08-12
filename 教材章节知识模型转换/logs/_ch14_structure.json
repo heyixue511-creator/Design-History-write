@@ -1,0 +1,601 @@
+{
+ "14.1": {
+  "grades": {
+   "C": 2,
+   "B": 2,
+   "A": 2
+  },
+  "count": 6,
+  "items": [
+   {
+    "source_id": "B0274",
+    "title": "Lev Manovich：《Software Takes Command》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "software_as_metamedium",
+    "accepted_claim": "计算机是第一个\"元媒介\"（metamedium）：软件使所有先前独立的媒介技术在同一环境中相遇、杂交、进化——14.1核心理论",
+    "evidence_boundary": "作者理论（2013）；'媒介=算法+数据结构'为操作性定义",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0274",
+    "title": "Lev Manovich：《Software Takes Command》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "cultural_software_history",
+    "accepted_claim": "文化软件概念史（1960s—2010s）：Kay/Engelbart/Nelson/Sutherland先驱（Sketchpad 1963、Mother of All Demos 1968、Personal Dynamic Media 1977）——从计算工具到软件媒介",
+    "evidence_boundary": "一手文献解读（2013）；先驱动机的档案细节以原始文献为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0046",
+    "title": "Bill Moggridge：《Designing Interactions》，2007",
+    "grade": "B",
+    "verification": "V2",
+    "role": "computing_history",
+    "accepted_claim": "从批处理到个人计算：GRiD Compass（气泡内存）、Palm OS四项原则（口袋尺寸/功能极简/即时响应/桌面同步）、Kodak DC 210交互架构——14.1硬件史",
+    "evidence_boundary": "口述史证据（2007）；产品数据以企业档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0274",
+    "title": "Lev Manovich：《Software Takes Command》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hybridization_velvet_revolution",
+    "accepted_claim": "杂交化与深层可混合性：After Effects引发运动图形\"天鹅绒革命\"（1993—99）——软件塑造当代美学与视觉语言",
+    "evidence_boundary": "软件界面分析（Photoshop/AE）；美学转变的接受侧证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0054",
+    "title": "Bringing design to software (Terry Winograd, (ed.))",
+    "grade": "C",
+    "verification": "V2",
+    "role": "software_design_history",
+    "accepted_claim": "软件设计史侧写：Xerox Alto/Star、Macintosh人机交互指南、Mosaic与万维网——从计算工具到软件媒介",
+    "evidence_boundary": "侧写体（1996）；历史细节以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "digital_survival_and_nonmaterial_design",
+    "accepted_claim": "数字化生存与“非物质设计”图景（尼葛洛庞蒂）；数字时代设计主体困境与关怀",
+    "evidence_boundary": "XIV章L350-L397（21世纪初展望性理论论述，非制度史实证）",
+    "status": "ACCEPTED_WITH_CAVEAT"
+   }
+  ]
+ },
+ "14.2": {
+  "grades": {
+   "C": 2,
+   "A": 2,
+   "B": 5,
+   "X": 1
+  },
+  "count": 10,
+  "items": [
+   {
+    "source_id": "B0046",
+    "title": "Bill Moggridge：《Designing Interactions》，2007",
+    "grade": "A",
+    "verification": "V2",
+    "role": "gui_desktop_metaphor_history",
+    "accepted_claim": "图形用户界面与桌面隐喻的历史：鼠标（Engelbart 1964）、办公室示意图（Mott餐巾纸草图）、Lisa/Macintosh下拉菜单（Atkinson/Tesler昼夜轮班）——14.2核心叙事",
+    "evidence_boundary": "口述史（2007）；事件细节以当事人交叉叙述为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0046",
+    "title": "Bill Moggridge：《Designing Interactions》，2007",
+    "grade": "A",
+    "verification": "V2",
+    "role": "interaction_design_principles",
+    "accepted_claim": "交互设计核心原则：无模式交互（Tesler）、双击/剪切粘贴、交互设计三问（Verplank do/feel/know）、简单性八法则（Maeda）、Fitts定律与\"设计支持科学\"（Card）——交互范式",
+    "evidence_boundary": "口述史证据（2007）；原则的行业普及以专史为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0096",
+    "title": "Dan Saffer：《Designing for Interaction Creating Innovative Applications》，2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "interaction_design_laws",
+    "accepted_claim": "交互设计法则：Fitts定律、Hick定律、神奇数字七、Tesler复杂性守恒定律、Poka-Yoke防错原则——交互范式原则",
+    "evidence_boundary": "设计法则汇编（2009）；法则的适用范围以HCI研究为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0122",
+    "title": "Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De",
+    "grade": "B",
+    "verification": "V2",
+    "role": "digital_design_theory_anthology",
+    "accepted_claim": "数字设计思想史文选（1961—2015）：从参数系统（Sutnar/Gerstner/Sutherland）到个人计算（Greiman/Cooper/Kay/Maeda）——数字设计的理论谱系",
+    "evidence_boundary": "文选（2016）；与B0176同系列重复文本只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0198",
+    "title": "James J. Gibson：《The Ecological Approach To Visual Perception》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "direct_perception_gui",
+    "accepted_claim": "知觉不是对感觉输入的心理加工而是对环境信息的直接拾取（direct pickup）；环境光阵列携带不变量信息，无需内部表征中介——直接操控与可见性交互范式的知觉理论基础——14.2图形用户界面与交互范式",
+    "evidence_boundary": "作者理论（1979）；生态光学与信息拾取论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0280",
+    "title": "Löwgren：《Thoughtful interaction design a design perspective on information technology》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "material_without_qualities",
+    "accepted_claim": "无品质的材料（Material without Qualities）：数字技术的品质在设计过程中被共同建构，非预先给定——数字设计材料论",
+    "evidence_boundary": "作者核心概念（2004）；概念为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0457",
+    "title": "Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN",
+    "grade": "B",
+    "verification": "V2",
+    "role": "computer_as_medium_experience",
+    "accepted_claim": "计算机已成为新媒介；设计数字人工物就是设计体验（experience design）——'信息家电派/结构主义者'（透明愿景）与'体验派/设计者'（形式驱动）两套数字技术愿景的交锋——14.2图形用户界面与交互范式争论",
+    "evidence_boundary": "作者论辩（2003）；2000-2002界面争论语境",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0011",
+    "title": "Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "interaction_design_history",
+    "accepted_claim": "交互设计从桌面软件到移动应用再到网页服务的历史演变——交互范式演进",
+    "evidence_boundary": "历史综述（2014）；演变细节以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0227",
+    "title": "John M. Carroll (ed.)：《Human-Computer Interaction in the New Millennium》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "parc_desktop_paradigm",
+    "accepted_claim": "Xerox PARC的Alto/Smalltalk-72（鼠标、位图显示、窗口系统）是桌面计算范式的概念诞生地；GOMS模型（Card/Moran/Newell 1983）确立HCI'科学气质'——GUI交互范式的关键史实——14.2图形用户界面与交互范式",
+    "evidence_boundary": "编者导论（2002）；计算史叙事",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0116",
+    "title": "Designing Interactions",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0046",
+    "accepted_claim": "与B0046为同一文本精确哈希重复（DUP0002，Moggridge《Designing Interactions》2007）；B0046已承担全部命题",
+    "evidence_boundary": "本条目不重复计证；引用以B0046为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0046"
+   }
+  ]
+ },
+ "14.3": {
+  "grades": {
+   "C": 4,
+   "B": 12,
+   "A": 1
+  },
+  "count": 17,
+  "items": [
+   {
+    "source_id": "B0046",
+    "title": "Bill Moggridge：《Designing Interactions》，2007",
+    "grade": "A",
+    "verification": "V2",
+    "role": "people_and_prototypes",
+    "accepted_claim": "人+原型方法论：引导式幻想（Guided Fantasy）、经验原型、IDEO 51种用户研究方法卡（Learn/Look/Ask/Try）、实时原型——HCI与设计方法的汇合",
+    "evidence_boundary": "作者方法论（2007，IDEO实践）；方法成效以项目档案为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0011",
+    "title": "Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "goal_directed_design",
+    "accepted_claim": "目标导向设计（Goal-Directed Design）：人物模型（Personas）、场景剧本、设计研究（民族志访谈）——交互设计方法经典",
+    "evidence_boundary": "方法手册（2014四版）；人物模型方法的批评回应为作者论述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0054",
+    "title": "Bringing design to software (Terry Winograd, (ed.))",
+    "grade": "B",
+    "verification": "V2",
+    "role": "software_design_manifesto",
+    "accepted_claim": "Kapor软件设计宣言：设计是软件的核心维度；概念模型设计（Liddle）——HCI与设计方法汇合的里程碑",
+    "evidence_boundary": "文集（1996）；宣言为行动者主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0054",
+    "title": "Bringing design to software (Terry Winograd, (ed.))",
+    "grade": "B",
+    "verification": "V2",
+    "role": "reflective_conversation_prototyping",
+    "accepted_claim": "Schön\"与材料的反思性对话\"与Schrage\"原型制作的文化\"：设计反思与原型文化进入软件生产",
+    "evidence_boundary": "文集文本（1996）；方法成效以项目为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0087",
+    "title": "Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt",
+    "grade": "B",
+    "verification": "V2",
+    "role": "contextual_inquiry",
+    "accepted_claim": "情境化调查（Contextual Inquiry）：师徒关系模型与四大原则（情境/伙伴关系/解释/焦点）——在真实工作场所揭示隐性工作结构",
+    "evidence_boundary": "方法著作（1998）；方法成效以项目为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0087",
+    "title": "Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt",
+    "grade": "B",
+    "verification": "V2",
+    "role": "work_modeling_consolidation",
+    "accepted_claim": "五种工作模型（流动/序列/人工制品/文化/物理）与亲和图整合：个体客户→市场共同结构——用户研究入专业流程",
+    "evidence_boundary": "方法框架（1998）；整合有效性以团队实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0096",
+    "title": "Dan Saffer：《Designing for Interaction Creating Innovative Applications》，2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "four_methodologies",
+    "accepted_claim": "交互设计四种方法论（用户中心UCD/活动中心ACD/系统设计/天才设计）——方法谱系",
+    "evidence_boundary": "方法框架（2009）；方法选择情境以实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0163",
+    "title": "Garrett：《The elements of user experience user-centered design for the Web and beyond》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "ux_five_planes_model",
+    "accepted_claim": "用户体验可被建模为五个自下而上、相互依赖的决策层面（战略→范围→结构→骨架→表现）；UX设计过程是'将隐性知识显性化'——从'未明言的共识'走向战略文档与可验证成功指标——用户中心设计方法论框架——14.3HCI与设计方法的汇合",
+    "evidence_boundary": "作者理论框架（2011第二版）；五层模型与案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0184",
+    "title": "Helen Sharp, Jenny Preece, Yvonne Rogers：《Interaction Design Beyond Human-Computer Interaction》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "interaction_design_textbook",
+    "accepted_claim": "交互设计教科书（第5版）：以用户为中心设计原则、双钻模型、设计-评估-再设计循环——HCI学科框架",
+    "evidence_boundary": "教科书（2019）；学科框架为教学约定",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0184",
+    "title": "Helen Sharp, Jenny Preece, Yvonne Rogers：《Interaction Design Beyond Human-Computer Interaction》，2019",
+    "grade": "B",
+    "verification": "V2",
+    "role": "understanding_users",
+    "accepted_claim": "理解用户：认知/社交/情感交互与数据收集方法（访谈/问卷/观察）——用户研究入专业流程",
+    "evidence_boundary": "教科书方法（2019）；方法适用以实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0227",
+    "title": "John M. Carroll (ed.)：《Human-Computer Interaction in the New Millennium》，2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hci_convergence_institutionalization",
+    "accepted_claim": "HCI是从软件工程、人因心理学、计算机图形学、认知科学四条独立传统在1980年代'汇聚'而成；'用户中心系统开发'（可用性工程方法+界面软件工具双翼）成为整合性框架——可用性、认知模型、参与式方法与原型进入专业流程的学科史——14.3HCI与设计方法的汇合",
+    "evidence_boundary": "编者导论（2002）；HCI学科史叙事",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0280",
+    "title": "Löwgren：《Thoughtful interaction design a design perspective on information technology》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "thoughtful_design_stance",
+    "accepted_claim": "深思熟虑的设计立场：反思性判断、概念清晰性与品质表述（articulation）而非方法论遵循——交互设计作为设计学科",
+    "evidence_boundary": "作者理论（2004）；学科立场为规范性命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0280",
+    "title": "Löwgren：《Thoughtful interaction design a design perspective on information technology》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "use_qualities_map",
+    "accepted_claim": "使用品质地图（六组范例十八种使用品质）：交互品质的表述语言——设计知识的articulation",
+    "evidence_boundary": "品质地图（2004）；品质评估的实证验证未完成",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0087",
+    "title": "Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt",
+    "grade": "C",
+    "verification": "V2",
+    "role": "work_model_imposition",
+    "accepted_claim": "任何系统都强制施加\"工作模型\"：设计师的选择在于有意识设计还是意外副产品——使用情境的扩大命题",
+    "evidence_boundary": "作者核心主张（1998）；'强制'判断为设计哲学命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0096",
+    "title": "Dan Saffer：《Designing for Interaction Creating Innovative Applications》，2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_process_flow",
+    "accepted_claim": "交互设计流程（策略→研究→分析→构思→细化→原型与测试）——专业流程系统化",
+    "evidence_boundary": "流程指南（2009）；2000年代末学科系统化剪影",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "user_centered_design_chinese_account",
+    "accepted_claim": "以用户为中心的设计：IDEO（1991年克利/莫格里奇/努塔尔合并成立、用户研究进入专业流程、凯撒医疗2003体验设计案例）与苹果体验设计（Macintosh 1984、iMac 1998）——14.3“HCI与设计方法的汇合”的中文教材叙述",
+    "evidence_boundary": "二手综合企业案例史；公司史细节以企业档案与专门研究互校",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "P0029",
+    "title": "Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu",
+    "grade": "C",
+    "verification": "V2",
+    "role": "exploration_beyond_hci",
+    "accepted_claim": "交互设计研究区别于HCI、CSCW等相邻学科的关键在于探索端与方法多样性；模型支撑面向产业/学术界/社会的三个外部界面——14.3设计方法与HCI学科关系的再界定（弱支撑）",
+    "evidence_boundary": "作者论文（约2004）；三界面论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "14.4": {
+  "grades": {
+   "C": 3,
+   "B": 2
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0122",
+    "title": "Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De",
+    "grade": "B",
+    "verification": "V2",
+    "role": "encoding_future_network",
+    "accepted_claim": "编码未来（2000s）：开源文化、涌现行为、物联网与后人类中心设计（Processing/Laurel/Faste）——网络与数字设计前沿",
+    "evidence_boundary": "文选宣言（2016）；前沿实践成效以项目档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0028",
+    "title": "Engholm, Ida：Digital Style History：The Development of Graphic Design on the Internet, 2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "web_design_style_history",
+    "accepted_claim": "1993-2002年互联网平面设计从文本媒介蜕变为多媒体设计现象；HTML/浏览器/W3C标准与网页设计发展处于'近乎解释学循环'的互动关系——网页设计风格史（HTML design、超功能主义、瑞士风格、品牌风格、垃圾风格、lo-fi-grunge、千字节极简主义、像素现象八风格谱系）——14.4网络、网页与移动交互",
+    "evidence_boundary": "作者论文（2002）；一手网站样本与图注档案",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0115",
+    "title": "Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor",
+    "grade": "C",
+    "verification": "V2",
+    "role": "kindle_nonsynchronicity_digital_media",
+    "accepted_claim": "数字媒介的时间性（跨章）：Kindle“非共时性”——设计物同时指向过去、现在与未来，六种时间运动框架（怀旧/复古/遗产/先锋/去未来化/当代—经典）——14.4数字交互与媒介分析的理论资源",
+    "evidence_boundary": "作者建构框架（Ch13）；六格图表（Figure 13.2）为可视化工具",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "P0028",
+    "title": "Engholm, Ida：Digital Style History：The Development of Graphic Design on the Internet, 2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_ideology_battle",
+    "accepted_claim": "1990年代中期网页设计出现'设计意识形态之争'：Nielsen（内容/功能优先）与Siegel（图形/审美优先）为两极，Zeldman居中主张形式与功能一体——网页设计范式争论塑造了14.4网页媒介的专业话语",
+    "evidence_boundary": "作者论文（2002）；意识形态文本（Nielsen 2000、Zeldman 2001）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0061",
+    "title": "Stephen L. Vargo, Robert F. Lusch：《Evolving to a New Dominant Logic for Marketing》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "value_cocreation",
+    "accepted_claim": "价值共创（value cocreation）：顾客总是共同生产者（FP6）；所有经济体都是服务经济体（FP5）——服务与平台设计的理论基础",
+    "evidence_boundary": "营销理论（2004）；服务设计实践以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "14.5": {
+  "grades": {
+   "B": 2,
+   "A": 2,
+   "C": 1
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0294",
+    "title": "Mark Stickdorn, Jakob Schneider：《This Is Service Design Thinking》，2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "service_design_five_principles",
+    "accepted_claim": "服务设计思维五原则（以用户为中心/共同创造/序列化/物证化/整体性）——14.5核心框架",
+    "evidence_boundary": "方法论框架（2010）；原则的行业普及以专史为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0294",
+    "title": "Mark Stickdorn, Jakob Schneider：《This Is Service Design Thinking》，2010",
+    "grade": "A",
+    "verification": "V2",
+    "role": "service_design_tools",
+    "accepted_claim": "25种服务设计工具（Explore/Create & Reflect/Implement三阶段）与迭代四步流程、AT-ONE方法——14.5方法论",
+    "evidence_boundary": "工具手册（2010）；工具成效以项目为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0046",
+    "title": "Bill Moggridge：《Designing Interactions》，2007",
+    "grade": "B",
+    "verification": "V2",
+    "role": "services_touchpoints",
+    "accepted_claim": "服务设计触点方法（Live|Work\"伪造证据\"faking evidence、未来考古学）与在线银行\"画出你的金钱\"心理模型——14.5服务设计前史",
+    "evidence_boundary": "口述史（2007）；服务设计制度化以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0294",
+    "title": "Mark Stickdorn, Jakob Schneider：《This Is Service Design Thinking》，2010",
+    "grade": "B",
+    "verification": "V2",
+    "role": "service_design_cases",
+    "accepted_claim": "5个真实服务设计案例（政府/警务/招聘/医疗/银行）——服务设计实践",
+    "evidence_boundary": "案例描述（2010）；案例成效以委托方档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0294",
+    "title": "Mark Stickdorn, Jakob Schneider：《This Is Service Design Thinking》，2010",
+    "grade": "C",
+    "verification": "V2",
+    "role": "service_design_discipline",
+    "accepted_claim": "服务设计从实践领域向学术领域的制度化（九种定义并置、研究史回顾）——学科制度化",
+    "evidence_boundary": "学科建设文献（2010）；制度化进程以学术史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "14.6": {
+  "grades": {
+   "C": 3,
+   "B": 1
+  },
+  "count": 4,
+  "items": [
+   {
+    "source_id": "B0011",
+    "title": "Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "interaction_design_principles",
+    "accepted_claim": "交互设计价值观与原则：数字礼仪、消除负担性工作（Excise）、隐喻与习惯用法、错误预防——设计系统与界面规范",
+    "evidence_boundary": "设计原则（2014）；原则的行业采用以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0122",
+    "title": "Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De",
+    "grade": "C",
+    "verification": "V2",
+    "role": "paradigm_shift_object_system",
+    "accepted_claim": "从机械对象精神到有机系统精神范式转换（Dubberly）：设计从单一解决方案转向可演化系统框架——设计系统与平台的理论",
+    "evidence_boundary": "作者模型（2016）；范式转换的判断为理论命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0163",
+    "title": "Garrett：《The elements of user experience user-centered design for the Web and beyond》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "shared_vocabulary_collaboration",
+    "accepted_claim": "五层模型将交互设计、信息设计、信息架构、界面设计统一为共享概念词汇，使组织内不同角色（策略、设计、开发、管理）的跨职能协作成为可能——设计规模化的组织协同基础——14.6设计系统与平台规模化",
+    "evidence_boundary": "作者理论框架（2011第二版）；概念整合功能",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_industry_and_cultural_consciousness",
+    "accepted_claim": "设计产业作为商业战略与“文化自觉”；全球化下设计师的文化立场与本土性保持",
+    "evidence_boundary": "XIV章L392-L395（战略展望性论述）",
+    "status": "ACCEPTED_WITH_CAVEAT"
+   }
+  ]
+ },
+ "14.7": {
+  "grades": {
+   "C": 2,
+   "A": 2,
+   "B": 2
+  },
+  "count": 6,
+  "items": [
+   {
+    "source_id": "B0385",
+    "title": "Safiya Umoja Noble：《Algorithms of Oppression How Search Engines Reinforce Racism》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "algorithmic_oppression",
+    "accepted_claim": "商业算法在\"中立\"外衣下系统性强化种族主义与性别歧视（algorithmic oppression、technological redlining）——14.7数据化商业模式批判",
+    "evidence_boundary": "批判研究（2018，数据2010-2016）；算法机制以谷歌为对象",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0385",
+    "title": "Safiya Umoja Noble：《Algorithms of Oppression How Search Engines Reinforce Racism》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "search_engine_bias_cases",
+    "accepted_claim": "搜索引擎偏见案例：\"black girls\"搜索结果色情化、查尔斯顿枪击案（搜索塑造认知）——注意力/个性化/内容生产",
+    "evidence_boundary": "个案研究（2018）；结果样本时段有限",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0385",
+    "title": "Safiya Umoja Noble：《Algorithms of Oppression How Search Engines Reinforce Racism》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "information_monopoly_labor",
+    "accepted_claim": "信息垄断、数字鸿沟与全球劳动剥削（prosumer/audience commodity）——平台劳动与内容生产",
+    "evidence_boundary": "批判分析（2018）；劳动剥削的量化数据以平台档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0385",
+    "title": "Safiya Umoja Noble：《Algorithms of Oppression How Search Engines Reinforce Racism》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "algorithmic_regulation",
+    "accepted_claim": "公共政策规制与非商业化公共搜索设想（BFTS黑人女性主义技术研究）——算法治理方案",
+    "evidence_boundary": "作者方案（2018）；规制成效以政策实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0096",
+    "title": "Dan Saffer：《Designing for Interaction Creating Innovative Applications》，2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_ethics",
+    "accepted_claim": "为善而设计：IBM为纳粹设计集中营编号系统的伦理警示——设计伦理命题",
+    "evidence_boundary": "后记论述（2009）；伦理案例的历史细节以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0184",
+    "title": "Helen Sharp, Jenny Preece, Yvonne Rogers：《Interaction Design Beyond Human-Computer Interaction》，2019",
+    "grade": "C",
+    "verification": "V2",
+    "role": "data_at_scale_ethics",
+    "accepted_claim": "大数据分析与伦理设计原则（FATE，第5版新增）：数据化设计伦理——14.7数据化商业模式边界",
+    "evidence_boundary": "教科书新增章节（2019）；伦理原则实施以实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ }
+}

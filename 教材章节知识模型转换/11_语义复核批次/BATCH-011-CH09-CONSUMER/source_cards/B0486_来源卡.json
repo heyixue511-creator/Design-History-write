@@ -1,0 +1,34 @@
+{
+  "source_id": "B0486",
+  "corpus": "book",
+  "folder_name": "朱和平：《世界现代设计史》，2004",
+  "material_type": "中文设计通史教材",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\朱和平：《世界现代设计史》，2004_clean.md",
+  "duplicate_group": "与B0503（王受之）、B0101/B0102（Raizman）构成中外通史参照组：同一通用史实只计一份P0；本书为二手综合，不能替代其引用的原始文献",
+  "files": [{"report_file_count": 18, "report_characters": 2851}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "9.1", "grade": "C", "verification": "V2", "role": "chinese_textbook_consumer_period"},
+    {"section_id": "9.4", "grade": "C", "verification": "V2", "role": "pop_design_chinese_account"},
+    {"section_id": "0.2", "grade": "C", "verification": "V2", "role": "linear_periodization_chinese_textbook"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "朱和平主编（谭嫄嫄、罗咸辉、伍梓鸿等参撰），江苏美术出版社2013年12月第1版（clean文件名标2004）；高等院校设计学精品课程规划教材，10章",
+    "核心论点：设计是艺术与技术的动态平衡；功能和装饰是设计天平两端砝码；后现代主义对现代主义是'扬弃'",
+    "分期框架：滥觞（工艺美术）→肇始（新艺术）→演进（装饰艺术与现代主义）→教育体系（包豪斯）→成熟（二战前后）→反思变异（六七十年代）→多元（后现代）→中国进发",
+    "第10章专论中国大陆、香港、台湾三地现代设计——把中国纳入世界框架",
+    "材料：二手通史综述为主，辅以第一手文献（《包豪斯宣言》《走向新建筑》）；教材体例（知识链接/思考题）",
+    "限度：综述为主、原创判断有限；部分史实细节有出入（埃菲尔铁塔高度前后不一）；非欧美国家着墨有限",
+    "本书为中文通史参照（C级）：与B0503（王受之）同组，通用史实只计一份P0",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L36：'设计是艺术与技术的完美结合，一部设计史就是一部艺术与技术的动态平衡史'",
+    "L447：计划废止制（第九章相关概念）",
+    "L552：波普设计（第九章相关概念）",
+    "L610：后现代主义对现代主义是'扬弃'",
+    "L692-750：中国现代设计（大陆/香港/台湾）"
+  ]
+}

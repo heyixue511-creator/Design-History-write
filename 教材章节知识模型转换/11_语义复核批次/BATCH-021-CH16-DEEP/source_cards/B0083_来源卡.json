@@ -1,0 +1,38 @@
+{
+  "source_id": "B0083",
+  "corpus": "book",
+  "folder_name": "Clark, Hazel; Brody, David (eds.), Design Studies： A Reader, 2009",
+  "material_type": "设计研究读本（78章选文）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Clark, Hazel; Brody, David (eds.), Design Studies： A Reader, 2009.md",
+  "duplicate_group": "与B0103（Doordan）、B0152（Fallan）、B0111（Gimeno-Martinez）共享设计史学科对象；本书为design studies学科纲领",
+  "files": [{"report_file_count": 12, "report_characters": 5404}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "design_studies_discipline"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "design_no_fixed_essence"},
+    {"section_id": "13.1", "grade": "C", "verification": "V2", "role": "cosmopolitan_localism"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Hazel Clark（Parsons艺术与设计史论学院院长）/David Brody编《Design Studies: A Reader》（Berg 2009），78章选文、7个SECTION",
+    "设计研究（design studies）第一部综合性读本；源自Parsons'Introduction to Design Studies'课程",
+    "核心界定：'Design is everywhere'（L1794）——设计是过程、产品（含符号与图像）、系统、使用及其对人的影响的整体（L1810-1811）",
+    "'设计无固定本质'（Margolin，L5542-5545）：设计不指称'可以像蝴蝶一样钉住的一类对象'，而是'对人工世界的构思与规划'（L5798-5799）",
+    "批判四柱：商品拜物教（Marx）、符号交换价值（Baudrillard）、趣味区分（Bourdieu）、规训（Foucault）",
+    "设计伦理升级：负责任的设计（Szenasy）→优先级反转（FTF2000）→分配正义（Tai引Rawls）",
+    "可持续三代纲领：more-with-less（Fuller）→Use less（Papanek）→cradle to cradle（McDonough&Braungart）",
+    "全球化：品牌全球化（Klein、Julier）vs地方重构（Manzini的cosmopolitan localism，L54057）",
+    "把1979年英国《Design Studies》期刊与1984年美国《Design Issues》开启的学科谱系教材化（L1823-1850）",
+    "限度：2009年时点数字设计/AI缺席；结构性的西方中心",
+    "本书为design studies学科纲领（A级）：对C.0承担学科界定",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L1794：'Design is everywhere'",
+    "L1810-1811：设计的整体界定",
+    "L5542-5545：Margolin'蝴蝶'命题",
+    "L1823-1850：学科谱系（Design Studies 1979/Design Issues 1984）",
+    "L54057：cosmopolitan localism（Manzini）"
+  ]
+}

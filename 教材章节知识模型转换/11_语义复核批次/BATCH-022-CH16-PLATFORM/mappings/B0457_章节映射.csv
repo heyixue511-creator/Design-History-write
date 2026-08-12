@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0457,16.5,B,V2,myth_of_transparency,数字设计的目标不是制造'消失的透明界面'（透明神话），而是让每个数字人工物在窗口（透明传递内容）与镜子（反射揭示自身与用户）之间振荡；数字设计不应试图隐形——对Norman《The Invisible Computer》与Nielsen透明管道论的批判——16.5自动化界面批判,作者论辩（2003）；SIGGRAPH 2000艺术展案例,00_整体分析报告（Ch2 Wooden Mirror）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0457,14.2,B,V2,computer_as_medium_experience,计算机已成为新媒介；设计数字人工物就是设计体验（experience design）——'信息家电派/结构主义者'（透明愿景）与'体验派/设计者'（形式驱动）两套数字技术愿景的交锋——14.2图形用户界面与交互范式争论,作者论辩（2003）；2000-2002界面争论语境,00_整体分析报告（Introduction、Ch1 TEXT RAIN）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0457,16.5,C,V2,embodied_design_materiality,数字媒体具有物质性：T-Garden案例批判'去具身神话'，具身设计（embodied design）与语境设计（contextual design）拒绝无语境的柏拉图式设计理想——16.5具身交互与设计物质性,作者论辩（2003）；T-Garden/Terminal Time装置案例,00_整体分析报告（Ch6 T-Garden、Ch7 Terminal Time）,ACCEPTED_AS_SUPPORTING_SOURCE

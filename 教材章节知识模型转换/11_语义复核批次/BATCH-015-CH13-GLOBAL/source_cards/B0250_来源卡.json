@@ -1,0 +1,32 @@
+{
+  "source_id": "B0250",
+  "corpus": "book",
+  "folder_name": "Kate Fletcher, Lynda Grose：《Fashion & Sustainability Design for Change》，2012",
+  "material_type": "可持续时尚（产品-系统-实践框架）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Kate Fletcher, Lynda Grose：《Fashion & Sustainability Design for Change》，2012.md",
+  "duplicate_group": "与B0251（Fletcher可持续时尚与纺织品）为同一作者姊妹书；与13.1供应链对象共享时只计一份P0",
+  "files": [{"report_file_count": 22, "report_characters": 10498}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.1", "grade": "B", "verification": "V2", "role": "fast_fashion_supply_chain"},
+    {"section_id": "13.1", "grade": "B", "verification": "V2", "role": "design_practice_transformation"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Fletcher（伦敦时装学院，'慢时尚'理论家）与Grose（时尚可持续顾问），Laurence King 2012；作者合计约40年行业与学术经验",
+    "核心命题：时尚产业可持续转型不能仅靠'更好的材料'和'更清洁的工艺'，必须从根本上重新设计商业系统与设计师实践角色",
+    "三部分框架（'产品→系统→实践'）：Part 1产品生命周期（材料/工艺/分销/护理/废弃）、Part 2系统转型（使用端/商业逻辑替代/深层结构批判）、Part 3设计师角色转型（传播者-教育者/促进者/行动者/创业者）",
+    "转型方向：从'线性提取-生产-消费-废弃'转向'循环/再生/关系性生态系统'",
+    "批判：回收是'mopping-up operation'（收拾残局）——系统级变革需求",
+    "本书为可持续时尚主源（B级）：对13.1承担快时尚全球链与设计师角色转型",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "核心问题：'What would sustainability have us do?'（Orr 2009）",
+    "Part 1：产品生命周期五环节（材料→工艺→分销→护理→废弃）",
+    "Ch5：回收作为'mopping-up operation'的诊断",
+    "Part 3：设计师四种新角色（传播者-教育者/促进者/行动者/创业者）",
+    "结论：'Fashion design will be impact- rather than trend-led'等11条未来方向"
+  ]
+}

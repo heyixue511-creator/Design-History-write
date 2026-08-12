@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0510,C.0,A,V2,design_history_critique,设计史批判：设计史在很大程度上没有认识到设计的历史意义——"将历史从设计思想中切除，使贯穿于设计的认知从设计所参与的各条时间轨迹的认知中隔离出来"——结语学科回收,作者理论（2015原书/2020中译）；设计史批判为合著共同立场,第1章分析报告（L178、L1954）,ACCEPTED_AS_CORE_SOURCE
+B0510,C.0,A,V2,defuturing,去未来化（defuturing）：设计及其产物消解未来可能性、导致结构不可持续性——设计作为塑造人类命运的历史行动者——结语责任命题,作者概念（2015）；去未来化为Fry核心概念族,第1章分析报告（L269、L1133、L1359）,ACCEPTED_AS_CORE_SOURCE
+B0510,C.0,B,V2,ontological_design_history,本体论设计：设计既被历史塑造又塑造历史与主体——与B0413（Winograd/Flores）、B0032（Escobar）同一概念族,作者理论（2015）；概念族只计一份P0,第1章分析报告（L557、L2038-2040）,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,1940 @@
+[
+ {
+  "evidence_id": "EV-C0163",
+  "claim": "家庭作坊贸易与多种制造方式共同保存和重组分布式知识",
+  "source_id": "B0084",
+  "source_location": "补训练、工具、合同、家庭与工匠主体材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "layered_preindustrial_making_and_knowledge",
+  "supports": [
+   "家庭作坊贸易与多种制造方式共同保存和重组分布式知识"
+  ],
+  "does_not_support": [
+   "普遍设计能力不能抹去技能制度和劳动不平等"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0164",
+  "claim": "纺纱织造染色裁缝与刺绣知识分布在家庭、性别化工序、作坊和贸易网络中",
+  "source_id": "B0086",
+  "source_location": "补工具、工序、训练、劳动和对象材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "distributed_textile_knowledge",
+  "supports": [
+   "纺纱织造染色裁缝与刺绣知识分布在家庭、性别化工序、作坊和贸易网络中"
+  ],
+  "does_not_support": [
+   "性别分工并非固定且地区技术复合体差异显著"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0165",
+  "claim": "School与Guild把课程、学徒、工场生产和共同体理想并置为制度实验",
+  "source_id": "B0091",
+  "source_location": "补学生作业、考核、就业、工资和成员材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "school_guild_apprenticeship_and_workshop_knowledge",
+  "supports": [
+   "School与Guild把课程、学徒、工场生产和共同体理想并置为制度实验"
+  ],
+  "does_not_support": [
+   "招生和课程存在不等于学习效果且控制权未完全交给工人"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0166",
+  "claim": "王室制造厂、行会、小作坊、师徒与商人中介展示前工业知识和专业分工",
+  "source_id": "B0101",
+  "source_location": "补家庭生产、地方行业、女性和非欧洲作坊史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "royal_manufactories_guilds_workshops_and_specialisation",
+  "supports": [
+   "王室制造厂、行会、小作坊、师徒与商人中介展示前工业知识和专业分工"
+  ],
+  "does_not_support": [
+   "法国案例不能代表全部前工业生产且质量判断偏精英对象"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0167",
+  "claim": "家庭作坊外放制和城乡联系可长期承载纺织技能与市场生产",
+  "source_id": "B0130",
+  "source_location": "补工具、工序、学徒、家庭与劳动合同材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "household_workshop_and_putting_out_knowledge",
+  "supports": [
+   "家庭作坊外放制和城乡联系可长期承载纺织技能与市场生产"
+  ],
+  "does_not_support": [
+   "不能把存续自动解释为自由自主或技术不变"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0168",
+  "claim": "家庭工业作坊外包网络与工匠合作可同时承载创新和技能传递",
+  "source_id": "B0132",
+  "source_location": "作坊账簿学徒记录工具对象与地方产业档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "distributed_skill_workshop_and_putting_out",
+  "supports": [
+   "家庭工业作坊外包网络与工匠合作可同时承载创新和技能传递"
+  ],
+  "does_not_support": [
+   "英国1700至1820案例且具体工艺需对象证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0169",
+  "claim": "学徒制工场共同体与劳动力流动可传递难以文本化的默会知识",
+  "source_id": "B0149",
+  "source_location": "补学徒合同工场账簿工具作品和家庭训练记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "apprenticeship_tacit_knowledge_and_workshops",
+  "supports": [
+   "学徒制工场共同体与劳动力流动可传递难以文本化的默会知识"
+  ],
+  "does_not_support": [
+   "正式学徒制不是唯一渠道且合同长度不等于实际学习内容"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0170",
+  "claim": "景德镇瓷器由采料制胎绘饰施釉装窑烧成分级运输等专门工序协作完成",
+  "source_id": "B0154",
+  "source_location": "补地方志、窑址、工匠、工资、合同和工序复原",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "jingdezhen_distributed_workshop_knowledge",
+  "supports": [
+   "景德镇瓷器由采料制胎绘饰施釉装窑烧成分级运输等专门工序协作完成"
+  ],
+  "does_not_support": [
+   "殷弘绪的分工描述是外部观察且不能代表各时期各窑"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0171",
+  "claim": "印度纺纱织造印染和后整理知识分布于家庭作坊中间商与专业工序而非单一作者",
+  "source_id": "B0169",
+  "source_location": "补作坊账簿、工具、工资、合同、训练与工匠材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "indian_workshops_finishing_and_distributed_skill",
+  "supports": [
+   "印度纺纱织造印染和后整理知识分布于家庭作坊中间商与专业工序而非单一作者"
+  ],
+  "does_not_support": [
+   "印度不同区域与工种不能视为统一制度且独立织工不等于没有约束"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0172",
+  "claim": "图案书、大工场、皇家制造厂和商业化手工生产已使构思、模型与制作发生分工",
+  "source_id": "B0225",
+  "source_location": "补行会、家庭、作坊、地方材料和非欧洲比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.1"
+  ],
+  "textbook_function": "patterns_workshops_and_commercial_craft",
+  "supports": [
+   "图案书、大工场、皇家制造厂和商业化手工生产已使构思、模型与制作发生分工"
+  ],
+  "does_not_support": [
+   "不能把所有前工业生产都写成单人工匠或同一欧洲模式"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0173",
+  "claim": "专利、国家合同、机床、可互换零件和运输网络共同改变美国生产尺度",
+  "source_id": "B0031",
+  "source_location": "与B0225、B0084及较新技术史、军械厂档案互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "patents_interchangeability_state_contracts_and_scale",
+  "supports": [
+   "专利、国家合同、机床、可互换零件和运输网络共同改变美国生产尺度"
+  ],
+  "does_not_support": [
+   "Whitney唯一奠基人叙事不成立且军工仅作文字制度分析"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0174",
+  "claim": "机械化和工厂扩张依赖国家能力、原料控制、劳动力动员、资本与市场的组合",
+  "source_id": "B0040",
+  "source_location": "补技术测试、工厂账簿、专利和产量序列",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "machines_states_and_scale",
+  "supports": [
+   "机械化和工厂扩张依赖国家能力、原料控制、劳动力动员、资本与市场的组合"
+  ],
+  "does_not_support": [
+   "不能因此否认机器性能和生产率变化的独立测量价值"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0175",
+  "claim": "煤、铁、蒸汽与纸构成生产、交通、包装和信息扩张的相互依赖系统",
+  "source_id": "B0052",
+  "source_location": "补能源、产量、设备、企业、劳动和环境P0",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "coal_iron_steam_paper_transport_and_scale",
+  "supports": [
+   "煤、铁、蒸汽与纸构成生产、交通、包装和信息扩张的相互依赖系统"
+  ],
+  "does_not_support": [
+   "宏观综合不能替代单项技术、能源数量和环境后果核验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0176",
+  "claim": "蒸汽、新工艺、交通、国家合同和互换零件共同改变生产与市场尺度",
+  "source_id": "B0101",
+  "source_location": "补设备、采购、资本、劳动、民用扩散和区域比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "mechanisation_transport_interchangeability_and_market_scale",
+  "supports": [
+   "蒸汽、新工艺、交通、国家合同和互换零件共同改变生产与市场尺度"
+  ],
+  "does_not_support": [
+   "机器不是充分原因且美国体系起源叙述需较新研究校正"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0177",
+  "claim": "手纺进口机纱地方织造和机械工厂按地区与市场条件并存并改变生产尺度",
+  "source_id": "B0130",
+  "source_location": "补机器、动力、产量、成本和质量记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "hand_machine_imported_yarn_and_scale",
+  "supports": [
+   "手纺进口机纱地方织造和机械工厂按地区与市场条件并存并改变生产尺度"
+  ],
+  "does_not_support": [
+   "本书不提供统一机器性能比较且部分数据估算不稳"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0178",
+  "claim": "技术与规模选择受能源资本技能选址法律和劳动关系共同塑造",
+  "source_id": "B0132",
+  "source_location": "技术测试成本账簿专利工厂记录与行业比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "technology_energy_and_scale_choice",
+  "supports": [
+   "技术与规模选择受能源资本技能选址法律和劳动关系共同塑造"
+  ],
+  "does_not_support": [
+   "社会选择不等于否认机器性能差异"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0179",
+  "claim": "纺纱机器动力织机与原棉供给共同扩大产量并改变质量和产品范围",
+  "source_id": "B0169",
+  "source_location": "补机器性能、动力、成本、质量、工厂和原料数据",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "mechanisation_quality_scale_and_supply",
+  "supports": [
+   "纺纱机器动力织机与原棉供给共同扩大产量并改变质量和产品范围"
+  ],
+  "does_not_support": [
+   "技术是必要但不充分条件且动力织机对细布的采用存在长时滞"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0180",
+  "claim": "互换零件、量规、机床、物流与连续装配共同改变生产尺度",
+  "source_id": "B0192",
+  "source_location": "补成本、产量、质量和工时序列",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "interchangeability_flow_and_scale",
+  "supports": [
+   "互换零件、量规、机床、物流与连续装配共同改变生产尺度"
+  ],
+  "does_not_support": [
+   "互换性不必然降低成本，规模也可能造成刚性和过剩"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0181",
+  "claim": "动力、机床、可互换零件、铁路和装配线改变生产尺度与对象组织",
+  "source_id": "B0225",
+  "source_location": "补设备、性能、国家采购、劳动与民用扩散档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "machines_interchangeability_transport_and_scale",
+  "supports": [
+   "动力、机床、可互换零件、铁路和装配线改变生产尺度与对象组织"
+  ],
+  "does_not_support": [
+   "武器制度前史仅作文字分析且机器并非充分原因"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0182",
+  "claim": "煤炭和新大陆资源使英国突破土地能源约束但作用依赖交通市场与全球制度",
+  "source_id": "B0259",
+  "source_location": "补矿业、运输、价格、机器与国家政策材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "coal_land_constraint_and_global_resources",
+  "supports": [
+   "煤炭和新大陆资源使英国突破土地能源约束但作用依赖交通市场与全球制度"
+  ],
+  "does_not_support": [
+   "不能把资源存在写成自动因果"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0183",
+  "claim": "棉布竞争、煤炭采用和国家政策共同塑造英国技术与生产尺度变化",
+  "source_id": "B0334",
+  "source_location": "补专利、工厂、煤运、成本与政策记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.2"
+  ],
+  "textbook_function": "cotton_coal_state_and_scale",
+  "supports": [
+   "棉布竞争、煤炭采用和国家政策共同塑造英国技术与生产尺度变化"
+  ],
+  "does_not_support": [
+   "不能把三因素写成单一或已终结的因果解释"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0184",
+  "claim": "进口坯料、英国染印、机器适配、木版工艺、品牌标记和诉讼共同组织构思—制作—控制",
+  "source_id": "B0006",
+  "source_location": "补样本、配方、图样、订单、工序、合同和诉讼卷宗",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "import_dye_print_machine_block_and_brand_control",
+  "supports": [
+   "进口坯料、英国染印、机器适配、木版工艺、品牌标记和诉讼共同组织构思—制作—控制"
+  ],
+  "does_not_support": [
+   "企业品牌不能自动确定逐件设计者与生产者"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0185",
+  "claim": "1842年设计专利及形式／效用法律区分显示外观、规格和权利被制度化",
+  "source_id": "B0031",
+  "source_location": "补专利图、诉讼、企业设计流程和对象生产链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "design_patents_specs_and_form_utility_split",
+  "supports": [
+   "1842年设计专利及形式／效用法律区分显示外观、规格和权利被制度化"
+  ],
+  "does_not_support": [
+   "专利数量和法律分类不证明设计质量或实际执行"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0186",
+  "claim": "合伙分工、图样转化、自产／外包和质量控制重组构思与制作权力",
+  "source_id": "B0070",
+  "source_location": "逐对象补图样、工序、工资、合同与署名",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "partnership_workflow_make_or_buy_and_control",
+  "supports": [
+   "合伙分工、图样转化、自产／外包和质量控制重组构思与制作权力"
+  ],
+  "does_not_support": [
+   "公司名称或Morris品牌不能自动确定逐件作者"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0187",
+  "claim": "设计须桥接生产约束与使用需求并协调多种专门活动",
+  "source_id": "B0084",
+  "source_location": "补图样、职位、评审、工序与使用反馈",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "production_use_context_and_coordination",
+  "supports": [
+   "设计须桥接生产约束与使用需求并协调多种专门活动"
+  ],
+  "does_not_support": [
+   "抽象桥接模型不能替代具体图样规格和车间权力证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0188",
+  "claim": "用途、材料、加工方法和安放条件共同限制图样与处理方式",
+  "source_id": "B0090",
+  "source_location": "补工序实验、图样、工具痕迹、年代和传播链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "utility_material_method_condition_and_design_control",
+  "supports": [
+   "用途、材料、加工方法和安放条件共同限制图样与处理方式"
+  ],
+  "does_not_support": [
+   "形式类比不能直接证明母题起源或单向决定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0189",
+  "claim": "委员会、董事会、劳动董事、利润分享和资本份额具体重组了决策权",
+  "source_id": "B0091",
+  "source_location": "补会议表决、账簿、劳动争议和具体项目流程",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "committee_board_profit_sharing_and_design_control",
+  "supports": [
+   "委员会、董事会、劳动董事、利润分享和资本份额具体重组了决策权"
+  ],
+  "does_not_support": [
+   "制度条款不等于实际平等运行且Ashbee权威长期存在"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0190",
+  "claim": "字体从字冲、字模、铸造到排字印刷的工序分离会重组形式决策、所有权和监督",
+  "source_id": "B0097",
+  "source_location": "补字体样张、订单、铸造记录、版面和工序签记",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "punch_matrix_type_composition_and_supervision",
+  "supports": [
+   "字体从字冲、字模、铸造到排字印刷的工序分离会重组形式决策、所有权和监督"
+  ],
+  "does_not_support": [
+   "缺失图版使具体字形责任和视觉后果不可核"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0191",
+  "claim": "模型、图录、模具、标准形状、规格与分工使构思、监督和制作逐渐分化",
+  "source_id": "B0101",
+  "source_location": "补图样、工序、职位、工资、订单和冲突档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "models_catalogues_moulds_specs_and_division_of_labour",
+  "supports": [
+   "模型、图录、模具、标准形状、规格与分工使构思、监督和制作逐渐分化"
+  ],
+  "does_not_support": [
+   "分离并非一次完成且不能把企业主或设计师写成唯一作者"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0192",
+  "claim": "景德镇分工、外来器形模型、绘饰工序、梅森保密和Etruria管理显示构思制作与监督权不断重组",
+  "source_id": "B0154",
+  "source_location": "补图样、模具、订单、工序签记、职位和管理档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "division_of_labor_models_patterns_and_supervision",
+  "supports": [
+   "景德镇分工、外来器形模型、绘饰工序、梅森保密和Etruria管理显示构思制作与监督权不断重组"
+  ],
+  "does_not_support": [
+   "不能由分工直接推出现代设计职业或单一源头"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0193",
+  "claim": "印染细分、公司规格、机械滚筒和短期设计保护改变了构思制作监督与复制关系",
+  "source_id": "B0169",
+  "source_location": "补样品、订单、刻版、工序、诉讼、工资和车间档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "finishing_division_commissioning_and_design_rights",
+  "supports": [
+   "印染细分、公司规格、机械滚筒和短期设计保护改变了构思制作监督与复制关系"
+  ],
+  "does_not_support": [
+   "公司命令与法律文本不能自动证明工场实际执行或个人作者权"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0194",
+  "claim": "课程、图样、机械复制、版权和设计注册共同重组构思、复制与控制关系",
+  "source_id": "B0175",
+  "source_location": "补设计注册、样本、工序、企业和司法档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "drawing_copyright_originality_replication_and_control",
+  "supports": [
+   "课程、图样、机械复制、版权和设计注册共同重组构思、复制与控制关系"
+  ],
+  "does_not_support": [
+   "版权论战中的原创／盗版是行动者修辞，不等于可直接判定每件产品归属"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0195",
+  "claim": "量规、夹具、精确规格和协调工序把判断权从装配修配转移到系统设计与监督",
+  "source_id": "B0192",
+  "source_location": "补产品图纸、工程变更、职位和审批记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "gauges_specs_and_process_control",
+  "supports": [
+   "量规、夹具、精确规格和协调工序把判断权从装配修配转移到系统设计与监督"
+  ],
+  "does_not_support": [
+   "本书较少直接讨论外观图样和设计师职位"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0196",
+  "claim": "图案书、原型、模具、规格、工序分解和监督把形式控制从执行工人转移到多类岗位",
+  "source_id": "B0225",
+  "source_location": "补图样、模具、工序签记、职位、工资和争议档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "patterns_models_specs_and_control",
+  "supports": [
+   "图案书、原型、模具、规格、工序分解和监督把形式控制从执行工人转移到多类岗位"
+  ],
+  "does_not_support": [
+   "分离不是瞬时完成也不等于设计师已成为唯一作者"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0197",
+  "claim": "Wedgwood的设计、生产、展厅、样本、定价和销售控制说明构思与制作分离必须连到企业和市场",
+  "source_id": "B0305",
+  "source_location": "补设计簿、模具、工场、工资、工人和对象材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "wedgwood_design_production_marketing_and_control",
+  "supports": [
+   "Wedgwood的设计、生产、展厅、样本、定价和销售控制说明构思与制作分离必须连到企业和市场"
+  ],
+  "does_not_support": [
+   "营销史不能替代工厂内部逐件作者、工序和工人经验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0198",
+  "claim": "劳动分工使图样和生产指令成为协调分离工序的独立活动",
+  "source_id": "B0328",
+  "source_location": "补行业图样、模型、规格、工序和工资档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "design_as_production_instruction",
+  "supports": [
+   "劳动分工使图样和生产指令成为协调分离工序的独立活动"
+  ],
+  "does_not_support": [
+   "Wedgwood等案例不能代表所有行业的同一时间表"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0199",
+  "claim": "字体设计、冲模、机器铸字、电铸、摄影转刻和版面规范说明构思—复制—控制的多阶段分工",
+  "source_id": "B0348",
+  "source_location": "逐对象补制作者、图样、账单、工序与署名",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "type_design_reproduction_workflow_and_control",
+  "supports": [
+   "字体设计、冲模、机器铸字、电铸、摄影转刻和版面规范说明构思—复制—控制的多阶段分工"
+  ],
+  "does_not_support": [
+   "Morris全要素控制不等于亲手执行全部工序"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0200",
+  "claim": "‘被分割的是人而非劳动’说明同期批评者如何理解构思、判断与重复执行的分离",
+  "source_id": "B0383",
+  "source_location": "补工厂账目、工资、工时、技术、工人和行业材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.3"
+  ],
+  "textbook_function": "division_of_labour_judgement_and_execution",
+  "supports": [
+   "‘被分割的是人而非劳动’说明同期批评者如何理解构思、判断与重复执行的分离"
+  ],
+  "does_not_support": [
+   "不能据此证明所有工厂或中世纪工场的真实劳动关系"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0201",
+  "claim": "丝、棉、染料、水质、木版、机器织造及金属合金说明材料供应如何限定产品",
+  "source_id": "B0006",
+  "source_location": "补来源地生产、贸易、配方、样本检测和环境记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "silk_cotton_dye_water_print_and_metal_material_system",
+  "supports": [
+   "丝、棉、染料、水质、木版、机器织造及金属合金说明材料供应如何限定产品"
+  ],
+  "does_not_support": [
+   "‘东方秘密’和性能主张多为企业／作者叙述，未做物质核验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0202",
+  "claim": "棉的形式与可得性受种植、纤维处理、运输、纺织和染整的全球供应链约束",
+  "source_id": "B0040",
+  "source_location": "补纤维对象、染料、土地和水资源材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "cotton_material_supply_chain",
+  "supports": [
+   "棉的形式与可得性受种植、纤维处理、运输、纺织和染整的全球供应链约束"
+  ],
+  "does_not_support": [
+   "书中对生态代价与部分地方工艺处理不足"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0203",
+  "claim": "基础材料、合成染料、橡胶、玻璃和纸的新组合拓展对象形式与流通",
+  "source_id": "B0052",
+  "source_location": "补专利、配方、样本、供应链、企业和环境记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "coal_iron_steel_glass_paper_dye_and_rubber_systems",
+  "supports": [
+   "基础材料、合成染料、橡胶、玻璃和纸的新组合拓展对象形式与流通"
+  ],
+  "does_not_support": [
+   "技术首创和国别领先判断需现代专史与专利复核"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0204",
+  "claim": "纤维、织机、纱线、染料与图案技术共同限定纺织形式",
+  "source_id": "B0086",
+  "source_location": "补材料检测、考古断代与技术复原",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "fiber_loom_dye_and_pattern_system",
+  "supports": [
+   "纤维、织机、纱线、染料与图案技术共同限定纺织形式"
+  ],
+  "does_not_support": [
+   "部分早期材料与染料证据只达推测层级"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0205",
+  "claim": "石、木、黏土、蜡、金属和玻璃的物性及工法被具体联系到形式处理",
+  "source_id": "B0090",
+  "source_location": "补材料检测、工艺复原、对象与供应链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "material_process_and_form_treatment",
+  "supports": [
+   "石、木、黏土、蜡、金属和玻璃的物性及工法被具体联系到形式处理"
+  ],
+  "does_not_support": [
+   "‘忠于材料’是规范性判断且部分视觉例证待图版核验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0206",
+  "claim": "瓷器、纺织、铸铁、玻璃等材料工艺与市场共同限制和扩展形式",
+  "source_id": "B0101",
+  "source_location": "补材料检测、贸易、生态、劳动和对象复原",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "porcelain_textile_iron_glass_and_material_systems",
+  "supports": [
+   "瓷器、纺织、铸铁、玻璃等材料工艺与市场共同限制和扩展形式"
+  ],
+  "does_not_support": [
+   "原料来源、殖民供应链、环境与劳动处理不均"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0207",
+  "claim": "原棉、进口纱、天然与合成染料及羊毛丝料的替代直接改变生产和产品类型",
+  "source_id": "B0130",
+  "source_location": "补纤维染料配方样品和供应链资料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "cotton_yarn_dyes_and_material_substitution",
+  "supports": [
+   "原棉、进口纱、天然与合成染料及羊毛丝料的替代直接改变生产和产品类型"
+  ],
+  "does_not_support": [
+   "材料替代的具体形式效果仍需对象与技术分析"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0208",
+  "claim": "瓷石高岭土钴釉料燃料窑炉和运输共同限定瓷器白度强度颜色器形与废品率",
+  "source_id": "B0154",
+  "source_location": "补矿物检测、窑址、配方、燃料环境与供应链记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "china_stone_kaolin_cobalt_glaze_and_fuel_system",
+  "supports": [
+   "瓷石高岭土钴釉料燃料窑炉和运输共同限定瓷器白度强度颜色器形与废品率"
+  ],
+  "does_not_support": [
+   "地质禀赋不自动造成技术领先且部分材料来源和数量待核"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0209",
+  "claim": "棉纤维性能、染料、印花化学、土地与种植园供给共同限定工业棉品的形式和规模",
+  "source_id": "B0169",
+  "source_location": "补纤维检测、配方、农场与种植园数据、环境和劳动史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "cotton_fiber_dyes_land_and_plantation_system",
+  "supports": [
+   "棉纤维性能、染料、印花化学、土地与种植园供给共同限定工业棉品的形式和规模"
+  ],
+  "does_not_support": [
+   "生态潜力和土地反事实仍依赖估算且不得遮蔽奴隶制"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0210",
+  "claim": "制造材料和能源必须连同土地森林粮食棉花和海外资源供给分析",
+  "source_id": "B0259",
+  "source_location": "补环境史、供应链和量化复核",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "ecological_material_system",
+  "supports": [
+   "制造材料和能源必须连同土地森林粮食棉花和海外资源供给分析"
+  ],
+  "does_not_support": [
+   "鬼田数字及生态可比性仍有争议"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0211",
+  "claim": "瓷器、印花布、玻璃和金属品的形式来自跨境材料、工艺和市场的组合",
+  "source_id": "B0304",
+  "source_location": "与B0040及材料技术史互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "global_material_and_product_systems",
+  "supports": [
+   "瓷器、印花布、玻璃和金属品的形式来自跨境材料、工艺和市场的组合"
+  ],
+  "does_not_support": [
+   "对棉纺和生态供应链处理不及专门研究"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0212",
+  "claim": "棉花、煤、木材与全球商品竞争构成由国家中介的材料能源系统",
+  "source_id": "B0334",
+  "source_location": "与B0259、B0040及材料环境史互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "cotton_coal_ecology_and_state_material_system",
+  "supports": [
+   "棉花、煤、木材与全球商品竞争构成由国家中介的材料能源系统"
+  ],
+  "does_not_support": [
+   "资源禀赋与政策作用权重仍有争议"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0213",
+  "claim": "八类材料章显示技术、工艺、企业与形式创新互相制约",
+  "source_id": "B0338",
+  "source_location": "补专利、配方、工序、企业、劳动、供应链和对象检测",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "paper_wood_textile_ceramic_glass_metal_jewellery_material_systems",
+  "supports": [
+   "八类材料章显示技术、工艺、企业与形式创新互相制约"
+  ],
+  "does_not_support": [
+   "‘材料能动性’是解释语言，技术首创和性能需专史／实物核验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0214",
+  "claim": "手工纸、墨、字体尺度、手压机与复制技术共同限定书页形式、成本和产量",
+  "source_id": "B0348",
+  "source_location": "补纸张水印、墨色、尺寸、设备、印数和保存状态",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.4"
+  ],
+  "textbook_function": "paper_ink_type_press_and_material_constraints",
+  "supports": [
+   "手工纸、墨、字体尺度、手压机与复制技术共同限定书页形式、成本和产量"
+  ],
+  "does_not_support": [
+   "材料选择的审美解释仍需实物和技术核验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0215",
+  "claim": "匿名设计政策、外部设计师、供应商、工坊与品牌共同制造企业作者制",
+  "source_id": "B0006",
+  "source_location": "补设计簿、订单、工资、样品、印记和个人档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "anonymous_designers_suppliers_workers_and_corporate_authorship",
+  "supports": [
+   "匿名设计政策、外部设计师、供应商、工坊与品牌共同制造企业作者制"
+  ],
+  "does_not_support": [
+   "匿名并不表示无作者，后世归属也需对象级证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0216",
+  "claim": "工匠、工程师、商业艺术家、制造商、博物馆与顾问设计师共同形成工业设计岗位",
+  "source_id": "B0031",
+  "source_location": "补企业档案、匿名员工、工会、客户与失败项目",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "craftsmen_engineers_artists_business_and_profession",
+  "supports": [
+   "工匠、工程师、商业艺术家、制造商、博物馆与顾问设计师共同形成工业设计岗位"
+  ],
+  "does_not_support": [
+   "职业谱系偏向名人且参与者自我合法化明显"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0217",
+  "claim": "涡轮机厂房（1909）是艺术家—工程师多行动者协作产物：承重框架归Lasche与Bernhard，山墙形式与象征归Behrens；同时代媒体以“合作”定性，署名权之争留存",
+  "source_id": "B0060",
+  "source_location": "回查Fabrikenkunst专题与当代反应章节",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "turbine_hall_multi_actor_production",
+  "supports": [
+   "涡轮机厂房（1909）是艺术家—工程师多行动者协作产物：承重框架归Lasche与Bernhard，山墙形式与象征归Beh"
+  ],
+  "does_not_support": [
+   "Bernhard声明、Kunstchronik评论为原典证据；本书仍有Behrens中心化倾向，引用须并置双方表述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0218",
+  "claim": "艺术家、制图／放大、经理、工人和外部制造者共同完成产品，个人品牌遮蔽集体劳动",
+  "source_id": "B0070",
+  "source_location": "补对象级任务、工资、性别、署名和工场记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "collective_authorship_and_hidden_labour",
+  "supports": [
+   "艺术家、制图／放大、经理、工人和外部制造者共同完成产品，个人品牌遮蔽集体劳动"
+  ],
+  "does_not_support": [
+   "协作存在不等于权力平等或署名清楚"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0219",
+  "claim": "设计能力分布于工匠、企业、组织和使用者而非职业名家独占",
+  "source_id": "B0084",
+  "source_location": "逐对象补构思制作管理销售使用责任链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "design_as_distributed_human_capacity",
+  "supports": [
+   "设计能力分布于工匠、企业、组织和使用者而非职业名家独占"
+  ],
+  "does_not_support": [
+   "普遍能力命题不能自动确定对象作者或责任"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0220",
+  "claim": "传统、作坊、跨代协作和个体变异共同塑造对象，不能只归功于名家",
+  "source_id": "B0090",
+  "source_location": "补署名、图样、工序、工匠名册和管理记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "collective_workshop_authorship_and_individual_variation",
+  "supports": [
+   "传统、作坊、跨代协作和个体变异共同塑造对象，不能只归功于名家"
+  ],
+  "does_not_support": [
+   "匿名不等于平等且具体对象责任仍未知"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0221",
+  "claim": "多数Guild产品不能牢靠归于Ashbee，工匠、助理与共同设计必须逐件区分",
+  "source_id": "B0091",
+  "source_location": "按签名图、目录、工场记录和对象痕迹分级归属",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "documented_and_uncertain_collective_authorship",
+  "supports": [
+   "多数Guild产品不能牢靠归于Ashbee，工匠、助理与共同设计必须逐件区分"
+  ],
+  "does_not_support": [
+   "作者仍为叙述便利作出部分归属推定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0222",
+  "claim": "字冲雕刻者、铸字商、印刷商、出版者、排字工和复兴者共同塑造字体与书籍",
+  "source_id": "B0097",
+  "source_location": "补普通工人、女性、企业账目、客户和读者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "distributed_typographic_authorship",
+  "supports": [
+   "字冲雕刻者、铸字商、印刷商、出版者、排字工和复兴者共同塑造字体与书籍"
+  ],
+  "does_not_support": [
+   "Updike常把品质重新集中到少数大师和印刷商判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0223",
+  "claim": "工匠、艺术家、企业家、商人中介和消费者共同参与产品形成",
+  "source_id": "B0101",
+  "source_location": "逐对象补设计、制作、管理、营销和使用责任链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "craftspeople_artists_manufacturers_merchants_and_consumers",
+  "supports": [
+   "工匠、艺术家、企业家、商人中介和消费者共同参与产品形成"
+  ],
+  "does_not_support": [
+   "名家与企业案例仍占优势且具体责任不能由通史确定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0224",
+  "claim": "采料者陶工画工窑工商人公司宫廷技术人员和企业主共同塑造瓷器而常被个人发明叙事遮蔽",
+  "source_id": "B0154",
+  "source_location": "逐对象补模型订单工场账簿签款工资销售与使用链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "anonymous_potters_merchants_and_enterprise_network",
+  "supports": [
+   "采料者陶工画工窑工商人公司宫廷技术人员和企业主共同塑造瓷器而常被个人发明叙事遮蔽"
+  ],
+  "does_not_support": [
+   "分布式生产不能据此确定特定器物作者和动机"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0225",
+  "claim": "印度工匠、亚美尼亚印花工、欧洲技师、公司、企业主与消费者共同改造棉布而常被发明家叙事遮蔽",
+  "source_id": "B0169",
+  "source_location": "逐对象补图样、样布、工场、订单、专利与销售责任链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "distributed_product_and_process_innovation",
+  "supports": [
+   "印度工匠、亚美尼亚印花工、欧洲技师、公司、企业主与消费者共同改造棉布而常被发明家叙事遮蔽"
+  ],
+  "does_not_support": [
+   "分布式参与不能据此确定每件织物的责任和动机"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0226",
+  "claim": "工匠、制造商、商人、消费者、教师和国家官员共同参与设计改革",
+  "source_id": "B0175",
+  "source_location": "补工资、工场、成员、女性与地方行动者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "artisan_manufacturer_trader_consumer_and_state_actors",
+  "supports": [
+   "工匠、制造商、商人、消费者、教师和国家官员共同参与设计改革"
+  ],
+  "does_not_support": [
+   "行动者进入公共论战不说明其权力相等或代表全部群体"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0227",
+  "claim": "公共机构、机械师、工程师、企业管理者和销售体系共同形成制造系统",
+  "source_id": "B0192",
+  "source_location": "逐项目核设计、工程、审批、制作和营销责任",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "distributed_manufacturing_authorship",
+  "supports": [
+   "公共机构、机械师、工程师、企业管理者和销售体系共同形成制造系统"
+  ],
+  "does_not_support": [
+   "不能把技术系统无作者化，也不能忽略可证个人责任"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0228",
+  "claim": "Boulton与Wedgwood案例显示企业主、外部艺术家、制图员、模型师、工匠和销售网络共同参与",
+  "source_id": "B0225",
+  "source_location": "逐对象补设计、制作、管理、销售和使用责任链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "anonymous_designers_workers_and_enterprise",
+  "supports": [
+   "Boulton与Wedgwood案例显示企业主、外部艺术家、制图员、模型师、工匠和销售网络共同参与"
+  ],
+  "does_not_support": [
+   "资料仍偏企业主且不能为每件对象确定责任"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0229",
+  "claim": "企业家、合伙人、艺术家、工人、零售者、赞助人和消费者共同形成商品网络",
+  "source_id": "B0305",
+  "source_location": "补对象级责任、工资、订单、顾客和家庭材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "entrepreneur_partner_artist_worker_retailer_and_consumer_network",
+  "supports": [
+   "企业家、合伙人、艺术家、工人、零售者、赞助人和消费者共同形成商品网络"
+  ],
+  "does_not_support": [
+   "行动者被企业档案不均衡照亮，普通工人和消费者声音较弱"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0230",
+  "claim": "制造品由制模者、工匠、企业主和销售体系协作形成，生产决策权不能归给单一设计师",
+  "source_id": "B0328",
+  "source_location": "逐企业核图样签名、委托、审批和生产记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "anonymous_design_and_entrepreneurial_power",
+  "supports": [
+   "制造品由制模者、工匠、企业主和销售体系协作形成，生产决策权不能归给单一设计师"
+  ],
+  "does_not_support": [
+   "不能据此抹除具体设计者的可证责任"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0231",
+  "claim": "Morris、Walker、Prince、Batchelor、Burne-Jones、转刻者、印工、编辑和校对共同形成书籍作者网络",
+  "source_id": "B0348",
+  "source_location": "补工人自述、工资、任务、署名和性别材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "book_as_collective_authorship_and_hidden_labour",
+  "supports": [
+   "Morris、Walker、Prince、Batchelor、Burne-Jones、转刻者、印工、编辑和校对共同形成书"
+  ],
+  "does_not_support": [
+   "档案可见度不等于贡献大小，女性与印工声音较弱"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0232",
+  "claim": "作坊、制造商、业余者、学生、女性、贸易商与设计者共同构成运动生产网络",
+  "source_id": "B0450",
+  "source_location": "补印记、合同、工资、岗位、工序、协会与个人材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.5"
+  ],
+  "textbook_function": "workshops_firms_amateurs_students_women_and_distributed_authorship",
+  "supports": [
+   "作坊、制造商、业余者、学生、女性、贸易商与设计者共同构成运动生产网络"
+  ],
+  "does_not_support": [
+   "名单与展品不能自动说明职责、权力、报酬或作者权"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0233",
+  "claim": "industrial arts、commercial art与industrial design的组织、教育和职业变化可构成概念史线索",
+  "source_id": "B0031",
+  "source_location": "补同期词典、课程、职位、协会章程和统计",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "industrial_arts_commercial_art_and_industrial_design",
+  "supports": [
+   "industrial arts、commercial art与industrial design的组织、教育和职业变化可"
+  ],
+  "does_not_support": [
+   "作者的成熟职业结局不能倒推早期术语都指向工业设计"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0234",
+  "claim": "设计者、工匠、业主、经理、零售者与印刷者等角色在同一企业内交叠",
+  "source_id": "B0070",
+  "source_location": "补同期职位、合同、行业组织与职业称谓",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "designer_craftsman_owner_manager_and_worker_roles",
+  "supports": [
+   "设计者、工匠、业主、经理、零售者与印刷者等角色在同一企业内交叠"
+  ],
+  "does_not_support": [
+   "不能把这些角色直接等同于20世纪职业工业设计师"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0235",
+  "claim": "时尚在现代主义设计史中被女性化和边缘化，显示学科与职业分类的性别政治",
+  "source_id": "B0080",
+  "source_location": "补学科史、课程、协会、企业职位和近期研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "fashion_designer_and_gendered_design_history",
+  "supports": [
+   "时尚在现代主义设计史中被女性化和边缘化，显示学科与职业分类的性别政治"
+  ],
+  "does_not_support": [
+   "1990年代学科诊断需用后续教育、出版和职业数据更新"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0236",
+  "claim": "设计可同时作为人类能力、专业活动和经济制度角色分析",
+  "source_id": "B0084",
+  "source_location": "补同期词源、职位、学校、协会和企业制度材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "design_definition_value_and_profession",
+  "supports": [
+   "设计可同时作为人类能力、专业活动和经济制度角色分析"
+  ],
+  "does_not_support": [
+   "三个层级不得混写成同一跨历史词义"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0237",
+  "claim": "School、Guild、Hon. Director、craftsman、designer与limited company展示职业和组织称谓竞争",
+  "source_id": "B0091",
+  "source_location": "补章程、职位、工资、课程和同期用语",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "school_guild_designer_craftsman_director_and_company_roles",
+  "supports": [
+   "School、Guild、Hon. Director、craftsman、designer与limited compan"
+  ],
+  "does_not_support": [
+   "角色名称不自动说明技能边界、控制权或现代设计师身份"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0238",
+  "claim": "印刷商、铸字商、工匠、艺术家和专业人士的自我定义可补设计职业分化前史",
+  "source_id": "B0097",
+  "source_location": "补行业组织、职业统计、教育和同时代反方文本",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "printer_typefounder_designer_and_professional_identity",
+  "supports": [
+   "印刷商、铸字商、工匠、艺术家和专业人士的自我定义可补设计职业分化前史"
+  ],
+  "does_not_support": [
+   "作者的professional优于trade是1922年规范立场而非中性演进"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0239",
+  "claim": "设计与艺术、工艺、制作、企业和职业角色的区分可作为概念史框架",
+  "source_id": "B0101",
+  "source_location": "补同期词典、职位、学校、协会、企业和争论文本",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "design_craft_industrial_and_professional_distinctions",
+  "supports": [
+   "设计与艺术、工艺、制作、企业和职业角色的区分可作为概念史框架"
+  ],
+  "does_not_support": [
+   "导论定义是2010年的回顾性分析，不能倒投早期术语"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0240",
+  "claim": "industrial artist、design reform、property of skill与taste等同期用语显示设计概念和角色竞争",
+  "source_id": "B0175",
+  "source_location": "补同期词典、课程、职位、协会和企业用语",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "industrial_artist_design_reform_skill_and_taste_concepts",
+  "supports": [
+   "industrial artist、design reform、property of skill与taste等同期用语"
+  ],
+  "does_not_support": [
+   "这些术语不能直接翻译为成熟的现代设计师职业"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0241",
+  "claim": "工业设计概念可追踪构思、视觉形式、机械复制和专业岗位逐步组合的过程",
+  "source_id": "B0225",
+  "source_location": "补同期词典、industrial art、decorative art、职位、学校和行业组织",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "industrial_design_definition_and_professional_emergence",
+  "supports": [
+   "工业设计概念可追踪构思、视觉形式、机械复制和专业岗位逐步组合的过程"
+  ],
+  "does_not_support": [
+   "1980年的操作性定义不是跨时期中性词义"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0242",
+  "claim": "manufacturer、商人、品味立法者、广告者和零售者等角色显示工业艺术的职业功能分化",
+  "source_id": "B0305",
+  "source_location": "补同期称谓、合同、行业组织与教育材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "manufacturer_marketer_taste_legislator_and_retail_roles",
+  "supports": [
+   "manufacturer、商人、品味立法者、广告者和零售者等角色显示工业艺术的职业功能分化"
+  ],
+  "does_not_support": [
+   "不等于现代职业设计师已经形成"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0243",
+  "claim": "lesser arts、decorative arts、popular art与Architecture的扩展用法可构成19世纪概念史材料",
+  "source_id": "B0318",
+  "source_location": "与同期词典、学校、组织、批评家和职业文本比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "lesser_decorative_popular_art_concept_history",
+  "supports": [
+   "lesser arts、decorative arts、popular art与Architecture的扩展用法可构成"
+  ],
+  "does_not_support": [
+   "这些用法属于莫里斯立场而非当时唯一或现代通行定义"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0244",
+  "claim": "design作为外观与生产指令的双重活动在劳动分工、版权、教育和改革话语中制度化",
+  "source_id": "B0328",
+  "source_location": "补词源、学校、行业组织和职业统计",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "design_concept_and_professional_specialization",
+  "supports": [
+   "design作为外观与生产指令的双重活动在劳动分工、版权、教育和改革话语中制度化"
+  ],
+  "does_not_support": [
+   "英国术语与制度不能直接外推全球"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0245",
+  "claim": "37条命题直接呈现装饰艺术、制造、原则与教育的行动者概念",
+  "source_id": "B0332",
+  "source_location": "同学校课程、制造记录和批评接受互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "industrial_and_decorative_arts_actor_concepts",
+  "supports": [
+   "37条命题直接呈现装饰艺术、制造、原则与教育的行动者概念"
+  ],
+  "does_not_support": [
+   "它是规范文本，不是19世纪实践已实现的统计描述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0246",
+  "claim": "Art Nouveau命名、ensemblier与装饰艺术平权显示设计身份和门类重组",
+  "source_id": "B0338",
+  "source_location": "补各地同期称谓、协会、职位、教育和行业文件",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "art_nouveau_naming_ensemblier_and_design_categories",
+  "supports": [
+   "Art Nouveau命名、ensemblier与装饰艺术平权显示设计身份和门类重组"
+  ],
+  "does_not_support": [
+   "店名传播为风格名不等于全体行动者接受统一自称"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0247",
+  "claim": "书设计师、印刷者、编辑、秘书、刻工和企业管理等角色的区分可进入职业概念史",
+  "source_id": "B0348",
+  "source_location": "补同期称谓、职位、合同和更长印刷职业史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "book_designer_printer_editor_manager_and_craft_roles",
+  "supports": [
+   "书设计师、印刷者、编辑、秘书、刻工和企业管理等角色的区分可进入职业概念史"
+  ],
+  "does_not_support": [
+   "‘发明书设计师’是作者解释，Moxon等前史已构成反例"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0248",
+  "claim": "运动不是单一风格；design reform、Sachlichkeit、Typisierung等地方术语显示概念竞争",
+  "source_id": "B0450",
+  "source_location": "保留原语、时段、行动者、机构和使用语境",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "movement_not_style_design_reform_and_local_terms",
+  "supports": [
+   "运动不是单一风格；design reform、Sachlichkeit、Typisierung等地方术语显示概念竞争"
+  ],
+  "does_not_support": [
+   "译名相近不等于语义、职业制度或社会目标相同"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0249",
+  "claim": "37条命题构成19世纪装饰设计理论与原创性争论的核心文本",
+  "source_id": "P0040",
+  "source_location": "分别核命题、图版来源、协作者和后期作品",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.6"
+  ],
+  "textbook_function": "grammar_originality_and_design_theory",
+  "supports": [
+   "37条命题构成19世纪装饰设计理论与原创性争论的核心文本"
+  ],
+  "does_not_support": [
+   "论文支持的是理论和处理的原创性，不是所有图样由Jones原创"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0250",
+  "claim": "地方生产可通过工艺适配、订货翻译和市场选择生成混合而非复制的结果",
+  "source_id": "B0005",
+  "source_location": "补亚洲、非洲、美洲的生产者档案与对象序列",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "local_production_global_connections",
+  "supports": [
+   "地方生产可通过工艺适配、订货翻译和市场选择生成混合而非复制的结果"
+  ],
+  "does_not_support": [
+   "景德镇与印度棉布案例不能证明所有地区采取同一路径"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0251",
+  "claim": "机械化、手工生产、去工业化与再工业化在不同地区非同步发生",
+  "source_id": "B0040",
+  "source_location": "补区域工业史和对称比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "uneven_regional_industrialization",
+  "supports": [
+   "机械化、手工生产、去工业化与再工业化在不同地区非同步发生"
+  ],
+  "does_not_support": [
+   "作者三阶段框架对中国社会主义工业化等路径解释有限"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0252",
+  "claim": "不同地区的手工前工业与工业方式长期共存且非同步组合",
+  "source_id": "B0084",
+  "source_location": "与区域劳动史、殖民史和企业史交叉验证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "coexisting_global_production_layers",
+  "supports": [
+   "不同地区的手工前工业与工业方式长期共存且非同步组合"
+  ],
+  "does_not_support": [
+   "全球材料仍偏薄且层叠不等于关系平等"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0253",
+  "claim": "地方织机、进口布、工厂纱与新染料长期并存并被选择性重组",
+  "source_id": "B0086",
+  "source_location": "补其他西非区域、印度布来源和殖民政策比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "west_african_mixed_technical_trajectories",
+  "supports": [
+   "地方织机、进口布、工厂纱与新染料长期并存并被选择性重组"
+  ],
+  "does_not_support": [
+   "下尼日尔案例不能代表整个非洲"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0254",
+  "claim": "奥斯曼各区域呈现家庭手工、外放制和机械生产的非同步混合路径",
+  "source_id": "B0130",
+  "source_location": "与B0086、B0259、B0334及地方研究比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "ottoman_regional_mixed_production",
+  "supports": [
+   "奥斯曼各区域呈现家庭手工、外放制和机械生产的非同步混合路径"
+  ],
+  "does_not_support": [
+   "奥斯曼经验不能代表印度、中国或全部伊斯兰地区"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0255",
+  "claim": "区域专业化去工业化与新旧技术组织并存可同时发生",
+  "source_id": "B0132",
+  "source_location": "补欧洲亚洲殖民地与区域微观研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "regional_and_hybrid_production",
+  "supports": [
+   "区域专业化去工业化与新旧技术组织并存可同时发生"
+  ],
+  "does_not_support": [
+   "英国经验不能直接外推全球"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0256",
+  "claim": "行会对创新的作用取决于内部权力国家关系竞争技能和资本条件并呈区域差异",
+  "source_id": "B0149",
+  "source_location": "补南北东欧亚洲和殖民地比较以及失败案例",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "conditional_and_regional_institutional_variation",
+  "supports": [
+   "行会对创新的作用取决于内部权力国家关系竞争技能和资本条件并呈区域差异"
+  ],
+  "does_not_support": [
+   "案例集中中西欧且缺少无行会的对称反事实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0257",
+  "claim": "景德镇、东亚、伊斯兰陶业、德尔夫特、梅森与英国工厂呈现不同的手工宫廷市场和机械混合路径",
+  "source_id": "B0154",
+  "source_location": "补中国地区史、东南亚、本地劳动史与反方全球陶瓷史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "jingdezhen_east_asia_islamic_and_european_mixed_paths",
+  "supports": [
+   "景德镇、东亚、伊斯兰陶业、德尔夫特、梅森与英国工厂呈现不同的手工宫廷市场和机械混合路径"
+  ],
+  "does_not_support": [
+   "大区域标签与西方胜利结局会压平内部差异和持续手工生产"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0258",
+  "claim": "印度、奥斯曼、欧洲和大西洋棉花体系呈现手工机器贸易与强制劳动的非同步重组",
+  "source_id": "B0169",
+  "source_location": "与B0086、B0130和更多地区研究交叉校正",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "india_europe_ottoman_and_atlantic_mixed_trajectories",
+  "supports": [
+   "印度、奥斯曼、欧洲和大西洋棉花体系呈现手工机器贸易与强制劳动的非同步重组"
+  ],
+  "does_not_support": [
+   "两体系模型可能压平非洲、中国及地方内部差异"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0259",
+  "claim": "所谓美国体制与欧洲方法长期并存，技术扩散受成本、组织和市场约束",
+  "source_id": "B0192",
+  "source_location": "补欧洲、亚洲和殖民地制造史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "american_and_european_methods_uneven_diffusion",
+  "supports": [
+   "所谓美国体制与欧洲方法长期并存，技术扩散受成本、组织和市场约束"
+  ],
+  "does_not_support": [
+   "英美比较不等于全球区域比较"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0260",
+  "claim": "工业化表现为手工、外包、工场、工厂和机器生产持续分化与共存",
+  "source_id": "B0225",
+  "source_location": "与B0086、B0130、B0169及区域史比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "diversification_and_mixed_production",
+  "supports": [
+   "工业化表现为手工、外包、工场、工厂和机器生产持续分化与共存"
+  ],
+  "does_not_support": [
+   "欧美通史不足以代表亚洲殖民地和全球区域路径"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0261",
+  "claim": "劳动密集与能源密集路径并非文明本质而受区域资源、人口和全球关联塑造",
+  "source_id": "B0259",
+  "source_location": "补区域微观史和不同工业化路径",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "regional_divergence_and_contingency",
+  "supports": [
+   "劳动密集与能源密集路径并非文明本质而受区域资源、人口和全球关联塑造"
+  ],
+  "does_not_support": [
+   "宏观模型不能抹平区域内部不平等"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0262",
+  "claim": "亚洲差异化生产与英国材料替代、模仿和再组合构成不对称而混合的工业化路径",
+  "source_id": "B0304",
+  "source_location": "补亚洲生产者、贸易中介和殖民制度材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "asian_production_and_british_recombination",
+  "supports": [
+   "亚洲差异化生产与英国材料替代、模仿和再组合构成不对称而混合的工业化路径"
+  ],
+  "does_not_support": [
+   "不能写成亚洲仅提供灵感、英国独自完成创新"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0263",
+  "claim": "英国、印度、中国、日本和奥斯曼对不同压力采取不同路径且殖民统治会限制技术移植",
+  "source_id": "B0334",
+  "source_location": "补地区比较和殖民地企业档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "plural_development_and_colonial_constraint",
+  "supports": [
+   "英国、印度、中国、日本和奥斯曼对不同压力采取不同路径且殖民统治会限制技术移植"
+  ],
+  "does_not_support": [
+   "不能将印度或亚洲处理为同质整体"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0264",
+  "claim": "英国、德国、奥地利、北欧与美国呈现不同手工—机器混合路径",
+  "source_id": "B0450",
+  "source_location": "以同类对象和组织材料做受控比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "1.7"
+  ],
+  "textbook_function": "hand_machine_workshop_factory_and_regional_hybrid_production",
+  "supports": [
+   "英国、德国、奥地利、北欧与美国呈现不同手工—机器混合路径"
+  ],
+  "does_not_support": [
+   "国别概括内部仍有企业、地区、阶级和对象差异"
+  ],
+  "status": "candidate"
+ }
+]

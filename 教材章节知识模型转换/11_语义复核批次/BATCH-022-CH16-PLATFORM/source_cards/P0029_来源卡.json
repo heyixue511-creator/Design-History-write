@@ -1,0 +1,35 @@
+{
+  "source_id": "P0029",
+  "corpus": "paper",
+  "folder_name": "Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu",
+  "material_type": "交互设计研究方法论论文（三角模型）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 4516}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "research_triangle_model"},
+    {"section_id": "15.2", "grade": "C", "verification": "V2", "role": "design_exploration_third_vertex"},
+    {"section_id": "14.3", "grade": "C", "verification": "V2", "role": "exploration_beyond_hci"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Daniel Fallman（Umeå Institute of Design, Umeå University, Sweden），《The Interaction Design Research Triangle of Design Practice, Design Studies, and Design Exploration》，设计研究期刊论文（约2004；正文未附期刊信息，不作编造）",
+    "三角模型：交互设计研究在design practice（设计实践）、design studies（设计研究）、design exploration（设计探索）三个活动区之间构成二维空间",
+    "核心命题：①三活动区在方法工具上可相似，本质区别在传统与视角；②三区合一才把交互设计研究确立为学科，区别于HCI、CSCW、信息学、人类学等相邻学科；③最有价值的研究来自活动区之间的'移动'（moving in-between）——移动能力使研究'fresh, innovative, and unique'；④参与式（第一人称）知识（engaged knowledge）是外部视角不可得的；⑤design exploration是被其他模型忽视、对交互设计研究尤其关键的第三端",
+    "三种记号使区间移动可述可规划：trajectories（轨迹）、loops（回路）、dimensions（维度，六组：True-Real-Possible等）",
+    "design exploration：'What if?'、美学、挑衅（provoke）、超越（transcendence）、problem-setting——与批判设计脉络（Dunne & Raby）同思想系谱",
+    "模型用途：项目讨论、长期研究规划、质量度量区分；支撑三个外部界面：面向产业（practice）、面向学术界（studies）、面向社会（exploration）；组织内建立'洋泾浜式'（pidgin）共同语言",
+    "谱系：上承Simon《人工科学》与Schön/Ehn反思超越思想，下启'研究通过设计'话语",
+    "限度：经验基础单一（单一机构）；'视角/传统'区分缺乏操作化标准；探索端质量担保（guarantor）问题悬而未决；文本L49-L51乱序、脚注大量缺失",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L16-18：三角模型总纲与学科身份",
+    "L41-63：设计探索区（美学/挑衅/What if）",
+    "L75-82：区间移动观",
+    "L151-165：模型五种用途",
+    "L195-207：三界面与共同语言"
+  ]
+}

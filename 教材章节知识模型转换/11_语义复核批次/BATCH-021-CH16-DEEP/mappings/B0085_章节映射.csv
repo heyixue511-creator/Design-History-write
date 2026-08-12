@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0085,16.3,C,V2,explanatory_communication,将数据转化为有效沟通的关键在'用数据讲故事'（解释性沟通六课框架）；始于沟通情境理解（Who/What/How）——16.3数据呈现实践,作者实践理论（2015）；Google培训经验,分析报告（Ch.1、8）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0085,16.3,C,V2,preattentive_attributes,前注意属性（大小、颜色、空间位置）在不到一秒内被无意识捕捉——16.3可见性设计认知工具,作者理论（2015）；认知心理学证据,分析报告（Ch.4）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0085,16.3,C,V2,data_ink_gestalt,'空白页面上的每一个元素都会占用受众的认知负荷'——数据墨水比与格式塔原则用于去杂——16.3呈现规范,作者理论（2015）；借Tufte/Duarte框架,分析报告（Ch.3）,ACCEPTED_AS_SUPPORTING_SOURCE

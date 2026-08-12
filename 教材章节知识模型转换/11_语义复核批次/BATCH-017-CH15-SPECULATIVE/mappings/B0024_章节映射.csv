@@ -1,0 +1,6 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0024,15.2,A,V2,speculative_design_manifesto,思辨设计宣言（A/B宣言）：设计从解决问题扩展到提出问题；PPPP未来圆锥（Probable/Plausible/Possible/Preferable）——15.2核心理论,行动者宣言（2013）；思辨设计的社会影响证据有限（作者自认探索性）,Preface与Ch1分析报告,ACCEPTED_AS_CORE_SOURCE
+B0024,15.2,A,V2,physical_fictions_props,物理虚构（Physical Fictions）：思辨对象作为"虚构道具"（props）——Walton假装理论与"叙事内原型"（diegetic prototype）——设计虚构与道具,作者理论（2013）；道具运作机制为哲学框架（Walton）,Ch6分析报告,ACCEPTED_AS_CORE_SOURCE
+B0024,15.1,A,V2,critical_design_definition,批判设计定义："同时立足于此世与尚未存在之世"；"指南针而非地图"变革理论——15.1批判性对象,作者定义（2013）；批判设计的评价标准为行动者主张,Ch3分析报告,ACCEPTED_AS_CORE_SOURCE
+B0024,15.3,B,V2,exhibition_context,思辨设计的展览与传播策略（思辨珍奇柜、链式反应；MoMA/Science Gallery/北京国际设计三年展）——15.3展览化语境的前史,策展实践（2013）；展览效果数据未核,Ch8分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0024,15.7,B,V2,micro_utopias,"一百万个小乌托邦"与国家尺度思想实验（United Micro Kingdoms）：个体想象力驱动的微观世界建构——15.7多元世界的思辨路径,作者方案（2013）；乌托邦方案的实现路径为愿景性论述,Ch9分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

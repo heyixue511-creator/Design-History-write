@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0163,14.3,B,V2,ux_five_planes_model,用户体验可被建模为五个自下而上、相互依赖的决策层面（战略→范围→结构→骨架→表现）；UX设计过程是'将隐性知识显性化'——从'未明言的共识'走向战略文档与可验证成功指标——用户中心设计方法论框架——14.3HCI与设计方法的汇合,作者理论框架（2011第二版）；五层模型与案例,00_整体分析报告（论题一/三、第二章）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0163,14.6,C,V2,shared_vocabulary_collaboration,五层模型将交互设计、信息设计、信息架构、界面设计统一为共享概念词汇，使组织内不同角色（策略、设计、开发、管理）的跨职能协作成为可能——设计规模化的组织协同基础——14.6设计系统与平台规模化,作者理论框架（2011第二版）；概念整合功能,00_整体分析报告（1.3全书总体功能）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0163,16.5,C,V2,right_questions_epistemology,用户体验的根本在于'提出正确的问题'而非'给出正确的答案'——认识论（知道问什么）优先于方法论（知道怎么做）；产品同时作为功能工具与信息媒介的双重性——16.5设计方法认识论（弱支撑）,作者理论框架（2011第二版）；导言自述,00_整体分析报告（论题二/四）,ACCEPTED_AS_SUPPORTING_SOURCE

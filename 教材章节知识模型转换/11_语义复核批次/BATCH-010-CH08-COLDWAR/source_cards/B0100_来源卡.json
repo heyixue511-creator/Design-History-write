@@ -1,0 +1,37 @@
+{
+  "source_id": "B0100",
+  "corpus": "book",
+  "folder_name": "David Crowley：《Warsaw》",
+  "material_type": "城市文化史专著（华沙个案）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\David Crowley：《Warsaw》.md",
+  "duplicate_group": "与B0099（Crowley/Reid《Socialist Spaces》）共享华沙室内对象（M2/M3标准公寓、《Ty i Ja》杂志、宪法广场MDM）；同一档案（波兰流行杂志、规划文件）只计一份P0",
+  "files": [{"report_file_count": 13, "report_characters": 28464}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.2", "grade": "A", "verification": "V2", "role": "warsaw_home_life_socialism"},
+    {"section_id": "8.2", "grade": "B", "verification": "V2", "role": "mdm_consumer_space_lifecycle"},
+    {"section_id": "8.1", "grade": "B", "verification": "V2", "role": "socialist_consumption_promise"},
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "reconstruction_political_narrative"},
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "monument_social_memory"},
+    {"section_id": "0.6", "grade": "B", "verification": "V2", "role": "everyday_practice_vs_ideology"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Reaktion Books《Topographics》丛书，2003年，208页；Crowley（皇家艺术学院设计史学者）华沙个案城市文化史",
+    "三章框架：纪念碑与废墟、商店与市场、城市中的家；时间跨度1944年至21世纪初（社会主义PRL全程＋1989后转型）",
+    "核心论点：华沙重建不是中立技术过程而是政治化的历史叙事争夺；波兰社会主义'始终缺乏愿景'（对比苏联乌托邦冲动）；'kulturalny'（有教养的）理想作为延续性文化话语",
+    "方法：理论与案例嵌入叙事（Barthes studium/punctum、Habermas公共领域、Verdery社会主义消费、Bourdieu habitus）；图像作为与文字平权的分析对象",
+    "材料：波兰流行杂志（Stolica、Ty i Ja、Przekrój）、规划文件（华沙六年重建计划1949/1951）、电影（Wajda、Kieślowski《十诫》）、文学文本",
+    "本书为城市文化史而非设计史专著：设计史证据须从空间与消费实践中提取；与B0099共享华沙对象时只计一份P0",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "老城重建选择17—18世纪巴洛克外观而非1939年实际状态——意识形态干预（抹去19世纪俄国统治痕迹）",
+    "科学文化宫作为苏联帝国象征的强加与消解（糖制模型的反讽）",
+    "宪法广场MDM完整生命周期：社会主义示范消费空间→1990年代街头市场无序占领→新千年'文明化'整治",
+    "解冻时期现代商店（Supersam超市）、霓虹灯景观与'社会主义消费'许诺；1952年'Oto Ameryka'冷战宣传展意外受欢迎",
+    "1980年代临时纪念碑（街道鲜花十字架）作为'反记忆'实践",
+    "《Ty i Ja》杂志推动'家居即品味'话语（1960—1970年代初）——与B0099共享对象"
+  ]
+}

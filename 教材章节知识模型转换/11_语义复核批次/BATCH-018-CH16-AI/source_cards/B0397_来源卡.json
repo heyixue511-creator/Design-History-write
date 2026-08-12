@@ -1,0 +1,20 @@
+{
+  "source_id": "B0397",
+  "corpus": "book",
+  "folder_name": "Simon, Herbert A.：The Sciences of the Artificial, 1969",
+  "material_type": "人工科学（VGRP015副条目）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Simon, Herbert A.：The Sciences of the Artificial, 1969_clean.md",
+  "duplicate_group": "VGRP015：资产ID标注1969，但内容实为第三版（1996）第3—8章＋索引——与B0423同一版次的不完整转换；只计一个独立书目实体，B0423承担全部命题",
+  "files": [{"report_file_count": 14, "report_characters": 5167}],
+  "report_structure": {"review_basis": "duplicate_of_B0423"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "VGRP015（2026-08-12建立）：B0397标注1969但内容实为第三版（1996）第3—8章（分析报告明示'本clean文件不含初版第1、2章'），与B0423为同一版次不同转换",
+    "B0423已完成语义复核（3条映射：16.1×2、16.6×1）；本条目复核结论完全复用B0423",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0423）标记",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

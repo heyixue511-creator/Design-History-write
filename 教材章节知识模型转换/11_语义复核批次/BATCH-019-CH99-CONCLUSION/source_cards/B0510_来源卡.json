@@ -1,0 +1,35 @@
+{
+  "source_id": "B0510",
+  "corpus": "book",
+  "folder_name": "设计与历史的质疑",
+  "material_type": "设计史批判理论（Fry/Dilnot/Stewart合著中译）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\设计与历史的质疑.md",
+  "duplicate_group": "与B0413（本体论设计概念）、B0032（设计未来学）共享理论族；本书为'去未来化'与设计史批判主源",
+  "files": [{"report_file_count": 10, "report_characters": 4412}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "design_history_critique"},
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "defuturing"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "ontological_design_history"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Fry（澳）/Dilnot（美）/Stewart（澳）合著，Bloomsbury 2015；赵泉泉、张黎译，江苏凤凰美术出版社2020（凤凰文库·设计理论研究系列）",
+    "立论前提：设计史在很大程度上没有认识到设计的历史意义，因而忽略了设计的未来能动性，也无视当代'历史学科的危机'",
+    "'将历史从设计思想中切除的做法，使贯穿于设计的认知从设计所参与的各条时间轨迹的认知中隔离了出来'；'历史就是关键所在'",
+    "核心概念：去未来化（defuturing）——设计及其产物消解未来可能性、导致结构不可持续性；世界中的世界（world-within-the-world）；本体论设计；操演联合体；创制（poiesis）vs实践（praxis）；实践智慧（phronesis）",
+    "三章结构：第1章弗赖（历史哲学：尼采/海德格尔/本雅明/福柯/德里达/马克思；大屠杀作为'为了死亡的设计'个案）；第2章迪尔诺特（人造世界作为历史条件；柏林'记忆之所'纪念装置）；第3章斯图尔特（操演联合体与设计史教育）",
+    "历史危机：19世纪末反历史科学的第一次危机与后现代对历史叙事认识论主张的第二次危机",
+    "限度：理论密度高、概念铸造密集；个案（大屠杀、记忆之所）的实证基础以二手文献为主",
+    "本书为设计史批判（A级）：对C.0承担设计史反思与去未来化命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L178：设计史没有认识到设计的历史意义——立论前提",
+    "L1954：'将历史从设计思想中切除的做法'——隔离诊断",
+    "L269：去未来化（defuturing）概念",
+    "L1025：大屠杀被读解为'为了死亡的设计'",
+    "L1714：柏林'记忆之所'（Places of Remembrance）纪念装置"
+  ]
+}

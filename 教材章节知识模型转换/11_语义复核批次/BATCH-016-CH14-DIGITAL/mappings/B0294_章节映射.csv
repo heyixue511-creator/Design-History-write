@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0294,14.5,A,V2,service_design_five_principles,服务设计思维五原则（以用户为中心/共同创造/序列化/物证化/整体性）——14.5核心框架,方法论框架（2010）；原则的行业普及以专史为准,整体分析报告（3.2）,ACCEPTED_AS_CORE_SOURCE
+B0294,14.5,A,V2,service_design_tools,25种服务设计工具（Explore/Create & Reflect/Implement三阶段）与迭代四步流程、AT-ONE方法——14.5方法论,工具手册（2010）；工具成效以项目为准,Part 3-4分析报告,ACCEPTED_AS_CORE_SOURCE
+B0294,14.5,B,V2,service_design_cases,5个真实服务设计案例（政府/警务/招聘/医疗/银行）——服务设计实践,案例描述（2010）；案例成效以委托方档案为准,Part 5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0294,14.5,C,V2,service_design_discipline,服务设计从实践领域向学术领域的制度化（九种定义并置、研究史回顾）——学科制度化,学科建设文献（2010）；制度化进程以学术史为准,Part 6分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

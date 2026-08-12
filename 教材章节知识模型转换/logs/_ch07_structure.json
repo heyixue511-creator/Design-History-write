@@ -404,9 +404,9 @@
   "grades": {
    "B": 3,
    "A": 2,
-   "C": 3
+   "C": 4
   },
-  "count": 8,
+  "count": 9,
   "items": [
    {
     "source_id": "B0235",
@@ -459,6 +459,16 @@
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
+    "source_id": "B0059",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "maldonado_comfort_discipline_ulm",
+    "accepted_claim": "乌尔姆传统的物质文化批判（跨章）：Maldonado“舒适作为资本主义社会的规训机制”（维多利亚住房改革、厨房泰勒化、浴室隐私建构）——乌尔姆核心人物的意识形态分析，7.4乌尔姆遗产的批判侧",
+    "evidence_boundary": "新马克思主义理论分析；历史案例（维多利亚住房改革）须回档案核实",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
     "source_id": "B0401",
     "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
     "grade": "C",
@@ -492,9 +502,10 @@
  },
  "7.5": {
   "grades": {
-   "B": 5
+   "B": 5,
+   "C": 1
   },
-  "count": 5,
+  "count": 6,
   "items": [
    {
     "source_id": "B0234",
@@ -545,17 +556,27 @@
     "accepted_claim": "布劳恩企业设计：1921年成立、1954年起与乌尔姆合作、古格洛特与拉姆斯、1957年米兰三年展XI大奖、拉姆斯好设计十原则——联邦德国企业设计与视觉统一的教材叙述",
     "evidence_boundary": "二手综合；产品—年份—奖项信息可参照，机制解释（系统设计）以原始研究为准",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0108",
+    "title": "Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic",
+    "grade": "C",
+    "verification": "V2",
+    "role": "rams_braun_minimalism_statement",
+    "accepted_claim": "联邦德国企业设计行动者陈述（跨章）：Rams以Braun实践阐述“省略不重要之物”的减法哲学——7.5布劳恩/拉姆斯线的行动者原典（与B0235/B0503二手叙述互校）",
+    "evidence_boundary": "行动者自述（P0性质）；十原则完整版本须与Rams后续文本核对",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    }
   ]
  },
  "7.6": {
   "grades": {
-   "C": 9,
+   "C": 10,
    "A": 3,
    "D": 2,
    "B": 4
   },
-  "count": 18,
+  "count": 19,
   "items": [
    {
     "source_id": "B0076",
@@ -696,6 +717,16 @@
     "accepted_claim": "北欧工艺—工业关系可获得19世纪末至20世纪初的谱系入口",
     "evidence_boundary": "1971年概括过旧，不能承担战后北欧福利、工业或消费史",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0337",
+    "title": "Paul Greenhalgh (ed.)：《Modernism in Design》，1990",
+    "grade": "C",
+    "verification": "V2",
+    "role": "swedish_middle_path_vackrare_vardagsvara",
+    "accepted_claim": "瑞典现代主义中间道路：Vackrare Vardagsvara（更美的日常用品，Paulsson 1919）在工艺传统与工业理性之间取得平衡，1930斯德哥尔摩展“可被接受的现代面孔”——北欧制度基础的功能机制（跨章）",
+    "evidence_boundary": "单章案例（Naylor）；与B0168/B0076北欧对象共享只计一份P0",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    },
    {
     "source_id": "B0388",

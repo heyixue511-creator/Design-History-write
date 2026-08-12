@@ -1,0 +1,32 @@
+{
+  "source_id": "B0043",
+  "corpus": "book",
+  "folder_name": "Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent",
+  "material_type": "批判实践分类学论文",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent.md",
+  "duplicate_group": "与B0301（Malpass专著）为同一作者；三分法分类学与B0301共享，论文为专著前身",
+  "files": [{"report_file_count": 12, "report_characters": 17865}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.2", "grade": "B", "verification": "V2", "role": "taxonomy_three_types"},
+    {"section_id": "15.3", "grade": "C", "verification": "V2", "role": "critical_practice_legitimacy"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Malpass（中央圣马丁），Design and Culture Vol.5 No.3 (2013)，pp.333-356；基于深度访谈与文献综述的质性实证研究",
+    "分类学框架：联想式设计（associative）、思辨式设计（speculative）、批判设计（critical）——以讽刺理论（Horatian温和戏仿/Juvenalian激烈震撼）、叙事类型（嵌入式/外在）和对象理性三维为轴线",
+    "学术渊源：联想式来自设计师-制造者传统与观念艺术；思辨式与STS紧密关联；批判设计源于HCI与交互设计（援引Pullin 2010指出将批判设计等同于Dunne & Raby传统的问题）",
+    "案例：Gamper《100天100把椅子》、Auger《气味+》、Dunne & Raby《这是你的未来吗？》",
+    "呼吁：批判实践超越'为设计而设计'封闭话语，获得作为严肃设计形式的学科合法性",
+    "本书为批判实践分类学论文（B级）：对15.2承担三分法、15.3承担合法性讨论（与B0301专著互补）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "三分法：联想式/思辨式/批判式——讽刺、叙事、对象理性三维",
+    "Horatian vs Juvenalian讽刺定位",
+    "学术渊源：联想式-观念艺术、思辨式-STS、批判式-HCI",
+    "'自我封闭''为设计而设计'指责——学科合法性呼吁",
+    "案例：Gamper、Auger、Dunne & Raby"
+  ]
+}

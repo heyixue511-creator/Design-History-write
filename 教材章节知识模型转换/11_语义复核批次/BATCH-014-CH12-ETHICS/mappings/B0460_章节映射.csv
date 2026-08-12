@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0460,12.5,B,V2,universal_design_handbook_global,通用设计手册（69章）：七项原则、联合国标准规则、美国无障碍法规与跨国实践（美/日/欧/发展中经济）——通用设计的制度与标准侧,手册综述（2001）；各章制度细节以原始法规为准,Ch10-12等分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0460,12.5,B,V2,compliance_paradox_evolution,"合规→通用→悖论→充分"制度演替模型与"利他→自利"动机翻转——通用设计的制度演化,知识涌现结论（2001）；模型为分析框架非史实,整体分析报告（知识涌现）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0460,12.5,C,V2,majority_world,"多数世界"（发展中经济）的通用设计现实检验——通用设计的全球不平等,手册章节（2001）；发展中经济数据时效有限,Ch5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

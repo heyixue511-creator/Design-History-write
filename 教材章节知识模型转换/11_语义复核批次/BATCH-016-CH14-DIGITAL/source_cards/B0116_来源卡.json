@@ -1,0 +1,20 @@
+{
+  "source_id": "B0116",
+  "corpus": "book",
+  "folder_name": "Designing Interactions",
+  "material_type": "交互设计口述史（DUP0002副条目）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Designing Interactions.md",
+  "duplicate_group": "DUP0002：与B0046为精确哈希重复（同一文本《Designing Interactions》Moggridge 2007）；只计一个独立书目实体，B0046承担全部命题",
+  "files": [{"report_file_count": 18, "report_characters": 0}],
+  "report_structure": {"review_basis": "duplicate_of_B0046"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "DUP0002（重复原文组，已登记）：B0116与B0046为同一文本精确哈希重复（sha256 2b44c006...）",
+    "B0046已完成语义复核（5条映射：14.2×2、14.3、14.5、14.1）；本条目复核结论完全复用B0046",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0046）标记，防止双重计证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

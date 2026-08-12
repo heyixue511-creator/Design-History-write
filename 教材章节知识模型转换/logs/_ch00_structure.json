@@ -1,11 +1,12 @@
 {
  "0.1": {
   "grades": {
-   "C": 2,
+   "C": 7,
    "B": 4,
-   "A": 5
+   "A": 5,
+   "X": 2
   },
-  "count": 11,
+  "count": 18,
   "items": [
    {
     "source_id": "B0059",
@@ -98,6 +99,16 @@
     "status": "ACCEPTED_AS_TRANSLATION_REFERENCE"
    },
    {
+    "source_id": "B0065",
+    "title": "Carl DiSalvo：《Adversarial Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_idea_reader",
+    "accepted_claim": "Design Issues 1984-1993论文选集（21篇）：\"激进的多元主义\"立场、设计作为\"研究的站点\"——设计观念读本（与B0059同书中译，VGRP012）",
+    "evidence_boundary": "中译本（2018）；重合命题与B0059不独立计证；本资产ID标注DiSalvo与实际内容不符（已更正）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0082",
     "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
     "grade": "C",
@@ -108,6 +119,26 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0152",
+    "title": "Fallan, Kjetil, Design History： Understanding Theory and Method, 2010",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_history_cultural_history",
+    "accepted_claim": "设计史=文化史；设计≈技术——设计史应升级为设计文化研究——0.1什么是设计史",
+    "evidence_boundary": "作者理论（2010）；学科命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0176",
+    "title": "Graphic Design Theory： Readings from the Field (Design -- Armstrong, Helen(Autho",
+    "grade": "C",
+    "verification": "V2",
+    "role": "theory_anthology",
+    "accepted_claim": "平面设计理论原始文献汇编（1909—2008）：宣言/隐喻/系统/批判四类论辩模式——设计理论教学资源",
+    "evidence_boundary": "文选（2009）；重复收录文本（Venturi、宣言）只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0209",
     "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
     "grade": "C",
@@ -116,17 +147,58 @@
     "accepted_claim": "消费者的挑剔（布幅、黄铜丝线径、念珠尺寸颜色）构成对器物形态的隐性约束，显示非设计专业人士如何参与器物规格塑造",
     "evidence_boundary": "规格证据来自商人信函与旅行记述而非设计档案，属间接证据",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0226",
+    "title": "John Heskett：《Toothpicks and Logos Design in Everyday Life》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_definition_human_capacity",
+    "accepted_claim": "设计定义（人类塑造环境的能力）与效用/意义二元工具：\"有了选择就有责任\"——设计概念资源",
+    "evidence_boundary": "作者定义（2002）；与B0059等定义论并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0418",
+    "title": "The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_philosophy_discipline",
+    "accepted_claim": "设计哲学作为区别于设计思维/设计研究的批判性事业：为设计领域提供哲学转向的文本网络——学科界定资源",
+    "evidence_boundary": "编者定位（2019）；'设计哲学'学科地位仍在形成中（作者自认）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0188",
+    "title": "Heskett, John：Design：A Very Short Introduction, 2005",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0226",
+    "accepted_claim": "与B0226为同一著作（Heskett《Design: A Very Short Introduction》/《Toothpicks and Logos》）不同书名/版次（VGRP010，版权页一致）；B0226已承担全部命题",
+    "evidence_boundary": "本条目不重复计证；引用以B0226为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0226"
+   },
+   {
+    "source_id": "B0417",
+    "title": "The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0273",
+    "accepted_claim": "与B0273为同一书目对象（《The Design History Reader》2010）的两个资产条目；B0273已承担全部命题（学科身份辩论、一次/二次/准一次文献等）",
+    "evidence_boundary": "本条目不重复计证；引用以B0273为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0273"
    }
   ]
  },
  "0.2": {
   "grades": {
    "A": 16,
-   "B": 31,
-   "C": 14,
-   "D": 1
+   "B": 34,
+   "C": 17,
+   "D": 1,
+   "X": 1
   },
-  "count": 62,
+  "count": 69,
   "items": [
    {
     "source_id": "B0008",
@@ -319,6 +391,16 @@
     "status": "ACCEPTED_AS_PERIODIZATION_SUPPORT"
    },
    {
+    "source_id": "B0071",
+    "title": "Charles Jencks：《The Language of Post-Modern Architecture》，1977",
+    "grade": "B",
+    "verification": "V2",
+    "role": "postmodern_term_history",
+    "accepted_claim": "后现代术语的权宜性、模糊性与多元含义（作者自述）；仅讨论盎格鲁-欧洲和日本语境——术语史与方法边界",
+    "evidence_boundary": "作者自限（1977）；术语的全球传播另见B0238",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0082",
     "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
     "grade": "B",
@@ -379,6 +461,16 @@
     "status": "ACCEPTED_WITH_COUNTERARGUMENT"
    },
    {
+    "source_id": "B0202",
+    "title": "Jean Baudrillard：《The Consumer Society Myths and Structures》，1970",
+    "grade": "B",
+    "verification": "V2",
+    "role": "consumer_society_theory",
+    "accepted_claim": "消费社会理论（1970）：消费从私人享乐领域重新界定为社会控制与意识形态整合场域——现代性批判的理论资源",
+    "evidence_boundary": "理论框架；\"异化终结\"判断为哲学命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0209",
     "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
     "grade": "B",
@@ -426,6 +518,16 @@
     "role": "utopia_as_design_engine",
     "accepted_claim": "乌托邦作为设计动力：三位行动者以艺术实践追求乌托邦理想，并与政治-经济现实持续协商",
     "evidence_boundary": "设计乌托邦主张是Margolin分析框架而非史实描述，引用须标注为命题；“协商”谱系（Bürger、Poggioli、Fitzpatrick）见专项报告",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0292",
+    "title": "Margolin：《World history of design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_spotty_distribution",
+    "accepted_claim": "现代性不均衡分布命题：两次世界大战之间现代设计被各国选择性接受、抵抗、改造和工具化，没有单一\"现代主义胜利\"叙事",
+    "evidence_boundary": "作者核心论点（2015）；作为分期与比较的方法论框架",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -619,6 +721,16 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0203",
+    "title": "Jean Baudrillard：《The System Of Objects》，1968",
+    "grade": "C",
+    "verification": "V2",
+    "role": "theory_resource",
+    "accepted_claim": "物体系理论（1968）作为消费社会理论的姊妹篇：功能/非功能/元功能三层模型与\"传统/现代\"辩证——现代性批判理论资源",
+    "evidence_boundary": "理论框架；历史转型模糊（作者自认）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0214",
     "title": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
     "grade": "C",
@@ -667,6 +779,16 @@
     "accepted_claim": "反身性现代化与设计：Beck/Giddens反身性现代化、风险社会理论在设计领域的应用（高端设计的风险美学、反身性消费）——现代性讨论的当代设计语境",
     "evidence_boundary": "理论应用为作者综合，反身性现代化理论本身须回溯Beck/Giddens原著",
     "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0274",
+    "title": "Lev Manovich：《Software Takes Command》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "software_epistemology",
+    "accepted_claim": "软件认识论：算法数据分析重新定义知识的获取与性质——媒介理论的数字转向",
+    "evidence_boundary": "作者理论（2013）；认识论命题为哲学判断",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0394",
@@ -719,6 +841,16 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0486",
+    "title": "朱和平：《世界现代设计史》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "linear_periodization_chinese_textbook",
+    "accepted_claim": "线性分期框架（滥觞→肇始→演进→成熟→反思→多元）与\"设计是艺术与技术动态平衡\"命题——中文教材分期参照",
+    "evidence_boundary": "作者框架（2013）；线性分期须与异步现代性命题并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0500",
     "title": "沈榆：《观念的演进：中国现代设计史》，2021",
     "grade": "C",
@@ -747,16 +879,26 @@
     "accepted_claim": "自动化与系统思维可作为现代性技术维度的例证材料，但本书不讨论现代性概念本身",
     "evidence_boundary": "文本无现代性理论框架，仅间接关联",
     "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0289",
+    "title": "Margolin, Victor, World History of Design, Volume 2, 2015",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0292",
+    "accepted_claim": "与B0292为同一著作《World History of Design》Vol 2（1917—1945）的不同数字化转换（VGRP007）；B0292已承担全部命题（现代性不均衡分布、苏联设计实验前史等）",
+    "evidence_boundary": "本条目不重复计证；引用以B0292为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0292"
    }
   ]
  },
  "0.3": {
   "grades": {
    "A": 29,
-   "B": 29,
+   "B": 30,
    "C": 3
   },
-  "count": 61,
+  "count": 62,
   "items": [
    {
     "source_id": "B0005",
@@ -1246,6 +1388,16 @@
     "role": "relational_history_of_elite_networks",
     "accepted_claim": "国家形象建构被还原为“进步巫师”群体（官僚、科学家、艺术家）的组织实践：庇护关系、合同竞争与专业分工而非单一英雄意志；Díaz作为“最终仲裁者”介入建筑方案之争",
     "evidence_boundary": "Contreras私人档案与政府合同支持组织史细节；“巫师”隐喻是作者命名",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0315",
+    "title": "Miller, Daniel：Material Culture and Mass Consumption, 1987",
+    "grade": "B",
+    "verification": "V2",
+    "role": "material_culture_method",
+    "accepted_claim": "物质文化方法：从符号学/语言学附属中解放\"物\"，确立其在社会理论中的独立地位——关系史的方法资源",
+    "evidence_boundary": "方法命题（1987）；适用于物质文化类史料使用",
     "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
@@ -2036,7 +2188,7 @@
     "grade": "A",
     "verification": "V2",
     "role": "actor_self_account_p0",
-    "accepted_claim": "本书为行动者自著职业文本，属P0证据：可直接证明Dreyfuss的职业主张、方法与自我定位",
+    "accepted_claim": "本书为行动者自著职业文本，属P0证据：可直接证明Dreyfuss的职业主张、方法与自我定位（1929年开业至1967年职业全程）",
     "evidence_boundary": "不能自动证明行业影响或产品成效；与B0206/B0066/B0205共享对象时只计一份P0",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
@@ -2674,13 +2826,13 @@
  },
  "0.6": {
   "grades": {
-   "B": 55,
+   "B": 57,
    "A": 51,
-   "C": 28,
+   "C": 30,
    "X": 2,
    "D": 1
   },
-  "count": 137,
+  "count": 141,
   "items": [
    {
     "source_id": "B0006",
@@ -2853,6 +3005,16 @@
     "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
    },
    {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "A",
+    "verification": "V2",
+    "role": "totalitarianism_model_critique",
+    "accepted_claim": "对冷战\"极权主义模型\"的方法论解构：社会主义空间不是铁板一块的权力投射，日常史方法恢复被极权叙事抹去的行动者能动性——证据偏差方法论案例",
+    "evidence_boundary": "史学方法论命题；适用于8.1—8.3的史料使用",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
     "source_id": "B0101",
     "title": "David Raizman：《History of Modern Design》",
     "grade": "A",
@@ -2928,16 +3090,6 @@
     "grade": "A",
     "verification": "V2",
     "role": "self_justification_bias",
-    "accepted_claim": "自传性叙事含自我辩护成分：成功案例详述、失败轶事化处理",
-    "evidence_boundary": "偏差属性本身即证据边界，引用时需标注",
-    "status": "ACCEPTED_AS_ACTOR_SOURCE"
-   },
-   {
-    "source_id": "B0186",
-    "title": "Henry Dreyfuss：《Designing for People》，1967",
-    "grade": "A",
-    "verification": "V2",
-    "role": "self_justification_bias_marker",
     "accepted_claim": "自传体文本含自我辩护与自我推销成分：成功案例详述、19则失败轶事以幽默降调处理（'Comfort Station Attendants will be followed by the Industrial Designers'）、1955年预言自评'过于保守'",
     "evidence_boundary": "偏差属性本身即证据边界，引用时须标注行动者立场（P0）",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
@@ -3323,6 +3475,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0100",
+    "title": "David Crowley：《Warsaw》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "everyday_practice_vs_ideology",
+    "accepted_claim": "市民日常实践（旧货市场\"条纹袜圣战\"、私人公寓秘密剧场、飞行大学）对意识形态工程的挪用、颠覆与转化——社会主义证据的方法论案例",
+    "evidence_boundary": "城市文化史个案；方法命题适用于8.1—8.3史料使用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0108",
     "title": "Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic",
     "grade": "B",
@@ -3511,6 +3673,16 @@
     "accepted_claim": "国家平均与核心区选择会产生相反叙事，统计口径和材料缺口须公开",
     "evidence_boundary": "不能用方法批评自动证明任一相似性结论",
     "status": "ACCEPTED_AS_EVIDENCE_AUDIT"
+   },
+   {
+    "source_id": "B0266",
+    "title": "Landsberger：《Chinese propaganda posters from revolution to modernization》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "propaganda_effect_unmeasurable",
+    "accepted_claim": "宣传效果不可测：\"impossible to gauge their success\"——宣传意图可证、接受效果不可由宣传物本身证明（证据边界方法案例）",
+    "evidence_boundary": "方法命题（作者自认）；适用于宣传类史料使用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0273",
@@ -3803,6 +3975,16 @@
     "status": "ACCEPTED_AS_REVISED_CLAIM"
    },
    {
+    "source_id": "B0113",
+    "title": "Design Research： Methods and Perspectives (The MIT Press) -- Laurel, Brenda -- C",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_research_profession",
+    "accepted_claim": "设计研究方法论体系（人/形式/过程/行动四板块）：设计研究是设计过程的'大脑'而非市场研究附属品——0.6设计研究学科化",
+    "evidence_boundary": "编者框架（2003）；方法论主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0183",
     "title": "Hazel Conway：《Design history a students handbook》",
     "grade": "C",
@@ -3933,6 +4115,16 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0366",
+    "title": "Richard Stites：《Revolutionary Dreams Utopian Vision and Experimental Life in the Russian Revolution》，1989",
+    "grade": "C",
+    "verification": "V2",
+    "role": "revolutionary_poetics_method",
+    "accepted_claim": "以\"乌托邦倾向\"为透镜研究\"革命的诗学\"（情感、符号、日常实验）——革命文化史的证据方法案例",
+    "evidence_boundary": "方法命题（1989）；适用于革命文化类史料使用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0376",
     "title": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
     "grade": "C",
@@ -4058,10 +4250,10 @@
   "grades": {
    "A": 9,
    "X": 1,
-   "B": 15,
-   "C": 5
+   "B": 16,
+   "C": 8
   },
-  "count": 30,
+  "count": 34,
   "items": [
    {
     "source_id": "B0005",
@@ -4194,6 +4386,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0197",
+    "title": "James H. Fraser, Steven Heller：《Japanese Modern Graphic Design Between the Wars》，1996",
+    "grade": "B",
+    "verification": "V2",
+    "role": "transformation_not_influence",
+    "accepted_claim": "跨文化传播以\"转化\"（transformation）与\"融合\"而非单向\"影响\"模式理解——全球设计史模型的日本案例",
+    "evidence_boundary": "作者方法（1996）；与扩散/转译模型并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0209",
     "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
     "grade": "B",
@@ -4302,6 +4504,36 @@
     "accepted_claim": "《语法》的全球覆盖通过抽离语境、重绘和网格化形成",
     "evidence_boundary": "覆盖广不等于去殖民或关系史；形式并置不证明传播",
     "status": "ACCEPTED_WITH_LIMITS"
+   },
+   {
+    "source_id": "B0038",
+    "title": "Bauer, Arnold J：《Goods, power, history Latin Americas material culture》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "hybridity_foreign_dominance",
+    "accepted_claim": "拉美物质文化是抵抗、挪用、协商与混合的杂糅产物，但外来元素始终占主导（对比英属印度/法属印度支那）——全球关系史的拉美案例",
+    "evidence_boundary": "作者综合判断（2001）；人口灾难与混血使拉美西方化程度特殊",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0065",
+    "title": "Carl DiSalvo：《Adversarial Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_culture_global",
+    "accepted_claim": "设计与文化部分：打破欧洲中心论（亚洲设计遗产、日本现代设计、中国文化中的\"线条\"原则）——全球设计史模型的理论资源",
+    "evidence_boundary": "读本选集；中国'线条'命题须回原文核验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0166",
+    "title": "George, Kenneth M.; Nordholt, Henk Schulte：《Outward Appearances Dressing State and Society in Indonesia》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "materiality_modernity_southeast_asia",
+    "accepted_claim": "外观政治：殖民遗产与后殖民困境（男性被赋予西式套装、女性被束缚于\"传统\"服装）——全球关系史的东南亚案例",
+    "evidence_boundary": "个案论证；阶级视角非均衡（底层外观实践边缘化）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0214",

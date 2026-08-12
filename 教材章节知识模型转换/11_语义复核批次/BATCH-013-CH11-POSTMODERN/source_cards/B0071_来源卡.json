@@ -1,0 +1,36 @@
+{
+  "source_id": "B0071",
+  "corpus": "book",
+  "folder_name": "Charles Jencks：《The Language of Post-Modern Architecture》，1977",
+  "material_type": "后现代建筑理论（奠基宣言）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Charles Jencks：《The Language of Post-Modern Architecture》，1977.md",
+  "duplicate_group": "与B0372/B0373（Venturi）、B0238（Gura）共享后现代建筑对象（Pruitt-Igoe、巴特洛公寓、AT&T大楼）；同一对象只计一份P0",
+  "files": [{"report_file_count": 18, "report_characters": 21556}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "11.4", "grade": "A", "verification": "V2", "role": "death_of_modern_architecture"},
+    {"section_id": "11.4", "grade": "A", "verification": "V2", "role": "multivalent_architecture"},
+    {"section_id": "11.1", "grade": "B", "verification": "V2", "role": "modernism_crisis_conditions"},
+    {"section_id": "0.2", "grade": "B", "verification": "V2", "role": "postmodern_term_history"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jencks，Academy Editions 1977初版（后经多次修订至第6版）；后现代建筑理论奠基性宣言文本",
+    "核心命题：现代建筑于1972年7月15日下午3点32分在圣路易斯Pruitt-Igoe爆破中'死亡'；根本失败是交流的失败（建筑师精英代码vs公众传统代码的符码冲突）",
+    "现代建筑两大弊病：单一价形式（univalent form——密斯IIT校园语义混乱）与单一价内容（univalent content——为跨国资本、世博会与消费殿堂建造）",
+    "建筑作为语言四层面：隐喻、词语、句法、语义学；符号学群体（保守型/精致型/'自然型'三种品味文化）",
+    "出路：激进折衷主义与多价建筑（multivalent architecture）——高迪巴特洛公寓为最高典范（龙骨/头骨/海/蜡隐喻网络＋加泰罗尼亚政治叙事）",
+    "风格：漫画式论战（'Boom, boom, boom.'）；讽刺与机智；自我指涉的元书写",
+    "限度：仅讨论外观视觉意义（未涉及室内）；仅讨论盎格鲁-欧洲和日本语境（作者自认）",
+    "本书为后现代建筑理论奠基文本（P0行动者理论）：对11.4承担'现代建筑之死'与多价建筑（A级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Pruitt-Igoe：按CIAM最进步理想建造、1951年获AIA奖，1972年爆破——'现代建筑之死'精确时刻",
+    "密斯IIT校园：工厂=教室、大教堂=锅炉房、礼拜堂=锅炉房、神庙=建筑学院——单一价形式",
+    "文丘里'鸭子vs装饰棚屋'论争——詹克斯反对排斥性单一选择",
+    "巴特洛公寓：龙骨/头骨/海/蜡多重投射＋加泰罗尼亚民族主义政治叙事——多价建筑典范",
+    "勒·柯布西耶佩萨克住宅：居民系统'误解'纯粹主义语言（平屋顶改坡屋顶、缩短带形窗）——使用者重新编码"
+  ]
+}

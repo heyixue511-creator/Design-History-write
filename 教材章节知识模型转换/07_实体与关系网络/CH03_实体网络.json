@@ -1,0 +1,30 @@
+{
+  "chapter": "CH03",
+  "title": "第三章：战争、革命与先锋派的视觉—物质实验",
+  "entities": [
+    {"id": "E-0301", "type": "movement", "name": "未来主义（Futurism）", "sections": ["3.1"], "key_sources": ["B0027", "B0346"]},
+    {"id": "E-0302", "type": "person", "name": "F. T. Marinetti", "sections": ["3.1"], "key_sources": ["B0027"]},
+    {"id": "E-0303", "type": "movement", "name": "达达（Dada）", "sections": ["3.2"], "key_sources": ["B0121"]},
+    {"id": "E-0304", "type": "publication", "name": "《Dada》《391》《Merz》等达达刊物", "sections": ["3.2"], "key_sources": ["B0121", "B0187"]},
+    {"id": "E-0305", "type": "person", "name": "Kurt Schwitters", "sections": ["3.2"], "key_sources": ["B0121"]},
+    {"id": "E-0306", "type": "object", "name": "photomontage（蒙太奇）", "sections": ["3.3"], "key_sources": ["B0007", "B0121"]},
+    {"id": "E-0307", "type": "person", "name": "Gustav Klutsis", "sections": ["3.3", "3.4"], "key_sources": ["B0007"]},
+    {"id": "E-0308", "type": "movement", "name": "构成主义（Constructivism）", "sections": ["3.4", "3.5"], "key_sources": ["B0277", "B0222"]},
+    {"id": "E-0309", "type": "person", "name": "Vladimir Tatlin", "sections": ["3.4", "3.5"], "key_sources": ["B0228", "B0277"]},
+    {"id": "E-0310", "type": "institution", "name": "INkhUK（艺术文化研究所）", "sections": ["3.4"], "key_sources": ["B0277"]},
+    {"id": "E-0311", "type": "school", "name": "VKhUTEMAS", "sections": ["3.4", "3.5"], "key_sources": ["B0277", "B0291"]},
+    {"id": "E-0312", "type": "exhibition", "name": "1922年柏林第一届俄国艺术展", "sections": ["3.5"], "key_sources": ["B0277", "B0276"]},
+    {"id": "E-0313", "type": "publication", "name": "Die Kunstismen（1925）", "sections": ["3.5"], "key_sources": ["B0276"]},
+    {"id": "E-0314", "type": "object", "name": "塔特林之塔（第三国际纪念碑方案）", "sections": ["3.4"], "key_sources": ["B0228", "B0277"]}
+  ],
+  "relations": [
+    {"source": "E-0302", "target": "E-0301", "type": "co_founded", "evidence": "B0027", "note": "宣言为行动者文本（P0）"},
+    {"source": "E-0305", "target": "E-0303", "type": "member", "evidence": "B0121", "note": "汉诺威达达'Merz只为艺术'立场"},
+    {"source": "E-0307", "target": "E-0306", "type": "designed", "evidence": "B0007", "note": "《动态城市》1919—20独立发展说"},
+    {"source": "E-0309", "target": "E-0308", "type": "co_founded", "evidence": "B0277/B0228", "note": "塔特林'艺术进入技术'（1932）"},
+    {"source": "E-0309", "target": "E-0314", "type": "designed", "evidence": "B0228", "note": "方案未建成，仅存照片重建"},
+    {"source": "E-0310", "target": "E-0311", "type": "related", "evidence": "B0277", "note": "INkhUK会议记录与VKhUTEMAS档案为共享机构档案（TsGALI fond 681）"},
+    {"source": "E-0313", "target": "E-0312", "type": "documented", "evidence": "B0276", "note": "李西茨基/阿尔普编纂，行动者自我分类"},
+    {"source": "E-0301", "target": "E-0303", "type": "influenced", "evidence": "B0121", "note": "须以接触证据（宣言传播、期刊）核实，风格相似≠影响"}
+  ]
+}

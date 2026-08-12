@@ -1,0 +1,35 @@
+{
+  "source_id": "B0062",
+  "corpus": "book",
+  "folder_name": "Cairo：《The functional art an introduction to information graphics》",
+  "material_type": "信息图形学通论",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Cairo：《The functional art an introduction to information graphics》.md",
+  "duplicate_group": "与B0136（Tufte）、B0016（Black）、B0085（Knaflic）共享信息图形对象；本书为新闻可视化实践侧",
+  "files": [{"report_file_count": 11, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "visualization_ethics"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "graphic_redesign_cases"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "neurath_legacy"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Alberto Cairo（迈阿密大学传播学院），《The Functional Art: An Introduction to Information Graphics and Visualization》（2013）",
+    "定位：以认知科学为锚、以新闻叙事为桨、以设计伦理为舵的信息图形学通论——'图应为谁、为何、如何存在'",
+    "实战案例：Folha de São Paulo南美国防预算信息图再设计（呈现→比较→排序→关联四项操作）、马德里Barajas空难信息图（2008，全手工）、Época杂志信息图部门（2010-2011）",
+    "认知实证：气泡/面积编码不适合精确比较任务（约70%观众将三分之一市值估为一半）",
+    "Tufte vs Holmes对立：Isotype与Neurath传统作为Tufte功能主义与Holmes人文主义之间的桥梁",
+    "原则：'简化为关键轮廓和角点加速识别'（Ryan & Schwartz 1956）、'永远不要低估读者'",
+    "机构：El Mundo互动信息图部门（2000-2005，Malofiej/SND奖）、NYT/WSJ数据新闻标杆",
+    "本书为信息图形伦理（B级）：对16.3承担可视化伦理",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch.2：Folha de São Paulo国防预算图再设计",
+    "Ch.4：气泡/面积编码认知实证",
+    "Ch.7：飞机安全卡简化原理（Ryan & Schwartz 1956）",
+    "Ch.3：Isotype与Neurath传统",
+    "Ch.1：Ridley《The Rational Optimist》实战演示"
+  ]
+}

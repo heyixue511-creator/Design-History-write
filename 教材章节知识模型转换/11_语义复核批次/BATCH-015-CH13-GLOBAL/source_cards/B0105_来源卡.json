@@ -1,0 +1,33 @@
+{
+  "source_id": "B0105",
+  "corpus": "book",
+  "folder_name": "Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit",
+  "material_type": "设计政策与创意管理（文集）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit.md",
+  "duplicate_group": "与B0180（Julier设计文化）为同一编者不同书；与13.7设计政策文献共享创意经济对象",
+  "files": [{"report_file_count": 16, "report_characters": 25406}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.7", "grade": "B", "verification": "V2", "role": "design_policy_creativity"},
+    {"section_id": "13.1", "grade": "B", "verification": "V2", "role": "scripted_improvisation"},
+    {"section_id": "13.4", "grade": "C", "verification": "V2", "role": "design_profession_governance"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Julier（利兹都市大学设计学教授）与Moor（金史密斯学院）编，Berg 2009；AHRC'Creativity'研讨会项目资助",
+    "核心问题：设计成为全球经济政治文化核心驱动力后，'创意'概念（个人、直觉、不可测量天赋）正被重新定义——设计嵌入新公共管理、审计文化与新自由主义治理框架",
+    "关键概念：'脚本化即兴'（scripted improvisation）——设计创意既非完全自由的灵感迸发也非机械执行，而是在管理结构、客户期待、技术系统与职业惯例中协商生成",
+    "结构：三部分——公共政策与设计（国家治理、城市再生、公共服务创新、博物馆政策）、创意管理实践（平面/传播/产品/服务设计、电影、编辑设计）、从业者访谈",
+    "经验背景：英国为主，兼及加拿大、美国、德国、芬兰、新西兰",
+    "拒绝设计与商业、创意与管理二元对立——在具体制度语境中理解创意劳动",
+    "本书为设计政策文集（B级）：对13.7承担政策话语、13.1承担创意劳动",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "'脚本化即兴'（scripted improvisation）——创意在管理结构与职业惯例中协商生成",
+    "设计嵌入新公共管理（NPM）、审计文化与新自由主义治理框架",
+    "三部分结构：政策环境—商业实践—从业者视角",
+    "受访者：Kobus Mentz、Ben Reason（服务设计）等8位从业者"
+  ]
+}

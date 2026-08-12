@@ -1,0 +1,36 @@
+{
+  "source_id": "B0423",
+  "corpus": "book",
+  "folder_name": "The Sciences：《of the Artificial Simon 3rd ed》",
+  "material_type": "人工科学（设计科学奠基）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\The Sciences：《of the Artificial Simon 3rd ed》.md",
+  "duplicate_group": "VGRP015：与B0397为同一著作（第三版1996）不同转换；B0423为完整三版正文（8章＋索引）规范资产",
+  "files": [{"report_file_count": 16, "report_characters": 4896}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.1", "grade": "A", "verification": "V2", "role": "science_of_design"},
+    {"section_id": "16.1", "grade": "B", "verification": "V2", "role": "bounded_rationality_satisficing"},
+    {"section_id": "16.6", "grade": "C", "verification": "V2", "role": "social_planning"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Simon（1916-2001，卡内基梅隆，1978诺贝尔经济学奖），MIT Press 1996三版（首版1969）",
+    "核心命题：人工物是'内环境（结构与组织）—外环境（所生活世界）'的界面；人工现象具有偶然性、自然现象具有必然性",
+    "设计科学纲领（Ch5）：设计是把现存状况变为偏好状况的智力活动，是专业区别于科学的标志；设计逻辑可由普通陈述逻辑承担；满意化（satisficing）而非最优化",
+    "有限理性（Ch2）：真实经济行动者是'程序理性'的满意者而非'实质理性'的最大化者",
+    "符号系统假说：物理符号系统具有产生一般智能行为的充分必要条件——智能即计算（AI纲领源头）",
+    "社会规划（Ch6）：在有限理性、数据残缺、客户多元、注意力稀缺与无最终目标约束下进行，与生物演化同构",
+    "层级复杂性（Ch8）：钟表匠比喻、近可分解性（near decomposability）",
+    "限度：作者自认对经济系统预测知识'严重不足'；对并行连接主义保留态度；某些经验证据停留在1980年代以前",
+    "本书为设计科学奠基（A级）：对16.1承担设计科学纲领",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L1412：设计是把现存状况变为偏好状况的智力活动",
+    "L1454-1480：设计逻辑可由普通陈述逻辑承担",
+    "L491-503：程序理性的满意者（satisficer）",
+    "L247-263：人工物是内环境—外环境的界面",
+    "L1760-1762：社会规划与生物演化同构"
+  ]
+}

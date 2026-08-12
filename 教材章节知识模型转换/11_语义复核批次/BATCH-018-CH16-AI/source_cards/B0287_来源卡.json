@@ -1,0 +1,35 @@
+{
+  "source_id": "B0287",
+  "corpus": "book",
+  "folder_name": "Margolin, Victor, The Politics of the Artificial, 2002",
+  "material_type": "设计研究论文集（人工物的政治）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Margolin, Victor, The Politics of the Artificial, 2002.md",
+  "duplicate_group": "VGRP014：与P0067为同一著作不同资产（B0287为完整书）；与B0059/B0108（Margolin其他著作）为同作者不同书",
+  "files": [{"report_file_count": 14, "report_characters": 3745}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.1", "grade": "A", "verification": "V2", "role": "expanded_definition_design"},
+    {"section_id": "16.1", "grade": "B", "verification": "V2", "role": "politics_of_artificial"},
+    {"section_id": "16.6", "grade": "B", "verification": "V2", "role": "sustainability_model"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Margolin（1941-，伊利诺伊大学芝加哥分校设计史教授、Design Issues联合主编），芝加哥大学出版社2002；285页含Introduction及13篇独立论文",
+    "核心关切：设计的扩展性定义（以Simon'人工物的科学'为起点，将设计理解为'对人工物的构思与规划'——扩展至系统、服务、环境、生物工程与信息空间）",
+    "扩张模型（expansion model）vs可持续模型（sustainability model）：设计师应从市场经济单一服务者转变为社会-生态问题的积极参与者",
+    "'人工物的政治'（Ch7）：在设计可以触及一切人工物的时代，边界的划定成为政治性斗争",
+    "第二现代性（second modernity，引自Branzi）超越现代主义/后现代主义二元对立",
+    "设计研究学科化（Part 2）：多元主义研究共同体、'厚话语'（thick discourse）理想",
+    "限度：论文集系统性不足；'精神性'未充分操作化；全球南方讨论少（作者自认）",
+    "本书为设计研究论文集（A级）：对16.1承担扩展定义与人工物政治",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L1438-1444：设计的扩展性定义（对人工物的构思与规划）",
+    "L7839-7843：人工物的政治——边界划定成为政治性斗争",
+    "L5971-6010：扩张模型vs可持续模型",
+    "L938-940、L7945-7947：第二现代性（Branzi）",
+    "L674-681：厚话语（thick discourse）理想"
+  ]
+}

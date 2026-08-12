@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0184,14.3,B,V2,interaction_design_textbook,交互设计教科书（第5版）：以用户为中心设计原则、双钻模型、设计-评估-再设计循环——HCI学科框架,教科书（2019）；学科框架为教学约定,Ch1-2分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0184,14.3,B,V2,understanding_users,理解用户：认知/社交/情感交互与数据收集方法（访谈/问卷/观察）——用户研究入专业流程,教科书方法（2019）；方法适用以实践为准,Ch4-6、Ch8分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0184,14.7,C,V2,data_at_scale_ethics,大数据分析与伦理设计原则（FATE，第5版新增）：数据化设计伦理——14.7数据化商业模式边界,教科书新增章节（2019）；伦理原则实施以实践为准,Ch10分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

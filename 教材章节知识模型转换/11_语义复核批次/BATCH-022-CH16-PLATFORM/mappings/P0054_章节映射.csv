@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+P0054,12.5,B,V2,social_model_disability,无障碍不是合规清单而是用户体验：'设计更可能是排斥之源'；采用残障社会模式（从'特殊使用者'转向制度性障碍）；为残障设计的技术最终惠及所有人（路缘坡道效应）——12.5通用设计与残障社会模型,作者实务指南（2019）；残障社会模式论述与案例,00_整体分析报告（核心论点1-6）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0054,12.5,C,V2,accessibility_standards_legislation,数字无障碍的制度化史实：W3C/WCAG 2.0/2.1/ARIA标准、ADA诉讼激增（+181%）、Winn Dixie采纳WCAG 2.0——合规与可及的张力成为法律与产业议题——12.5制度性障碍与法律框架,作者实务指南（2019）；立法判例与统计（Ch4）,00_整体分析报告（Ch4立法与诉讼）,ACCEPTED_AS_SUPPORTING_SOURCE
+P0054,16.5,C,V2,born_accessible_new_tech,新技术必须'生而无障碍'：XR/AI等新交互形态须在设计中内置可及性而非事后补救——16.5自动化界面的包容性边界（弱支撑）,作者实务指南（2019）；Ch10历史与未来,00_整体分析报告（核心论点7）,ACCEPTED_AS_SUPPORTING_SOURCE

@@ -1,0 +1,34 @@
+{
+  "source_id": "B0512",
+  "corpus": "book",
+  "folder_name": "赵江洪：《设计艺术的含义》，1999",
+  "material_type": "设计理论通论（中文）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\赵江洪：《设计艺术的含义》，1999_clean.md",
+  "duplicate_group": "与B0495（杭间设计道）、B0479（物用之美）共享中国设计理论对象；作者价值倾向明显（为中国设计立言，作者自认限度）",
+  "files": [{"report_file_count": 15, "report_characters": 2906}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "10.1", "grade": "C", "verification": "V2", "role": "design_art_naming"},
+    {"section_id": "10.1", "grade": "C", "verification": "V2", "role": "professionalization_1945"},
+    {"section_id": "10.7", "grade": "C", "verification": "V2", "role": "chinese_design_context"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "赵江洪编著（湖南大学，《设计艺术丛书》主编；编委何人可等），湖南大学出版社1999年9月第1版，约200千字",
+    "总论点：设计是科学与艺术结合的人类有目的的活动；设计源于制器造物、成于职业化与理性化、归于人的生活理想与社会理想",
+    "结构：九章——历史的长河、设计的意义、走向现代设计——职业化（1945年分界、设计—制造分离）、科学与艺术的边缘、现代设计与社会经济、材料、生活方式、富裕生活、现代观念",
+    "关键概念：多样性—共通性、有限理性与满意原则、设计科学、式样（style）、高设计（high design）、非物质社会、设计道德",
+    "丛书序交代'设计艺术'命名背景——术语延续的中国理论表述",
+    "限度：普及性论述为主、批判建构不足；专名拼写讹误较多；技术预判受1990年代末时代限制",
+    "本书对10.1承担'设计艺术'术语与职业化背景（C级）、10.7承担1990年代末专业适应（C级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "丛书序：'设计艺术'命名背景",
+    "Ch3（L42-54）：1945年分界、设计—制造分离、职业化",
+    "Ch8（L116-129）：高设计（high design）与富裕生活",
+    "L102-116：工具是人体延伸、产品的感情、价值的异化",
+    "Ch9：设计与社会理想（收束）"
+  ]
+}

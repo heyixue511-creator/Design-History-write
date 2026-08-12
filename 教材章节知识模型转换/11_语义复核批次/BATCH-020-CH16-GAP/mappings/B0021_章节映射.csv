@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0021,16.3,B,V2,democratic_rationalization,"民主合理化"：技术不是无法改变的宿命，而是充满政治斗争的曖昧场域——通过被支配者的参与重构技术体系——16.3平台治理替代方案,作者理论；民主合理化为核心主张,分析报告（L1069-1071等）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0021,16.3,B,V2,technical_code,技术代码（technical code）：设计决策中沉积的社会霸权；同一技术系统可以在不同霸权之间'倾斜'——16.3算法偏见结构分析,作者概念；技术代码为分析框架,分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0021,16.3,C,V2,margin_of_maneuver,操作余量/战术能动空间：被支配者在技术环境中利用计划的'粗糙性'赢得的局部自主行动空间——用户对抗平台治理的能动性,作者概念；战术能动性案例（Minitel、VAX Notes）为经验证据,分析报告（L879-887）,ACCEPTED_AS_SUPPORTING_SOURCE

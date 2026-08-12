@@ -1,0 +1,33 @@
+{
+  "source_id": "B0166",
+  "corpus": "book",
+  "folder_name": "George, Kenneth M.; Nordholt, Henk Schulte：《Outward Appearances Dressing State and Society in Indonesia》",
+  "material_type": "印尼外观政治论文集（物质文化与社会史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\George, Kenneth M.; Nordholt, Henk Schulte：《Outward Appearances Dressing State and Society in Indonesia》.md",
+  "duplicate_group": "与B0038（Bauer拉美）、B0209（非洲消费）共享现代性物质化主题时对象级去重；本书为印尼侧主源",
+  "files": [{"report_file_count": 19, "report_characters": 4414}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.4", "grade": "B", "verification": "V2", "role": "national_image_production_indonesia"},
+    {"section_id": "8.1", "grade": "B", "verification": "V2", "role": "modernity_wore_shoes"},
+    {"section_id": "0.7", "grade": "C", "verification": "V2", "role": "materiality_modernity_southeast_asia"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Schulte Nordholt主编，KITLV Press 1998，371页；Kenneth M. George书评（JAS 2000）；12篇论文（含导言），三板块：殖民时期外观政治、革命与后殖民时期、国家神话与现代性焦虑",
+    "核心隐喻：'现代性并非赤脚走过印尼的历史：它穿鞋而来'（Modernity did not walk barefoot... it wore shoes）",
+    "覆盖主题：服饰三角关系（van Dijk）、殖民照片与性别（Taylor）、印尼纨绔子（Mrazek）、女性时尚（Locher-Scholten）、革命青年（Frederick）、独立日庆典制服（Sekimoto）、民族英雄认定（Schreiner）、潘查希拉萨克蒂纪念碑（Leclerc）、飞利浦广告（Maier）、雅加达超级富豪（van Leeuwen）",
+    "学科构成：人类学（民族志）、历史学（档案/照片）、文学（文本细读）交叉",
+    "局限：以爪哇为中心、底层民众外观实践边缘化、1940—1960年代覆盖薄弱",
+    "本书为印尼物质文化主源：对8.4承担去殖民化后国家形象生产侧证据；与8.1生活方式竞争主题相关",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导言：'Modernity did not walk barefoot through Indonesia's history: it wore shoes'——核心隐喻",
+    "Ch8（Sekimoto）：独立日庆典中的制服与公民整洁性的展示",
+    "Ch9（Schreiner）：民族英雄与革命英雄的认定标准与官僚程序",
+    "Ch10（Leclerc）：潘查希拉萨克蒂纪念碑中对左翼恐怖的性别化描绘",
+    "Ch11（Maier）：1940年飞利浦灯泡广告与现代家庭生活的视觉分析"
+  ]
+}

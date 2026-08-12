@@ -1,0 +1,34 @@
+{
+  "source_id": "B0140",
+  "corpus": "book",
+  "folder_name": "Elizabeth (Dori) Tunstall：《Decolonizing Design A Cultural Justice Guidebook》",
+  "material_type": "设计去殖民化指南（个人经验叙事）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Elizabeth (Dori) Tunstall：《Decolonizing Design A Cultural Justice Guidebook》.md",
+  "duplicate_group": "与B0032（Escobar多元世界）共享去殖民设计对象；本书为OCAD院长视角（美/澳/加定居殖民语境）",
+  "files": [{"report_file_count": 12, "report_characters": 17359}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.6", "grade": "A", "verification": "V2", "role": "decolonizing_five_propositions"},
+    {"section_id": "15.6", "grade": "A", "verification": "V2", "role": "settler_indigenous_slave"},
+    {"section_id": "15.6", "grade": "B", "verification": "V2", "role": "institutional_change_cases"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Tunstall（OCAD大学设计学院院长，全球第一位黑人及黑人女性设计学院院长），MIT Press 2022前后；美/澳/加定居殖民国家语境",
+    "五个核心命题：去殖民化设计意味着①将原住民置于首位②拆解欧洲现代主义的技术偏见③拆解其种族主义偏见④通过超越DEI弥补历史伤害⑤重新配置现有资源推进去殖民化",
+    "理论框架：Eve Tuck & K. Wayne Yang'定居者-原住民-奴隶'三元结构；Fernando Ortiz'跨文化转化'概念",
+    "批判：现代主义设计服务于殖民经济体系——'技术使人生活更美好'与'舍弃族群身份以加入普世人类'两大神话掩盖土地窃取、奴役劳动与多元传统抹除",
+    "案例：OCAD黑人集群招聘与原住民集群招聘（重新定义评价标准、社群导向招聘文案、构建关键多数）；斯威本科技大学课程（原住民原则与包豪斯原理并置）",
+    "呼吁：承认对原住民的永久性债务并'支付租金'",
+    "本书为设计去殖民化主源（A级）：对15.6承担五命题与三元结构",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：'去殖民化设计对我的公司/机构/组织而言，可能意味着什么？'",
+    "五命题——将原住民置于首位/拆解技术偏见/拆解种族偏见/超越DEI/重新配置资源",
+    "Tuck & Yang'定居者-原住民-奴隶'三元模型",
+    "第二章：轧棉机使被奴役人口从70万增至320万——技术偏见历史",
+    "OCAD集群招聘——机构变革成功案例"
+  ]
+}

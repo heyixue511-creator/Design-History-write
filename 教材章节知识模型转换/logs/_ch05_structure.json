@@ -182,12 +182,12 @@
  },
  "5.2": {
   "grades": {
-   "B": 10,
-   "C": 3,
+   "B": 12,
+   "C": 4,
    "A": 3,
    "D": 1
   },
-  "count": 17,
+  "count": 20,
   "items": [
    {
     "source_id": "B0345",
@@ -228,6 +228,16 @@
     "accepted_claim": "成衣、广告、杂志和分层零售可补大众消费体系的服装个案",
     "evidence_boundary": "英国时尚史不能承担美国消费制度的核心叙事",
     "status": "ACCEPTED_AS_COMPARATIVE_CASE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "us_mass_consumption_fashion",
+    "accepted_claim": "美国大众消费体系中时尚通过百货商店、连锁零售、电影明星形象与杂志类型学组织欲望，消费成为身份表达手段",
+    "evidence_boundary": "案例为理论引证而非系统美国消费史，须与教材5.2史料互证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0145",
@@ -310,6 +320,16 @@
     "status": "ACCEPTED_AS_CORE_SOURCE"
    },
    {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_consume_modernity",
+    "accepted_claim": "消费现代性：现代消费非需求满足而是意义生产与品味区隔（Veblen起点）；百货商店、橱窗、广告、杂志构成消费意义机器；设计以刺激欲望为首要功能（L346）；设计师进入现代消费文化震中（L415）",
+    "evidence_boundary": "Ch1二手综合（引Leach、Strasser、Frederick等）；判断为作者命题；通用史实与B0101/B0102去重",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
     "source_id": "B0409",
     "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
     "grade": "B",
@@ -340,6 +360,16 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0376",
+    "title": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "consumption_ethic_advertising",
+    "accepted_claim": "消费伦理机制：色彩、风格、成套搭配、现代艺术与摄影把实用品变成时尚品，与工作伦理形成悖论——美国大众消费体系中广告功能机制的证据（跨章）",
+    "evidence_boundary": "本书证据限于1920—1940全国性广告文本；机制推广到其他时期须谨慎",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
     "source_id": "B0410",
     "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
     "grade": "C",
@@ -363,11 +393,11 @@
  },
  "5.3": {
   "grades": {
-   "C": 4,
-   "B": 7,
-   "A": 7
+   "C": 5,
+   "B": 9,
+   "A": 10
   },
-  "count": 18,
+  "count": 24,
   "items": [
    {
     "source_id": "B0066",
@@ -378,6 +408,36 @@
     "accepted_claim": "大萧条催化工业设计：1933年谷底制造商转向以新外观刺激消费，Fortune文章引用Sprague将“未以设计开辟新需求”指为萧条持续主因，设计成为销售工程",
     "evidence_boundary": "论证以Fortune原文为原始文献，“催化”因果判断为Gantz解释框架",
     "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "actor_profession_self_account",
+    "accepted_claim": "德雷福斯作为美国工业设计奠基者之一（与Teague、Loewy、Geddes并列）的第一人称职业自述：由舞台设计转型、1929年于580 Fifth Avenue开设事务所、大萧条下职业萌生",
+    "evidence_boundary": "自述仅证明德雷福斯个人实践与主张；'四巨头'地位与行业影响需外部史料佐证",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "designer_client_relationship",
+    "accepted_claim": "独立设计师以外部视角（outside point of view）服务客户，理想关系为'友好而受尊重的融合'；Crane公司二战保留费续约案例展示长期客户关系价值",
+    "evidence_boundary": "客户反应（'one of us'支票）为德雷福斯单方叙述，无客户方独立证实",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "A",
+    "verification": "V2",
+    "role": "fee_and_contract_transparency",
+    "accepted_claim": "公开四种收费模式（年度聘用制为首选）、聘用费六因素、'握手协议'与无合同合作（McCall's 12年、New York Central 15分钟年会）",
+    "evidence_boundary": "收费与合同实务为事务所单方披露；'从未有过诉讼'为自述事实，行业惯例程度不可外推",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
    {
     "source_id": "B0205",
@@ -480,6 +540,26 @@
     "status": "CONTEXT_ONLY"
    },
    {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "catalytic_agent_role",
+    "accepted_claim": "设计师是'催化代理'而非全知创造者，与工程师从敌意到主动邀请的协作关系进化（'designer supplements but in no way supplants the engineer'）",
+    "evidence_boundary": "关系进化叙事是行动者谦逊自我定位的立场表述，工程师一方接受度无独立证据",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
+    "source_id": "B0186",
+    "title": "Henry Dreyfuss：《Designing for People》，1967",
+    "grade": "B",
+    "verification": "V2",
+    "role": "organization_profile",
+    "accepted_claim": "事务所组织自画像：1929年'抑郁婴儿'开业、6位合伙人、约15个客户、每日跨海岸大信封信息流、'成为客户家庭一员'与'面孔与个性'",
+    "evidence_boundary": "单一事务所个案自述，规模与运作模式不代表行业常态",
+    "status": "ACCEPTED_AS_ACTOR_SOURCE"
+   },
+   {
     "source_id": "B0206",
     "title": "Jeffrey L. Meikle：《Twentieth Century Limited Industrial Design in America, 1925-1939》，2001",
     "grade": "B",
@@ -548,6 +628,16 @@
     "accepted_claim": "1930s危机中“分配成本占总成本比例上升”的关切与营销、广告专业化呼应设计/营销被赋予刺激需求经济功能的语境",
     "evidence_boundary": "文中无“销售工程”术语；营销科学论述属美国侧背景，与设计职业关联间接",
     "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0503",
+    "title": "王受之：《世界现代设计史》，2015",
+    "grade": "C",
+    "verification": "V2",
+    "role": "planned_obsolescence_chinese_account",
+    "accepted_claim": "有计划废止制（Planned Obsolescence）与美国销售工程：流线型、第一代工业设计师（第六章“工业设计的兴起”）——5.3“经济危机与销售工程”的经典案例叙述",
+    "evidence_boundary": "二手综合；废止制机制的学术讨论以Meikle等专门研究为准",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
    }
   ]
  },
@@ -725,7 +815,7 @@
     "grade": "B",
     "verification": "V2",
     "role": "streamlining_critique",
-    "accepted_claim": "Dreyfuss以“由内而外”批评装饰性流线型（“流线型化不会移动的冰箱”），区分cleaninglining与streamlining",
+    "accepted_claim": "Dreyfuss以'由内而外'批评装饰性流线型（'streamlining stoves...that aren't going anywhere'，即'流线型化不会移动的冰箱'），提出cleanlining替代streamlining，并记录Chrysler Airflow失败",
     "evidence_boundary": "属行动者对行业流线型风潮的批评立场，非流线型运动的正面史料",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
@@ -803,11 +893,11 @@
  },
  "5.5": {
   "grades": {
-   "B": 8,
+   "B": 9,
    "C": 2,
    "A": 14
   },
-  "count": 24,
+  "count": 25,
   "items": [
    {
     "source_id": "B0022",
@@ -876,7 +966,7 @@
     "verification": "V2",
     "role": "profession_formation_1929",
     "accepted_claim": "有声电影冲击百老汇（1927）→1929年于580 Fifth Avenue开设工业设计事务所，构成美国工业设计职业形成的行动者自述证据",
-    "evidence_boundary": "自传叙事含自我辩护；“四巨头”地位与行业影响需外部史料佐证",
+    "evidence_boundary": "自传叙事含自我辩护；'四巨头'地位与行业影响需外部史料佐证",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
    {
@@ -885,7 +975,7 @@
     "grade": "A",
     "verification": "V2",
     "role": "inside_out_design_principle",
-    "accepted_claim": "“诚实的设计应由内而外，而非由外而内”，反对表面装饰化，界定职业方法论核心",
+    "accepted_claim": "'诚实的设计应由内而外，而非由外而内'，反对表面装饰化，界定职业方法论核心",
     "evidence_boundary": "属Dreyfuss职业主张（P0），不代表行业共识",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
@@ -965,7 +1055,7 @@
     "grade": "B",
     "verification": "V2",
     "role": "silent_salesman_concept",
-    "accepted_claim": "“优良工业设计是无声推销员”，设计作为大萧条后差异化竞争手段的职业功能观",
+    "accepted_claim": "'优良工业设计是无声推销员'，设计作为大萧条后差异化竞争手段的职业功能观",
     "evidence_boundary": "行动者对设计商业功能的自我表述",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
@@ -975,8 +1065,8 @@
     "grade": "B",
     "verification": "V2",
     "role": "sid_founding_1944",
-    "accepted_claim": "1944年与Teague周末讨论发起、Loewy参与，成立工业设计师协会（SID）",
-    "evidence_boundary": "Dreyfuss自称“帮助组织”，SID/IDSA正式缘起需对照组织史料",
+    "accepted_claim": "德雷福斯自称'帮助组织'1944年成立的SID（工业设计师协会）：与Teague周末讨论发起、次日与Loewy商议，169名会员并设严格伦理准则，构成职业制度化进程的行动者证据",
+    "evidence_boundary": "SID缘起为单方自述（'helped organize'），正式组织史需对照SID/IDSA档案",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
    {
@@ -1028,6 +1118,16 @@
     "accepted_claim": "全要素协调与商业印刷接受可作为平面／书籍设计职业化的具体前史",
     "evidence_boundary": "私人出版社不能替代20世纪职业组织、教育和企业职位史",
     "status": "ACCEPTED_AS_PROFESSIONALIZATION_PREHISTORY"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_professionalise_commercial_design",
+    "accepted_claim": "工业设计师职业源自商业传统（广告、展示）与建筑传统双根（L288）；1930s美国咨询设计师（Loewy、Teague、Bel Geddes）以流线型进入工业（Hounshell文化战胜技术，L436）；设计师自我神话vs商业现实（L610-616）",
+    "evidence_boundary": "Ch3二手综合；Earl/GM 1927、流线型等通用史实只计一份",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
    },
    {
     "source_id": "B0070",
@@ -1084,7 +1184,7 @@
     "grade": "A",
     "verification": "V2",
     "role": "anthropometry_percentile_partners",
-    "accepted_claim": "Dreyfuss事务所以Joe/Josephine百分位人体测量图（“极端值而非平均值”，覆盖2.5—97.5百分位）将人体测量学系统引入工业设计方法",
+    "accepted_claim": "Dreyfuss事务所以Joe/Josephine百分位人体测量图（'极端值而非平均值'，覆盖2.5—97.5百分位）将人体测量学系统引入工业设计方法，为后世user persona提供原型",
     "evidence_boundary": "自述其事务所方法与实践，不能证明人体测量法在行业中的普及程度",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
@@ -1094,7 +1194,7 @@
     "grade": "A",
     "verification": "V2",
     "role": "machine_fit_person_principle",
-    "accepted_claim": "“最高效的机器是围绕人而建造的”，设计应使机器适配人而非将人塞进机器（human engineering）",
+    "accepted_claim": "'最高效的机器是围绕人而建造的'：设计应使机器适配人而非将人塞进机器，human engineering作为弥合人类行为与机器设计鸿沟的学科",
     "evidence_boundary": "属Dreyfuss的方法论主张（理念证据），不自动证明产品成效",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
@@ -1104,7 +1204,7 @@
     "grade": "A",
     "verification": "V2",
     "role": "five_senses_design_framework",
-    "accepted_claim": "视、听、触、嗅、色觉五感被纳入设计考量（视力表、分贝、色彩心理、气味扩散）",
+    "accepted_claim": "视、听、触、嗅、色觉五感被纳入设计考量（视觉阈值、分贝、色彩心理、气味扩散）",
     "evidence_boundary": "自述其事务所研究框架，样本与方法未披露",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
@@ -1134,8 +1234,8 @@
     "grade": "B",
     "verification": "V2",
     "role": "household_efficiency_cases",
-    "accepted_claim": "熨斗作为手臂延伸、打字机眩光、吸尘器手柄等家务与办公效率案例体现“家务与效率”主题",
-    "evidence_boundary": "案例成效（如“如今已普及”）为自述，无独立验证",
+    "accepted_claim": "熨斗作为手臂延伸、打字机眩光、吸尘器手柄等家务与办公效率案例体现'家务与效率'主题",
+    "evidence_boundary": "案例成效（如'如今已普及'）为自述，无独立验证",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
    {
@@ -1144,7 +1244,7 @@
     "grade": "B",
     "verification": "V2",
     "role": "anthropometric_data_catalog",
-    "accepted_claim": "手柄直径0.5—1.25英寸、脚刹35磅、左撇子6—9%等“设计常数库”数据",
+    "accepted_claim": "手柄直径0.5—1.25英寸、脚刹35磅、左撇子6—9%等'设计常数库'数据",
     "evidence_boundary": "数据来源、样本规模与统计方法未透明，不可作为独立科学数据引用",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
@@ -1193,8 +1293,8 @@
     "grade": "B",
     "verification": "V2",
     "role": "profession_code_of_ethics",
-    "accepted_claim": "SID“严格的伦理准则”与高门槛会员制，构成商业设计伦理制度化的行动者证据",
-    "evidence_boundary": "伦理成效为自述；“给职业尊严”属价值判断",
+    "accepted_claim": "SID'严格的伦理准则'与高门槛会员制，构成商业设计伦理制度化的行动者证据",
+    "evidence_boundary": "伦理成效为自述；'给职业尊严'属价值判断",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
    {
@@ -1203,8 +1303,8 @@
     "grade": "B",
     "verification": "V2",
     "role": "commercial_design_critique",
-    "accepted_claim": "第9章批判汽车工业“蒸汽压路机式推广”、第14章公开收费模式，触及商业设计的伦理争议",
-    "evidence_boundary": "批判立场与“透明化先例”为行动者观点",
+    "accepted_claim": "第9章批判汽车工业'蒸汽压路机式推广'、第14章公开收费模式，触及商业设计的伦理争议",
+    "evidence_boundary": "批判立场与'透明化先例'为行动者观点",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    },
    {
@@ -1273,7 +1373,7 @@
     "grade": "C",
     "verification": "V2",
     "role": "ethics_market_tension_unresolved",
-    "accepted_claim": "“当市场要求坏设计时设计师怎么办”的伦理困境未获系统性回答，对汽车工业的批判以自嘲收场",
+    "accepted_claim": "'当市场要求坏设计时设计师怎么办'的伦理困境未获系统性回答，对汽车工业的批判以自嘲收场",
     "evidence_boundary": "复核者基于文本的解读性判断，非原文陈述",
     "status": "ACCEPTED_AS_ACTOR_SOURCE"
    }

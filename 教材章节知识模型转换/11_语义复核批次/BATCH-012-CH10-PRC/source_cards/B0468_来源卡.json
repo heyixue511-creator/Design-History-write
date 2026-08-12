@@ -1,0 +1,31 @@
+{
+  "source_id": "B0468",
+  "corpus": "book",
+  "folder_name": "何人可：《工业设计史(第四版)》，2010",
+  "material_type": "工业设计通史（中文教材）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\何人可：《工业设计史(第四版)》，2010_clean.md",
+  "duplicate_group": "与B0503（王受之）、B0486（朱和平）构成中文通史参照组：同一通用史实只计一份P0；本书中国侧着墨有限（作者自认限度）",
+  "files": [{"report_file_count": 18, "report_characters": 3319}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "10.3", "grade": "C", "verification": "V2", "role": "chinese_industrial_design_textbook"},
+    {"section_id": "10.1", "grade": "C", "verification": "V2", "role": "three_stages_framework"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "何人可主编（湖南大学），柳冠中主审，高等教育出版社2010年第四版；教育部工业设计专业教学指导分委员会大纲、首批国家精品课程、'十一五'国家级规划教材",
+    "结构：四篇十二章——工业革命前、1750—1914、1915—1939、1940至当代；'三阶段（萌芽—手工艺—工业）'与'三时期（酝酿—形成—繁荣多元）'宏观框架",
+    "核心论点：工业设计是批量生产的现代大工业与市场竞争的产物；设计的本质是功能与形式、艺术与技术、标准化与多样化之间持续调和的创造性活动",
+    "Ch10战后重建与设计（L236-282）：北欧、优良设计、美国商业性设计、意大利、联邦德国、日本、台韩、CI、人机学",
+    "限度：西方中心框架；中国大陆现代设计着墨有限（作者自认限度）；2010年后内容缺失",
+    "本书为中文工业设计通史参照（C级）：对10.3承担工业设计侧的中文教材表述；中国1949—1978设计制度以专史为准",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L5-L12：工业设计定义、三阶段/三时期论",
+    "Ch10（L236-282）：战后重建与设计——台韩、CI、人机学",
+    "Ch12（L292-307）：信息时代的工业设计——苹果、索尼",
+    "关键概念：有计划的商品废止制、优良设计、系统设计、双轨制"
+  ]
+}

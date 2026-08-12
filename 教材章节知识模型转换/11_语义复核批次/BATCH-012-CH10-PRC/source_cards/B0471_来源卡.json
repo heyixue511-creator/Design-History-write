@@ -1,0 +1,34 @@
+{
+  "source_id": "B0471",
+  "corpus": "book",
+  "folder_name": "周博：《中国现代文字设计图史》，2017",
+  "material_type": "中国现代文字设计图史（字体史）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\周博：《中国现代文字设计图史》，2017.md",
+  "duplicate_group": "与B0472（周博断裂与绵延）为同一作者不同书；与B0505（书衣）、B0499（图案篇）共享印刷/文字对象时只计一份P0",
+  "files": [{"report_file_count": 22, "report_characters": 2631}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "10.5", "grade": "B", "verification": "V2", "role": "mao_era_type_design"},
+    {"section_id": "10.5", "grade": "B", "verification": "V2", "role": "type_politics_liberated_areas"},
+    {"section_id": "10.1", "grade": "C", "verification": "V2", "role": "type_design_institution"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "周博（中央美术学院），中信出版社2017；以'图史'形式梳理中国现代文字设计（19世纪中叶—2017），16章",
+    "核心论点：文字设计是超越视觉的社会文化现象，其现代化在传统书写文化与西方/日本印刷技术、民族国家意识的多重张力中展开（L42）",
+    "关键概念：宋体/楷体/仿宋/黑体、美术字/图案文字、九宫格/中宫、铸以代刻/易木为铅、直排改横排、金石味、大宋体/民主体、毛体、报宋",
+    "1949年以来部分：Ch15毛泽东时代的文字设计（L123-153）、Ch16改革开放以来的字体复兴",
+    "方法：图史互证、个案-通论结合、中日/两岸比较、谱系追踪；一手文献全文征引（行政院训令等）",
+    "限度：当代部分挂一漏万（作者自陈）；部分结论依赖个案；OCR源文本图表交错",
+    "本书为字体史主源：对10.5承担毛泽东时代文字设计（B级）；'字体家国''字体摩登'为作者原创概念",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L42：文字设计是超越视觉的社会文化现象——核心论点",
+    "Ch15（L123-153）：毛泽东时代的文字设计——字体政治、毛体、报宋",
+    "Ch14（L105-123）：字体政治、抗战、解放区与'风行'入台",
+    "Ch5：'直排'改'横排'及其影响",
+    "Ch3：文字改革与字体设计（制度史）"
+  ]
+}

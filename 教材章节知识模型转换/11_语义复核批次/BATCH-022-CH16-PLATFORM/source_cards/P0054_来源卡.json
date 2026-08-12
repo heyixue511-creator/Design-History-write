@@ -1,0 +1,34 @@
+{
+  "source_id": "P0054",
+  "corpus": "paper",
+  "folder_name": "Regine M. Gilbert：《Inclusive Design for a Digital World Designing with Accessibility in Mind》",
+  "material_type": "数字产品无障碍实务指南（包容性设计）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Regine M. Gilbert：《Inclusive Design for a Digital World Designing with Accessibility in Mind》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 3799}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.5", "grade": "B", "verification": "V2", "role": "social_model_disability"},
+    {"section_id": "12.5", "grade": "C", "verification": "V2", "role": "accessibility_standards_legislation"},
+    {"section_id": "16.5", "grade": "C", "verification": "V2", "role": "born_accessible_new_tech"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Regine M. Gilbert，《Inclusive Design for a Digital World: Designing with Accessibility in Mind》（2019，Apress，Design Thinking Series），数字产品无障碍实务指南（十章+附录A+索引）",
+    "核心主张：无障碍不是合规清单而是用户体验；人人暂时健全；为残障设计最终惠及所有人（路缘坡道效应）",
+    "七条核心论点：①无障碍=可用性，合规不等于可及（L401、L1341）；②设计更可能是排斥之源（L403）；③采用残障社会模式（L415-417）；④烦人即不可及（L1033）；⑤为残障设计的技术惠及所有人（L3090-3097）；⑥可及性源于UX、应内置于文化与设计系统（L2862、L2519）；⑦新技术必须'生而无障碍'（L3279、L3290）",
+    "结构：网页标准与技术（W3C/WCAG/HTML/CSS/JS/ARIA，Ch2）、烦人体验与黑暗模式（Ch3）、全球立法与ADA诉讼（Ch4）、设计策略（EVVCC、Another Lens，Ch5）、包容性研究（Ch6）、辅助技术（Ch7）、组织落地（Ch8）、可用性测试（Ch9，BBC iPlayer案例）、历史与未来（Ch10，XR/AI）",
+    "关键概念：Accessibility、Inclusive design、社会/医疗模式、W5H、POUR、WCAG 2.0/2.1、ARIA、语义HTML、屏幕阅读器、路缘坡道效应、Persona Spectrum、黑暗模式/编码式不友善",
+    "材料：立法与判例（ADA四案，诉讼增181%）、标准文献（WCAG准则）、统计（5700万残障人口、9960亿美元购买力）、大厂案例（Microsoft/Airbnb/BBC）、发明史叙事（电话/SMS/巡航控制/NVDA）",
+    "历史定位：2019年'无障碍主流化'浪潮的实务代表文献（WCAG 2.1发布次年、美国诉讼激增期）；与Kat Holmes《Mismatch》、Microsoft包容性设计工具包、W3C/WCAG构成同代知识网络",
+    "clean原文存在（源文件4061行，无_clean版）；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L401-417：无障碍=可用性与残障社会模式",
+    "L1033：烦人即不可及",
+    "L1627-1655：ADA诉讼与立法",
+    "L2862：可及性内置于文化",
+    "L3090-3097：路缘坡道效应"
+  ]
+}

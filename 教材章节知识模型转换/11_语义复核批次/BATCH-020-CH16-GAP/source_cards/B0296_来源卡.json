@@ -1,0 +1,34 @@
+{
+  "source_id": "B0296",
+  "corpus": "book",
+  "folder_name": "Martin Heidegger：《The Question Concerning Technology and Other Ess》",
+  "material_type": "技术哲学经典（海德格尔）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Martin Heidegger：《The Question Concerning Technology and Other Ess》.md",
+  "duplicate_group": "与B0267（Winner）、B0021（Feenberg）、B0413（Winograd/Flores）共享技术哲学对象；本书为'座架'概念主源",
+  "files": [{"report_file_count": 12, "report_characters": 1760}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "essence_of_technology"},
+    {"section_id": "16.3", "grade": "B", "verification": "V2", "role": "enframing_world_picture"},
+    {"section_id": "16.1", "grade": "C", "verification": "V2", "role": "questioning_technology"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Heidegger《The Question Concerning Technology and Other Essays》（技术的追问，1954/1977英译），5篇论文",
+    "技术本质命题：技术的本质不是技术性的（L556）；技术是解蔽方式（L683）；现代技术的本质是座架（Gestell，L804）——对自然的促逼性摆置",
+    "危险—救渡命题：座架作为存在的遣送是极端危险（L917），但危险即救渡（L1143）",
+    "现代性诊断：虚无主义=价值思维=对存在的谋杀（L2032）；现代的基本事件是'世界成为图像、人成为主体'（L2349）",
+    "出路命题：科学不能达到其本质（L2876）；沉思是对值得追问者的镇定投入（L2932）；'追问是思的虔诚'（L1072）",
+    "clean源文件正文三遍重复（L1-2953第一遍为准）",
+    "本书为技术哲学底座（B级）：对16.3承担座架与呈现批判",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L556：技术的本质不是技术性的",
+    "L683：技术是解蔽方式",
+    "L804：现代技术的本质是座架",
+    "L2349：世界成为图像、人成为主体",
+    "L1072：'追问是思的虔诚'"
+  ]
+}

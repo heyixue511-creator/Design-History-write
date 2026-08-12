@@ -1,0 +1,35 @@
+{
+  "source_id": "B0123",
+  "corpus": "book",
+  "folder_name": "Digital Materialities ： Design and Anthropology -- Sarah Pink; Eli",
+  "material_type": "设计人类学文集（数字物质性）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Digital Materialities ： Design and Anthropology -- Sarah Pink; Eli.md",
+  "duplicate_group": "与B0279（Suchman）、B0122（Digital Design Theory）共享数字/交互对象；本书为'数字物质性'主源",
+  "files": [{"report_file_count": 11, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.2", "grade": "C", "verification": "V2", "role": "digital_materiality_process"},
+    {"section_id": "16.6", "grade": "C", "verification": "V2", "role": "citizen_infrastructure"},
+    {"section_id": "16.6", "grade": "C", "verification": "V2", "role": "messy_daily_life"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Pink/Ardevol/Lanzeni 编《Digital Materialities: Design and Anthropology》（Bloomsbury 2016），11位作者",
+    "理论核心：'数字物质性不是已完成之物而是生成过程'（digital materiality does not define something done, but a process of becoming）",
+    "与Horst/Miller《Digital Anthropology》（2012）三层次（基础设施/内容/语境物质性）对话；与Gunn/Otto/Smith《Design Anthropology》（2013）为近亲",
+    "案例：SweatAtoms（心率数据3D打印，RMIT Exertion Games Lab）、Goulburn市民自建公共Wi-Fi（Openmesh，802.11 2.4GHz）、互动滑梯（计算机视觉）、Circus Oz数字档案（'慷慨界面'Generous Interface原则）",
+    "Strengers对智能家居愿景的批判：以'日常的混乱'（messy）为出发点",
+    "机构：RMIT数字民族志研究中心（DERC）、Fab Lab Barcelona、IoT社区（巴塞罗那/阿姆斯特丹/纽约）",
+    "方法：感官民族志、视频民族志（LEEDR项目）、推测性方法论（Michael，Stengers'宇宙政治'）",
+    "本书为设计人类学（C级）：对16.2/16.6承担数字物质性与基础设施",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L198-200：与Horst/Miller、Gunn/Otto/Smith对话",
+    "L1102-1117：SweatAtoms 3D打印案例",
+    "L1504-1530：Goulburn Wi-Fi案例",
+    "L1404：Generous Interface原则",
+    "L227：Suchman情境行动影响"
+  ]
+}

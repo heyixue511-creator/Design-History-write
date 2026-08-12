@@ -1,0 +1,37 @@
+{
+  "source_id": "B0329",
+  "corpus": "book",
+  "folder_name": "Olins：《Corporate identity making business strategy visible through design》",
+  "material_type": "企业识别理论（经典）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Olins：《Corporate identity making business strategy visible through design》.md",
+  "duplicate_group": "与B0357（设计管理）、B0180（Julier设计文化）共享企业形象/CI对象；同一企业案例（BMW、GE等）只计一份P0",
+  "files": [{"report_file_count": 14, "report_characters": 4374}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "13.2", "grade": "A", "verification": "V2", "role": "corporate_identity_strategy_visible"},
+    {"section_id": "13.2", "grade": "A", "verification": "V2", "role": "three_identity_structures"},
+    {"section_id": "13.2", "grade": "B", "verification": "V2", "role": "invention_of_tradition"},
+    {"section_id": "9.5", "grade": "A", "verification": "V2", "role": "corporate_identity_visual_system"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Olins（Wolff Olins设计咨询公司联合创始人），Thames and Hudson 1989；企业识别（CI）领域公认开创性经典",
+    "核心命题：'Corporate identity makes business strategy visible'——企业身份不仅反映战略，本身就是战略组成部分",
+    "身份两大面向：目标（purpose）与归属（belonging）——超越CI=视觉标识的狭隘理解",
+    "身份四维模型：产品与服务、环境、信息、行为——'the corporation's actions are indivisible'",
+    "三种身份结构：单一式（Monolithic，BMW/IBM）、背书式（Endorsed，GM/UTC）、品牌式（Branded，P&G/Unilever）",
+    "'传统的发明'框架（Hobsbawm/Ranger）：企业身份建构与民族国家符号创造同构——名称、旗帜、仪式、符号创造忠诚",
+    "方法：历史类比（美国南部邦联、英属印度、拿破仑帝国）、案例分析（Du Pont、BMW、Coca-Cola等）、BuffSanCo虚构案例（完整CI流程演示）",
+    "影响：CI从设计实践提升为管理学科；三类结构模型至今是品牌架构基础工具",
+    "本书为企业识别理论经典（A级）：对13.2承担品牌系统理论、9.5承担企业形象系统（跨章）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导言：'Purpose and belonging are the two facets of identity'——身份两大面向",
+    "四维模型：产品/环境/信息/行为——'the corporation's actions are indivisible'",
+    "第4章：三种身份结构（BMW单一式、GM背书式、Unilever品牌式）",
+    "第1章：'传统的发明'——美国南部邦联、英属印度符号创造",
+    "第7章：BuffSanCo虚构案例——完整CI流程演示"
+  ]
+}

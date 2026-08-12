@@ -1,0 +1,39 @@
+{
+  "source_id": "B0457",
+  "corpus": "book",
+  "folder_name": "Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN",
+  "material_type": "数字艺术-交互设计论辩著作（透明神话批判）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 16, "report_characters": 13506}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "myth_of_transparency"},
+    {"section_id": "14.2", "grade": "B", "verification": "V2", "role": "computer_as_medium_experience"},
+    {"section_id": "16.5", "grade": "C", "verification": "V2", "role": "embodied_design_materiality"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Jay David Bolter & Diane Gromala，《Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency》（2003，MIT Press，Leonardo Book Series）",
+    "以SIGGRAPH 2000 Art Gallery（Gromala任策展主席）为现场：TEXT RAIN、Wooden Mirror、Nosce Te Ipsum、Magic Book、Fakeshop、T-Garden、Terminal Time七件数字装置",
+    "三大命题：①计算机已成为新媒介/一组新媒体形式；②设计数字人工物就是设计体验（experience design）；③数字设计不应试图隐形",
+    "核心概念：透明/反射（transparency/reflectivity）、窗口/镜子（window/mirror）、透明神话（myth of transparency）、汇聚神话、去具身神话（myth of disembodiment）、再媒介化（remediation）、语境设计（contextual design）、具身设计（embodied design）、振荡（oscillation）",
+    "批判对象：Norman《The Invisible Computer》（1998）'计算机将消失于信息家电'、Nielsen《Designing Web Usability》（2000）'网页是内容传递的透明管道'、Siegel《Creating Killer Web Sites》（1997）形式驱动体验——'信息家电派/结构主义者'vs'体验派/设计者'之争",
+    "主张：数字设计目标不是制造'消失的透明界面'，而是让每个数字人工物在窗口与镜子之间振荡——透明地传递内容，同时反射地揭示自身与用户",
+    "再媒介化（remediation）理论（Bolter & Grusin）：新媒介与旧媒介的相互重塑（Magic Book章）",
+    "具身设计：T-Garden案例批判去具身神话，数字媒体具有物质性（materiality）",
+    "语境设计：Terminal Time案例批判柏拉图式'无语境'设计理想，设计总在具体语境中",
+    "作者自创生物反馈字体Excretia作为反射实践的自反验证；本书自身以'透明与反射兼具'为排版设计原则",
+    "限度：证据时限2000-2002；以SIGGRAPH艺术展为样本的代表性局限（作者自认）；'透明'的规范性张力未形式化解决",
+    "价值：将数字艺术实践纳入交互设计理论话语的先驱；'窗口/镜子'与'透明/反射'成为交互设计批评的经典分析框架",
+    "clean原文为源文件（无_clean版本）；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L238-244：三大命题",
+    "L424-693：Wooden Mirror章——透明神话谱系",
+    "L876-1060：Magic Book章——再媒介化",
+    "L1232-1392：T-Garden章——具身与去具身批判",
+    "L1393-1511：Terminal Time章——语境设计"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_id": "B0128",
+  "corpus": "book",
+  "folder_name": "Donald A. Schön：《The Reflective Practitioner How Professionals Think In Action》",
+  "material_type": "专业实践认识论（反思性实践）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Donald A. Schön：《The Reflective Practitioner How Professionals Think In Action》.md",
+  "duplicate_group": "VGRP013：与B0129为同一著作不同转换（文件名Schon拼写差异）；B0128为规范资产",
+  "files": [{"report_file_count": 20, "report_characters": 19221}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.1", "grade": "A", "verification": "V2", "role": "technical_rationality_critique"},
+    {"section_id": "16.1", "grade": "B", "verification": "V2", "role": "reflection_in_action"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Schön（1930-1997，MIT都市研究与教育系Ford教授），Basic Books 1983；反思性实践运动奠基文本",
+    "核心批判：'技术理性'（Technical Rationality）模型——专业知识层级性（基础科学→应用科学→技能）、实践即工具性问题解决、严谨性取决于科学方法——选择性忽略复杂性、不确定性、不稳定性和价值冲突",
+    "'严谨性或相关性'（rigor or relevance）两难：高硬地（high, hard ground）vs沼泽低地（swampy lowland）",
+    "核心概念：行动中认知（knowing-in-action，Ryle/Polanyi）、行动中反思（reflection-in-action，由'惊奇'surprise触发→框架实验→与情境对话→再框架reframe）、与情境的反思性对话（reflective conversation with the situation）",
+    "设计案例（Ch3）：Quist与Petra评审协议——命名（naming）、框架（framing）、移动实验（move experiments）、情境'回话'（back-talk）",
+    "第10章：'反思性契约'替代顺从性契约——专业-客户关系重构",
+    "本书为专业实践认识论（A级）：对16.1承担技术理性批判",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1：专业知识的信任危机（Daedalus 1963胜利宣言→1980s质疑）",
+    "Ch2：从技术理性到行动中反思——实证主义根源（Comte、维也纳学派）",
+    "Ch3：设计作为与情境的反思性对话——Quist/Petra协议",
+    "Ch5：行动中反思的结构——惊奇→框架实验→再框架",
+    "Ch10：反思性契约替代顺从性契约"
+  ]
+}

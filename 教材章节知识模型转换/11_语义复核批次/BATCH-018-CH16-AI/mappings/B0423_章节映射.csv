@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0423,16.1,A,V2,science_of_design,设计科学纲领：设计是把现存状况变为偏好状况的智力活动，是专业区别于科学的标志；人工物是"内环境—外环境"的界面——16.1设计科学基础,作者理论（1996三版）；纲领自1969首版即为设计研究'行动号召',Ch5分析报告（L1412、L1454-1480）,ACCEPTED_AS_CORE_SOURCE
+B0423,16.1,B,V2,bounded_rationality_satisficing,有限理性与满意化（satisficing）：真实行动者是'程序理性'的满意者而非'实质理性'的最大化者——16.1算法决策理论前史,作者理论（1996）；满意化模型为组织理论核心,Ch2分析报告（L491-503）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0423,16.6,C,V2,social_planning,社会规划演进观：设计在有限理性、数据残缺、客户多元、注意力稀缺与无最终目标约束下进行，与生物演化同构——16.6基础设施治理理论资源,作者理论（1996）；社会设计部分可操作性有限（作者自认限度）,Ch6分析报告（L1760-1762）,ACCEPTED_AS_SUPPORTING_SOURCE

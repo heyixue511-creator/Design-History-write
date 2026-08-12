@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0054,14.3,B,V2,software_design_manifesto,Kapor软件设计宣言：设计是软件的核心维度；概念模型设计（Liddle）——HCI与设计方法汇合的里程碑,文集（1996）；宣言为行动者主张,Ch1-2分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0054,14.3,B,V2,reflective_conversation_prototyping,Schön"与材料的反思性对话"与Schrage"原型制作的文化"：设计反思与原型文化进入软件生产,文集文本（1996）；方法成效以项目为准,Ch9-10分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0054,14.1,C,V2,software_design_history,软件设计史侧写：Xerox Alto/Star、Macintosh人机交互指南、Mosaic与万维网——从计算工具到软件媒介,侧写体（1996）；历史细节以专史为准,侧写部分分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

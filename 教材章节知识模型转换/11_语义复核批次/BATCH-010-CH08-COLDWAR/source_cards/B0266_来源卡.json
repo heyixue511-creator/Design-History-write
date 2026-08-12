@@ -1,0 +1,35 @@
+{
+  "source_id": "B0266",
+  "corpus": "book",
+  "folder_name": "Landsberger：《Chinese propaganda posters from revolution to modernization》",
+  "material_type": "宣传画专题研究（1978—1987）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Landsberger：《Chinese propaganda posters from revolution to modernization》.md",
+  "duplicate_group": "与B0108等无共享；宣传画对象（雷锋、大寨、四化海报）与第十章宣传视觉来源共享时只计一份P0",
+  "files": [{"report_file_count": 14, "report_characters": 11269}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "8.3", "grade": "B", "verification": "V2", "role": "confucian_leninism_propaganda"},
+    {"section_id": "8.3", "grade": "C", "verification": "V2", "role": "propaganda_media_decline"},
+    {"section_id": "0.6", "grade": "B", "verification": "V2", "role": "propaganda_effect_unmeasurable"},
+    {"section_id": "10.5", "grade": "B", "verification": "V2", "role": "four_modernizations_poster_analysis"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Landsberger（莱顿大学汉学家），Pepin Press 1995；1978—1987年中国宣传画专题研究，基于约1000幅收藏宣传画（53×77cm标准规格）",
+    "核心论点：儒家列宁主义（Confucian Leninism，Pye术语）——中共宣传机器是儒家角色示范、列宁主义先锋队教育与苏联宣传技术的嫁接",
+    "四化时期转向：从规训行为（orthopraxy）到规训思想（orthodoxy）；'致富光荣'与'抵制拜金主义'同时出现造成接受者困惑",
+    "媒介衰亡论：电子媒介普及、审美偏好转向非政治图像、信任危机三重夹击；1984年后《中国出版年鉴》停止收录宣传画章节",
+    "材料五层级：约1000幅宣传画原作、图像历史材料（年画、点石斋）、中文官方文献、西方汉学二手文献、当代观察",
+    "作者自认局限：无受众研究数据、海报代表性存疑（缺出版社目录）、写作于1995年未涵盖其后实践",
+    "本书为宣传画研究专书：对第八章承担社会主义宣传机制的中国侧补充；对第十章（10.5宣传视觉与出版系统）为主证据",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "导论：'Widespread as the initial appeal of the prints may have been, it has been impossible to gauge their success in propagandizing their unnoticed political contents'——宣传效果不可测",
+    "第一章：'In Mao Zedong Thought... combines the controlling elements of both Confucianism and Leninism'——儒家列宁主义定义",
+    "第三章：'Gone are the blue, grey or black uni-sex Mao-suits...'——服饰变化与身体政治（改革开放视觉转向）",
+    "结语：1984年后《中国出版年鉴》停止收录宣传画章节；1980年代中期新华书店政治印刷品几乎消失",
+    "第三章：'有理想''有道德''有文化''有纪律'四幅系列海报不提供任何具体行为指示"
+  ]
+}

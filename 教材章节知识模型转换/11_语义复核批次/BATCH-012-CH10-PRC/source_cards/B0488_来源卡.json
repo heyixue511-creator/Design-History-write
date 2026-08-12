@@ -1,0 +1,34 @@
+{
+  "source_id": "B0488",
+  "corpus": "book",
+  "folder_name": "李砚祖, 王春雨：《室内设计史》，2013",
+  "material_type": "中外室内设计通史（教材）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\李砚祖, 王春雨：《室内设计史》，2013_clean.md",
+  "duplicate_group": "与B0516（霍维国/霍光中国室内设计史）构成室内史互补谱系（各自独立计源）；与B0514（邹德侬）共享中国建筑对象时只计一份P0",
+  "files": [{"report_file_count": 22, "report_characters": 3517}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "10.4", "grade": "C", "verification": "V2", "role": "china_modern_interior_prc"},
+    {"section_id": "10.1", "grade": "C", "verification": "V2", "role": "exogenous_transplantation"},
+    {"section_id": "10.4", "grade": "C", "verification": "V2", "role": "institutional_perspective"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "李砚祖主编（设计史论丛书），中国建筑工业出版社2013年11月第一版，690千字；中外室内环境设计通史（上古至20世纪末），16章",
+    "双重定位：'生活的文化史'与'艺术的生活史'；中国各章采用'营造成就概说—建筑的空间形态与装饰装修—室内家具陈设'三层框架",
+    "Ch15中国近代室内设计（L1086-1105）：西风东渐、设计概念传入、中国固有式；'外发次生型'（L1090）",
+    "Ch16中国现代室内设计（1940—2000，L1107-1142）：建国初期、改革开放、设计繁荣",
+    "方法：文献+考古+实物三重印证；中西比较；因果解释（技术→空间→装饰→生活方式）；制度史视角（每章设'管理机构与建筑制度'）",
+    "限度：西方部分二手转述为主；非西方区域（非洲、拉美、印度）缺位；争议问题多并列不作裁决",
+    "本书对10.4承担中国现代室内设计（C级）、10.1承担'外来学科移植'解释（C级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L1：'生活的文化史'与'艺术的生活史'双重定位",
+    "L1090：中国近代建筑属'外发次生型'、现代设计学科经历'外来学科移植'",
+    "Ch16（L1107-1142）：中国现代室内设计——建国初期、改革开放",
+    "L488-489：中国木框架建筑'隔而不断'空间经验",
+    "制度史视角：每章设'管理机构与建筑制度'"
+  ]
+}

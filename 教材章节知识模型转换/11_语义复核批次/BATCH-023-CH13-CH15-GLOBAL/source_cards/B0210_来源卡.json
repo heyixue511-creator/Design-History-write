@@ -1,0 +1,36 @@
+{
+  "source_id": "B0210",
+  "corpus": "book",
+  "folder_name": "Joan Greenbaum, Morten Kyng (eds.)：《Design at Work Cooperative Design of Computer Systems》",
+  "material_type": "合作设计（参与式设计）奠基文集",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Joan Greenbaum, Morten Kyng (eds.)：《Design at Work Cooperative Design of Computer Systems》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 15, "report_characters": 10864}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.4", "grade": "A", "verification": "V2", "role": "cooperative_design_paradigm"},
+    {"section_id": "12.4", "grade": "B", "verification": "V2", "role": "design_as_political_process"},
+    {"section_id": "14.3", "grade": "C", "verification": "V2", "role": "rationalism_to_situated_action"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Joan Greenbaum & Morten Kyng 主编，《Design at Work: Cooperative Design of Computer Systems》（1991），合作设计领域奠基性文集；17位作者（计算机科学/人类学/语言学/心理学/组织行为学）",
+    "核心命题：计算机系统设计必须以工作实践（work practice）为出发点，通过设计者与使用者的全程合作，将'使用者'从被动的研究对象转变为能动的'人类行动者'（human actors）；批判系统开发的理性主义/笛卡尔传统",
+    "学科坐标：HCI、CSCW、参与式设计（Participatory Design）交汇点；既是1970-80年代斯堪的纳维亚'集体资源方法'（Collective Resource Approach）的总结，也开启1990年代北美参与式设计运动",
+    "理论根系：维特根斯坦语言哲学、现象学社会学（舒茨、加芬克尔）、社会建构主义（Rorty）、杜威实用主义教育学",
+    "结构：Part I'反思工作实践'（心理学Bannon/人类学Wynn/互动分析Suchman & Trigg/语言学Andersen & Holmqvist/组织文化Bødker & Pedersen）+ Part II'为工作实践而设计'（未来工作坊/隐喻设计/纸板计算机/合作原型/持续设计/脚本行动）",
+    "核心论题：①从理性主义到情境行动；②使用者作为胜任的实践者（users as competent practitioners，'human actors'替代'human factors'）；③设计作为社会-政治过程（'The design process is a political one and includes conflicts at almost every step of the way'）；④工具/技术/语言的多重中介；⑤从产品到过程（'Design by Doing'）",
+    "典型案例：UTOPIA项目（丹麦/瑞典报社排字工人）、航空公司运营室复杂表格、邮政转账中心语义冲突、办公室文书工作",
+    "方法：田野录音/转录（秒级互动分析）、访谈记录、参与观察与反思；Ch13以全体作者的未来工作坊记录收束——形式与内容一致（关于合作设计的书本身就是合作设计的产物）",
+    "价值：北欧参与式设计传统的权威总结与北美传播的起点，12.4核心文献",
+    "clean原文存在；未完成全篇、版次、数字和引注核验；文集各章命题按'分析报告综合'承担。"
+  ],
+  "original_spot_checks": [
+    "Ch1：理性主义批判与'users as competent practitioners'",
+    "Ch1：'The design process is a political one'引文",
+    "Ch2：human factors→human actors转向",
+    "Ch7-10：UTOPIA与实体模型/合作原型",
+    "Ch13：'Design by Doing'未来工作坊"
+  ]
+}

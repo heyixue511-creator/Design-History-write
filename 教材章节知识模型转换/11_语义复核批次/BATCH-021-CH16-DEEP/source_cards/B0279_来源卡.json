@@ -1,0 +1,36 @@
+{
+  "source_id": "B0279",
+  "corpus": "book",
+  "folder_name": "Lucy Suchman：《Plans and Situated Actions The Problem of Hu》",
+  "material_type": "人机交互理论经典（情境行动）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Lucy Suchman：《Plans and Situated Actions The Problem of Hu》.md",
+  "duplicate_group": "与B0413（Winograd/Flores）共享AI/交互批判对象；本文为'情境行动'主源",
+  "files": [{"report_file_count": 14, "report_characters": 6832}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.5", "grade": "A", "verification": "V2", "role": "situated_actions"},
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "mutual_intelligibility"},
+    {"section_id": "16.5", "grade": "C", "verification": "V2", "role": "interactive_artifacts"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Lucy Suchman（Xerox PARC），《Plans and Situated Actions》（1987），横跨认知科学/AI/社会学/人类学",
+    "核心命题：有目的的人类行动不是由预先形成的'计划'决定的，而是本质'情境性的'（situated）；计划不是行动的控制机制，而是行动者审议与自我说明时的'表征资源'",
+    "对认知科学'计划=行动机制'的范畴错误批判；对'智能'交互机器（专家帮助系统）设计假设与失败的经验检验",
+    "相互可理解性（mutual intelligibility）不是'共享认知共识'的产物，而是社会成员在每次具体互动中通过情境性实践（话轮转换、修复机制）协作实现的成就",
+    "计算机被视为'交互的'对象因其反应性、语言控制与内部不透明性的组合——但产生危险错觉：误以为机器能如人般'参与'互动",
+    "机器'情境'与用户'情境'的根本不对称：机器只能获取计划的表征和有限的可检测状态变化",
+    "将常人方法学（ethnomethodology）引入技术设计领域；'内部民族志'方法论",
+    "影响：HCI、CSCW、参与式设计、情境认知/分布式认知研究纲领",
+    "本文为交互理论基座（A级）：对16.5承担情境行动命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch.3：计划模型三个支柱批判",
+    "Ch.4：情境行动理论五个命题",
+    "Ch.6-7：四栏分析框架与交互故障逐帧分析",
+    "Ch.8：'表征作为资源'正向案例",
+    "前言：Trukese vs European Navigator隐喻"
+  ]
+}

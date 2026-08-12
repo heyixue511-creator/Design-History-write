@@ -1,0 +1,415 @@
+{
+ "13.1": {
+  "grades": {
+   "B": 3,
+   "C": 2
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0105",
+    "title": "Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit",
+    "grade": "B",
+    "verification": "V2",
+    "role": "scripted_improvisation",
+    "accepted_claim": "脚本化即兴（scripted improvisation）：设计创意在管理结构、客户期待、技术系统与职业惯例中协商生成——后福特生产中的创意劳动",
+    "evidence_boundary": "作者概念（2009）；创意劳动的具体组织档案以案例为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0250",
+    "title": "Kate Fletcher, Lynda Grose：《Fashion & Sustainability Design for Change》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "fast_fashion_supply_chain",
+    "accepted_claim": "快时尚的全球供应链与可持续转型：从\"线性提取-生产-消费-废弃\"转向循环/再生/关系性生态系统；回收作为\"收拾残局\"的批判——后福特生产与供应链的时尚侧",
+    "evidence_boundary": "学术+产业双重视角（2012）；供应链数据以产业档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0250",
+    "title": "Kate Fletcher, Lynda Grose：《Fashion & Sustainability Design for Change》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_practice_transformation",
+    "accepted_claim": "设计师角色转型（传播者-教育者/促进者/行动者/创业者）：设计师从产品创造者变为变革推动者——创意劳动的变化",
+    "evidence_boundary": "作者框架（2012）；角色转型的实践案例以产业为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0083",
+    "title": "Clark, Hazel; Brody, David (eds.), Design Studies： A Reader, 2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "cosmopolitan_localism",
+    "accepted_claim": "设计全球化既是品牌全球化也是地方重构（Manzini的cosmopolitan localism）——13.1全球生产与地方语境",
+    "evidence_boundary": "选文（Manzini）；理论命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0211",
+    "title": "Joanne Entwistle：《The Fashioned Body Fashion, Dress and Modern Social Theory》，2000",
+    "grade": "C",
+    "verification": "V2",
+    "role": "fashion_industry_labor",
+    "accepted_claim": "时尚产业建立在阶级、性别与种族交叉剥削之上；文化\"魅力\"与经济\"耻辱\"结构性脱节——全球生产链的劳动侧",
+    "evidence_boundary": "经济批判（2000）；剥削机制的量化数据以产业档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "13.2": {
+  "grades": {
+   "C": 7,
+   "B": 3,
+   "A": 2
+  },
+  "count": 12,
+  "items": [
+   {
+    "source_id": "B0329",
+    "title": "Olins：《Corporate identity making business strategy visible through design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "corporate_identity_strategy_visible",
+    "accepted_claim": "企业识别=商业战略可视化（identity makes business strategy visible）；身份四维模型（产品/环境/信息/行为）——品牌系统理论奠基",
+    "evidence_boundary": "理论经典（1989）；企业案例成效以企业档案为准",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0329",
+    "title": "Olins：《Corporate identity making business strategy visible through design》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "three_identity_structures",
+    "accepted_claim": "三种身份结构（单一式Monolithic/背书式Endorsed/品牌式Branded）——品牌架构分析工具",
+    "evidence_boundary": "作者类型学（1989）；至今为品牌架构基础工具",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0053",
+    "title": "Brigitte Borja de Mozota：《Design Management Using Design to Build Brand Value and Corporate Innovation》，2003",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_value_three_paths",
+    "accepted_claim": "设计创造价值三路径（差异化/协调/转型）与Designence收敛模型：设计从\"造型输出\"重新定义为\"战略管理过程\"——品牌价值的设计管理理论",
+    "evidence_boundary": "理论框架（2003）＋33家企业实证；企业绩效数据以1997欧洲设计奖样本为限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0053",
+    "title": "Brigitte Borja de Mozota：《Design Management Using Design to Build Brand Value and Corporate Innovation》，2003",
+    "grade": "B",
+    "verification": "V2",
+    "role": "brand_equity_design",
+    "accepted_claim": "设计通过影响消费者认知、情感、符号与社会关系构建品牌资产（Keller模型）；品牌差异化与品牌架构——品牌系统理论",
+    "evidence_boundary": "理论综述（2003）；品牌资产测量以营销研究为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0329",
+    "title": "Olins：《Corporate identity making business strategy visible through design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "invention_of_tradition",
+    "accepted_claim": "传统的发明框架（Hobsbawm/Ranger）：企业身份建构与民族国家符号创造同构——名称、旗帜、仪式创造忠诚",
+    "evidence_boundary": "理论类比（1989）；同构性为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0015",
+    "title": "Alice Rawsthorn：《Hello World Where Design Meets Life》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "apple_paradigm",
+    "accepted_claim": "为何人人都想'做苹果'：商业典范讨论——品牌与设计的关系",
+    "evidence_boundary": "评论性论述（2013）；Apple案例以企业档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0080",
+    "title": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "designer_lifestyle_media_and_brand_system_prehistory",
+    "accepted_claim": "生活方式媒体和设计师品牌可为品牌体验系统提供20世纪末时尚个案",
+    "evidence_boundary": "1995年材料不能解释平台时代或中国品牌体系",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "brand_system_globalization",
+    "accepted_claim": "全球化条件下时尚品牌成为资本主义矛盾的新形式，品牌作为文化结缔组织连接精英文化与大众消费",
+    "evidence_boundary": "Ch12（2003年新增）对品牌资本主义的讨论概要性，缺乏中国品牌具体分析",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0226",
+    "title": "John Heskett：《Toothpicks and Logos Design in Everyday Life》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "image_vs_identity",
+    "accepted_claim": "形象（image）vs身份（identity）区分：\"image is credible only when supported by a good product or service\"——品牌系统的分析概念",
+    "evidence_boundary": "作者概念（2002）；形象/身份的实现以企业档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0226",
+    "title": "John Heskett：《Toothpicks and Logos Design in Everyday Life》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_identity_corporate",
+    "accepted_claim": "企业身份（Ch7）与系统（Ch8）：身份作为设计的整合维度——品牌系统的理论概念",
+    "evidence_boundary": "通识导论（2002）；系统分析以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0242",
+    "title": "Julier：《The culture of design，2018》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "brand_ethos_and_branded_places",
+    "accepted_claim": "品牌从标志到体验系统（跨章）：品牌伦理兴起、品牌化场所（Leeds城市家具、Barcelona城市再设计、Øresund区域品牌）、品牌化休闲（Center Parcs、Disneyland、NikeTown）——13.2品牌系统的当代机制证据",
+    "evidence_boundary": "2000年时点的品牌案例；案例细节须以企业档案与后续研究更新",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "P0061",
+    "title": "Stephen L. Vargo, Robert F. Lusch：《Evolving to a New Dominant Logic for Marketing》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "service_dominant_logic",
+    "accepted_claim": "服务主导逻辑（S-D logic）：商品是服务提供的分销机制（FP3）；企业只能提供价值主张（FP7）——品牌从标志到体验系统的营销理论",
+    "evidence_boundary": "营销理论（2004）；品牌体验系统的设计侧另见B0329/B0053",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "13.3": {
+  "grades": {
+   "B": 4
+  },
+  "count": 4,
+  "items": [
+   {
+    "source_id": "B0218",
+    "title": "John A. Lent：《Asian Comics》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "asian_comics_regional_network",
+    "accepted_claim": "亚洲漫画（日本除外）形成区域生产与流通网络：香港Jademan 1980s中期月总发行210万册15种书名、菲律宾komiks黄金时代单期约10万册、印度Amar Chitra Katha 7900万+册——各国漫画生态是特定语言、文化、宗教、政治经济体系的独特产物——13.3区域文化流动与地方市场",
+    "evidence_boundary": "作者学术通史（2015）；约400位受访者田野访谈",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0421",
+    "title": "The Politics of Design： A (Not So) Global Design Manual for -- [writer and desig",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_is_political",
+    "accepted_claim": "所有设计皆政治：每个设计要么服务要么颠覆现状；\"客观/普遍\"假定与现代主义设计教育绑定——跨文化翻译的设计政治",
+    "evidence_boundary": "作者命题（2016）；案例手册体、广而不深（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0421",
+    "title": "The Politics of Design： A (Not So) Global Design Manual for -- [writer and desig",
+    "grade": "B",
+    "verification": "V2",
+    "role": "standards_embedded_bias",
+    "accepted_claim": "标准与工具内嵌偏见：柯达胶片肤色校准、ISO图标、正常性概念——跨国标准的权力分析（\"标准即权力\"）",
+    "evidence_boundary": "标准考古学案例（2016）；标准制定过程档案另见专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0451",
+    "title": "Wendy Siuyi Wong：《Hong Kong comics. A history of manhua》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "hk_comics_industry_network",
+    "accepted_claim": "香港漫画产业是华语流行文化生产与区域流通网络的枢纽：1949年后香港成为华人漫画唯一商业化产地；玉郎集团1986年上市（首间公开上市漫画公司）、1987年股灾崩溃；与内地、台湾的出版与专业网络交织——13.3区域文化流动与地方市场",
+    "evidence_boundary": "作者通史（2002）；产业史实（上市/股灾/出版流通）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "13.4": {
+  "grades": {
+   "B": 1,
+   "C": 2
+  },
+  "count": 3,
+  "items": [
+   {
+    "source_id": "B0411",
+    "title": "teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "china_design_education_internationalization",
+    "accepted_claim": "1978年后中国设计教育国际化网络：雷曼自1985年起在华讲学约30年，五次全国“造型基础”WORKSHOP培养近百名师资，足迹遍布近十省市二三十所大学；柳冠中1980年代在斯图加特学习后回中央工艺美术学院开设中国第一个工业设计系——教育恢复期的国际合作与师资网络证据",
+    "evidence_boundary": "作者为行动者／观察者侧（P1自述），网络细节（院校、年份、人数）须以中国设计教育档案互校；不单独承担制度史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0105",
+    "title": "Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_profession_governance",
+    "accepted_claim": "设计职业嵌入新公共管理与审计文化：设计创意受到系统化、规范化与问责要求——设计职业的制度语境",
+    "evidence_boundary": "文集分析（2009）；职业治理的国别差异以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0327",
+    "title": "None：《China design now , None》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "professional_networks_recovery",
+    "accepted_claim": "深圳平面设计协会（SGDA）、'平面设计在中国'展（1992）等职业网络——设计职业制度恢复的个案",
+    "evidence_boundary": "个案证据；职业制度政策侧另见13.4专史",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "13.5": {
+  "grades": {
+   "C": 1,
+   "B": 1
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0327",
+    "title": "None：《China design now , None》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "informal_economy_design",
+    "accepted_claim": "正式与非正式经济双轨：第二职业（chaogeng）、'面子项目'/'肚子项目'、承包制——中国设计师在国家体制与市场之间的生存策略",
+    "evidence_boundary": "个案证据（深圳设计师职业轨迹）；非正式经济规模无全国统计",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "C",
+    "verification": "V2",
+    "role": "revisiting_china_contemporary_design_soft_power",
+    "accepted_claim": "GI VI（第三版新增）：从毛时代宣传画到改革开放后世界工厂与品牌输出，2008奥运与2010上海世博会作为国家形象设计事件，以软实力框架分析中国设计，并提示供应链强制劳动与环境代价",
+    "evidence_boundary": "证据边界为clean第8199—8250行GI VI正文与P4分章报告；「软实力」是作者框架命题，Uyghur强制劳动表述须回P0来源",
+    "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   }
+  ]
+ },
+ "13.6": {
+  "grades": {
+   "C": 1,
+   "B": 1
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0327",
+    "title": "None：《China design now , None》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "three_cities_urban_visual",
+    "accepted_claim": "三城叙事（深圳前沿/上海梦想/北京未来）：中国设计文化的城市路径——城市化与消费视觉（平面/时尚/建筑/新媒体）",
+    "evidence_boundary": "V&A策展著作（2008）；三城框架忽略广州/杭州/成都等中心（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0211",
+    "title": "Joanne Entwistle：《The Fashioned Body Fashion, Dress and Modern Social Theory》，2000",
+    "grade": "C",
+    "verification": "V2",
+    "role": "fashion_urban_consumption",
+    "accepted_claim": "时尚作为身份建构核心资源与城市消费文化：\"情境化身体实践\"框架——城市化消费视觉的时尚侧",
+    "evidence_boundary": "时尚社会学理论（2000）；中国城市化消费个案另见B0327等",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "13.7": {
+  "grades": {
+   "C": 5,
+   "B": 2
+  },
+  "count": 7,
+  "items": [
+   {
+    "source_id": "B0105",
+    "title": "Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_policy_creativity",
+    "accepted_claim": "设计政策与创意经济：\"创意\"概念被重新定义（个人天赋→系统化劳动）；设计嵌入新公共管理与审计文化——从制造到创造的政策话语",
+    "evidence_boundary": "文集（2009）；英国经验背景为主、中国政策侧须另核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0327",
+    "title": "None：《China design now , None》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "chineseness_construction",
+    "accepted_claim": "中国性（Chineseness）构建：深圳汉字排版实验、上海时尚语汇、北京建筑传承——从制造到创造的文化主体性讨论",
+    "evidence_boundary": "策展框架（2008）；'中国性'为分析性概念",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0015",
+    "title": "Alice Rawsthorn：《Hello World Where Design Meets Life》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_as_change_agent",
+    "accepted_claim": "设计是变革的代理人：从秦始皇标准化到iPhone——设计文化通论（当代设计叙事）",
+    "evidence_boundary": "设计评论（2013）；通论案例以专史互校",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0053",
+    "title": "Brigitte Borja de Mozota：《Design Management Using Design to Build Brand Value and Corporate Innovation》，2003",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_entrepreneurship",
+    "accepted_claim": "设计史中的企业家精神谱系：设计师本质上是企业家（熊彼特式新生产组合）；\"设计传染过程\"——从制造到创造的职业叙事",
+    "evidence_boundary": "作者论述（2003）；职业叙事与设计史档案并置",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0344",
+    "title": "Penny Sparke：《A century of design design pioneers of the 20th century》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "modernism_dual_track",
+    "accepted_claim": "现代主义双轨论（进步/保守两面）与战后国家身份设计竞争——从现代主义到后现代的设计叙事",
+    "evidence_boundary": "作者框架（1998）；中国设计转型以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0421",
+    "title": "The Politics of Design： A (Not So) Global Design Manual for -- [writer and desig",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_politics_manual",
+    "accepted_claim": "设计政治学手册（2016）：以设计手册形态把后殖民理论、视觉文化研究与排印学、信息设计打通——批判设计教育资源",
+    "evidence_boundary": "通识化写作（2016）；档案性弱（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0465",
+    "title": "万长林：《香港平面设计史》，2012",
+    "grade": "C",
+    "verification": "V2",
+    "role": "mainland_design_demonstration",
+    "accepted_claim": "香港平面设计“波及中国内地，影响了世界”，“催生和丰富了大陆的平面设计艺术”，对大陆设计起示范效应——中国设计转型的香港动力侧证",
+    "evidence_boundary": "绪论层面宏观论断（P1层），非具体机制论证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   }
+  ]
+ }
+}

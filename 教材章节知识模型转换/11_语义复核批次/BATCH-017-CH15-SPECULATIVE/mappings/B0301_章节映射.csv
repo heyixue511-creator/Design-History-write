@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0301,15.1,A,V2,critical_design_three_types,批判性设计三分法（联想式associative/推测式speculative/批判式critical）与历史谱系（1950s意大利激进→德国新设计→Droog→RCA）——15.1学科化,学术专著（2017）；谱系书写挑战'始于RCA'流行叙事,Ch2、Ch5分析报告,ACCEPTED_AS_CORE_SOURCE
+B0301,15.3,A,V2,anti_critique_art_discourse,反驳"这不是艺术吗"批评（Foster/Coles/Poynor）：批判性设计应从设计学科内部分析，而非从艺术话语出发——15.3反批评,作者论证（2017）；艺术话语批评为被反驳立场,Ch4分析报告,ACCEPTED_AS_CORE_SOURCE
+B0301,15.3,B,V2,rhetorical_use_function,"功能"的动态社会建构与"修辞性使用"（rhetorical use）的合法性：功能不足否定批判性设计的设计身份——15.3理论依据,作者论证（2017）；功能分类（Ligo/Schiffer）为理论资源,Ch3-4分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0301,15.2,B,V2,speculative_type,推测式设计类型（Juvenalian讽刺中的寓言与扭曲、外附叙事、关注科技）——15.2推测设计的类型学,类型学框架（2017）；类型边界的经验验证未完成,Ch5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

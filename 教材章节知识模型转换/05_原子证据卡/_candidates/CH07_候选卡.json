@@ -1,0 +1,363 @@
+[
+ {
+  "evidence_id": "EV-C0572",
+  "claim": "雷达—火控系统集成是战时技术—制度共构的核心史实：SCR-584 雷达、M-9 电指挥仪与 VT 引信组合实现防空火控自动化，并催生系统集成者角色",
+  "source_id": "B0316",
+  "source_location": "clean第39、71、174-184行：SCR-584标准化、1942盲射测试、Anzio与V-1战绩",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.1"
+  ],
+  "textbook_function": "wartime_radar_system_integration",
+  "supports": [
+   "雷达—火控系统集成是战时技术—制度共构的核心史实：SCR-584 雷达、M-9 电指挥仪与 VT 引信组合实现防空火控自"
+  ],
+  "does_not_support": [
+   "系统装备与战绩数据为档案史实；自动化最光辉时刻为作者框架命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0573",
+  "claim": "雷达操作者从战场士兵被重构为阅读与操纵表征的技师（XT-1封闭控制车、PPI虚拟地图、pip matching），构成战时数字化感知与人机界面的原型",
+  "source_id": "B0316",
+  "source_location": "clean第31-37行：pip matching、锥形扫描、XT-1封闭、PPI",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.1"
+  ],
+  "textbook_function": "radar_operator_as_technician",
+  "supports": [
+   "雷达操作者从战场士兵被重构为阅读与操纵表征的技师（XT-1封闭控制车、PPI虚拟地图、pip matching），构成战"
+  ],
+  "does_not_support": [
+   "XT-1/PPI/操作者定义为档案史实；类似于今天与计算机交互为作者类比"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0574",
+  "claim": "系统集成者（Getting 八项职责与七项特权）证明系统思维同时是制度安排，是系统工程制度化与战后系统承包商（RAND、MITRE、TRW）的起源",
+  "source_id": "B0316",
+  "source_location": "clean第116-152行：系统集成者职责与特权清单",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.1"
+  ],
+  "textbook_function": "system_integrator_institutional_role",
+  "supports": [
+   "系统集成者（Getting 八项职责与七项特权）证明系统思维同时是制度安排，是系统工程制度化与战后系统承包商（RAND、"
+  ],
+  "does_not_support": [
+   "职责/特权清单出自1945.3档案；战后机构延续为作者推断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0575",
+  "claim": "1944年英国政府设立工业设计委员会CoID（主席Thomas Barlow），初始拨款5.5万英镑，服务于战后出口与好设计推广",
+  "source_id": "B0235",
+  "source_location": "回查拨款额与设立日期原注；对照B0234同名词条",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.2"
+  ],
+  "textbook_function": "council_of_industrial_design_establishment",
+  "supports": [
+   "1944年英国政府设立工业设计委员会CoID（主席Thomas Barlow），初始拨款5.5万英镑，服务于战后出口与好"
+  ],
+  "does_not_support": [
+   "制度史实确定；Woodham强调其历史感知被叙事夸大，机构设立不自动证明工业采用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0576",
+  "claim": "CoID组织的1946年Britain Can Make It展览是英国国家设计推广的标志性公共活动",
+  "source_id": "B0235",
+  "source_location": "回查展览参观人数与影响评价的原始出处",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.2"
+  ],
+  "textbook_function": "britain_can_make_it_1946",
+  "supports": [
+   "CoID组织的1946年Britain Can Make It展览是英国国家设计推广的标志性公共活动"
+  ],
+  "does_not_support": [
+   "展览举办史实确定；Woodham暗示其对大众消费的实际影响有限"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0577",
+  "claim": "1951年英国节由CoID在主任Gordon Russell领导下遴选主要展场展品，是战后英国国家认同与设计推广的里程碑",
+  "source_id": "B0235",
+  "source_location": "核对Banham论文与1976年文集原注",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.2"
+  ],
+  "textbook_function": "festival_of_britain_1951",
+  "supports": [
+   "1951年英国节由CoID在主任Gordon Russell领导下遴选主要展场展品，是战后英国国家认同与设计推广的里程碑"
+  ],
+  "does_not_support": [
+   "Woodham引Banham（载A Tonic to the Nation, 1976）破除英国节创造了新而有价值的英国风格并影响大众品味之说"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0578",
+  "claim": "CoID 1957年启动Good Design Award Scheme（Design Centre Label），1956年开设Haymarket设计中心，构成英国版好设计标签体系",
+  "source_id": "B0235",
+  "source_location": "回查Molony报告与Design杂志原文引注",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.2"
+  ],
+  "textbook_function": "good_design_label_britain",
+  "supports": [
+   "CoID 1957年启动Good Design Award Scheme（Design Centre Label），19"
+  ],
+  "does_not_support": [
+   "Molony委员会认可其推广好设计，但批评Design Index与Design Centre Label缺乏价值、效率、耐久等严格标准，对消费者相关性有限"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0579",
+  "claim": "'优良设计、大规模生产的商品构成新美国艺术形式'——战后美国Good Design话语的行动者宣言；以Art on Wheels、博物馆参观数据论证公众品味提升",
+  "source_id": "B0186",
+  "source_location": "clean第779、804、854行；第6章分析报告",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.3"
+  ],
+  "textbook_function": "good_design_as_american_art_form",
+  "supports": [
+   "'优良设计、大规模生产的商品构成新美国艺术形式'——战后美国Good Design话语的行动者宣言；以Art on Wh"
+  ],
+  "does_not_support": [
+   "属德雷福斯立场宣言与文化辩护；自引统计不能证明Good Design制度（MoMA、企业、中产消费）全貌"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0580",
+  "claim": "战后转向系统化：以人因工程与五点评分公式（效用与安全/维护/成本/销售吸引力/外观）定义'好设计'标准，'设计应当一目了然'、维护必须显而易见",
+  "source_id": "B0186",
+  "source_location": "clean第1698—1778行；第12章分析报告",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.3"
+  ],
+  "textbook_function": "good_design_evaluation_framework",
+  "supports": [
+   "战后转向系统化：以人因工程与五点评分公式（效用与安全/维护/成本/销售吸引力/外观）定义'好设计'标准，'设计应当一目了"
+  ],
+  "does_not_support": [
+   "公式为事务所自述方法（'infallible'是自信断言）；公式在行业中的接受度无独立证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0581",
+  "claim": "Edgar Kaufmann Jr.于1950—1955年在MoMA举办年度Good Design展，与芝加哥Merchandise Mart合作，将干净、几何、经典形式的特定现代主义版本绑定于全球设计文化",
+  "source_id": "B0235",
+  "source_location": "核对Kaufmann《What is Modern Design?》(1959)与展期1950—1955",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.3"
+  ],
+  "textbook_function": "moma_good_design_exhibitions",
+  "supports": [
+   "Edgar Kaufmann Jr.于1950—1955年在MoMA举办年度Good Design展，与芝加哥Merch"
+  ],
+  "does_not_support": [
+   "优良设计话语为制度与精英建构须标注；Kaufmann的定义体现特定社会文化阶层趣味"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0582",
+  "claim": "乌尔姆设计学院HfG Ulm 1953年开课、1968年关闭，其课程以科学化、系统化的设计方法论著称，被视为该方向最重要贡献者",
+  "source_id": "B0235",
+  "source_location": "核对Kinross综述文章与Ulm杂志刊期（1958—59、1962—68）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.4"
+  ],
+  "textbook_function": "hfg_ulm_curriculum_closure",
+  "supports": [
+   "乌尔姆设计学院HfG Ulm 1953年开课、1968年关闭，其课程以科学化、系统化的设计方法论著称，被视为该方向最重要"
+  ],
+  "does_not_support": [
+   "Woodham引Robin Kinross（JDH 1988）提示对HfG的最终评价为时尚早；1968年关闭系州政府令其合并后师生主动选择"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0583",
+  "claim": "Braun于1950年代中期引入来自Ulm的Otl Aicher、Hans Gugelot与Dieter Rams，形成理性克制的产品美学，其声誉与Kaufmann在MoMA倡导的原则一致",
+  "source_id": "B0235",
+  "source_location": "核对KM32厨房机（1957）插图说明与Rams任设计总监时间（1960年表）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.4"
+  ],
+  "textbook_function": "ulm_braun_design_link",
+  "supports": [
+   "Braun于1950年代中期引入来自Ulm的Otl Aicher、Hans Gugelot与Dieter Rams，形成"
+  ],
+  "does_not_support": [
+   "功能美话语为制度与精英建构须标注；Woodham将Braun美学与乌尔姆课程直接绑定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0584",
+  "claim": "A-Z条目加704页图像构成北欧设计作品档案：设计师生卒年、作品型号与年份、制造商、奖项、博物馆收藏（Aalto花瓶1936、Series 7椅1955、Unikko 1965、PH灯1925-等），承担7.6的图像与作品快速参照角色",
+  "source_id": "B0076",
+  "source_location": "clean第14行Aalto花瓶、第3435行Isola/Unikko、第1480行Wegner条目",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.6"
+  ],
+  "textbook_function": "nordic_design_works_visual_archive",
+  "supports": [
+   "A-Z条目加704页图像构成北欧设计作品档案：设计师生卒年、作品型号与年份、制造商、奖项、博物馆收藏（Aalto花瓶19"
+  ],
+  "does_not_support": [
+   "作品-年份-制造商信息可核验；条目中iconic/best-selling等评价须剔除；图像本体即档案，文字评价非档案"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0585",
+  "claim": "‘斯堪的纳维亚设计’是被发明、表演与制度化的范畴而非先在地域实体（编者导言L213），为7.6提供制度即建构的元叙事框架",
+  "source_id": "B0388",
+  "source_location": "clean第213行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.6"
+  ],
+  "textbook_function": "scandinavian_design_as_invented_category",
+  "supports": [
+   "‘斯堪的纳维亚设计’是被发明、表演与制度化的范畴而非先在地域实体（编者导言L213），为7.6提供制度即建构的元叙事框架"
+  ],
+  "does_not_support": [
+   "范畴建构为作者方法论命题；机构史实（协会、奖项、展会年份）仍需档案侧来源"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0586",
+  "claim": "图录体裁（hagiographic and mythopoeic，L127）批判：颂歌式叙述强化统一北欧设计身份神话（L141），是B0076等图录的审计标尺",
+  "source_id": "B0388",
+  "source_location": "clean第127、141行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.6"
+  ],
+  "textbook_function": "coffee_table_genre_critique",
+  "supports": [
+   "图录体裁（hagiographic and mythopoeic，L127）批判：颂歌式叙述强化统一北欧设计身份神话（L"
+  ],
+  "does_not_support": [
+   "体裁批判命题清晰；对具体图录的判断须对照该书文本"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0587",
+  "claim": "1957年通产省设计促进委员会设立G-Mark优良设计奖（东芝电饭煲为首批获奖者之一）；1959年MITI设立设计部门，1969年JIDPO仿照英国CoID成立",
+  "source_id": "B0235",
+  "source_location": "核对G-Mark设立年份、JIDPO 1969年与MITI设计部门1959年原注",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.7"
+  ],
+  "textbook_function": "g_mark_miti_design_promotion",
+  "supports": [
+   "1957年通产省设计促进委员会设立G-Mark优良设计奖（东芝电饭煲为首批获奖者之一）；1959年MITI设立设计部门，"
+  ],
+  "does_not_support": [
+   "制度史实确定；Woodham将日本战后设计置于神话与刻板印象批判框架中处理"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0588",
+  "claim": "战后日本企业相继设立in-house设计部门：松下（1951年访美后）、佳能与东芝1953年、夏普1957年、索尼1954年起；GK设计事务所1957年成立",
+  "source_id": "B0235",
+  "source_location": "逐条核对各公司设计部门设立年份（clean第1527—1536行）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.7"
+  ],
+  "textbook_function": "japanese_inhouse_design_system",
+  "supports": [
+   "战后日本企业相继设立in-house设计部门：松下（1951年访美后）、佳能与东芝1953年、夏普1957年、索尼195"
+  ],
+  "does_not_support": [
+   "Woodham明示松下设立所谓日本首个设计部门之说带传闻维度；各公司年份须回查企业史原注"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0589",
+  "claim": "MITI设计政策工具箱：G-Mark选品制度（1957启动，专利局→1958转MITI→1974转JIDPO）、Design Year（1973）、JETRO海外研修、出口检验与意匠法，构成日本战后“设计国家主义”产业战略；1993年MITI中期报告三项行动计划",
+  "source_id": "B0253",
+  "source_location": "packet 02报告L003-1／L003-2、L004 Arai论证链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.7"
+  ],
+  "textbook_function": "japan_postwar_design_government_policy",
+  "supports": [
+   "MITI设计政策工具箱：G-Mark选品制度（1957启动，专利局→1958转MITI→1974转JIDPO）、Desi"
+  ],
+  "does_not_support": [
+   "制度沿革为内部人陈述（Arai，原MITI设计课长），关键年份与机构沿革须以官方档案复核；同一制度对象与B0235通史叙述只计一份P0"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0590",
+  "claim": "企业设计档案：Sony（TR-610晶体管收音机1958、Walkman 1979）、Honda Super Cub、GK Design Group、天童木工成型合板、Nippon Design Center 1960设立；PAOS品牌策略（Bridgestone、Mazda CI、Matsuya银座重塑）构成7.7企业设计与品牌系统证据",
+  "source_id": "B0253",
+  "source_location": "packet 02报告L003-2企业案例；packet 07设计师自述与企业史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "7.7"
+  ],
+  "textbook_function": "japan_postwar_design_enterprise_products",
+  "supports": [
+   "企业设计档案：Sony（TR-610晶体管收音机1958、Walkman 1979）、Honda Super Cub、G"
+  ],
+  "does_not_support": [
+   "企业史为成就导向自述（P0行动者材料），品牌叙事与营销判断须与独立学术史互校；产品—年份—制造商信息可作快速参照"
+  ],
+  "status": "candidate"
+ }
+]

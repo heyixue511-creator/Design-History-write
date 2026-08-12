@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0471,10.5,B,V2,mao_era_type_design,毛泽东时代的文字设计（Ch15）：字体政治、直排改横排、毛体与报宋——宣传视觉与出版系统的字体制度,字体史个案充分；'毛体'的官方采用与民间使用边界未核,Ch15分析报告（L123-153）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0471,10.5,B,V2,type_politics_liberated_areas,字体政治、抗战与解放区（Ch14）：文字设计的政治动员维度——宣传系统的字体史,个案证据；解放区字体生产的规模数据未核,Ch14分析报告（L105-123）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0471,10.1,C,V2,type_design_institution,文字设计师职业与字体制度：字库、行业规范与'复兴经典'——专业制度的一侧,职业史个案（Ch9）；行业规范文件未核,Ch9分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

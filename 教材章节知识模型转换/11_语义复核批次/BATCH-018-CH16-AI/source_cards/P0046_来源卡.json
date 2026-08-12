@@ -1,0 +1,34 @@
+{
+  "source_id": "P0046",
+  "corpus": "paper",
+  "folder_name": "Marian Mazzone, Ahmed Elgammal：《Art, Creativity, and the Potential of Artificial Intelligence》",
+  "material_type": "AI艺术论文（AICAN系统）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Marian Mazzone, Ahmed Elgammal：《Art, Creativity, and the Potential of Artificial Intelligence》_paged_clean.md",
+  "duplicate_group": "与Hertzmann《Can Computers Create Art?》等同期论争文献为对话关系；本书为开发者自证型文献样本",
+  "files": [{"report_file_count": 9, "report_characters": 3276}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.4", "grade": "A", "verification": "V2", "role": "aican_generative_art"},
+    {"section_id": "16.4", "grade": "A", "verification": "V2", "role": "ai_as_medium"},
+    {"section_id": "16.4", "grade": "B", "verification": "V2", "role": "visual_turing_test"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Mazzone（College of Charleston艺术史系）与Elgammal（Rutgers计算机科学系），Arts 8 (2019)；2018-2019'AI能否创造艺术'论争核心文献",
+    "核心论点：AICAN作品可被视为艺术；机器创造力与人类创造力平行不冲突；人机伙伴关系最大化双方创造优势；AI不是艺术家但超过工具、接近媒介",
+    "AICAN/CAN系统：基于Martindale'最小努力原则'与'风格模糊性'双力训练；视觉图灵测试（75%被误认为人类创作）；2017-2018年多地展览",
+    "AI艺术本体特征：'无自然指涉'——与概念艺术同构（引用Benjamin复制理论、摄影史类比）",
+    "解构'现代艺术家形象'的历史性（浪漫主义起源）；与Hertzmann'算法是工具'论争辩",
+    "限度：开发者利益相关与自证循环；图灵测试样本与统计细节缺失（75%单次研究）；版权/作者权/训练数据合法性未涉及；训练集仅西方艺术史",
+    "本书为AI艺术论文（A级）：对16.4承担生成式AI作者论证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L2：AICAN作品可被视为艺术——核心论点",
+    "L133-136：视觉图灵测试（75%误认）",
+    "L147-150：'算法处于创作主导'",
+    "L210-231：无自然指涉与概念艺术同构",
+    "L249-258：AI定位为'媒介'而非工具"
+  ]
+}

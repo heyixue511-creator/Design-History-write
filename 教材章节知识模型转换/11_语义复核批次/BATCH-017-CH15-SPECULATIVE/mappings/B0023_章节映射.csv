@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0023,15.1,A,V2,design_noir_paranoid,"设计黑色"（Design Noir）与赫兹空间：电子产品通过电磁辐射泄漏的隐秘生命——"梦幻性"（dreaminess）超越"智能"——15.1批判性对象,开创著作（2001）；概念为理论框架,整体分析报告（Section 2-3）,ACCEPTED_AS_CORE_SOURCE
+B0023,15.1,B,V2,designer_as_author,"设计者作为作者"：设计师从产业服务者转变为独立社会评论者——15.1批判实践,作者主张（2001）；作者身份的实现以实践为准,Section 4分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0023,15.2,B,V2,placebo_project,Placebo项目：八件原型物品放置在真实家庭、访谈记录电磁场心理反应——以"物"为媒介的设计虚构/社会学研究,田野项目（2001）；心理反应的样本规模有限,Section 5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

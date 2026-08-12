@@ -1,0 +1,35 @@
+{
+  "source_id": "B0085",
+  "corpus": "book",
+  "folder_name": "Cole Nussbaumer Knaflic：《Storytelling with Data》",
+  "material_type": "数据可视化实践指南",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Cole Nussbaumer Knaflic：《Storytelling with Data》.md",
+  "duplicate_group": "与B0136（Tufte）、B0062（Cairo）、B0016（Black）共享信息图形对象；本书为数据叙事实践侧",
+  "files": [{"report_file_count": 10, "report_characters": 20977}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "explanatory_communication"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "preattentive_attributes"},
+    {"section_id": "16.3", "grade": "C", "verification": "V2", "role": "data_ink_gestalt"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Cole Nussbaumer Knaflic（Google人力分析团队，People Analytics/Project Oxygen），《Storytelling with Data》（Wiley 2015）",
+    "核心命题：将数据转化为有效沟通的关键不在技术工具，而在如何用数据讲好一个故事——'解释性沟通'（explanatory communication）六课框架",
+    "起点悖论：成功的数据可视化始于对沟通情境的理解（Who/What/How三问）而非可视化本身",
+    "前注意属性（preattentive attributes）：大小、颜色、空间位置等不到一秒即可被无意识捕捉的视觉特征——'数3'实验证明其威力",
+    "去杂原则：'空白页面上的每一个元素都会占用受众的认知负荷'——数据墨水比（Tufte）与信号噪声比（Nancy Duarte）",
+    "零基线原则：条形图必须具有零基线，否则产生视觉上的认知欺骗；饼图'evil'",
+    "叙事结构：亚里士多德三幕、McKee编剧理论、Vonnegut写作建议",
+    "本书为数据呈现实践（C级）：对16.3承担数据叙事侧",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch.1：Who/What/How三问框架、3分钟故事",
+    "Ch.2：12种核心图表与饼图批判、零基线",
+    "Ch.3：数据墨水比、格式塔原则、IT工单六步去杂",
+    "Ch.4：前注意属性、'数3'实验",
+    "Ch.7：三幕结构与叙事课程"
+  ]
+}

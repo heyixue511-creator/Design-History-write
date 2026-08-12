@@ -1,0 +1,3 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0128,16.1,A,V2,technical_rationality_critique,技术理性批判：实践不是工具性问题解决而是与情境的反思性对话——专业知识的层级模型选择性忽略复杂性、不确定性、不稳定性和价值冲突——16.1设计认识论,作者理论（1983）；批判对象为实证主义传统（Comte、维也纳学派）,Ch1-2分析报告,ACCEPTED_AS_CORE_SOURCE
+B0128,16.1,B,V2,reflection_in_action,行动中反思（由"惊奇"触发→框架实验→与情境对话→再框架）与"严谨性或相关性"两难（高硬地vs沼泽低地）——16.1实践认识论,作者理论（1983）；设计案例为Quist/Petra工作室协议,Ch3、Ch5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

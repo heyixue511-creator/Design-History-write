@@ -1,0 +1,20 @@
+{
+  "source_id": "B0188",
+  "corpus": "book",
+  "folder_name": "Heskett, John：Design：A Very Short Introduction, 2005",
+  "material_type": "设计通识导论（牛津VSI系列）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Heskett, John：Design：A Very Short Introduction, 2005_clean.md",
+  "duplicate_group": "VGRP010-EDITION：与B0226（《Toothpicks and Logos》2002英国版）为同一著作不同书名/版次（版权页一致：OUP、© Heskett 2002、ISBN 0-19-285446-1）；只计一个独立书目实体，B0226承担全部命题",
+  "files": [{"report_file_count": 14, "report_characters": 3312}],
+  "report_structure": {"review_basis": "duplicate_of_B0226"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "VGRP010（2026-08-12建立）：B0188（VSI系列书名《Design: A Very Short Introduction》2005）与B0226（英国版书名《Toothpicks and Logos: Design in Everyday Life》2002）为Heskett同一著作",
+    "B0226已完成语义复核（3条映射：13.2×2、0.1）；本条目复核结论完全复用B0226",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0226）标记，防止双重计证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

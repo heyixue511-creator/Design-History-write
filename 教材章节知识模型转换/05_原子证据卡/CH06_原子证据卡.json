@@ -1,0 +1,50 @@
+[
+  {
+    "evidence_id": "EV-0601",
+    "claim": "上海印刷资本'石印先行'（1876—1905）：石印先于铅印建立本土印刷资本主义（Reed）",
+    "source_id": "B0079",
+    "source_location": "B0079 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["6.3", "6.2"],
+    "textbook_function": "核心命题（印刷资本）",
+    "supports": ["商务印书馆为印刷资本中枢", "技术转移1807—1930与机器本土制造"],
+    "does_not_support": ["'机械化'区分标准的刚性边界", "'谷登堡在上海'修辞类比（须标注）"],
+    "time_boundary": "1876—1937",
+    "geographic_boundary": "上海",
+    "counterevidence": ["铅印先行说（欧洲中心印刷史叙事，被修正对象）"],
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0602",
+    "claim": "民族形式论争的完整史实链：苏联口号输入→梁思成中国化→三类型→十四字方针（邹德侬）",
+    "source_id": "B0514",
+    "source_location": "B0514 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["6.6"],
+    "textbook_function": "核心命题（民族形式）",
+    "supports": ["民族形式论争的建筑侧机制", "政治任务与设计的关系"],
+    "does_not_support": ["工艺侧机制（装饰艺术传华）不合并于此链", "'民族特质'价值判断"],
+    "time_boundary": "1949—1978（论争时段）",
+    "geographic_boundary": "中国",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0603",
+    "claim": "救亡漫画武器化：31幅传单的内容分析显示战时宣传的视觉生产机制（Lent）",
+    "source_id": "B0219",
+    "source_location": "B0219 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["6.7"],
+    "textbook_function": "案例证据（宣传生产）",
+    "supports": ["战争环境中的宣传与生产", "漫画图像的内容分析"],
+    "does_not_support": ["动员效果或接受效果（不可由传单内容证明）", "国共宣传的均衡比较"],
+    "time_boundary": "1937—1945",
+    "geographic_boundary": "中国",
+    "counterevidence": ["作者自认共产党/大陆视角偏差须标注"],
+    "status": "accepted"
+  }
+]

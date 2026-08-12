@@ -1,0 +1,59 @@
+[
+ {
+  "evidence_id": "EV-C0596",
+  "claim": "1988 年论文集以编者导言系统引入后现代状况（历史感丧失、交流狂喜）并批判现代主义被非历史化误置，确立『设计超越物体』纲领",
+  "source_id": "B0415",
+  "source_location": "clean L209-211、L257、L289-341 区域；回查 Contributors（L10229 起）核实各章作者",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "11.1"
+  ],
+  "textbook_function": "postmodern_condition_and_critique_of_modernism",
+  "supports": [
+   "1988 年论文集以编者导言系统引入后现代状况（历史感丧失、交流狂喜）并批判现代主义被非历史化误置，确立『设计超越物体』"
+  ],
+  "does_not_support": [
+   "编者导言为编辑框架，17 章各自独立署名，非全书统一结论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0597",
+  "claim": "设计对象从物体转向系统、软件、过程与体验（第三产业化、软件设计、过程思维）——全书核心涌现命题",
+  "source_id": "B0415",
+  "source_location": "clean L400-403 区域、L9673、L10041-10042",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "11.1"
+  ],
+  "textbook_function": "design_turn_from_object_to_process",
+  "supports": [
+   "设计对象从物体转向系统、软件、过程与体验（第三产业化、软件设计、过程思维）——全书核心涌现命题"
+  ],
+  "does_not_support": [
+   "命题由 Ch01+Ch16+Ch17 跨章合成（P4 命题 A），单独章节只表达侧面"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0598",
+  "claim": "朋克与街头风格须区分参与者实践、零售供给、媒体标签、设计师挪用和商业吸收",
+  "source_id": "B0080",
+  "source_location": "补参与者自述、同期刊物、对象制作、销售、场景和反例",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "11.6"
+  ],
+  "textbook_function": "punk_retail_media_subculture_and_commercial_absorption",
+  "supports": [
+   "朋克与街头风格须区分参与者实践、零售供给、媒体标签、设计师挪用和商业吸收"
+  ],
+  "does_not_support": [
+   "服装符号不能直接等同于统一身份或政治立场，且材料多为二手／媒体"
+  ],
+  "status": "candidate"
+ }
+]

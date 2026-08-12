@@ -1,0 +1,36 @@
+{
+  "source_id": "P0004",
+  "corpus": "paper",
+  "folder_name": "Alternatives：《exploring information appliances through Bill Gaver; Heather Marti",
+  "material_type": "HCI 设计研究方法论文（推测性设计前身）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Alternatives：《exploring information appliances through Bill Gaver; Heather Marti_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 5336}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.2", "grade": "B", "verification": "V2", "role": "proposals_as_placeholders"},
+    {"section_id": "15.2", "grade": "C", "verification": "V2", "role": "research_through_design_triad"},
+    {"section_id": "16.5", "grade": "C", "verification": "V2", "role": "alternative_values_beyond_utility"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Bill Gaver & Heather Martin（Royal College of Art, London），《Alternatives: Exploring Information Appliances through Conceptual Design Proposals》（CHI 2000，劳德代尔堡），HCI会议论文",
+    "报告信息家电项目的概念设计提案工作簿（Alternatives workbook，约20个提案）：既展示内容（约12个提案），又作为'通过设计的研究'（research through design）方法示范",
+    "核心论点：信息家电概念模糊、设计空间未定，应以'提案群'而非分析先行来测绘空间；数字设备可以且应当承载功能与有用性之外的替代价值",
+    "六类替代价值：印象式显示（impressionistic displays）、消遣（diversions，情境主义漂移）、影响（influence）、亲密（intimacy）、洞察（insight）、神秘（mystery含灵性/超自然）",
+    "价值虚构（value fictions，承Tony Dunne《Hertzian Tales》）：'技术上可信、社会上可质疑'的价值虚构是内嵌于设计的文化批判手段",
+    "方法三要素：具体性（虚构造物作为理论枢纽，承Carroll & Kellogg）、开放性（提案作为原型）、多样性（拼贴图像与'疏离声音'呈现）",
+    "提案群作为'占位符/地标'（placeholders as landmarks）让设计空间从领土中涌现，并可构成新型用户研究的中间地带",
+    "与Norman《The Invisible Computer》和Weiser普适计算对话但立场不同——从可用性转向意义；预示后来的speculative design（Dunne & Raby）与slow technology议程",
+    "历史地位：1990年代末'设计研究转向'与推测性设计兴起的交汇点；'提案即探针'与Gaver的cultural probes同源",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L25-33：信息家电设计空间未定与二分批判",
+    "L62-64：价值虚构与技术可信",
+    "L68-154：六类替代价值",
+    "L162：具体性-开放性-多样性三要素",
+    "L186-194：占位符/地标与涌现设计空间"
+  ]
+}

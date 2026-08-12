@@ -1,0 +1,36 @@
+{
+  "source_id": "B0301",
+  "corpus": "book",
+  "folder_name": "Matt Malpass：《Critical Design in Context History, Theory, and Practices》",
+  "material_type": "批判性设计学术专著（首部系统）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Matt Malpass：《Critical Design in Context History, Theory, and Practices》.md",
+  "duplicate_group": "与B0024/B0025（Dunne & Raby）、B0043（Malpass推测设计）共享批判设计对象；本书为批判设计学科化主源",
+  "files": [{"report_file_count": 12, "report_characters": 5675}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.1", "grade": "A", "verification": "V2", "role": "critical_design_three_types"},
+    {"section_id": "15.3", "grade": "A", "verification": "V2", "role": "anti_critique_art_discourse"},
+    {"section_id": "15.3", "grade": "B", "verification": "V2", "role": "rhetorical_use_function"},
+    {"section_id": "15.2", "grade": "B", "verification": "V2", "role": "speculative_type"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Malpass，Bloomsbury Academic 2017；批判性设计领域首部系统性学术专著（六章三板块：历史/理论/实践）",
+    "核心重构：批判性设计实践涵盖associative design（联想式）、speculative design（推测式）和critical design（批判式）三种类型——挑战'批判性设计=Dunne & Raby式'流行理解",
+    "历史谱系：1950s意大利激进设计（Castiglioni、Superstudio、Alchimia）→德国新设计→荷兰Droog→1990s RCA——瓦解'批判性设计始于RCA'流行叙事",
+    "反驳'这不是艺术吗'批评（Hal Foster、Alex Coles、Rick Poynor）：基于艺术视角的批评忽视设计师的学科意图——批判性设计应从设计学科内部分析",
+    "功能概念重构：'修辞性使用'（rhetorical use）与实际使用同等合法（Ligo五类功能、Schiffer技术/意识形态/社会/系统功能）",
+    "三种类型以讽刺为共同机制：associative（Horatian讽刺，嵌入叙事）、speculative（Juvenalian寓言扭曲，外附叙事）、critical（Juvenalian对立暴力，关系性模糊）",
+    "结论：批判性设计与主流设计构成拮抗性（agonistic）互补关系",
+    "本书为批判设计学科化主源（A级）：对15.1承担三分法与谱系、15.3承担反批评",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch2：历史谱系——1950s意大利激进到1990s RCA",
+    "Ch4：'这不是艺术吗'——Foster/Coles/Poynor批评反驳",
+    "Ch5：三分法分类学（associative/speculative/critical）——讽刺为共同机制",
+    "功能重构：'修辞性使用'与实际使用同等合法",
+    "Ch6：拮抗性互补——批判设计扩展产品设计学科视域"
+  ]
+}

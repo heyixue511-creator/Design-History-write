@@ -1,0 +1,34 @@
+{
+  "source_id": "B0501",
+  "corpus": "book",
+  "folder_name": "王受之：《世界平面设计史》，2001",
+  "material_type": "世界平面设计通史（中文教材）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\王受之：《世界平面设计史》，2001.md",
+  "duplicate_group": "与B0503（王受之世界现代设计史）为同一作者不同书；与B0214（Drucker平面设计史）共享通用平面史实；中国大陆设计不予讨论（作者声明，L447）",
+  "files": [{"report_file_count": 22, "report_characters": 4215}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "10.5", "grade": "C", "verification": "V2", "role": "international_style_reference"},
+    {"section_id": "9.5", "grade": "C", "verification": "V2", "role": "corporate_identity_visual_systems"},
+    {"section_id": "10.1", "grade": "C", "verification": "V2", "role": "graphic_design_definition"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "王受之（设计史论丛书），中国青年出版社2002年9月第1版（clean文件名标2001）；1998年初版《世界现代平面设计史》，本版新增数码时代章",
+    "定义：平面设计＝以印刷批量为手段的二维视觉传达活动；视觉传达准确第一、美化第二（L61）",
+    "主线：印刷技术发展为线索；平面设计是'民主的艺术形式'（L151）；技术决定论视角（印刷机械→石版→照相制版→电脑）",
+    "结构：17章——工业时代版面、摄影、维多利亚、工艺美术、新艺术、现代主义、图画现代主义、构成主义/风格派、包豪斯、美国现代主义、瑞士国际主义、纽约派、企业形象设计（CI）、观念形象、国际语言、数码时代",
+    "关键概念：视觉传达、印刷四法、无装饰线体、方格网络、CI、国际主义平面设计风格",
+    "限度：通史教材偏描述性叙述；个别史实年份讹误；对非西方设计偏重日本/波兰/古巴，中国大陆设计明确不予讨论（L447）",
+    "本书对10.5承担国际主义风格与CI的对照（C级）；中国宣传视觉侧以B0266/B0471等为准",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L61：'平面设计＝以印刷批量为手段的二维视觉传达活动'",
+    "L151：平面设计是'民主的艺术形式'",
+    "Ch12（L267-293）：国际主义平面设计风格（瑞士）",
+    "Ch14（L355-389）：企业形象设计与视觉识别系统（CI、奥运会）",
+    "L447：中国大陆设计明确不予讨论（作者声明）"
+  ]
+}

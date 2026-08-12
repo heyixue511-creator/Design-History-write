@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0329,13.2,A,V2,corporate_identity_strategy_visible,企业识别=商业战略可视化（identity makes business strategy visible）；身份四维模型（产品/环境/信息/行为）——品牌系统理论奠基,理论经典（1989）；企业案例成效以企业档案为准,整体分析报告（L004）,ACCEPTED_AS_CORE_SOURCE
+B0329,13.2,A,V2,three_identity_structures,三种身份结构（单一式Monolithic/背书式Endorsed/品牌式Branded）——品牌架构分析工具,作者类型学（1989）；至今为品牌架构基础工具,Ch4分析报告,ACCEPTED_AS_CORE_SOURCE
+B0329,13.2,B,V2,invention_of_tradition,"传统的发明"框架（Hobsbawm/Ranger）：企业身份建构与民族国家符号创造同构——名称、旗帜、仪式创造忠诚,理论类比（1989）；同构性为分析框架,Ch1分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0329,9.5,A,V2,corporate_identity_visual_system,企业识别作为商业战略可视化工具：CI从设计实践提升为管理学科——企业形象系统化的理论经典（跨章）,理论经典（1989）；与B0357设计管理互补,整体分析报告,ACCEPTED_AS_CORE_SOURCE

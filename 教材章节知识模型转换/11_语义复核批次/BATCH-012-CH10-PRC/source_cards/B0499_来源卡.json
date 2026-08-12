@@ -1,0 +1,34 @@
+{
+  "source_id": "B0499",
+  "corpus": "book",
+  "folder_name": "樊进, 龙红：《中国当代设计全集 第4卷 平面类编 图案篇》，2015",
+  "material_type": "中国当代设计图录（图案篇）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\樊进, 龙红：《中国当代设计全集 第4卷 平面类编 图案篇》，2015.md",
+  "duplicate_group": "与B0471（周博文字设计图史）共享当代中国视觉对象；与B0266（宣传画）、B0505（书衣）共享宣传/票证图像对象时只计一份P0",
+  "files": [{"report_file_count": 18, "report_characters": 3846}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "10.3", "grade": "B", "verification": "V2", "role": "product_patterns_daily_goods"},
+    {"section_id": "10.5", "grade": "B", "verification": "V2", "role": "wenchuan_ticket_patterns"},
+    {"section_id": "10.6", "grade": "B", "verification": "V2", "role": "folk_patterns_craft"},
+    {"section_id": "10.3", "grade": "C", "verification": "V2", "role": "building_patterns_public"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "《中国当代设计全集》（全20卷）第4卷平面类编图案篇，商务印书馆2015年12月第1版，国家出版基金项目；总主编王琥等，本卷主编樊进、龙红",
+    "收录1949年以来约140个图案案例，六编：产品图案（火花、搪瓷、暖水瓶、唱片封套、摆钟、陶瓷）、建筑图案（人民大会堂、民族文化宫、南京长江大桥、地铁壁画）、教学图案、民间图案（年画、剪纸、农民画、麦秆剪贴）、文宣图案（报头、黑板报头、宣传栏）、票证图案（粮票、布票、购货券、公债、国库券、IC卡）",
+    "总序命题：李砚祖'设计：艺术化生活之道'（工艺美术三阶段、设计概念史）；李立新'向现代化转型的造物革命'（生产方式/功能目的/结构形式三重转型）",
+    "分析框架：构图—色彩—纹样骨式（二方/四方连续、适合纹样、缠枝纹）—视觉流程—图底关系，历史语境化解释（'红光亮'、'图必有意意必吉祥'）",
+    "限度：文字为案例说明体（理论集中于序言）；时代背景叙述有模式化倾向；案例以南京艺术学院、中央工艺美院系作品居多（地域与学院偏向）",
+    "本书为当代图案图录主源：对10.3承担日用品图案（B级）、10.5承担文宣/票证（B级）、10.6承担民间图案（B级）",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L7（李砚祖总序）：'设计：艺术化生活之道'；'工艺美术'三阶段",
+    "L9（李立新总序）：1949年以来60年中国设计是向'现代化'转型的造物革命",
+    "产品图案编：火花、搪瓷、暖水瓶、唱片封套等约37例",
+    "文宣图案编：报头、黑板报头、宣传栏约19例",
+    "票证图案编：粮票、布票、购货券、公债、国库券约31例"
+  ]
+}

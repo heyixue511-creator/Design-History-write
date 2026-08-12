@@ -1,0 +1,742 @@
+{
+ "9.1": {
+  "grades": {
+   "C": 11,
+   "B": 17,
+   "A": 4
+  },
+  "count": 32,
+  "items": [
+   {
+    "source_id": "B0202",
+    "title": "Jean Baudrillard：《The Consumer Society Myths and Structures》，1970",
+    "grade": "A",
+    "verification": "V2",
+    "role": "sign_code_consumption_theory",
+    "accepted_claim": "消费是符号的差异化生产与交换而非需求满足：物品作为社会地位能指在差异化符码中运作；需求是系统生产出来的——消费社会理论原典",
+    "evidence_boundary": "理论框架（1970）；结构分析缺乏历史细节；对消费者能动性扁平化（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0203",
+    "title": "Jean Baudrillard：《The System Of Objects》，1968",
+    "grade": "A",
+    "verification": "V2",
+    "role": "object_as_sign",
+    "accepted_claim": "物=符号：要成为消费对象，物必须先成为符号；消费是符号的系统性操控（建立在\"缺乏\"之上、不可抑制）——物体系理论原典",
+    "evidence_boundary": "理论框架（1968）；经验材料限于法国中产高端文本（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0315",
+    "title": "Miller, Daniel：Material Culture and Mass Consumption, 1987",
+    "grade": "A",
+    "verification": "V2",
+    "role": "consumption_as_recontextualization",
+    "accepted_claim": "消费即\"再语境化\"：将异化商品转化为不可让渡之文化；\"消费作为劳动\"（consumption as work）——物质文化的消费理论奠基",
+    "evidence_boundary": "理论框架（1987）；对消费积极潜能的论证流于理想化（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0431",
+    "title": "Vance Packard：《The Waste Makers》，1960",
+    "grade": "A",
+    "verification": "V2",
+    "role": "planned_obsolescence_typology",
+    "accepted_claim": "计划报废三类型（功能/质量/欲望）与\"抛弃精神\"（throwaway spirit）：美国工商界为消化过剩产能系统制造浪费——消费社会批判原典",
+    "evidence_boundary": "调查性著作（1960年时点）；数据依赖当时报刊缺乏系统统计验证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0001",
+    "title": "1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo",
+    "grade": "B",
+    "verification": "V2",
+    "role": "department_store_shaping_consumer",
+    "accepted_claim": "百货商店塑造现代消费文化（1860—1914）：从\"购买\"到\"购物\"的转变、广告与陈列构建\"眼睛的技术官僚体制\"、廉价商品转化为\"壮观的商品符号\"——消费文化形成",
+    "evidence_boundary": "学术论文（约1993）；法美个案；接受侧（购物者体验）无直接证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0120",
+    "title": "Deyan Sudjic：《The Language of Things Understanding the World of Desirable Objects》，2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_as_desire_language",
+    "accepted_claim": "后机械时代设计从现代主义道德承诺蜕变为被资本征用的\"叙事语言\"：通过符号操纵身份、性别、阶级与\"奢侈\"感知——消费欲望批判",
+    "evidence_boundary": "设计批评侧证据（博物馆馆长/评论家视角）；案例事实须与专史互校",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "consumer_economy_rise",
+    "accepted_claim": "19世纪美国消费经济兴起：1880s起工厂制成品进入家庭；广告与现代工业设计（1920s末自广告业诞生）以女性为首要对象",
+    "evidence_boundary": "宏观史叙述为二手综合；广告证据为组织者话语",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0202",
+    "title": "Jean Baudrillard：《The Consumer Society Myths and Structures》，1970",
+    "grade": "B",
+    "verification": "V2",
+    "role": "structural_penury_growth",
+    "accepted_claim": "结构匮乏：增长并不导向平等，而是再生产结构性匮乏与特权；批判加尔布雷思\"真实需求/虚假需求\"二分",
+    "evidence_boundary": "作者论证（1970）；与Packard实证批判互补",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0315",
+    "title": "Miller, Daniel：Material Culture and Mass Consumption, 1987",
+    "grade": "B",
+    "verification": "V2",
+    "role": "objectification_theory",
+    "accepted_claim": "客体化（objectification）理论：主体通过外化与扬弃实现自我发展——物质文化研究的哲学基础",
+    "evidence_boundary": "对黑格尔的抽象提取可能过度简化（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0367",
+    "title": "Richards, Thomas：The Commodity Culture of Victorian England：Advertising and Spectacle, 1851-1914, 1991",
+    "grade": "B",
+    "verification": "V2",
+    "role": "commodity_culture_precedes_economy",
+    "accepted_claim": "商品文化先于消费经济诞生：1851年博览会把商品抬升为\"一切再现的焦点\"，广告人作为\"资本主义的行吟诗人\"——消费文化前史",
+    "evidence_boundary": "作者核心命题（1990）；样本偏重中产阶级报刊（作者自认），工人消费者缺席",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0367",
+    "title": "Richards, Thomas：The Commodity Culture of Victorian England：Advertising and Spectacle, 1851-1914, 1991",
+    "grade": "B",
+    "verification": "V2",
+    "role": "spectacle_six_bases",
+    "accepted_claim": "景观六大基础（自主图像志、纪念、民主意识形态、商品语言、消费主体、丰裕神话）——消费景观的理论框架",
+    "evidence_boundary": "作者分析框架（1990）；德波理论应用有教条化风险（作者自认）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "shift_of_social_meaning_production_to_consumption",
+    "accepted_claim": "战后消费社会的根本变化：社会意义来源从生产转向消费，工人因消费而非生产被重视",
+    "evidence_boundary": "作者核心框架命题（社会学家论证），可作战后美国消费社会的机制解释",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mass_consumption_fordist_system",
+    "accepted_claim": "大众消费是福特制生产体系的支柱，汽车、住房、电视的批量购买塑造新消费社会",
+    "evidence_boundary": "直接论述战后消费社会形成机制，史实与命题混合",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "organization_of_consumption_critical_infrastructure",
+    "accepted_claim": "消费的组织与生产组织同等重要，文化生产者—评论者—服务员构成关键基础设施",
+    "evidence_boundary": "作者原创命题（1991），与教材消费社会论述互补；概念边界弹性（作者自承）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "disney_world_fantasy_consumption",
+    "accepted_claim": "迪士尼世界以幻想景观与立面组织大众消费，是战后消费文化的极致案例",
+    "evidence_boundary": "案例以1980s迪士尼为主，自1955 Disneyland起算；作消费社会案例证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_postwar_consumer_society",
+    "accepted_claim": "战后消费社会：Admass（Priestley，L870）与核家庭消费单位（L874）；消费成为主要认同形式（L872）；好设计=好品味成为零售与制度话语（MoMA/CoID/Den Permanente，L912）；1960s青年文化取代性别成为消费主导范畴（L916）",
+    "evidence_boundary": "Ch6.1二手综合（引Galbraith、Williams、Hine等）；判断为作者命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0401",
+    "title": "Sparke：《An introduction to design and culture _ 1900 to the present，2020》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_brand_consumer_culture",
+    "accepted_claim": "后现代消费文化：理论谱系（Baudrillard、Eco、Bourdieu、Featherstone、Jameson，L931）；品牌全球化（Nike、Reebok、Benetton、Swatch，L953）与设计师品牌化（L929）；消费研究新范式（Douglas & Isherwood、Miller、McCracken，L1250）",
+    "evidence_boundary": "Ch6.2与Ch9理论综述，作者综合命题；品牌案例为通用史实只计一份",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "B",
+    "verification": "V2",
+    "role": "consumer_sovereignty_vs_citizenship",
+    "accepted_claim": "消费者主权（美国：高收入＋竞争实现形式选择自由）与消费公民权（欧洲：社会参与、再分配与政治组织权利）的概念史对照",
+    "evidence_boundary": "概念史基于美欧改革者话语，非制度实证；欧洲“消费公民权”为理想型概括",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mass_consumption_diffusion",
+    "accepted_claim": "1950s-60s大众消费加速的社会转型：人口增长、城市化、新家庭、收入上升、信用可及、新性别角色；“单一阶级市场”迹象",
+    "evidence_boundary": "欧洲侧扩散证据；耐用消费品仅泛指，未按品类展开",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "B",
+    "verification": "V2",
+    "role": "one_class_market_durables",
+    "accepted_claim": "1960s末耐用消费品扩散跨越阶级与地区的“单一阶级市场”迹象",
+    "evidence_boundary": "作者自陈“购物曲线上扬”乐观判断未注出处",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   },
+   {
+    "source_id": "B0431",
+    "title": "Vance Packard：《The Waste Makers》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "saturation_growthmanship",
+    "accepted_claim": "饱和与增长主义（Growthmanship）：生产超越消费、'增长即善'信条批判；'被强制喂食的社会'（force-fed society）",
+    "evidence_boundary": "作者论证（1960）；增长批判为时代命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0001",
+    "title": "1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo",
+    "grade": "C",
+    "verification": "V2",
+    "role": "long_duration_prehistory",
+    "accepted_claim": "19世纪零售制度可作为战后消费社会的长时段前史",
+    "evidence_boundary": "不能支持1945年后的收入零售广告和耐用消费品事实",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0001",
+    "title": "1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo",
+    "grade": "C",
+    "verification": "V2",
+    "role": "false_democratization_luxury",
+    "accepted_claim": "奢侈的虚假民主化：百货商店以廉价批量商品提供\"财富与富足的虚幻符号\"，中产阶级借身份符号的区隔竞争更新外观——消费与阶级",
+    "evidence_boundary": "概念（达夫内尔1880s）经作者重释；'虚假'判断为作者论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0142",
+    "title": "Elizabeth Shove, Matthew Watson, Martin Hand, Jack Ingram：《The Design of Everyday Life》，2007",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ordinary_consumption",
+    "accepted_claim": "日常消费（ordinary consumption）：消费嵌入实践（\"几乎所有的实践都意味着消费\"——Warde），不限于新奇与身份建构——消费理论修正",
+    "evidence_boundary": "理论命题；与符号学消费理论（Baudrillard）形成对照",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "affluent_society_consumer_citizen_theory",
+    "accepted_claim": "消费不仅是生产结束后的被动环节，时尚消费将个体建构为身份表演者，消费公民身份通过着装类型学形成",
+    "evidence_boundary": "战后丰裕社会史料非本书重心，理论机制可借鉴、个案不可直接借用",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0180",
+    "title": "Guy Julier：《The Culture of Design》，2000",
+    "grade": "C",
+    "verification": "V2",
+    "role": "problem_processing",
+    "accepted_claim": "当代设计实践变革：设计咨询公司汇集材料、制造、软件与\"未来学\"专家，设计师以\"商业方法\"而非\"视觉风格\"推销自己——消费社会中的设计职业",
+    "evidence_boundary": "行业观察（Hollington 1998转引）；变革程度无量化数据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0242",
+    "title": "Julier：《The culture of design，2018》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "knowing_consumer_and_consumption",
+    "accepted_claim": "消费的复杂性：“知晓的消费者”（knowing consumer）介于法兰克福学派被动论与消费者主权论之间，消费成为多重位置的文化实践——9.1消费社会理论资源（跨章）",
+    "evidence_boundary": "作者综合命题（综合Bourdieu/de Certeau等）；作为理论框架引用",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0357",
+    "title": "Rachel Davies-Cooper, Mike Press：《The Design Agenda》，1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_value_economy_culture",
+    "accepted_claim": "设计连接经济与文化：设计的五层价值（企业/国民经济/后福特经济/消费文化/社会价值）——设计价值的论证框架",
+    "evidence_boundary": "价值论证依赖个案与转述研究（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0376",
+    "title": "Roland Marchand：《Advertising and the American dream - Making way for modernity, 1920-1940》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "great_parables_consumer_logic",
+    "accepted_claim": "四则大寓言（第一印象、物品民主、文明救赎、被俘获孩子）把美国梦重构为“通过消费无代价地抵达现代”的生活逻辑——消费社会意识形态机制（跨章）",
+    "evidence_boundary": "作者分析范畴；作为意识形态解读引用而非广告史事实",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "landscape_swallows_vernacular",
+    "accepted_claim": "景观吞并地方语言：中央化经济权力以个体消费选择的面目掩藏，提供消费社会的批判视角",
+    "evidence_boundary": "作者框架命题，作批判性补充而非史实",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "C",
+    "verification": "V2",
+    "role": "role_consumer_citizen",
+    "accepted_claim": "“公民—消费者”命题：大众风格体制下消费逻辑渗透社会",
+    "evidence_boundary": "时段早于战后丰裕社会，属先声",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0486",
+    "title": "朱和平：《世界现代设计史》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "chinese_textbook_consumer_period",
+    "accepted_claim": "中文通史中的战后消费与设计分期：计划废止制、有机设计、系统设计等概念的教材表述——消费社会的中文通史参照",
+    "evidence_boundary": "二手综合教材（2013）；个别数据前后不一（作者自认限度）；与B0503/B0101通用史实只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "9.2": {
+  "grades": {
+   "A": 2,
+   "D": 1,
+   "C": 3,
+   "B": 3
+  },
+  "count": 9,
+  "items": [
+   {
+    "source_id": "B0142",
+    "title": "Elizabeth Shove, Matthew Watson, Martin Hand, Jack Ingram：《The Design of Everyday Life》，2007",
+    "grade": "A",
+    "verification": "V2",
+    "role": "restless_kitchen_dynamics",
+    "accepted_claim": "厨房翻新的\"拥有—做\"动态（40个英国家庭访谈）：消费由未来导向的实践愿景驱动，而非仅对新奇或身份的追求——家庭劳动与消费实践",
+    "evidence_boundary": "访谈样本（40家庭，英国）；\"三种不安模式\"为作者模型",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "appliance_efficiency_promise_labor",
+    "accepted_claim": "家电“省力/解放”承诺重新分配而非消除劳动：洗衣从商业洗衣房回退家庭、家务标准上升、女性个体消费者身份强化（Ebony 1967 Hoover广告）",
+    "evidence_boundary": "Cowan/Schor归因与广告话语并置；“回退”论证为Lupton分析命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0142",
+    "title": "Elizabeth Shove, Matthew Watson, Martin Hand, Jack Ingram：《The Design of Everyday Life》，2007",
+    "grade": "B",
+    "verification": "V2",
+    "role": "distributed_competence_diy",
+    "accepted_claim": "DIY能力的分布式特征（14位实践者访谈＋工具箱导览）：能力散布于人-工具-材料-说明书网络；\"工程\"作为中观秩序概念",
+    "evidence_boundary": "个案访谈；能力分布框架为作者理论",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0203",
+    "title": "Jean Baudrillard：《The System Of Objects》，1968",
+    "grade": "B",
+    "verification": "V2",
+    "role": "model_series_functionality",
+    "accepted_claim": "模型/系列与功能性=系统可整合性：物不是因为\"好用\"而是因为\"能进入组合\"才具功能性；边际差异机制使系列趋近模型——设计的功能性批判",
+    "evidence_boundary": "理论命题；经验案例（Facel-Vega/2CV）为法国语境",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0431",
+    "title": "Vance Packard：《The Waste Makers》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "quality_decline_home_products",
+    "accepted_claim": "家电/家居质量劣化与\"厨房时装化\"（Fashion Lines for the Kitchen）：家庭产品的短期化与维修业获利（The Repairman's Paradise）",
+    "evidence_boundary": "案例证据（汽车、家电、轮胎）；劣化程度无系统检测数据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "domestic_labor_family_ideology",
+    "accepted_claim": "19世纪资产阶级“家中的天使”意识形态将女性限定于家庭领域，“优雅如同家务劳动”揭示装饰性劳动与家庭劳动的同一性",
+    "evidence_boundary": "家庭劳动/家电主题仅作为性别意识形态背景出现",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0202",
+    "title": "Jean Baudrillard：《The Consumer Society Myths and Structures》，1970",
+    "grade": "C",
+    "verification": "V2",
+    "role": "consumption_as_social_control",
+    "accepted_claim": "消费逻辑向一切领域扩张：大众媒介、身体、休闲、关怀均被消费逻辑殖民——消费作为社会控制机制",
+    "evidence_boundary": "理论命题；经验证据薄弱（作者自认）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0441",
+    "title": "Walker：《Sustainable by design explorations in theory and practice》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "enduring_artefacts",
+    "accepted_claim": "经久之物（念珠为典范）：意义高于物性；三层物品分类（功能/社会-地位/灵感-精神）——物品价值论",
+    "evidence_boundary": "理论框架＋作者原型实验；市场可行性未检验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "D",
+    "verification": "V2",
+    "role": "household_credit_gender_roles",
+    "accepted_claim": "文中女性仅以主妇/侍女/女主人配角出现，家庭账本与零用钱购物未展开，与厨房家电/家庭劳动主题仅边缘相关",
+    "evidence_boundary": "性别维度薄弱，作者未作专门分析，仅作边界性提及",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   }
+  ]
+ },
+ "9.3": {
+  "grades": {
+   "C": 4,
+   "B": 5,
+   "A": 3,
+   "D": 1
+  },
+  "count": 13,
+  "items": [
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "clerical_work_feminization",
+    "accepted_claim": "文书工作1890—1920年从男性转向女性主导（打字/速记女性占比60%→90%）；打字机作为无性别历史新技术充当女性进入办公室的楔子；“pin money”意识形态",
+    "evidence_boundary": "职业比例数据为二手统计（Rotella等）；“楔子”命题为Lupton解释",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "secretary_defined_by_gender_machines",
+    "accepted_claim": "秘书职业无绝对职责定义，默认由性别（女性）与其机器（打字机、电话）识别；女性作为男性思想与最终签名间的“技术管道”",
+    "evidence_boundary": "Pringle《Secretaries Talk》转述与Royal广告图说；性别化定义为Lupton命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "A",
+    "verification": "V2",
+    "role": "role_gendered_consumption",
+    "accepted_claim": "19世纪“发明女性消费者”，女性被定义为消费者、男性为生产者；性别化消费体制与美学重新性别化",
+    "evidence_boundary": "女性主体声音间接，多经规范文本中介",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0001",
+    "title": "1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo",
+    "grade": "B",
+    "verification": "V2",
+    "role": "feminization_of_shopping",
+    "accepted_claim": "购物的\"女性化\"：百货商店为女性提供公共空间，同时复制矛盾女性形象（理性持家者vs冲动被诱惑者）；女性超能力消费引发婚姻诉讼——性别化消费",
+    "evidence_boundary": "销售策略分析充分；女性体验为间接证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0022",
+    "title": "Anne Massey：《Interior Design of the 20th Century》，1990",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gender_domestic_role_to_profession",
+    "accepted_claim": "家庭性别角色与职业关联：维多利亚中产阶级女性被限于家庭领域，“品味自然属于女性”话语既为女性进入装饰职业开门又将其贬为“女性化”领域；De Wolfe主张“家表达女主人的个性”",
+    "evidence_boundary": "clean第28—29行、第1112行；战后家庭主妇作为“消费领袖”的clean行号未核验，回查确认后再升B为A",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gendered_occupation_objects",
+    "accepted_claim": "服装产业的分工与消费类型学按性别组织职业与物品：女性承担生产劳动却以“类型化”消费被建构为装饰性存在",
+    "evidence_boundary": "性别分析框架可直接采用；职业史具体数据缺失，须补一手产业史料",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_masculine_collecting",
+    "accepted_claim": "男性通过收藏（拍卖行、跳蚤市场、古董店）重新夺取消费中的阳刚",
+    "evidence_boundary": "以小说与规范文本为主要证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0410",
+    "title": "Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C",
+    "grade": "B",
+    "verification": "V2",
+    "role": "role_taste_professionals",
+    "accepted_claim": "趣味专家以笔代手，通过礼法书、装饰杂志、博览会机构规定阶级化趣味并“制造”工人阶级",
+    "evidence_boundary": "“趣味专家”为作者建构的分析范畴",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0001",
+    "title": "1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo",
+    "grade": "C",
+    "verification": "V2",
+    "role": "gendered_consumption_prehistory",
+    "accepted_claim": "女性被同时表述为家庭采购者和易受诱惑消费者",
+    "evidence_boundary": "女性主体材料不足且不支持战后职业结构",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0120",
+    "title": "Deyan Sudjic：《The Language of Things Understanding the World of Desirable Objects》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "designed_desire_gender_class",
+    "accepted_claim": "设计语言传达阶级、性别、国族与意识形态讯息：字体（Helvetica）、汽车（2CV/甲壳虫民族性）、校服（日本普鲁士式立领）——性别化物品与身份建构",
+    "evidence_boundary": "个案分析（字体/汽车/制服）；接受侧证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0132",
+    "title": "Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "gendered_work_long_duration_prehistory",
+    "accepted_claim": "技术和技能的性别化可为战后职业与物品分析提供长时段问题",
+    "evidence_boundary": "时段不匹配且不能支持战后事实",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0431",
+    "title": "Vance Packard：《The Waste Makers》，1960",
+    "grade": "C",
+    "verification": "V2",
+    "role": "credit_consumer_sovereignty",
+    "accepted_claim": "信贷消费（\"永不还清\"的分期购买）与消费者主权批判：信贷作为消费扩张的杠杆",
+    "evidence_boundary": "调查证据充分；'消费者主权'批判为作者论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0409",
+    "title": "Strasser：《Getting and Spending (European and American Consumer Societies in the",
+    "grade": "D",
+    "verification": "V2",
+    "role": "gender_consumption_roles",
+    "accepted_claim": "小零售商顾客每日购物、常赊账、几乎不看广告暗示性别化的日常购买分工",
+    "evidence_boundary": "仅背景性提及，无性别分析，不作为9.3主证据",
+    "status": "ACCEPTED_AS_SUPPLEMENTARY_SOURCE"
+   }
+  ]
+ },
+ "9.4": {
+  "grades": {
+   "B": 1,
+   "C": 4
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0143",
+    "title": "Elizabeth Wilson：《Adorned in Dreams Fashion and Modernity》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "youth_subculture_commercial_absorption",
+    "accepted_claim": "青年亚文化着装（泰迪男孩、摩登族、嬉皮士、朋克）构成非正式政治表达传统，并经历从异议到商业吸收的周期",
+    "evidence_boundary": "英国案例为主，音乐/杂志维度仅触及，须与教材9.4其他媒介史料互补",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0120",
+    "title": "Deyan Sudjic：《The Language of Things Understanding the World of Desirable Objects》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "fashion_as_industry_model",
+    "accepted_claim": "时尚产业成为所有产业的运作模型（以季节节奏刻意制造视觉废弃）；迷彩服从功能性军事装备转变为亚文化时尚符号——时尚与商业吸收",
+    "evidence_boundary": "批评性论证（2008）；'产业模型'判断为作者命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0367",
+    "title": "Richards, Thomas：The Commodity Culture of Victorian England：Advertising and Spectacle, 1851-1914, 1991",
+    "grade": "C",
+    "verification": "V2",
+    "role": "consuming_subject_gender",
+    "accepted_claim": "海滨女孩与性别消费主体：广告构拟\"消费主体\"（《尤利西斯》Nausicaa细读）——消费主体的性别维度",
+    "evidence_boundary": "文学细读个案；广告接受侧无直接证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0441",
+    "title": "Walker：《Sustainable by design explorations in theory and practice》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "fashion_sustainability",
+    "accepted_claim": "时尚未必是可持续之敌（Ch8）：时尚的再估值——时尚与可持续的关系重审",
+    "evidence_boundary": "作者论证（2006）；时尚产业数据未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0486",
+    "title": "朱和平：《世界现代设计史》，2004",
+    "grade": "C",
+    "verification": "V2",
+    "role": "pop_design_chinese_account",
+    "accepted_claim": "波普设计与六七十年代反思的中文通史表述（意/日/美/英波普）——青年文化与商业吸收的中文侧参照",
+    "evidence_boundary": "二手综合；波普运动的细节以专史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "9.5": {
+  "grades": {
+   "B": 4,
+   "C": 2,
+   "A": 1
+  },
+  "count": 7,
+  "items": [
+   {
+    "source_id": "B0180",
+    "title": "Guy Julier：《The Culture of Design》，2000",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_culture_triangle",
+    "accepted_claim": "设计文化三角模型（生产—设计师—消费）与差异化策略：设计文化是\"几乎完全由差异化策略驱动的文化特定实践\"——企业形象系统化的分析框架",
+    "evidence_boundary": "作者概念框架（2000）；与B0242版本族（VGRP008）重合命题不独立计证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "corporate_identity_gender_encoding",
+    "accepted_claim": "企业形象承载性别编码：AT&T“微笑之声”；George Nelson Executive Office Group（Herman Miller）以统一系统消解工厂联想并区分职务等级；IBM企业设计",
+    "evidence_boundary": "公司宣传材料与设计史叙述为组织者话语，可证企业供给形象",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0180",
+    "title": "Guy Julier：《The Culture of Design》，2000",
+    "grade": "B",
+    "verification": "V2",
+    "role": "corporate_identity_communication",
+    "accepted_claim": "企业身份的内部沟通：设计从\"问题解决\"到\"问题处理\"、从多学科到跨学科——企业形象作为组织化传播系统",
+    "evidence_boundary": "作者论证（2000）；企业个案（Nike等）为二手引用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0357",
+    "title": "Rachel Davies-Cooper, Mike Press：《The Design Agenda》，1995",
+    "grade": "B",
+    "verification": "V2",
+    "role": "corporate_design_strategy",
+    "accepted_claim": "企业设计战略：设计作为战略资源（Apple、Xerox、Philips、Sony、Bang & Olufsen案例）；corporate identity与后福特主义经济——企业形象的系统化",
+    "evidence_boundary": "英国设计管理视角（1995）；案例集中于1980年代、英国中心（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0357",
+    "title": "Rachel Davies-Cooper, Mike Press：《The Design Agenda》，1995",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_management_matrix",
+    "accepted_claim": "设计管理矩阵（三管理层次×九职能）与设计审计：设计必须被战略化、组织化、诊断化管理——企业形象的组织化传播",
+    "evidence_boundary": "操作框架（1995）；概念界定依赖Topalian'问题地图'（作者自认）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0203",
+    "title": "Jean Baudrillard：《The System Of Objects》，1968",
+    "grade": "C",
+    "verification": "V2",
+    "role": "credit_advertising_system",
+    "accepted_claim": "信用与广告作为消费体制：信用是\"社会基本维度、一种新伦理系统\"，广告是\"圣诞老人逻辑\"（寓言逻辑非命题逻辑）——企业形象与消费话语的理论",
+    "evidence_boundary": "理论命题；广告分析基于法国高端文本",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0214",
+    "title": "Johanna Drucker, Emily McVarish：《Graphic Design History A Critical Guide》，2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "corporate_identity_design_history",
+    "accepted_claim": "企业身份的平面设计史（跨章）：CBS眼睛标志（William Golden 1950）、Unimark International（1960s“通用”设计语言）、Émigré杂志——9.5企业形象系统化的教材叙述",
+    "evidence_boundary": "教材二手叙述；企业档案细节须以专门研究互校",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   }
+  ]
+ },
+ "9.7": {
+  "grades": {
+   "A": 1,
+   "B": 1
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0142",
+    "title": "Elizabeth Shove, Matthew Watson, Martin Hand, Jack Ingram：《The Design of Everyday Life》，2007",
+    "grade": "A",
+    "verification": "V2",
+    "role": "practice_oriented_design",
+    "accepted_claim": "实践导向设计三分法（产品中心/用户中心/实践导向）：价值由物在实践中的整合方式决定；\"no object is an island\"——使用者能动性的实践理论",
+    "evidence_boundary": "理论框架（2007）＋英国设计从业者访谈（10位）；实践导向为潜在转向而非现状",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0315",
+    "title": "Miller, Daniel：Material Culture and Mass Consumption, 1987",
+    "grade": "B",
+    "verification": "V2",
+    "role": "consumption_active_process",
+    "accepted_claim": "消费者能动性：儿童糖果（Kets）、意大利摩托车（Mods亚文化）在消费端的重新语境化——被支配群体通过消费建构自主文化",
+    "evidence_boundary": "个案分析（Hebdige等二手案例）；亚文化接受侧证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ }
+}

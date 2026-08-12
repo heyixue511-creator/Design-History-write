@@ -1,0 +1,6 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0434,12.2,A,V2,design_for_real_world_manifesto,设计必须从"为市场服务"转向"为人类真实需要服务"：设计是人塑造工具、环境与自身的最强大工具，设计师承担社会与道德责任——设计伦理奠基宣言,行动者原典（1971/1984二版）；"最强大工具"论断为宣言修辞；个别史实数据可商榷（作者自认限度）,Ch1-2分析报告,ACCEPTED_AS_CORE_SOURCE
+B0434,12.2,A,V2,five_myths_six_directions,设计责任的五个神话与六个方向；kymmenykset（什一献礼）、Triad of Limitations与integrated design——责任的操作框架,作者方法框架（1984）；部分方案属构想/乌托邦式（作者自认限度）,Ch9分析报告,ACCEPTED_AS_CORE_SOURCE
+B0434,12.3,B,V2,kleenex_culture_obsolescence,可弃文化（Kleenex Culture）与过时价值批判：设计参与制造"用完即弃"的消费文化——环境设计的批判前史,行动者批判（1984）；过时机制的量化数据未核,Ch5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0434,12.6,C,V2,consumer_rights_manifesto,消费者权利宣言与"为需要设计"：设计的社会责任面向弱势与真实需要——社会批判的早期表述,行动者主张（1984）；'消费者权利'的实现证据缺,Ch12分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0434,5.7,A,V2,papanek_original,帕帕奈克《Design for the Real World》(1971)为商业设计伦理批判原典：设计必须为真实需要而非市场服务——5.7批判原典补证（P0缺口闭合）,原典为P0行动者文本；'为市场服务即不道德'的判断为作者立场,Ch1-2分析报告,ACCEPTED_AS_CORE_SOURCE

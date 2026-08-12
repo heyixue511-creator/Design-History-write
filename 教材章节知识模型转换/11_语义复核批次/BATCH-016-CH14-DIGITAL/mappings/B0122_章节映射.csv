@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0122,14.2,B,V2,digital_design_theory_anthology,数字设计思想史文选（1961—2015）：从参数系统（Sutnar/Gerstner/Sutherland）到个人计算（Greiman/Cooper/Kay/Maeda）——数字设计的理论谱系,文选（2016）；与B0176同系列重复文本只计一份P0,整体分析报告（三部分结构）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0122,14.4,B,V2,encoding_future_network,"编码未来"（2000s）：开源文化、涌现行为、物联网与后人类中心设计（Processing/Laurel/Faste）——网络与数字设计前沿,文选宣言（2016）；前沿实践成效以项目档案为准,Part 3分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0122,14.6,C,V2,paradigm_shift_object_system,"从机械对象精神到有机系统精神"范式转换（Dubberly）：设计从单一解决方案转向可演化系统框架——设计系统与平台的理论,作者模型（2016）；范式转换的判断为理论命题,Part 3分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

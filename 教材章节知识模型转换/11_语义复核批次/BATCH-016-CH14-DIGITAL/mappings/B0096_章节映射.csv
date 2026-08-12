@@ -1,0 +1,5 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0096,14.3,B,V2,four_methodologies,交互设计四种方法论（用户中心UCD/活动中心ACD/系统设计/天才设计）——方法谱系,方法框架（2009）；方法选择情境以实践为准,Ch2分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0096,14.2,B,V2,interaction_design_laws,交互设计法则：Fitts定律、Hick定律、神奇数字七、Tesler复杂性守恒定律、Poka-Yoke防错原则——交互范式原则,设计法则汇编（2009）；法则的适用范围以HCI研究为准,Ch7分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0096,14.3,C,V2,design_process_flow,交互设计流程（策略→研究→分析→构思→细化→原型与测试）——专业流程系统化,流程指南（2009）；2000年代末学科系统化剪影,Ch3-8分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0096,14.7,C,V2,design_ethics,"为善而设计"：IBM为纳粹设计集中营编号系统的伦理警示——设计伦理命题,后记论述（2009）；伦理案例的历史细节以专史为准,后记分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

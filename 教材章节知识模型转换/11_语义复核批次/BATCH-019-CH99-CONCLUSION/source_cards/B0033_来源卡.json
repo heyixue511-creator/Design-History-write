@@ -1,0 +1,20 @@
+{
+  "source_id": "B0033",
+  "corpus": "book",
+  "folder_name": "Arturo Escobar：《Designs for the Pluriverse，2018》",
+  "material_type": "多元世界设计（VGRP016副条目）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Arturo Escobar：《Designs for the Pluriverse，2018》.md",
+  "duplicate_group": "VGRP016：与B0032为同一著作《Designs for the Pluriverse》（2018）不同转换（OCR质量差异）；只计一个独立书目实体，B0032（已复核）承担全部命题",
+  "files": [{"report_file_count": 16, "report_characters": 0}],
+  "report_structure": {"review_basis": "duplicate_of_B0032"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "VGRP016（2026-08-12建立）：B0033与B0032为同一著作不同转换（B0032文本含'6for''Autonomv'等OCR错误）",
+    "B0032已在CH12批次完成语义复核（跨章映射12.x）；本条目复核结论完全复用B0032",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0032）标记",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

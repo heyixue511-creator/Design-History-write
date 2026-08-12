@@ -1,0 +1,20 @@
+{
+  "source_id": "B0477",
+  "corpus": "book",
+  "folder_name": "夏燕靖：《中国艺术设计史》",
+  "material_type": "中国艺术设计通史（教材，第三版）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\夏燕靖：《中国艺术设计史》_clean.md",
+  "duplicate_group": "VGRP009-EDITION：与B0476（2016升级版）为同一著作不同版次；B0477为南京师大出版社2011年第三版，重合命题不独立计证",
+  "files": [{"report_file_count": 18, "report_characters": 0}],
+  "report_structure": {"review_basis": "duplicate_of_B0476"},
+  "candidate_sections": [],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "VGRP009（2026-08-12建立）：B0477（南京师范大学出版社2010.8第三版，2011年3月第1次印刷，ISBN 978-7-81101-933-9）与B0476（上海人民美术出版社2016.6升级版）为夏燕靖《中国艺术设计史》不同版次",
+    "B0476已完成语义复核（3条映射：10.1×2、10.6）；本条目复核结论完全复用B0476",
+    "不生成重复命题映射；聚合索引中以X记录（EXCLUDED_AS_DUPLICATE_OF_B0476）标记，防止双重计证",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": []
+}

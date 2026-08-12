@@ -1,0 +1,36 @@
+{
+  "source_id": "B0191",
+  "corpus": "book",
+  "folder_name": "Holmes：《Mismatch How Inclusion Shapes Design》",
+  "material_type": "包容性设计（不匹配框架）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Holmes：《Mismatch How Inclusion Shapes Design》.md",
+  "duplicate_group": "与B0138/B0460/B0174（通用设计）共享包容性设计对象；本书为'不匹配'框架主源",
+  "files": [{"report_file_count": 14, "report_characters": 0}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.2", "grade": "B", "verification": "V2", "role": "mismatch_exclusion_cycle"},
+    {"section_id": "16.5", "grade": "B", "verification": "V2", "role": "inclusive_design_ability_bias"},
+    {"section_id": "16.2", "grade": "C", "verification": "V2", "role": "algorithmic_exclusion"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Holmes（微软设计包容性负责人），MIT Press 2018（Simplicity丛书）",
+    "核心概念：不匹配（Mismatch）——人与其世界之间的障碍，排斥的构成要素",
+    "排斥循环（Cycle of Exclusion）五要素框架：why/who/how/who uses/what；'排斥习惯'（设定游戏规则的人也控制谁可以玩）",
+    "能力偏见（Ability Bias）：以自身能力为基线解决问题的倾向；'临时健全'（Temporarily Able-Bodied）对非残疾人身份的去稳定化",
+    "方法论工具：人格光谱（Persona Spectrum，永久/临时/情境不匹配连续体）、排斥专家（Exclusion Expert）、'一人适用'（One-Size-Fits-One）vs通用设计",
+    "案例：OXO Good Grips（关节炎驱动）、FingerWorks多点触控（腕管综合征→iPhone前身）、闭路字幕、PillPack、Hearing AI、Cyberball实验",
+    "算法排斥：引用O'Neil《Weapons of Math Destruction》——算法排斥的当代例证",
+    "限度：案例以美国为中心（ADA、Section 508、底特律）；企业视角（微软）；全球南方着墨有限",
+    "本书为包容性设计主源（B级）：对16.2承担不匹配/排斥框架、16.5承担能力偏见",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1：不匹配（Mismatch）——核心概念",
+    "Ch2-3：排斥循环五要素框架与'排斥习惯'",
+    "Ch4：能力偏见（Ability Bias）——John Porter案例",
+    "Ch7：人格光谱与'一人适用'（One-Size-Fits-One）",
+    "Ch8：算法排斥——O'Neil《Weapons of Math Destruction》"
+  ]
+}

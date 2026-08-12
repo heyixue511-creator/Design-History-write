@@ -1,0 +1,35 @@
+{
+  "source_id": "B0347",
+  "corpus": "book",
+  "folder_name": "Personas, Participatory Design and Product Development An Infrastructure for Engagement",
+  "material_type": "学术会议论文（参与式设计与persona）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Personas, Participatory Design and Product Development An Infrastructure for Engagement.md",
+  "duplicate_group": "与12.4参与式设计文献（Ehn、Kyng传统）为同一学术传统；与B0041（Human-Centered AI）等HCI文献共享用户中心设计对象",
+  "files": [{"report_file_count": 21, "report_characters": 4558}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "12.4", "grade": "B", "verification": "V2", "role": "scandinavian_pd_tradition"},
+    {"section_id": "12.4", "grade": "B", "verification": "V2", "role": "persona_infrastructure"},
+    {"section_id": "12.7", "grade": "C", "verification": "V2", "role": "sociopolitical_awareness"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Grudin（微软研究院）与Pruitt（微软公司），会议论文（约2002）；参与式设计视角的persona理论辩护",
+    "问题诊断：面向百万用户的商业产品开发难以开展参与式设计（找不到代表性用户、外部参与者缺乏长期投入激励、开发日程不容纳）",
+    "历史梳理：参与式设计从斯堪的纳维亚（UTOPIA项目）向产品开发转移——转移中丢失两个要素：与特定参与者的长期投入及同理心、对社会政治与'生活质量'议题的关注（L57-59）",
+    "核心命题：persona（虚构的具体用户表征）作为'参与的基础设施'（L101）；效力来自心智理论（从部分知识外推他人行为）；须由持续数据奠基（与Cooper反经验主义划界）",
+    "微软实践经验：基础文档、多模态沟通、加权优先级矩阵（L133-162）",
+    "伦理回归：persona的'身份属性'迫使团队显式决定'为谁设计'（L198-206）",
+    "限度：会议论文以概述为主；经验材料限于微软单一组织；'定型与反定型'困境未解决",
+    "本书为参与式设计论文（B级）：对12.4承担北欧传统梳理与persona基础设施",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L43-49：UTOPIA项目——斯堪的纳维亚参与式设计传统",
+    "L57-59：转移中丢失的两个要素（长期投入/同理心、社会政治议题）",
+    "L101：persona作为'参与的基础设施'（Infrastructure for engagement）",
+    "L129：心智理论——persona效力的心理机制",
+    "L198-206：persona与'为谁设计'的社会政治意识"
+  ]
+}

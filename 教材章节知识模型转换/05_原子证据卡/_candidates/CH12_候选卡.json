@@ -1,0 +1,78 @@
+[
+ {
+  "evidence_id": "EV-C0599",
+  "claim": "归还与社区协商是当代博物馆应对殖民遗产的伦理路径：怀唐伊法庭1996年建议归还Mataatua并已执行，布拉德福德以社区协商、观众反馈与百年出口线建立“全国第一个非殖民收藏”",
+  "source_id": "B0427",
+  "source_location": "回查clean L1489-1499（归还裁决）、L1097-1103（非殖民收藏）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "12.1"
+  ],
+  "textbook_function": "restitution_community_participation",
+  "supports": [
+   "归还与社区协商是当代博物馆应对殖民遗产的伦理路径：怀唐伊法庭1996年建议归还Mataatua并已执行，布拉德福德以社区"
+  ],
+  "does_not_support": [
+   "怀唐伊裁决是新西兰特定法律-政治进程，不能外推为普遍模式；布拉德福德是单一机构实践且作者为当事人"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0600",
+  "claim": "时尚史揭示设计正典、身体规范、女性劳动与公共／私人领域的性别建构",
+  "source_id": "B0080",
+  "source_location": "补女性／酷儿／男性劳动者、教育、企业、工资和使用材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "12.6"
+  ],
+  "textbook_function": "fashion_gender_body_labour_and_design_history_critique",
+  "supports": [
+   "时尚史揭示设计正典、身体规范、女性劳动与公共／私人领域的性别建构"
+  ],
+  "does_not_support": [
+   "性别表征不能替代实际劳动、制度和多样主体经验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0601",
+  "claim": "女性主义设计批评立场：作者自我命名“女性主义者”，以家务劳动、身体经验与性别知识位置重读设计史，将设计纳入“制造现代女性”的社会过程",
+  "source_id": "B0145",
+  "source_location": "clean第185、327行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "12.6"
+  ],
+  "textbook_function": "feminist_design_critique_stance",
+  "supports": [
+   "女性主义设计批评立场：作者自我命名“女性主义者”，以家务劳动、身体经验与性别知识位置重读设计史，将设计纳入“制造现代女性"
+  ],
+  "does_not_support": [
+   "立场声明与广告细读为Lupton命题，非中性事实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0602",
+  "claim": "“机械新娘”双重指涉与商品/性拜物教整合：广告与设计放大商品心理价值；把技术当作自主进化的有机体是一种“技术拜物教”",
+  "source_id": "B0145",
+  "source_location": "clean第223、240行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "12.6"
+  ],
+  "textbook_function": "mechanical_bride_commodity_fetishism",
+  "supports": [
+   "“机械新娘”双重指涉与商品/性拜物教整合：广告与设计放大商品心理价值；把技术当作自主进化的有机体是一种“技术拜物教”"
+  ],
+  "does_not_support": [
+   "Marx/Freud/McLuhan理论移植，为Lupton分析框架（命题）"
+  ],
+  "status": "candidate"
+ }
+]

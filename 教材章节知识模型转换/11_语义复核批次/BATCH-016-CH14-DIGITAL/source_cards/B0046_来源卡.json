@@ -1,0 +1,36 @@
+{
+  "source_id": "B0046",
+  "corpus": "book",
+  "folder_name": "Bill Moggridge：《Designing Interactions》，2007",
+  "material_type": "交互设计口述史（奠基著作）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Bill Moggridge：《Designing Interactions》，2007.md",
+  "duplicate_group": "DUP0002：与B0116为精确哈希重复（同一文本），只计一个独立书目实体，B0046为主条目",
+  "files": [{"report_file_count": 18, "report_characters": 12871}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.2", "grade": "A", "verification": "V2", "role": "gui_desktop_metaphor_history"},
+    {"section_id": "14.2", "grade": "A", "verification": "V2", "role": "interaction_design_principles"},
+    {"section_id": "14.3", "grade": "A", "verification": "V2", "role": "people_and_prototypes"},
+    {"section_id": "14.5", "grade": "B", "verification": "V2", "role": "services_touchpoints"},
+    {"section_id": "14.1", "grade": "B", "verification": "V2", "role": "computing_history"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Moggridge（IDEO联合创始人、GRiD Compass设计者），MIT Press 2007，约720页；交互设计领域里程碑著作",
+    "形式：口述史——40余位关键人物深度访谈（Engelbart、Tesler、Atkinson、Hawkins、Wright、Page/Brin等），十章主题结构",
+    "核心论点：交互设计作为独立学科的必要性（设计语境从物理对象扩展到互动系统）；'人+原型'双关键词（理解潜需求＋迭代原型）；以用户为中心须超越设计师自我投射",
+    "关键概念：桌面隐喻（Mott餐巾纸'办公室示意图'）、无模式交互（Tesler'NO MODES'）、交互设计三问（Verplank How do you do/feel/know）、经验原型（Experience Prototyping）、Fitts定律与'设计支持科学'（Card）、简单性八法则（Maeda）、IDEO 51种用户研究方法卡",
+    "历史事件：1968年'改变世界的Demo'（Engelbart）、Xerox PARC技术向Apple转移、Lisa/Macintosh菜单系统、Palm V工业设计、Purple Moon（Laurel女童研究）、i-mode服务",
+    "方法与Alan Cooper《About Face》互补（人文学派vs工程学派）；与Norman《设计心理学》互补",
+    "本书为交互设计口述史主源（A级）：对14.2承担GUI与范式、14.3承担人+原型方法、14.5承担服务设计前史",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1：鼠标（Engelbart 1964正交滚轮）与桌面隐喻（Mott餐巾纸草图L340-347）",
+    "L354-359：无模式交互（Tesler'NO MODES'车牌）",
+    "L1044-1053：交互设计三问（Verplank do/feel/know）",
+    "L6777-6793：经验原型定义；L6501-6719：IDEO 51种方法卡",
+    "Ch6：Live|Work服务设计'触点'方法——'伪造证据'（faking evidence）"
+  ]
+}

@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0425,C.0,A,V2,socially_responsive_design,社会响应式设计辩护：近200年设计史存在'审美/市场驱动'与'社会有用'两种范式；两种范式下设计师都无法真正做到'对社会负责'——以'响应性'（responsivity）取代'责任性'（responsibility）,作者论文（2011）；'响应性够好'命题为CoDesign社会创新特刊核心主张,Ch1-2分析报告（L15、L33、L37）,ACCEPTED_AS_CORE_SOURCE
+B0425,C.0,B,V2,good_enough_designer,"够好的设计师"（Winnicott隐喻）：父权式/母权式/兄弟式三种设计角色类型学——母权与兄弟式优于父权式,作者理论（2011）；家庭隐喻的性别化联想可能引起误读（作者自称与性别刻板印象无关）,Ch3分析报告（L47-67）,ACCEPTED_AS_SUPPORTING_SOURCE
+B0425,C.0,B,V2,effectuation_process,效果推理五原则（Sarasvathy）重构设计过程；中间输出（设计装置、事件、对抗性空间）即设计成就,作者理论（2011）；效果推理映射缺乏系统经验验证（作者自认限度）,Ch4-5分析报告（L77-85、L101-111）,ACCEPTED_AS_SUPPORTING_SOURCE

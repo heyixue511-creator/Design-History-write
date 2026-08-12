@@ -1,0 +1,30 @@
+{
+  "chapter": "CH05",
+  "title": "第五章：商业现代性：装饰艺术、流线型与工业设计职业",
+  "entities": [
+    {"id": "E-0501", "type": "exhibition", "name": "1925年巴黎博览会", "sections": ["5.1"], "key_sources": ["B0073"]},
+    {"id": "E-0502", "type": "person", "name": "Émile-Jacques Ruhlmann", "sections": ["5.1"], "key_sources": ["B0073", "B0022"]},
+    {"id": "E-0503", "type": "movement", "name": "Art Deco", "sections": ["5.1"], "key_sources": ["B0073", "B0436"]},
+    {"id": "E-0504", "type": "person", "name": "Henry Dreyfuss", "sections": ["5.3", "5.4", "5.5", "5.6", "5.7"], "key_sources": ["B0186"]},
+    {"id": "E-0505", "type": "person", "name": "Raymond Loewy", "sections": ["5.3", "5.5"], "key_sources": ["B0206", "B0066"]},
+    {"id": "E-0506", "type": "person", "name": "Walter Dorwin Teague", "sections": ["5.5"], "key_sources": ["B0206", "B0186"]},
+    {"id": "E-0507", "type": "person", "name": "Norman Bel Geddes", "sections": ["5.5"], "key_sources": ["B0206", "B0345"]},
+    {"id": "E-0508", "type": "institution", "name": "SID（工业设计师协会，1944）", "sections": ["5.5", "5.7"], "key_sources": ["B0186", "B0066"]},
+    {"id": "E-0509", "type": "publication", "name": "Fortune杂志1934年命名", "sections": ["5.3", "5.5"], "key_sources": ["B0066"]},
+    {"id": "E-0510", "type": "object", "name": "Joe/Josephine百分位人体测量图", "sections": ["5.6"], "key_sources": ["B0186"]},
+    {"id": "E-0511", "type": "publication", "name": "Consumer Engineering（Sheldon & Arens, 1932）", "sections": ["5.3"], "key_sources": ["B0206"]},
+    {"id": "E-0512", "type": "enterprise", "name": "Chrysler Airflow", "sections": ["5.4"], "key_sources": ["B0186"]},
+    {"id": "E-0513", "type": "person", "name": "Elsie de Wolfe", "sections": ["5.5"], "key_sources": ["B0022"]},
+    {"id": "E-0514", "type": "publication", "name": "Designing for People（Dreyfuss, 1955/1967）", "sections": ["5.3", "5.5", "5.6", "5.7"], "key_sources": ["B0186"]}
+  ],
+  "relations": [
+    {"source": "E-0504", "target": "E-0514", "type": "authored", "evidence": "B0186", "note": "行动者自著P0；1967再版第18章重估"},
+    {"source": "E-0504", "target": "E-0508", "type": "co_founded", "evidence": "B0186 clean第2288—2294行", "note": "单方自述'helped organize'，须对照SID/IDSA档案"},
+    {"source": "E-0504", "target": "E-0506", "type": "co_founded", "evidence": "B0186", "note": "1944年与Teague周末讨论发起"},
+    {"source": "E-0504", "target": "E-0510", "type": "designed", "evidence": "B0186 clean第210—224行", "note": "'极端值而非平均值'，2.5—97.5百分位"},
+    {"source": "E-0509", "target": "E-0505", "type": "named", "evidence": "B0066", "note": "Fortune 1934命名industrial designer"},
+    {"source": "E-0512", "target": "E-0504", "type": "criticized", "evidence": "B0186 clean第720行", "note": "Airflow失败记录；行动者批评非正面史料"},
+    {"source": "E-0501", "target": "E-0503", "type": "defined", "evidence": "B0073", "note": "'Art Deco'为后设术语；定义性事件"},
+    {"source": "E-0511", "target": "E-0504", "type": "related", "evidence": "B0206", "note": "销售工程P0文本（未入，needs_original_check）"}
+  ]
+}

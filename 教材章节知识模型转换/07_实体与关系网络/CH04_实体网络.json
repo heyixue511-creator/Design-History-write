@@ -1,0 +1,34 @@
+{
+  "chapter": "CH04",
+  "title": "第四章：制度化的现代主义：制造联盟、包豪斯与设计教育",
+  "entities": [
+    {"id": "E-0401", "type": "institution", "name": "德意志制造联盟（Werkbund）", "sections": ["4.1"], "key_sources": ["B0064"]},
+    {"id": "E-0402", "type": "person", "name": "Hermann Muthesius", "sections": ["4.1"], "key_sources": ["B0064"]},
+    {"id": "E-0403", "type": "person", "name": "Henry van de Velde", "sections": ["4.1"], "key_sources": ["B0064"]},
+    {"id": "E-0404", "type": "enterprise", "name": "AEG", "sections": ["4.1"], "key_sources": ["B0060", "B0064"]},
+    {"id": "E-0405", "type": "person", "name": "Peter Behrens", "sections": ["4.1"], "key_sources": ["B0060"]},
+    {"id": "E-0406", "type": "school", "name": "包豪斯（Bauhaus）", "sections": ["4.2", "4.3", "4.5", "4.6"], "key_sources": ["B0182", "B0282", "B0158", "B0464", "B0454"]},
+    {"id": "E-0407", "type": "person", "name": "Walter Gropius", "sections": ["4.2", "4.5"], "key_sources": ["B0182", "B0464"]},
+    {"id": "E-0408", "type": "person", "name": "Johannes Itten", "sections": ["4.3"], "key_sources": ["B0216"]},
+    {"id": "E-0409", "type": "person", "name": "László Moholy-Nagy", "sections": ["4.3", "4.6"], "key_sources": ["B0269"]},
+    {"id": "E-0410", "type": "person", "name": "Ludwig Mies van der Rohe", "sections": ["4.5"], "key_sources": ["B0182"]},
+    {"id": "E-0411", "type": "person", "name": "Hannes Meyer", "sections": ["4.5"], "key_sources": ["B0464", "B0158"]},
+    {"id": "E-0412", "type": "publication", "name": "《De Stijl》期刊（风格派网络）", "sections": ["4.4", "4.7"], "key_sources": ["B0048", "B0342"]},
+    {"id": "E-0413", "type": "object", "name": "红蓝椅（Rietveld）", "sections": ["4.4", "4.7"], "key_sources": ["B0048", "B0342"]},
+    {"id": "E-0414", "type": "school", "name": "圣约翰大学建筑系", "sections": ["4.7"], "key_sources": ["B0492"]},
+    {"id": "E-0415", "type": "person", "name": "杭间", "sections": ["4.7"], "key_sources": ["B0492"]},
+    {"id": "E-0416", "type": "person", "name": "靳埭强", "sections": ["4.7"], "key_sources": ["B0517"]}
+  ],
+  "relations": [
+    {"source": "E-0402", "target": "E-0401", "type": "co_founded", "evidence": "B0064", "note": "十项论纲（1914）"},
+    {"source": "E-0403", "target": "E-0401", "type": "member", "evidence": "B0064", "note": "十项反论纲"},
+    {"source": "E-0405", "target": "E-0404", "type": "designed", "evidence": "B0060", "note": "多行动者协作：承重框架归Lasche/Bernhard"},
+    {"source": "E-0407", "target": "E-0406", "type": "founded", "evidence": "B0182", "note": ""},
+    {"source": "E-0408", "target": "E-0406", "type": "taught", "evidence": "B0216", "note": "Vorkurs个案，非教学法全体"},
+    {"source": "E-0410", "target": "E-0406", "type": "directed", "evidence": "B0182", "note": "1933年7月20日致盖世太保解散通知"},
+    {"source": "E-0411", "target": "E-0406", "type": "directed", "evidence": "B0464", "note": "掘墓人vs延续者争议"},
+    {"source": "E-0412", "target": "E-0413", "type": "published", "evidence": "B0048", "note": "期刊网络；红蓝椅断代约1923年"},
+    {"source": "E-0414", "target": "E-0406", "type": "influenced", "evidence": "B0492", "note": "制度转译：1942年引进；'三大构成'为正典化误读"},
+    {"source": "E-0415", "target": "E-0416", "type": "co_organized", "evidence": "B0492/B0517", "note": "2010年包豪斯道路文献展；共享对象只计一份P0"}
+  ]
+}

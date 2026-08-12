@@ -1,0 +1,4 @@
+source_id,section_id,grade,verification,role,accepted_claim,evidence_boundary,original_followup,status
+B0136,16.3,B,V2,lie_factor,"谎言因子"（Lie Factor）公式量化图形扭曲程度；图形诚信（graphical integrity）为信息呈现基本伦理——16.3信息呈现伦理,作者理论（1983/2001）；公式为操作性度量,Ch.2分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0136,16.3,C,V2,data_ink_principles,数据墨水最大化与擦除原则；chartjunk批判——信息呈现设计原则——16.3可见性设计规范,作者理论（1983）；设计原则为规范性框架,Ch.4-5分析报告,ACCEPTED_AS_SUPPORTING_SOURCE
+B0136,16.3,C,V2,clear_portrayal_complexity,"清晰呈现复杂"（the clear portrayal of complexity）为数据图形终极追求——'首要的是展示数据'——16.3信息设计价值观,作者理论（1983）；价值观命题为规范性主张,分析报告,ACCEPTED_AS_SUPPORTING_SOURCE

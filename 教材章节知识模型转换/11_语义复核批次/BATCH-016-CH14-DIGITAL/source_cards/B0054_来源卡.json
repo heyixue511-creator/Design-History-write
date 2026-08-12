@@ -1,0 +1,32 @@
+{
+  "source_id": "B0054",
+  "corpus": "book",
+  "folder_name": "Bringing design to software (Terry Winograd, (ed.))",
+  "material_type": "软件设计文集（HCI与设计汇合）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Bringing design to software (Terry Winograd, (ed.)).md",
+  "duplicate_group": "与B0087（Contextual Design）、B0011（About Face）、B0096（Saffer）共享HCI设计方法对象；同一方法/案例只计一份P0",
+  "files": [{"report_file_count": 20, "report_characters": 20644}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "14.3", "grade": "B", "verification": "V2", "role": "software_design_manifesto"},
+    {"section_id": "14.3", "grade": "B", "verification": "V2", "role": "reflective_conversation_prototyping"},
+    {"section_id": "14.1", "grade": "C", "verification": "V2", "role": "software_design_history"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Winograd主编（ACM Press/Addison-Wesley 1996），14章＋15篇侧写；软件设计经典文集",
+    "关键文本：Kapor《软件设计宣言》（设计是软件的核心维度）、Liddle概念模型设计、Schön'与材料的反思性对话'（访谈）、Schrage'原型制作的文化'、Norman实践中的设计、Kelley设计师姿态（IDEO）",
+    "侧写：Xerox Alto与Star、Macintosh人机交互指南、Mosaic与万维网、IDEO、Quicken、参与式设计",
+    "核心立场：软件设计的根本挑战不是技术问题，而是将设计意识带入软件生产——HCI与设计方法的汇合里程碑",
+    "本书为软件设计文集（B级）：对14.3承担设计方法入软件、14.1承担软件设计史",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch1：Kapor软件设计宣言",
+    "Ch2：Liddle概念模型设计（访谈）",
+    "Ch9：Schön'与材料的反思性对话'（访谈）",
+    "Ch10：Schrage'原型制作的文化'",
+    "侧写：Mosaic与万维网、IDEO、Macintosh人机交互指南"
+  ]
+}

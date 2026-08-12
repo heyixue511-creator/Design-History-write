@@ -1,0 +1,759 @@
+{
+ "12.1": {
+  "grades": {
+   "C": 2,
+   "A": 1,
+   "B": 12
+  },
+  "count": 15,
+  "items": [
+   {
+    "source_id": "B0427",
+    "title": "Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "restitution_community_participation",
+    "accepted_claim": "归还与社区协商是当代博物馆应对殖民遗产的伦理路径：怀唐伊法庭1996年建议归还Mataatua并已执行，布拉德福德以社区协商、观众反馈与百年出口线建立“全国第一个非殖民收藏”",
+    "evidence_boundary": "怀唐伊裁决是新西兰特定法律-政治进程，不能外推为普遍模式；布拉德福德是单一机构实践且作者为当事人",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0032",
+    "title": "Arturo Escobar：《Designs for the Pluriverse Radical Interdependence, Autonomy, and the Making of Worlds》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "ontological_design_critique",
+    "accepted_claim": "本体论设计（'我们设计工具，工具反过来设计我们'）：现代设计深陷父权制资本主义现代性二元论，系统制造不可持续性与去未来化——职业伦理到社会批判",
+    "evidence_boundary": "作者批判（2018）；'四大信念'为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0110",
+    "title": "Design futuring ： sustainability, ethics, and new practice -- Tony Fry -- 1, Lon",
+    "grade": "B",
+    "verification": "V2",
+    "role": "ontological_designing",
+    "accepted_claim": "本体论设计（一切被设计之物持续地设计着世界与人类）：设计是攸关存在与未来的政治—伦理行动——职业伦理到社会批判的哲学基础",
+    "evidence_boundary": "作者理论（2009）；与Escobar（B0032）'设计设计'命题互文",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0230",
+    "title": "John Thackara：《In the Bubble Designing in a Complex World》，2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "technology_first_critique",
+    "accepted_claim": "技术先行、人后退批判与\"在气泡中\"隐喻：现代社会的核心病症——职业伦理到社会批判",
+    "evidence_boundary": "作者批判（2005）；技术异化的量化证据未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "moral_landscape_and_public_value",
+    "accepted_claim": "工业景观亦是道德秩序；以公民身份而非所有权为基础的公共价值主张回应城市伦理议题",
+    "evidence_boundary": "第9章为规范性结论章，伦理维度直接；属作者价值议程而非纯实证史实",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0406",
+    "title": "Steven Heller Veronique Vienne：《Citizen Designer Perspectives on Design Responsi",
+    "grade": "B",
+    "verification": "V2",
+    "role": "good_design_good_citizenship",
+    "accepted_claim": "好设计即好公民（Glaser）：设计行为对公民社会负有义务；\"所有设计解决方案都携带偏见\"（McCoy）、\"价值无涉的设计\"是危险神话——职业伦理到社会批判的文选",
+    "evidence_boundary": "设计责任文集（2018二版）；美国职业语境（编者自认），非西方代表性不足",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0406",
+    "title": "Steven Heller Veronique Vienne：《Citizen Designer Perspectives on Design Responsi",
+    "grade": "B",
+    "verification": "V2",
+    "role": "road_to_hell_ethics",
+    "accepted_claim": "通往地狱之路（Road to Hell）12条设计伦理自测问卷——职业伦理的操作工具",
+    "evidence_boundary": "自测问卷（Glaser设计）；作为教学工具而非行业规范",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_as_political_and_social_responsibility",
+    "accepted_claim": "设计不是中性工具而是被商业政治利益支配的规划活动；Bolton 批判公司对再现的控制；Cooley 主张技术人性化——设计责任命题",
+    "evidence_boundary": "命题分布于编者导言与各章，非系统化设计伦理论述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0418",
+    "title": "The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_philosophy_reader",
+    "accepted_claim": "设计哲学文选（45篇）：\"一切都被设计，被设计之物持续设计着\"；专业设计被工业化的服务角色过度决定——职业伦理到社会批判的哲学资源",
+    "evidence_boundary": "文选（2019）；部分选文与设计的关联依赖编者转译（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0431",
+    "title": "Vance Packard：《The Waste Makers》，1960",
+    "grade": "B",
+    "verification": "V2",
+    "role": "resource_depletion_warning",
+    "accepted_claim": "资源枯竭预警（金属、石油、水、木、粮）与消费不可永续——可持续设计思想先驱（早于1960年代环保运动）",
+    "evidence_boundary": "预警为1960年时点判断；资源数据未独立核验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0441",
+    "title": "Walker：《Sustainable by design explorations in theory and practice》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "sustainability_as_meaning_crisis",
+    "accepted_claim": "可持续性根本上是\"意义危机\"而非环境危机：唯有让物质文化重新有意义才可能可持续；\"好设计\"之美在象征与善工——可持续设计理论（意义范式）",
+    "evidence_boundary": "作者理论（2006）；论证依赖灵性/宗教前提、缺少量化评估（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0473",
+    "title": "周博：《现代设计伦理思想史》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_ethics_definition",
+    "accepted_claim": "设计伦理的定义与人道设计传统：设计师在消费社会中\"如何运用设计增进人类福祉\"的责任追问——设计责任扩展命题的中文学术表述",
+    "evidence_boundary": "作者定义（2014）；伦理成效判断保持审慎（\"没有看到悲剧，但也不等于说是喜剧\"）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_ethics_and_consumption_critique",
+    "accepted_claim": "“设计夺权”论；“制造风格”刺激消费造成资源浪费与人的退化；设计是刺激消费帮凶还是生活改进者之辩；功能主义“用”是设计底线伦理",
+    "evidence_boundary": "IX章L214-L231（伦理理论命题）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0303",
+    "title": "Mauricio Tenorio-Trillo：《Mexico at the worlds fairs crafting a modern nation》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "ethics_of_living_display_as_prehistory",
+    "accepted_claim": "活人展示（墨西哥村、人类学面具/颅骨陈列）构成当代“展示伦理”议题的历史前例：人的身体被分类、陈列与展演，且边缘国家自身也参与其中",
+    "evidence_boundary": "历史事实有档案支撑；与当代设计伦理议题的关联是复核者的映射判断，原著未作此类引申",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0394",
+    "title": "Sharon Zukin：《Landscapes of Power From Detroit to Disney World》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "gentrification_public_space_ethics",
+    "accepted_claim": "市中心绅士化使公共空间不再无条件开放，凸显城市伦理冲突（无家可归者议题）",
+    "evidence_boundary": "第7章案例（曼哈顿1980s）；伦理维度隐含于公共空间论述",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "12.2": {
+  "grades": {
+   "C": 3,
+   "A": 2
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0434",
+    "title": "Victor Papanek：《Design for the Real World Human Ecology and Social Change》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_for_real_world_manifesto",
+    "accepted_claim": "设计必须从\"为市场服务\"转向\"为人类真实需要服务\"：设计是人塑造工具、环境与自身的最强大工具，设计师承担社会与道德责任——设计伦理奠基宣言",
+    "evidence_boundary": "行动者原典（1971/1984二版）；\"最强大工具\"论断为宣言修辞；个别史实数据可商榷（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0434",
+    "title": "Victor Papanek：《Design for the Real World Human Ecology and Social Change》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "five_myths_six_directions",
+    "accepted_claim": "设计责任的五个神话与六个方向；kymmenykset（什一献礼）、Triad of Limitations与integrated design——责任的操作框架",
+    "evidence_boundary": "作者方法框架（1984）；部分方案属构想/乌托邦式（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0059",
+    "title": "Buchanan, Richard; Margolin, Victor (eds.), The Idea of Design, 1995",
+    "grade": "C",
+    "verification": "V2",
+    "role": "papanek_design_ethics",
+    "accepted_claim": "设计伦理批判（跨章）：Papanek批判高技术功能主义忽视人类心理需求，提出环境—健康—社区的设计伦理——12.2“帕帕奈克与真实世界”的思想资源",
+    "evidence_boundary": "作者伦理主张（1995年时点）；与Papanek《为真实世界而设计》原著并置",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0181",
+    "title": "Guy, John：Woven Cargoes：Indian Textiles in the East, 1998",
+    "grade": "C",
+    "verification": "V2",
+    "role": "colonial_monopoly_exchange_injustice",
+    "accepted_claim": "殖民垄断与交换不公的历史证据：VOC武力垄断（Coen禁令1628、hongi远征、马加撒战争1667）重组而非终结贸易，可供伦理与去殖民议题作历史案例",
+    "evidence_boundary": "垄断史实为原著第五章内容；当代伦理结论需另行论证，不可直接外推",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0495",
+    "title": "杭间：《设计道：中国设计的基本问题》，2008",
+    "grade": "C",
+    "verification": "V2",
+    "role": "papanek_and_survival_design_reference",
+    "accepted_claim": "引帕帕耐克《为了生存的设计》与麦克哈格《设计结合自然》讨论设计责任与生存伦理",
+    "evidence_boundary": "XII章L314（理论引证，非实证研究）",
+    "status": "ACCEPTED_WITH_CAVEAT"
+   }
+  ]
+ },
+ "12.3": {
+  "grades": {
+   "C": 4,
+   "B": 5,
+   "A": 1
+  },
+  "count": 10,
+  "items": [
+   {
+    "source_id": "B0420",
+    "title": "The green imperative _ natural design for the real world -- Papanek, Victor J --",
+    "grade": "A",
+    "verification": "V2",
+    "role": "green_imperative_ecology",
+    "accepted_claim": "生态责任是设计的绝对义务（绿色律令）：LCA、Design for Disassembly、Design Diversification——环境设计与生命周期的奠基原典",
+    "evidence_boundary": "行动者原典（1995）；数据止于1990s中期；伦理改造成功率自认仅4/10（作者自认限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0110",
+    "title": "Design futuring ： sustainability, ethics, and new practice -- Tony Fry -- 1, Lon",
+    "grade": "B",
+    "verification": "V2",
+    "role": "defuturing_unsustainability",
+    "accepted_claim": "去未来化（defuturing）：不可持续性的本质是\"拿走未来\"；\"可持续设计\"话语本身是问题的一部分（批判布伦特兰框架）——环境设计的激进批判",
+    "evidence_boundary": "作者理论（2009）；与B0420/B0230改良话语构成对照",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0110",
+    "title": "Design futuring ： sustainability, ethics, and new practice -- Tony Fry -- 1, Lon",
+    "grade": "B",
+    "verification": "V2",
+    "role": "redirective_practice",
+    "accepted_claim": "重定向实践工具箱：消除设计、重编码、再物质化、时间中的设计（designing-in-time）——环境设计的行动方法",
+    "evidence_boundary": "作者方法（2009）；工具箱的实践成效以案例为证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0230",
+    "title": "John Thackara：《In the Bubble Designing in a Complex World》，2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_mindfulness_sustainability",
+    "accepted_claim": "设计正念（design mindfulness）七项原则与五资本模型：从\"为人们设计\"转向\"与人们一起设计\"、从产品到服务——可持续设计的理论奠基",
+    "evidence_boundary": "作者理论（2005）；'正念'为规范性框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0420",
+    "title": "The green imperative _ natural design for the real world -- Papanek, Victor J --",
+    "grade": "B",
+    "verification": "V2",
+    "role": "form_follows_fun_critique",
+    "accepted_claim": "形式追随乐趣（Form Follows Fun）消费批判与\"便利是敌人\"：短暂美学与消费三角——消费批判的生态侧",
+    "evidence_boundary": "行动者批判（1995）；消费机制的量化数据未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0434",
+    "title": "Victor Papanek：《Design for the Real World Human Ecology and Social Change》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "kleenex_culture_obsolescence",
+    "accepted_claim": "可弃文化（Kleenex Culture）与过时价值批判：设计参与制造\"用完即弃\"的消费文化——环境设计的批判前史",
+    "evidence_boundary": "行动者批判（1984）；过时机制的量化数据未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0052",
+    "title": "Briggs, Asa：《Victorian things》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "coal_energy_material_plenitude_and_environmental_prehistory",
+    "accepted_claim": "煤炭能源、材料增殖和废弃可作为生命周期与环境设计的长时段前史",
+    "evidence_boundary": "本书不是生态设计、碳核算或环境正义研究",
+    "status": "CONTEXT_ONLY_AS_ENVIRONMENTAL_PREHISTORY"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "C",
+    "verification": "V2",
+    "role": "redesign_obsolescence_circular_economy_and_growth_critique",
+    "accepted_claim": "第16章「Redesign versus Obsolescence」讨论Fairphone、Patagonia反消费广告、Cradle to Cradle与循环经济，并以「Contemporary Design and Economic Growth」小节质疑GDP增长范式的设计伦理",
+    "evidence_boundary": "证据边界为clean第7811—7816行GDP批判段与P4第16章报告；GDP批判是作者命题而非公认结论",
+    "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   },
+   {
+    "source_id": "B0273",
+    "title": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
+    "grade": "C",
+    "verification": "V2",
+    "role": "sustainability_section",
+    "accepted_claim": "可持续性与计划性过时批判（跨章）：Section 6“可持续未来1960—2003”的批判核心（浪费、计划性过时、消费主义）正是Part I所叙述工业化设计历史的产物与后果——12.3环境设计与生命周期的思想史文本",
+    "evidence_boundary": "文选节录集；可持续设计史实（Vance Packard等）须回原文本",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0418",
+    "title": "The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis",
+    "grade": "C",
+    "verification": "V2",
+    "role": "sustainment_defuturing_reader",
+    "accepted_claim": "持存（Sustainment）、去未来化（Defuturing）与\"终结之后的设计\"：非可持续是结构性条件——环境设计的哲学批判",
+    "evidence_boundary": "哲学论文选（2019）；与B0110（Fry）同一圈层重复命题只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "12.4": {
+  "grades": {
+   "B": 2
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0347",
+    "title": "Personas, Participatory Design and Product Development An Infrastructure for Engagement",
+    "grade": "B",
+    "verification": "V2",
+    "role": "scandinavian_pd_tradition",
+    "accepted_claim": "参与式设计从斯堪的纳维亚（UTOPIA项目）向商业产品开发转移的历史：转移中丢失长期投入/同理心与社会政治议题——12.4北欧传统",
+    "evidence_boundary": "会议论文（2002）；UTOPIA项目细节以Ehn/Kyng原始文献为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0347",
+    "title": "Personas, Participatory Design and Product Development An Infrastructure for Engagement",
+    "grade": "B",
+    "verification": "V2",
+    "role": "persona_infrastructure",
+    "accepted_claim": "persona作为\"参与的基础设施\"：商业产品开发中参与式设计的结构性/规模性障碍与persona方案（须由数据奠基、随数据演化）——参与式设计的规模转化",
+    "evidence_boundary": "微软单一组织经验（作者自认限度）；'定型与反定型'困境未解决",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "12.5": {
+  "grades": {
+   "A": 2,
+   "B": 7,
+   "C": 3
+  },
+  "count": 12,
+  "items": [
+   {
+    "source_id": "B0138",
+    "title": "Edward Steinfeld, Jordana Maisel：《Universal Design Creating Inclusive Environments》，2012",
+    "grade": "A",
+    "verification": "V2",
+    "role": "universal_design_process_definition",
+    "accepted_claim": "通用设计新定义：通过改善人类表现、健康与福祉、社会参与使多样化人群获得能力与赋权的\"过程\"（而非\"终态\"）；从无障碍合规到创新扩散——12.5核心框架",
+    "evidence_boundary": "教科书定义（2012，IDeA中心立场）；'过程'转向为作者主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0138",
+    "title": "Edward Steinfeld, Jordana Maisel：《Universal Design Creating Inclusive Environments》，2012",
+    "grade": "A",
+    "verification": "V2",
+    "role": "barrier_social_construction",
+    "accepted_claim": "障碍的社会建构本质：障碍是普遍人类经验与社会心理建构（Goffman污名理论）而非物理特征本身；同一物理特征可同时是障碍与促进器——残障社会模型",
+    "evidence_boundary": "理论框架（2012）；社会模型的具体法律-制度档案另见专史",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0138",
+    "title": "Edward Steinfeld, Jordana Maisel：《Universal Design Creating Inclusive Environments》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "eight_goals_alternative",
+    "accepted_claim": "从七原则到八目标：Body Fit/Comfort/Awareness/Understanding/Wellness/Social Integration/Personalization/Cultural Appropriateness——实践框架替代（七原则九大缺陷批判）",
+    "evidence_boundary": "作者框架（2012）；八目标的实证验证未完成",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0138",
+    "title": "Edward Steinfeld, Jordana Maisel：《Universal Design Creating Inclusive Environments》，2012",
+    "grade": "B",
+    "verification": "V2",
+    "role": "beneficiary_populations",
+    "accepted_claim": "通用设计受益人口远超残疾群体（八大类：极端体型、照护者、心理社会条件、药物依赖、文化少数、中低收入、流离失所、受虐待）——人口统计学论证",
+    "evidence_boundary": "美国人口统计（2012年时点）；他国人口结构须另核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0174",
+    "title": "Graham Pullin：《Design Meets Disability》，2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "disability_social_model_design",
+    "accepted_claim": "残障的医学模式→社会模式转变如何重塑设计角色：WHO ICF框架与\"残障\"定义的语境性；身份（Deaf with capital D）vs能力——残障社会模型的设计应用",
+    "evidence_boundary": "作者论证（2009）；社会模式的结构性障碍讨论不足（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0174",
+    "title": "Graham Pullin：《Design Meets Disability》，2009",
+    "grade": "B",
+    "verification": "V2",
+    "role": "inclusive_design_critique",
+    "accepted_claim": "对通用设计/包容性设计\"为所有人设计\"的建设性批评：可能导致设计平庸化；引入简单性、轻盈感、共鸣等美学品质——12.5的批判侧",
+    "evidence_boundary": "批判性观点（2009）；与B0138教科书立场并置不择一",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0460",
+    "title": "Wolfgang F. E. Preiser, Elaine Ostroff：《Universal Design Handbook》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "universal_design_handbook_global",
+    "accepted_claim": "通用设计手册（69章）：七项原则、联合国标准规则、美国无障碍法规与跨国实践（美/日/欧/发展中经济）——通用设计的制度与标准侧",
+    "evidence_boundary": "手册综述（2001）；各章制度细节以原始法规为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0460",
+    "title": "Wolfgang F. E. Preiser, Elaine Ostroff：《Universal Design Handbook》，2001",
+    "grade": "B",
+    "verification": "V2",
+    "role": "compliance_paradox_evolution",
+    "accepted_claim": "合规→通用→悖论→充分制度演替模型与\"利他→自利\"动机翻转——通用设计的制度演化",
+    "evidence_boundary": "知识涌现结论（2001）；模型为分析框架非史实",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0054",
+    "title": "Regine M. Gilbert：《Inclusive Design for a Digital World Designing with Accessibility in Mind》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "social_model_disability",
+    "accepted_claim": "无障碍不是合规清单而是用户体验：'设计更可能是排斥之源'；采用残障社会模式（从'特殊使用者'转向制度性障碍）；为残障设计的技术最终惠及所有人（路缘坡道效应）——12.5通用设计与残障社会模型",
+    "evidence_boundary": "作者实务指南（2019）；残障社会模式论述与案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0174",
+    "title": "Graham Pullin：《Design Meets Disability》，2009",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critical_design_disability",
+    "accepted_claim": "批判性设计（Dunne & Raby）引入残障设计：挑衅遇敏感的张力与伦理争议",
+    "evidence_boundary": "最早系统引入的著作之一（2009）；适用边界讨论有限（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0460",
+    "title": "Wolfgang F. E. Preiser, Elaine Ostroff：《Universal Design Handbook》，2001",
+    "grade": "C",
+    "verification": "V2",
+    "role": "majority_world",
+    "accepted_claim": "多数世界（发展中经济）的通用设计现实检验——通用设计的全球不平等",
+    "evidence_boundary": "手册章节（2001）；发展中经济数据时效有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0054",
+    "title": "Regine M. Gilbert：《Inclusive Design for a Digital World Designing with Accessibility in Mind》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "accessibility_standards_legislation",
+    "accepted_claim": "数字无障碍的制度化史实：W3C/WCAG 2.0/2.1/ARIA标准、ADA诉讼激增（+181%）、Winn Dixie采纳WCAG 2.0——合规与可及的张力成为法律与产业议题——12.5制度性障碍与法律框架",
+    "evidence_boundary": "作者实务指南（2019）；立法判例与统计（Ch4）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "12.6": {
+  "grades": {
+   "B": 3,
+   "A": 3,
+   "C": 6
+  },
+  "count": 12,
+  "items": [
+   {
+    "source_id": "B0080",
+    "title": "Christopher Breward：《The Culture of Fashion A New History of Fashionable Dress》，1995",
+    "grade": "A",
+    "verification": "V2",
+    "role": "fashion_gender_body_labour_and_design_history_critique",
+    "accepted_claim": "时尚史揭示设计正典、身体规范、女性劳动与公共／私人领域的性别建构",
+    "evidence_boundary": "性别表征不能替代实际劳动、制度和多样主体经验",
+    "status": "ACCEPTED_AS_CORE_GENDER_CRITIQUE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "feminist_design_critique_stance",
+    "accepted_claim": "女性主义设计批评立场：作者自我命名“女性主义者”，以家务劳动、身体经验与性别知识位置重读设计史，将设计纳入“制造现代女性”的社会过程",
+    "evidence_boundary": "立场声明与广告细读为Lupton命题，非中性事实",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0145",
+    "title": "Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "mechanical_bride_commodity_fetishism",
+    "accepted_claim": "“机械新娘”双重指涉与商品/性拜物教整合：广告与设计放大商品心理价值；把技术当作自主进化的有机体是一种“技术拜物教”",
+    "evidence_boundary": "Marx/Freud/McLuhan理论移植，为Lupton分析框架（命题）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0035",
+    "title": "Aslin, Elizabeth：《The aesthetic movement prelude to Art Nouveau》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "women_craft_workers_fashion_and_signature_visibility",
+    "accepted_claim": "女性陶艺者、刺绣者、服装参与者与签名制度显示性别化设计劳动的可见与遮蔽",
+    "evidence_boundary": "零散人物不能代表女性劳动结构或实际职业改善",
+    "status": "ACCEPTED_AS_GENDERED_LABOUR_SUPPORT"
+   },
+   {
+    "source_id": "B0338",
+    "title": "Paul Greenhalgh：《Art Nouveau 1890-1914》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "gendered_representation_new_woman_and_missing_female_producers",
+    "accepted_claim": "新女性、身体、厌女图像和雌雄同体表征显示性别在新艺术意义生产中的作用",
+    "evidence_boundary": "表征分析不能代表女性经验；女性设计生产者和劳动制度不足",
+    "status": "ACCEPTED_AS_GENDER_REPRESENTATION_SOURCE_WITH_ACTOR_GAP"
+   },
+   {
+    "source_id": "B0450",
+    "title": "Wendy Kaplan：《The arts crafts movement in Europe America design for the modern world》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "women_home_industries_charity_profession_and_class",
+    "accepted_claim": "女性协会、家庭工业、慈善工艺和职业训练显示性别与阶级共同塑造设计劳动",
+    "evidence_boundary": "富裕赞助者、受训设计者和贫困制作妇女不能合并成统一女性经验",
+    "status": "ACCEPTED_AS_GENDERED_LABOUR_SUPPORT"
+   },
+   {
+    "source_id": "B0183",
+    "title": "Hazel Conway：《Design history a students handbook》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "women_in_design_history",
+    "accepted_claim": "设计史的女性维度：服装与女性历史不可分割、女性在家具业被局限于缝纫工种、女性设计师“从历史中被隐藏”（Miller、Kirkham、Conway）——12.6女性主义设计批评的学科史资源（跨章）",
+    "evidence_boundary": "1980s女性主义史学初步成果；与Attfield（B0440）的系统批判并置",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0240",
+    "title": "Judy Attfield：《Wild Things The Material Culture of Everyday Life》，2000",
+    "grade": "C",
+    "verification": "V2",
+    "role": "gender_politics_of_taste",
+    "accepted_claim": "品味与性别政治（跨章）：梳妆台的微观研究、身体作为自然与文化之间的门槛、品味论述中的性别政治——12.6女性主义设计批评的物质文化侧",
+    "evidence_boundary": "作者分析（Ch6、Ch9）；与B0440第十章（Attfield女性主义批判）互参",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0273",
+    "title": "Lees-Maffei, Grace; Houze, Rebecca (eds.)：The Design History Reader, 2010",
+    "grade": "C",
+    "verification": "V2",
+    "role": "gender_section_good_design_critique",
+    "accepted_claim": "性别与“好设计”标准的解构（跨章）：Section 9女性主义批判与Section 10消费理论共同解构现代主义“好设计”的单一标准——12.6女性主义设计批评的文选资源",
+    "evidence_boundary": "文选节录集；具体批判文本（女性主义设计批评）须回原始出处",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0420",
+    "title": "The green imperative _ natural design for the real world -- Papanek, Victor J --",
+    "grade": "C",
+    "verification": "V2",
+    "role": "indigenous_design_wisdom",
+    "accepted_claim": "因纽特原住民设计智慧（\"世界上最好的设计师\"）：以非西方设计智慧挑战西方设计史叙事",
+    "evidence_boundary": "第一手田野（因纽特）；对原住民赞颂带理想化（作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0434",
+    "title": "Victor Papanek：《Design for the Real World Human Ecology and Social Change》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "consumer_rights_manifesto",
+    "accepted_claim": "消费者权利宣言与\"为需要设计\"：设计的社会责任面向弱势与真实需要——社会批判的早期表述",
+    "evidence_boundary": "行动者主张（1984）；'消费者权利'的实现证据缺",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0440",
+    "title": "Walker：《Design History and the History of Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "feminist_critique_of_design_history",
+    "accepted_claim": "女性主义设计批评（Attfield章）：女性主义是“政治而非方法”，质疑设计史的定义、对象、价值与作者身份，“women-designers式补漏不改变等级制”——12.6女性主义设计批评的学科批判资源（跨章）",
+    "evidence_boundary": "Attfield独立署名章；作为学科批判立场引用，与B0240（Wild Things）互参",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   }
+  ]
+ },
+ "12.7": {
+  "grades": {
+   "C": 6,
+   "A": 4,
+   "B": 3
+  },
+  "count": 13,
+  "items": [
+   {
+    "source_id": "B0032",
+    "title": "Arturo Escobar：《Designs for the Pluriverse Radical Interdependence, Autonomy, and the Making of Worlds》，2018",
+    "grade": "A",
+    "verification": "V2",
+    "role": "autonomous_design_communal",
+    "accepted_claim": "自主性设计（autonomous design）与公社性（comunalidad）：社群是自身知识的实践者；自主性是社群自决而非自由主义个体自主——拉丁美洲社群斗争的社区设计理论",
+    "evidence_boundary": "作者理论（2018）＋三十年哥伦比亚社群参与研究；社群案例（PCN、考卡）为民族志证据",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0032",
+    "title": "Arturo Escobar：《Designs for the Pluriverse Radical Interdependence, Autonomy, and the Making of Worlds》，2018",
+    "grade": "A",
+    "verification": "V2",
+    "role": "pluriverse_justice",
+    "accepted_claim": "多元宇宙（pluriverse）与设计正义：'一个能容纳许多世界的世界'（萨帕塔口号）——对单一世界现代性的根本挑战；代表权与决策权的多元本体论",
+    "evidence_boundary": "政治本体论框架（2018）；多元宇宙的实现路径为愿景性论述",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0151",
+    "title": "Ezio Manzini：《Design, When Everybody Designs An Introduction to Design for Social Innovation》，2015",
+    "grade": "A",
+    "verification": "V2",
+    "role": "diffuse_expert_design",
+    "accepted_claim": "人人都是设计师：散在设计（diffuse design）vs专家设计（expert design）；设计专家成为社会对话的激发者、促进者与文化推动者——社会创新设计理论核心",
+    "evidence_boundary": "作者理论（2015）；'人人都是设计师'为规范性命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0151",
+    "title": "Ezio Manzini：《Design, When Everybody Designs An Introduction to Design for Social Innovation》，2015",
+    "grade": "A",
+    "verification": "V2",
+    "role": "collaborative_organizations",
+    "accepted_claim": "协作组织（collaborative organizations）：创造性重组现有资源回应传统市场与国家难以解决的棘手问题；使能生态系统（enabling ecosystems）——12.7核心机制",
+    "evidence_boundary": "案例证据（Tyze、爱农会、Circle）；协作组织可持续性以案例时效为限",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0151",
+    "title": "Ezio Manzini：《Design, When Everybody Designs An Introduction to Design for Social Innovation》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "social_innovation_definition",
+    "accepted_claim": "社会创新定义（同时满足社会需求并创造新社会关系或合作）与SLOC（Small",
+    "evidence_boundary": " Local",
+    "status": " Connected）情景——社会创新的可操作框架"
+   },
+   {
+    "source_id": "B0151",
+    "title": "Ezio Manzini：《Design, When Everybody Designs An Introduction to Design for Social Innovation》，2015",
+    "grade": "B",
+    "verification": "V2",
+    "role": "exit_strategy",
+    "accepted_claim": "社会创新之旅（包括退出策略exit strategy）与基础设施化（infrastructuring）：项目退出后的持续性——12.7'项目退出后的持续性'总纲要求",
+    "evidence_boundary": "作者方法（2015）；退出案例的长期跟踪证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0230",
+    "title": "John Thackara：《In the Bubble Designing in a Complex World》，2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "sense_and_respond",
+    "accepted_claim": "从蓝图式规划转向\"感知与回应\"（sense and respond）；七种设计框架转换（高概念→深语境、为人们设计→与人们一起设计）——社会创新设计先声",
+    "evidence_boundary": "作者框架（2005）；案例依赖个人旅行经验（系统性偏差风险，作者自认限度）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0015",
+    "title": "Alice Rawsthorn：《Hello World Where Design Meets Life》，2013",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_for_90_percent",
+    "accepted_claim": "为\"另外的90%\"设计（全球贫困人口）：设计的社会责任面向——社会设计命题",
+    "evidence_boundary": "作者倡导（2013）；90%人群设计实践的成效证据缺",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "sitter_agency",
+    "accepted_claim": "被摄者能动性：Bherulal拒收不合意的照片、客户以本土范畴（vyaktitva/charitra）定义影像用途、“小问题”式访谈尊重被访者自我阐释，可作为参与/包容视角的案例",
+    "evidence_boundary": "这些是研究伦理与方法示范而非设计参与实践，映射为类比性补充",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0230",
+    "title": "John Thackara：《In the Bubble Designing in a Complex World》，2005",
+    "grade": "C",
+    "verification": "V2",
+    "role": "service_design_paradigm",
+    "accepted_claim": "从拥有到使用（use",
+    "evidence_boundary": " not own）与产品-服务系统：设计的对象从物转向情境、服务与基础设施——服务设计的范式转换",
+    "status": "Ch6-10分析报告"
+   },
+   {
+    "source_id": "B0347",
+    "title": "Personas, Participatory Design and Product Development An Infrastructure for Engagement",
+    "grade": "C",
+    "verification": "V2",
+    "role": "sociopolitical_awareness",
+    "accepted_claim": "persona的\"身份属性\"迫使团队显式决定\"为谁设计\"——社会政治维度回归设计方法",
+    "evidence_boundary": "作者论证（2002）；'为谁设计'的决策权问题为设计方法论命题",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0406",
+    "title": "Steven Heller Veronique Vienne：《Citizen Designer Perspectives on Design Responsi",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_activism_humility",
+    "accepted_claim": "设计行动主义与谦逊的辩证（hubris/humility）：社会设计既需要抱负也需要谦逊——社会设计的实践立场",
+    "evidence_boundary": "文集表述（2018）；行动主义成效个案证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0420",
+    "title": "The green imperative _ natural design for the real world -- Papanek, Victor J --",
+    "grade": "C",
+    "verification": "V2",
+    "role": "sharing_not_buying",
+    "accepted_claim": "分享而非购买（Sharing not Buying）替代方案与购前十问——社会创新的早期表述",
+    "evidence_boundary": "行动者方案（1995）；替代方案的实施证据缺",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ }
+}

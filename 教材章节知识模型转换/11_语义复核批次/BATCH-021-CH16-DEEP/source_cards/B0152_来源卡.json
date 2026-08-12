@@ -1,0 +1,35 @@
+{
+  "source_id": "B0152",
+  "corpus": "book",
+  "folder_name": "Kjetil Fallan：《Design History Understanding Theory and Method》",
+  "material_type": "设计史方法论专著",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Kjetil Fallan：《Design History Understanding Theory and Method》.md",
+  "duplicate_group": "与B0103（Doordan）、B0083（Clark/Brody）、B0111（Gimeno-Martinez）共享设计史学科对象；本书为设计史方法论主源",
+  "files": [{"report_file_count": 13, "report_characters": 2484}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "design_history_methodology"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "margolin_forty_debate"},
+    {"section_id": "0.1", "grade": "C", "verification": "V2", "role": "design_history_cultural_history"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Kjetil Fallan（挪威奥斯陆大学），《Design History: Understanding Theory and Method》（Berg 2010）",
+    "为设计史'正名'的学科反思之作：史学史、理论与方法、认识论三重追问",
+    "六大核心命题：设计≠艺术、设计史≠艺术史（L101）；设计史=文化史（L345）；设计≈技术（L396）；ism=意识形态-实践共生产的文化模式（L762）；现代主义=二十世纪ism的认识型（L921-925）；设计史应升级为设计文化研究（L943-951）",
+    "关键论战：Margolin vs Forty的'design studies or design history'（1992-1995，L225-265）；作者裁决文化史优于设计研究",
+    "核心概念链：seamless web of sociodesign → ANT → 黑箱 → 脚本 → 驯化 → ism → 文化模式 → 范式三层次 → design culture",
+    "理论谱系：艺术史（Pevsner/Giedion/Banham）→新艺术史（Block）→技术史（Hughes/Cowan）→STS（Latour/Akrich/Silverstone）→科学哲学（Kuhn）→文化史（Hunt/Miller）",
+    "证据基准：3311行版（8133行版因文件名私有区字符无法直接读取，grep锚点验证内容一致）",
+    "本书为设计史方法论（A级）：对C.0承担方法与理论",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L101：设计史≠艺术史",
+    "L345：设计史=文化史",
+    "L225-265：Margolin vs Forty论战",
+    "L762：ism=文化模式",
+    "L943-951：设计文化研究升级"
+  ]
+}

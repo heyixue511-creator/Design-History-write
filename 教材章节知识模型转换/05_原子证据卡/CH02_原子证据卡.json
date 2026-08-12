@@ -1,0 +1,50 @@
+[
+  {
+    "evidence_id": "EV-0201",
+    "claim": "1851年万国工业博览会由既有展览制度与资金组织形成，目录、周刊、图像与对象共同组织公共观看（Auerbach）",
+    "source_id": "B0204",
+    "source_location": "B0204 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["2.1"],
+    "textbook_function": "核心命题（制度起点）",
+    "supports": ["设计问题公共化与制度化", "博览会作为'设计问题'汇聚点"],
+    "does_not_support": ["观众接受与认同", "由组织者意图推出观众效果"],
+    "time_boundary": "1851",
+    "geographic_boundary": "英国伦敦",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0202",
+    "claim": "Liberty商店以目录、橱窗、广告与信用组织欲望，企业百年史为零售制度证据（Adburgham）",
+    "source_id": "B0006",
+    "source_location": "B0006 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["2.4", "2.5"],
+    "textbook_function": "机制证据（零售制度）",
+    "supports": ["百货商店与现代消费者", "商店—生活方式整体环境"],
+    "does_not_support": ["由目录推出购买动机", "消费者家庭使用的实际结果"],
+    "time_boundary": "1875—20世纪初",
+    "geographic_boundary": "英国伦敦",
+    "counterevidence": null,
+    "status": "accepted"
+  },
+  {
+    "evidence_id": "EV-0203",
+    "claim": "1851—1909年南肯辛顿体系以博物馆＋学校＋巡回展览＋视察构成中央集权设计教育网络（Barringer三阶段分期）",
+    "source_id": "B0427",
+    "source_location": "B0427 packet 分析报告",
+    "source_class": "P1",
+    "verification_level": "V2",
+    "section_ids": ["2.2", "2.6"],
+    "textbook_function": "核心命题（制度机制）",
+    "supports": ["科尔体系与设计教育制度化", "帝国网络中的博物馆"],
+    "does_not_support": ["教学成效、工业采用或公共可达性（不得由设立推定）"],
+    "time_boundary": "1851—1909",
+    "geographic_boundary": "英国及帝国网络",
+    "counterevidence": null,
+    "status": "accepted"
+  }
+]

@@ -1,0 +1,876 @@
+[
+ {
+  "evidence_id": "EV-C0488",
+  "claim": "1925年巴黎博览会的Art Deco房间布置确立室内设计的装饰现代性：Ruhlmann大沙龙与百货公司展厅为风格制度化节点",
+  "source_id": "B0022",
+  "source_location": "回查L803-877（1925博览会）与L868（女性化编码）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.1"
+  ],
+  "textbook_function": "art_deco_interior_dimension",
+  "supports": [
+   "1925年巴黎博览会的Art Deco房间布置确立室内设计的装饰现代性：Ruhlmann大沙龙与百货公司展厅为风格制度化"
+  ],
+  "does_not_support": [
+   "clean第803-877行、第868行；Massey对位叙事框架须标注"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0489",
+  "claim": "Art Deco是“现代的但非现代主义的”风格综合体：以装饰、表面、材料、速度意象与消费文化回应现代世界，介于传统主义与激进现代主义之间",
+  "source_id": "B0073",
+  "source_location": "回查Ch1（L300区域）与总论；L229—232家族相似性",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.1"
+  ],
+  "textbook_function": "art_deco_core_survey",
+  "supports": [
+   "Art Deco是“现代的但非现代主义的”风格综合体：以装饰、表面、材料、速度意象与消费文化回应现代世界，介于传统主义与"
+  ],
+  "does_not_support": [
+   "五部分框架与“modern but not Modernist”为编者核心命题；40章多作者各章立场不一须按章归因"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0490",
+  "claim": "1925年巴黎国际现代装饰与工业艺术博览会确立Art Deco为“定义性事件”：其评审标准（“现代灵感与真正原创”）与Ruhlmann Hôtel du Collectionneur大沙龙为风格立名；名称加入“industriels”宣告艺术-工业联盟",
+  "source_id": "B0073",
+  "source_location": "回查PART 3（L2669起）与L1288",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.1"
+  ],
+  "textbook_function": "exposition_1925_defining_event",
+  "supports": [
+   "1925年巴黎国际现代装饰与工业艺术博览会确立Art Deco为“定义性事件”：其评审标准（“现代灵感与真正原创”）与R"
+  ],
+  "does_not_support": [
+   "博览会制度与展品为档案可证；“定义性事件”地位为编者评价"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0491",
+  "claim": "1925年巴黎博览会是装饰艺术命名、国家竞争、展馆和消费风格交汇的核心事件",
+  "source_id": "B0339",
+  "source_location": "补1925官方目录、展馆、对象、设计者、生产与国际接受",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.1"
+  ],
+  "textbook_function": "1925_paris_exposition_and_art_deco_production",
+  "supports": [
+   "1925年巴黎博览会是装饰艺术命名、国家竞争、展馆和消费风格交汇的核心事件"
+  ],
+  "does_not_support": [
+   "不能把博览会单独写成Art Deco的唯一来源或全球同步起点"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0492",
+  "claim": "消费是现代性的发动机：Veblen炫耀性消费→百货商店/邮购/广告/包装制度→中产女性消费者与品味扩张",
+  "source_id": "B0345",
+  "source_location": "回查百货商店/广告制度的一手档案来源",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.2"
+  ],
+  "textbook_function": "consumption_as_modernity_engine",
+  "supports": [
+   "消费是现代性的发动机：Veblen炫耀性消费→百货商店/邮购/广告/包装制度→中产女性消费者与品味扩张"
+  ],
+  "does_not_support": [
+   "理论以Veblen为纲、制度案例依赖Miller《Bon Marche》、Strasser等消费史二手文献"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0493",
+  "claim": "美国福特主义分配回路（大众生产—大众分配—大众消费一体化，重造从企业设计生产管理到店铺陈列的整个商业机制）为美国大众消费体系提供制度性解释",
+  "source_id": "B0409",
+  "source_location": "clean L42-47",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.2"
+  ],
+  "textbook_function": "us_fordist_distribution_circuit",
+  "supports": [
+   "美国福特主义分配回路（大众生产—大众分配—大众消费一体化，重造从企业设计生产管理到店铺陈列的整个商业机制）为美国大众消费"
+  ],
+  "does_not_support": [
+   "美国侧描述服务于美欧比较框架而非美国本土叙事；作者自陈“福特主义”术语有时代错置之嫌；分期付款与企业实验室未展开"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0494",
+  "claim": "美国全国性广告重新定义市场（市场＝可被营销信息触达的潜在无限消费者）并催生营销管理科学",
+  "source_id": "B0409",
+  "source_location": "clean L45；L56；L58",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.2"
+  ],
+  "textbook_function": "advertising_marketing_professionalization",
+  "supports": [
+   "美国全国性广告重新定义市场（市场＝可被营销信息触达的潜在无限消费者）并催生营销管理科学"
+  ],
+  "does_not_support": [
+   "广告论述属“美国化”背景侧，无广告创意/设计内容；依赖统计式营销“科学”话语"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0495",
+  "claim": "大萧条催化工业设计：1933年谷底制造商转向以新外观刺激消费，Fortune文章引用Sprague将“未以设计开辟新需求”指为萧条持续主因，设计成为销售工程",
+  "source_id": "B0066",
+  "source_location": "clean第1271—1281行；clean第1301行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "depression_sales_engineering",
+  "supports": [
+   "大萧条催化工业设计：1933年谷底制造商转向以新外观刺激消费，Fortune文章引用Sprague将“未以设计开辟新需求"
+  ],
+  "does_not_support": [
+   "论证以Fortune原文为原始文献，“催化”因果判断为Gantz解释框架"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0496",
+  "claim": "德雷福斯作为美国工业设计奠基者之一（与Teague、Loewy、Geddes并列）的第一人称职业自述：由舞台设计转型、1929年于580 Fifth Avenue开设事务所、大萧条下职业萌生",
+  "source_id": "B0186",
+  "source_location": "clean第130行；第1章分析报告",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "actor_profession_self_account",
+  "supports": [
+   "德雷福斯作为美国工业设计奠基者之一（与Teague、Loewy、Geddes并列）的第一人称职业自述：由舞台设计转型、1"
+  ],
+  "does_not_support": [
+   "自述仅证明德雷福斯个人实践与主张；'四巨头'地位与行业影响需外部史料佐证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0497",
+  "claim": "独立设计师以外部视角（outside point of view）服务客户，理想关系为'友好而受尊重的融合'；Crane公司二战保留费续约案例展示长期客户关系价值",
+  "source_id": "B0186",
+  "source_location": "clean第1852—1887行；第13章分析报告",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "designer_client_relationship",
+  "supports": [
+   "独立设计师以外部视角（outside point of view）服务客户，理想关系为'友好而受尊重的融合'；Crane"
+  ],
+  "does_not_support": [
+   "客户反应（'one of us'支票）为德雷福斯单方叙述，无客户方独立证实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0498",
+  "claim": "公开四种收费模式（年度聘用制为首选）、聘用费六因素、'握手协议'与无合同合作（McCall's 12年、New York Central 15分钟年会）",
+  "source_id": "B0186",
+  "source_location": "clean第1903—1965行；第14章分析报告",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "fee_and_contract_transparency",
+  "supports": [
+   "公开四种收费模式（年度聘用制为首选）、聘用费六因素、'握手协议'与无合同合作（McCall's 12年、New York"
+  ],
+  "does_not_support": [
+   "收费与合同实务为事务所单方披露；'从未有过诉讼'为自述事实，行业惯例程度不可外推"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0499",
+  "claim": "Calkins 1930年会议将经济崩溃归因“消费不足”而非“生产过剩”，提出“消费工程”与“人为过时”，把泰勒制从工厂延伸至消费者心理",
+  "source_id": "B0205",
+  "source_location": "clean第1100行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "underconsumption_thesis_1930",
+  "supports": [
+   "Calkins 1930年会议将经济崩溃归因“消费不足”而非“生产过剩”，提出“消费工程”与“人为过时”，把泰勒制从工厂"
+  ],
+  "does_not_support": [
+   "档案引文（会议演讲、Arens著作）可独立核查；经济归因属Meikle叙述框架的史学呈现"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0500",
+  "claim": "“styling是设计用于刺激需求的经济功能”：百货商店stylist（多为年轻女性）从选品转向产品再设计；Sinel/Loewy/Van Doren三人的销售导向言论",
+  "source_id": "B0205",
+  "source_location": "clean第1104、1132行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "styling_as_sales_engineering",
+  "supports": [
+   "“styling是设计用于刺激需求的经济功能”：百货商店stylist（多为年轻女性）从选品转向产品再设计；Sinel/"
+  ],
+  "does_not_support": [
+   "档案引文（Jordan Marsh高管、三人言论）可证当事人话语；stylist女性化与5.5职业衔接"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0501",
+  "claim": "消费工程学（Sheldon & Arens 1932）将Taylor生产工程学类比移植到消费端，以消除分销摩擦、制造可预测消费为目标，是“销售工程”的核心理论文本",
+  "source_id": "B0206",
+  "source_location": "clean第1451—1476行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "consumer_engineering_concept",
+  "supports": [
+   "消费工程学（Sheldon & Arens 1932）将Taylor生产工程学类比移植到消费端，以消除分销摩擦、制造可预"
+  ],
+  "does_not_support": [
+   "第四章细读；属当时行业宣言文本而非学术评估，引用须标注当事人立场"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0502",
+  "claim": "大萧条（1929—1932）下“过度生产vs消费不足”之争使消费不足论成商业共识，工业设计被包装为经济复苏手段",
+  "source_id": "B0206",
+  "source_location": "clean第1445—1449行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "depression_economic_drive",
+  "supports": [
+   "大萧条（1929—1932）下“过度生产vs消费不足”之争使消费不足论成商业共识，工业设计被包装为经济复苏手段"
+  ],
+  "does_not_support": [
+   "宏观数字为二手概括，需对照经济史统计"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0503",
+  "claim": "Calkins“使用品vs消耗品”分类与Sheldon/Arens“progressive waste, creative waste”语义翻转：耐用品人为淘汰被重构为效率核心",
+  "source_id": "B0206",
+  "source_location": "clean第1450、1471—1475行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "artificial_obsolescence",
+  "supports": [
+   "Calkins“使用品vs消耗品”分类与Sheldon/Arens“progressive waste, creativ"
+  ],
+  "does_not_support": [
+   "当事人主张原文引用；Meikle持批判性分析立场"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0504",
+  "claim": "Watson行为主义在J. Walter Thompson的商业应用将消费者还原为刺激-反应对象（“mice and monkeys”），与消费工程学合流",
+  "source_id": "B0206",
+  "source_location": "clean第1467—1471行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.3"
+  ],
+  "textbook_function": "behaviorism_in_marketing",
+  "supports": [
+   "Watson行为主义在J. Walter Thompson的商业应用将消费者还原为刺激-反应对象（“mice and m"
+  ],
+  "does_not_support": [
+   "企业广告代理背景+当事人文本；Watson个人经历细节以Meikle注释为准"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0505",
+  "claim": "流线型（美国Moderne）1930年代在美国兴起：Art Deco垂直线让位于水平线，融合Art Deco、国际风格与法国Moderne；始于运输风格，迁移至厨房电器、办公设备等一切设计领域",
+  "source_id": "B0022",
+  "source_location": "回查clean第977-1008行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "streamlining_definition_medium_transfer",
+  "supports": [
+   "流线型（美国Moderne）1930年代在美国兴起：Art Deco垂直线让位于水平线，融合Art Deco、国际风格与"
+  ],
+  "does_not_support": [
+   "clean第977—978行、第988行、第996行；媒介迁移命题的核心段落"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0506",
+  "claim": "流线型商业室内典范：Radio City Music Hall（1933，Donald Deskey）为流线型应用于商业室内（娱乐场所）的精品案例",
+  "source_id": "B0022",
+  "source_location": "回查clean第1005行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "streamlining_commercial_interior",
+  "supports": [
+   "流线型商业室内典范：Radio City Music Hall（1933，Donald Deskey）为流线型应用于商业"
+  ],
+  "does_not_support": [
+   "clean第1005行；商业室内实例证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0507",
+  "claim": "流线型从空气动力学/生物学概念迁移为消费美学：Thompson、Jaray的航空研究经Bel Geddes的Horizons（1932）改造为关于未来的文化想象，成为美国原创现代设计语言",
+  "source_id": "B0066",
+  "source_location": "Ch4分析报告行1145、1158；clean第1147行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "streamlining_media_transfer",
+  "supports": [
+   "流线型从空气动力学/生物学概念迁移为消费美学：Thompson、Jaray的航空研究经Bel Geddes的Horizo"
+  ],
+  "does_not_support": [
+   "流线型谱系属作者综合叙述，文化意义层面须以Meikle《Twentieth Century Limited》等学术专著补充"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0508",
+  "claim": "Streamline Moderne/streamlining为1930年代美国主导的圆润流线风格，从交通工具（Chrysler Airflow、Burlington Zephyr、DC3）扩散至一切商品，是Art Deco美国化第二阶段",
+  "source_id": "B0073",
+  "source_location": "回查L1813—1818；L5953—6028；L271",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "streamline_moderne_american_phase",
+  "supports": [
+   "Streamline Moderne/streamlining为1930年代美国主导的圆润流线风格，从交通工具（Chry"
+  ],
+  "does_not_support": [
+   "Ch34（Maffei）为单章论证；“流线化”与Art Deco的关系有Gebhard等术语争议"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0509",
+  "claim": "styling（风格化）通过款式更新制造消费欲望与“风格性过时”（Calkins、Consumer Engineering）；工业设计师（Loewy、Bel Geddes、Teague、Dreyfuss）成为新职业",
+  "source_id": "B0073",
+  "source_location": "回查L5931—5952；L1818；L5937—5940",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "styling_and_obsolescence_mechanism",
+  "supports": [
+   "styling（风格化）通过款式更新制造消费欲望与“风格性过时”（Calkins、Consumer Engineerin"
+  ],
+  "does_not_support": [
+   "该机制主要依据美国1930s理论文献，属辩护方与批判方并置的话语证据，缺乏量化消费数据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0510",
+  "claim": "洗衣机、熨斗、打字机等家电与办公机器的流线型设计史：Maytag谱系（1922 Model 80→1930s）、Underwood流线型（1930s）、形态序列的历时分析",
+  "source_id": "B0145",
+  "source_location": "clean第355、385—427、672—712行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "appliance_streamlining",
+  "supports": [
+   "洗衣机、熨斗、打字机等家电与办公机器的流线型设计史：Maytag谱系（1922 Model 80→1930s）、Unde"
+  ],
+  "does_not_support": [
+   "形态序列依据厂商广告与产品照片（Warshaw Collection等），为组织者话语；解读含Lupton分析"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0511",
+  "claim": "流线型三层隐喻：空气动力学功能→商业销售隐喻（“更快更有利地穿过销售阻力渠道”）→大萧条社会隐喻（社会进程须顺畅无摩擦）",
+  "source_id": "B0205",
+  "source_location": "核对clean第1146行引文与注释28原始出处",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "streamlining_three_metaphors",
+  "supports": [
+   "流线型三层隐喻：空气动力学功能→商业销售隐喻（“更快更有利地穿过销售阻力渠道”）→大萧条社会隐喻（社会进程须顺畅无摩擦）"
+  ],
+  "does_not_support": [
+   "档案引文（clean第1146行转引设计推广者言论及注释28）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0512",
+  "claim": "流线型是美国大萧条特有的心理产物：速度、平滑、控制的视觉语言为公众提供安全感，而非欧洲国际风格的进口",
+  "source_id": "B0206",
+  "source_location": "clean第2687—2693行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "streamline_depression_psychology",
+  "supports": [
+   "流线型是美国大萧条特有的心理产物：速度、平滑、控制的视觉语言为公众提供安全感，而非欧洲国际风格的进口"
+  ],
+  "does_not_support": [
+   "Meikle标准解释，领域共识但仍是史学建构，须标注为解释性命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0513",
+  "claim": "1934年M-10,000与Burlington Zephyr在芝加哥世博会亮相引发“something clicked”瞬间，流线型从工程事实转为大众商品",
+  "source_id": "B0206",
+  "source_location": "clean第2692—2693行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "streamline_click_moment",
+  "supports": [
+   "1934年M-10,000与Burlington Zephyr在芝加哥世博会亮相引发“something clicked"
+  ],
+  "does_not_support": [
+   "Business Week 1940年回顾为当时媒体文本，属媒体证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0514",
+  "claim": "流线型从空气动力学漂移为纯风格化：Loewy自认Princess Anne渡轮（1936）外壳不为减阻只为吸引眼球——功能伪装被撕开",
+  "source_id": "B0206",
+  "source_location": "packet第八章收束节",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.4"
+  ],
+  "textbook_function": "streamline_style_drift",
+  "supports": [
+   "流线型从空气动力学漂移为纯风格化：Loewy自认Princess Anne渡轮（1936）外壳不为减阻只为吸引眼球——功"
+  ],
+  "does_not_support": [
+   "设计师自述（Loewy）与Meikle分析并置；为“功能vs风格”争论关键证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0515",
+  "claim": "室内装饰是少数由女性主导并卓越取胜的职业：Candace Wheeler 1877年创立纽约装饰艺术协会为女性提供职业教育与手工艺出路，置于妇女争取经济独立语境",
+  "source_id": "B0022",
+  "source_location": "回查clean第1090行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "interior_decorator_women_profession",
+  "supports": [
+   "室内装饰是少数由女性主导并卓越取胜的职业：Candace Wheeler 1877年创立纽约装饰艺术协会为女性提供职业教"
+  ],
+  "does_not_support": [
+   "clean第1090行；Wheeler 1895年文章细节在packet报告"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0516",
+  "claim": "“好品味”标准与历史范本绑定：Wharton与Codman《The Decoration of Houses》（1897）将“自然好品味”等同于文艺复兴以降英意法范本；装饰师因研究过去风格并身处同一社交圈而拥有品味权威，该标准贯穿20世纪职业",
+  "source_id": "B0022",
+  "source_location": "回查clean第1099-1109行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "good_taste_historicism_profession",
+  "supports": [
+   "“好品味”标准与历史范本绑定：Wharton与Codman《The Decoration of Houses》（1897"
+  ],
+  "does_not_support": [
+   "clean第1099行、第1108—1109行；“好品味”的阶级再生产功能为分析层命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0517",
+  "claim": "Elsie de Wolfe建立可复制的职业模式：Irving Place改造（1897-98）、《The House in Good Taste》（1913）、Colony Club（1905）为装饰师设计的首个公共室内",
+  "source_id": "B0022",
+  "source_location": "回查clean第1112-1145行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "de_wolfe_professional_model",
+  "supports": [
+   "Elsie de Wolfe建立可复制的职业模式：Irving Place改造（1897-98）、《The House "
+  ],
+  "does_not_support": [
+   "clean第1112行、第1119—1129行、第1145行；Frick住宅10%佣金财务证据在packet 05报告，clean行号待回查"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0518",
+  "claim": "1934年2月Fortune匿名文章（George Nelson撰）首次在流行媒体使用“industrial design”一词并引爆行业，是职业确立的关键节点",
+  "source_id": "B0066",
+  "source_location": "clean第1281—1289行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "fortune_1934_profession_naming",
+  "supports": [
+   "1934年2月Fortune匿名文章（George Nelson撰）首次在流行媒体使用“industrial desig"
+  ],
+  "does_not_support": [
+   "文章匿名发表、作者归属为后世考证（现知Nelson）；“引爆”评价为Gantz叙述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0519",
+  "claim": "职业制度化进程：AUDAC（1927）→ADI（1938）→SID（1944，定义“为机器与大规模生产设计多种产品者”）→IDSA（1965三合一合并）",
+  "source_id": "B0066",
+  "source_location": "clean第2681—2699行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "professional_association_lineage",
+  "supports": [
+   "职业制度化进程：AUDAC（1927）→ADI（1938）→SID（1944，定义“为机器与大规模生产设计多种产品者”）"
+  ],
+  "does_not_support": [
+   "组织沿革以IDSA档案为据；SID排他性入会标准体现职业精英主义"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0520",
+  "claim": "职业形成伴随教育制度化：Carnegie Tech首设工业设计学位（1934），ADI 1944年发布四年制教育大纲，Dohner被誉为“美国工业设计教育之父”",
+  "source_id": "B0066",
+  "source_location": "clean第2583行；clean第2626—2628行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "design_education_institutionalization",
+  "supports": [
+   "职业形成伴随教育制度化：Carnegie Tech首设工业设计学位（1934），ADI 1944年发布四年制教育大纲，D"
+  ],
+  "does_not_support": [
+   "教育史以ADI/SID公告与作者访谈为据，课程沿革可对照院校档案"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0521",
+  "claim": "有声电影冲击百老汇（1927）→1929年于580 Fifth Avenue开设工业设计事务所，构成美国工业设计职业形成的行动者自述证据",
+  "source_id": "B0186",
+  "source_location": "clean第130行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "profession_formation_1929",
+  "supports": [
+   "有声电影冲击百老汇（1927）→1929年于580 Fifth Avenue开设工业设计事务所，构成美国工业设计职业形成"
+  ],
+  "does_not_support": [
+   "自传叙事含自我辩护；'四巨头'地位与行业影响需外部史料佐证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0522",
+  "claim": "'诚实的设计应由内而外，而非由外而内'，反对表面装饰化，界定职业方法论核心",
+  "source_id": "B0186",
+  "source_location": "clean第130、913、918行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "inside_out_design_principle",
+  "supports": [
+   "'诚实的设计应由内而外，而非由外而内'，反对表面装饰化，界定职业方法论核心"
+  ],
+  "does_not_support": [
+   "属Dreyfuss职业主张（P0），不代表行业共识"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0523",
+  "claim": "第一代工业设计师（Geddes、Teague、Loewy）多从广告插画与舞台设计跨界而来，由广告高管（Resor）牵线进入制造业——职业形成于广告业而非工业内部",
+  "source_id": "B0205",
+  "source_location": "与B0206共享该对象，P0只计一份",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "industrial_designer_origins",
+  "supports": [
+   "第一代工业设计师（Geddes、Teague、Loewy）多从广告插画与舞台设计跨界而来，由广告高管（Resor）牵线进"
+  ],
+  "does_not_support": [
+   "档案+叙述：clean第1090行人物履历，Fortune杂志1934年报道佐证职业化进程"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0524",
+  "claim": "Teague（古典保守）、Geddes（戏剧性）、Dreyfuss（伦理克制）、Loewy（商业主义）以舞台、广告、工程背景进入设计，确立职业身份",
+  "source_id": "B0206",
+  "source_location": "packet第三章；clean第1239—1241行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "four_giants_profession",
+  "supports": [
+   "Teague（古典保守）、Geddes（戏剧性）、Dreyfuss（伦理克制）、Loewy（商业主义）以舞台、广告、工程"
+  ],
+  "does_not_support": [
+   "传记叙事，须与匿名从业者并置避免精英中心偏差"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0525",
+  "claim": "两次大战之间“consultant designer for industry”概念成熟：设计师职责是“creating sales”，需技术+文化+公众意识三重资质；美国咨询设计师多数时间投入redesign项目",
+  "source_id": "B0345",
+  "source_location": "回查Ch3.2（clean L582-607）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "consultant_designer_profession",
+  "supports": [
+   "两次大战之间“consultant designer for industry”概念成熟：设计师职责是“creating"
+  ],
+  "does_not_support": [
+   "职业定义与时间锚点为原文引文（clean第582、586、604行）；“多数时间投入redesign”为修正性证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0526",
+  "claim": "设计师文化（设计师名字为对象/形象/环境附加价值）随第一代美国咨询设计师诞生，后经明星化、设计思维演进",
+  "source_id": "B0345",
+  "source_location": "回查Ch8设计师文化成熟段与Foster《Design and Crime》批判的对应",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "designer_culture_emergence",
+  "supports": [
+   "设计师文化（设计师名字为对象/形象/环境附加价值）随第一代美国咨询设计师诞生，后经明星化、设计思维演进"
+  ],
+  "does_not_support": [
+   "Ch3/Ch8双章互证，属通史框架性命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0527",
+  "claim": "美国咨询设计模式战后向英（Keith Murray、CoID）、瑞典（Kåge、Sason）、意大利、日本扩散，各国设计促进机构介入",
+  "source_id": "B0345",
+  "source_location": "回查各国设计促进机构成立史实",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "international_diffusion",
+  "supports": [
+   "美国咨询设计模式战后向英（Keith Murray、CoID）、瑞典（Kåge、Sason）、意大利、日本扩散，各国设计"
+  ],
+  "does_not_support": [
+   "各国案例为通史综述，细节深度不一（英瑞较实、日较略）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0528",
+  "claim": "女性设计师（Gray、Perriand、Reich、Cooper）被正史遮蔽，本书以Anscombe《A Woman's Touch》等补写——职业史的性别修正命题",
+  "source_id": "B0345",
+  "source_location": "回查Kirkham主编《Women Designers in the USA》相关章节",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.5"
+  ],
+  "textbook_function": "gender_correction",
+  "supports": [
+   "女性设计师（Gray、Perriand、Reich、Cooper）被正史遮蔽，本书以Anscombe《A Woman's"
+  ],
+  "does_not_support": [
+   "补写依赖女性设计史二手文献（Anscombe、Kirkham、Callen）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0529",
+  "claim": "泰勒科学管理于1910s—20s应用于办公室：文书劳动拆分、Larkin Building桌椅限制移动以提效、时间-动作研究推销L形桌（Deskey/Globe-Wernicke）",
+  "source_id": "B0145",
+  "source_location": "clean第767—771行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.6"
+  ],
+  "textbook_function": "scientific_management_office",
+  "supports": [
+   "泰勒科学管理于1910s—20s应用于办公室：文书劳动拆分、Larkin Building桌椅限制移动以提效、时间-动作"
+  ],
+  "does_not_support": [
+   "科学管理文本（Galloway 1919等）与Deskey目录为组织者话语，可证设计意图与供给"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0530",
+  "claim": "省力家电未减少非就业主妇家务时间：Vanek数据1920s每周52小时升至1960s中55小时；就业妻子26小时；Hochschild“第二班”",
+  "source_id": "B0145",
+  "source_location": "clean第327行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.6"
+  ],
+  "textbook_function": "housework_time_paradox",
+  "supports": [
+   "省力家电未减少非就业主妇家务时间：Vanek数据1920s每周52小时升至1960s中55小时；就业妻子26小时；Hoc"
+  ],
+  "does_not_support": [
+   "Vanek 1965—66全国调查为二手统计（Lupton转述）；广告“解放”话语与数据并置构成悖论，购买动机不可证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0531",
+  "claim": "Dreyfuss事务所以Joe/Josephine百分位人体测量图（'极端值而非平均值'，覆盖2.5—97.5百分位）将人体测量学系统引入工业设计方法，为后世user persona提供原型",
+  "source_id": "B0186",
+  "source_location": "clean第210—224、278—280行；第2章分析报告",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.6"
+  ],
+  "textbook_function": "anthropometry_percentile_partners",
+  "supports": [
+   "Dreyfuss事务所以Joe/Josephine百分位人体测量图（'极端值而非平均值'，覆盖2.5—97.5百分位）将"
+  ],
+  "does_not_support": [
+   "自述其事务所方法与实践，不能证明人体测量法在行业中的普及程度"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0532",
+  "claim": "'最高效的机器是围绕人而建造的'：设计应使机器适配人而非将人塞进机器，human engineering作为弥合人类行为与机器设计鸿沟的学科",
+  "source_id": "B0186",
+  "source_location": "clean第225—228、280行；第2章分析报告",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.6"
+  ],
+  "textbook_function": "machine_fit_person_principle",
+  "supports": [
+   "'最高效的机器是围绕人而建造的'：设计应使机器适配人而非将人塞进机器，human engineering作为弥合人类行为"
+  ],
+  "does_not_support": [
+   "属Dreyfuss的方法论主张（理念证据），不自动证明产品成效"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0533",
+  "claim": "视、听、触、嗅、色觉五感被纳入设计考量（视觉阈值、分贝、色彩心理、气味扩散）",
+  "source_id": "B0186",
+  "source_location": "clean第223—224、288—304行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "5.6"
+  ],
+  "textbook_function": "five_senses_design_framework",
+  "supports": [
+   "视、听、触、嗅、色觉五感被纳入设计考量（视觉阈值、分贝、色彩心理、气味扩散）"
+  ],
+  "does_not_support": [
+   "自述其事务所研究框架，样本与方法未披露"
+  ],
+  "status": "candidate"
+ }
+]

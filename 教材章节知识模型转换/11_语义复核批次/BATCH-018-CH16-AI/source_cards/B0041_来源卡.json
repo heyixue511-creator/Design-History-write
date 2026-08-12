@@ -1,0 +1,36 @@
+{
+  "source_id": "B0041",
+  "corpus": "book",
+  "folder_name": "Ben Shneiderman：《Human-Centered AI》",
+  "material_type": "人本人工智能（HCAI综合范式）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Ben Shneiderman：《Human-Centered AI》.md",
+  "duplicate_group": "与16.5自动化界面文献（Norman B0125、Holmes B0191）共享人机控制对象；与14.x HCI文献为同一学术传统",
+  "files": [{"report_file_count": 32, "report_characters": 15615}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "16.1", "grade": "A", "verification": "V2", "role": "hcai_two_dimensional_framework"},
+    {"section_id": "16.5", "grade": "A", "verification": "V2", "role": "design_metaphors_control"},
+    {"section_id": "16.5", "grade": "A", "verification": "V2", "role": "governance_structures"},
+    {"section_id": "16.1", "grade": "B", "verification": "V2", "role": "science_vs_innovation_goals"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Shneiderman（马里兰大学计算机科学教授、HCI奠基人、'直接操作'概念提出者），OUP 2022；约400页27章",
+    "三大核心思想：①二维HCAI框架（人类控制水平与计算机自动化水平分离为独立维度——高水平控制与高自动化可并存，如数码相机）；②四对设计隐喻（智能代理vs超级工具、队友vs遥控机器人、可靠自主vs控制中心、社交机器人vs主动电器）；③三层治理结构（技术保障/组织文化/可信认证）",
+    "基本立场：'人不是计算机，计算机不是人'——技术增强而非取代人类能力",
+    "批判：Sheridan/Verplank一维自主层级（零和思维）；'自主系统的七个致命神话'（Bradshaw 2013）；'算法傲慢'（Google Flu Trends、Boeing 737 MAX类比）；万物有灵论障碍（Mumford）",
+    "关键概念：超级工具（Supertools）、遥控机器人（Tele-bots）、主动电器（Active Appliances）、'群中有人，环中有计算机'（Humans in the Group; Computers in the Loop）、安全第一汽车、HCAI可信度量表（12项）",
+    "治理：团队（五大技术实践：审计追踪、偏见测试、可解释界面等）→组织（安全文化）→行业（可信认证）→政府（GDPR、NTSB模式、FDA监管）",
+    "限度：乐观主义偏向；美国/西方中心视角（对中国讨论简略）；框架可操作性待实证验证（作者自认）",
+    "本书为人本AI主源（A级）：对16.1承担二维框架、16.5承担控制隐喻与治理",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "Ch8：二维HCAI框架四象限——右上理想状态（高控制+高自动化）",
+    "Ch13：智能代理vs超级工具（直接操纵vs软件代理）",
+    "Ch15：'自主的七个致命神话'与监控控制的优越性",
+    "Ch18-23：四层治理（团队→组织→行业→政府）",
+    "L635-636：'算法傲慢'（Algorithmic Hubris）——Google Flu Trends失败"
+  ]
+}

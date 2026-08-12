@@ -1,0 +1,539 @@
+{
+ "15.1": {
+  "grades": {
+   "B": 4,
+   "C": 7,
+   "A": 4
+  },
+  "count": 15,
+  "items": [
+   {
+    "source_id": "B0023",
+    "title": "Anthony Dunne, Fiona Raby：《Design Noir The Secret Life of Electronic Objects》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "design_noir_paranoid",
+    "accepted_claim": "设计黑色（Design Noir）与赫兹空间：电子产品通过电磁辐射泄漏的隐秘生命——\"梦幻性\"（dreaminess）超越\"智能\"——15.1批判性对象",
+    "evidence_boundary": "开创著作（2001）；概念为理论框架",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0024",
+    "title": "Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013",
+    "grade": "A",
+    "verification": "V2",
+    "role": "critical_design_definition",
+    "accepted_claim": "批判设计定义：\"同时立足于此世与尚未存在之世\"；\"指南针而非地图\"变革理论——15.1批判性对象",
+    "evidence_boundary": "作者定义（2013）；批判设计的评价标准为行动者主张",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0025",
+    "title": "Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005",
+    "grade": "A",
+    "verification": "V2",
+    "role": "post_optimal_object",
+    "accepted_claim": "后最优对象（Post-optimal Object）：功能与实用可视为理所当然时，设计探索诗意维度与\"使用之美学\"——15.1批判性对象奠基",
+    "evidence_boundary": "理论奠基（2005修订版，基于1994-97博士论文）；概念方案为思辨性道具非商业方案",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0301",
+    "title": "Matt Malpass：《Critical Design in Context History, Theory, and Practices》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "critical_design_three_types",
+    "accepted_claim": "批判性设计三分法（联想式associative/推测式speculative/批判式critical）与历史谱系（1950s意大利激进→德国新设计→Droog→RCA）——15.1学科化",
+    "evidence_boundary": "学术专著（2017）；谱系书写挑战'始于RCA'流行叙事",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0023",
+    "title": "Anthony Dunne, Fiona Raby：《Design Noir The Secret Life of Electronic Objects》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "designer_as_author",
+    "accepted_claim": "设计者作为作者：设计师从产业服务者转变为独立社会评论者——15.1批判实践",
+    "evidence_boundary": "作者主张（2001）；作者身份的实现以实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0025",
+    "title": "Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "critical_medium_design",
+    "accepted_claim": "设计作为批判性媒介（critical medium）：反思科技的文化、社会与伦理影响——15.1批判实践",
+    "evidence_boundary": "作者主张（2005）；批判成效证据有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0322",
+    "title": "Niedderer：《Designing Mindful Interaction The Category of Performative Object》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "performative_object_category",
+    "accepted_claim": "'施为性物件'（Performative Object）范畴：人工制品通过功能的特定操作在社会情境中引发有意识的反思与互动——'功能中断'（打破常规行动预案→觉察）与'功能主题化'（提供替代行动方案→反思）双重机制——对象如何制造陌生化与价值冲突——15.1从产品批评到批判性对象",
+    "evidence_boundary": "作者理论建构（2004）；Social Cups/Libation Cups案例",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0415",
+    "title": "Thackara, John (ed.), Design After Modernism, 1988",
+    "grade": "B",
+    "verification": "V2",
+    "role": "critical_and_participatory_design_prehistory",
+    "accepted_claim": "Bolton 呼吁后现代主义成为『对立实践』、Mitchell 主张设计=人人参与的持续过程、Cooley 人本中心系统——批判性/参与式设计思想前史",
+    "evidence_boundary": "1988 年时点尚无『批判设计』『推测设计』术语（后者 1990s 后由 RCA 传统提出），本书仅作思想资源而非直接谱系",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0017",
+    "title": "Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_anthropology_field",
+    "accepted_claim": "设计人类学交汇地带：物质性、人与物交互、思辨设计与去殖民本体论设计——15.1批判性对象的理论语境",
+    "evidence_boundary": "文集（2018）；交汇地带定位为编者立场",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0065",
+    "title": "Carl DiSalvo：《Adversarial Design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "product_meaning",
+    "accepted_claim": "产品的意义部分：符号学、修辞学、社会心理学与产品语义学视角下用户与产品互动建构意义——15.1批判性对象理论资源",
+    "evidence_boundary": "读本选集（1995原版）；各论文命题以原文为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0092",
+    "title": "Criticality：《and Its Discontents》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critical_postcritical_debate",
+    "accepted_claim": "21世纪初美国建筑理论'批判vs后批判'之争：批判性（Eisenman-Hays）vs投射性（Speaks、Somol&Whiting）——15.1批判性设计谱系",
+    "evidence_boundary": "作者论争综述（2004）；论争有文献记录",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0092",
+    "title": "Criticality：《and Its Discontents》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "tafuri_legacy",
+    "accepted_claim": "论争双方均未真正摆脱Tafuri思想遗产的引力——'抵抗'与'效能'之间的第三条路径——15.1批判理论源头",
+    "evidence_boundary": "作者论述（2004）；谱系学考掘",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0092",
+    "title": "Criticality：《and Its Discontents》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "projective_pragmatism",
+    "accepted_claim": "'投射性建筑'若无'投射性理论'支撑将沦为'仅仅是实用主义'与'仅仅是装饰性'——15.1批判的限度警示",
+    "evidence_boundary": "作者论述（2004）；规范性主张",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0115",
+    "title": "Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor",
+    "grade": "C",
+    "verification": "V2",
+    "role": "long_now_and_speculative_time",
+    "accepted_claim": "当代设计重新想象时间（跨章）：万年钟（Long Now Clock）、慢设计（时间商品化）、思辨设计（Popper《单程票》2012）——15.1批判/推测设计的案例资源",
+    "evidence_boundary": "案例时点（2010s）；思辨设计谱系（RCA传统）须另以专门文献支撑",
+    "status": "ACCEPTED_AS_CONTEXTUAL_SOURCE"
+   },
+   {
+    "source_id": "B0322",
+    "title": "Niedderer：《Designing Mindful Interaction The Category of Performative Object》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "po_classification_criteria",
+    "accepted_claim": "PO与普通设计品、艺术物、仪式物的区分标准基于功能特征（而非语境特征）：破杯=仅有中断无主题化的反例——批判性对象的分类学——15.1批判性对象的界定方法",
+    "evidence_boundary": "作者理论建构（2004）；比较分析",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "15.2": {
+  "grades": {
+   "C": 3,
+   "B": 5,
+   "A": 2,
+   "X": 1
+  },
+  "count": 11,
+  "items": [
+   {
+    "source_id": "B0024",
+    "title": "Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013",
+    "grade": "A",
+    "verification": "V2",
+    "role": "speculative_design_manifesto",
+    "accepted_claim": "思辨设计宣言（A/B宣言）：设计从解决问题扩展到提出问题；PPPP未来圆锥（Probable/Plausible/Possible/Preferable）——15.2核心理论",
+    "evidence_boundary": "行动者宣言（2013）；思辨设计的社会影响证据有限（作者自认探索性）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0024",
+    "title": "Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013",
+    "grade": "A",
+    "verification": "V2",
+    "role": "physical_fictions_props",
+    "accepted_claim": "物理虚构（Physical Fictions）：思辨对象作为\"虚构道具\"（props）——Walton假装理论与\"叙事内原型\"（diegetic prototype）——设计虚构与道具",
+    "evidence_boundary": "作者理论（2013）；道具运作机制为哲学框架（Walton）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0023",
+    "title": "Anthony Dunne, Fiona Raby：《Design Noir The Secret Life of Electronic Objects》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "placebo_project",
+    "accepted_claim": "Placebo项目：八件原型物品放置在真实家庭、访谈记录电磁场心理反应——以\"物\"为媒介的设计虚构/社会学研究",
+    "evidence_boundary": "田野项目（2001）；心理反应的样本规模有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0025",
+    "title": "Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "material_tales",
+    "accepted_claim": "概念设计方案作为\"物质故事\"（material tales）：通过展览与出版进行\"大众消费\"的思辨性道具——15.2设计虚构前史",
+    "evidence_boundary": "博士论文案例（1999/2005）；道具传播效果未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0043",
+    "title": "Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent",
+    "grade": "B",
+    "verification": "V2",
+    "role": "taxonomy_three_types",
+    "accepted_claim": "批判实践分类学（联想式/思辨式/批判式）：讽刺理论（Horatian/Juvenalian）、叙事类型与对象理性三维——15.2推测设计类型",
+    "evidence_boundary": "论文（2013）；与B0301专著三分法共享（论文为前身）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0301",
+    "title": "Matt Malpass：《Critical Design in Context History, Theory, and Practices》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "speculative_type",
+    "accepted_claim": "推测式设计类型（Juvenalian讽刺中的寓言与扭曲、外附叙事、关注科技）——15.2推测设计的类型学",
+    "evidence_boundary": "类型学框架（2017）；类型边界的经验验证未完成",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0004",
+    "title": "Alternatives：《exploring information appliances through Bill Gaver; Heather Marti",
+    "grade": "B",
+    "verification": "V2",
+    "role": "proposals_as_placeholders",
+    "accepted_claim": "信息家电设计空间未定，应以'提案群'而非分析先行测绘空间：概念提案作为'占位符/地标'（placeholders as landmarks）让设计空间涌现；'技术上可信、社会上可质疑'的价值虚构（value fictions）是内嵌于设计的文化批判手段——推测设计/设计虚构的方法前身——15.2设计虚构与推测设计",
+    "evidence_boundary": "作者论文（CHI 2000）；Alternatives工作簿约20个提案",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0017",
+    "title": "Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "speculative_futuring_anthropology",
+    "accepted_claim": "思辨未来原型制作（Hunt）与民族志方法——15.2设计虚构的人类学侧",
+    "evidence_boundary": "章节案例（2018）；原型传播效果未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0004",
+    "title": "Alternatives：《exploring information appliances through Bill Gaver; Heather Marti",
+    "grade": "C",
+    "verification": "V2",
+    "role": "research_through_design_triad",
+    "accepted_claim": "'通过设计的研究'（research through design）方法论：以'具体性—开放性—多样性'三要素把设计提案确立为研究工具——虚构造物作为理论枢纽、提案作为原型、拼贴与'疏离声音'呈现——15.2推测设计方法论",
+    "evidence_boundary": "作者论文（CHI 2000）；方法自述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0029",
+    "title": "Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_exploration_third_vertex",
+    "accepted_claim": "design exploration是同时代多数研究模型忽视的第三端：'What if?'、美学、挑衅（provoke）、超越（transcendence）的正当性——与批判设计/推测设计（Dunne & Raby）同思想系谱——15.2推测设计的方法论正当性论证",
+    "evidence_boundary": "作者论文（约2004）；设计探索区界定",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0026",
+    "title": "Anthony Dunne：《Speculative Everything Design, Fiction, and Social Dreaming》",
+    "grade": "X",
+    "verification": "V2",
+    "role": "duplicate_of_B0024",
+    "accepted_claim": "与B0024为同一著作《Speculative Everything》（2013）不同数字化转换（VGRP011）；B0024已承担全部命题",
+    "evidence_boundary": "本条目不重复计证；引用以B0024为准",
+    "status": "EXCLUDED_AS_DUPLICATE_OF_B0024"
+   }
+  ]
+ },
+ "15.3": {
+  "grades": {
+   "B": 3,
+   "C": 1,
+   "A": 2
+  },
+  "count": 6,
+  "items": [
+   {
+    "source_id": "B0301",
+    "title": "Matt Malpass：《Critical Design in Context History, Theory, and Practices》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "anti_critique_art_discourse",
+    "accepted_claim": "反驳\"这不是艺术吗\"批评（Foster/Coles/Poynor）：批判性设计应从设计学科内部分析，而非从艺术话语出发——15.3反批评",
+    "evidence_boundary": "作者论证（2017）；艺术话语批评为被反驳立场",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0014",
+    "title": "Cameron Tonkinwise：《How We Intend to Future： Review of Speculative Everything》，2014",
+    "grade": "A",
+    "verification": "V2",
+    "role": "critique_speculative_everything",
+    "accepted_claim": "对Speculative Everything的系统批评：\"we\"滥用与多样性缺席、未来之锥单一当下假设、\"未来购物\"（把消费主义当别无选择）、品味划界——15.3反批评核心",
+    "evidence_boundary": "书评长文（2014）；批评对象为Dunne & Raby（B0024）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0024",
+    "title": "Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013",
+    "grade": "B",
+    "verification": "V2",
+    "role": "exhibition_context",
+    "accepted_claim": "思辨设计的展览与传播策略（思辨珍奇柜、链式反应；MoMA/Science Gallery/北京国际设计三年展）——15.3展览化语境的前史",
+    "evidence_boundary": "策展实践（2013）；展览效果数据未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0301",
+    "title": "Matt Malpass：《Critical Design in Context History, Theory, and Practices》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "rhetorical_use_function",
+    "accepted_claim": "功能的动态社会建构与\"修辞性使用\"（rhetorical use）的合法性：功能不足否定批判性设计的设计身份——15.3理论依据",
+    "evidence_boundary": "作者论证（2017）；功能分类（Ligo/Schiffer）为理论资源",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0014",
+    "title": "Cameron Tonkinwise：《How We Intend to Future： Review of Speculative Everything》，2014",
+    "grade": "B",
+    "verification": "V2",
+    "role": "alternative_programs",
+    "accepted_claim": "四项替代纲领：专家加速主义、预先批判、看见拐角、全面肯定——15.3反批评的替代方案",
+    "evidence_boundary": "作者方案（2014）；纲领成效以实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0043",
+    "title": "Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent",
+    "grade": "C",
+    "verification": "V2",
+    "role": "critical_practice_legitimacy",
+    "accepted_claim": "批判实践\"自我封闭\"\"为设计而设计\"指责与学科合法性呼吁——15.3反批评",
+    "evidence_boundary": "作者论证（2013）；合法性实现以学术史为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "15.4": {
+  "grades": {
+   "C": 1
+  },
+  "count": 1,
+  "items": [
+   {
+    "source_id": "B0383",
+    "title": "Ruskin, John：《The Stones of Venice》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "workman_judgement_as_distant_participation_genealogy",
+    "accepted_claim": "工人判断空间可作为参与式设计与劳动民主讨论的远距离思想谱系",
+    "evidence_boundary": "19世纪规范论不能替代当代参与机制、权力与效果证据",
+    "status": "CONTEXT_ONLY_AS_GENEALOGY"
+   }
+  ]
+ },
+ "15.5": {
+  "grades": {
+   "B": 4,
+   "C": 1
+  },
+  "count": 5,
+  "items": [
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "B",
+    "verification": "V2",
+    "role": "covid19_pandemic_as_design_event",
+    "accepted_claim": "第16章将COVID-19作为设计的历史事件：设计师参与防护装备、信息图表与疫苗监测，但「contributed but did not own change」，并揭示全球供应链脆弱与本地化生产需求",
+    "evidence_boundary": "证据边界为clean第6702—6704、7798—7809行（Part VI引言与第16章COVID小节）；事件仍在展开，时效性强",
+    "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   },
+   {
+    "source_id": "P0005",
+    "title": "Anne-Marie Willis：《Ontological Designing》，2006",
+    "grade": "B",
+    "verification": "V2",
+    "role": "ontological_design_double_movement",
+    "accepted_claim": "本体论设计的\"双重运动\"：我们设计世界，世界反作用于我们并设计我们（\"我们设计、也被我们的设计与所设计之物所设计\"）——15.5转型设计理论基源",
+    "evidence_boundary": "作者理论（2006）；'设计设计'命题为Escobar（B0032）直接引用",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0013",
+    "title": "Cameron Tonkinwise：《Design for Transitions ‒ from and to what》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "design_for_transitions",
+    "accepted_claim": "为过渡而设计（Design for Transitions——from and to what?）：追问过渡的方向性——15.5转型设计框架",
+    "evidence_boundary": "论文（2015）；CMU转型设计团队语境",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0013",
+    "title": "Cameron Tonkinwise：《Design for Transitions ‒ from and to what》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "transition_heuristics_techniques",
+    "accepted_claim": "转型设计的启发式与技术（转型理论、社会实践理论）：多层系统与长期变迁的方法资源——15.5",
+    "evidence_boundary": "论文方法（2015）；技术成效以项目为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0133",
+    "title": "E. P. Thompson：《William Morris romantic to revolutionary》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "necessity_desire_and_utopian_imagination_genealogy",
+    "accepted_claim": "必要、欲望与乌托邦想象可作为当代转型设计讨论的一条思想谱系",
+    "evidence_boundary": "不能把Thompson重构当作当代设计方法或文明尺度结论",
+    "status": "CONTEXT_ONLY_AS_GENEALOGY"
+   }
+  ]
+ },
+ "15.6": {
+  "grades": {
+   "C": 2,
+   "B": 3,
+   "A": 2
+  },
+  "count": 7,
+  "items": [
+   {
+    "source_id": "B0140",
+    "title": "Elizabeth (Dori) Tunstall：《Decolonizing Design A Cultural Justice Guidebook》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "decolonizing_five_propositions",
+    "accepted_claim": "去殖民化设计五命题：将原住民置于首位、拆解欧洲现代主义的技术与种族偏见、超越DEI弥补历史伤害、重新配置资源——15.6核心框架",
+    "evidence_boundary": "作者主张（2022）；美/澳/加定居殖民语境（作者自认可推广至其他地区）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0140",
+    "title": "Elizabeth (Dori) Tunstall：《Decolonizing Design A Cultural Justice Guidebook》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "settler_indigenous_slave",
+    "accepted_claim": "定居者-原住民-奴隶三元结构（Tuck & Yang）与\"跨文化转化\"（Ortiz）：现代主义设计服务于殖民经济体系——\"技术使人生活更美好\"与\"舍弃族群身份加入普世人类\"两大神话",
+    "evidence_boundary": "理论框架（2022）；三元结构的适用性为理论命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0032",
+    "title": "Arturo Escobar：《Designs for the Pluriverse Radical Interdependence, Autonomy, and the Making of Worlds》，2018",
+    "grade": "B",
+    "verification": "V2",
+    "role": "decolonial_design",
+    "accepted_claim": "去殖民设计与南方认识论：\"南方的设计\"（diseños del sur）、\"另一种设计\"（diseños otros）；设计须正视嵌入殖民性的历史——去殖民设计理论",
+    "evidence_boundary": "作者理论（2018）；去殖民设计的实践案例以社群斗争为证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0140",
+    "title": "Elizabeth (Dori) Tunstall：《Decolonizing Design A Cultural Justice Guidebook》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "institutional_change_cases",
+    "accepted_claim": "OCAD黑人集群招聘与原住民集群招聘、斯威本课程并置——机构去殖民化变革案例",
+    "evidence_boundary": "机构实践（2022）；变革成效以机构后续档案为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0005",
+    "title": "Anne-Marie Willis：《Ontological Designing》，2006",
+    "grade": "B",
+    "verification": "V2",
+    "role": "ontological_design_politics",
+    "accepted_claim": "本体论设计\"携带着一种政治\"：针对当代生态不可持续语境的设计活动方式论证——15.6知识位置",
+    "evidence_boundary": "作者论证（2006）；政治维度的落实以实践为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0175",
+    "title": "Grand Designs Labor, Empire, and the Museum in Victorian Culture",
+    "grade": "C",
+    "verification": "V2",
+    "role": "contested_museum_imperial_archive_and_labour_agency",
+    "accepted_claim": "对展览复合体、帝国档案和劳动者能动性的修正可作为去殖民设计史的方法论资源",
+    "evidence_boundary": "本书不是当代去殖民设计实践、返还或共同治理研究",
+    "status": "CONTEXT_ONLY_AS_HISTORIOGRAPHY"
+   },
+   {
+    "source_id": "B0339",
+    "title": "Paul Greenhalgh：《Ephemeral Vistas The Expositions Universelles, Great Exhibition",
+    "grade": "C",
+    "verification": "V2",
+    "role": "colonial_display_as_historiography_of_knowledge_position",
+    "accepted_claim": "对分类、可见性与帝国展示的批判可作为去殖民设计史的史学前提",
+    "evidence_boundary": "1988年博览会史不是当代去殖民设计理论或实践证据",
+    "status": "CONTEXT_ONLY_AS_HISTORIOGRAPHY"
+   }
+  ]
+ },
+ "15.7": {
+  "grades": {
+   "C": 1,
+   "B": 1
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0024",
+    "title": "Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013",
+    "grade": "B",
+    "verification": "V2",
+    "role": "micro_utopias",
+    "accepted_claim": "一百万个小乌托邦与国家尺度思想实验（United Micro Kingdoms）：个体想象力驱动的微观世界建构——15.7多元世界的思辨路径",
+    "evidence_boundary": "作者方案（2013）；乌托邦方案的实现路径为愿景性论述",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0017",
+    "title": "Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "design_anthropology_global",
+    "accepted_claim": "后数字时代的\"非物设计\"（物联网、移动金融）与去殖民语境中的设计实践——15.7多元世界的人类学侧",
+    "evidence_boundary": "章节案例（2018）；案例成效以原项目为准",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ }
+}

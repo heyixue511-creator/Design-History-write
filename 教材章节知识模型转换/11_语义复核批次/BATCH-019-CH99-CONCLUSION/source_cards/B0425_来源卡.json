@@ -1,0 +1,35 @@
+{
+  "source_id": "B0425",
+  "corpus": "book",
+  "folder_name": "Thorpe：《Design with society why socially responsive design is good enough》",
+  "material_type": "社会响应式设计论文（CoDesign 2011）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Thorpe：《Design with society why socially responsive design is good enough》.md",
+  "duplicate_group": "与P0013/P0014（转型/反批评）、B0032（多元世界）共享设计责任扩展对象；本文为'响应性'概念主源",
+  "files": [{"report_file_count": 9, "report_characters": 4640}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "C.0", "grade": "A", "verification": "V2", "role": "socially_responsive_design"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "good_enough_designer"},
+    {"section_id": "C.0", "grade": "B", "verification": "V2", "role": "effectuation_process"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Thorpe与Gamman（Design Against Crime Research Centre / Socially Responsive Design Hub, Central Saint Martins），CoDesign 7(3-4) 2011社会创新特刊",
+    "核心论点：近200年设计史存在两种范式——'审美/市场驱动的设计'与'社会有用的设计'；两种范式下设计师都无法真正做到'对社会负责'（市场范式受制于'股东压倒利益相关者'，社会范式受制于共同设计的能动性妥协）",
+    "以'响应性'（responsivity）取代'责任性'（responsibility）：'设计师只能响应而非最终负责——而这已经够好'",
+    "'够好的设计师'（good enough designer，Winnicott'够好的母亲'隐喻）：父权式（代决）/母权式（剂量式引导）/兄弟式（公平互惠）三种角色类型学",
+    "效果推理（effectuation，Sarasvathy五原则：手中之鸟、百衲被、可承受损失、柠檬汁、机上驾驶员）重构设计过程",
+    "中间输出即设计成就：设计装置、设计事件、对抗性空间（agonistic space，Mouffe）等中间产物通往社会创新终极结果",
+    "限度：经济报酬问题被明确悬置；'够好'立场可能弱化对结构性不公的责任担当；效果推理映射缺乏系统经验验证；案例多为自述",
+    "本文为设计责任理论（A级）：对C.0承担响应性命题",
+    "clean原文仅局部定位；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L15：两种范式（审美/市场驱动 vs 社会有用）",
+    "L33：'股东压倒利益相关者'——市场范式责任不可实现",
+    "L37：响应性取代责任性——'设计师只能响应而非最终负责'",
+    "L47-67：够好的设计师与父权/母权/兄弟式角色类型学",
+    "L101-111：中间输出（设计装置、事件、对抗性空间）即设计成就"
+  ]
+}

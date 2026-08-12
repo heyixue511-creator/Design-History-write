@@ -1,0 +1,1484 @@
+[
+ {
+  "evidence_id": "EV-C0410",
+  "claim": "对奥地利应用艺术学校背离工艺、攀附纯艺术的批评，主张“革命必须来自底层——作坊”",
+  "source_id": "B0008",
+  "source_location": "packet 01_我们的应用艺术学校分章报告",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "craft_education_critic",
+  "supports": [
+   "对奥地利应用艺术学校背离工艺、攀附纯艺术的批评，主张“革命必须来自底层——作坊”"
+  ],
+  "does_not_support": [
+   "证明Loos的批评主张，不证明学校实况；作为改革联盟前史的行动者立场"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0411",
+  "claim": "以英国（伦敦）为中产阶级现代性标杆，对比法式宫廷传统，推崇英国实用导向工艺",
+  "source_id": "B0008",
+  "source_location": "clean第4行目录；整体报告L3.5",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "english_modernity_model",
+  "supports": [
+   "以英国（伦敦）为中产阶级现代性标杆，对比法式宫廷传统，推崇英国实用导向工艺"
+  ],
+  "does_not_support": [
+   "行动者立场；其英国中心主义忽视殖民地条件系分析报告指出的局限"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0412",
+  "claim": "1907—1914年AEG将建筑、产品、商标与宣传物料整体委托Behrens协调，形成覆盖“一切可见之物”的企业识别与产品—传播—空间系统",
+  "source_id": "B0060",
+  "source_location": "回查1907纲领、商标与宣传物料专题的原文表述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "aeg_corporate_identity_coordination",
+  "supports": [
+   "1907—1914年AEG将建筑、产品、商标与宣传物料整体委托Behrens协调，形成覆盖“一切可见之物”的企业识别与产"
+  ],
+  "does_not_support": [
+   "企业档案与A/P/G三系列编目可证委托范围与实施；“工业文化”“一切可见之物”为Buddensieg命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0413",
+  "claim": "1907年10月1日Behrens出任AEG艺术顾问（艺术总监），开创企业内设设计职位；工作依托Felix Deutsch客户服务部制度框架展开",
+  "source_id": "B0060",
+  "source_location": "回查总论、附录A人物志与年表条目",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "artist_in_residence_institutional_role",
+  "supports": [
+   "1907年10月1日Behrens出任AEG艺术顾问（艺术总监），开创企业内设设计职位；工作依托Felix Deutsc"
+  ],
+  "does_not_support": [
+   "任命文件已失（档案1945年流失），日期据Osthaus档案书信；须与工程师、销售、工人等多行动者并置，不得写成个人英雄史"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0414",
+  "claim": "电水壶、弧光灯等产品线与样本、广告、商店、公司期刊、工厂建筑构成统一的企业传播系统，“优雅之美”与标准化类型为纲领用语",
+  "source_id": "B0060",
+  "source_location": "回查宣传物料专题与编目对应条目",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "product_publicity_architecture_unity",
+  "supports": [
+   "电水壶、弧光灯等产品线与样本、广告、商店、公司期刊、工厂建筑构成统一的企业传播系统，“优雅之美”与标准化类型为纲领用语"
+  ],
+  "does_not_support": [
+   "G系列与P系列双重建档可证实物与再现的对应；“系统”表述为本书论证核心而非外部推断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0415",
+  "claim": "Werkbund 1907年成立与组织建设：Düsseldorf分裂成因、章程、1912年迁柏林、会员从1912年971人增至1914年1870人",
+  "source_id": "B0064",
+  "source_location": "clean第151—154行成立经过；第96行1914年前全国规模",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "werkbund_founding_organization",
+  "supports": [
+   "Werkbund 1907年成立与组织建设：Düsseldorf分裂成因、章程、1912年迁柏林、会员从1912年971"
+  ],
+  "does_not_support": [
+   "成立大会、年会程序与会员统计为组织史实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0416",
+  "claim": "1914年Muthesius-van de Velde“类型或个性”争论：Typisierung定义（“将设计努力集中于有限数量的通用形式”）、十条论纲与反论纲、论纲撤回",
+  "source_id": "B0064",
+  "source_location": "clean第383—389、412—413行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "typisierung_1914_debate",
+  "supports": [
+   "1914年Muthesius-van de Velde“类型或个性”争论：Typisierung定义（“将设计努力集中于"
+  ],
+  "does_not_support": [
+   "科隆年会记录与论纲文本为组织史实；“争论暴露深层分裂”为Campbell解读"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0417",
+  "claim": "Naumann“品质劳动”（Qualitätsarbeit）纲领：美学、伦理、经济与民族竞争力一体化",
+  "source_id": "B0064",
+  "source_location": "clean第348行工人经高品质劳动与资本主义和解；索引第2872行Die Qualitätsarbeit",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "naumann_qualitaetsarbeit",
+  "supports": [
+   "Naumann“品质劳动”（Qualitätsarbeit）纲领：美学、伦理、经济与民族竞争力一体化"
+  ],
+  "does_not_support": [
+   "纲领文本为组织史实；其多义性为纳粹挪用预留空间属Campbell命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0418",
+  "claim": "1933年Gleichschaltung：Jäckh主导“合法化”移交、1933年6月10日执委会表决仅3人反对、1934年并入Reichskammer",
+  "source_id": "B0064",
+  "source_location": "clean第1411、1449—1450、1497、1504行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "gleichschaltung_1933",
+  "supports": [
+   "1933年Gleichschaltung：Jäckh主导“合法化”移交、1933年6月10日执委会表决仅3人反对、193"
+  ],
+  "does_not_support": [
+   "执委会会议记录与Berlin Document Center档案为组织史实；“准合法性”定性为Campbell分析"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0419",
+  "claim": "工艺美术关于质量、机器、教育和社会改革的争论构成Werkbund形成的跨国前史",
+  "source_id": "B0168",
+  "source_location": "补Muthesius、Werkbund档案、德国企业和论争原文",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "arts_crafts_to_werkbund_translation_prehistory",
+  "supports": [
+   "工艺美术关于质量、机器、教育和社会改革的争论构成Werkbund形成的跨国前史"
+  ],
+  "does_not_support": [
+   "不能据此写成英国模式单向造成Werkbund"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0420",
+  "claim": "维也纳工坊是“企业型工坊”前史样本：三位创始人组合（设计师+设计师+金主）、1904年柏林公开亮相、1914年公司化重组",
+  "source_id": "B0247",
+  "source_location": "clean第542—543行、第552—553行、第764行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "enterprise_workshop_antecedent",
+  "supports": [
+   "维也纳工坊是“企业型工坊”前史样本：三位创始人组合（设计师+设计师+金主）、1904年柏林公开亮相、1914年公司化重组"
+  ],
+  "does_not_support": [
+   "Kallir明确工坊非自给自足商业企业，企业“成功”命题须与财务危机史实并置"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0421",
+  "claim": "德意志制造联盟成立（1907）、Behrens受聘AEG、Muthesius类型论（Wo stehen wir?）与工厂美学（Fagus、AEG涡轮机厂房）是教材“改革联盟与企业系统”的直接史料",
+  "source_id": "B0363",
+  "source_location": "回查Ch5-6（L716-958）、Wo stehen wir?（L766-832）、DIN-Format（L854-855）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "werkbund_enterprise_system",
+  "supports": [
+   "德意志制造联盟成立（1907）、Behrens受聘AEG、Muthesius类型论（Wo stehen wir?）与工厂"
+  ],
+  "does_not_support": [
+   "以Muthesius文本与建筑作品为主；联盟内部争论（van de Velde 1914“类型或个性”）有记录，但企业经济机制未展开"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0422",
+  "claim": "德国标准化、AEG、Werkbund及Wiener Werkstätte显示改革联盟与企业系统的多路径前史",
+  "source_id": "B0450",
+  "source_location": "补Werkbund／AEG／Werkstätte档案、章程、合同、生产与劳动",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.1"
+  ],
+  "textbook_function": "werkbund_aeg_standardization_and_wiener_werkstatte_prehistory",
+  "supports": [
+   "德国标准化、AEG、Werkbund及Wiener Werkstätte显示改革联盟与企业系统的多路径前史"
+  ],
+  "does_not_support": [
+   "图录不能承担联盟治理、企业合同、量产或标准争论的完整证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0423",
+  "claim": "初步课程1919年秋试行、1920年起为全体必修的六个月试读阶段，由伊顿独掌，不及格不得进入工坊",
+  "source_id": "B0158",
+  "source_location": "clean第217—221、486—504行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "vorkurs_institutionalization",
+  "supports": [
+   "初步课程1919年秋试行、1920年起为全体必修的六个月试读阶段，由伊顿独掌，不及格不得进入工坊"
+  ],
+  "does_not_support": [
+   "STAW/BA档案+Whitford叙述框架；同档案在B0182、B0282、B0464、B0216组内只计一份P0"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0424",
+  "claim": "初步课程经历从伊顿表现主义—神秘主义版本向莫霍利-纳吉理性—技术版本的范式转换",
+  "source_id": "B0158",
+  "source_location": "clean第1138行（Moholy接任）、第1191行（彻底改造课程）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "vorkurs_paradigm_shift",
+  "supports": [
+   "初步课程经历从伊顿表现主义—神秘主义版本向莫霍利-纳吉理性—技术版本的范式转换"
+  ],
+  "does_not_support": [
+   "1923年人事接任属档案史实；“范式转换”定性属Whitford叙述框架"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0425",
+  "claim": "魏玛包豪斯以预备课程（Vorkurs）为必修入口、先于并独立于工坊教学；Kandinsky/Klee/Itten体系构成其理论谱系",
+  "source_id": "B0182",
+  "source_location": "clean第2237—2238行（章程第4条）、第3277—3278行（不可免除）、第454行、第302行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "preliminary_course_archive",
+  "supports": [
+   "魏玛包豪斯以预备课程（Vorkurs）为必修入口、先于并独立于工坊教学；Kandinsky/Klee/Itten体系构成"
+  ],
+  "does_not_support": [
+   "档案证明课程制度设计（章程、课程表、注册统计）与行动者主张，不能自动证明教学成效或学生接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0426",
+  "claim": "1919年宣言确立“回到手工艺”与综合艺术理想，其“社会主义大教堂”表述在1923年重印时引发政治攻击",
+  "source_id": "B0182",
+  "source_location": "clean第52—54行（导引与销毁）、第101—107行（宣言正文）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "manifesto_evidence",
+  "supports": [
+   "1919年宣言确立“回到手工艺”与综合艺术理想，其“社会主义大教堂”表述在1923年重印时引发政治攻击"
+  ],
+  "does_not_support": [
+   "宣言是意图文献而非实践记录；攻击事件本身由Wingler导引说明（编者层）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0427",
+  "claim": "伊顿于1919年秋在魏玛包豪斯创设基础课程（Vorkurs）：提议试行一学期、命名Basic Course并亲自负责，Gropius完全放手",
+  "source_id": "B0216",
+  "source_location": "clean L106-110",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "vorkurs_founder",
+  "supports": [
+   "伊顿于1919年秋在魏玛包豪斯创设基础课程（Vorkurs）：提议试行一学期、命名Basic Course并亲自负责，G"
+  ],
+  "does_not_support": [
+   "行动者自述其主张与教学安排；课程实际运作细节（学生规模、课时）缺独立记录"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0428",
+  "claim": "基础课程三大任务：解放创造力与艺术天赋、帮助学生选择职业、传授创造性构图原理",
+  "source_id": "B0216",
+  "source_location": "clean L111-119",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "vorkurs_three_tasks",
+  "supports": [
+   "基础课程三大任务：解放创造力与艺术天赋、帮助学生选择职业、传授创造性构图原理"
+  ],
+  "does_not_support": [
+   "三任务是行动者纲领，反映其教学主张而非制度规定文本"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0429",
+  "claim": "对比理论是基础课程教学总纲，明暗/色彩/材质/形式手段均按对比效应讲授，两极之间的过渡带孕育生命与美",
+  "source_id": "B0216",
+  "source_location": "clean L210-220；L86",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "contrast_theory_core",
+  "supports": [
+   "对比理论是基础课程教学总纲，明暗/色彩/材质/形式手段均按对比效应讲授，两极之间的过渡带孕育生命与美"
+  ],
+  "does_not_support": [
+   "为行动者教学法主张；教学成效无独立验证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0430",
+  "claim": "教学铁律为“经验—感知—实践能力”三阶段：先观察体验、再智识理解、后动手实现",
+  "source_id": "B0216",
+  "source_location": "clean L191-194、L195-209",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "experience_perception_practice",
+  "supports": [
+   "教学铁律为“经验—感知—实践能力”三阶段：先观察体验、再智识理解、后动手实现"
+  ],
+  "does_not_support": [
+   "方法主张；Klee 1921.1.16信为同时代第三方课堂实录，可作部分佐证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0431",
+  "claim": "1919包豪斯宣言确立“一切创造活动的终极目标是建造”与拆除艺术工匠之墙的理想，附教学计划与入学要求",
+  "source_id": "B0282",
+  "source_location": "clean第78—91行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "manifesto_1919",
+  "supports": [
+   "1919包豪斯宣言确立“一切创造活动的终极目标是建造”与拆除艺术工匠之墙的理想，附教学计划与入学要求"
+  ],
+  "does_not_support": [
+   "宣言文本为可证档案史实；其理念实现程度须以制度史佐证，不可直接推定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0432",
+  "claim": "双师制（形式大师+工艺大师）与初步课程（Vorkurs）为包豪斯基础教学制度，系不断试错改革的产物而非预先设计的完美方案",
+  "source_id": "B0282",
+  "source_location": "clean第1573、1663行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "vorkurs_dual_master_system",
+  "supports": [
+   "双师制（形式大师+工艺大师）与初步课程（Vorkurs）为包豪斯基础教学制度，系不断试错改革的产物而非预先设计的完美方案"
+  ],
+  "does_not_support": [
+   "制度结构可证；教学成效不可自动推定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0433",
+  "claim": "预备课程由Itten于1919年10月引入、1920年董事会决议必修化，是教学法脊梁但绝非其全体",
+  "source_id": "B0454",
+  "source_location": "packet Ch5-6",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "vorkurs_founding_1920",
+  "supports": [
+   "预备课程由Itten于1919年10月引入、1920年董事会决议必修化，是教学法脊梁但绝非其全体"
+  ],
+  "does_not_support": [
+   "课程制度为史实；“脊梁但非全体”为Wick判断（针对Banham化约）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0434",
+  "claim": "Vorkurs由Itten的个性解放/精神训练，经Moholy的感官系统化（触觉/光学练习），到Albers的材料经济/建构思维，经历根本转型",
+  "source_id": "B0454",
+  "source_location": "clean第2843-2957行、第3414-3527行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "vorkurs_three_transformations",
+  "supports": [
+   "Vorkurs由Itten的个性解放/精神训练，经Moholy的感官系统化（触觉/光学练习），到Albers的材料经济/"
+  ],
+  "does_not_support": [
+   "三位教师个案章互证，附学生作业图版与Moholy引文"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0435",
+  "claim": "1919年双轨制（Formmeister/Handwerkmeister）与大师议会制度：艺术导师垄断决策、手工艺大师无投票权，埋下“艺术-技术”结构性裂痕",
+  "source_id": "B0464",
+  "source_location": "clean第358—378、461—465行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "weimar_dual_system",
+  "supports": [
+   "1919年双轨制（Formmeister/Handwerkmeister）与大师议会制度：艺术导师垄断决策、手工艺大师无"
+  ],
+  "does_not_support": [
+   "制度描述为档案事实；“双轨制违背行会平等理想”为作者分析"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0436",
+  "claim": "基础课程（Vorkurs）从Itten（Mazdaznan教学法）经Moholy-Nagy到Albers的交接，是包豪斯教育理念与校内权力斗争的交汇点",
+  "source_id": "B0464",
+  "source_location": "clean第579—607、825—851行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.2"
+  ],
+  "textbook_function": "preliminary_course_vorkurs",
+  "supports": [
+   "基础课程（Vorkurs）从Itten（Mazdaznan教学法）经Moholy-Nagy到Albers的交接，是包豪斯"
+  ],
+  "does_not_support": [
+   "工坊再分配与人事时间为档案事实；Itten-Gropius教学哲学对立及“时间即政治”为作者分析"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0437",
+  "claim": "1923年包豪斯大展与格罗皮乌斯“艺术与技术——新的统一”演讲标志从手工艺浪漫主义向工业设计的公开转向",
+  "source_id": "B0158",
+  "source_location": "clean第1304行、第1306—1308行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.3"
+  ],
+  "textbook_function": "art_technology_new_unity",
+  "supports": [
+   "1923年包豪斯大展与格罗皮乌斯“艺术与技术——新的统一”演讲标志从手工艺浪漫主义向工业设计的公开转向"
+  ],
+  "does_not_support": [
+   "演讲与展览系档案史实；“决定性转向”评价属Whitford框架"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0438",
+  "claim": "凡·杜斯堡1921—1923年在魏玛的批评与教学动摇了伊顿支配地位，是转向的外部催化剂",
+  "source_id": "B0158",
+  "source_location": "clean第11章（Going Dutch）起始段第1056行起",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.3"
+  ],
+  "textbook_function": "doesburg_catalyst",
+  "supports": [
+   "凡·杜斯堡1921—1923年在魏玛的批评与教学动摇了伊顿支配地位，是转向的外部催化剂"
+  ],
+  "does_not_support": [
+   "催化剂判断属Whitford叙述框架；杜斯堡活动本身可回查档案"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0439",
+  "claim": "1923年“艺术与技术——新的统一”口号与首届包豪斯展览标志制度转向；Haus am Horn作为实验住宅展示工坊协作",
+  "source_id": "B0182",
+  "source_location": "clean第540行、第192行、第132—138行（Am Horn）、第992行（审计）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.3"
+  ],
+  "textbook_function": "exhibition_shift",
+  "supports": [
+   "1923年“艺术与技术——新的统一”口号与首届包豪斯展览标志制度转向；Haus am Horn作为实验住宅展示工坊协作"
+  ],
+  "does_not_support": [
+   "口号是行动者主张；展览与住宅的完成度与效果评价须以同期媒体及审计文献为界（审计明言簿记不足）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0440",
+  "claim": "1924年图林根州议会右翼党团以“小质询”攻击包豪斯，预算削减与大师合同终止导致1925年解散迁校",
+  "source_id": "B0182",
+  "source_location": "clean第798—800行、第840行（Small Question）、第850行、第1165行（解散公开信）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.3"
+  ],
+  "textbook_function": "political_crisis_1924",
+  "supports": [
+   "1924年图林根州议会右翼党团以“小质询”攻击包豪斯，预算削减与大师合同终止导致1925年解散迁校"
+  ],
+  "does_not_support": [
+   "议会记录与公开信证明制度冲突与行动者立场；“文化布尔什维克主义”等指控是修辞而非事实陈述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0441",
+  "claim": "1923年口号由“艺术与手工艺统一”转为“艺术与技术统一”，Technik替换Handwerk标志从行会式生产到工业原型设计的范式转移",
+  "source_id": "B0282",
+  "source_location": "clean第578行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.3"
+  ],
+  "textbook_function": "turn_1923_art_technology",
+  "supports": [
+   "1923年口号由“艺术与手工艺统一”转为“艺术与技术统一”，Technik替换Handwerk标志从行会式生产到工业原型"
+  ],
+  "does_not_support": [
+   "口号文本为可证史实；“范式转移”属Droste解释框架"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0442",
+  "claim": "1923年展览系1922.6政府贷款附带条件催生，格罗皮乌斯认为日期过早但被迫屈服；号角屋为仓促上马的示范项目",
+  "source_id": "B0282",
+  "source_location": "packet 04章L005—L006",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.3"
+  ],
+  "textbook_function": "exhibition_1923_political_pressure",
+  "supports": [
+   "1923年展览系1922.6政府贷款附带条件催生，格罗皮乌斯认为日期过早但被迫屈服；号角屋为仓促上马的示范项目"
+  ],
+  "does_not_support": [
+   "贷款条件与展期为可证制度事实；“被迫早产”评价属解释"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0443",
+  "claim": "1923莫霍利-纳吉接替伊顿主持初步课程，构成主义-理性主义-技术取向取代表现主义-神秘主义-手工艺取向",
+  "source_id": "B0282",
+  "source_location": "packet 04章L007",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.3"
+  ],
+  "textbook_function": "moholy_nagy_replaces_itten",
+  "supports": [
+   "1923莫霍利-纳吉接替伊顿主持初步课程，构成主义-理性主义-技术取向取代表现主义-神秘主义-手工艺取向"
+  ],
+  "does_not_support": [
+   "人事更替为可证事实；“转向最明确信号”评价属解释"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0444",
+  "claim": "1923年大展系Gropius主动发动（驳“政府强令说”），以集体任务统一分裂中的学校并争取工业界支持；“艺术与技术：新的统一”既是外交口号也是哲学上荒谬的命题",
+  "source_id": "B0464",
+  "source_location": "clean第857—1007行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.3"
+  ],
+  "textbook_function": "institutional_turn_1923_exhibition",
+  "supports": [
+   "1923年大展系Gropius主动发动（驳“政府强令说”），以集体任务统一分裂中的学校并争取工业界支持；“艺术与技术：新"
+  ],
+  "does_not_support": [
+   "展览缘起为作者考证推断：无政府指令文件，依据Gropius 1922年9月15日备忘录与Stölzl回忆；口号双重分析属Forgács命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0445",
+  "claim": "迁德绍后废除双轨制、设青年大师、成立建筑系并注册包豪斯有限公司，配套丛书出版",
+  "source_id": "B0158",
+  "source_location": "clean第1240行；packet第14章分章报告",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "dessau_institutional_reform",
+  "supports": [
+   "迁德绍后废除双轨制、设青年大师、成立建筑系并注册包豪斯有限公司，配套丛书出版"
+  ],
+  "does_not_support": [
+   "公司注册、建筑系设立等属档案史实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0446",
+  "claim": "德绍工坊转向工业设计原型与批量生产，金属、家具、纺织工坊产出功能化产品",
+  "source_id": "B0158",
+  "source_location": "clean第1308行；第14—15章",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "workshop_industrial_production",
+  "supports": [
+   "德绍工坊转向工业设计原型与批量生产，金属、家具、纺织工坊产出功能化产品"
+  ],
+  "does_not_support": [
+   "Whitford叙述框架叠加档案产品与订单记录"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0447",
+  "claim": "1927年德绍章程确立机构归属（德绍市）、课程序列（预备课程+工坊教学+形式教学）与入学要求（预备课程为不可或缺前提）",
+  "source_id": "B0182",
+  "source_location": "clean第2219—2296行（第2226、2237—2238、2243行）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "dessau_statute_1927",
+  "supports": [
+   "1927年德绍章程确立机构归属（德绍市）、课程序列（预备课程+工坊教学+形式教学）与入学要求（预备课程为不可或缺前提）"
+  ],
+  "does_not_support": [
+   "章程是制度规范文本，证明制度意图与结构设计，不证明执行情况"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0448",
+  "claim": "德绍工坊体系（金属、纺织等）以“培养创造性人才”为目标，工坊教学与形式教学构成主课程",
+  "source_id": "B0182",
+  "source_location": "clean第1736—1743行（金属工坊）、第2238行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "workshop_system",
+  "supports": [
+   "德绍工坊体系（金属、纺织等）以“培养创造性人才”为目标，工坊教学与形式教学构成主课程"
+  ],
+  "does_not_support": [
+   "工坊章程与招生文件证明制度目标；产品成效需以产品目录与销售档案为据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0449",
+  "claim": "维也纳工坊的工场组织（多工种车间、颜色编码管理、Morris/Ruskin纲领）是德绍工坊制度比较的“前史”参照",
+  "source_id": "B0247",
+  "source_location": "clean第559—563行、第552—558行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "workshop_system_comparison_antecedent",
+  "supports": [
+   "维也纳工坊的工场组织（多工种车间、颜色编码管理、Morris/Ruskin纲领）是德绍工坊制度比较的“前史”参照"
+  ],
+  "does_not_support": [
+   "工坊制度与包豪斯工坊制度是平行比较而非传承证据，本书不含包豪斯直接关联，比较命题由教材层建立"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0450",
+  "claim": "工艺美术学校（Kunstgewerbeschule）的教育网络是工坊人员供给的制度基础，Moser/Hoffmann首班毕业生组成Wiener Kunst im Hause雏形",
+  "source_id": "B0247",
+  "source_location": "clean第547行；grep“80%”核实比例",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "education_workshop_link",
+  "supports": [
+   "工艺美术学校（Kunstgewerbeschule）的教育网络是工坊人员供给的制度基础，Moser/Hoffmann首班"
+  ],
+  "does_not_support": [
+   "“80%工坊雇员出自该校”百分比数据未在本次抽查中于原文核实，仅确认教育-工坊链条本身"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0451",
+  "claim": "1907年Moser退出（财务、创作、个人身份三重原因）改变工坊管理结构，标志创始双人组时代终结",
+  "source_id": "B0247",
+  "source_location": "clean第757—760行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "founder_split_dynamics",
+  "supports": [
+   "1907年Moser退出（财务、创作、个人身份三重原因）改变工坊管理结构，标志创始双人组时代终结"
+  ],
+  "does_not_support": [
+   "借款金额易被简化：申请10万克朗、实付5万克朗；Moser离职信为直接引语可作证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0452",
+  "claim": "1913年150万克朗债务停摆、1914年清算重组为GmbH、1926年Primavesi之死、1932年终局清算构成工坊制度衰落的时间链",
+  "source_id": "B0247",
+  "source_location": "clean第763—766行；clean第3146行（1926年）、第3170行（1932年）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "decline_liquidation_chronology",
+  "supports": [
+   "1913年150万克朗债务停摆、1914年清算重组为GmbH、1926年Primavesi之死、1932年终局清算构成工"
+  ],
+  "does_not_support": [
+   "1926—1932年细节主要来自分析报告与年表，本次抽查覆盖至1915年"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0453",
+  "claim": "迁德绍后课程体系重组：初步课程由Albers与Moholy合授并保持全年制；康定斯基形式理论为第二学期以上必修",
+  "source_id": "B0282",
+  "source_location": "clean第1573、1663行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "dessau_reorganization_curriculum",
+  "supports": [
+   "迁德绍后课程体系重组：初步课程由Albers与Moholy合授并保持全年制；康定斯基形式理论为第二学期以上必修"
+  ],
+  "does_not_support": [
+   "课程表为可证制度文献"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0454",
+  "claim": "迁德绍后方成立Bauhaus Ltd（有限责任公司）作为销售与授权经营主体，包豪斯由教育机构兼为经济主体",
+  "source_id": "B0282",
+  "source_location": "clean第1284行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "bauhaus_ltd_founding",
+  "supports": [
+   "迁德绍后方成立Bauhaus Ltd（有限责任公司）作为销售与授权经营主体，包豪斯由教育机构兼为经济主体"
+  ],
+  "does_not_support": [
+   "公司设立为可证制度史实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0455",
+  "claim": "德绍工坊生产与工业界授权合作：Polytex纺织、Rasch壁纸、耶拿玻璃等授权合同构成产品市场化路径",
+  "source_id": "B0282",
+  "source_location": "clean第2384行（授权协议延续）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.4"
+  ],
+  "textbook_function": "workshop_production_industry",
+  "supports": [
+   "德绍工坊生产与工业界授权合作：Polytex纺织、Rasch壁纸、耶拿玻璃等授权合同构成产品市场化路径"
+  ],
+  "does_not_support": [
+   "授权合同为档案制度事实；产品市场成效不可推定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0456",
+  "claim": "迈耶任内引入社会学与马克思主义政治理论课程、工坊转向大众需求批量生产、建筑系主导，经济成功与政治灾难并行",
+  "source_id": "B0158",
+  "source_location": "clean第44行、第1725—1729行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "meyer_social_function",
+  "supports": [
+   "迈耶任内引入社会学与马克思主义政治理论课程、工坊转向大众需求批量生产、建筑系主导，经济成功与政治灾难并行"
+  ],
+  "does_not_support": [
+   "课程改革与收入翻倍系档案史实；“灾难种子”判断属Whitford框架"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0457",
+  "claim": "Meyer提出“建造=功能×经济”“一切艺术是构图因而不合目的”，将建筑定义为生物过程与社会事业",
+  "source_id": "B0182",
+  "source_location": "clean第3378—3385行（《Building》及导引第3380行）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "meyer_functionalism",
+  "supports": [
+   "Meyer提出“建造=功能×经济”“一切艺术是构图因而不合目的”，将建筑定义为生物过程与社会事业"
+  ],
+  "does_not_support": [
+   "宣言文本证明行动者主张；其教学成效与校内接受度须另觅学生记录；Wingler导引对Meyer持负面评价（编者层）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0458",
+  "claim": "1930年共产学生传单要求废除预备课程；Meyer自称解散学生共产党小组后仍因政治指控被解职",
+  "source_id": "B0182",
+  "source_location": "clean第4235—4249行（传单）、第4023—4024行（Meyer自述）、第8975行（解职时间）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "school_politics_1930",
+  "supports": [
+   "1930年共产学生传单要求废除预备课程；Meyer自称解散学生共产党小组后仍因政治指控被解职"
+  ],
+  "does_not_support": [
+   "传单与Meyer自述均为行动者文献，可证明立场与事件进程；解职原因各说并存"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0459",
+  "claim": "迈耶任期（1928—1930）由“工业设计学院”转向社会功能主义：引入社会学经济学心理学课程、“人民需求而非奢侈需求”、整合室内装修工坊",
+  "source_id": "B0282",
+  "source_location": "clean第1804、1843、1946、2203行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "meyer_directorship_social_function",
+  "supports": [
+   "迈耶任期（1928—1930）由“工业设计学院”转向社会功能主义：引入社会学经济学心理学课程、“人民需求而非奢侈需求”、"
+  ],
+  "does_not_support": [
+   "课程改革与口号为可证；解职因果Droste保留模糊，不得断言"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0460",
+  "claim": "密斯1930继任后去政治化：清党开除激进学生、1930.9.9大师委员会决议关闭学院重开、限定包豪斯目的为手工艺技术与艺术训练",
+  "source_id": "B0282",
+  "source_location": "clean第2284—2296、2356行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "mies_depoliticization_1930",
+  "supports": [
+   "密斯1930继任后去政治化：清党开除激进学生、1930.9.9大师委员会决议关闭学院重开、限定包豪斯目的为手工艺技术与艺"
+  ],
+  "does_not_support": [
+   "1930.9.9决议与课程表为档案史实；“美学至上”评价属解释"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0461",
+  "claim": "1932.9纳粹坚持下德绍包豪斯关闭（社民党弃权、仅共产党代表赞成），1933年柏林包豪斯被搜查并最终关闭",
+  "source_id": "B0282",
+  "source_location": "clean第2253—2254、2671行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "bauhaus_closing_1932_1933",
+  "supports": [
+   "1932.9纳粹坚持下德绍包豪斯关闭（社民党弃权、仅共产党代表赞成），1933年柏林包豪斯被搜查并最终关闭"
+  ],
+  "does_not_support": [
+   "市政投票与关闭命令为可证史实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0462",
+  "claim": "包豪斯生存取决于图林根政党政治与拨款博弈；Gropius自称像Cerberus一样排除政治，但“生存本身即政治”",
+  "source_id": "B0464",
+  "source_location": "clean第427—469行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "weimar_parliament_struggle",
+  "supports": [
+   "包豪斯生存取决于图林根政党政治与拨款博弈；Gropius自称像Cerberus一样排除政治，但“生存本身即政治”"
+  ],
+  "does_not_support": [
+   "议会辩论与报刊材料部分经Scheidig/Hüter等二手转引；“政治不可避免”为Forgács命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0463",
+  "claim": "Gropius辞职是校内共同体理想耗尽（Klee/Kandinsky裂痕、Breuer产权之争）与政治右转的双重结果；“信仰的时代结束了”",
+  "source_id": "B0464",
+  "source_location": "clean第1257—1283行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "gropius_resignation_1928",
+  "supports": [
+   "Gropius辞职是校内共同体理想耗尽（Klee/Kandinsky裂痕、Breuer产权之争）与政治右转的双重结果；“"
+  ],
+  "does_not_support": [
+   "辞职时间线（1928年1月17日告知、2月4日辞职信、3月28日离校）为档案事实；象征解读为Forgács解释"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0464",
+  "claim": "Meyer任内产业订单增长与智力水准下降并存；两大纲领（《building》《bauhaus and society》）全文为原始文本；因共产主义学生政治化经Hesse/Grote调查于1930年被解职",
+  "source_id": "B0464",
+  "source_location": "clean第1285—1520行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "meyer_directorship",
+  "supports": [
+   "Meyer任内产业订单增长与智力水准下降并存；两大纲领（《building》《bauhaus and society》）"
+  ],
+  "does_not_support": [
+   "“误读历史时刻”与“缺乏历史可信度”为Forgács核心命题，作者并列Maldonado反方观点；Meyer是否“真”共产主义者作者自陈未决"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0465",
+  "claim": "Mies任内非政治化路线未能挽救学校：1932年德绍关校、1933年4月11日柏林关闭、8月10日解散；Rosenberg视艺术独立精神为比共产主义更激进的纳粹之敌",
+  "source_id": "B0464",
+  "source_location": "clean第1612—1690行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.5"
+  ],
+  "textbook_function": "mies_tenure_and_1933_closure",
+  "supports": [
+   "Mies任内非政治化路线未能挽救学校：1932年德绍关校、1933年4月11日柏林关闭、8月10日解散；Rosenber"
+  ],
+  "does_not_support": [
+   "终局事件时间线为档案史实；Rosenberg判断属作者引用与解读"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0466",
+  "claim": "Isotype不是形式主义风格而是“方法”，其制度载体是社会博物馆与研究所（GWM→Isotype Institute），method-制度耦合构成可复制的教育-传播制度模型",
+  "source_id": "B0081",
+  "source_location": "clean第135-137、345、542行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.6"
+  ],
+  "textbook_function": "isotype_as_method",
+  "supports": [
+   "Isotype不是形式主义风格而是“方法”，其制度载体是社会博物馆与研究所（GWM→Isotype Institute）"
+  ],
+  "does_not_support": [
+   "方法/风格之辨为本书核心论点（Kinross/Burke框架）；制度谱系为档案史实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0467",
+  "claim": "Transformer（转换者）是Isotype方法论核心制度角色：Marie Reidemeister 1927年起任首位转换者，1932年术语首现，1929年“trustee of the public”概念出现",
+  "source_id": "B0081",
+  "source_location": "clean第1177-1228、214行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.6"
+  ],
+  "textbook_function": "role_transformer",
+  "supports": [
+   "Transformer（转换者）是Isotype方法论核心制度角色：Marie Reidemeister 1927年起任"
+  ],
+  "does_not_support": [
+   "角色沿革、术语谱系、工作流程史实可证；“转换者是现代信息设计师原型”属本书解释框架"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0468",
+  "claim": "拜耶、布劳耶、谢珀、施密特、施托尔策等青年大师构成包豪斯教育体系的自我再生产",
+  "source_id": "B0158",
+  "source_location": "clean第15章（Young Masters）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.6"
+  ],
+  "textbook_function": "young_masters_replication",
+  "supports": [
+   "拜耶、布劳耶、谢珀、施密特、施托尔策等青年大师构成包豪斯教育体系的自我再生产"
+  ],
+  "does_not_support": [
+   "人事任命属档案史实；“自我更新”评价属Whitford框架"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0469",
+  "claim": "1929年招生文件显示建筑系9学期制：预备课程（不可免除）→工坊→建筑教学→建筑工作室，结业获包豪斯文凭，构成可复制的课程制度",
+  "source_id": "B0182",
+  "source_location": "clean第3262—3294行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.6"
+  ],
+  "textbook_function": "curriculum_institution",
+  "supports": [
+   "1929年招生文件显示建筑系9学期制：预备课程（不可免除）→工坊→建筑教学→建筑工作室，结业获包豪斯文凭，构成可复制的课"
+  ],
+  "does_not_support": [
+   "课程表证明制度设计；“复制”成效（毕业生去向、后续院校采纳）需跨来源验证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0470",
+  "claim": "包豪斯书籍与期刊（1925年起德绍出版）作为理念自我复制与对外传播的制度载体，多数卷册由大师自撰",
+  "source_id": "B0282",
+  "source_location": "clean第1532—1535行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.6"
+  ],
+  "textbook_function": "bauhaus_books_publications",
+  "supports": [
+   "包豪斯书籍与期刊（1925年起德绍出版）作为理念自我复制与对外传播的制度载体，多数卷册由大师自撰"
+  ],
+  "does_not_support": [
+   "出版物目录为可证制度事实；传播成效不可推定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0471",
+  "claim": "“包豪斯教学法”非单一实体：以Dexel批判“包豪斯风格”为方法论原型，主张教学法形态与教师等量（“What the masters do, they teach”）",
+  "source_id": "B0454",
+  "source_location": "clean第246—250行、第1457行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.6"
+  ],
+  "textbook_function": "plurality_of_pedagogy",
+  "supports": [
+   "“包豪斯教学法”非单一实体：以Dexel批判“包豪斯风格”为方法论原型，主张教学法形态与教师等量（“What the m"
+  ],
+  "does_not_support": [
+   "为Wick的解释框架而非可直接验证的史实，引用时须分层处理"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0472",
+  "claim": "教学法被选择性保存：Itten内容渗入德国普通与职业学校（含秘密课程）而Albers原则罕被采纳、Moholy几乎未被采纳；北美只移植预备课程形式、面向单一专业",
+  "source_id": "B0454",
+  "source_location": "clean第1841行、第6883行、第2289行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.6"
+  ],
+  "textbook_function": "pedagogy_selective_survival",
+  "supports": [
+   "教学法被选择性保存：Itten内容渗入德国普通与职业学校（含秘密课程）而Albers原则罕被采纳、Moholy几乎未被采"
+  ],
+  "does_not_support": [
+   "接受史主张（Stelzer论点+Grawe结论），部分不可独立验证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0473",
+  "claim": "德绍纲领《Bauhaus Dessau — Principles of Bauhaus Production》（1926年3月）将设计/标准型生产确立为学校任务；Kandinsky同年12月发文反拨，标志艺术-设计裂痕显性化",
+  "source_id": "B0464",
+  "source_location": "clean第1191—1207行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.6"
+  ],
+  "textbook_function": "dessau_production_programme",
+  "supports": [
+   "德绍纲领《Bauhaus Dessau — Principles of Bauhaus Production》（1926"
+  ],
+  "does_not_support": [
+   "纲领与Kandinsky文章全文为一手文本；“理念被倒转”为Forgács命题（皮洛士式胜利）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0474",
+  "claim": "Loos作为现代主义正典行动者：《装饰与罪恶》等文本成为现代建筑与设计理论正典文献，其地位是文本事实",
+  "source_id": "B0008",
+  "source_location": "clean第1658—1677行核心公式",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "modernist_canon_actor",
+  "supports": [
+   "Loos作为现代主义正典行动者：《装饰与罪恶》等文本成为现代建筑与设计理论正典文献，其地位是文本事实"
+  ],
+  "does_not_support": [
+   "只能证明其文本地位与行动者主张，不能自动证明其对包豪斯等机构的实际因果影响"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0475",
+  "claim": "Isotype经维也纳→海牙→牛津迁徙，并在苏联Izostat（国家赞助）、美国（Modley商业竞争）、西非黄金海岸/尼日利亚（殖民/后殖民转译）发生区域变异",
+  "source_id": "B0081",
+  "source_location": "clean第135-137、5173、10444行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "migration_translation",
+  "supports": [
+   "Isotype经维也纳→海牙→牛津迁徙，并在苏联Izostat（国家赞助）、美国（Modley商业竞争）、西非黄金海岸/"
+  ],
+  "does_not_support": [
+   "各据点史实与传播路线可证；“跨文化适应性成功”属解释性判断，且Marie自认效果未检验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0476",
+  "claim": "维也纳方法向苏联Izostat的制度输出（1931-1934）：1931年9月12日法令强制采用、Neurath任主任、至少5名维也纳成员常驻莫斯科；Izostat图表含预估未来数据且数据被夸大/歪曲，Neurath共谋无法证明",
+  "source_id": "B0081",
+  "source_location": "clean第5095—5099、5101—5107行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "izostat_soviet_transfer",
+  "supports": [
+   "维也纳方法向苏联Izostat的制度输出（1931-1934）：1931年9月12日法令强制采用、Neurath任主任、"
+  ],
+  "does_not_support": [
+   "Minns基于俄语档案的一手研究；争议性评价（collusion）书中明确标注不可证，引用须带此边界"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0477",
+  "claim": "1933年4月11日柏林查封后师生流散英美，包豪斯理念随之国际化，纳粹压制反讽性促进其全球传播",
+  "source_id": "B0158",
+  "source_location": "clean第29—31行；第17—18章",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "migration_after_1933",
+  "supports": [
+   "1933年4月11日柏林查封后师生流散英美，包豪斯理念随之国际化，纳粹压制反讽性促进其全球传播"
+  ],
+  "does_not_support": [
+   "Whitford叙述框架（Judgments章）；个体流散事实可回查档案"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0478",
+  "claim": "跨国传播是选择、改写和制度适配，不应简化为风格影响",
+  "source_id": "B0168",
+  "source_location": "补接收方行动者、翻译差异、拒绝与失败案例",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "canonical_migration_selection_and_reframing",
+  "supports": [
+   "跨国传播是选择、改写和制度适配，不应简化为风格影响"
+  ],
+  "does_not_support": [
+   "作者自身仍有英国源头到大陆完成的目的论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0479",
+  "claim": "1937年芝加哥新包豪斯以Moholy-Nagy为总监、Gropius为顾问，首学期36名学生；后经School of Design延续为Institute of Design",
+  "source_id": "B0182",
+  "source_location": "clean第5003行、第5068行、第5107行、第5022行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "chicago_transfer",
+  "supports": [
+   "1937年芝加哥新包豪斯以Moholy-Nagy为总监、Gropius为顾问，首学期36名学生；后经School of "
+  ],
+  "does_not_support": [
+   "新包豪斯文献（prospectus、校长签名页）证明制度创办与人事；延续性表述含Wingler 1969年正典化导引（编者层）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0480",
+  "claim": "1925年魏玛→德绍迁徙：1924.12.26新闻稿解除图林根州合同、德绍社民党政府提供实质邀请（市长Hesse）、1925.4.1正式开学并启用临时校舍",
+  "source_id": "B0282",
+  "source_location": "clean第1261、1313—1330、1679行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "weimar_to_dessau_migration",
+  "supports": [
+   "1925年魏玛→德绍迁徙：1924.12.26新闻稿解除图林根州合同、德绍社民党政府提供实质邀请（市长Hesse）、19"
+  ],
+  "does_not_support": [
+   "迁徙动因与时间节点为可证制度史实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0481",
+  "claim": "风格派经杂志、展览、包豪斯、俄国先锋派、法国（Rosenberg展/Aubette）跨国传播，成为现代主义正典建构的一环；「De Stijl was never really a group」",
+  "source_id": "B0342",
+  "source_location": "clean L1062、L1096-1129、L1213、L1437-1453",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "de_stijl_international_transmission",
+  "supports": [
+   "风格派经杂志、展览、包豪斯、俄国先锋派、法国（Rosenberg展/Aubette）跨国传播，成为现代主义正典建构的一环"
+  ],
+  "does_not_support": [
+   "Overy综合叙述；De Stijl杂志传播记录为行动者文本"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0482",
+  "claim": "「复制即生产」：风格派身份与经典地位由杂志、展览、修复、商品化与历史写作持续建构（接受史/再生产史命题）",
+  "source_id": "B0342",
+  "source_location": "clean L1441、L1453-1454、L1467",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "reproduction_as_production",
+  "supports": [
+   "「复制即生产」：风格派身份与经典地位由杂志、展览、修复、商品化与历史写作持续建构（接受史/再生产史命题）"
+  ],
+  "does_not_support": [
+   "Overy末章元理论命题，引用时须标注为其观点"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0483",
+  "claim": "包豪斯教学法在北美：Gropius（哈佛）、Albers（黑山学院/耶鲁）、Moholy（芝加哥新包豪斯/设计学院）各自的改造与变异，第二代人（Beckmann、Bredendieck、Dearstyne等）延续基础课",
+  "source_id": "B0454",
+  "source_location": "clean第6636-6883行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "diaspora_north_america",
+  "supports": [
+   "包豪斯教学法在北美：Gropius（哈佛）、Albers（黑山学院/耶鲁）、Moholy（芝加哥新包豪斯/设计学院）各自"
+  ],
+  "does_not_support": [
+   "Ch13（Grawe撰）据1998博士论文压缩，须与其他包豪斯通史（B0182/B0282）互核"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0484",
+  "claim": "包豪斯在中国的接受是选择性重组：四段论（初晤—曲折—误读变体—扬弃），核心是'中国的设计界追求民生改善与现代化的自己的历史'",
+  "source_id": "B0492",
+  "source_location": "回查clean第83—180行原文引述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "core_evidence",
+  "supports": [
+   "包豪斯在中国的接受是选择性重组：四段论（初晤—曲折—误读变体—扬弃），核心是'中国的设计界追求民生改善与现代化的自己的历"
+  ],
+  "does_not_support": [
+   "档案（梁思成信、四定方案）与编者导言分层使用"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0485",
+  "claim": "中国最早经日本、法国间接渠道接触包豪斯：陈之佛文无Bauhaus字样仅Breuhaus、庞薰琹柏林考察、郑可1931年参观",
+  "source_id": "B0492",
+  "source_location": "回查clean第83、87行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "indirect_contact_early",
+  "supports": [
+   "中国最早经日本、法国间接渠道接触包豪斯：陈之佛文无Bauhaus字样仅Breuhaus、庞薰琹柏林考察、郑可1931年参"
+  ],
+  "does_not_support": [
+   "属间接接触证据，不构成直接影响命题"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0486",
+  "claim": "正典建构三节点：圣约翰建筑系1942年引进包豪斯体系、同济文远楼1953年、梁思成1945年信倡Bauhaus方法并改革清华教学",
+  "source_id": "B0492",
+  "source_location": "回查clean第113、117、121行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "canon_three_nodes",
+  "supports": [
+   "正典建构三节点：圣约翰建筑系1942年引进包豪斯体系、同济文远楼1953年、梁思成1945年信倡Bauhaus方法并改革"
+  ],
+  "does_not_support": [
+   "建筑教育领域的制度转译证据充分"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0487",
+  "claim": "1930—1960中国建筑现代主义是留德（奚福泉、夏昌世）与留美（贝聿铭、黄作燊、王大闳）建筑师思想移转的结果",
+  "source_id": "B0517",
+  "source_location": "核对clean第1612、1616、1671、1716行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "4.7"
+  ],
+  "textbook_function": "architecture_modernism_transfer_1930_1960",
+  "supports": [
+   "1930—1960中国建筑现代主义是留德（奚福泉、夏昌世）与留美（贝聿铭、黄作燊、王大闳）建筑师思想移转的结果"
+  ],
+  "does_not_support": [
+   "Kögel以博士论文、大学档案与建筑图纸支撑，为全书档案实证最强篇之一"
+  ],
+  "status": "candidate"
+ }
+]

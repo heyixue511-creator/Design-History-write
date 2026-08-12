@@ -1,0 +1,3080 @@
+[
+ {
+  "evidence_id": "EV-C0001",
+  "claim": "设计学科性质的核心框架：Buchanan“设计作为技术文化中的新自由艺术”、设计四领域（符号与视觉传播/物质对象/活动与有组织服务/复杂系统或环境）、“置位学说”、邪恶问题理论（Rittel 1974）、激进系统多元主义——0.1“设计”概念与学科对象讨论的经典文献",
+  "source_id": "B0059",
+  "source_location": "packet 分析报告.md 4.2—4.4",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.1"
+  ],
+  "textbook_function": "design_as_new_liberal_art",
+  "supports": [
+   "设计学科性质的核心框架：Buchanan“设计作为技术文化中的新自由艺术”、设计四领域（符号与视觉传播/物质对象/活动与"
+  ],
+  "does_not_support": [
+   "作者建构框架（1995）；四领域划分广为引用但为启发式分类，教材引用须标注命题身份"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0002",
+  "claim": "设计史学科界定奠基手册：设计史关注“特定设计在其生产时期语境中”的理解而非孤立审美鉴赏；Heskett“design as object／process／concept”三维框架；风格分析必要但不充分——0.1“设计”概念与学科对象讨论的方法论文献",
+  "source_id": "B0183",
+  "source_location": "packet 00整体分析报告命题一、二、三",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.1"
+  ],
+  "textbook_function": "design_history_discipline_handbook",
+  "supports": [
+   "设计史学科界定奠基手册：设计史关注“特定设计在其生产时期语境中”的理解而非孤立审美鉴赏；Heskett“design a"
+  ],
+  "does_not_support": [
+   "1987年学科共识总结（方法论手册）；概念界定为编者/作者框架，须与其他定义论并置"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0003",
+  "claim": "设计定义的系统扩展：“有态度的物”（things with attitude）、“小写设计”（design in the lower case，日常非专业设计实践）、“反设计”（undesign，未经专业设计过程的日常物品）——0.1“设计”概念讨论的核心当代文献",
+  "source_id": "B0240",
+  "source_location": "packet 00整体分析报告L000.1.2.1",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.1"
+  ],
+  "textbook_function": "things_with_attitude_lowercase_design",
+  "supports": [
+   "设计定义的系统扩展：“有态度的物”（things with attitude）、“小写设计”（design in the"
+  ],
+  "does_not_support": [
+   "作者建构概念（2000）；作为设计定义论与Heskett/Buchanan等并置，不替代制度定义"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0004",
+  "claim": "设计史学科身份辩论的完整呈现：Dilnot（1984，学科资格质疑）vs Walker（1989，学科资格论证）、编者“独特的兴趣、方法与来源的混合体值得学科地位”立场、生产/消费/中介三重关切、Walker“设计的历史／设计史”区分——0.1学科对象与性质的核心文献",
+  "source_id": "B0273",
+  "source_location": "packet 00整体分析报告3.1、3.2、7.2 L5摘录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.1"
+  ],
+  "textbook_function": "design_history_discipline_debate",
+  "supports": [
+   "设计史学科身份辩论的完整呈现：Dilnot（1984，学科资格质疑）vs Walker（1989，学科资格论证）、编者“"
+  ],
+  "does_not_support": [
+   "文选导言为编者立场综述；Dilnot/Walker原文须回各自原著；2010年时点的学科判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0005",
+  "claim": "学科与对象之辨：设计史（学科）与设计的历史（对象）的区分、“design”一词多义（过程/结果/产品/外观，家族相似）、研究对象扩展至设计过程/机构/生产—消费系统——0.1“设计”概念讨论的元理论框架",
+  "source_id": "B0440",
+  "source_location": "源文件L111、L328—L330、L508",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.1"
+  ],
+  "textbook_function": "design_history_vs_history_of_design",
+  "supports": [
+   "学科与对象之辨：设计史（学科）与设计的历史（对象）的区分、“design”一词多义（过程/结果/产品/外观，家族相似）、"
+  ],
+  "does_not_support": [
+   "作者建构的学科框架（1989年时点）；概念史细节（design词义演变）须与词典史文献互校"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0006",
+  "claim": "现代性的规范性定义：素朴无装饰、个性强大无需面具、“我们有了取代装饰的艺术”",
+  "source_id": "B0008",
+  "source_location": "clean第1677行及后续",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "modernity_definition",
+  "supports": [
+   "现代性的规范性定义：素朴无装饰、个性强大无需面具、“我们有了取代装饰的艺术”"
+  ],
+  "does_not_support": [
+   "是行动者对现代性的规范主张，非对现代性事实的描述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0007",
+  "claim": "宣言以“过去主义”批判与速度/机器/电力的美学化定义20世纪初现代性的自我意识，是0.2节“现代性概念”的典范行动者表述",
+  "source_id": "B0027",
+  "source_location": "clean第245、255行；导论（编者史学定位）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "manifesto_modernity_self_definition",
+  "supports": [
+   "宣言以“过去主义”批判与速度/机器/电力的美学化定义20世纪初现代性的自我意识，是0.2节“现代性概念”的典范行动者表述"
+  ],
+  "does_not_support": [
+   "宣言话语是文化先锋的自我主张，与大众社会史中的现代性体验（劳动、消费、殖民）需区分"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0008",
+  "claim": "时尚史从形式编年转向文化史，并批判涓滴、革命断裂与单线现代化",
+  "source_id": "B0080",
+  "source_location": "补全球时尚史、生产史和区域比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "fashion_historiography_and_anti_linear_periodization",
+  "supports": [
+   "时尚史从形式编年转向文化史，并批判涓滴、革命断裂与单线现代化"
+  ],
+  "does_not_support": [
+   "作者仍使用‘现代时尚诞生’等阶段命题且范围以英格兰为主"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0009",
+  "claim": "设计史分期应把生产方式看作累积层叠而非新方式完全替代旧方式",
+  "source_id": "B0084",
+  "source_location": "以区域案例检验各层的起止、重叠与权力关系",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "layered_nonlinear_periodisation",
+  "supports": [
+   "设计史分期应把生产方式看作累积层叠而非新方式完全替代旧方式"
+  ],
+  "does_not_support": [
+   "六层模型是分析工具且可能过度整齐"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0010",
+  "claim": "时尚是现代性不可分割的文化表达形式：现代性=城市社会的碰撞动力、变化渴求与强化感觉，时尚以其歇斯底里与夸张表达现代性；其本质是“现代主义式的反讽”",
+  "source_id": "B0143",
+  "source_location": "回查clean L240-241",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "modernity_fashion_theory",
+  "supports": [
+   "时尚是现代性不可分割的文化表达形式：现代性=城市社会的碰撞动力、变化渴求与强化感觉，时尚以其歇斯底里与夸张表达现代性；其"
+  ],
+  "does_not_support": [
+   "理论命题（作者核心框架）；个案为文学与历史例证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0011",
+  "claim": "时尚兼具艺术与商品、解放与压迫的双重面孔，是资本主义内在矛盾的象征性体现——曖昧性概念框架",
+  "source_id": "B0143",
+  "source_location": "回查clean L240-255",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "ambiguity_double_face",
+  "supports": [
+   "时尚兼具艺术与商品、解放与压迫的双重面孔，是资本主义内在矛盾的象征性体现——曖昧性概念框架"
+  ],
+  "does_not_support": [
+   "理论命题，跨章论证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0012",
+  "claim": "全球分期不能把工业化设为各地区同时追求的单一终点",
+  "source_id": "B0259",
+  "source_location": "补后续大分流争论与区域数据",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "nonsynchronous_modernization_and_comparison",
+  "supports": [
+   "全球分期不能把工业化设为各地区同时追求的单一终点"
+  ],
+  "does_not_support": [
+   "相似性和1750节点是争议性历史判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0013",
+  "claim": "以视觉教育培养“运动中的视觉”新感知：从被动消费到主动参与、感官互通与感知扩展",
+  "source_id": "B0269",
+  "source_location": "回查clean第1075—1148行，第1147—1148行被动淹没vs主动参与",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "visual_education_program",
+  "supports": [
+   "以视觉教育培养“运动中的视觉”新感知：从被动消费到主动参与、感官互通与感知扩展"
+  ],
+  "does_not_support": [
+   "行动者教学纲领：证明其教育主张与理念；不能证明成效或学生接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0014",
+  "claim": "‘消费革命’是改变设计史生产中心叙事的经典史学命题，也必须连同后续批评教授",
+  "source_id": "B0305",
+  "source_location": "补Berg、de Vries、Brewer／Porter及跨区域研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "consumer_revolution_historiographic_thesis",
+  "supports": [
+   "‘消费革命’是改变设计史生产中心叙事的经典史学命题，也必须连同后续批评教授"
+  ],
+  "does_not_support": [
+   "不能把1982年的‘第一’和断裂论当作无争议定论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0015",
+  "claim": "不能从十九世纪工业化结果倒推早期各地区都以工业化为目标",
+  "source_id": "B0334",
+  "source_location": "补同期概念、政策与行动者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "anti_anachronism_and_plural_paths",
+  "supports": [
+   "不能从十九世纪工业化结果倒推早期各地区都以工业化为目标"
+  ],
+  "does_not_support": [
+   "多元路径主张仍需说明比较节点和历史行动者目标"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0016",
+  "claim": "现代主义概念的历史化框架：先驱现代主义（1920—1933）与国际风格（1933—1970s）两阶段分期、十二项信条、“Modern不再等于contemporary”——现代性/现代化/现代主义概念边界的核心资源",
+  "source_id": "B0337",
+  "source_location": "packet L003、L007 Greenhalgh引言",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "modernism_concept_historicization",
+  "supports": [
+   "现代主义概念的历史化框架：先驱现代主义（1920—1933）与国际风格（1933—1970s）两阶段分期、十二项信条、“"
+  ],
+  "does_not_support": [
+   "主编导言框架（Greenhalgh命题），各章案例可证局部；分期断代有论辩性，教材须标注"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0017",
+  "claim": "新艺术的现代性、1893—1914分期与衰落可作为可争论的史学模型",
+  "source_id": "B0338",
+  "source_location": "与区域年表、同期命名、生产／展览延续和反例互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "art_nouveau_modernity_periodization_and_multiple_endings",
+  "supports": [
+   "新艺术的现代性、1893—1914分期与衰落可作为可争论的史学模型"
+  ],
+  "does_not_support": [
+   "‘第一个’、三阶段和1910—11终结均为作者综合，不能自然化为全球时间"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0018",
+  "claim": "工艺美术运动包含现代／反现代、手工／机器与多个终点，不能作单线时期标签",
+  "source_id": "B0450",
+  "source_location": "按国家、机构、对象与时段分别核验",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "arts_crafts_as_multiple_modernity_strategies_and_endings",
+  "supports": [
+   "工艺美术运动包含现代／反现代、手工／机器与多个终点，不能作单线时期标签"
+  ],
+  "does_not_support": [
+   "作者纠正反工业神话仍不能消除英国章更强反工业性的区域差异"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0019",
+  "claim": "“现代”之于中国便是“启蒙”与“救亡”，中国现代设计史的沉重性源于中西碰撞与民族自强双重语境；以器物入手（洋务运动）是中国现代性的突出表现",
+  "source_id": "B0485",
+  "source_location": "回查clean L57德里克引文与“启蒙与救亡”原句",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "modernity_enlightenment_rescue",
+  "supports": [
+   "“现代”之于中国便是“启蒙”与“救亡”，中国现代设计史的沉重性源于中西碰撞与民族自强双重语境；以器物入手（洋务运动）是中"
+  ],
+  "does_not_support": [
+   "命题为作者核心论点，与李泽厚“启蒙与救亡”双重变奏谱系相关，属思想史阐释而非档案事实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0020",
+  "claim": "现代性即“脱域”（disembedding）；“后”生活与“后设计”表征；后现代主义是“软弱的批判”；中国设计史按农耕→工业两阶段理解现代转型",
+  "source_id": "B0495",
+  "source_location": "核对L123脱域、L147后现代批判表述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "modernity_and_post_modernity_discourse",
+  "supports": [
+   "现代性即“脱域”（disembedding）；“后”生活与“后设计”表征；后现代主义是“软弱的批判”；中国设计史按农耕→"
+  ],
+  "does_not_support": [
+   "V章L119-L148、IV章L110-L118（理论命题+中国个案分层）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0021",
+  "claim": "中国设计现代性问题：中性人格、月份牌女性形象现代性、电影造梦、市民文化",
+  "source_id": "B0500",
+  "source_location": "回查clean L40、L59、L297现代性论述",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.2"
+  ],
+  "textbook_function": "modernity_of_chinese_design",
+  "supports": [
+   "中国设计现代性问题：中性人格、月份牌女性形象现代性、电影造梦、市民文化"
+  ],
+  "does_not_support": [
+   "“中性人格”“现代性”为作者建构概念，个案为史料"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0022",
+  "claim": "全球设计史应从英雄与名物清单转向对象、连接、比较和多地点关系",
+  "source_id": "B0005",
+  "source_location": "回各章原文与所引区域研究，核定具体作者和页码",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "relational_global_design_history",
+  "supports": [
+   "全球设计史应从英雄与名物清单转向对象、连接、比较和多地点关系"
+  ],
+  "does_not_support": [
+   "这是编者的方法论主张，不代表论文集各章已消除欧美中心偏差"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0023",
+  "claim": "跨媒介对象须同制度、商业、传播与社会话语共同解释",
+  "source_id": "B0035",
+  "source_location": "逐对象核对制作、销售、使用和反例",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "cross_media_form_social_and_commercial_history",
+  "supports": [
+   "跨媒介对象须同制度、商业、传播与社会话语共同解释"
+  ],
+  "does_not_support": [
+   "运动的情绪／氛围统一性是作者分析概念，不是对象自然具有的属性"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0024",
+  "claim": "人物行动须经合作网络、传播、庇护和行政装置转化为制度结果",
+  "source_id": "B0049",
+  "source_location": "补合作者、工匠、教师、公众与机构档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "institutional_biography_network_and_mediation",
+  "supports": [
+   "人物行动须经合作网络、传播、庇护和行政装置转化为制度结果"
+  ],
+  "does_not_support": [
+   "传记的Cole中心性不能替代多主体制度史"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0025",
+  "claim": "对象须同制作、使用、展示、分类、文字与制度证据共同解释",
+  "source_id": "B0052",
+  "source_location": "逐对象分开物证、文本、行动者和作者解释",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "things_as_emissaries_multi_source_material_culture_method",
+  "supports": [
+   "对象须同制作、使用、展示、分类、文字与制度证据共同解释"
+  ],
+  "does_not_support": [
+   "物不是透明文化密码，‘使节’隐喻仍需中介和反例"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0026",
+  "claim": "设计史须把企业组织、生产选择、协作者、价格和市场纳入对象解释",
+  "source_id": "B0070",
+  "source_location": "补工人自述、家庭资本、消费者与对象使用材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "enterprise_production_market_and_actor_method",
+  "supports": [
+   "设计史须把企业组织、生产选择、协作者、价格和市场纳入对象解释"
+  ],
+  "does_not_support": [
+   "企业档案不能完整呈现工人、家庭和消费者经验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0027",
+  "claim": "铸字→排版→印刷→装订→编辑→发行→零售→消费完整产业链及其社会关系；“编-印-发”三合一模式（vs英美编印分离）",
+  "source_id": "B0079",
+  "source_location": "回查整体分析报告",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "production_to_consumption_chain",
+  "supports": [
+   "铸字→排版→印刷→装订→编辑→发行→零售→消费完整产业链及其社会关系；“编-印-发”三合一模式（vs英美编印分离）"
+  ],
+  "does_not_support": [
+   "比较制度分析（作者命题）+企业档案；生产-中介-消费链条与0.3关系史框架直接契合"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0028",
+  "claim": "服装形式须与生产、消费、身体、身份、媒体和多重意义共同解释",
+  "source_id": "B0080",
+  "source_location": "逐案例分开形式描述、行动者主张、制度机制和接受",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "form_production_consumption_identity_and_media_method",
+  "supports": [
+   "服装形式须与生产、消费、身体、身份、媒体和多重意义共同解释"
+  ],
+  "does_not_support": [
+   "开放解释不能免除对象、行动者和因果证据要求"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0029",
+  "claim": "设计史可贯通生产、使用、经济价值与制度政策而不只描述形式",
+  "source_id": "B0084",
+  "source_location": "逐篇注明文类、日期、原出处和论证层级",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "history_economics_policy_and_context",
+  "supports": [
+   "设计史可贯通生产、使用、经济价值与制度政策而不只描述形式"
+  ],
+  "does_not_support": [
+   "文集跨时期跨文类并置不能自动组成统一因果理论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0030",
+  "claim": "个人思想、制度、企业、作品与接受史需相互校验而非写成单一名家生平",
+  "source_id": "B0091",
+  "source_location": "补工人、女性、地方、企业和对象级材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "contextual_biography_institution_enterprise_and_object",
+  "supports": [
+   "个人思想、制度、企业、作品与接受史需相互校验而非写成单一名家生平"
+  ],
+  "does_not_support": [
+   "传记结构仍以Ashbee为中心且作品部分与生平部分有所分离"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0031",
+  "claim": "设计史应同时分析设计者、工匠、制造商、赞助人、消费者与制度语境",
+  "source_id": "B0101",
+  "source_location": "补劳动史、殖民史、性别史与使用史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "production_consumption_stakeholder_design_history",
+  "supports": [
+   "设计史应同时分析设计者、工匠、制造商、赞助人、消费者与制度语境"
+  ],
+  "does_not_support": [
+   "stakeholder框架仍可能压低工人、殖民主体和环境"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0032",
+  "claim": "第三版以de-centering为方法论纲领：承认经典叙事欧洲中心、男性中心、白人中心，通过非西方案例与跨文化互依展示「民族设计」概念之脆弱，并引Huppatz「全球思考不需全球覆盖」为限度",
+  "source_id": "B0102",
+  "source_location": "回查引言De-centering小节原文确认Forty引语与Huppatz引语",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "decentering_global_perspective_design_history",
+  "supports": [
+   "第三版以de-centering为方法论纲领：承认经典叙事欧洲中心、男性中心、白人中心，通过非西方案例与跨文化互依展示「"
+  ],
+  "does_not_support": [
+   "证据边界为前言（clean第135—140行）与引言「A Wider Angle: De-centering Design」小节"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0033",
+  "claim": "本书为“从英雄谱系到关系史”的直接范例：以人物穿越（Tzara/Arp/Picabia各跨5章）与期刊流通替代单线谱系；结构上反对“达达→超现实主义”线性叙事（对照Barr 1936、Rubin 1968、Ades 1978）",
+  "source_id": "B0121",
+  "source_location": "clean目录结构（六城标题行841/1842/2730/3416/4001/4745）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "relational_history_multicity_network",
+  "supports": [
+   "本书为“从英雄谱系到关系史”的直接范例：以人物穿越（Tzara/Arp/Picabia各跨5章）与期刊流通替代单线谱系；"
+  ],
+  "does_not_support": [
+   "编辑结构≠论证结论：各章叙述仍以个体艺术家为核心；关系史主张须限定于本书框架层面"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0034",
+  "claim": "制造业史须分别检查家庭作坊行会工厂国内市场和出口而不能用工厂或行会单一指标判断衰落",
+  "source_id": "B0130",
+  "source_location": "回奥斯曼档案、地区数据及反方去工业化研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "decline_paradigm_and_bottom_up_manufacturing_history",
+  "supports": [
+   "制造业史须分别检查家庭作坊行会工厂国内市场和出口而不能用工厂或行会单一指标判断衰落"
+  ],
+  "does_not_support": [
+   "作者的修正主义结论仍受领事档案和统计口径限制"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0035",
+  "claim": "思想史可把文学、讲演、组织行动和历史条件相互校验，并公开说明重构过程",
+  "source_id": "B0133",
+  "source_location": "逐命题注明莫里斯原文或Thompson解释",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "political_intellectual_biography_and_reconstruction",
+  "supports": [
+   "思想史可把文学、讲演、组织行动和历史条件相互校验，并公开说明重构过程"
+  ],
+  "does_not_support": [
+   "重构的体系不能归为行动者亲自完成的单一理论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0036",
+  "claim": "以瓷器为透镜可从具体物质痕迹扩展到生产贸易与跨文化关系并检验尺度跃迁",
+  "source_id": "B0154",
+  "source_location": "区分对象事实、作者解释与宏观推论并补区域史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "object_lens_and_scale_control",
+  "supports": [
+   "以瓷器为透镜可从具体物质痕迹扩展到生产贸易与跨文化关系并检验尺度跃迁"
+  ],
+  "does_not_support": [
+   "器物传播不能自动证明文明兴衰或世界体系因果"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0037",
+  "claim": "思想、学校、组织、实践和跨国中介须共同解释运动形成与转译",
+  "source_id": "B0168",
+  "source_location": "以同时期传播文件和反例约束",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "ideas_institutions_practice_and_transfer_method",
+  "supports": [
+   "思想、学校、组织、实践和跨国中介须共同解释运动形成与转译"
+  ],
+  "does_not_support": [
+   "谱系框架可能把后见之明写成前定方向"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0038",
+  "claim": "以单一材料为透镜可把对象工序公司市场生态和强制劳动连接成可检验问题链",
+  "source_id": "B0169",
+  "source_location": "公开每一环节的来源类型、地理范围和机制证据",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "commodity_chain_global_history_method",
+  "supports": [
+   "以单一材料为透镜可把对象工序公司市场生态和强制劳动连接成可检验问题链"
+  ],
+  "does_not_support": [
+   "商品链不能取代地方制度史且不能由连接直接推出因果"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0039",
+  "claim": "设计改革需把制度、劳动、市场、话语、空间和行动者能动性置于同一分析框架",
+  "source_id": "B0175",
+  "source_location": "与其他地区制度史、对象史和劳动史比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "social_cultural_institutional_and_market_history",
+  "supports": [
+   "设计改革需把制度、劳动、市场、话语、空间和行动者能动性置于同一分析框架"
+  ],
+  "does_not_support": [
+   "英国个案不能自动外推为全球设计制度规律"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0040",
+  "claim": "以非洲消费者与被奴役者的日常选择重构相互依存的关系史，示范“自边缘观全球”的谱系学方法，反对英雄谱系与离散文化空间预设",
+  "source_id": "B0209",
+  "source_location": "回查clean第96—104行导论挑战离散空间预设",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "relational_history_from_margins",
+  "supports": [
+   "以非洲消费者与被奴役者的日常选择重构相互依存的关系史，示范“自边缘观全球”的谱系学方法，反对英雄谱系与离散文化空间预设"
+  ],
+  "does_not_support": [
+   "行动者自述稀缺，能动性复原依赖对外国观察者记录的逆读"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0041",
+  "claim": "设计史须把形式同生产组织、材料制度、市场和实际使用结合，而不能只排名名作",
+  "source_id": "B0225",
+  "source_location": "与劳动史、企业档案、非西方区域史和使用史互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "integrated_design_history_method",
+  "supports": [
+   "设计史须把形式同生产组织、材料制度、市场和实际使用结合，而不能只排名名作"
+  ],
+  "does_not_support": [
+   "作者仍在形式主义与个体创造力框架内工作且案例老化"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0042",
+  "claim": "互惠比较要求同时解释欧洲与亚洲为何偏离彼此而不预设欧洲正常路径",
+  "source_id": "B0259",
+  "source_location": "公开比较单位、指标、数据和反例",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "reciprocal_core_region_comparison",
+  "supports": [
+   "互惠比较要求同时解释欧洲与亚洲为何偏离彼此而不预设欧洲正常路径"
+  ],
+  "does_not_support": [
+   "核心区选择本身仍可能制造代表性偏差"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0043",
+  "claim": "生产、需求、企业策略、政治制度、社会心态和物质证据可被置于共同解释框架",
+  "source_id": "B0305",
+  "source_location": "分作者、分章节、分机制使用并补反事实",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "demand_supply_commercialization_and_material_culture_method",
+  "supports": [
+   "生产、需求、企业策略、政治制度、社会心态和物质证据可被置于共同解释框架"
+  ],
+  "does_not_support": [
+   "三位作者对商业化的具体机制并未完全统一"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0044",
+  "claim": "设计史须把形式同生产、利润、劳动和社会观念置于同一解释链",
+  "source_id": "B0328",
+  "source_location": "补消费者、工人、区域与对象反证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "design_political_economy_method",
+  "supports": [
+   "设计史须把形式同生产、利润、劳动和社会观念置于同一解释链"
+  ],
+  "does_not_support": [
+   "Forty的结构主义和马克思主义解释不是唯一范式"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0045",
+  "claim": "历史解释应比较各地区面对的具体压力、需求与政策回应",
+  "source_id": "B0334",
+  "source_location": "同技术供给、教育制度和反方研究比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "contextual_pressure_response_comparison",
+  "supports": [
+   "历史解释应比较各地区面对的具体压力、需求与政策回应"
+  ],
+  "does_not_support": [
+   "压力模型不是充分解释且损失厌恶外推有风险"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0046",
+  "claim": "意义资源、材料工艺、城市地方化与传播制度须联合解释风格",
+  "source_id": "B0338",
+  "source_location": "保持作者署名并逐案例建立机制链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "meaning_material_city_and_institution_matrix",
+  "supports": [
+   "意义资源、材料工艺、城市地方化与传播制度须联合解释风格"
+  ],
+  "does_not_support": [
+   "现代性统一概念不能消除各章差异或多作者立场"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0047",
+  "claim": "展览应同时分析组织、资金、空间、对象、受众条件与意识形态解释",
+  "source_id": "B0339",
+  "source_location": "补观众、劳动者、来源地与非西方组织者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "institution_display_finance_and_ideology_framework",
+  "supports": [
+   "展览应同时分析组织、资金、空间、对象、受众条件与意识形态解释"
+  ],
+  "does_not_support": [
+   "该框架仍以主办国和展览发出端为中心"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0048",
+  "claim": "书籍设计史可把理念、工序、企业、劳动、市场与接受连成可核机制链",
+  "source_id": "B0348",
+  "source_location": "与其他企业、普通印刷厂和劳动史比较",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "production_business_object_and_reception_method",
+  "supports": [
+   "书籍设计史可把理念、工序、企业、劳动、市场与接受连成可核机制链"
+  ],
+  "does_not_support": [
+   "单一名人—机构个案不能代表全部工艺美术生产"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0049",
+  "claim": "本书是对Pevsner英雄谱系的直接修正——“链条在格罗皮乌斯处断掉”、机器时代美学由“别处别人”创制，并以跨国关系网络替代单一先驱链，是“从英雄谱系到关系史”的范例文本",
+  "source_id": "B0363",
+  "source_location": "回查L147-150、L3438-3461（Giedion方法论批判）、L3667",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "hero_lineage_to_relational_history",
+  "supports": [
+   "本书是对Pevsner英雄谱系的直接修正——“链条在格罗皮乌斯处断掉”、机器时代美学由“别处别人”创制，并以跨国关系网络"
+  ],
+  "does_not_support": [
+   "作者仍以“人物—著作—作品”组织叙事，关系史化程度有限；其对Giedion的批判同样是立场性建构"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0050",
+  "claim": "共同问题轴须同传播渠道、地方语境和制度结果交叉比较",
+  "source_id": "B0450",
+  "source_location": "逐案区分来源、选择、误读、再生产与无直接接触",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.3"
+  ],
+  "textbook_function": "three_theme_by_local_translation_comparative_matrix",
+  "supports": [
+   "共同问题轴须同传播渠道、地方语境和制度结果交叉比较"
+  ],
+  "does_not_support": [
+   "中心—边缘矩阵不能把地方写成被动接收者"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0051",
+  "claim": "约1000张AEG玻璃底片与印刷品使已绝迹产品得以“证明其确实存在过”，作品编目以精确物理描述实现无实物条件下的物质性分析（“物的传记”）",
+  "source_id": "B0060",
+  "source_location": "回查导论档案声明与编目方法段落",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "glass_negatives_artifact_evidence",
+  "supports": [
+   "约1000张AEG玻璃底片与印刷品使已绝迹产品得以“证明其确实存在过”，作品编目以精确物理描述实现无实物条件下的物质性分"
+  ],
+  "does_not_support": [
+   "档案幸存具偶然性（阁楼/地窖发现）；编目图像主要来自AEG-Zeitung与MdBEW，属图像证据而非实物证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0052",
+  "claim": "以雷丁大学IC档案（T/N文件、Guideline notes、约2000个pictogram图典、草图与mock-ups）及原始图表实物为核心人工物史料；设计过程材料与成品同权重是本书方法立场",
+  "source_id": "B0081",
+  "source_location": "clean第254、1285、1322、8123-8823行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "artifact_evidence",
+  "supports": [
+   "以雷丁大学IC档案（T/N文件、Guideline notes、约2000个pictogram图典、草图与mock-up"
+  ],
+  "does_not_support": [
+   "档案编号与实物可回溯；定年结论（图表修改谱系）属分析推定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0053",
+  "claim": "纤维捻向织纹幅宽接缝染层和磨损可提出生产贸易与使用问题",
+  "source_id": "B0086",
+  "source_location": "补对象检验、馆藏史、考古、口述和贸易记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "textile_object_as_multilayer_evidence",
+  "supports": [
+   "纤维捻向织纹幅宽接缝染层和磨损可提出生产贸易与使用问题"
+  ],
+  "does_not_support": [
+   "纺织物不是自足文本且对象归属与年代须互证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0054",
+  "claim": "人工物作为史料的方法示范：蒙太奇作品、期刊、海报、展览装置成为重建达达历史的主要证据；Doherty将广告标签、产品标签、Klebestuben剪贴簿等非艺术材料赋予与作品同等分析权重；Merzbau以照片与文字留存",
+  "source_id": "B0121",
+  "source_location": "clean行1902—1964、2979—2989、4248",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "dada_objects_as_historical_sources",
+  "supports": [
+   "人工物作为史料的方法示范：蒙太奇作品、期刊、海报、展览装置成为重建达达历史的主要证据；Doherty将广告标签、产品标签"
+  ],
+  "does_not_support": [
+   "对象证据须区分制作意图与实际社会生命（如Stieglitz摄影“制造”了新的Fountain）；已毁对象（Merzbau、多数表演）只能经中介证据间接进入史料"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0055",
+  "claim": "胎釉钴料器形纹样窑痕和残片可提供材料技术与流通线索",
+  "source_id": "B0154",
+  "source_location": "补检测、考古层位、馆藏史、订单和使用记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "porcelain_as_material_and_contextual_evidence",
+  "supports": [
+   "胎釉钴料器形纹样窑痕和残片可提供材料技术与流通线索"
+  ],
+  "does_not_support": [
+   "形式与材料不能脱离出土入藏委托与使用语境解读"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0056",
+  "claim": "织物样品、图像、贸易统计和公司信函可相互校正产品名称技术与市场判断",
+  "source_id": "B0169",
+  "source_location": "补对象检验、馆藏史、公司原档与使用材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "textiles_archives_statistics_and_images",
+  "supports": [
+   "织物样品、图像、贸易统计和公司信函可相互校正产品名称技术与市场判断"
+  ],
+  "does_not_support": [
+   "图像说明和商业分类不等于对象身份或消费者经验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0057",
+  "claim": "本书以档案汇编形态呈现史料：每件文献标注出处（LW/BD/PA）、首刊标记（First publication）与捐赠来源，并说明档案存放地",
+  "source_id": "B0182",
+  "source_location": "clean第6行、第5012行、第5024行、第4942行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "documentary_materiality",
+  "supports": [
+   "本书以档案汇编形态呈现史料：每件文献标注出处（LW/BD/PA）、首刊标记（First publication）与捐赠来"
+  ],
+  "does_not_support": [
+   "档案位置与首刊标注是元数据证据，证明文献的物质来源与编纂层级，不改变文献内容本身的效力"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0058",
+  "claim": "排版实物——书籍封面、海报、期刊版面、广告、钞票、手稿与印刷版对照——构成现代排版史证据链的一手史料",
+  "source_id": "B0187",
+  "source_location": "全书图版（原书13—156页各章）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "typographic_artifact_as_historical_source",
+  "supports": [
+   "排版实物——书籍封面、海报、期刊版面、广告、钞票、手稿与印刷版对照——构成现代排版史证据链的一手史料"
+  ],
+  "does_not_support": [
+   "图版160余幅是本书核心论证要素；clean文本只有文字，视觉判断须回原书图版，不得以文字描述替代"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0059",
+  "claim": "实物零件互换测试可检验企业宣传和文献中的标准化主张",
+  "source_id": "B0192",
+  "source_location": "核附录样本清单、测量方法和博物馆藏品",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "artifact_test_of_interchangeability",
+  "supports": [
+   "实物零件互换测试可检验企业宣传和文献中的标准化主张"
+  ],
+  "does_not_support": [
+   "样本、年代和保存史限制必须公开"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0060",
+  "claim": "海报作为史料具有双重性：作为“图片”（picture，可烧毁/悬挂的物质对象）与“图像”（image，可复制、挪用、存续的视觉内容），处于“证据的暮光地带”",
+  "source_id": "B0199",
+  "source_location": "clean 314",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "poster_image_picture_duality",
+  "supports": [
+   "海报作为史料具有双重性：作为“图片”（picture，可烧毁/悬挂的物质对象）与“图像”（image，可复制、挪用、存续"
+  ],
+  "does_not_support": [
+   "Mitchell区分是分析工具而非史料本身；海报可证生产、流通、展示安排，不能单独证接受"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0061",
+  "claim": "海报作为人工物被档案馆系统保存（胡佛研究所、帝国战争博物馆、国会图书馆、Schomburg中心等），其收藏与编目即史料化过程；帝国战争博物馆为最早系统收藏者",
+  "source_id": "B0199",
+  "source_location": "clean 248（致谢）、276（收藏与在线发布）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "poster_archive_provenance",
+  "supports": [
+   "海报作为人工物被档案馆系统保存（胡佛研究所、帝国战争博物馆、国会图书馆、Schomburg中心等），其收藏与编目即史料化"
+  ],
+  "does_not_support": [
+   "档案馆名单出自致谢与插图注记，“最早系统收藏”为作者陈述"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0062",
+  "claim": "250幅插图（55幅彩色）及家具、金属、玻璃、陶瓷、时装、纺织、平面艺术的产品门类叙述构成人工物史料档案",
+  "source_id": "B0247",
+  "source_location": "clean第570行；各章产品图注",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "artifact_visual_archive",
+  "supports": [
+   "250幅插图（55幅彩色）及家具、金属、玻璃、陶瓷、时装、纺织、平面艺术的产品门类叙述构成人工物史料档案"
+  ],
+  "does_not_support": [
+   "插图为图录性质，图注信息以原书为准；产品归属存在无法确定归属的情况"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0063",
+  "claim": "Rosemark（玫瑰标记）1903年注册为工坊第一个商标，“WW”标志与设计师/工匠姓名缩写并置，是工坊企业化与品牌运作的人工物证据",
+  "source_id": "B0247",
+  "source_location": "clean第2506行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "rosemark_trademark_evidence",
+  "supports": [
+   "Rosemark（玫瑰标记）1903年注册为工坊第一个商标，“WW”标志与设计师/工匠姓名缩写并置，是工坊企业化与品牌运"
+  ],
+  "does_not_support": [
+   "商标制度证明品牌意识，不证明市场成功或产品质量"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0064",
+  "claim": "对象材质、工艺、构造、图版与展览著录共同支持形式—制作分析",
+  "source_id": "B0338",
+  "source_location": "返回实物、高清图、尺寸、修复、来源与使用记录",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "objects_as_material_visual_and_exhibition_evidence",
+  "supports": [
+   "对象材质、工艺、构造、图版与展览著录共同支持形式—制作分析"
+  ],
+  "does_not_support": [
+   "本地OCR不能替代图版，展品状态也不等于原使用情境"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0065",
+  "claim": "施罗德宅（1924-25）：里特维尔德首座完整建筑，施罗德夫人为共同设计者而非单纯客户，1923底始设计、1924末入住、1985年夫人去世后修复",
+  "source_id": "B0342",
+  "source_location": "clean L605-624、L639-646",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "schroeder_house_artifact",
+  "supports": [
+   "施罗德宅（1924-25）：里特维尔德首座完整建筑，施罗德夫人为共同设计者而非单纯客户，1923底始设计、1924末入住"
+  ],
+  "does_not_support": [
+   "档案（Rietveld-Schröder档案）+当事人访谈（Overy 1988、Troy 1983）；与B0276共享施罗德宅对象，只计一份P0"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0066",
+  "claim": "施罗德宅并非混凝土建造：里特维尔德原想用混凝土板（当时新技术）而未实现",
+  "source_id": "B0342",
+  "source_location": "clean L646",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "schroeder_not_concrete",
+  "supports": [
+   "施罗德宅并非混凝土建造：里特维尔德原想用混凝土板（当时新技术）而未实现"
+  ],
+  "does_not_support": [
+   "档案实证修正成说"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0067",
+  "claim": "人工物在被设计意图之外获得多段社会生命：制造、迁移、展示与遮蔽语境不断重写其意义（Gwalior门楼、Hinemihi、Mataatua、Bentzon银器均示范此方法）",
+  "source_id": "B0427",
+  "source_location": "回查clean L249（导言方法论）、L273、L1639（“语境有转化力量”）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "social_life_of_things_object_biography",
+  "supports": [
+   "人工物在被设计意图之外获得多段社会生命：制造、迁移、展示与遮蔽语境不断重写其意义（Gwalior门楼、Hinemihi、"
+  ],
+  "does_not_support": [
+   "物件传记是作者基于档案与实物的方法论重构，档案缺位环节（如Clarke无日记、屏风无法断代）须留白"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0068",
+  "claim": "展览实物、材质、尺寸、年代、藏地和来源可作为对象研究入口",
+  "source_id": "B0450",
+  "source_location": "回展品、馆藏记录、修复、来源、制作和使用材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "exhibition_objects_checklist_material_and_provenance",
+  "supports": [
+   "展览实物、材质、尺寸、年代、藏地和来源可作为对象研究入口"
+  ],
+  "does_not_support": [
+   "策展对象不是系统样本，OCR图像也不能承担精确视觉判断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0069",
+  "claim": "以人工物为史料：甲骨、金文鼎彝、睡虎地秦简、马王堆帛书、西汉纸（灞桥纸）、《乙瑛碑》《曹全碑》等碑帖、济南刘家功夫针铺广告铜版构成实物证据链",
+  "source_id": "B0469",
+  "source_location": "回查clean L238、L267、L323、L353、L786",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "artifact_material_evidence",
+  "supports": [
+   "以人工物为史料：甲骨、金文鼎彝、睡虎地秦简、马王堆帛书、西汉纸（灞桥纸）、《乙瑛碑》《曹全碑》等碑帖、济南刘家功夫针铺广"
+  ],
+  "does_not_support": [
+   "出土实物与传世碑帖分层、实物优先；灞桥纸等年代结论为作者辨伪推断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0070",
+  "claim": "民国书籍封面实物（上海图书馆、北京国家图书馆、南京图书馆、中央研究院馆藏与家属收藏）为研究对象",
+  "source_id": "B0505",
+  "source_location": "核对图版与描述对应",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.4"
+  ],
+  "textbook_function": "artifact_evidence_book_cover",
+  "supports": [
+   "民国书籍封面实物（上海图书馆、北京国家图书馆、南京图书馆、中央研究院馆藏与家属收藏）为研究对象"
+  ],
+  "does_not_support": [
+   "图版目录L610—778（图1—55）；clean无图，图像本体不可复核"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0071",
+  "claim": "本书为行动者文本汇编（P0）：23篇Loos原文+Masheck后记+注释，证据类型为行动者文本",
+  "source_id": "B0008",
+  "source_location": "clean第2881行正文标题页",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "actor_text_evidence",
+  "supports": [
+   "本书为行动者文本汇编（P0）：23篇Loos原文+Masheck后记+注释，证据类型为行动者文本"
+  ],
+  "does_not_support": [
+   "编辑层（后记、导言、注释）与原文层须区分，不同报告不得视为独立来源"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0072",
+  "claim": "编者以文献汇编、出处标注、年表呈现文本且导论明确告诫“不应按面值接受夸耀”，是0.5节“宣言作为史料”的方法论范例",
+  "source_id": "B0027",
+  "source_location": "clean第157行（导论告诫）、第201—3006行出处标注",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "manifesto_as_historical_source_method",
+  "supports": [
+   "编者以文献汇编、出处标注、年表呈现文本且导论明确告诫“不应按面值接受夸耀”，是0.5节“宣言作为史料”的方法论范例"
+  ],
+  "does_not_support": [
+   "选集存在选目与节选的主观性；clean文本为英译二手层，引用须标注版本"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0073",
+  "claim": "期刊、听证、目录、回忆、讲演、档案与实物可形成互证链",
+  "source_id": "B0035",
+  "source_location": "核定版次、页码、图版、档案号与传播范围",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "periodicals_hearings_catalogues_memoirs_archives_and_objects",
+  "supports": [
+   "期刊、听证、目录、回忆、讲演、档案与实物可形成互证链"
+  ],
+  "does_not_support": [
+   "讽刺、广告和回忆录各有立场与记忆偏差，图版仍须返回原件"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0074",
+  "claim": "日记、通信、政府报告和报刊可互相约束改革者自述与制度事件",
+  "source_id": "B0049",
+  "source_location": "正式写作逐条返回档案号、页码、作者与日期",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "diary_letters_blue_books_press_triangulation",
+  "supports": [
+   "日记、通信、政府报告和报刊可互相约束改革者自述与制度事件"
+  ],
+  "does_not_support": [
+   "日记的事务性和传主自我呈现造成系统性沉默"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0075",
+  "claim": "实物、广告、文学、遗嘱、统计、技术文献与馆藏可互补各自沉默",
+  "source_id": "B0052",
+  "source_location": "返回版本、样本、档案、目录、图版和统计口径",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "objects_ads_literature_wills_statistics_technical_and_museum_sources",
+  "supports": [
+   "实物、广告、文学、遗嘱、统计、技术文献与馆藏可互补各自沉默"
+  ],
+  "does_not_support": [
+   "文学和广告不直接证明行为，统计与实物样本均有保存偏差"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0076",
+  "claim": "企业档案（产品目录、AEG-Zeitung、MdBEW、订单、建筑图纸、商标注册G78-G79）支撑组织与生产事实；同时AEG档案与Behrens私人文件已失，可能1945年运往苏联",
+  "source_id": "B0060",
+  "source_location": "回查档案损失声明与商标条目",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "corporate_archive_evidence_type",
+  "supports": [
+   "企业档案（产品目录、AEG-Zeitung、MdBEW、订单、建筑图纸、商标注册G78-G79）支撑组织与生产事实；同时"
+  ],
+  "does_not_support": [
+   "档案双重性（最可靠证据与最大缺失）须同时声明；商标注册条目连接知识产权史"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0077",
+  "claim": "账簿、合伙协议、书信、工资与销售记录可互证艺术家自述和企业行为",
+  "source_id": "B0070",
+  "source_location": "回纸本页码、档案号、表格和计算过程",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "accounts_letters_partnership_wage_and_sales_records",
+  "supports": [
+   "账簿、合伙协议、书信、工资与销售记录可互证艺术家自述和企业行为"
+  ],
+  "does_not_support": [
+   "局部clean回查未完成全部数字、引注和档案号核定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0078",
+  "claim": "核心证据类型为企业档案与同业档案：上海档案馆书业公所/商会档案（S313系列）、商务/中华企业史、海关贸易数据、报刊广告、传教士报告",
+  "source_id": "B0079",
+  "source_location": "回查整体分析报告4.2史料来源特征",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "archive_evidence_types",
+  "supports": [
+   "核心证据类型为企业档案与同业档案：上海档案馆书业公所/商会档案（S313系列）、商务/中华企业史、海关贸易数据、报刊广告"
+  ],
+  "does_not_support": [
+   "档案证据等级P0；书业公所1905年成立、书业商会1911年成立为机构史实（档案可证）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0079",
+  "claim": "证据类型：一手档案（IC、IISH、ÖNB、Lasswell Papers等12处）、口述历史（Marie回忆录附录C、Arntz 1982访谈、Paul Neurath记录）、视觉实物与图表谱系定年（Kinross视觉考古学）",
+  "source_id": "B0081",
+  "source_location": "clean第254、1177-1228行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "evidence_types",
+  "supports": [
+   "证据类型：一手档案（IC、IISH、ÖNB、Lasswell Papers等12处）、口述历史（Marie回忆录附录C、"
+  ],
+  "does_not_support": [
+   "证据类型清单可证；“棺材→墓碑”等图形演变推断属作者分析"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0080",
+  "claim": "技术分析可同考古语言植物口述和书面档案形成多链互证",
+  "source_id": "B0086",
+  "source_location": "逐项记录证据类型、定位、置信和冲突",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "triangulation_of_material_linguistic_and_archival_sources",
+  "supports": [
+   "技术分析可同考古语言植物口述和书面档案形成多链互证"
+  ],
+  "does_not_support": [
+   "不同证据尺度和不确定性不能被合并抹平"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0081",
+  "claim": "日记、会议记录、财务、公司文件、目录和图纸可交叉约束传主自述",
+  "source_id": "B0091",
+  "source_location": "逐项记录出处、日期、作者、保存缺口和冲突",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "diary_minutes_finance_catalogue_drawing_triangulation",
+  "supports": [
+   "日记、会议记录、财务、公司文件、目录和图纸可交叉约束传主自述"
+  ],
+  "does_not_support": [
+   "材料存续不均且不同材料的沉默不能视为事件不存在"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0082",
+  "claim": "作品、书信、讲演、报刊和组织档案可追踪概念在不同时期的变化",
+  "source_id": "B0133",
+  "source_location": "回莫里斯原集、同期报刊、组织档案和实际页码",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "works_letters_press_and_socialist_archives",
+  "supports": [
+   "作品、书信、讲演、报刊和组织档案可追踪概念在不同时期的变化"
+  ],
+  "does_not_support": [
+   "当前V2抽查未完成所有引文、档案和版次核定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0083",
+  "claim": "器物、沉船、考古、技术文本、书信与商业数据可形成瓷器史多链互证",
+  "source_id": "B0154",
+  "source_location": "逐项记录定位、来源类型、冲突和置信等级",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "artifact_archaeology_text_and_trade_triangulation",
+  "supports": [
+   "器物、沉船、考古、技术文本、书信与商业数据可形成瓷器史多链互证"
+  ],
+  "does_not_support": [
+   "不同年代地点和证据尺度不能仅凭叙事并置合并"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0084",
+  "claim": "原文明言“海报也是时代的记录”（record of the times），且革命海报“在塑造事件中扮演积极角色”——海报作为图像史料（图像证据）的定位有直接文本支持",
+  "source_id": "B0162",
+  "source_location": "clean第32—41行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "poster_as_visual_evidence",
+  "supports": [
+   "原文明言“海报也是时代的记录”（record of the times），且革命海报“在塑造事件中扮演积极角色”——海报"
+  ],
+  "does_not_support": [
+   "“塑造事件”系作者修辞框架；记录内容（自由帽、三色标语）由图像自证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0085",
+  "claim": "公司档案、统计、器物、技术文本、政策和个人证词能够形成棉花史多链互证",
+  "source_id": "B0169",
+  "source_location": "逐项标明事实、作者解释、当事人主张和当前推论",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "multisource_cotton_evidence_chain",
+  "supports": [
+   "公司档案、统计、器物、技术文本、政策和个人证词能够形成棉花史多链互证"
+  ],
+  "does_not_support": [
+   "宏观数据、行动者话语和物质证据的尺度不得混合"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0086",
+  "claim": "官方档案、目录、账簿、报刊、文学和工人材料须按证据功能对位使用",
+  "source_id": "B0175",
+  "source_location": "逐项标明作者、体裁、受众、日期、位置和沉默",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "archives_catalogues_ledgers_press_literature_and_worker_voice",
+  "supports": [
+   "官方档案、目录、账簿、报刊、文学和工人材料须按证据功能对位使用"
+  ],
+  "does_not_support": [
+   "虚构与讽刺证明话语参与，不直接证明行为；账簿样本不完整"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0087",
+  "claim": "本书为行动者自著职业文本，属P0证据：可直接证明Dreyfuss的职业主张、方法与自我定位（1929年开业至1967年职业全程）",
+  "source_id": "B0186",
+  "source_location": "全文",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "actor_self_account_p0",
+  "supports": [
+   "本书为行动者自著职业文本，属P0证据：可直接证明Dreyfuss的职业主张、方法与自我定位（1929年开业至1967年职"
+  ],
+  "does_not_support": [
+   "不能自动证明行业影响或产品成效；与B0206/B0066/B0205共享对象时只计一份P0"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0088",
+  "claim": "图像史料必须置于话语语境（书面宣传、公共演讲、报刊、明信片、私人信件、公共仪式）中解读；孤立图像学证据会误导；反对海报图像“自行言说”",
+  "source_id": "B0199",
+  "source_location": "clean 327、335（绪论）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "contextual_reading_method",
+  "supports": [
+   "图像史料必须置于话语语境（书面宣传、公共演讲、报刊、明信片、私人信件、公共仪式）中解读；孤立图像学证据会误导；反对海报图"
+  ],
+  "does_not_support": [
+   "方法论主张（Goebel表述、James全书承诺），非对单张海报的经验结论；各章做法示范了该方法的操作"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0089",
+  "claim": "政府档案（英国PRC分发数据：近1200万份海报、3400万份传单；美国USFA档案、CPI记录）与图像档案交叉使用，可重建海报生产—分发—展示的完整链条",
+  "source_id": "B0199",
+  "source_location": "clean 2368（USFA女性网络）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "government_archive_reconstruction",
+  "supports": [
+   "政府档案（英国PRC分发数据：近1200万份海报、3400万份传单；美国USFA档案、CPI记录）与图像档案交叉使用，可"
+  ],
+  "does_not_support": [
+   "档案可证生产分发规模与组织流程；分发量不等于接受效果（本书明确此边界）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0090",
+  "claim": "图像证据批判理论：十条批判原则（没有平面对象是孤立的、越“自然”越有文化指示性、图像建构世界而非展示世界、意义是被创造的而非被传递的）——0.5“图像能证明什么、不能证明什么”的核心方法论文献",
+  "source_id": "B0214",
+  "source_location": "packet 00整体分析报告L023、L049",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "critical_principles_image_evidence",
+  "supports": [
+   "图像证据批判理论：十条批判原则（没有平面对象是孤立的、越“自然”越有文化指示性、图像建构世界而非展示世界、意义是被创造的"
+  ],
+  "does_not_support": [
+   "作者建构原则（2009）；应用于具体图像史料时须与图像原件并读"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0091",
+  "claim": "本书为行动者自著教学文本（P0）：一手自述教学主张与课堂实践，附学生作品、Klee/Schlemmer书信等实物与同时代材料",
+  "source_id": "B0216",
+  "source_location": "clean L1-L1128全书行号体系",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "primary_actor_teaching_text",
+  "supports": [
+   "本书为行动者自著教学文本（P0）：一手自述教学主张与课堂实践，附学生作品、Klee/Schlemmer书信等实物与同时代"
+  ],
+  "does_not_support": [
+   "P0证据力限于主张与教学安排；教学成效与学生接受不能自动成立"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0092",
+  "claim": "全书48篇行动者文本（宣言、讲稿、政策文件、展览目录声明）是行动者文本作为史料的典型样本：编者标注原始出处（bibl.编号体系）与文本物理来源",
+  "source_id": "B0222",
+  "source_location": "回查前言L14-72",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "actor_texts_as_primary_sources",
+  "supports": [
+   "全书48篇行动者文本（宣言、讲稿、政策文件、展览目录声明）是行动者文本作为史料的典型样本：编者标注原始出处（bibl.编"
+  ],
+  "does_not_support": [
+   "行动者文本证明主张而非效果与接受，此为使用规则而非内容结论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0093",
+  "claim": "企业书信、广告、贸易卡、遗产清单、实物与报刊可互校消费供给和商业意图",
+  "source_id": "B0305",
+  "source_location": "补销售、顾客、家庭账目、使用、拒绝与地方材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "letters_ads_trade_cards_inventories_objects_and_press",
+  "supports": [
+   "企业书信、广告、贸易卡、遗产清单、实物与报刊可互校消费供给和商业意图"
+  ],
+  "does_not_support": [
+   "商业意图与广告存在不能直接证明消费者心理和行为"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0094",
+  "claim": "讲演中的自述、引书、历史例证和动员语言必须区分其证据身份",
+  "source_id": "B0318",
+  "source_location": "逐条标明自述、转述、历史判断和规范主张",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "lecture_testimony_citation_and_mediated_evidence",
+  "supports": [
+   "讲演中的自述、引书、历史例证和动员语言必须区分其证据身份"
+  ],
+  "does_not_support": [
+   "第一人称工艺经验仍不能证明所有工人或地区状况"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0095",
+  "claim": "展览清单、期刊、宣言、企业／馆藏记录和书目可组成多层史料入口",
+  "source_id": "B0338",
+  "source_location": "核定页码、版本、档案号、展品号和引文上下文",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "catalogue_periodicals_manifestos_archives_and_bibliography",
+  "supports": [
+   "展览清单、期刊、宣言、企业／馆藏记录和书目可组成多层史料入口"
+  ],
+  "does_not_support": [
+   "论文间材料密度不同，原文引述与数字仍须逐项核定"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0096",
+  "claim": "目录、官方报告、财务、报刊、建筑和统计可互证并通过缺席指认检验官方叙事",
+  "source_id": "B0339",
+  "source_location": "回原版页码、目录分类、数据表和相关档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "catalogue_report_finance_press_and_absence_reading",
+  "supports": [
+   "目录、官方报告、财务、报刊、建筑和统计可互证并通过缺席指认检验官方叙事"
+  ],
+  "does_not_support": [
+   "官方文本中的类别不等于被展示者自我认同，统计OCR待核"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0097",
+  "claim": "日记、通信、账簿、校样、试页、报刊和实物可互校行动者记忆与生产事实",
+  "source_id": "B0348",
+  "source_location": "回档案号、纸本页码、账簿结构、实物和图版",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "diary_letters_ledger_proofs_press_and_objects",
+  "supports": [
+   "日记、通信、账簿、校样、试页、报刊和实物可互校行动者记忆与生产事实"
+  ],
+  "does_not_support": [
+   "资料保存受Cockerell角色和藏所收集史影响"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0098",
+  "claim": "广告作为史料类型的方法论奠基：Zerrspiegel（可校正折射的哈哈镜）理论、约18万则杂志广告＋广告业内部档案（JWT、Ayer、BBDO）＋行业期刊＋社会调查的多层证据设计——广告能证明广告人的想象、策略与文本形态，不能证明受众接受效果",
+  "source_id": "B0376",
+  "source_location": "clean L148—L153、L212—L214、L134",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "advertising_as_source_methodology",
+  "supports": [
+   "广告作为史料类型的方法论奠基：Zerrspiegel（可校正折射的哈哈镜）理论、约18万则杂志广告＋广告业内部档案（JW"
+  ],
+  "does_not_support": [
+   "方法论文献：证据边界（生产端与文本端可证、效果端不可证）由作者明示；教材引用广告史料须回机构档案或原刊"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0099",
+  "claim": "Ruskin原文可证明其本人如何表述建筑、劳动、工艺和消费责任",
+  "source_id": "B0383",
+  "source_location": "核定纸本版次、卷页、图版、上下文和第三卷范围",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "primary_actor_text_measurement_and_argument",
+  "supports": [
+   "Ruskin原文可证明其本人如何表述建筑、劳动、工艺和消费责任"
+  ],
+  "does_not_support": [
+   "本地只含两卷且OCR／图版不完整，当前仍为V2"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0100",
+  "claim": "注释、Checklist、同期刊物、讲演、书信和机构材料构成多语种证据入口",
+  "source_id": "B0450",
+  "source_location": "核定版次、注释、档案号、展品号和引文上下文",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "notes_checklist_periodicals_archives_and_multilingual_sources",
+  "supports": [
+   "注释、Checklist、同期刊物、讲演、书信和机构材料构成多语种证据入口"
+  ],
+  "does_not_support": [
+   "图录正文的综合句不能替代原文页码与档案核验"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0101",
+  "claim": "证据类型四类并用：出土实物、传世碑帖、古典文献（《说文解字》《梦溪笔谈》《天工开物》）、近人研究（徐邦达、启功、郑振铎、戈公振），对蔡伦造纸等旧说逐条辨伪存疑",
+  "source_id": "B0469",
+  "source_location": "回查clean L84、L353、L416—417",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "evidence_hierarchy",
+  "supports": [
+   "证据类型四类并用：出土实物、传世碑帖、古典文献（《说文解字》《梦溪笔谈》《天工开物》）、近人研究（徐邦达、启功、郑振铎、"
+  ],
+  "does_not_support": [
+   "无注释体系、转引旧说未加考证；辨伪结论为作者个人推断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0102",
+  "claim": "当事人回忆（钱君匋、吴梦非）与艺术家书信（弘一致丰子恺）为口述/书信证据",
+  "source_id": "B0505",
+  "source_location": "核对口述与书信",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "testimonial_oral_source",
+  "supports": [
+   "当事人回忆（钱君匋、吴梦非）与艺术家书信（弘一致丰子恺）为口述/书信证据"
+  ],
+  "does_not_support": [
+   "L153弘一书信OCR错乱；口述证据需交叉印证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0103",
+  "claim": "日记、草稿、图版、印刷与版次材料可重建设计知识出版链",
+  "source_id": "P0040",
+  "source_location": "回Cole日记、RIBA草稿、V&A预备图及首版",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.5"
+  ],
+  "textbook_function": "archive_publication_plate_chain",
+  "supports": [
+   "日记、草稿、图版、印刷与版次材料可重建设计知识出版链"
+  ],
+  "does_not_support": [
+   "文章复述不能替代未直接核验的档案和首版图版"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0104",
+  "claim": "纪念性企业叙事、创始人中心、工人／女性／殖民生产者缺口和受众效果断点须进入审计",
+  "source_id": "B0006",
+  "source_location": "补独立商业史、劳动史、殖民贸易与消费者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "corporate_commemoration_founder_worker_gender_colonial_and_audience_bias",
+  "supports": [
+   "纪念性企业叙事、创始人中心、工人／女性／殖民生产者缺口和受众效果断点须进入审计"
+  ],
+  "does_not_support": [
+   "企业材料丰富不等于独立验证"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0105",
+  "claim": "种族/进化论话语（巴布亚人、纹身与犯罪、Haeckel重演论）作为历史立场转述，用作证据偏差典型案例",
+  "source_id": "B0008",
+  "source_location": "clean第1661、1670—1671行",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evolutionary_discourse_bias",
+  "supports": [
+   "种族/进化论话语（巴布亚人、纹身与犯罪、Haeckel重演论）作为历史立场转述，用作证据偏差典型案例"
+  ],
+  "does_not_support": [
+   "仅证明Loos主张过该立场，不证明其科学性，不得作现代种族观依据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0106",
+  "claim": "定居者中心、职业领袖、男性发明家和功能主义谱系会压低被殖民者、奴隶、妇女与普通工人",
+  "source_id": "B0031",
+  "source_location": "补原住民、非裔、女性、移民、工人和消费者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "settler_professional_gender_and_racial_bias",
+  "supports": [
+   "定居者中心、职业领袖、男性发明家和功能主义谱系会压低被殖民者、奴隶、妇女与普通工人"
+  ],
+  "does_not_support": [
+   "识别偏差不能以缺席代替主体证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0107",
+  "claim": "精英藏品、签名对象、媒体讽刺和英国中心造成系统性可见性偏差",
+  "source_id": "B0035",
+  "source_location": "补销售、家庭清单、工人、女性、来源社会与普通对象",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "museum_survival_class_gender_empire_and_media_bias",
+  "supports": [
+   "精英藏品、签名对象、媒体讽刺和英国中心造成系统性可见性偏差"
+  ],
+  "does_not_support": [
+   "作者识别普通商品并不等于保存与使用缺口已经补齐"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0108",
+  "claim": "人格中心、帝国缺席、女性不足与公众接受断点必须成为证据审计项目",
+  "source_id": "B0049",
+  "source_location": "补帝国、性别、劳动、教育效果和观众材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "personality_empire_gender_and_public_bias",
+  "supports": [
+   "人格中心、帝国缺席、女性不足与公众接受断点必须成为证据审计项目"
+  ],
+  "does_not_support": [
+   "识别缺口不等于已经补足缺失主体"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0109",
+  "claim": "专题选择、中产中心、性别／帝国分散、工人弱与研究年代须进入审计",
+  "source_id": "B0052",
+  "source_location": "补劳动史、性别史、帝国史、区域史和较新技术史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "selective_middle_class_gender_empire_worker_and_recency_bias",
+  "supports": [
+   "专题选择、中产中心、性别／帝国分散、工人弱与研究年代须进入审计"
+  ],
+  "does_not_support": [
+   "作者提出问题不等于已补足证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0110",
+  "claim": "1944年Werkbund档案被炸毁，以出版物、个人文件、口述史多渠道补偿；1971年Werkbund-Archiv成立",
+  "source_id": "B0064",
+  "source_location": "clean第116行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evidence_gap_reconstruction",
+  "supports": [
+   "1944年Werkbund档案被炸毁，以出版物、个人文件、口述史多渠道补偿；1971年Werkbund-Archiv成立"
+  ],
+  "does_not_support": [
+   "缺口披露为作者自述的方法论事实；补偿成效为作者评估"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0111",
+  "claim": "作者为业内人/前IDSA主席（Black & Decker设计总监、CMU教授），本书兼具内部知识与立场偏向：美国实践优先、反MoMA精英主义、先驱者英雄主义，须作证据偏差来源处理",
+  "source_id": "B0066",
+  "source_location": "clean第4717行；整体报告行347—351、355",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "insider_bias_disclosure",
+  "supports": [
+   "作者为业内人/前IDSA主席（Black & Decker设计总监、CMU教授），本书兼具内部知识与立场偏向：美国实践优"
+  ],
+  "does_not_support": [
+   "本书属职业史专著+人物叙事，须与匿名从业者材料、档案及外部学术史并置；P0计数受重复组约束"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0112",
+  "claim": "企业家中心、工人中介、女性不足、消费者缺口与形式分析偏弱须进入审计",
+  "source_id": "B0070",
+  "source_location": "补多主体劳动史、性别史、对象和使用史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "entrepreneur_worker_gender_consumer_and_visual_bias",
+  "supports": [
+   "企业家中心、工人中介、女性不足、消费者缺口与形式分析偏弱须进入审计"
+  ],
+  "does_not_support": [
+   "识别偏差不等于已经恢复沉默主体"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0113",
+  "claim": "证据偏差显性化示范：1960年代口述史回忆偏差、包天笑/张静庐回忆录单边视角、传教士报告立场、1932年轰炸致企业档案残缺",
+  "source_id": "B0079",
+  "source_location": "回查整体分析报告4.2与局限部分",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evidence_bias_awareness",
+  "supports": [
+   "证据偏差显性化示范：1960年代口述史回忆偏差、包天笑/张静庐回忆录单边视角、传教士报告立场、1932年轰炸致企业档案残"
+  ],
+  "does_not_support": [
+   "作者自陈史料特征+复核者识别；适用于0.6证据偏差章节的案例示范"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0114",
+  "claim": "英格兰中心、生产薄弱、图像偏差、阶级不对称、身份推断和当代新闻依赖须进入审计",
+  "source_id": "B0080",
+  "source_location": "补全球、工场、劳动、男性／女性／酷儿主体和较新研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "england_visual_production_class_gender_identity_and_contemporary_bias",
+  "supports": [
+   "英格兰中心、生产薄弱、图像偏差、阶级不对称、身份推断和当代新闻依赖须进入审计"
+  ],
+  "does_not_support": [
+   "性别批评本身也不能替代劳动和对象证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0115",
+  "claim": "殖民地生产者与普通使用者如何被类型学化而抹去个体（The People of India），以及被展示者记录（Sayyid Ahmad Khan抗议）与当代田野中普通使用者的在场",
+  "source_id": "B0082",
+  "source_location": "回查clean第312行、第318—328行、第1206行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "producers_absence_and_presence",
+  "supports": [
+   "殖民地生产者与普通使用者如何被类型学化而抹去个体（The People of India），以及被展示者记录（Sayyi"
+  ],
+  "does_not_support": [
+   "消失机制分析是作者命题（有题注文本佐证）；Sayyid Ahmad Khan文本是被展示者第一手记录，两者须分列证据等级"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0116",
+  "claim": "文选取舍、未刊稿状态、纪念性目的和区域材料不均必须进入证据审计",
+  "source_id": "B0084",
+  "source_location": "补未收文本、原出处、本地研究和反方评论",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "editorial_selection_unfinished_text_and_regional_bias",
+  "supports": [
+   "文选取舍、未刊稿状态、纪念性目的和区域材料不均必须进入证据审计"
+  ],
+  "does_not_support": [
+   "编者自陈局限不等于已修复这些偏差"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0117",
+  "claim": "收藏与殖民档案会错置地点并压低女性乡村与被奴役劳动者的可见性",
+  "source_id": "B0086",
+  "source_location": "补来源社群、劳动身份、征集史和地方档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "museum_archive_and_silent_labor_bias",
+  "supports": [
+   "收藏与殖民档案会错置地点并压低女性乡村与被奴役劳动者的可见性"
+  ],
+  "does_not_support": [
+   "恢复缺席主体仍需主体证据不能只靠形式推断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0118",
+  "claim": "进化论、气候决定、种族本质和帝国收藏视角会扭曲跨文化设计解释",
+  "source_id": "B0090",
+  "source_location": "保留可核工艺描述并补本地、殖民征集和反方研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evolutionist_climatic_racial_imperial_and_visual_bias",
+  "supports": [
+   "进化论、气候决定、种族本质和帝国收藏视角会扭曲跨文化设计解释"
+  ],
+  "does_not_support": [
+   "识别问题不能把全部材料一概作废"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0119",
+  "claim": "传主中心、工人中介、性别不均、归属推定和帝国视角均须进入审计",
+  "source_id": "B0091",
+  "source_location": "补成员自述、妇女家属、地方档案、来源社群和较新研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "biographical_worker_gender_attribution_and_empire_bias",
+  "supports": [
+   "传主中心、工人中介、性别不均、归属推定和帝国视角均须进入审计"
+  ],
+  "does_not_support": [
+   "Crawford公开局限不等于已消除这些偏差"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0120",
+  "claim": "实践者偏好、民族传统框架、欧美范围和文件残缺会系统影响叙事",
+  "source_id": "B0097",
+  "source_location": "补较新字体史、非拉丁传统、劳动史和完整图版",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "practitioner_preference_national_and_corpus_bias",
+  "supports": [
+   "实践者偏好、民族传统框架、欧美范围和文件残缺会系统影响叙事"
+  ],
+  "does_not_support": [
+   "识别偏差不能自动决定哪些字体判断错误"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0121",
+  "claim": "本科综述简化、欧美重心、市场民主化语言、殖民与性别不足须进入审计",
+  "source_id": "B0101",
+  "source_location": "补区域原档、劳动者、女性、殖民主体、环境和图版核验",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "survey_euroamerican_market_colonial_gender_and_image_bias",
+  "supports": [
+   "本科综述简化、欧美重心、市场民主化语言、殖民与性别不足须进入审计"
+  ],
+  "does_not_support": [
+   "作者承认多视角不等于覆盖已充分"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0122",
+  "claim": "证据偏差核心案例：达达反档案立场（偶发、反收藏）与史料留存悖论——“自我历史化冲动”自1916年Cabaret Voltaire期刊即开始，Huelsenbeck 1920年即出版两部运动史，战后回忆录再塑叙事；博物馆展示达达的讽刺性被导论坦承",
+  "source_id": "B0121",
+  "source_location": "clean行709、1059、827",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "dada_anti_archive_and_self_historicizing_paradox",
+  "supports": [
+   "证据偏差核心案例：达达反档案立场（偶发、反收藏）与史料留存悖论——“自我历史化冲动”自1916年Cabaret Volt"
+  ],
+  "does_not_support": [
+   "自我历史化叙事本身是行动者话语（P0）：回忆录存在年代失真与相互矛盾；“史料留存悖论”须与达达的自我记录行为并置陈述，不可只取反档案一面"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0123",
+  "claim": "作者政治承诺、莫里斯中心、家庭／女性／工人缺口和1955／1976层次须进入审计",
+  "source_id": "B0133",
+  "source_location": "补企业史、劳动史、女性与家庭材料及不同版本对照",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "author_commitment_morris_center_gender_worker_and_version_bias",
+  "supports": [
+   "作者政治承诺、莫里斯中心、家庭／女性／工人缺口和1955／1976层次须进入审计"
+  ],
+  "does_not_support": [
+   "作者自我反思不消除这些限制"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0124",
+  "claim": "Whitford对回忆录分级使用（Muche/Schreyer不可靠、Nina Kandinsky稍可靠），以STAW/BA档案为事实骨架、报刊为外部舆论",
+  "source_id": "B0158",
+  "source_location": "packet整体分析报告L022—L027",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evidence_hierarchy_method",
+  "supports": [
+   "Whitford对回忆录分级使用（Muche/Schreyer不可靠、Nina Kandinsky稍可靠），以STAW/"
+  ],
+  "does_not_support": [
+   "其史料批判方法本身可直接引用；重复组共享档案只计一份P0"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0125",
+  "claim": "现代主义目的论、国别本质化、女性／殖民缺口与反机器简化须进入审计",
+  "source_id": "B0168",
+  "source_location": "补企业史、性别史、殖民史、区域史与技术史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "teleology_national_gender_colonial_and_machine_bias",
+  "supports": [
+   "现代主义目的论、国别本质化、女性／殖民缺口与反机器简化须进入审计"
+  ],
+  "does_not_support": [
+   "批判偏差不能替代新的地区和劳动证据"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0126",
+  "claim": "公司与殖民档案会放大商人管理视角并压低工匠、被奴役者、妇女和普通消费者声音",
+  "source_id": "B0169",
+  "source_location": "补劳动者叙述、种植园账簿、家庭清单、司法和地方档案",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "company_archive_slave_labor_and_audience_bias",
+  "supports": [
+   "公司与殖民档案会放大商人管理视角并压低工匠、被奴役者、妇女和普通消费者声音"
+  ],
+  "does_not_support": [
+   "从档案缺席恢复主体仍须独立主体材料"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0127",
+  "claim": "英国制度中心、工人中介、性别不均、印度偏重和形式分析不足须进入审计",
+  "source_id": "B0175",
+  "source_location": "补女性、家庭劳动、殖民地生产者、对象和地方研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "british_institution_worker_gender_empire_and_object_bias",
+  "supports": [
+   "英国制度中心、工人中介、性别不均、印度偏重和形式分析不足须进入审计"
+  ],
+  "does_not_support": [
+   "偏差审计不能替代缺失的地区与主体材料"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0128",
+  "claim": "自传体文本含自我辩护与自我推销成分：成功案例详述、19则失败轶事以幽默降调处理（'Comfort Station Attendants will be followed by the Industrial Designers'）、1955年预言自评'过于保守'",
+  "source_id": "B0186",
+  "source_location": "第4、15章分析报告；clean第1978—2019行（失败轶事）、2402—2420行（重估）",
+  "source_class": "P0",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "self_justification_bias",
+  "supports": [
+   "自传体文本含自我辩护与自我推销成分：成功案例详述、19则失败轶事以幽默降调处理（'Comfort Station Att"
+  ],
+  "does_not_support": [
+   "偏差属性本身即证据边界，引用时须标注行动者立场（P0）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0129",
+  "claim": "“先驱”谱系框架含目的论与伟人史观偏差：英美与女性先驱缺位、政治维度淡化、“英雄时期”密度不均，须在教材使用时标注框架属性",
+  "source_id": "B0187",
+  "source_location": "clean第1023—1033行（奇肖尔德法典化批判与“皈依”叙事）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evidence_bias_teleological_canon",
+  "supports": [
+   "“先驱”谱系框架含目的论与伟人史观偏差：英美与女性先驱缺位、政治维度淡化、“英雄时期”密度不均，须在教材使用时标注框架属"
+  ],
+  "does_not_support": [
+   "叙事偏斜系作者立场与方法论选择所致；知识涌现分析揭示的“英雄叙事的拓扑必然性”为P4推演，仅作语义路由"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0130",
+  "claim": "必须区分海报运动的目标与结果：海报是“爱国行为的建议论证”，不是观众已接受这些论证的证据；志愿招募下降与1916年征兵制即为反证",
+  "source_id": "B0199",
+  "source_location": "clean 339、2587（proposed arguments）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "propaganda_goal_vs_result",
+  "supports": [
+   "必须区分海报运动的目标与结果：海报是“爱国行为的建议论证”，不是观众已接受这些论证的证据；志愿招募下降与1916年征兵制"
+  ],
+  "does_not_support": [
+   "核心证据边界：组织者意图（可证）≠观众接受（不可单独由海报证）；此条在绪论与第10章正文双重出现"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0131",
+  "claim": "海报像Marchand所谓“扭曲的镜子”（Zerrspeigel）：折射公众愿望而非现实、美化与省略战争暴力；恰因此成为“人们如何想象战争”的证据，而非战争实况的记录",
+  "source_id": "B0199",
+  "source_location": "clean 377（Zerrspeigel）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "poster_distorting_mirror_evidence",
+  "supports": [
+   "海报像Marchand所谓“扭曲的镜子”（Zerrspeigel）：折射公众愿望而非现实、美化与省略战争暴力；恰因此成为"
+  ],
+  "does_not_support": [
+   "虚构化歪曲不使海报失去史料价值，但须按“愿望影像”读；“海报没有展示战争的人力代价”（绪论）即其后果"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0132",
+  "claim": "观众研究边界：USFA女性既是海报观众又是发行者、展示者、制作者（“双重生活”），是少见的接受侧证据；大多数海报的观众反应不可考，须承认证据缺口",
+  "source_id": "B0199",
+  "source_location": "clean 2368（Home Demonstration Agents）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "poster_audience_reception_limits",
+  "supports": [
+   "观众研究边界：USFA女性既是海报观众又是发行者、展示者、制作者（“双重生活”），是少见的接受侧证据；大多数海报的观众反"
+  ],
+  "does_not_support": [
+   "USFA回信与报告可证女性参与实践；“3500多人参观”类数字来自组织者自报，属宣传档案而非独立测量"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0133",
+  "claim": "材料分层（企业档案、设计师自述、媒体文本、口头历史交叉验证）与四重偏差自我暴露（图像中心、纽约中心、男性中心、精英中心）",
+  "source_id": "B0206",
+  "source_location": "packet第二版序言及整体报告八、九节",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evidence_hierarchy_bias",
+  "supports": [
+   "材料分层（企业档案、设计师自述、媒体文本、口头历史交叉验证）与四重偏差自我暴露（图像中心、纽约中心、男性中心、精英中心）"
+  ],
+  "does_not_support": [
+   "第二版序言元反思为作者自我声明，构成证据偏差的权威说明"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0134",
+  "claim": "殖民地普通使用者（消费者、被奴役者）从欧洲档案中消失的机制：物质—种族分类学遮蔽、“空白石板”话语、西方凝视替代本地声音",
+  "source_id": "B0209",
+  "source_location": "回查clean第1549行blank slate与第1993—2016行semi-civilized",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "archival_absences_of_colonial_consumers",
+  "supports": [
+   "殖民地普通使用者（消费者、被奴役者）从欧洲档案中消失的机制：物质—种族分类学遮蔽、“空白石板”话语、西方凝视替代本地声音"
+  ],
+  "does_not_support": [
+   "对“遮蔽机制”的说明是作者命题，档案本身不能直接证明东非人的自我理解"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0135",
+  "claim": "作者显性自认叙述倾向共产党/大陆视角、口述史“有陷阱不能讲述全部故事”，受访者以大陆从业者为主",
+  "source_id": "B0219",
+  "source_location": "核对clean L102–L103附近及第四章分析报告口述段",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "oral_history_evidence_bias",
+  "supports": [
+   "作者显性自认叙述倾向共产党/大陆视角、口述史“有陷阱不能讲述全部故事”，受访者以大陆从业者为主"
+  ],
+  "does_not_support": [
+   "偏差已由作者声明并试图以批判性评估与并置异见弥补；国民党视角与港台独立发展仍缺失"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0136",
+  "claim": "脱离生产和使用语境的博物馆陈列会把对象建构成自主形式并遮蔽匿名协作",
+  "source_id": "B0225",
+  "source_location": "补来源、劳动、使用、征集和沉默主体材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "museum_formalism_and_context_bias",
+  "supports": [
+   "脱离生产和使用语境的博物馆陈列会把对象建构成自主形式并遮蔽匿名协作"
+  ],
+  "does_not_support": [
+   "批判方法本身并未充分恢复女性殖民与被奴役劳动者"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0137",
+  "claim": "企业档案史实（财务、诉讼、重组日期）与作者叙述框架、当事人后代口述（Primavesi之女“只想让艺术家做想做的事”）必须分层使用",
+  "source_id": "B0247",
+  "source_location": "clean第794行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "archive_oral_history_layering",
+  "supports": [
+   "企业档案史实（财务、诉讼、重组日期）与作者叙述框架、当事人后代口述（Primavesi之女“只想让艺术家做想做的事”）必"
+  ],
+  "does_not_support": [
+   "口述回忆带利害立场（如Primavesi亲属雇用问题），档案事实优先"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0138",
+  "claim": "工坊设立与产品生产不自动证明市场成功或审美改善——1906年诉讼、1909年止赎、1913年150万克朗负债、1926年破产构成反向证据链",
+  "source_id": "B0247",
+  "source_location": "clean第749—752行、第763—764行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "production_vs_success_guard",
+  "supports": [
+   "工坊设立与产品生产不自动证明市场成功或审美改善——1906年诉讼、1909年止赎、1913年150万克朗负债、1926年"
+  ],
+  "does_not_support": [
+   "本书经济史叙述即为此校准器，引用成功叙事时必须并置财务危机史实"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0139",
+  "claim": "英格兰例外主义、模仿窄化、强因果、阶级损益、性别与殖民缺口须进入审计",
+  "source_id": "B0305",
+  "source_location": "补比较消费史、殖民史、劳动史、性别史和消费者材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "england_first_emulation_causality_class_gender_and_colonial_bias",
+  "supports": [
+   "英格兰例外主义、模仿窄化、强因果、阶级损益、性别与殖民缺口须进入审计"
+  ],
+  "does_not_support": [
+   "后续批评和本书内部反例均需实证定位"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0140",
+  "claim": "中世纪浪漫化、男性工匠默认、英国视角和二元劳动分类构成系统性偏差",
+  "source_id": "B0318",
+  "source_location": "补行会档案、女性家庭劳动、殖民生产者和机器工人材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "romantic_medieval_gender_colonial_and_binary_bias",
+  "supports": [
+   "中世纪浪漫化、男性工匠默认、英国视角和二元劳动分类构成系统性偏差"
+  ],
+  "does_not_support": [
+   "偏差识别不能代替被忽略主体的材料"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0141",
+  "claim": "展览选物、名家、城市、欧美、性别与殖民来源偏差须显式审计",
+  "source_id": "B0338",
+  "source_location": "补普通物、劳动、女性生产者、殖民网络和来源社会材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "curatorial_masterpiece_city_gender_colonial_and_survival_bias",
+  "supports": [
+   "展览选物、名家、城市、欧美、性别与殖民来源偏差须显式审计"
+  ],
+  "does_not_support": [
+   "专章触及女性／东方不等于生产者和殖民权力缺口已补足"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0142",
+  "claim": "三国中心、观众接受断点、殖民主体能动性缺失和1914分期均需进入审计",
+  "source_id": "B0339",
+  "source_location": "补区域研究、观众记录、来源社群与较新博览会史",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "three_country_audience_agency_and_period_bias",
+  "supports": [
+   "三国中心、观众接受断点、殖民主体能动性缺失和1914分期均需进入审计"
+  ],
+  "does_not_support": [
+   "作者自陈或报告识别缺口不等于补足"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0143",
+  "claim": "Oud从未任鹿特丹市建筑师——通行说法错误之纠正",
+  "source_id": "B0342",
+  "source_location": "clean L701",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "oud_correction",
+  "supports": [
+   "Oud从未任鹿特丹市建筑师——通行说法错误之纠正"
+  ],
+  "does_not_support": [
+   "档案修正成说（Oud档案）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0144",
+  "claim": "Aubette并非纳粹毁坏——早在1930年已被大改",
+  "source_id": "B0342",
+  "source_location": "clean L1333",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "aubette_correction",
+  "supports": [
+   "Aubette并非纳粹毁坏——早在1930年已被大改"
+  ],
+  "does_not_support": [
+   "档案修正成说"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0145",
+  "claim": "复制即生产：风格派生产自始高度依赖复制（杂志插图、展览、修复、重建、商品化、历史写作），「reproduction is elided into production」",
+  "source_id": "B0342",
+  "source_location": "clean L1440-1467",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "reproduction_elided_production",
+  "supports": [
+   "复制即生产：风格派生产自始高度依赖复制（杂志插图、展览、修复、重建、商品化、历史写作），「reproduction is"
+  ],
+  "does_not_support": [
+   "Overy理论框架（末章），行动者文本与作者理论化表述分层"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0146",
+  "claim": "名人中心、档案保存者偏差、工人／女性缺口和英语世界重心须进入审计",
+  "source_id": "B0348",
+  "source_location": "补工人、女性、外包者、顾客与非英语接受材料",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "morris_cockerell_worker_gender_archive_and_anglophone_bias",
+  "supports": [
+   "名人中心、档案保存者偏差、工人／女性缺口和英语世界重心须进入审计"
+  ],
+  "does_not_support": [
+   "材料丰富不等于主体覆盖完整"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0147",
+  "claim": "宗教目的论、民族／地理本质化、工人证据缺口和数字本残损须进入审计",
+  "source_id": "B0383",
+  "source_location": "补同时代反对意见、劳动档案、地区研究与完整版本",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "religious_teleology_racialized_geography_worker_and_ocr_bias",
+  "supports": [
+   "宗教目的论、民族／地理本质化、工人证据缺口和数字本残损须进入审计"
+  ],
+  "does_not_support": [
+   "指出偏见不等于否定其历史影响，也不等于接受其结论"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0148",
+  "claim": "本书整体提供设计史书写的自我审计工具包：范畴发明、叙事建构、博物馆制度批判、品牌政治——可直接服务0.6证据偏差与史学方法教学",
+  "source_id": "B0388",
+  "source_location": "clean第213行及全章",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "historiographical_self_audit_method",
+  "supports": [
+   "本书整体提供设计史书写的自我审计工具包：范畴发明、叙事建构、博物馆制度批判、品牌政治——可直接服务0.6证据偏差与史学方"
+  ],
+  "does_not_support": [
+   "方法论命题为作者框架；各章为独立署名论文"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0149",
+  "claim": "证据偏差：美欧统计数据丰瘠对照；ICC以“客观与分析式攻击”用数字制造“市场”表面；欧洲统计偏见——法国重农倾向统计谷物价格与出口、德国为保护Mittelstand统计零售商、豁免资产阶级而深挖工人家庭预算",
+  "source_id": "B0409",
+  "source_location": "clean L27-28；L34-35",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evidence_bias_icc_statistics",
+  "supports": [
+   "证据偏差：美欧统计数据丰瘠对照；ICC以“客观与分析式攻击”用数字制造“市场”表面；欧洲统计偏见——法国重农倾向统计谷物"
+  ],
+  "does_not_support": [
+   "数据来源单一（ICC与官方统计）；作者自承欧洲数据稀薄，部分份额数字系估算"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0150",
+  "claim": "文集层面：美欧比较与“选择性接受—变形”框架为编者建构，多作者各章立场不一；clean仅含de Grazia单章，不得将文集主旨等同于单章结论",
+  "source_id": "B0409",
+  "source_location": "packet：Ch01说明（L548）；整体报告L161",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "anthology_framework_bias",
+  "supports": [
+   "文集层面：美欧比较与“选择性接受—变形”框架为编者建构，多作者各章立场不一；clean仅含de Grazia单章，不得将"
+  ],
+  "does_not_support": [
+   "单章报告与整体报告并存，须以“文件标题即证据边界”处理"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0151",
+  "claim": "博物馆分类与艺术话语把殖民地生产者匿名化（“没有真实的人做了这只罐，它是这个种族做的”），档案缺席使工匠、妇女与使用者难以被听见，微观档案（人口普查、教区记录、日记）只能片段性恢复",
+  "source_id": "B0427",
+  "source_location": "回查clean L586（Clunas论陶工匿名）、L1455-1457（妇女藏ridgepole、多数沉默）、L903-937（Bentzon档案重建）",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "evidence_bias_absent_makers",
+  "supports": [
+   "博物馆分类与艺术话语把殖民地生产者匿名化（“没有真实的人做了这只罐，它是这个种族做的”），档案缺席使工匠、妇女与使用者难"
+  ],
+  "does_not_support": [
+   "缺席与沉默本身也是证据，恢复不可过度推断（Bentzon生平终点1850年后即无踪迹）"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0152",
+  "claim": "展览佳品、欧美范围、国别不均、女性／劳动／阶级与殖民缺口须进入审计",
+  "source_id": "B0450",
+  "source_location": "补普通物、工人、工资、殖民网络、非欧美区域和使用者",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "curatorial_regional_gender_class_labour_and_colonial_bias",
+  "supports": [
+   "展览佳品、欧美范围、国别不均、女性／劳动／阶级与殖民缺口须进入审计"
+  ],
+  "does_not_support": [
+   "女性和家庭工业案例存在不等于结构性缺席被解决"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0153",
+  "claim": "被展示的殖民地生产者与表演者（肚皮舞者、工匠、土著村落居民）作为奇观在场却无自身记录，其声音在史料中缺席，作者自认穆斯林一方记录占比有限",
+  "source_id": "B0463",
+  "source_location": "回查clean第399—408、591—598行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.6"
+  ],
+  "textbook_function": "displayed_absent_producers",
+  "supports": [
+   "被展示的殖民地生产者与表演者（肚皮舞者、工匠、土著村落居民）作为奇观在场却无自身记录，其声音在史料中缺席，作者自认穆斯林"
+  ],
+  "does_not_support": [
+   "缺席判断基于史料构成（官方/报刊/游记为主）；被展示者态度多靠间接推断"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0154",
+  "claim": "连接、比较和对象可构成全球设计史的互补路径，地方不是被动终点",
+  "source_id": "B0005",
+  "source_location": "逐案例补接触、委托、制作、流通与使用链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "connections_comparisons_objects",
+  "supports": [
+   "连接、比较和对象可构成全球设计史的互补路径，地方不是被动终点"
+  ],
+  "does_not_support": [
+   "不能把跨境接触自动写成对等交流或直接影响"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0155",
+  "claim": "地方纺织对象可连接跨撒哈拉、大西洋、印度洋和化学工业网络",
+  "source_id": "B0086",
+  "source_location": "建立接触、选择、制作、交易和使用链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "local_objects_and_global_networks",
+  "supports": [
+   "地方纺织对象可连接跨撒哈拉、大西洋、印度洋和化学工业网络"
+  ],
+  "does_not_support": [
+   "连接不等于单向传播或同质全球化"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0156",
+  "claim": "瓷器可连接中国、伊斯兰世界、东亚、欧洲和海洋贸易中的技术与文化转译",
+  "source_id": "B0154",
+  "source_location": "建立原料委托制作贸易使用仿制和替代链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "porcelain_connected_world_history",
+  "supports": [
+   "瓷器可连接中国、伊斯兰世界、东亚、欧洲和海洋贸易中的技术与文化转译"
+  ],
+  "does_not_support": [
+   "连接与模仿不是无权力差异的对称交流"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0157",
+  "claim": "全球棉花史必须同时书写知识转移、商品流通、殖民权力与奴隶劳动",
+  "source_id": "B0169",
+  "source_location": "建立订货生产运输销售使用与强制制度链",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "cotton_as_connected_and_coercive_global_history",
+  "supports": [
+   "全球棉花史必须同时书写知识转移、商品流通、殖民权力与奴隶劳动"
+  ],
+  "does_not_support": [
+   "连接史不能把不平等交换美化为互惠交流"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0158",
+  "claim": "印度棉布千年贸易是“流动与转译”模型的实证：同一商品经贸易网络在不同接受社会中被选择、误读、翻译与再生产，而非单向“影响”",
+  "source_id": "B0181",
+  "source_location": "回查clean第586—587、676、749、982—984行",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "trade_network_translation_model",
+  "supports": [
+   "印度棉布千年贸易是“流动与转译”模型的实证：同一商品经贸易网络在不同接受社会中被选择、误读、翻译与再生产，而非单向“影响"
+  ],
+  "does_not_support": [
+   "Pires“Cambay双臂”整合体系与各市场差异化接收均为原著命题；六市场类型光谱为P4归纳，引用时需标注"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0159",
+  "claim": "全球史须结合对称区域比较与跨区域资源关系",
+  "source_id": "B0259",
+  "source_location": "与商品史、殖民档案和区域史互证",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "reciprocal_and_encompassing_global_history",
+  "supports": [
+   "全球史须结合对称区域比较与跨区域资源关系"
+  ],
+  "does_not_support": [
+   "关系史不能消除殖民暴力或地方差异"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0160",
+  "claim": "全球史可在英国印度、欧洲内部、欧亚与帝国尺度间检验不同机制",
+  "source_id": "B0334",
+  "source_location": "公开比较单位、来源与外推边界",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "multiscalar_global_comparison",
+  "supports": [
+   "全球史可在英国印度、欧洲内部、欧亚与帝国尺度间检验不同机制"
+  ],
+  "does_not_support": [
+   "尺度切换不能掩盖材料不对称和地区异质性"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0161",
+  "claim": "国际传播由多中心、商业中介、城市制度与地方资源共同改写",
+  "source_id": "B0338",
+  "source_location": "补东亚、殖民地、拉美、非洲及不对称流通研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "multi_center_local_adaptation_with_asymmetric_networks",
+  "supports": [
+   "国际传播由多中心、商业中介、城市制度与地方资源共同改写"
+  ],
+  "does_not_support": [
+   "仍以欧美城市为主，不能据此声称全球覆盖或对等交流"
+  ],
+  "status": "candidate"
+ },
+ {
+  "evidence_id": "EV-C0162",
+  "claim": "出版、展览、旅行、商业与国家中介使英国资源在各地被选择性重组",
+  "source_id": "B0450",
+  "source_location": "补反向流动、无英国中介路径和非欧美研究",
+  "source_class": "P1",
+  "verification_level": "V2",
+  "section_ids": [
+   "0.7"
+  ],
+  "textbook_function": "selective_reception_translation_and_asymmetric_network",
+  "supports": [
+   "出版、展览、旅行、商业与国家中介使英国资源在各地被选择性重组"
+  ],
+  "does_not_support": [
+   "仍由英国来源组织横轴，不能直接推广为全球互惠网络"
+  ],
+  "status": "candidate"
+ }
+]

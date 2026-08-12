@@ -1,0 +1,476 @@
+{
+ "8.1": {
+  "grades": {
+   "X": 1,
+   "C": 2,
+   "A": 1,
+   "B": 4
+  },
+  "count": 8,
+  "items": [
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "A",
+    "verification": "V2",
+    "role": "pioneer_palace_children_space",
+    "accepted_claim": "莫斯科先锋宫（1958—62）以\"儿童共和国\"理念取代斯大林式纪念碑性建筑；赫鲁晓夫1962年6月1日剪彩——社会主义公共系统与儿童空间的制度个案",
+    "evidence_boundary": "建筑档案（PPA、RGALI）充分；\"儿童共和国\"理念成效无独立验证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "everyday_ideological_tension",
+    "accepted_claim": "社会主义空间中意识形态铭刻与日常漠视的张力：国家战略（strategy）与民间战术（tactic）持续博弈，空间并非国家意志单向投射",
+    "evidence_boundary": "导论理论框架；以Bulatov画作为例证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0100",
+    "title": "David Crowley：《Warsaw》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "socialist_consumption_promise",
+    "accepted_claim": "解冻时期\"社会主义消费\"许诺：现代商店（Supersam）、霓虹灯景观与消费的道德化批判转向；1952年\"Oto Ameryka\"冷战宣传展意外受欢迎",
+    "evidence_boundary": "消费许诺为官方话语；实际供应与短缺以1980年代排队为证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0166",
+    "title": "George, Kenneth M.; Nordholt, Henk Schulte：《Outward Appearances Dressing State and Society in Indonesia》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernity_wore_shoes",
+    "accepted_claim": "现代性穿鞋而来：外观（服饰、制服、家电、飞利浦广告、钟表）作为现代性在印尼的物质化痕迹——生活方式竞争的东南亚侧",
+    "evidence_boundary": "核心隐喻为编者框架；物质个案（飞利浦广告等）可证供给与再现",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "P0062",
+    "title": "Susan E. Reid：《Repenser le Dégel： Versions du socialisme, influences internationales et société soviétique》，2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "art_into_life_exhibition",
+    "accepted_claim": "1961年莫斯科\"Art into Life!\"（Iskusstvo — v byt!）住宅陈设展览及留言簿：专家趣味规划与观众反应的互动证据",
+    "evidence_boundary": "展览留言簿为\"声音的证据\"；观众反应样本有限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0292",
+    "title": "Margolin：《World history of design》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "total_war_mobilization_design",
+    "accepted_claim": "二战设计的全面军事化动员（第37章）：宣传、生产与视觉动员的国家体系——冷战生活方式竞争的前史",
+    "evidence_boundary": "时段边界1945年前；动员成效无接受侧证据",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0339",
+    "title": "Paul Greenhalgh：《Ephemeral Vistas The Expositions Universelles, Great Exhibition",
+    "grade": "C",
+    "verification": "V2",
+    "role": "interwar_national_pavilions_before_cold_war",
+    "accepted_claim": "1937年前后的国家馆对峙可作为战后冷战展览竞争的前史",
+    "evidence_boundary": "止于1939年，不能证明冷战制度、观众或生活方式传播",
+    "status": "CONTEXT_ONLY_AS_PREHISTORY"
+   },
+   {
+    "source_id": "B0209",
+    "title": "Jeremy Prestholdt：《Domesticating the World African Consumerism and the Genealogies of Globalization》",
+    "grade": "X",
+    "verification": "V2",
+    "role": "cold_war_design_mismatch",
+    "accepted_claim": "冷战/社会主义设计章节时段与主题均不符（本书为19世纪前殖民至殖民转折），仅结论讨论殖民主义改变全球关系条件，不承担冷战教学",
+    "evidence_boundary": "排除——时段与主题不符",
+    "status": "EXCLUDE_AS_PERIOD_MISMATCH"
+   }
+  ]
+ },
+ "8.2": {
+  "grades": {
+   "A": 6,
+   "B": 3
+  },
+  "count": 9,
+  "items": [
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "A",
+    "verification": "V2",
+    "role": "kommunalka_public_privacy",
+    "accepted_claim": "苏联公共公寓（коммуналка）中的\"公共隐私\"：个人生活被强制暴露于集体监控之下，居民通过去人格化与象征性边界维护私人领域；1931年列宁格勒人均居住面积6.7平方米、1989年公共公寓居民仍占全市23.8%",
+    "evidence_boundary": "基于1996—1999年圣彼得堡38次深度访谈与参与观察；个案样本有限，不可外推全苏联",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "A",
+    "verification": "V2",
+    "role": "dacha_private_publicness",
+    "accepted_claim": "苏联dacha（乡间别墅）催生\"私人公共性\"：私人财产却形成独立于党—国机构的社群形态与互助网络；dacha激发私有财产冲动与\"庄园主\"意识，与集体主义理想背道而驰",
+    "evidence_boundary": "档案+访谈证据充分；\"背道而驰\"为作者解释命题",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "A",
+    "verification": "V2",
+    "role": "chata_privatized_citizenship",
+    "accepted_claim": "捷克chata文化培育\"私人化的公民身份\"：政权容忍甚至鼓励私人周末别墅以换取政治消极顺从（\"拥有自己房子的人没有时间当共产党\"）；同时chata建造催生对国家财产的系统性偷窃与时间盗用",
+    "evidence_boundary": "个案分析（1970s正常化时期）；美国郊区类比为作者引证",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0100",
+    "title": "David Crowley：《Warsaw》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "warsaw_home_life_socialism",
+    "accepted_claim": "华沙家居生活：从斯大林时期标准公寓乌托邦、解冻期《Ty i Ja》杂志\"家居即品味\"话语，到1970年代预制板高层住宅（Ursynów）的社会疏离——社会主义住房承诺的物质史",
+    "evidence_boundary": "城市文化史个案；家居体验（如Kieślowski《十诫》影像）为文化表征非直接史料",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0062",
+    "title": "Susan E. Reid：《Repenser le Dégel： Versions du socialisme, influences internationales et société soviétique》，2005",
+    "grade": "A",
+    "verification": "V2",
+    "role": "khrushchev_modern_housing",
+    "accepted_claim": "赫鲁晓夫时代大众住房运动与\"当代风格\"室内设计：工业化预制住房、理性现代主义美学与大众消费构成\"Khrushchev Modern\"——斯大林之后一种\"伟大而不均衡\"的社会主义现代性形态",
+    "evidence_boundary": "作者自创概念（2006）；住房运动史实可证；\"不均衡占用\"为作者解释",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "P0062",
+    "title": "Susan E. Reid：《Repenser le Dégel： Versions du socialisme, influences internationales et société soviétique》，2005",
+    "grade": "A",
+    "verification": "V2",
+    "role": "expert_homemaker_negotiation",
+    "accepted_claim": "苏联住宅是专家规划与持家者日常\"战术\"协商的产物：\"修理文化\"预设任何新购商品都需使用者修补劳动；uiut（舒适）被社会化为反小市民的功能性舒适",
+    "evidence_boundary": "访谈项目未完成、Torshilova调查仅一栋楼不可推广（作者自陈限度）",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "warsaw_interiors_private_spaces",
+    "accepted_claim": "华沙公寓室内：斯大林时期\"私人\"被压抑，解冻时期通过《Ty i Ja》等杂志公开\"为私人发声\"；M2/M3标准公寓为社会主义标准化住宅个案",
+    "evidence_boundary": "杂志文本与图像分析；与B0100共享华沙室内对象只计一份P0",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "shortage_economy_appropriation",
+    "accepted_claim": "短缺经济下的使用者改造：非法建筑材料、物品\"二次生命\"、DIY与家庭手工构成社会主义日常的灰色经济",
+    "evidence_boundary": "多章个案证据；改造规模无全国统计",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0100",
+    "title": "David Crowley：《Warsaw》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "mdm_consumer_space_lifecycle",
+    "accepted_claim": "宪法广场MDM的完整生命周期：社会主义示范消费空间→1990年代街头市场无序占领→新千年\"文明化\"整治——社会主义消费空间与后社会主义转型",
+    "evidence_boundary": "单个广场个案；\"文明化\"话语与斯大林时期\"kulturalny\"要求的平行为作者提示",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "8.3": {
+  "grades": {
+   "B": 11,
+   "C": 2
+  },
+  "count": 13,
+  "items": [
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "sevastopol_local_vs_central",
+    "accepted_claim": "塞瓦斯托波尔战后重建：地方海军势力以帝俄海军传统对抗莫斯科中央规划，\"调和\"优先于\"鼓动\"——社会主义现代主义内部的地方—中央张力",
+    "evidence_boundary": "档案研究（RGAE、GAGS、GA RF）充分；个案不代表全苏",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "B",
+    "verification": "V2",
+    "role": "monument_politics_hungary",
+    "accepted_claim": "匈牙利斯大林时期纪念碑雕塑：雕像的竖立与拆除（1951—1956）构成历史叙事的物质性改写，公共空间成为政治争夺场",
+    "evidence_boundary": "政治局会议记录与1956年口述史档案充分",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0100",
+    "title": "David Crowley：《Warsaw》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "reconstruction_political_narrative",
+    "accepted_claim": "华沙重建的政治化：老城选择17—18世纪巴洛克外观抹去19世纪俄国统治痕迹；科学文化宫作为苏联帝国象征——重建是历史叙事争夺战",
+    "evidence_boundary": "建筑史实可证；\"意识形态干预\"为作者解释",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0100",
+    "title": "David Crowley：《Warsaw》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "monument_social_memory",
+    "accepted_claim": "纪念碑作为党—国与市民社会争夺历史叙事的战场：皇家城堡争议性重建、华沙起义纪念碑之争、1980年代临时纪念碑（鲜花十字架）作为\"反记忆\"实践",
+    "evidence_boundary": "个案证据充分；社会记忆概念为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0266",
+    "title": "Landsberger：《Chinese propaganda posters from revolution to modernization》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "confucian_leninism_propaganda",
+    "accepted_claim": "儒家列宁主义（Confucian Leninism）：中共宣传机器是儒家角色示范、列宁主义先锋队教育与苏联宣传技术的嫁接——社会主义宣传机制的中国侧制度分析",
+    "evidence_boundary": "理论框架借自Pye；宣传效果不可测（作者自认无受众数据）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0292",
+    "title": "Margolin：《World history of design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "soviet_design_experiment_prehistory",
+    "accepted_claim": "苏联设计实验（1905—1928）：革命宣传多媒介体系（海报、ROSTA窗口、宣传列车）、构成主义\"生产艺术\"、Vkhutemas教育实验与NEP商业广告——社会主义现代主义的前史",
+    "evidence_boundary": "时段边界1945年前，只承担8.3前史与对照功能；Vkhutemas仅约20名毕业生、纺织设计仅两打投产（作者数据）",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0292",
+    "title": "Margolin：《World history of design》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "authoritarian_state_design",
+    "accepted_claim": "极权国家设计（第27章：意/德/苏/葡）：国家美学工具化与制度约束——社会主义现代主义的对照系",
+    "evidence_boundary": "综合叙述依赖英文二手研究；\"政治决定论\"倾向为作者方法局限",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0366",
+    "title": "Richard Stites：《Revolutionary Dreams Utopian Vision and Experimental Life in the Russian Revolution》，1989",
+    "grade": "B",
+    "verification": "V2",
+    "role": "utopian_experiment_soviet",
+    "accepted_claim": "俄国革命的\"生活革命\"（byt revolution）：机器崇拜、泰勒主义、住宅公社（dom-kommuna）、城市主义争论与革命节庆（1917—1931）——苏联社会主义现代主义的乌托邦根源",
+    "evidence_boundary": "时段边界1931年前；作者自陈未用档案，个别数字依赖估算",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0366",
+    "title": "Richard Stites：《Revolutionary Dreams Utopian Vision and Experimental Life in the Russian Revolution》，1989",
+    "grade": "B",
+    "verification": "V2",
+    "role": "fantasy_state_stalinism",
+    "accepted_claim": "斯大林主义\"幻想国家\"对乌托邦实验的围剿（\"War on the Dreamers\"）：从列宁的\"容忍—游移\"到斯大林的\"全面围剿\"——社会主义现代主义的制度约束转折",
+    "evidence_boundary": "制度性转折为作者勾画；围剿过程的具体档案未核",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0427",
+    "title": "Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "soviet_decorative_art_domestication",
+    "accepted_claim": "苏联装饰艺术把中亚乌兹别克形象“驯化”为迷人家居图像，自然化中央对边缘的政治控制；苏联中亚虽非名义殖民地，却存在殖民权力失衡（中心以物表征边缘而非物来中心）",
+    "evidence_boundary": "Kettering基于瓷厂档案与图像分析，“观众被潜移默化”是政策制定者预期而非实测接受",
+    "status": "ACCEPTED_AS_KEY_SOURCE"
+   },
+   {
+    "source_id": "P0062",
+    "title": "Susan E. Reid：《Repenser le Dégel： Versions du socialisme, influences internationales et société soviétique》，2005",
+    "grade": "B",
+    "verification": "V2",
+    "role": "vniite_consumer_production",
+    "accepted_claim": "VNIITE（全苏技术美学研究所）与\"理性消费规范\"：消费者作为话语实体被建构为变革动力，其实际能动性受中央计划经济严格限制；VNIITE问卷14000份回复",
+    "evidence_boundary": "规范体系为官方话语；能动性限制为作者论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0099",
+    "title": "David Crowley, Susan E. Reid：《Socialist Spaces Sites of Everyday Life in the Eastern Bloc》，2002",
+    "grade": "C",
+    "verification": "V2",
+    "role": "expo92_soviet_pavilion_satire",
+    "accepted_claim": "塞维利亚Expo92苏联馆竞赛：拉脱维亚建筑师以农民棺材形态嵌入苏联主题，评审两次宣布无效后方案仍胜出——帝国末期空间符号的颠覆",
+    "evidence_boundary": "访谈与方案草图分析；个案讽刺性结局不可泛化",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0266",
+    "title": "Landsberger：《Chinese propaganda posters from revolution to modernization》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "propaganda_media_decline",
+    "accepted_claim": "宣传画作为媒介的衰亡：1984年后《中国出版年鉴》停止收录宣传画章节、新华书店政治印刷品消失、电子媒介替代——社会主义视觉动员的制度转型",
+    "evidence_boundary": "媒介衰亡为作者论证（1995年时点）；电视机普及等数据未独立核验",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "8.4": {
+  "grades": {
+   "C": 2,
+   "B": 1
+  },
+  "count": 3,
+  "items": [
+   {
+    "source_id": "B0166",
+    "title": "George, Kenneth M.; Nordholt, Henk Schulte：《Outward Appearances Dressing State and Society in Indonesia》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "national_image_production_indonesia",
+    "accepted_claim": "印尼国家形象的生产与管理：独立日庆典制服与公民整洁性展示（Sekimoto）、民族英雄认定程序（Schreiner）、潘查希拉萨克蒂纪念碑（Leclerc）——去殖民化后国家建设的视觉制度",
+    "evidence_boundary": "论文集个案（爪哇中心）；1940—1960年代覆盖薄弱（作者群自认）；国家形象\"生产\"为分析框架",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0281",
+    "title": "M. Havinden：《Colonialism and Development Britain and Its Tropical Colonies, 1850-1960》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "infrastructure_legacy",
+    "accepted_claim": "基础设施先行与工业化缺失：铁路、港口建设与初级产品出口锁定（可可、棕榈油、橡胶、锡）——去殖民化后公共建设的殖民遗产",
+    "evidence_boundary": "经济史证据；设计对象侧证据须另找",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0463",
+    "title": "Zeynep Çelik：《Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "twentieth_century_colonial_legacy",
+    "accepted_claim": "尾声追踪展示遗产至20世纪：1931殖民博览会、Fathy新Gourna、土耳其共和国展馆与头巾争议，与去殖民化/国家建设的教材主题仅边缘关联",
+    "evidence_boundary": "尾声为延伸论证，证据密度低于主体章节",
+    "status": "CONTEXT_ONLY"
+   }
+  ]
+ },
+ "8.5": {
+  "grades": {
+   "C": 2
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0082",
+    "title": "Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "postcolonial_state_identity",
+    "accepted_claim": "尾声passport photos显示身份识别技术从殖民监控（第1章指纹/测量）延续为后殖民国家官僚需要，“否定殖民遭遇”与“国家需要”在街头视觉空间并存",
+    "evidence_boundary": "尾声是约1000词的田野随笔，“后殖民视觉综合体”为作者隐喻性总结，缺乏制度史论证",
+    "status": "CONTEXT_ONLY"
+   },
+   {
+    "source_id": "B0281",
+    "title": "M. Havinden：《Colonialism and Development Britain and Its Tropical Colonies, 1850-1960》",
+    "grade": "C",
+    "verification": "V2",
+    "role": "dual_mandate_critique",
+    "accepted_claim": "双重托管（Lugard 1922）理念的局限性：话语主要服务英国经济与战略利益；约90%发展资金用于东非/中非铁路且多为贷款——南亚/非洲现代性的殖民约束",
+    "evidence_boundary": "政策分析；\"局限性\"判断为作者论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ },
+ "8.6": {
+  "grades": {
+   "C": 1,
+   "A": 1,
+   "B": 2
+  },
+  "count": 4,
+  "items": [
+   {
+    "source_id": "B0038",
+    "title": "Bauer, Arnold J：《Goods, power, history Latin Americas material culture》",
+    "grade": "A",
+    "verification": "V2",
+    "role": "civilizing_goods_latin_america",
+    "accepted_claim": "文明化物品（civilizing goods）概念：殖民与后殖民权力引入的物品（buena policía、强制摊派reparto、禁奢法）同时服务于经济利润与文化霸权——拉美现代化项目的物质文化基础",
+    "evidence_boundary": "作者核心概念（2001）；强制与自愿模仿的区分须以个案档案核验",
+    "status": "ACCEPTED_AS_CORE_SOURCE"
+   },
+   {
+    "source_id": "B0038",
+    "title": "Bauer, Arnold J：《Goods, power, history Latin Americas material culture》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "developing_goods_import_substitution",
+    "accepted_claim": "发展物品（1930—1970）：CEPAL\"向内发展\"（crecer hacia adentro）、进口替代工业化与民族主义互动；玉米磨坊、收音机、缝纫机渗入乡村底层——拉美发展主义设计语境",
+    "evidence_boundary": "政策语境与个案证据充分；\"民族饮食建构\"为作者论证",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0038",
+    "title": "Bauer, Arnold J：《Goods, power, history Latin Americas material culture》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "modernization_elite_self_alienation",
+    "accepted_claim": "现代化物品（1870—1920）：克里奥尔精英文化自我异化（extranjerización）——巴黎时装、法文菜单、英式西服成为拉美现代性的精英路径",
+    "evidence_boundary": "精英阶层个案（Carreño礼仪手册、belle époque）；大众侧证据须另找",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0102",
+    "title": "David Raizman：《History of Modern Design》，2023",
+    "grade": "C",
+    "verification": "V2",
+    "role": "latin_america_modernism_and_indigenous_design",
+    "accepted_claim": "GI IV（第三版新增）：拉丁美洲另类现代主义（墨西哥Barragán、巴西Brasília与热带木材家具）与前哥伦布及原住民设计传统（Navajo纺织、Pueblo陶器）被国际现代主义叙事忽略",
+    "evidence_boundary": "证据边界为clean第5215行起GI IV正文与P4分章报告；插章概述不能替代拉美专史",
+    "status": "ACCEPTED_AS_NEW_EDITION_CONTENT"
+   }
+  ]
+ },
+ "8.7": {
+  "grades": {
+   "B": 2
+  },
+  "count": 2,
+  "items": [
+   {
+    "source_id": "B0281",
+    "title": "M. Havinden：《Colonialism and Development Britain and Its Tropical Colonies, 1850-1960》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "colonial_development_policy",
+    "accepted_claim": "英国热带殖民地发展政策史（1850—1960）：Chamberlain\"建设性帝国主义\"（1895—1903）、1929年《殖民地发展法》、1940年《殖民地发展与福利法》——国际援助与殖民发展制度的前史",
+    "evidence_boundary": "经济史/政策史专著；史料偏向英国官方档案（作者自认），殖民地声音相对缺失",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   },
+   {
+    "source_id": "B0281",
+    "title": "M. Havinden：《Colonialism and Development Britain and Its Tropical Colonies, 1850-1960》",
+    "grade": "B",
+    "verification": "V2",
+    "role": "plan_execution_gap",
+    "accepted_claim": "计划—执行差距：殖民发展计划远超实地表现（坦噶尼喀花生计划失败、CDC/OFC战后项目）——发展项目的制度教训",
+    "evidence_boundary": "案例证据充分；\"差距\"评估为作者判断",
+    "status": "ACCEPTED_AS_SUPPORTING_SOURCE"
+   }
+  ]
+ }
+}
