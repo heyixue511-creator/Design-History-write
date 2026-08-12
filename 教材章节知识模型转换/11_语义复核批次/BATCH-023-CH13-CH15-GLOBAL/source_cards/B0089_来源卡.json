@@ -1,0 +1,36 @@
+{
+  "source_id": "B0089",
+  "corpus": "book",
+  "folder_name": "Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》",
+  "material_type": "晚明物质文化经典研究（品味/区隔）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 8, "report_characters": 20189}],
+  "report_structure": {"review_basis": "overall_and_all_chapter_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "6.1", "grade": "C", "verification": "V2", "role": "late_ming_taste_discourse"},
+    {"section_id": "2.7", "grade": "C", "verification": "V2", "role": "late_ming_transnational_flow"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "material_culture_method"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Craig Clunas（柯律格，牛津大学艺术史系教授，曾任V&A远东部策展人），《Superfluous Things: Material Culture and Social Status in Early Modern China》（1991，Polity Press），晚明（约1550-1644）物质文化与社会地位系统研究",
+    "核心论证：晚明是'物的世界'急剧膨胀的时代——白银大量流入、商品经济扩张、印刷出版繁荣使奢侈品种类/流通量/消费群体空前扩大；若文化上具社会区分功能的物品完全沦为商品，'富人'与'文化人'界限将不复存在——精英阶层发明'品味'（taste）的社会机制（《长物志》等指南文本将审美判断自然化、消费方式等级化）重建社会区隔",
+    "理论框架：Bourdieu'区隔'（Distinction）、Appadurai'商品的社会生命'、Douglas/Isherwood'商品作为符号系统'；以消费（而非生产）切入社会变迁",
+    "文本谱系：曹昭《格古要论》（1388）→高濂《遵生八笺》（1591）→屠隆《考盘余事》（1606，抄录高濂）→文震亨《长物志》（约1615-1620，主要依据屠隆）——'单一文本'的多次重传；1580-1640鉴赏文本出版高峰与'知识商品化'同步",
+    "《长物志》分类逻辑：非依物品本身而依物品间差异（'X为佳，Y次之'）；轴线：性别（'闺阁中物'）、地理（产地论优劣）、制作者姓氏（'有名工匠'——更像商标而非艺术签名）、材质/形制/纹饰/场合/季节精密匹配（'春冬用铜，秋夏用瓷'）",
+    "词汇社会学（卷七'器具'高频词）：雅/俗（标准本质上是社会性的而非视觉性的）、古/旧（'古'是道德/审美加持的品格标签而非时间标记）、用/玩、赏鉴/好事（米芾以来'赏鉴家'vs'好事者'——'耳食'）、古董（口语拟声词'破旧零碎'→商品流通状态标记）、趣（鉴赏文本中缺席）、奇/巧（'鬼工'贬抑）",
+    "古物市场：约40条1560-1620艺术交易价格记录——书法价格普遍高于绘画（王羲之《瞻近帖》2000两）；三维古物在高价区超过绘画；董其昌题跋对画价的可量化拉动；《富春山居图》1570-1669八次易手（平均12.5年一次）——'流动的高度浓缩资本'",
+    "消费焦虑：陆楫'奢能致富'论（1515-1552，比曼德维尔《蜜蜂的寓言》早一个半世纪）；明代礼制禁令自1521年后无实质更新（与西班牙1620年代仍在推行禁奢法对照）；西门庆书房作为文化符号与实质脱节的文学例证",
+    "限度/特征：以鉴赏文献为核心文本；理论化程度适中，案例翔实",
+    "clean原文存在；未完成全篇、版次、图版、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "第一章：鉴赏文献谱系与'单一文本'重传",
+    "第二章：《长物志》分类逻辑与性别/地理轴线",
+    "第三章：雅俗/古旧/赏鉴好事词汇学",
+    "第五章：约40条价格记录与《富春山居图》传记",
+    "第六章：陆楫'奢能致富'与礼制兴衰"
+  ]
+}

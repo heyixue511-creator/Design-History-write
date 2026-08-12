@@ -1,0 +1,35 @@
+{
+  "source_id": "P0047",
+  "corpus": "paper",
+  "folder_name": "Michael S. Kimmel, Eileen Boris, Alan Crawford：《The Arts and Crafts Movement Handmade Socialism or Elite Consumerism Art and Labor Ruskin, Morris, and the Craftsman Ideal…》",
+  "material_type": "工艺美术运动社会学书评综述",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Michael S. Kimmel, Eileen Boris, Alan Crawford：《The Arts and Crafts Movement Handmade Socialism or Elite Consumerism Art and Labor Ruskin, Morris, and the Craftsman Ideal…》_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 5231}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "2.3", "grade": "B", "verification": "V2", "role": "handmade_socialism_elite_consumerism"},
+    {"section_id": "9.1", "grade": "C", "verification": "V2", "role": "american_wing_depoliticization"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Michael S. Kimmel（SUNY Stony Brook），书评综述《The Arts and Crafts Movement: Handmade Socialism or Elite Consumerism?》，Contemporary Sociology 16(3)（1987年5月，pp.388-390，美国社会学协会刊物）",
+    "体裁：社会学书评综述——借评介四部1983-1986年新著（Boris《Art and Labor》1986、Crawford《C. R. Ashbee》1986、Smith《Gustav Stickley》1983、Stansky《Redesigning the World》1985）回答'工艺美术运动是手工社会主义还是精英消费主义'",
+    "同源命题：社会学与Arts and Crafts运动同源于19世纪反现代主义批判（抨击劳动退化与机器工厂产品的粗劣）",
+    "分野命题：政治取向（是否链接社会主义议程）划分英国翼与美国翼——英国翼保留政治批判并产生对资本主义更持久的批判；美国翼丧失社会主义愿景、'客体崇拜取代劳动过程批判'，促成向消费文化的平滑过渡",
+    "矛盾命题：运动充满内在矛盾——浪漫化中世纪行会的生产者最终为中上层阶级消费者生产，助长他们试图逆转的过程；'从主张工人阶级权力到解决仆人问题的惊人跳跃'（L84）",
+    "关键概念：handmade socialism、elite consumerism、craftsman ideal、culture of production→culture of consumption、degradation of labor、medieval guild、cash nexus、instinct of workmanship（Veblen）、servant problem",
+    "方法：比较分析（英/美两翼）、引文镶嵌（Tocqueville/Marx与Ruskin/Morris并置）、历史语境化（1884年改革法案）、类比论证（1960年代激进派分裂、'设计师牛仔裤'）",
+    "限度：书评篇幅所限（约3页）、四部书着墨不均；'美国翼失败'归因未充分讨论反例；性别维度未展开",
+    "历史地位：提出'手工社会主义vs精英消费主义'经典二歧框架，为工艺美术运动的政治-消费二重性讨论提供分析坐标",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L32-34：同源命题（反现代主义批判）",
+    "L46-47：政治取向划分英/美翼",
+    "L69-86：美国翼去政治化与精英消费主义",
+    "L84：'仆人问题'的惊人跳跃",
+    "L85-86：英国翼持久批判vs美国翼消费文化过渡"
+  ]
+}

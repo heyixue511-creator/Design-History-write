@@ -1,0 +1,36 @@
+{
+  "source_id": "P0030",
+  "corpus": "paper",
+  "folder_name": "Foucault, Michel：Of Other Spaces：Utopias and Heterotopias, 1967",
+  "material_type": "空间理论经典（异托邦概念奠基）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Foucault, Michel：Of Other Spaces：Utopias and Heterotopias, 1967_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 3505}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.7", "grade": "B", "verification": "V2", "role": "heterotopia_six_principles"},
+    {"section_id": "11.4", "grade": "C", "verification": "V2", "role": "epoch_of_space_site"},
+    {"section_id": "2.6", "grade": "C", "verification": "V2", "role": "colony_compensation_heterotopia"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Michel Foucault，《Of Other Spaces: Utopias and Heterotopias》（'Des Espace Autres'，1967年3月面向建筑师演讲；1984年刊于Architecture/Mouvement/Continuité，英译Jay Miskowiec）",
+    "时代诊断：19世纪是'历史'的世纪（发展、危机、累积的过去），现时代是'空间'的纪元——同时性、并置、邻近与分散",
+    "空间概念史三段：中世纪'定位空间'（神圣/世俗场所等级）→伽利略无限'延展'→当代'场所'（site，由邻近关系定义）；空间虽经理论去神圣化、实践去神圣化尚未完成",
+    "异托邦（heterotopia）定义：真实存在的'反场所'（counter-site）——与一切场所相关却表征、对抗、颠倒它们；以镜子演示其乌托邦/异托邦双重性；提议'异托邦学'（heterotopology）",
+    "六条原则：①危机异托邦与偏离异托邦；②同一异托邦功能随历史变异（墓地案例）；③单一场所并置不相容空间（剧场、花园）；④异托邦与异时性（博物馆/图书馆累积时间 vs 市集/度假村节日时间）；⑤开启/关闭系统（兵营、监狱、hammam、巴西客房、汽车旅馆）；⑥幻觉（妓院）与补偿（殖民地）两极功能",
+    "收束：'船是异托邦的典范'——异托邦是文明想象力的物质条件",
+    "影响：建筑场所理论、城市研究、文化地理学（Soja'第三空间'）、后殖民研究、乌托邦研究的经典；空间-制度分析预示《规训与惩罚》的空间权力主题",
+    "对设计研究：提供分析博物馆存档、花园秩序、消费空间与规划空间如何编码社会秩序的概念工具",
+    "限度：演讲稿体例例证断言式；概念边界弹性过大（六原则缺乏严格逻辑独立性）；殖民地'完美补偿'论述未处理殖民暴力；'primitive societies'等表述带60年代话语局限",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L6-8：空间纪元诊断",
+    "L13-26：定位→延展→场所",
+    "L52-65：异托邦定义与镜子",
+    "L70-140：六原则",
+    "L141-143：船作为异托邦典范"
+  ]
+}

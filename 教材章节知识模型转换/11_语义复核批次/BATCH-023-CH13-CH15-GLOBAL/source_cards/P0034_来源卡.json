@@ -1,0 +1,35 @@
+{
+  "source_id": "P0034",
+  "corpus": "paper",
+  "folder_name": "Horst W. J. Rittel; Melvin M. Webber：《Dilemmas in a General Theory of Planning》",
+  "material_type": "规划理论经典论文（wicked problems 奠基）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-paper_clean\\Horst W. J. Rittel; Melvin M. Webber：《Dilemmas in a General Theory of Planning》_paged_clean.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 9, "report_characters": 4398}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.5", "grade": "B", "verification": "V2", "role": "wicked_problems_ten_attributes"},
+    {"section_id": "12.7", "grade": "C", "verification": "V2", "role": "pluralism_no_common_welfare"},
+    {"section_id": "C.0", "grade": "C", "verification": "V2", "role": "planning_as_argumentative_process"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Horst W. J. Rittel（UC Berkeley设计科学教授）& Melvin M. Webber（UC Berkeley城市规划教授），《Dilemmas in a General Theory of Planning》，Policy Sciences 4(2)（1973年6月，pp.155-169）",
+    "核心命题：为应对社会政策问题而寻找科学基础的努力注定失败——这类问题是'wicked'（棘手）问题，而科学是为'tame'（驯良）问题发展出来的",
+    "wicked problems十条属性：①无确定表述；②无停止规则；③非真非假；④无立即与最终检验；⑤一锤子买卖（无试错机会）；⑥无可枚举解集；⑦本质独特；⑧互为症状；⑨解释选择决定解决；⑩规划者无权犯错（与科学共同体的'假设可被反驳'豁免权相反）",
+    "'规划即论证过程'（argumentative process）：第二代系统方法——问题与解的形象在参与者间通过持续判断与批判性论证逐渐浮现",
+    "社会语境论证：多元社会中不存在统一的公共福利（社会-福利函数不可得）；专家也是政治博弈的参与者；'规划是政治的组成部分'",
+    "历史语境：1960年代美国目标设定运动（Goals for Americans、PPBS、社会指标）的失败；反专业运动；公平与多元主义挑战效率范式",
+    "影响：'wicked problems'概念成为设计学、公共政策、规划理论、信息系统领域标准工具；与Buchanan《Wicked Problems in Design Thinking》、Coyne《Wicked problems revisited》构成学术谱系",
+    "限度：十条属性有重叠、边界模糊（Coyne指出）；只诊断不处方（作者明言'没有可驱散wickedness的理论'）；经验证据轶事式；历史判断带1970年代美国特殊性",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L29：wicked/tame二分",
+    "L89-181：十条属性",
+    "L101：论证过程模型",
+    "L193-195：多元社会与公共福利不可得",
+    "L211：规划是政治的组成部分"
+  ]
+}

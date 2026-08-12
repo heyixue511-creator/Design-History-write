@@ -1,0 +1,36 @@
+{
+  "source_id": "B0109",
+  "corpus": "book",
+  "folder_name": "Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim",
+  "material_type": "设计虚构方法论论文（工具箱）",
+  "clean_source_path": "D:\\Design-history-知识库\\00-book_clean\\Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim.md",
+  "duplicate_group": "无精确哈希重复",
+  "files": [{"report_file_count": 6, "report_characters": 25470}],
+  "report_structure": {"review_basis": "overall_and_full_text_reports_plus_emergence_gap_audit"},
+  "candidate_sections": [
+    {"section_id": "15.2", "grade": "B", "verification": "V2", "role": "design_fiction_strategy"},
+    {"section_id": "15.2", "grade": "C", "verification": "V2", "role": "research_as_design_epistemology"},
+    {"section_id": "15.5", "grade": "C", "verification": "V2", "role": "collective_experiments_society"}
+  ],
+  "review_status": "semantic_review_complete",
+  "evidence_level": "V2",
+  "notes": [
+    "Simon Grand & Martin Wiedmer（瑞士西北应用科学大学 IDK 艺术与设计研究所），《Design Fiction: A Method Toolbox for Design Research in a Complex World》（约2010，会议/工作论文）",
+    "核心区分（Simon 1996）：设计研究不聚焦'世界之所是'（the world as it is）而聚焦'世界之所可能'（the world as it could be）——设计研究的使命在于想象和创造可能的未来世界",
+    "设计-科学同构性：科学研究本身是建构性、创造性、实验性、物质性的实践（Knorr Cetina、Rheinberger实验系统）——设计与科学的二元论框架是误导性的",
+    "设计虚构（Design Fiction）定义：设计研究新策略——系统性质疑和去建构自明之物、向新的可能未来超越、以人工物/界面/装置/表演的形式具体物质化可视化相关争议与视角；'asking how the world could be instead of discussing how the world is'；'在乌托邦与现实之间找到恰当焦点'",
+    "'作为设计的研究'（Research as Design）反向命题：设计者的认知方式（designerly way of knowing，Cross）是构建实验系统、参与集体争议的基础能力——设计从科学的'消费者'重新定位为'范式模型'",
+    "谱系：Frayling（1993研究类型学）、Bonsiepe（'修补'）、Bleecker（'叙事原型'diegetic prototypes，2009）、Dunne（批判性设计）",
+    "方法论工具箱：六项基本标准评估设计方法的科学相关性；将ANT（行动者网络理论）翻译四环节（problematization/interessement/enrolment/mobilization）与设计虚构方法论维度映射对比",
+    "集体实验论题：当代社会本质上是集体实验场（金融危机的实验性、科学与社会的边界模糊）——设计研究与设计实践应在其中发挥积极核心作用",
+    "价值：连接设计研究认识论与科学社会学的设计虚构方法建构",
+    "clean原文存在；未完成全篇、版次、数字和引注核验。"
+  ],
+  "original_spot_checks": [
+    "L13/L25：Simon'世界之所可能'区分",
+    "L57-61：设计虚构定义与谱系",
+    "L83-84：'Research as Design'",
+    "L91-96：六项标准与ANT映射",
+    "L33-34：集体实验场论题"
+  ]
+}
