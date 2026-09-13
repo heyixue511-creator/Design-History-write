@@ -2,7 +2,7 @@
 
 本文件适用于本仓库及其子目录。处理项目任务前完整读取 [Claude.md](Claude.md)，它是共享的项目规则与渐进式索引；文件名不代表限定模型。
 
-当前只定义 sources、processing、knowledge 三个阶段。按 Claude.md 的路由读取对应的 AGENT.md 和 SKILL.md，再按需读取字段规范和实际材料。
+当前定义 sources、processing、knowledge、frame 四个阶段。按 Claude.md 的路由读取对应的 AGENT.md 和 SKILL.md，再按需读取成果规范和实际材料。
 
 本目录中的 Agent 文档是可移植的角色与任务契约，不代表已安装或启动多个模型进程。可由同一模型依次承担角色；本次请求不要求部署专用多代理框架。
 
