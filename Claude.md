@@ -10,9 +10,9 @@
 
 | 阶段 | Agent 职责文件 | 阶段规则 |
 | --- | --- | --- |
-| sources：拆解的 MD 与原文身份 | [Sources Agent](AGENTS/sources/AGENT.md) | [sources Skill](AGENTS/sources/SKILL.md) |
-| processing：切段与语义分析 | [Processing Agent](AGENTS/processing/AGENT.md) | [processing Skill](AGENTS/processing/SKILL.md) |
-| knowledge：跨文献主谓宾知识单元 | [Knowledge Agent](AGENTS/knowledge/AGENT.md) | [knowledge Skill](AGENTS/knowledge/SKILL.md) |
+| sources：拆解的 MD 与原文身份 | [Sources Agent](AGENTS/00-sources/AGENT.md) | [sources Skill](AGENTS/00-sources/SKILL.md) |
+| processing：切段与语义分析 | [Processing Agent](AGENTS/01-processing/AGENT.md) | [processing Skill](AGENTS/01-processing/SKILL.md) |
+| knowledge：跨文献主谓宾知识单元 | [Knowledge Agent](AGENTS/02-knowledge/AGENT.md) | [knowledge Skill](AGENTS/02-knowledge/SKILL.md) |
 
 Agent 文件只定义责任、输入输出和移交；Skill 定义操作与验收。共同授权规则只在本文件维护，不在各阶段复制。
 三个 Agent 是阶段角色，不是三套独立知识库，也不意味着必须并行运行或必须申请新的模型。
@@ -51,7 +51,7 @@ sources 的内容辨识、processing 的切段与语义分析、knowledge 的提
 | knowledge | 既有知识涌现分析仅作线索，不默认已跨全库核验 | knowledge 下保存实体索引、主谓宾单元、跨文献关系与覆盖记录 |
 
 sources 与 processing 是阶段名称，分别对应现有 `01-基础文献/` 与 `02-文献解析/`，不另建根级 sources/、processing/ 数据目录，不重命名或搬迁现有资料。
-`AGENTS/sources/`、`AGENTS/processing/` 保存阶段规则，不存放原文和处理成果。knowledge 的存储约定维持现状，本次目录映射不扩展到该层。
+`AGENTS/00-sources/`、`AGENTS/01-processing/`、`AGENTS/02-knowledge/` 保存阶段规则，不存放原文和处理成果。编号只用于阶段目录排序，不改变 sources、processing、knowledge 的名称及数据目录映射。
 上述输出约定不表示已经建成数据集；规则维护不自动执行文献处理。
 沿用已有清单编号；先核验清单的实际路径和版本，不凭历史数量或文件名编造已确认清单。
 若找不到清单，可盘点可见 MD 建立明确标为“待对齐”的候选登记；不得称已覆盖用户全部参考文献。
