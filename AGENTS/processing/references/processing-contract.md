@@ -1,6 +1,6 @@
 # 处理记录契约
 
-数据任务按 processing/<ref_id>/ 保存 chunks.md、semantics.md 与 coverage.md；由模型阅读、判断后写入 Markdown，复用等价现行记录时保留这些语义。
+数据任务在 `02-文献解析/` 内保存 chunks.md、semantics.md 与 coverage.md。已有文献优先复用 book-reports、paper-reports 中经核验的对应子目录，并登记 ref_id 与实际目录的映射；尚无文献目录时，才在对应分类下按 ref_id 建立目录，不另建根级 processing 目录或同文献的平行目录。由模型阅读、判断后写入 Markdown，复用等价现行记录时保留这些语义。
 
 ## 段落记录
 chunk_id 为稳定记录 ID；ref_id 与 sources 对应。

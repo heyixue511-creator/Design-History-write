@@ -6,6 +6,7 @@ description: 对 sources 原文 MD 进行可追溯切段、实体辨识和语义
 # Processing 阶段规则
 
 实际切段或输出前读取 [处理契约](references/processing-contract.md)，遵循根 Claude.md 和同目录 AGENT.md。
+processing 对应 `02-文献解析/`，输入原文位于 `01-基础文献/`；不另建 processing 数据目录。
 
 ## 切段
 先按文献结构连续阅读，建立对象、术语、作者立场与论证上下文，再逐段确定边界；阅读可分批，不能跳过未命中关键词的正文。
